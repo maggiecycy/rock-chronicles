@@ -5,9 +5,11 @@ export const metadata = {
   title: "Genres",
 };
 
-export default function GenresPage() {
-  const genres = getAllGenres();
-  const links = getGenreLinks();
+export default async function GenresPage() {
+  const [genres, links] = await Promise.all([
+    getAllGenres(),
+    getGenreLinks(),
+  ]);
 
   return <GenresView genres={genres} links={links} />;
 }

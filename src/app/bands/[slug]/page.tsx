@@ -12,24 +12,28 @@ interface PageProps {
   params: Promise<{ slug: string }>;
 }
 
-export function generateStaticParams() {
-  return getAllBands().map((b) => ({ slug: b.slug }));
+export async function generateStaticParams() {
+  const bands = await getAllBands();
+  return bands.map((b) => ({ slug: b.slug }));
 }
 
 export async function generateMetadata({ params }: PageProps) {
   const { slug } = await params;
-  const band = getBand(slug);
+  const band = await getBand(slug);
   return { title: band?.name ?? "Band" };
 }
 
 export default async function BandPage({ params }: PageProps) {
   const { slug } = await params;
-  const band = getBand(slug);
+  const band = await getBand(slug);
   if (!band) notFound();
 
-  const genres = getAllGenres().filter((g) => band.genres.includes(g.slug));
-  const related = resolveBandNames(band.relatedBands);
-  const era = getEra(band.primaryEra);
+  const [allGenres, related, era] = await Promise.all([
+    getAllGenres(),
+    resolveBandNames(band.relatedBands),
+    getEra(band.primaryEra),
+  ]);
+  const genres = allGenres.filter((g) => band.genres.includes(g.slug));
 
   return (
     <main>

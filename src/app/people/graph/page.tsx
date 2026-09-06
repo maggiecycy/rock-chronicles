@@ -5,8 +5,10 @@ export const metadata = {
   title: "Shared members",
 };
 
-export default function PeopleGraphPage() {
-  const edges = getSharedMemberEdges();
-  const bands = getAllBands();
+export default async function PeopleGraphPage() {
+  const [edges, bands] = await Promise.all([
+    getSharedMemberEdges(),
+    getAllBands(),
+  ]);
   return <SharedMemberGraph edges={edges} bands={bands} />;
 }

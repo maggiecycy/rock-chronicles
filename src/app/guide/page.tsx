@@ -5,7 +5,7 @@ export const metadata = {
   title: "Guide",
 };
 
-export default function GuidePage() {
-  const articles = getAllGuides();
+export default async function GuidePage() {
+  const articles = await getAllGuides();
   return <GuideIndex articles={articles} />;
 }

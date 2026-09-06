@@ -5,7 +5,7 @@ export const metadata = {
   title: "Tropes",
 };
 
-export default function TropesPage() {
-  const tropes = getAllTropes();
+export default async function TropesPage() {
+  const tropes = await getAllTropes();
   return <TropesView tropes={tropes} />;
 }

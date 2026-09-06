@@ -13,13 +13,14 @@ interface PageProps {
   params: Promise<{ slug: string }>;
 }
 
-export function generateStaticParams() {
-  return getAllGuides().map((g) => ({ slug: g.slug }));
+export async function generateStaticParams() {
+  const guides = await getAllGuides();
+  return guides.map((g) => ({ slug: g.slug }));
 }
 
 export async function generateMetadata({ params }: PageProps) {
   const { slug } = await params;
-  const article = getGuide(slug);
+  const article = await getGuide(slug);
   const title =
     typeof article?.title === "string"
       ? article.title
@@ -29,15 +30,19 @@ export async function generateMetadata({ params }: PageProps) {
 
 export default async function GuideArticlePage({ params }: PageProps) {
   const { slug } = await params;
-  const article = getGuide(slug);
+  const article = await getGuide(slug);
   if (!article) notFound();
 
-  const bands = resolveBandNames(article.relatedBandSlugs ?? []);
-  const genreMap = new Map(getAllGenres().map((g) => [g.slug, g]));
+  const [bands, allGenres, allTropes] = await Promise.all([
+    resolveBandNames(article.relatedBandSlugs ?? []),
+    getAllGenres(),
+    getAllTropes(),
+  ]);
+  const genreMap = new Map(allGenres.map((g) => [g.slug, g]));
   const genres = (article.relatedGenreSlugs ?? [])
     .map((s) => genreMap.get(s))
     .filter((g): g is Genre => Boolean(g));
-  const tropeMap = new Map(getAllTropes().map((tr) => [tr.slug, tr]));
+  const tropeMap = new Map(allTropes.map((tr) => [tr.slug, tr]));
   const tropes = (article.relatedTropeSlugs ?? [])
     .map((s) => tropeMap.get(s))
     .filter((tr): tr is Trope => Boolean(tr));

@@ -5,7 +5,7 @@ export const metadata = {
   title: "People",
 };
 
-export default function PeoplePage() {
-  const people = getHubPeople();
+export default async function PeoplePage() {
+  const people = await getHubPeople();
   return <PeopleIndex people={people} />;
 }

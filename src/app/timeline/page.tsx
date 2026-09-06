@@ -1,4 +1,4 @@
-import { getAllEras, getBandsByEra, getDecisiveBands } from "@/lib/content";
+import { getAllEras, getAllBands, getDecisiveBands } from "@/lib/content";
 import { TimelineView } from "@/components/TimelineView";
 import type { Band } from "@/lib/types";
 
@@ -6,14 +6,15 @@ export const metadata = {
   title: "Timeline",
 };
 
-export default function TimelinePage() {
-  const eras = getAllEras();
-  const decisive = getDecisiveBands();
+export default async function TimelinePage() {
+  const [eras, decisive, allBands] = await Promise.all([
+    getAllEras(),
+    getDecisiveBands(),
+    getAllBands(),
+  ]);
   const bandsByEra: Record<string, Band[]> = {};
   for (const era of eras) {
-    bandsByEra[era.slug] = getBandsByEra(era.slug).filter(
-      (b) => b.primaryEra === era.slug,
-    );
+    bandsByEra[era.slug] = allBands.filter((b) => b.primaryEra === era.slug);
   }
 
   return (

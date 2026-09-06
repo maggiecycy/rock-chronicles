@@ -5,8 +5,8 @@ export const metadata = {
   title: "Lives",
 };
 
-export default function LivesPage() {
-  const lives = getAllLives();
-  const bandMap = Object.fromEntries(getAllBands().map((b) => [b.slug, b]));
+export default async function LivesPage() {
+  const [lives, bands] = await Promise.all([getAllLives(), getAllBands()]);
+  const bandMap = Object.fromEntries(bands.map((b) => [b.slug, b]));
   return <LivesView lives={lives} bandMap={bandMap} />;
 }

@@ -1,5 +1,4 @@
-import fs from "fs";
-import path from "path";
+import { useDatabase } from "@/lib/db";
 import type {
   Band,
   Era,
@@ -10,161 +9,136 @@ import type {
   Person,
   SharedMemberEdge,
   Trope,
-} from "./types";
+} from "@/lib/types";
+import { getAllBandsFromDb, getBandFromDb } from "@/lib/content-db/bands";
+import {
+  getAllBandsFromJson,
+  getAllErasFromJson,
+  getAllGenresFromJson,
+  getAllGuidesFromJson,
+  getAllLivesFromJson,
+  getAllPeopleFromJson,
+  getAllTropesFromJson,
+  getBandFromJson,
+  getEraFromJson,
+  getGenreFromJson,
+  getGenreLinksFromJson,
+  getGuideFromJson,
+  getHubPeopleFromJson,
+  getLiveFromJson,
+  getPeopleForBandFromJson,
+  getPersonFromJson,
+  getSharedMemberEdgesFromJson,
+  getTropeFromJson,
+} from "@/lib/content-json";
 
-const contentRoot = path.join(process.cwd(), "content");
-
-function readJsonDir<T>(dir: string): T[] {
-  const full = path.join(contentRoot, dir);
-  if (!fs.existsSync(full)) return [];
-  return fs
-    .readdirSync(full)
-    .filter((f) => f.endsWith(".json"))
-    .map((f) =>
-      JSON.parse(fs.readFileSync(path.join(full, f), "utf8")) as T,
-    );
+export async function getAllEras(): Promise<Era[]> {
+  return getAllErasFromJson();
 }
 
-export function getAllEras(): Era[] {
-  return readJsonDir<Era>("eras").sort((a, b) => a.order - b.order);
+export async function getEra(slug: string): Promise<Era | undefined> {
+  return getEraFromJson(slug);
 }
 
-export function getEra(slug: string): Era | undefined {
-  return getAllEras().find((e) => e.slug === slug);
+export async function getAllBands(): Promise<Band[]> {
+  if (useDatabase()) return getAllBandsFromDb();
+  return getAllBandsFromJson();
 }
 
-export function getAllBands(): Band[] {
-  return readJsonDir<Band>("bands").sort((a, b) => a.formed - b.formed);
+export async function getBand(slug: string): Promise<Band | undefined> {
+  if (useDatabase()) return getBandFromDb(slug);
+  return getBandFromJson(slug);
 }
 
-export function getBand(slug: string): Band | undefined {
-  return getAllBands().find((b) => b.slug === slug);
-}
-
-export function getBandsByEra(eraSlug: string): Band[] {
-  return getAllBands().filter(
+export async function getBandsByEra(eraSlug: string): Promise<Band[]> {
+  const bands = await getAllBands();
+  return bands.filter(
     (b) =>
       b.primaryEra === eraSlug || b.alsoAppearsIn?.includes(eraSlug),
   );
 }
 
-export function getAllGenres(): Genre[] {
-  return readJsonDir<Genre>("genres").sort((a, b) =>
-    a.name.localeCompare(b.name),
-  );
+export async function getAllGenres(): Promise<Genre[]> {
+  return getAllGenresFromJson();
 }
 
-export function getGenre(slug: string): Genre | undefined {
-  return getAllGenres().find((g) => g.slug === slug);
+export async function getGenre(slug: string): Promise<Genre | undefined> {
+  return getGenreFromJson(slug);
 }
 
-export function getGenreLinks(): GenreLink[] {
-  const file = path.join(contentRoot, "graph", "genre-links.json");
-  if (!fs.existsSync(file)) return [];
-  return JSON.parse(fs.readFileSync(file, "utf8")) as GenreLink[];
+export async function getGenreLinks(): Promise<GenreLink[]> {
+  return getGenreLinksFromJson();
 }
 
-export function getBandsByGenre(genreSlug: string): Band[] {
-  return getAllBands().filter((b) => b.genres.includes(genreSlug));
+export async function getBandsByGenre(genreSlug: string): Promise<Band[]> {
+  const bands = await getAllBands();
+  return bands.filter((b) => b.genres.includes(genreSlug));
 }
 
-export function resolveBandNames(slugs: string[]): Band[] {
-  const map = new Map(getAllBands().map((b) => [b.slug, b]));
+export async function resolveBandNames(slugs: string[]): Promise<Band[]> {
+  const bands = await getAllBands();
+  const map = new Map(bands.map((b) => [b.slug, b]));
   return slugs.map((s) => map.get(s)).filter(Boolean) as Band[];
 }
 
-export function getDecisiveBands(): Band[] {
-  return getAllBands()
+export async function getDecisiveBands(): Promise<Band[]> {
+  const bands = await getAllBands();
+  return bands
     .filter((b) => b.decisive)
     .sort((a, b) => a.formed - b.formed || a.name.localeCompare(b.name));
 }
 
-export function getAllPeople(): Person[] {
-  return readJsonDir<Person>("people").sort((a, b) =>
-    a.name.localeCompare(b.name),
-  );
+export async function getAllPeople(): Promise<Person[]> {
+  return getAllPeopleFromJson();
 }
 
-export function getPerson(slug: string): Person | undefined {
-  return getAllPeople().find((p) => p.slug === slug);
+export async function getPerson(slug: string): Promise<Person | undefined> {
+  return getPersonFromJson(slug);
 }
 
-export function getHubPeople(): Person[] {
-  return getAllPeople()
-    .filter((p) => p.hub)
-    .sort(
-      (a, b) =>
-        (a.born ?? 9999) - (b.born ?? 9999) || a.name.localeCompare(b.name),
-    );
+export async function getHubPeople(): Promise<Person[]> {
+  return getHubPeopleFromJson();
 }
 
-export function getPeopleForBand(bandSlug: string): Person[] {
-  return getAllPeople().filter((p) =>
-    p.tenures.some((t) => t.bandSlug === bandSlug),
-  );
+export async function getPeopleForBand(bandSlug: string): Promise<Person[]> {
+  return getPeopleForBandFromJson(bandSlug);
 }
 
-export function getAllGuides(): GuideArticle[] {
-  return readJsonDir<GuideArticle>("guide").sort((a, b) => a.order - b.order);
+export async function getAllGuides(): Promise<GuideArticle[]> {
+  return getAllGuidesFromJson();
 }
 
-export function getGuide(slug: string): GuideArticle | undefined {
-  return getAllGuides().find((g) => g.slug === slug);
+export async function getGuide(
+  slug: string,
+): Promise<GuideArticle | undefined> {
+  return getGuideFromJson(slug);
 }
 
-export function getAllTropes(): Trope[] {
-  return readJsonDir<Trope>("tropes").sort((a, b) =>
-    (typeof a.title === "string" ? a.title : a.title.en).localeCompare(
-      typeof b.title === "string" ? b.title : b.title.en,
-    ),
-  );
+export async function getAllTropes(): Promise<Trope[]> {
+  return getAllTropesFromJson();
 }
 
-export function getTrope(slug: string): Trope | undefined {
-  return getAllTropes().find((t) => t.slug === slug);
+export async function getTrope(slug: string): Promise<Trope | undefined> {
+  return getTropeFromJson(slug);
 }
 
-export function getAllLives(): LiveEvent[] {
-  return readJsonDir<LiveEvent>("lives").sort((a, b) => a.year - b.year);
+export async function getAllLives(): Promise<LiveEvent[]> {
+  return getAllLivesFromJson();
 }
 
-export function getLive(slug: string): LiveEvent | undefined {
-  return getAllLives().find((l) => l.slug === slug);
+export async function getLive(slug: string): Promise<LiveEvent | undefined> {
+  return getLiveFromJson(slug);
 }
 
-export function getBandsWithLandmarks(): Band[] {
-  return getAllBands().filter((b) => b.landmark);
+export async function getBandsWithLandmarks(): Promise<Band[]> {
+  const bands = await getAllBands();
+  return bands.filter((b) => b.landmark);
 }
 
-/** Undirected shared-member edges between bands that exist in the chronicle. */
-export function getSharedMemberEdges(): SharedMemberEdge[] {
-  const bandSet = new Set(getAllBands().map((b) => b.slug));
-  const edges: SharedMemberEdge[] = [];
-  const seen = new Set<string>();
-
-  for (const person of getAllPeople()) {
-    const bandSlugs = [
-      ...new Set(
-        person.tenures
-          .map((t) => t.bandSlug)
-          .filter((s): s is string => Boolean(s) && bandSet.has(s!)),
-      ),
-    ];
-    for (let i = 0; i < bandSlugs.length; i++) {
-      for (let j = i + 1; j < bandSlugs.length; j++) {
-        const a = bandSlugs[i];
-        const b = bandSlugs[j];
-        const key = [a, b].sort().join("|") + "|" + person.slug;
-        if (seen.has(key)) continue;
-        seen.add(key);
-        edges.push({
-          personSlug: person.slug,
-          personName: person.name,
-          bandA: a,
-          bandB: b,
-        });
-      }
-    }
-  }
-  return edges;
+export async function getSharedMemberEdges(): Promise<SharedMemberEdge[]> {
+  const [bands, people] = await Promise.all([
+    getAllBands(),
+    getAllPeople(),
+  ]);
+  return getSharedMemberEdgesFromJson(bands, people);
 }

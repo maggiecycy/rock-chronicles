@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { isDatabaseConfigured, prisma } from "@/lib/db";
+import { isDatabaseConfigured, prisma, useDatabase } from "@/lib/db";
 
 export const runtime = "nodejs";
 
@@ -30,6 +30,7 @@ export async function GET() {
     return NextResponse.json({
       ok: true,
       source: "prisma",
+      useDatabase: useDatabase(),
       bandCount: total,
       sample: bands,
     });
