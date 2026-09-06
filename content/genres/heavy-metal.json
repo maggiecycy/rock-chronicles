@@ -1,0 +1,18 @@
+{
+  "name": "Heavy Metal",
+  "slug": "heavy-metal",
+  "summary": {
+    "en": "Denser riffs, harder impact, subcultural identity.",
+    "zh": "更密的 riff、更强的冲击与亚文化身份。"
+  },
+  "eraFocus": "1980s Punk & Metal",
+  "representativeBands": [],
+  "body": {
+    "en": "Metal splits from Hard Rock into its own aesthetic and community. Technique, force, and darker themes run in parallel as it enters mainstream view in the eighties.",
+    "zh": "Metal 从 Hard Rock 中裂变，发展出独立的美学与社群。技巧、力度与主题黑暗化并行，并在 80 年代进入主流视野。"
+  },
+  "pioneerBands": [
+    "black-sabbath",
+    "metallica"
+  ]
+}

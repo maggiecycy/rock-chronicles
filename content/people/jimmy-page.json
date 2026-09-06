@@ -1,0 +1,47 @@
+{
+  "name": "Jimmy Page",
+  "slug": "jimmy-page",
+  "born": 1944,
+  "origin": "Heston, England",
+  "roles": [
+    "Guitar",
+    "Producer"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Session wizard turned architect of Led Zeppelin's guitar mythology.",
+    "zh": "录音室鬼才，Led Zeppelin 吉他神话的架构者。"
+  },
+  "whyHub": {
+    "en": "Yardbirds unfinished business → Led Zeppelin weather system.",
+    "zh": "Yardbirds 没做完的事 → Led Zeppelin 天气系统。"
+  },
+  "body": {
+    "en": "Page is a hub because his career shows how rock personnel flow: studio player → Yardbirds → a new band that redefines Hard Rock. Follow his tenures to see why lineup 'versions' matter more than endless churn logs.",
+    "zh": "Page 是枢纽，因为他的履历展示摇滚人事流动：录音室乐手 → Yardbirds → 一支重写 Hard Rock 的新乐队。跟着 tenure 看，就会明白为何阵容「版本」比流水账换人更重要。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Yardbirds",
+      "bandSlug": "the-yardbirds",
+      "role": "Guitar",
+      "from": 1966,
+      "to": 1968,
+      "note": {
+        "en": "Beck's exit, Page inherits the lab.",
+        "zh": "Beck 离开，Page 接手实验室。"
+      }
+    },
+    {
+      "bandName": "Led Zeppelin",
+      "bandSlug": "led-zeppelin",
+      "role": "Guitar",
+      "from": 1968,
+      "to": 1980
+    }
+  ],
+  "relatedPeople": [
+    "john-paul-jones",
+    "robert-plant"
+  ]
+}

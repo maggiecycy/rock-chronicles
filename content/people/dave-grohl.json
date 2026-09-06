@@ -1,0 +1,59 @@
+{
+  "name": "Dave Grohl",
+  "slug": "dave-grohl",
+  "born": 1969,
+  "origin": "Warren, Ohio, USA",
+  "roles": [
+    "Drums",
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "The drummer who walked out of Nirvana's silence and rebuilt as a chorus machine—then kept crashing into other rooms.",
+    "zh": "从 Nirvana 的沉默里走出来的鼓手，重建成副歌机器——还不断撞进别的房间。"
+  },
+  "whyHub": {
+    "en": "Connects Nirvana → Foo Fighters → Them Crooked Vultures: role change as plot twist.",
+    "zh": "串起 Nirvana → Foo Fighters → Them Crooked Vultures：角色转换即剧情反转。"
+  },
+  "body": {
+    "en": "Grohl is the chronicle's favorite proof that people outlive logos. Behind the kit he helps lock Nirvana's peak trio; out front he turns grief and surplus energy into Foo Fighters choruses; with Homme and Jones he moonlights in Them Crooked Vultures like Hard Rock karaoke for gods.\n\nFollow the tenures: the graph edges write themselves.",
+    "zh": "Grohl 是编年史最爱的证据：人比 logo 活得长。鼓手位上他锁住 Nirvana 巅峰三人组；台前他把悲伤与过剩能量写成 Foo Fighters 副歌；与 Homme、Jones 一起在 Them Crooked Vultures 里，像诸神的 Hard Rock 卡拉 OK。\n\n跟着 tenure 走：图上的边会自己长出来。"
+  },
+  "tenures": [
+    {
+      "bandName": "Nirvana",
+      "bandSlug": "nirvana",
+      "role": "Drums",
+      "from": 1990,
+      "to": 1994,
+      "note": {
+        "en": "Peak trio thunder.",
+        "zh": "巅峰三人组雷霆。"
+      }
+    },
+    {
+      "bandName": "Foo Fighters",
+      "bandSlug": "foo-fighters",
+      "role": "Vocals, Guitar",
+      "from": 1994,
+      "to": "present"
+    },
+    {
+      "bandName": "Them Crooked Vultures",
+      "bandSlug": "them-crooked-vultures",
+      "role": "Drums",
+      "from": 2009,
+      "to": 2010,
+      "note": {
+        "en": "Supergroup moonlighting.",
+        "zh": "超级组合客串。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "kurt-cobain",
+    "john-paul-jones"
+  ]
+}

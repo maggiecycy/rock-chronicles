@@ -1,0 +1,43 @@
+{
+  "name": "Josh Homme",
+  "slug": "josh-homme",
+  "born": 1973,
+  "origin": "Joshua Tree, USA",
+  "roles": [
+    "Guitar",
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "QOTSA riff architect who pulls Grohl and Jones into Them Crooked Vultures.",
+    "zh": "QOTSA 的 riff 建筑师，把 Grohl 与 Jones 拉进 Them Crooked Vultures。"
+  },
+  "whyHub": {
+    "en": "QOTSA → Them Crooked Vultures: modern Hard Rock cross-pollination hub.",
+    "zh": "QOTSA → Them Crooked Vultures：当代 Hard Rock 串粉枢纽。"
+  },
+  "body": {
+    "en": "Homme builds Queens of the Stone Age like a machine shop for riffs, then invites friends over. Them Crooked Vultures is the dinner party that becomes a band—and on our graph it ties Foo Fighters, Zeppelin bloodline, and desert rock into one knot.",
+    "zh": "Homme 把 QOTSA 建成 riff 机修厂，再请客进来。Them Crooked Vultures 是变成乐队的晚宴——在我们图上，它把 Foo Fighters、Zeppelin 血脉与沙漠摇滚打成一个结。"
+  },
+  "tenures": [
+    {
+      "bandName": "Queens of the Stone Age",
+      "bandSlug": "queens-of-the-stone-age",
+      "role": "Guitar, Vocals",
+      "from": 1996,
+      "to": "present"
+    },
+    {
+      "bandName": "Them Crooked Vultures",
+      "bandSlug": "them-crooked-vultures",
+      "role": "Guitar, Vocals",
+      "from": 2009,
+      "to": 2010
+    }
+  ],
+  "relatedPeople": [
+    "dave-grohl",
+    "john-paul-jones"
+  ]
+}

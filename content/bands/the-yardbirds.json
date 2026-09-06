@@ -1,0 +1,29 @@
+{
+  "name": "The Yardbirds",
+  "slug": "the-yardbirds",
+  "formed": 1963,
+  "origin": "London, UK",
+  "primaryEra": "1960s-british-invasion",
+  "genres": [
+    "rock-n-roll",
+    "blues"
+  ],
+  "decisive": false,
+  "members": [],
+  "essentialTracks": [],
+  "lyricQuotes": [],
+  "relatedBands": [
+    "led-zeppelin",
+    "the-rolling-stones"
+  ],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "British blues lab that minted Clapton, Beck, and Page—then spilled into Cream and Zeppelin.",
+    "zh": "英伦 Blues 实验室，造出 Clapton、Beck、Page——再溢进 Cream 与 Zeppelin。"
+  },
+  "body": {
+    "en": "British blues lab that minted Clapton, Beck, and Page—then spilled into Cream and Zeppelin. Bridge page for the shared-member graph—not a full decisive narrative yet.",
+    "zh": "英伦 Blues 实验室，造出 Clapton、Beck、Page——再溢进 Cream 与 Zeppelin。 共享成员图的桥梁页——尚未展开决定性长叙事。"
+  }
+}

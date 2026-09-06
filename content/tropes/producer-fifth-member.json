@@ -1,0 +1,34 @@
+{
+  "slug": "producer-fifth-member",
+  "title": {
+    "en": "Producer as the fifth member",
+    "zh": "制作人：第五位成员"
+  },
+  "summary": {
+    "en": "The person not on the album cover who still decides how the room breathes.",
+    "zh": "不在封面合影里，却决定房间怎么呼吸的那个人。"
+  },
+  "body": {
+    "en": "George Martin with The Beatles is the sainted version of this trope: arrangements that make four players sound like a small orchestra having ideas. Elsewhere the producer becomes the villain in \"they sanded off our edges\" folklore.\n\nEither way, drop the fantasy of four pure souls alone with truth. Records are built. Someone is choosing the snare that punches your sternum. Credit them or curse them—just don't pretend the dials were holy ghosts.",
+    "zh": "George Martin 与 Beatles 是这梗的圣徒版：编曲让四个人听起来像一支有想法的小乐团。别处制作人会变成「他们把棱角打磨没了」传说里的反派。\n\n不管怎样，放下「四个纯净灵魂独自面对真理」的幻想吧。唱片是建出来的。有人在选那颗敲你胸骨的军鼓。赞美或咒骂都行——别假装那些旋钮是圣灵转的。"
+  },
+  "tone": "half-true",
+  "examples": [
+    {
+      "bandSlug": "the-beatles",
+      "label": "The Beatles",
+      "note": {
+        "en": "Martin as architecture.",
+        "zh": "Martin 像建筑本身。"
+      }
+    },
+    {
+      "bandSlug": "radiohead",
+      "label": "Radiohead",
+      "note": {
+        "en": "Godrich era: the room gets stranger on purpose.",
+        "zh": "Godrich 年代：房间故意越来越怪。"
+      }
+    }
+  ]
+}

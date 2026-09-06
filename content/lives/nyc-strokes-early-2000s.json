@@ -1,0 +1,37 @@
+{
+  "slug": "nyc-strokes-early-2000s",
+  "title": {
+    "en": "The Strokes' early NYC rooms",
+    "zh": "The Strokes 的早期纽约小场"
+  },
+  "year": 2001,
+  "venue": {
+    "en": "New York City clubs (Mercury Lounge lore & peers)",
+    "zh": "纽约俱乐部（Mercury Lounge 传说与同辈场景）"
+  },
+  "summary": {
+    "en": "Not one stadium night—a club circuit that makes indie look dangerous before the billboards arrive.",
+    "zh": "不是某一座体育馆——而是俱乐部回路，在广告牌到来前让 indie 看起来危险。"
+  },
+  "whyEpic": {
+    "en": "Epic here means hinge, not headcount. Mercury Lounge lore and downtown rooms turn Is This It into a city rumor that escapes into global jeans. Last Nite is a door; the rooms behind it reset cool.",
+    "zh": "这里的史诗指枢纽，不是人数。Mercury Lounge 传说与市中心小场，让 Is This It 变成逃进全球牛仔裤的城市谣言。Last Nite 是门；门后的房间重置了酷。"
+  },
+  "bandSlugs": [
+    "the-strokes"
+  ],
+  "keyTracks": [
+    {
+      "title": "Last Nite",
+      "bandSlug": "the-strokes"
+    },
+    {
+      "title": "Someday",
+      "bandSlug": "the-strokes"
+    }
+  ],
+  "rightsNote": {
+    "en": "Prefer official audio over bootlegs. No unauthorized full uploads here.",
+    "zh": "优先官方音频，而非盗版。此处不上传未授权整场。"
+  }
+}

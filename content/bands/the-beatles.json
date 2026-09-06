@@ -1,0 +1,283 @@
+{
+  "name": "The Beatles",
+  "slug": "the-beatles",
+  "formed": 1960,
+  "origin": "Liverpool, UK",
+  "primaryEra": "1960s-british-invasion",
+  "genres": [
+    "rock-n-roll",
+    "psychedelic"
+  ],
+  "decisive": true,
+  "whyMatters": {
+    "en": "They max out the pop single and the studio experiment in the same decade—every band that wants to evolve still moves on their coordinates.",
+    "zh": "他们在同一十年里把流行单曲和录音室实验都推到极限——之后每支想进化的乐队，都还在他们画的坐标上挪。"
+  },
+  "members": [
+    {
+      "name": "John Lennon",
+      "role": "Vocals, Guitar",
+      "years": "1962–1970"
+    },
+    {
+      "name": "Paul McCartney",
+      "role": "Vocals, Bass",
+      "years": "1962–1970"
+    },
+    {
+      "name": "George Harrison",
+      "role": "Guitar, Vocals",
+      "years": "1962–1970"
+    },
+    {
+      "name": "Ringo Starr",
+      "role": "Drums, Vocals",
+      "years": "1962–1970"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "I Want to Hold Your Hand",
+      "year": 1963,
+      "note": {
+        "en": "Invasion",
+        "zh": "Invasion 爆点"
+      }
+    },
+    {
+      "title": "A Day in the Life",
+      "year": 1967,
+      "note": "录音室作为乐器"
+    },
+    {
+      "title": "While My Guitar Gently Weeps",
+      "year": 1968
+    }
+  ],
+  "scenes": [
+    {
+      "year": 1963,
+      "track": "I Want to Hold Your Hand",
+      "membersOnStage": [
+        "John Lennon",
+        "Paul McCartney",
+        "George Harrison",
+        "Ringo Starr"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "British Invasion",
+        "zh": "British Invasion 的全球开关"
+      }
+    },
+    {
+      "year": 1967,
+      "track": "A Day in the Life",
+      "membersOnStage": [
+        "John Lennon",
+        "Paul McCartney",
+        "George Harrison",
+        "Ringo Starr"
+      ],
+      "genreTags": [
+        "psychedelic",
+        "rock-n-roll"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "管弦高潮：流行与前卫的合流"
+      }
+    },
+    {
+      "year": 1968,
+      "track": "While My Guitar Gently Weeps",
+      "membersOnStage": [
+        "John Lennon",
+        "Paul McCartney",
+        "George Harrison",
+        "Ringo Starr"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Harrison",
+        "zh": "Harrison 作曲权上升的标志场景"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We're more popular than Jesus now.",
+      "speaker": "John Lennon",
+      "source": "Evening Standard interview excerpt",
+      "year": 1966
+    },
+    {
+      "text": "We didn't invent anything. We just took what was there and made it our own.",
+      "speaker": "Paul McCartney",
+      "source": "Documentary interview excerpt · Whisper-ready",
+      "year": 1995
+    }
+  ],
+  "lyricQuotes": [
+    "Living is easy with eyes closed",
+    "And in the end, the love you take is equal to the love you make"
+  ],
+  "relatedBands": [
+    "the-rolling-stones",
+    "pink-floyd"
+  ],
+  "influenceFrom": [],
+  "influenced": [
+    "radiohead",
+    "arctic-monkeys"
+  ],
+  "shortBio": {
+    "en": "The band that maxes out pop singles and studio experiment together.",
+    "zh": "把流行单曲工业与录音室实验同时推到极限的乐队。"
+  },
+  "body": {
+    "en": "The Beatles are the most dangerous everyone-knows-them entry: familiarity hides how often they obsolete themselves. From Cavern R&B to Abbey Road collage, they show rock as mass culture and avant-garde lab at once.\n\nInvasion, psychedelia, the White Album—each phase resets what a band is allowed to attempt.",
+    "zh": "The Beatles 是最危险的「人人都知道」条目：太熟，反而容易忘他们多常自我作废。从 Cavern 的节奏蓝调到 Abbey Road 的拼贴，他们证明摇滚可以同时是大众文化与前卫实验室。\n\n入侵、迷幻、白皮书——每一阶段都重置「乐队能做什么」。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "The default settings keep getting rewritten",
+        "zh": "默认设置被反复改写"
+      },
+      "body": {
+        "en": "Their decisiveness is not being first. It is compressing writing, recording, image, and global release into one pipeline—then repeatedly breaking that pipeline on purpose.\n\nEach era resets the default of what a band can do. Later groups inherit both the machine and the permission to smash it.",
+        "zh": "他们的决定性不在「第一支」。而在把写作、录音、形象与全球发行压成一条流水线——又不断故意拆掉流水线。\n\n每个阶段都重置乐队能力的默认值。后来者继承机器，也继承砸机器的许可。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Four names that became a calendar",
+        "zh": "四个名字变成一本日历"
+      },
+      "body": {
+        "en": "John, Paul, George, Ringo—the cast is so fixed it becomes folklore. The drama is not revolving doors; it is four people aging inside one brand until the brand cannot hold.\n\nThat closed circle is why the story still reads like a novel with a last page.",
+        "zh": "John、Paul、George、Ringo——卡司固定到近乎民间传说。戏不在换人，而在四个人在同一品牌里变老，直到品牌装不下。\n\n封闭的圆，让故事仍像一本有最后一页的小说。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "hand",
+      "title": {
+        "en": "I Want to Hold Your Hand: the invasion switch",
+        "zh": "I Want to Hold Your Hand：入侵开关"
+      },
+      "body": {
+        "en": "1963–64. A hook so clean it feels engineered, yet it hits like weather. American TV, airport screams, haircuts as news—one band bites into the Anglo-American media system and does not let go.\n\nThis is youth culture learning it can be global before the word globalization is common.",
+        "zh": "1963–64。钩子干净得像工程，打下来却像天气。美国电视、机场尖叫、发型当新闻——一支乐队咬住英美媒介系统，不松口。\n\n青年文化在「全球化」一词普及前，就学会了可以全球。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "studio",
+      "title": {
+        "en": "The studio becomes the instrument",
+        "zh": "录音室变成乐器"
+      },
+      "body": {
+        "en": "By A Day in the Life, stage logic yields to tape, orchestra, and splice. Psychedelia is not wallpaper; it is a work method.\n\nRock can now be studio art, not only amplifier violence. That permission outlives the paisley shirts.",
+        "zh": "到 A Day in the Life，舞台逻辑让位给磁带、乐队编制与拼接。迷幻不是墙纸，是工作方法。\n\n摇滚从此可以是工作室艺术，不只是扩音器暴力。这许可比佩斯利衬衫活得久。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "psychedelic"
+    },
+    {
+      "id": "dna",
+      "title": {
+        "en": "Coordinates, not a finish line",
+        "zh": "是坐标，不是终点"
+      },
+      "body": {
+        "en": "Britpop looks back; Radiohead inherits the anxiety of evolution; indie kids still argue about which album is the real one. Beatles are the grid those arguments are drawn on.\n\nRock 'n' Roll and Psychedelic both crack open under their feet—then keep branching.",
+        "zh": "Britpop 回望；Radiohead 继承进化焦虑；Indie 小孩还在吵哪张才是真的。Beatles 是这些争论画在上面的网格。\n\nRock 'n' Roll 与 Psychedelic 都从他们脚下裂开——然后继续分叉。"
+      },
+      "stickyVisual": "dna",
+      "soundGenre": "psychedelic"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Myths told in their own voices",
+        "zh": "用他们自己的声音讲神话"
+      },
+      "body": {
+        "en": "Interview lines often expose the era harder than the lyrics—ego, wit, fatigue, the joke that becomes doctrine.\n\nShort cites on the wall; the full footage stays where rights live. The chronicle indexes the voltage.",
+        "zh": "访谈句子常常比歌词更硬地暴露时代——自我、机锋、疲惫、变成教义的玩笑。\n\n墙上只钉短句；完整影像留在版权所在处。编年史负责索引电压。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 1,
+      "soundGenre": "rock-n-roll"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "classic-four",
+      "label": {
+        "en": "Classic four",
+        "zh": "经典四人"
+      },
+      "years": "1962–1970",
+      "peak": true,
+      "members": [
+        {
+          "name": "John Lennon",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Paul McCartney",
+          "role": "Vocals, Bass"
+        },
+        {
+          "name": "George Harrison",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "Ringo Starr",
+          "role": "Drums, Vocals"
+        }
+      ],
+      "note": {
+        "en": "The default Invasion lineup the world freezes in memory.",
+        "zh": "世界记忆里冻结的入侵默认阵容。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "I Want to Hold Your Hand",
+      "year": 1963,
+      "note": {
+        "en": "Invasion ignition; later albums rewrite what a 'band' can be.",
+        "zh": "Invasion 引爆；其后专辑重写「乐队」能做什么。"
+      }
+    },
+    "pioneeredGenres": [
+      "rock-n-roll",
+      "psychedelic"
+    ],
+    "note": {
+      "en": "Studio-as-instrument + album-as-unit become default rock ambitions.",
+      "zh": "录音室当乐器、专辑当单元，成为摇滚默认野心。"
+    }
+  }
+}

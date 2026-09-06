@@ -1,0 +1,17 @@
+{
+  "name": "Britpop",
+  "slug": "britpop",
+  "summary": {
+    "en": "British guitar bands reclaiming local pop tradition.",
+    "zh": "英国吉他乐队对本土流行传统的再宣称。"
+  },
+  "eraFocus": "1990s Grunge & Britpop",
+  "representativeBands": [],
+  "body": {
+    "en": "Britpop answers Grunge's gloom with bright melody and British identity. It looks back to Beatles/Kinks lineages and returns nineties UK rock to the public square.",
+    "zh": "Britpop 以明快旋律与英国身份回应 Grunge 的阴郁。它回望 Beatles / Kinks 谱系，也把 90 年代英国摇滚重新推入大众视野。"
+  },
+  "pioneerBands": [
+    "oasis"
+  ]
+}

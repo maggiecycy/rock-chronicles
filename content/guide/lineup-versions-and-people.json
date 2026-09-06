@@ -1,0 +1,27 @@
+{
+  "slug": "lineup-versions-and-people",
+  "order": 4,
+  "title": {
+    "en": "Same logo, different humans",
+    "zh": "同一个 logo，里面不是同一批人"
+  },
+  "summary": {
+    "en": "The \"classic lineup\" is a peak window with a good photographer. The real plot is people walking between names.",
+    "zh": "「经典阵容」往往是一段巅峰窗口，刚好碰上好摄影师。真正的剧情，是人在不同名字之间走动。"
+  },
+  "body": {
+    "en": "Open a Led Zeppelin shirt in your head: four faces, one era, settled. History is messier. Jimmy Page arrives carrying Yardbirds unfinished business. John Paul Jones can make a song feel like a building has basements you didn't know about. Robert Plant learns how to sail a scream across a stadium. John Bonham hits the drums like weather systems.\n\nThat particular weather has a season. Later versions of any band—new singers, touring substitutes, awkward reunions—are still \"the band\" on the poster, but your ears know when the chemistry changed brands.\n\nWe name lineup versions on purpose: not every drummer swap, just the casts that unlock an album cycle. Think of them as seasons of a show. Season one invents the joke. Season three milks it. The reunion special remembers the joke louder.\n\nThen follow the people. Ozzy leaves Sabbath and the myth splits into two weather systems. Dave Grohl walks out of Nirvana's wreckage and builds Foo Fighters like a second life with better coffee. Noel and Liam turn brotherhood into a public sport.\n\nIf two bands feel weirdly related, check the shared-member graph. Rock genealogy is often literally genealogy—just with worse sleep schedules.",
+    "zh": "脑海里展开一件 Led Zeppelin 的衣服：四张脸，一个年代，尘埃落定。真历史更乱。Jimmy Page 进来时，还背着 Yardbirds 没做完的事。John Paul Jones 能让一首歌听起来像栋楼还有你不知道的地下室。Robert Plant 学会把一声嚎横过整个体育馆。John Bonham 打鼓像在调度天气。\n\n那种天气有季节。后来换主唱、找代打、别扭重聚——海报上仍是「那支乐队」，但耳朵知道化学式已经换牌子了。\n\n我们故意给阵容版本起名字：不是每次换鼓手都记，只记能打开一轮专辑的卡司。把它们当剧集季数。第一季发明那个梗；第三季把它挤干；重聚特别篇把梗喊得更大声。\n\n然后跟人走。Ozzy 离开 Sabbath，神话裂成两套天气。Dave Grohl 从 Nirvana 的残骸里走出，把 Foo Fighters 过成第二种人生（咖啡更好）。Noel 和 Liam 把兄弟关系变成公开运动项目。\n\n两支乐队听起来邪门地像亲戚，就去看共享成员图。摇滚家谱常常就是真家谱——只是睡眠更差。"
+  },
+  "relatedBandSlugs": [
+    "led-zeppelin",
+    "oasis",
+    "nirvana",
+    "black-sabbath"
+  ],
+  "relatedTropeSlugs": [
+    "classic-lineup",
+    "singer-leaves",
+    "side-project-main"
+  ]
+}

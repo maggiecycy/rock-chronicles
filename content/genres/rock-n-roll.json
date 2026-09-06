@@ -1,0 +1,19 @@
+{
+  "name": "Rock 'n' Roll",
+  "slug": "rock-n-roll",
+  "summary": {
+    "en": "The 1950s blast point: rhythm, youth, and amplifiers meet.",
+    "zh": "1950s 的爆炸点：节奏、青春与扩音器的相遇。"
+  },
+  "eraFocus": "1950s Roots",
+  "representativeBands": [],
+  "body": {
+    "en": "Rock 'n' Roll compresses Blues, Country, and R&B into three-minute shockwaves. It defines the band as a youth-culture vehicle and gives the British Invasion a vocabulary to reinvent.",
+    "zh": "Rock 'n' Roll 把 Blues、Country 与 R&B 压缩成三分钟的冲击波。它定义了「乐队作为青年文化载体」的模板，也为 British Invasion 提供了可重新发明的语汇。"
+  },
+  "pioneerBands": [
+    "chuck-berry",
+    "elvis-presley",
+    "the-beatles"
+  ]
+}

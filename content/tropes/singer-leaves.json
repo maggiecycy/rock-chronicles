@@ -1,0 +1,34 @@
+{
+  "slug": "singer-leaves",
+  "title": {
+    "en": "When the singer walks",
+    "zh": "主唱走人的时候"
+  },
+  "summary": {
+    "en": "Is the band the songs, the logo, or the throat? Every exit is a different answer.",
+    "zh": "乐队是歌、是 logo，还是那条嗓子？每次离开，答案都不一样。"
+  },
+  "body": {
+    "en": "A singer leaves and the room splits into theologians. One camp says the songs are the band. Another says without that voice you're a cover group with better lighting. A third buys tickets anyway because Friday needs noise.\n\nSabbath without Ozzy becomes another mythology with Dio's operatic thunder. Some bands reboot and survive. Some become tribute acts to their own youth. Follow the Person page—often the \"band story\" was a vocalist's story wearing a group jacket.",
+    "zh": "主唱一走，房间里会分裂成几派神学家。一派说歌才是乐队。一派说没那把嗓子你就是灯光更好的致敬团。第三派照样买票，因为周五需要噪音。\n\n没有 Ozzy 的 Sabbath，在 Dio 歌剧式的雷里长成另一套神话。有的乐队换人还能活；有的变成自己青春的致敬团。跟人走——很多「乐队故事」，其实是主唱的故事，套了件团体夹克。"
+  },
+  "tone": "lore",
+  "examples": [
+    {
+      "bandSlug": "black-sabbath",
+      "label": "Black Sabbath",
+      "note": {
+        "en": "Ozzy exits; another thunder learns the songs.",
+        "zh": "Ozzy 离开；另一道雷学会那些歌。"
+      }
+    },
+    {
+      "personSlug": "ozzy-osbourne",
+      "label": "Ozzy Osbourne",
+      "note": {
+        "en": "The voice that kept its own weather.",
+        "zh": "把天气带走的那把嗓。"
+      }
+    }
+  ]
+}

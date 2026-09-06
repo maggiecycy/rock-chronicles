@@ -1,0 +1,35 @@
+{
+  "name": "Kurt Cobain",
+  "slug": "kurt-cobain",
+  "born": 1967,
+  "origin": "Aberdeen, Washington, USA",
+  "roles": [
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Nirvana's center of gravity—and the uneasy face of alternative going mainstream.",
+    "zh": "Nirvana 的重心——以及另类变主流时的不安面孔。"
+  },
+  "whyHub": {
+    "en": "Not a multi-band hopper, but the person-node that makes the Grohl-era lineup version mean something.",
+    "zh": "不是多队跳槽者，但是让 Grohl 时期阵容版本「意味深长」的人物节点。"
+  },
+  "body": {
+    "en": "Some hubs are bridges; Cobain is a fixed star. Pair this page with Grohl to read Nirvana as people + version, not only a brand name.",
+    "zh": "有的枢纽是桥；Cobain 是恒星。把此页与 Grohl 对照，才能把 Nirvana 读成「人 + 版本」，而不只是品牌名。"
+  },
+  "tenures": [
+    {
+      "bandName": "Nirvana",
+      "bandSlug": "nirvana",
+      "role": "Vocals, Guitar",
+      "from": 1987,
+      "to": 1994
+    }
+  ],
+  "relatedPeople": [
+    "dave-grohl"
+  ]
+}

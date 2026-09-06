@@ -1,0 +1,28 @@
+{
+  "name": "Foo Fighters",
+  "slug": "foo-fighters",
+  "formed": 1994,
+  "origin": "Seattle, USA",
+  "primaryEra": "1990s-grunge-britpop",
+  "genres": [
+    "alternative",
+    "hard-rock"
+  ],
+  "decisive": false,
+  "members": [],
+  "essentialTracks": [],
+  "lyricQuotes": [],
+  "relatedBands": [
+    "nirvana"
+  ],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Grohl rebuilds after Nirvana—drums become choruses; the person keeps the plot moving.",
+    "zh": "Grohl 在 Nirvana 之后重建——鼓变成副歌；人把剧情往前推。"
+  },
+  "body": {
+    "en": "Grohl rebuilds after Nirvana—drums become choruses; the person keeps the plot moving. Bridge page for the shared-member graph—not a full decisive narrative yet.",
+    "zh": "Grohl 在 Nirvana 之后重建——鼓变成副歌；人把剧情往前推。 共享成员图的桥梁页——尚未展开决定性长叙事。"
+  }
+}

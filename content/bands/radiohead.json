@@ -1,0 +1,302 @@
+{
+  "name": "Radiohead",
+  "slug": "radiohead",
+  "formed": 1985,
+  "origin": "Abingdon, UK",
+  "primaryEra": "1990s-grunge-britpop",
+  "alsoAppearsIn": [
+    "2000s-revival",
+    "2010s-indie-modern"
+  ],
+  "genres": [
+    "alternative",
+    "indie-rock",
+    "progressive-rock"
+  ],
+  "decisive": true,
+  "whyMatters": {
+    "en": "From alt-guitar epic to electronics and arrangement risk: Radiohead show the modern rock axis can evolve instead of repeating its greatest hits.",
+    "zh": "从另类吉他史诗走到电子与编曲冒险：Radiohead 证明近代摇滚主轴可以进化，而不是复读精选辑。"
+  },
+  "members": [
+    {
+      "name": "Thom Yorke",
+      "role": "Vocals, Guitar, Keys",
+      "years": "1985–present",
+      "personSlug": "thom-yorke"
+    },
+    {
+      "name": "Jonny Greenwood",
+      "role": "Guitar, Keys",
+      "years": "1985–present"
+    },
+    {
+      "name": "Ed O'Brien",
+      "role": "Guitar, Vocals",
+      "years": "1985–present"
+    },
+    {
+      "name": "Colin Greenwood",
+      "role": "Bass",
+      "years": "1985–present"
+    },
+    {
+      "name": "Philip Selway",
+      "role": "Drums",
+      "years": "1985–present"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Paranoid Android",
+      "year": 1997
+    },
+    {
+      "title": "Karma Police",
+      "year": 1997
+    },
+    {
+      "title": "Everything in Its Right Place",
+      "year": 2000
+    }
+  ],
+  "scenes": [
+    {
+      "year": 1997,
+      "track": "Paranoid Android",
+      "membersOnStage": [
+        "Thom Yorke",
+        "Jonny Greenwood",
+        "Ed O'Brien",
+        "Colin Greenwood",
+        "Philip Selway"
+      ],
+      "genreTags": [
+        "alternative",
+        "progressive-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Prog",
+        "zh": "多段结构：Prog 野心进入另类主流"
+      }
+    },
+    {
+      "year": 1997,
+      "track": "Karma Police",
+      "membersOnStage": [
+        "Thom Yorke",
+        "Jonny Greenwood",
+        "Ed O'Brien",
+        "Colin Greenwood",
+        "Philip Selway"
+      ],
+      "genreTags": [
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "OK Computer",
+        "zh": "钢琴与疏离：OK Computer 的情感核心"
+      }
+    },
+    {
+      "year": 2000,
+      "track": "Everything in Its Right Place",
+      "membersOnStage": [
+        "Thom Yorke",
+        "Jonny Greenwood",
+        "Ed O'Brien",
+        "Colin Greenwood",
+        "Philip Selway"
+      ],
+      "genreTags": [
+        "alternative",
+        "indie-rock"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "拆掉吉他英雄舒适区的开门声明"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Anyone who uses the word 'career' and 'music' in the same sentence should be shot.",
+      "speaker": "Thom Yorke",
+      "source": "Interview excerpt · quote wall",
+      "year": 2000
+    },
+    {
+      "text": "We want to make music that surprises us.",
+      "speaker": "Jonny Greenwood",
+      "source": "Press excerpt · Whisper-ready",
+      "year": 2011
+    }
+  ],
+  "lyricQuotes": [
+    "I'm not here, this isn't happening",
+    "For a minute there, I lost myself"
+  ],
+  "relatedBands": [
+    "nirvana",
+    "pink-floyd",
+    "king-crimson"
+  ],
+  "influenceFrom": [
+    "pink-floyd",
+    "king-crimson",
+    "nirvana"
+  ],
+  "influenced": [
+    "arctic-monkeys"
+  ],
+  "shortBio": {
+    "en": "From alt guitar to electronics and arrangement: continuous reinvention.",
+    "zh": "从另类吉他到电子与编曲：跨世纪持续自我更新。"
+  },
+  "body": {
+    "en": "OK Computer writes tech anxiety as epic; Kid A dismantles guitar-hero comfort on purpose. Radiohead stay on the modern axis by refusing to become a museum of themselves.\n\nEvolution is the point, not a side quest.",
+    "zh": "OK Computer 把科技焦虑写成史诗；Kid A 故意拆掉吉他英雄舒适区。Radiohead 留在近代主轴上，靠的是拒绝成为自己的博物馆。\n\n进化是主题，不是支线任务。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "The hinge that keeps turning",
+        "zh": "一直在转的铰链"
+      },
+      "body": {
+        "en": "They appear across nineties and later chapters not as genre tourists, but as proof Alternative can absorb Prog ambition, then walk toward electronics without quitting songcraft.\n\nAfter Grunge, the axis does not snap—because someone keeps updating the firmware.",
+        "zh": "他们同时出现在九十年代与更后章节，不是因为跨界观光，而是证明 Alternative 能吸收 Prog 野心，再走向电子却不丢掉写歌。\n\nGrunge 之后主轴没断——因为有人持续更新固件。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Five people, one moving target",
+        "zh": "五个人，一个移动靶"
+      },
+      "body": {
+        "en": "The classic five hold the name while the sound refuses to sit. Greenwood's arrangements, Selway's restraint, the Yorke nerve—roles stay, costumes change.\n\nStability of personnel makes radical album turns readable as choice, not panic.",
+        "zh": "经典五人守住名字，声音却不肯坐下。Greenwood 的编曲、Selway 的克制、Yorke 的神经——角色留下，戏服更换。\n\n人员稳定，让激进换辑可读成选择，而非恐慌。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "android",
+      "title": {
+        "en": "Paranoid Android: structure as attitude",
+        "zh": "Paranoid Android：结构即态度"
+      },
+      "body": {
+        "en": "Multi-section collage that refuses the three-minute factory default. Prog DNA walks into alternative radio wearing a school blazer and a headache.\n\nLength here is not indulgence. It is a no to industrial brevity.",
+        "zh": "多段拼贴，拒绝三分钟工厂默认。Prog DNA 穿着校服带着头痛走进另类电台。\n\n长度在这里不是放纵。是对工业短歌说不。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "kida",
+      "title": {
+        "en": "Kid A: dismantling the hit costume",
+        "zh": "Kid A：拆掉畅销戏服"
+      },
+      "body": {
+        "en": "Everything in Its Right Place announces a new phase with almost no materials—piano loop, voice on ice, courage as subtraction.\n\nA decisive band hallmark: changing course at the peak, when the market begs for sequels.",
+        "zh": "Everything in Its Right Place 用极少材料宣布新阶段——钢琴循环、冰上的人声、减法即勇气。\n\n决定性乐队的标志：在巅峰改航道，当市场哀求续集时。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "dna",
+      "title": {
+        "en": "Prog blood, indie passport",
+        "zh": "Prog 血缘，Indie 护照"
+      },
+      "body": {
+        "en": "From Floyd/Crimson structural appetite to indie permission for experiment—Radiohead are a hub node, not a costume change.\n\nFollow the edges outward: anxiety, arrangement, refusal of career-speak.",
+        "zh": "从 Floyd/Crimson 的结构胃口到 Indie 的实验许可——Radiohead 是枢纽节点，不是换装游戏。\n\n沿边往外走：焦虑、编曲、拒绝「事业」辞令。"
+      },
+      "stickyVisual": "dna",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Anti-career, on the record",
+        "zh": "反职业化，白纸黑字"
+      },
+      "body": {
+        "en": "Quotes that flinch at the word career match the album strategy of shedding skins. Talk and catalog agree: success is a trap unless you keep moving.\n\nNail the flinch. It explains the music better than a press release.",
+        "zh": "对 career 一词过敏的金句，与不断换皮的专辑策略互证。谈话与作品目录同意：成功是陷阱，除非你继续动。\n\n钉住那一下退缩。它比通稿更解释音乐。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "alternative"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "five-piece",
+      "label": {
+        "en": "Five-piece continuum",
+        "zh": "五人组连续统"
+      },
+      "years": "1985–present",
+      "peak": true,
+      "members": [
+        {
+          "name": "Thom Yorke",
+          "role": "Vocals, Guitar, Keys",
+          "personSlug": "thom-yorke"
+        },
+        {
+          "name": "Jonny Greenwood",
+          "role": "Guitar, Keys"
+        },
+        {
+          "name": "Ed O'Brien",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "Colin Greenwood",
+          "role": "Bass"
+        },
+        {
+          "name": "Philip Selway",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Rare stability—person hubs branch sideways instead.",
+        "zh": "罕见的稳定——人物枢纽向侧面分叉。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Paranoid Android",
+      "year": 1997,
+      "note": {
+        "en": "Prog structures smuggled into alternative radio.",
+        "zh": "把 Prog 结构偷运进 Alternative 电台。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "indie-rock"
+    ],
+    "note": {
+      "en": "Post-OK Computer: rock can mutate without apology.",
+      "zh": "OK Computer 之后：摇滚可变种，无需道歉。"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Peter Hook",
+  "slug": "peter-hook",
+  "born": 1956,
+  "origin": "Manchester, UK",
+  "roles": [
+    "Bass"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "High-melody bass that defines Joy Division—then New Order—then decades of arguments about who owns the songs.",
+    "zh": "定义 Joy Division 的高音贝斯——然后是 New Order——然后是几十年关于歌归谁的争吵。"
+  },
+  "whyHub": {
+    "en": "Same JD→NO bridge as Sumner, from the bassline that made the cold rooms sing.",
+    "zh": "与 Sumner 同一座 JD→NO 桥，从让冷房间唱歌的那条贝斯线出发。"
+  },
+  "body": {
+    "en": "Hook's bass is a character. In Joy Division it climbs above the frost; in New Order it learns to dance without smiling. Later band politics get messy—useful reminder that shared members create edges and also lawsuits.",
+    "zh": "Hook 的贝斯是个角色。在 Joy Division 它爬过霜面；在 New Order 它学会不笑着跳舞。后来的乐队政治很乱——有用的提醒：共享成员会造边，也会造官司。"
+  },
+  "tenures": [
+    {
+      "bandName": "Joy Division",
+      "bandSlug": "joy-division",
+      "role": "Bass",
+      "from": 1976,
+      "to": 1980
+    },
+    {
+      "bandName": "New Order",
+      "bandSlug": "new-order",
+      "role": "Bass",
+      "from": 1980,
+      "to": 2007
+    }
+  ],
+  "relatedPeople": [
+    "bernard-sumner"
+  ]
+}

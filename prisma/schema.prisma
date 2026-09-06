@@ -1,0 +1,667 @@
+// Rock Chronicles — MySQL schema (Aiven rock_chronicles)
+// Maps 1:1 with content/*.json + future album/asset media.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+enum GenreLinkType {
+  branched
+  influenced
+  fused
+}
+
+enum TropeTone {
+  lore
+  meme
+  half_true @map("half-true")
+}
+
+enum StickyVisual {
+  thesis
+  members
+  tracks
+  dna
+  quote
+  scene
+  influence
+  lineupVersions
+}
+
+enum AssetKind {
+  album_cover
+  person_portrait
+  band_hero
+  lineup_photo
+  live_poster
+  era_illustration
+}
+
+enum AssetEntityType {
+  band
+  person
+  album
+  era
+  live
+}
+
+enum AssetRole {
+  cover
+  hero
+  portrait
+  gallery
+  thumbnail
+}
+
+model Era {
+  id           Int    @id @default(autoincrement())
+  slug         String @unique @db.VarChar(120)
+  nameEn       String @map("name_en") @db.VarChar(255)
+  nameZh       String @map("name_zh") @db.VarChar(255)
+  decade       String @db.VarChar(32)
+  years        String @db.VarChar(64)
+  sortOrder    Int    @map("sort_order")
+  summaryEn    String @map("summary_en") @db.Text
+  summaryZh    String @map("summary_zh") @db.Text
+  soundEn      String @map("sound_en") @db.Text
+  soundZh      String @map("sound_zh") @db.Text
+  bodyEn       String @map("body_en") @db.Text
+  bodyZh       String @map("body_zh") @db.Text
+
+  primaryBands Band[]           @relation("BandPrimaryEra")
+  alsoBands    BandAlsoEra[]
+  anchorBands  EraAnchorBand[]
+  alsoNotable  EraAlsoNotable[]
+  genres       EraGenre[]
+
+  @@map("era")
+}
+
+model EraAnchorBand {
+  id        Int    @id @default(autoincrement())
+  eraSlug   String @map("era_slug") @db.VarChar(120)
+  bandSlug  String @map("band_slug") @db.VarChar(120)
+  sortOrder Int    @default(0) @map("sort_order")
+
+  era  Era  @relation(fields: [eraSlug], references: [slug], onDelete: Cascade)
+  band Band @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([eraSlug, bandSlug])
+  @@map("era_anchor_band")
+}
+
+model EraAlsoNotable {
+  id        Int    @id @default(autoincrement())
+  eraSlug   String @map("era_slug") @db.VarChar(120)
+  label     String @db.VarChar(255)
+  sortOrder Int    @default(0) @map("sort_order")
+
+  era Era @relation(fields: [eraSlug], references: [slug], onDelete: Cascade)
+
+  @@map("era_also_notable")
+}
+
+model EraGenre {
+  id        Int    @id @default(autoincrement())
+  eraSlug   String @map("era_slug") @db.VarChar(120)
+  genreSlug String @map("genre_slug") @db.VarChar(120)
+  sortOrder Int    @default(0) @map("sort_order")
+
+  era   Era   @relation(fields: [eraSlug], references: [slug], onDelete: Cascade)
+  genre Genre @relation(fields: [genreSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([eraSlug, genreSlug])
+  @@map("era_genre")
+}
+
+model Genre {
+  id        Int    @id @default(autoincrement())
+  slug      String @unique @db.VarChar(120)
+  name      String @db.VarChar(255)
+  summaryEn String @map("summary_en") @db.Text
+  summaryZh String @map("summary_zh") @db.Text
+  eraFocus  String @map("era_focus") @db.VarChar(255)
+  bodyEn    String @map("body_en") @db.Text
+  bodyZh    String @map("body_zh") @db.Text
+
+  bandTags         BandGenre[]
+  eraTags          EraGenre[]
+  linksFrom        GenreLink[]         @relation("GenreLinkFrom")
+  linksTo          GenreLink[]         @relation("GenreLinkTo")
+  pioneerBands     GenrePioneerBand[]
+  representative   GenreRepresentativeBand[]
+  landmarkGenres   BandLandmarkGenre[]
+  guideLinks       GuideRelatedGenre[]
+
+  @@map("genre")
+}
+
+model GenreLink {
+  id         Int           @id @default(autoincrement())
+  fromSlug   String        @map("from_slug") @db.VarChar(120)
+  toSlug     String        @map("to_slug") @db.VarChar(120)
+  linkType   GenreLinkType @map("link_type")
+
+  fromGenre Genre @relation("GenreLinkFrom", fields: [fromSlug], references: [slug], onDelete: Cascade)
+  toGenre   Genre @relation("GenreLinkTo", fields: [toSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([fromSlug, toSlug, linkType])
+  @@map("genre_link")
+}
+
+model GenrePioneerBand {
+  id        Int    @id @default(autoincrement())
+  genreSlug String @map("genre_slug") @db.VarChar(120)
+  bandSlug  String @map("band_slug") @db.VarChar(120)
+  sortOrder Int    @default(0) @map("sort_order")
+
+  genre Genre @relation(fields: [genreSlug], references: [slug], onDelete: Cascade)
+  band  Band  @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([genreSlug, bandSlug])
+  @@map("genre_pioneer_band")
+}
+
+model GenreRepresentativeBand {
+  id        Int    @id @default(autoincrement())
+  genreSlug String @map("genre_slug") @db.VarChar(120)
+  bandSlug  String @map("band_slug") @db.VarChar(120)
+  sortOrder Int    @default(0) @map("sort_order")
+
+  genre Genre @relation(fields: [genreSlug], references: [slug], onDelete: Cascade)
+  band  Band  @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([genreSlug, bandSlug])
+  @@map("genre_representative_band")
+}
+
+model Band {
+  id              Int     @id @default(autoincrement())
+  slug            String  @unique @db.VarChar(120)
+  name            String  @db.VarChar(255)
+  formed          Int
+  origin          String  @db.VarChar(255)
+  primaryEraSlug  String  @map("primary_era_slug") @db.VarChar(120)
+  decisive        Boolean @default(false)
+  accentColor     String? @map("accent_color") @db.VarChar(32)
+  shortBioEn      String  @map("short_bio_en") @db.Text
+  shortBioZh      String  @map("short_bio_zh") @db.Text
+  bodyEn          String  @map("body_en") @db.Text
+  bodyZh          String  @map("body_zh") @db.Text
+  whyMattersEn    String? @map("why_matters_en") @db.Text
+  whyMattersZh    String? @map("why_matters_zh") @db.Text
+
+  primaryEra       Era                       @relation("BandPrimaryEra", fields: [primaryEraSlug], references: [slug])
+  alsoEras         BandAlsoEra[]
+  genres           BandGenre[]
+  members          BandMember[]
+  essentialTracks  BandEssentialTrack[]
+  lyricQuotes      BandLyricQuote[]
+  scenes           BandScene[]
+  interviewQuotes  BandInterviewQuote[]
+  narratives       BandNarrative[]
+  lineupVersions   LineupVersion[]
+  landmark         BandLandmark?
+  relatedOut       BandRelated[]             @relation("BandRelatedFrom")
+  relatedIn        BandRelated[]             @relation("BandRelatedTo")
+  influenceOut     BandInfluenceEdge[]       @relation("InfluenceFrom")
+  influenceIn      BandInfluenceEdge[]       @relation("InfluenceTo")
+  eraAnchors       EraAnchorBand[]
+  genrePioneers    GenrePioneerBand[]
+  genreRep         GenreRepresentativeBand[]
+  tenures          PersonTenure[]
+  tropeExamples    TropeExample[]
+  liveEvents       LiveEventBand[]
+  guideLinks       GuideRelatedBand[]
+  albums           Album[]
+
+  @@map("band")
+}
+
+model BandAlsoEra {
+  id       Int    @id @default(autoincrement())
+  bandSlug String @map("band_slug") @db.VarChar(120)
+  eraSlug  String @map("era_slug") @db.VarChar(120)
+
+  band Band @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+  era  Era  @relation(fields: [eraSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([bandSlug, eraSlug])
+  @@map("band_also_era")
+}
+
+model BandGenre {
+  id        Int    @id @default(autoincrement())
+  bandSlug  String @map("band_slug") @db.VarChar(120)
+  genreSlug String @map("genre_slug") @db.VarChar(120)
+  sortOrder Int    @default(0) @map("sort_order")
+
+  band  Band  @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+  genre Genre @relation(fields: [genreSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([bandSlug, genreSlug])
+  @@map("band_genre")
+}
+
+model BandRelated {
+  id           Int    @id @default(autoincrement())
+  fromBandSlug String @map("from_band_slug") @db.VarChar(120)
+  toBandSlug   String @map("to_band_slug") @db.VarChar(120)
+
+  fromBand Band @relation("BandRelatedFrom", fields: [fromBandSlug], references: [slug], onDelete: Cascade)
+  toBand   Band @relation("BandRelatedTo", fields: [toBandSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([fromBandSlug, toBandSlug])
+  @@map("band_related")
+}
+
+model BandInfluenceEdge {
+  id           Int    @id @default(autoincrement())
+  fromBandSlug String @map("from_band_slug") @db.VarChar(120)
+  toBandSlug   String @map("to_band_slug") @db.VarChar(120)
+
+  fromBand Band @relation("InfluenceFrom", fields: [fromBandSlug], references: [slug], onDelete: Cascade)
+  toBand   Band @relation("InfluenceTo", fields: [toBandSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([fromBandSlug, toBandSlug])
+  @@map("band_influence_edge")
+}
+
+model BandMember {
+  id         Int     @id @default(autoincrement())
+  bandSlug   String  @map("band_slug") @db.VarChar(120)
+  name       String  @db.VarChar(255)
+  role       String  @db.VarChar(255)
+  years      String  @db.VarChar(64)
+  personSlug String? @map("person_slug") @db.VarChar(120)
+  sortOrder  Int     @default(0) @map("sort_order")
+
+  band Band @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+
+  @@map("band_member")
+}
+
+model BandEssentialTrack {
+  id        Int     @id @default(autoincrement())
+  bandSlug  String  @map("band_slug") @db.VarChar(120)
+  title     String  @db.VarChar(255)
+  year      Int
+  noteEn    String? @map("note_en") @db.Text
+  noteZh    String? @map("note_zh") @db.Text
+  sortOrder Int     @default(0) @map("sort_order")
+
+  band Band @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+
+  @@map("band_essential_track")
+}
+
+model BandLyricQuote {
+  id        Int    @id @default(autoincrement())
+  bandSlug  String @map("band_slug") @db.VarChar(120)
+  quote     String @db.Text
+  sortOrder Int    @default(0) @map("sort_order")
+
+  band Band @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+
+  @@map("band_lyric_quote")
+}
+
+model BandScene {
+  id              Int     @id @default(autoincrement())
+  bandSlug        String  @map("band_slug") @db.VarChar(120)
+  year            Int
+  track           String  @db.VarChar(255)
+  membersOnStage  Json    @map("members_on_stage")
+  genreTags       Json    @map("genre_tags")
+  intensity       Int?
+  noteEn          String? @map("note_en") @db.Text
+  noteZh          String? @map("note_zh") @db.Text
+  sortOrder       Int     @default(0) @map("sort_order")
+
+  band Band @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+
+  @@map("band_scene")
+}
+
+model BandInterviewQuote {
+  id       Int     @id @default(autoincrement())
+  bandSlug String  @map("band_slug") @db.VarChar(120)
+  text     String  @db.Text
+  speaker  String  @db.VarChar(255)
+  source   String  @db.VarChar(512)
+  year     Int?
+  sortOrder Int    @default(0) @map("sort_order")
+
+  band Band @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+
+  @@map("band_interview_quote")
+}
+
+model BandNarrative {
+  id           Int          @id @default(autoincrement())
+  bandSlug     String       @map("band_slug") @db.VarChar(120)
+  chapterId    String       @map("chapter_id") @db.VarChar(64)
+  titleEn      String       @map("title_en") @db.VarChar(512)
+  titleZh      String       @map("title_zh") @db.VarChar(512)
+  bodyEn       String       @map("body_en") @db.Text
+  bodyZh       String       @map("body_zh") @db.Text
+  stickyVisual StickyVisual @map("sticky_visual")
+  sceneIndex   Int?         @map("scene_index")
+  quoteIndex   Int?         @map("quote_index")
+  soundGenre   String?      @map("sound_genre") @db.VarChar(120)
+  sortOrder    Int          @default(0) @map("sort_order")
+
+  band Band @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([bandSlug, chapterId])
+  @@map("band_narrative")
+}
+
+model BandLandmark {
+  id              Int    @id @default(autoincrement())
+  bandSlug        String @unique @map("band_slug") @db.VarChar(120)
+  debutTitle      String @map("debut_title") @db.VarChar(255)
+  debutYear       Int    @map("debut_year")
+  debutNoteEn     String? @map("debut_note_en") @db.Text
+  debutNoteZh     String? @map("debut_note_zh") @db.Text
+  noteEn          String? @map("note_en") @db.Text
+  noteZh          String? @map("note_zh") @db.Text
+
+  band    Band                @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+  genres  BandLandmarkGenre[]
+
+  @@map("band_landmark")
+}
+
+model BandLandmarkGenre {
+  id         Int    @id @default(autoincrement())
+  bandSlug   String @map("band_slug") @db.VarChar(120)
+  genreSlug  String @map("genre_slug") @db.VarChar(120)
+  sortOrder  Int    @default(0) @map("sort_order")
+
+  landmark BandLandmark @relation(fields: [bandSlug], references: [bandSlug], onDelete: Cascade)
+  genre    Genre        @relation(fields: [genreSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([bandSlug, genreSlug])
+  @@map("band_landmark_genre")
+}
+
+model LineupVersion {
+  id        Int     @id @default(autoincrement())
+  bandSlug  String  @map("band_slug") @db.VarChar(120)
+  versionId String  @map("version_id") @db.VarChar(64)
+  labelEn   String  @map("label_en") @db.VarChar(255)
+  labelZh   String  @map("label_zh") @db.VarChar(255)
+  years     String  @db.VarChar(64)
+  noteEn    String? @map("note_en") @db.Text
+  noteZh    String? @map("note_zh") @db.Text
+  peak      Boolean @default(false)
+  sortOrder Int     @default(0) @map("sort_order")
+
+  band    Band                 @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+  members LineupVersionMember[]
+
+  @@unique([bandSlug, versionId])
+  @@map("lineup_version")
+}
+
+model LineupVersionMember {
+  id         Int     @id @default(autoincrement())
+  bandSlug   String  @map("band_slug") @db.VarChar(120)
+  versionId  String  @map("version_id") @db.VarChar(64)
+  name       String  @db.VarChar(255)
+  role       String  @db.VarChar(255)
+  personSlug String? @map("person_slug") @db.VarChar(120)
+  sortOrder  Int     @default(0) @map("sort_order")
+
+  version LineupVersion @relation(fields: [bandSlug, versionId], references: [bandSlug, versionId], onDelete: Cascade)
+
+  @@map("lineup_version_member")
+}
+
+model Person {
+  id         Int      @id @default(autoincrement())
+  slug       String   @unique @db.VarChar(120)
+  name       String   @db.VarChar(255)
+  born       Int?
+  origin     String   @db.VarChar(255)
+  hub        Boolean  @default(false)
+  roles      Json
+  shortBioEn String   @map("short_bio_en") @db.Text
+  shortBioZh String   @map("short_bio_zh") @db.Text
+  whyHubEn   String   @map("why_hub_en") @db.Text
+  whyHubZh   String   @map("why_hub_zh") @db.Text
+  bodyEn     String   @map("body_en") @db.Text
+  bodyZh     String   @map("body_zh") @db.Text
+
+  tenures       PersonTenure[]
+  relatedOut    PersonRelated[] @relation("PersonRelatedFrom")
+  relatedIn     PersonRelated[] @relation("PersonRelatedTo")
+  tropeExamples TropeExample[]
+
+  @@map("person")
+}
+
+model PersonTenure {
+  id        Int     @id @default(autoincrement())
+  personSlug String @map("person_slug") @db.VarChar(120)
+  bandSlug  String? @map("band_slug") @db.VarChar(120)
+  bandName  String  @map("band_name") @db.VarChar(255)
+  role      String  @db.VarChar(255)
+  yearFrom  Int     @map("year_from")
+  yearTo    Int?    @map("year_to")
+  present   Boolean @default(false)
+  noteEn    String? @map("note_en") @db.Text
+  noteZh    String? @map("note_zh") @db.Text
+  sortOrder Int     @default(0) @map("sort_order")
+
+  person Person @relation(fields: [personSlug], references: [slug], onDelete: Cascade)
+  band   Band?  @relation(fields: [bandSlug], references: [slug], onDelete: SetNull)
+
+  @@map("person_tenure")
+}
+
+model PersonRelated {
+  id             Int    @id @default(autoincrement())
+  fromPersonSlug String @map("from_person_slug") @db.VarChar(120)
+  toPersonSlug   String @map("to_person_slug") @db.VarChar(120)
+
+  fromPerson Person @relation("PersonRelatedFrom", fields: [fromPersonSlug], references: [slug], onDelete: Cascade)
+  toPerson   Person @relation("PersonRelatedTo", fields: [toPersonSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([fromPersonSlug, toPersonSlug])
+  @@map("person_related")
+}
+
+model Album {
+  id          Int     @id @default(autoincrement())
+  slug        String  @unique @db.VarChar(120)
+  title       String  @db.VarChar(255)
+  releaseYear Int?    @map("release_year")
+  label       String? @db.VarChar(255)
+  bandSlug    String? @map("band_slug") @db.VarChar(120)
+  summaryEn   String? @map("summary_en") @db.Text
+  summaryZh   String? @map("summary_zh") @db.Text
+
+  band Band? @relation(fields: [bandSlug], references: [slug], onDelete: SetNull)
+
+  @@map("album")
+}
+
+model Asset {
+  id          Int       @id @default(autoincrement())
+  slug        String    @unique @db.VarChar(120)
+  kind        AssetKind
+  storageKey  String    @map("storage_key") @db.VarChar(512)
+  publicUrl   String    @map("public_url") @db.VarChar(1024)
+  width       Int?
+  height      Int?
+  mimeType    String?   @map("mime_type") @db.VarChar(64)
+  altEn       String?   @map("alt_en") @db.VarChar(512)
+  altZh       String?   @map("alt_zh") @db.VarChar(512)
+  credit      String?   @db.VarChar(512)
+  license     String?   @db.VarChar(255)
+  createdAt   DateTime  @default(now()) @map("created_at")
+
+  links AssetLink[]
+
+  @@map("asset")
+}
+
+model AssetLink {
+  id         Int             @id @default(autoincrement())
+  assetSlug  String          @map("asset_slug") @db.VarChar(120)
+  entityType AssetEntityType @map("entity_type")
+  entitySlug String          @map("entity_slug") @db.VarChar(120)
+  role       AssetRole
+  sortOrder  Int             @default(0) @map("sort_order")
+
+  asset Asset @relation(fields: [assetSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([assetSlug, entityType, entitySlug, role])
+  @@map("asset_link")
+}
+
+model GuideArticle {
+  id        Int    @id @default(autoincrement())
+  slug      String @unique @db.VarChar(120)
+  sortOrder Int    @map("sort_order")
+  titleEn   String @map("title_en") @db.VarChar(512)
+  titleZh   String @map("title_zh") @db.VarChar(512)
+  summaryEn String @map("summary_en") @db.Text
+  summaryZh String @map("summary_zh") @db.Text
+  bodyEn    String @map("body_en") @db.Text
+  bodyZh    String @map("body_zh") @db.Text
+
+  relatedBands  GuideRelatedBand[]
+  relatedGenres GuideRelatedGenre[]
+  relatedTropes GuideRelatedTrope[]
+
+  @@map("guide_article")
+}
+
+model GuideRelatedBand {
+  id          Int    @id @default(autoincrement())
+  guideSlug   String @map("guide_slug") @db.VarChar(120)
+  bandSlug    String @map("band_slug") @db.VarChar(120)
+  sortOrder   Int    @default(0) @map("sort_order")
+
+  guide GuideArticle @relation(fields: [guideSlug], references: [slug], onDelete: Cascade)
+  band  Band         @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([guideSlug, bandSlug])
+  @@map("guide_related_band")
+}
+
+model GuideRelatedGenre {
+  id          Int    @id @default(autoincrement())
+  guideSlug   String @map("guide_slug") @db.VarChar(120)
+  genreSlug   String @map("genre_slug") @db.VarChar(120)
+  sortOrder   Int    @default(0) @map("sort_order")
+
+  guide GuideArticle @relation(fields: [guideSlug], references: [slug], onDelete: Cascade)
+  genre Genre        @relation(fields: [genreSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([guideSlug, genreSlug])
+  @@map("guide_related_genre")
+}
+
+model GuideRelatedTrope {
+  id          Int    @id @default(autoincrement())
+  guideSlug   String @map("guide_slug") @db.VarChar(120)
+  tropeSlug   String @map("trope_slug") @db.VarChar(120)
+  sortOrder   Int    @default(0) @map("sort_order")
+
+  guide GuideArticle @relation(fields: [guideSlug], references: [slug], onDelete: Cascade)
+  trope Trope        @relation(fields: [tropeSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([guideSlug, tropeSlug])
+  @@map("guide_related_trope")
+}
+
+model Trope {
+  id        Int       @id @default(autoincrement())
+  slug      String    @unique @db.VarChar(120)
+  titleEn   String    @map("title_en") @db.VarChar(512)
+  titleZh   String    @map("title_zh") @db.VarChar(512)
+  summaryEn String    @map("summary_en") @db.Text
+  summaryZh String    @map("summary_zh") @db.Text
+  bodyEn    String    @map("body_en") @db.Text
+  bodyZh    String    @map("body_zh") @db.Text
+  tone      TropeTone
+
+  examples      TropeExample[]
+  guideLinks    GuideRelatedTrope[]
+
+  @@map("trope")
+}
+
+model TropeExample {
+  id         Int     @id @default(autoincrement())
+  tropeSlug  String  @map("trope_slug") @db.VarChar(120)
+  label      String  @db.VarChar(255)
+  bandSlug   String? @map("band_slug") @db.VarChar(120)
+  personSlug String? @map("person_slug") @db.VarChar(120)
+  noteEn     String? @map("note_en") @db.Text
+  noteZh     String? @map("note_zh") @db.Text
+  sortOrder  Int     @default(0) @map("sort_order")
+
+  trope  Trope   @relation(fields: [tropeSlug], references: [slug], onDelete: Cascade)
+  band   Band?   @relation(fields: [bandSlug], references: [slug], onDelete: SetNull)
+  person Person? @relation(fields: [personSlug], references: [slug], onDelete: SetNull)
+
+  @@map("trope_example")
+}
+
+model LiveEvent {
+  id           Int    @id @default(autoincrement())
+  slug         String @unique @db.VarChar(120)
+  titleEn      String @map("title_en") @db.VarChar(512)
+  titleZh      String @map("title_zh") @db.VarChar(512)
+  year         Int
+  venueEn      String @map("venue_en") @db.VarChar(512)
+  venueZh      String @map("venue_zh") @db.VarChar(512)
+  summaryEn    String @map("summary_en") @db.Text
+  summaryZh    String @map("summary_zh") @db.Text
+  whyEpicEn    String @map("why_epic_en") @db.Text
+  whyEpicZh    String @map("why_epic_zh") @db.Text
+  rightsNoteEn String? @map("rights_note_en") @db.Text
+  rightsNoteZh String? @map("rights_note_zh") @db.Text
+
+  bands  LiveEventBand[]
+  tracks LiveEventTrack[]
+
+  @@map("live_event")
+}
+
+model LiveEventBand {
+  id        Int    @id @default(autoincrement())
+  liveSlug  String @map("live_slug") @db.VarChar(120)
+  bandSlug  String @map("band_slug") @db.VarChar(120)
+  sortOrder Int    @default(0) @map("sort_order")
+
+  live LiveEvent @relation(fields: [liveSlug], references: [slug], onDelete: Cascade)
+  band Band      @relation(fields: [bandSlug], references: [slug], onDelete: Cascade)
+
+  @@unique([liveSlug, bandSlug])
+  @@map("live_event_band")
+}
+
+model LiveEventTrack {
+  id        Int     @id @default(autoincrement())
+  liveSlug  String  @map("live_slug") @db.VarChar(120)
+  title     String  @db.VarChar(255)
+  bandSlug  String? @map("band_slug") @db.VarChar(120)
+  noteEn    String? @map("note_en") @db.Text
+  noteZh    String? @map("note_zh") @db.Text
+  sortOrder Int     @default(0) @map("sort_order")
+
+  live LiveEvent @relation(fields: [liveSlug], references: [slug], onDelete: Cascade)
+
+  @@map("live_event_track")
+}

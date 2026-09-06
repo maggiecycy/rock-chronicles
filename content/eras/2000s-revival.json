@@ -1,0 +1,37 @@
+{
+  "name": {
+    "en": "2000s Revival",
+    "zh": "2000s 复兴潮"
+  },
+  "slug": "2000s-revival",
+  "decade": "2000s",
+  "years": "2000–2009",
+  "order": 6,
+  "summary": {
+    "en": "Tight jeans, tighter songs—guitars sneak back through downtown doors.",
+    "zh": "牛仔裤更紧，歌也更紧——吉他从市中心的门缝溜回来。"
+  },
+  "sound": {
+    "en": "Garage snap, post-punk freeze, indie as a look again",
+    "zh": "Garage 脆响、后朋克的冻、indie 再次成为造型"
+  },
+  "anchorBands": [
+    "arctic-monkeys",
+    "the-strokes"
+  ],
+  "alsoNotable": [
+    "Franz Ferdinand",
+    "Interpol",
+    "Yeah Yeah Yeahs",
+    "The White Stripes"
+  ],
+  "genres": [
+    "indie-rock",
+    "post-punk",
+    "alternative"
+  ],
+  "body": {
+    "en": "After nu-metal billboards and laptop pop, a New York band in leather makes three-minute songs feel dangerous again. The Strokes don't invent revival; they make it photogenic. Arctic Monkeys later prove the internet can mint a UK guitar band overnight.\n\nThe chronicle axis holds: rock isn't dead, it just needed a haircut and a smaller room—before the rooms get big again.",
+    "zh": "在新金属广告牌和笔记本流行乐之后，纽约一支穿皮衣的乐队让三分钟的歌再次危险。The Strokes 没有发明复兴；他们让复兴上镜。后来 Arctic Monkeys 证明互联网能一夜造出一支英伦吉他乐队。\n\n编年主轴还在：摇滚没死，它只是需要理个发、换个小房间——然后房间又会变大。"
+  }
+}

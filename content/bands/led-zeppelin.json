@@ -1,0 +1,304 @@
+{
+  "name": "Led Zeppelin",
+  "slug": "led-zeppelin",
+  "formed": 1968,
+  "origin": "London, UK",
+  "primaryEra": "1970s-prog-hard-rock",
+  "alsoAppearsIn": [
+    "1960s-british-invasion"
+  ],
+  "genres": [
+    "hard-rock",
+    "blues"
+  ],
+  "decisive": true,
+  "whyMatters": {
+    "en": "Four musicians turn Blues into weather: hush like a folk song, then collapse like a roof. Every Hard Rock giant after them is answering that storm.",
+    "zh": "四个人把 Blues 变成天气：轻得像民谣，重得像房顶塌下来。之后所有 Hard Rock 巨人，都在回应这场风暴。"
+  },
+  "members": [
+    {
+      "name": "Jimmy Page",
+      "role": "Guitar",
+      "years": "1968–1980",
+      "personSlug": "jimmy-page"
+    },
+    {
+      "name": "Robert Plant",
+      "role": "Vocals",
+      "years": "1968–1980",
+      "personSlug": "robert-plant"
+    },
+    {
+      "name": "John Paul Jones",
+      "role": "Bass, Keys",
+      "years": "1968–1980",
+      "personSlug": "john-paul-jones"
+    },
+    {
+      "name": "John Bonham",
+      "role": "Drums",
+      "years": "1968–1980"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Whole Lotta Love",
+      "year": 1969
+    },
+    {
+      "title": "Stairway to Heaven",
+      "year": 1971
+    },
+    {
+      "title": "Kashmir",
+      "year": 1975,
+      "note": {
+        "en": "riff",
+        "zh": "东方调式与重 riff"
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "year": 1969,
+      "track": "Whole Lotta Love",
+      "membersOnStage": [
+        "Jimmy Page",
+        "Robert Plant",
+        "John Paul Jones",
+        "John Bonham"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "blues"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Theremin Hard Rock",
+        "zh": "Theremin 与崩塌动态：Hard Rock 的身体语法"
+      }
+    },
+    {
+      "year": 1971,
+      "track": "Stairway to Heaven",
+      "membersOnStage": [
+        "Jimmy Page",
+        "Robert Plant",
+        "John Paul Jones",
+        "John Bonham"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "民谣起、重锤收：动态叙事成为默认模板"
+      }
+    },
+    {
+      "year": 1975,
+      "track": "Kashmir",
+      "membersOnStage": [
+        "Jimmy Page",
+        "Robert Plant",
+        "John Paul Jones",
+        "John Bonham"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Blues",
+        "zh": "循环动机与东方色彩：超越英美 Blues 回路"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I think when you hear that drum sound, you know it's Bonzo.",
+      "speaker": "Jimmy Page",
+      "source": "Archive interview excerpt · quote wall",
+      "year": 1990
+    },
+    {
+      "text": "We were just four people who got together and happened to be very good.",
+      "speaker": "Robert Plant",
+      "source": "Press interview excerpt · Whisper-ready slot",
+      "year": 2005
+    }
+  ],
+  "lyricQuotes": [
+    "If there's a bustle in your hedgerow, don't be alarmed now",
+    "You need cooling, baby, I'm not fooling"
+  ],
+  "relatedBands": [
+    "king-crimson",
+    "the-rolling-stones"
+  ],
+  "influenceFrom": [
+    "the-rolling-stones"
+  ],
+  "influenced": [
+    "nirvana"
+  ],
+  "shortBio": {
+    "en": "Hard Rock's myth factory: Blues bones, epic dynamics, arena volume.",
+    "zh": "Hard Rock 的神话工厂：Blues 骨架、史诗动态、体育馆音量。"
+  },
+  "body": {
+    "en": "Led Zeppelin take the Blues and scale it until a living room feels like an arena. Page's arrangements, Bonham's drum wall, Plant's howl, Jones's weave—the seventies Hard Rock default arrives fully formed.\n\nMetal and Grunge later salute or try to topple the giant. Neither gets to ignore it.",
+    "zh": "Led Zeppelin 把 Blues 放大到客厅也像体育馆。Page 的编曲、Bonham 的鼓墙、Plant 的尖叫、Jones 的织体——七十年代 Hard Rock 的标准配置，一次成型。\n\n后来 Metal 致敬，Grunge 想推翻。谁都绕不开这座巨人。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Four people, one weather system",
+        "zh": "四个人，一套天气"
+      },
+      "body": {
+        "en": "Zeppelin are not merely louder. They rewrite Blues storytelling as expandable drama: quiet passages build the debt, distortion cashes it.\n\nArena rock, Hard Rock radio grammar, even Grunge's quiet-loud punch—ancestors live here. The template is climate control, not a riff list.",
+        "zh": "Zeppelin 不只是更响。他们把 Blues 的诉说改写成可伸缩的戏剧：安静段落欠债，失真段落兑现。\n\n体育馆摇滚、Hard Rock 电台语法、甚至 Grunge 的「安静—爆发」——祖先都在这里。模板不是一串 riff，是气候系统。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "The cast that never needed a sequel",
+        "zh": "不需要续集的卡司"
+      },
+      "body": {
+        "en": "Rock loves revolving doors. Zeppelin almost refuse one. Page, Plant, Jones, Bonham lock from the start and stay locked until Bonham's death ends the band.\n\nThat stability is the point: the sound becomes a brand you can name in the dark, not a project that rebrands every album.",
+        "zh": "摇滚爱换人。Zeppelin 几乎不换。Page、Plant、Jones、Bonham 从一开始锁死，直到 Bonham 去世乐队随之结束。\n\n稳定本身就是论点：这声音能在黑暗里被叫出名字，不是每张专辑换皮的项目组。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "lineup",
+      "title": {
+        "en": "Empire configuration: four instruments",
+        "zh": "帝国配置：四件乐器"
+      },
+      "body": {
+        "en": "Page writes architecture. Plant sells myth with a throat. Jones fills the middle air—bass, keys, arrangement glue. Bonham hits like gravity has a preference.\n\nRemove any one piece and the weather system fails. That is why the lineup chapter matters as much as any single.",
+        "zh": "Page 写建筑。Plant 用嗓子卖神话。Jones 填满中间空气——贝斯、键盘、编曲胶水。Bonham 打得像重力有了偏好。\n\n少一件，天气系统就垮。所以阵容这一章，分量不亚于任何一首单曲。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "wll",
+      "title": {
+        "en": "Whole Lotta Love, body first",
+        "zh": "Whole Lotta Love：先写身体"
+      },
+      "body": {
+        "en": "1969. The riff arrives like a door kicked open. Desire gets plugged into amplifiers; the middle section collapses into theremin fog and tape chaos, then the riff returns like a verdict.\n\nHard Rock learns here how to dose adrenaline with structure—not just volume, but timing.",
+        "zh": "1969 年。riff 像踹开的门。欲望被插上扩音器；中段塌进 theremin 雾与磁带混沌，然后 riff 回来，像宣判。\n\nHard Rock 在这里学会用结构控制肾上腺素——不只是音量，是时机。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "stairway",
+      "title": {
+        "en": "Stairway: the long climb becomes a hit",
+        "zh": "Stairway：长爬坡也能成流行"
+      },
+      "body": {
+        "en": "Acoustic hush to dual-neck climax. The song teaches a mass audience that a track can grow like a story instead of looping like a jingle.\n\nOverplayed, over-quoted, still undeletable. It proves a long piece can be a popular event—and that lesson outlives the radio fatigue.",
+        "zh": "木吉他的安静，爬到双颈吉他的高潮。这首歌教会大众：一首歌可以像故事往上长，不必像广告词循环。\n\n播滥了，引用滥了，仍删不掉。它证明长曲也可以是流行事件——这个教训比电台疲劳活得更久。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "They keep saying: four sounds locked",
+        "zh": "他们反复说：四个声音锁在一起"
+      },
+      "body": {
+        "en": "Interviews circle the same obsession: not star power, but lock. Four parts that refuse to float apart.\n\nThese short cites are not souvenirs. They nail spoken history to the years when the lock still held.",
+        "zh": "访谈里绕来绕去同一件事：不是明星光环，是锁死。四件东西不肯漂开。\n\n这些短引语不是纪念品。它们把口述钉在锁还扣着的那些年。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "blues"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Salute, steal, or overthrow",
+        "zh": "致敬、偷窃，或推翻"
+      },
+      "body": {
+        "en": "Metal inherits the weight. Grunge inherits the dynamics and the unease, then rejects giant worship. Either way, Zeppelin sit on the path.\n\nDecisive means later movements must declare a position: bow, borrow, or burn the statue.",
+        "zh": "Metal 继承重量。Grunge 继承动态与不安，却拒绝巨人崇拜。无论哪边，Zeppelin 都挡在路上。\n\n所谓决定性：后来的运动必须表态——鞠躬、偷窃，还是烧掉雕像。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "classic-iv",
+      "label": {
+        "en": "Classic IV",
+        "zh": "经典四人组"
+      },
+      "years": "1968–1980",
+      "peak": true,
+      "members": [
+        {
+          "name": "Jimmy Page",
+          "role": "Guitar",
+          "personSlug": "jimmy-page"
+        },
+        {
+          "name": "Robert Plant",
+          "role": "Vocals",
+          "personSlug": "robert-plant"
+        },
+        {
+          "name": "John Paul Jones",
+          "role": "Bass, Keys",
+          "personSlug": "john-paul-jones"
+        },
+        {
+          "name": "John Bonham",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "The stable peak version—almost no churn, maximal myth.",
+        "zh": "稳定巅峰版本——几乎不换人，神话最大化。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Whole Lotta Love",
+      "year": 1969,
+      "note": {
+        "en": "Stop-start dynamics: soft / crush as Hard Rock grammar.",
+        "zh": "骤停骤起：轻/重成为 Hard Rock 语法。"
+      }
+    },
+    "pioneeredGenres": [
+      "hard-rock"
+    ],
+    "note": {
+      "en": "Blues scaled to arena myth—Metal and Grunge still answer this.",
+      "zh": "Blues 放大成体育馆神话——Metal 与 Grunge 仍在回应。"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": {
+    "en": "2010s+ Indie & Modern Rock",
+    "zh": "2010s+ 独立与现代摇滚"
+  },
+  "slug": "2010s-indie-modern",
+  "decade": "2010s+",
+  "years": "2010–now",
+  "order": 7,
+  "summary": {
+    "en": "Streaming shatters scenes—but the riff still finds a way to hypnotize.",
+    "zh": "流媒体把场景打碎——但 riff 仍会找到催眠你的办法。"
+  },
+  "sound": {
+    "en": "Bedroom psych, festival scale, post-punk reportage",
+    "zh": "卧室迷幻、音乐节尺度、后朋克纪实"
+  },
+  "anchorBands": [
+    "tame-impala",
+    "fontaines-dc"
+  ],
+  "alsoNotable": [
+    "IDLES",
+    "The 1975",
+    "Wet Leg",
+    "Black Country, New Road"
+  ],
+  "genres": [
+    "indie-rock",
+    "alternative"
+  ],
+  "body": {
+    "en": "Playlists replace record-store clerks, yet guitar records keep sneaking into headphones. Tame Impala turns solitude into dancefloor hypnosis. Fontaines D.C. prove post-punk cadence still carries city news. Radiohead's children inherit permission to mutate.\n\nModern rock on this site isn't nostalgia cosplay. It's proof the axis can bend without snapping—as long as someone still cares how the drum hits the chest.",
+    "zh": "播放列表取代了唱片店店员，吉他唱片却仍溜进耳机。Tame Impala 把独处做成舞池催眠。Fontaines D.C. 证明后朋克节奏仍能运送城市新闻。Radiohead 的孩子们继承了变种的许可。\n\n本站的当代摇滚不是复古扮演。它证明主轴可以弯而不断——只要还有人在乎鼓如何敲进胸口。"
+  }
+}

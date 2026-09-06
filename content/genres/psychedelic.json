@@ -1,0 +1,22 @@
+{
+  "name": "Psychedelic",
+  "slug": "psychedelic",
+  "summary": {
+    "en": "Amps, delay, studio improvisation: sound becomes space.",
+    "zh": "扩音、延时与工作室即兴：声音成为空间。"
+  },
+  "eraFocus": "1960s British Invasion",
+  "representativeBands": [
+    "the-beatles",
+    "pink-floyd"
+  ],
+  "body": {
+    "en": "Psychedelic rock treats the studio as an instrument. Effects, tape collage, and longer forms open doors to Progressive Rock and experimental rock.",
+    "zh": "迷幻摇滚把录音室当作乐器。效果器、磁带拼贴与更长的曲式结构，打开了 Progressive Rock 与实验摇滚的大门。"
+  },
+  "pioneerBands": [
+    "the-jimi-hendrix-experience",
+    "pink-floyd",
+    "the-beatles"
+  ]
+}

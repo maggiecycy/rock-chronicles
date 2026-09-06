@@ -1,0 +1,55 @@
+{
+  "name": "Ozzy Osbourne",
+  "slug": "ozzy-osbourne",
+  "born": 1948,
+  "origin": "Birmingham, England",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Black Sabbath's original howl—then a solo brand that outlived one lineup version.",
+    "zh": "Black Sabbath 的原始嚎叫——随后独奏品牌活过某一个阵容版本。"
+  },
+  "whyHub": {
+    "en": "The cleanest textbook of band → solo flow: fired from the founding Metal lineup, then bigger alone.",
+    "zh": "乐队→独奏流动的教科书：被金属创始阵容开除，随后独奏更大。"
+  },
+  "body": {
+    "en": "Ozzy makes lineup versions visceral. Sabbath's Ozzy-era peak is one object; the Dio-era Sabbath is another; Ozzy solo is a third career graph. Person pages exist so that story is not smashed into a single band blob.",
+    "zh": "Ozzy 让阵容版本变得可感。Sabbath 的 Ozzy 时期是一个对象；Dio 时期是另一个；Ozzy 独奏是第三张履历图。人物页存在，就是为了别把故事揉进一个乐队团块。"
+  },
+  "tenures": [
+    {
+      "bandName": "Black Sabbath",
+      "bandSlug": "black-sabbath",
+      "role": "Vocals",
+      "from": 1968,
+      "to": 1979,
+      "note": {
+        "en": "Founding Metal peak version.",
+        "zh": "金属创始巅峰版本。"
+      }
+    },
+    {
+      "bandName": "Ozzy Osbourne (solo)",
+      "role": "Vocals",
+      "from": 1980,
+      "to": "present"
+    },
+    {
+      "bandName": "Black Sabbath",
+      "bandSlug": "black-sabbath",
+      "role": "Vocals",
+      "from": 1997,
+      "to": 2017,
+      "note": {
+        "en": "Reunions / late chapters.",
+        "zh": "重组与后期章节。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "ronnie-james-dio"
+  ]
+}

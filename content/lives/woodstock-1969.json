@@ -1,0 +1,33 @@
+{
+  "slug": "woodstock-1969",
+  "title": {
+    "en": "Woodstock",
+    "zh": "伍德斯托克"
+  },
+  "year": 1969,
+  "venue": {
+    "en": "Bethel, New York",
+    "zh": "美国纽约州贝塞尔"
+  },
+  "summary": {
+    "en": "Mud, idealism, traffic jams—and a morning set that still rewires how America hears its anthem.",
+    "zh": "泥、理想、堵车——以及一场清晨演出，仍在改写美国听见国歌的方式。"
+  },
+  "whyEpic": {
+    "en": "Woodstock is less a clean concert than a national rumor that came true. Hendrix's late set becomes the image everyone argues about: beauty, noise, protest, and hangover in the same feedback loop.",
+    "zh": "伍德斯托克与其说是干净的演唱会，不如说是成真的国家传言。Hendrix 偏晚的那场，变成人人都要争的画面：美、噪音、抗议、宿醉，在同一圈 feedback 里。"
+  },
+  "bandSlugs": [
+    "the-jimi-hendrix-experience"
+  ],
+  "keyTracks": [
+    {
+      "title": "The Star-Spangled Banner (set lore)",
+      "bandSlug": "the-jimi-hendrix-experience"
+    }
+  ],
+  "rightsNote": {
+    "en": "Editorial only—no full concert embeds. Use licensed editions if you want the footage.",
+    "zh": "仅编辑介绍——不嵌整场。想看影像请走正版。"
+  }
+}

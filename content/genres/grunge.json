@@ -1,0 +1,19 @@
+{
+  "name": "Grunge",
+  "slug": "grunge",
+  "summary": {
+    "en": "Seattle's muddy guitars and anti-hero stance.",
+    "zh": "西雅图的泥泞吉他与反英雄姿态。"
+  },
+  "eraFocus": "1990s Grunge & Britpop",
+  "representativeBands": [
+    "nirvana"
+  ],
+  "body": {
+    "en": "Grunge mixes Punk roughness with Hard Rock weight, rewriting mainstream rock's heroic narrative with alienated lyrics. Nirvana pushes it global and accelerates Alternative's commercialization.",
+    "zh": "Grunge 混合 Punk 的粗糙与 Hard Rock 的重量，用疏离歌词改写主流摇滚的英雄叙事。Nirvana 把它推上全球舞台，也加速了 Alternative 的商业化。"
+  },
+  "pioneerBands": [
+    "nirvana"
+  ]
+}

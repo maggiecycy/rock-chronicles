@@ -1,0 +1,27 @@
+{
+  "name": "Wings",
+  "slug": "wings",
+  "formed": 1971,
+  "origin": "UK",
+  "primaryEra": "1970s-prog-hard-rock",
+  "genres": [
+    "rock-n-roll"
+  ],
+  "decisive": false,
+  "members": [],
+  "essentialTracks": [],
+  "lyricQuotes": [],
+  "relatedBands": [
+    "the-beatles"
+  ],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "McCartney's post-Beatles vehicle—proof a logo can change and the ear still follows the person.",
+    "zh": "McCartney 离开 Beatles 后的载具——证明 logo 能换，耳朵仍跟人走。"
+  },
+  "body": {
+    "en": "McCartney's post-Beatles vehicle—proof a logo can change and the ear still follows the person. Bridge page for the shared-member graph—not a full decisive narrative yet.",
+    "zh": "McCartney 离开 Beatles 后的载具——证明 logo 能换，耳朵仍跟人走。 共享成员图的桥梁页——尚未展开决定性长叙事。"
+  }
+}

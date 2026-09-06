@@ -1,0 +1,208 @@
+{
+  "name": "The Who",
+  "slug": "the-who",
+  "formed": 1964,
+  "origin": "London, UK",
+  "primaryEra": "1960s-british-invasion",
+  "genres": [
+    "rock-n-roll",
+    "hard-rock"
+  ],
+  "whyMatters": {
+    "en": "Maximum volume, smashed guitars, rock opera: youth rage and concept ambition share one stage—the bridge from Invasion to Hard Rock.",
+    "zh": "最大音量、砸琴、摇滚歌剧：青年暴怒与概念野心同台——从 Invasion 通向 Hard Rock 的桥。"
+  },
+  "members": [
+    {
+      "name": "Roger Daltrey",
+      "role": "Vocals",
+      "years": "1964–present"
+    },
+    {
+      "name": "Pete Townshend",
+      "role": "Guitar",
+      "years": "1964–present"
+    },
+    {
+      "name": "John Entwistle",
+      "role": "Bass",
+      "years": "1964–2002"
+    },
+    {
+      "name": "Keith Moon",
+      "role": "Drums",
+      "years": "1964–1978"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "My Generation",
+      "year": 1965
+    },
+    {
+      "title": "Baba O'Riley",
+      "year": 1971
+    },
+    {
+      "title": "Won't Get Fooled Again",
+      "year": 1971
+    }
+  ],
+  "scenes": [
+    {
+      "year": 1965,
+      "track": "My Generation",
+      "membersOnStage": [
+        "Roger Daltrey",
+        "Pete Townshend",
+        "John Entwistle",
+        "Keith Moon"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "口吃式怒火：一代人的宣战"
+      }
+    },
+    {
+      "year": 1971,
+      "track": "Won't Get Fooled Again",
+      "membersOnStage": [
+        "Roger Daltrey",
+        "Pete Townshend",
+        "John Entwistle",
+        "Keith Moon"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "合成器风与摇滚怒吼的合流"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Rock is art and the stuff of life.",
+      "speaker": "Pete Townshend",
+      "source": "Interview excerpt · Whisper-ready",
+      "year": 1970
+    }
+  ],
+  "lyricQuotes": [
+    "I hope I die before I get old"
+  ],
+  "relatedBands": [
+    "the-beatles",
+    "the-rolling-stones",
+    "led-zeppelin"
+  ],
+  "influenceFrom": [
+    "chuck-berry"
+  ],
+  "influenced": [
+    "led-zeppelin",
+    "metallica"
+  ],
+  "shortBio": {
+    "en": "The loudest, most violent British Invasion branch.",
+    "zh": "最大声、最暴烈的 British Invasion 支线。"
+  },
+  "decisive": true,
+  "body": {
+    "en": "The Who treat the stage like a demolition site and a theater at once. Townshend's windmill, Moon's chaos, Entwistle's lead-bass, Daltrey's howl—Invasion energy with Hard Rock's coming weight.\n\nThey prove youth fury can carry concept without losing the smash.",
+    "zh": "The Who 把舞台同时当拆迁现场与剧场。Townshend 的风车、Moon 的混沌、Entwistle 的主音贝斯、Daltrey 的嚎——Invasion 能量，Hard Rock 将至的重量。\n\n他们证明青年怒火能扛概念，而不丢掉砸碎的那一下。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Rage with a blueprint",
+        "zh": "带着图纸的暴怒"
+      },
+      "body": {
+        "en": "My Generation stutters like a fist. Tommy and later rock-opera ambition show the same band can draft architecture.\n\nDecisive because they refuse the false choice: either destroy or compose. They do both under one name.",
+        "zh": "My Generation 口吃得像一记拳头。Tommy 与后来的摇滚歌剧野心证明同一支乐队也会画建筑图。\n\n决定性在于拒绝假二选一：要么毁灭，要么作曲。他们在同一个名字下两样都干。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "My Generation: a stuttered declaration of war",
+        "zh": "My Generation：口吃式宣战"
+      },
+      "body": {
+        "en": "1965. Daltrey trips over the words on purpose; the bass solo barges in like an argument. Hope I die before I get old is less lyric than detonator.\n\nBritish youth finds a voice that will not tidy itself for the drawing room.",
+        "zh": "1965 年。Daltrey 故意在词上绊倒；贝斯 solo 像抬杠闯进来。Hope I die before I get old 与其说是歌词，不如说是雷管。\n\n英国青年找到一种不肯为客厅整理仪容的嗓音。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Won't Get Fooled Again: synth wind, same howl",
+        "zh": "Won't Get Fooled Again：合成器风，同一声嚎"
+      },
+      "body": {
+        "en": "The organ scream, the power chord landslide, Daltrey's final yell—seventies rock learns spectacle without quitting politics-of-the-gut.\n\nInvasion violence grows into Hard Rock theater. The bridge is audible.",
+        "zh": "风琴嘶叫、强力和弦滑坡、Daltrey 最后那一声——七十年代摇滚学会奇观，却不放弃肠子里的政治。\n\nInvasion 的暴力长成 Hard Rock 剧场。桥是听得见的。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "dna",
+      "title": {
+        "en": "From Mod clubs to arena thunder",
+        "zh": "从 Mod 俱乐部到体育馆雷声"
+      },
+      "body": {
+        "en": "Punk later steals the attitude and shortens the fuse. Arena rock steals the volume and the gesture. Prog-adjacent ambition steals the opera nerve.\n\nThe Who sit at the junction where British Invasion stops being cute and starts being dangerous architecture.",
+        "zh": "后来 Punk 偷走态度、缩短引信。体育馆摇滚偷走音量与手势。偏 Prog 的野心偷走歌剧神经。\n\nThe Who 站在路口：British Invasion 不再可爱，开始变成危险的建筑。"
+      },
+      "stickyVisual": "dna",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Talk loud, smash louder",
+        "zh": "话说得响，砸得更响"
+      },
+      "body": {
+        "en": "Townshend talks theory; Moon lives entropy; the quotes swing between manifesto and mischief.\n\nPin both. The band's intelligence and its violence are the same engine with different gears.",
+        "zh": "Townshend 谈理论；Moon 活在熵里；金句在宣言与恶作剧之间摆。\n\n两种都钉上。这支乐队的智力与暴力，是同一台引擎的不同档位。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "hard-rock"
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "My Generation",
+      "year": 1965,
+      "note": {
+        "en": "Stutter, smash, and volume as youth politics.",
+        "zh": "口吃、砸琴与音量即青年政治。"
+      }
+    },
+    "pioneeredGenres": [
+      "hard-rock"
+    ],
+    "note": {
+      "en": "Power-chord violence + rock-opera ambition in one band DNA.",
+      "zh": "强力和弦暴力与摇滚歌剧野心同体。"
+    }
+  }
+}

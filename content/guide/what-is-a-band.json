@@ -1,0 +1,25 @@
+{
+  "slug": "what-is-a-band",
+  "order": 1,
+  "title": {
+    "en": "What even is a band?",
+    "zh": "乐队到底是什么？"
+  },
+  "summary": {
+    "en": "A band is four people arguing about volume—until the name becomes bigger than any of them.",
+    "zh": "乐队就是几个人在吵音量该多大——直到那个名字，比里面任何一个人都大。"
+  },
+  "body": {
+    "en": "Picture this: four kids walk into a room with amps. One wants to play louder. One wants more reverb. One wants to go home. Somehow they leave with a song—and a name on a flyer.\n\nThat name is the weird part. Members quit, get fired, die, come back for the money. The logo stays. Led Zeppelin ends; the myth of Led Zeppelin keeps touring through T-shirts and radio. Nirvana stops; the three-piece shape of that sound still teaches every garage how to get loud then soft then loud again.\n\nA band is not \"a singer plus accompaniment.\" It's a temporary chemistry that freezes into records. On a good night it feels telepathic. On a bad night it feels like a divorce in public—with merch.\n\nSo when we say \"decisive band\" on this site, we don't mean \"objectively the best.\" We mean: after them, a lot of other bands had to answer. The Beatles made the album feel like a world. Black Sabbath made heaviness feel like weather. Those answers become the rest of the timeline.\n\nStart anywhere you already like. Then ask one rude little question: who else was in the room when this sound got invented?",
+    "zh": "想象一下：四个人抱着音箱走进一间屋子。一个要再大声，一个要再多一点混响，一个已经想回家。不知道怎么回事，他们走出门时手里多了一首歌——传单上还印了个名字。\n\n怪就怪在这个名字。成员会走、会被炒、会死、会为了钱回来。logo 还在。Led Zeppelin 解散了，「Led Zeppelin」这个神话还在 T 恤和电台里巡演。Nirvana 停了，那种先小声再炸开的形状，还在教每个车库怎么搞动静。\n\n乐队不是「主唱加伴奏」。它是一段会被冻进唱片里的临时化学反应。状态好的晚上像心灵感应；状态差的晚上像当众离婚——还带周边摊。\n\n所以本站说「决定性乐队」，不是在发「史上最强」奖杯。意思是：他们之后，很多乐队不得不回应。Beatles 让一张专辑听起来像一个世界；Black Sabbath 让「重」听起来像天气。那些回应，铺成后面整条时间轴。\n\n从你已经喜欢的东西开始就行。然后问一个有点不客气的小问题：这个声音成形的时候，房间里还有谁？"
+  },
+  "relatedBandSlugs": [
+    "the-beatles",
+    "led-zeppelin",
+    "nirvana",
+    "black-sabbath"
+  ],
+  "relatedGenreSlugs": [
+    "rock-n-roll"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Progressive Rock",
+  "slug": "progressive-rock",
+  "summary": {
+    "en": "Expanded structures, concept albums, instrumental ambition.",
+    "zh": "结构扩张、概念专辑与演奏野心。"
+  },
+  "eraFocus": "1970s Prog & Hard Rock",
+  "representativeBands": [
+    "king-crimson",
+    "pink-floyd"
+  ],
+  "body": {
+    "en": "Prog refuses the three-minute single's industrial tempo, pulling classical, jazz, and literary themes into rock. King Crimson and Pink Floyd model two expansions: sharp structural experiment and immersive sonic narrative.",
+    "zh": "Prog 拒绝「三分钟单曲」的工业节奏，把古典、爵士与文学主题拉进摇滚。King Crimson 与 Pink Floyd 代表了两种不同的扩张路径：锋利的结构实验与沉浸的声景叙事。"
+  },
+  "pioneerBands": [
+    "king-crimson",
+    "pink-floyd"
+  ]
+}

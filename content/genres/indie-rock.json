@@ -1,0 +1,22 @@
+{
+  "name": "Indie Rock",
+  "slug": "indie-rock",
+  "summary": {
+    "en": "Indie-label spirit and post-millennium guitar revival.",
+    "zh": "独立厂牌精神与后千禧年吉他复兴。"
+  },
+  "eraFocus": "2010s+ Indie & Modern Rock",
+  "representativeBands": [
+    "arctic-monkeys",
+    "radiohead"
+  ],
+  "body": {
+    "en": "Indie Rock prizes autonomy, scenes, and flexible forms. The 2000s–2010s UK and North American revivals put Arctic Monkeys and peers back on the chronicle's main axis with garage edge and pop hooks.",
+    "zh": "Indie Rock 强调自治、场景与曲式弹性。2000s–2010s 的英国与北美复兴浪潮，让 Arctic Monkeys 等乐队把车库锋利与流行钩子再次写进编年史主轴。"
+  },
+  "pioneerBands": [
+    "the-strokes",
+    "arctic-monkeys",
+    "radiohead"
+  ]
+}

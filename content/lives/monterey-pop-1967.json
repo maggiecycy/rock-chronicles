@@ -1,0 +1,42 @@
+{
+  "slug": "monterey-pop-1967",
+  "title": {
+    "en": "Monterey Pop",
+    "zh": "蒙特利流行音乐节"
+  },
+  "year": 1967,
+  "venue": {
+    "en": "Monterey, California",
+    "zh": "美国加州蒙特利"
+  },
+  "summary": {
+    "en": "One California weekend where feedback, smashed guitars, and festival myth learn to share a stage.",
+    "zh": "加州一个周末：feedback、砸烂的吉他、音乐节神话，学会同台。"
+  },
+  "whyEpic": {
+    "en": "Hendrix and The Who don't just play songs—they stage arguments about what 'live' is allowed to cost. Before Woodstock's mud postcard, Monterey is the dress rehearsal for rock as public spectacle.",
+    "zh": "Hendrix 与 The Who 不只是唱歌——他们当众争论「现场」被允许付出什么代价。在伍德斯托克的泥巴明信片之前，蒙特利是摇滚成为公众奇观的彩排。"
+  },
+  "bandSlugs": [
+    "the-jimi-hendrix-experience",
+    "the-who"
+  ],
+  "keyTracks": [
+    {
+      "title": "Wild Thing (performance lore)",
+      "bandSlug": "the-jimi-hendrix-experience",
+      "note": {
+        "en": "Instrumental violence as statement.",
+        "zh": "乐器暴力即声明。"
+      }
+    },
+    {
+      "title": "My Generation (smash lore)",
+      "bandSlug": "the-who"
+    }
+  ],
+  "rightsNote": {
+    "en": "We describe the hinge night; we don't host the film. Hunt official releases / licensed archives.",
+    "zh": "我们写枢纽之夜；不托管影像。请找官方发行或已授权存档。"
+  }
+}

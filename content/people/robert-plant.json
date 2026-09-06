@@ -1,0 +1,44 @@
+{
+  "name": "Robert Plant",
+  "slug": "robert-plant",
+  "born": 1948,
+  "origin": "West Bromwich, England",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "The voice of Zeppelin's myth—and a solo career that refused to freeze in 1971.",
+    "zh": "Zeppelin 神话的嗓音——以及拒绝冻结在 1971 的独奏生涯。"
+  },
+  "whyHub": {
+    "en": "Frontman as evolving person: arena howl, then restless reinvention beyond the classic lineup.",
+    "zh": "主唱作为会进化的人：体育馆嘶吼之后，在经典阵容之外持续再发明。"
+  },
+  "body": {
+    "en": "Plant is the human face of lineup mythology: the Classic IV is sacred, but the person keeps moving. Use this page to exit the band bubble into post-Zeppelin listening without erasing the peak version.",
+    "zh": "Plant 是阵容神话的人脸：经典四人组神圣，但人继续走。用此页离开乐队气泡，走进后 Zeppelin 听法，同时不抹掉巅峰版本。"
+  },
+  "tenures": [
+    {
+      "bandName": "Led Zeppelin",
+      "bandSlug": "led-zeppelin",
+      "role": "Vocals",
+      "from": 1968,
+      "to": 1980
+    },
+    {
+      "bandName": "Solo / collaborations",
+      "role": "Vocals",
+      "from": 1982,
+      "to": "present",
+      "note": {
+        "en": "Post-band reinventions.",
+        "zh": "乐队之后的再发明。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "jimmy-page"
+  ]
+}

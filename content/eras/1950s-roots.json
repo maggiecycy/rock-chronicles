@@ -1,0 +1,36 @@
+{
+  "name": {
+    "en": "1950s Roots",
+    "zh": "1950s 根源"
+  },
+  "slug": "1950s-roots",
+  "decade": "1950s",
+  "years": "1950–1959",
+  "order": 1,
+  "summary": {
+    "en": "Electric guitars learn to talk dirty—and teenagers get a soundtrack.",
+    "zh": "电吉他学会说脏话——青少年第一次有了自己的配乐。"
+  },
+  "sound": {
+    "en": "Twang, backbeat, radio crackle, Saturday-night volume",
+    "zh": "拨弦脆响、后拍、电台沙沙声、周六夜晚的音量"
+  },
+  "anchorBands": [
+    "chuck-berry",
+    "elvis-presley"
+  ],
+  "alsoNotable": [
+    "Little Richard",
+    "Muddy Waters",
+    "Bill Haley & His Comets",
+    "Buddy Holly"
+  ],
+  "genres": [
+    "blues",
+    "rock-n-roll"
+  ],
+  "body": {
+    "en": "Before rock had museums, it had jukeboxes. Blues players bent notes until they hurt; Chuck Berry turned the guitar into a joke you could dance to; Elvis made the whole country argue about hips.\n\nThis decade isn't a polite prologue. It's the spark: amplification + youth + radio. Everything later—British Invasion, metal, punk sneers—still borrows vocabulary invented in these rooms.",
+    "zh": "摇滚还没进博物馆的时候，它待在点唱机里。Blues 把音弯到疼；Chuck Berry 把吉他变成能跳舞的笑话；Elvis 让整个国家为了胯部吵起来。\n\n这十年不是客气的序章。它是火星：扩音 + 青春 + 电台。后面所有东西——英伦入侵、金属、朋克的冷笑——仍在借用这些房间里发明的词汇。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "reunion-tour",
+  "title": {
+    "en": "The reunion tour",
+    "zh": "重聚巡演"
+  },
+  "summary": {
+    "en": "Nostalgia with a rider and a lighting plot. Sometimes healing. Sometimes karaoke with fireworks.",
+    "zh": "带餐饮单和灯光表的怀旧。有时是愈合。有时是带烟火的卡拉 OK。"
+  },
+  "body": {
+    "en": "Reunions rewrite the ending you thought you had. They can settle debts, restore dignity, or trap a band in a museum loop where every night is 1973 with better knees until they aren't.\n\nThe interesting question isn't \"are they sellouts?\"—ticket lines already voted. It's which lineup version is reconstituting, and which songs get quietly retired because nobody can hit that note without medical supervision.",
+    "zh": "重聚会改写你以为已经写完的结局。可以还债、找回体面，也可以把乐队困在博物馆循环里：每天都是 1973，膝盖暂时还行，直到不行。\n\n有趣的问题不是「他们卖不卖」——排队的人已经投过票。而是：重聚的是哪个阵容版本，以及哪些歌被悄悄退役，因为没人能在无医疗监督下再唱那个音。"
+  },
+  "tone": "meme",
+  "examples": [
+    {
+      "bandSlug": "led-zeppelin",
+      "label": "Led Zeppelin",
+      "note": {
+        "en": "Rare spectacles, endless discourse.",
+        "zh": "稀有奇观，永无止境的讨论。"
+      }
+    },
+    {
+      "bandSlug": "oasis",
+      "label": "Oasis",
+      "note": {
+        "en": "The internet's favorite unfinished argument.",
+        "zh": "互联网最爱的未完结辩论。"
+      }
+    }
+  ]
+}

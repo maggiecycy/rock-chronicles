@@ -1,0 +1,27 @@
+{
+  "name": "New Order",
+  "slug": "new-order",
+  "formed": 1980,
+  "origin": "Manchester, UK",
+  "primaryEra": "1980s-punk-metal",
+  "genres": [
+    "post-punk"
+  ],
+  "decisive": false,
+  "members": [],
+  "essentialTracks": [],
+  "lyricQuotes": [],
+  "relatedBands": [
+    "joy-division"
+  ],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Joy Division after the silence: same bloodline, colder dancefloor, longer afterlife.",
+    "zh": "沉默之后的 Joy Division：同一血脉，更冷的舞池，更长的余生。"
+  },
+  "body": {
+    "en": "Joy Division after the silence: same bloodline, colder dancefloor, longer afterlife. Bridge page for the shared-member graph—not a full decisive narrative yet.",
+    "zh": "沉默之后的 Joy Division：同一血脉，更冷的舞池，更长的余生。 共享成员图的桥梁页——尚未展开决定性长叙事。"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "name": "Chuck Berry",
+  "slug": "chuck-berry",
+  "formed": 1955,
+  "origin": "St. Louis, USA",
+  "primaryEra": "1950s-roots",
+  "genres": [
+    "rock-n-roll",
+    "blues"
+  ],
+  "whyMatters": {
+    "en": "Duck walk, double-stop riffs, cars and school halls: Chuck Berry writes Rock 'n' Roll's shared guitar dialect—later bands still speak it with accents.",
+    "zh": "鸭步、双音 riff、汽车与校园走廊：Chuck Berry 写出 Rock 'n' Roll 的通用吉他方言——后来的乐队都带着口音还在说。"
+  },
+  "members": [
+    {
+      "name": "Chuck Berry",
+      "role": "Vocals, Guitar",
+      "years": "1955–2017"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Johnny B. Goode",
+      "year": 1958
+    },
+    {
+      "title": "Maybellene",
+      "year": 1955
+    },
+    {
+      "title": "Roll Over Beethoven",
+      "year": 1956
+    }
+  ],
+  "scenes": [
+    {
+      "year": 1955,
+      "track": "Maybellene",
+      "membersOnStage": [
+        "Chuck Berry"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "乡村节奏遇上电吉他弯音"
+      }
+    },
+    {
+      "year": 1958,
+      "track": "Johnny B. Goode",
+      "membersOnStage": [
+        "Chuck Berry"
+      ],
+      "genreTags": [
+        "rock-n-roll",
+        "blues"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "吉他英雄神话的原型"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "The guitar is the most important thing.",
+      "speaker": "Chuck Berry",
+      "source": "Interview excerpt · Whisper-ready",
+      "year": 1987
+    }
+  ],
+  "lyricQuotes": [
+    "Go, Johnny, go"
+  ],
+  "relatedBands": [
+    "elvis-presley",
+    "the-beatles",
+    "the-rolling-stones"
+  ],
+  "influenceFrom": [],
+  "influenced": [
+    "the-beatles",
+    "the-rolling-stones"
+  ],
+  "shortBio": {
+    "en": "The founding architect of Rock 'n' Roll guitar grammar.",
+    "zh": "Rock 'n' Roll 吉他语法的奠基人。"
+  },
+  "decisive": true,
+  "body": {
+    "en": "Chuck Berry turns the electric guitar into a storytelling engine: teenage motion, chrome, and punchlines that land on the backbeat.\n\nAlmost every guitar band after him is still paying rent on that language.",
+    "zh": "Chuck Berry 把电吉他变成讲故事的引擎：少年动作、镀铬光泽、落在后拍上的包袱。\n\n之后几乎所有吉他乐队，都还在付这门语言的租金。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "The grammar arrives duck-walking",
+        "zh": "语法鸭步到来"
+      },
+      "body": {
+        "en": "Berry does not invent electricity. He invents the sentence structure: intro riff as headline, verse as road movie, solo as victory lap.\n\nWhen Lennon, Keith Richards, or a thousand garage kids open with that double-stop bounce, they are citing him—whether they admit it or not.",
+        "zh": "Berry 没有发明电。他发明了句子结构：前奏 riff 当标题，主歌当公路电影，solo 当胜利圈。\n\nLennon、Keith Richards，或一千个车库小孩一弹起那双音弹跳，就是在引用他——承认与否无关。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Maybellene: country speed, electric bend",
+        "zh": "Maybellene：乡村速度遇上电音弯音"
+      },
+      "body": {
+        "en": "1955. A car chase in song form—country rhythm under electric sting. Maybellene makes motion itself the plot.\n\nRock 'n' Roll learns it can be about engines and desire without waiting for a ballad's permission.",
+        "zh": "1955 年。一首歌形状的飙车——乡村节奏托着电吉他的刺。Maybellene 让「移动」本身成为情节。\n\nRock 'n' Roll 学会：不必等情歌批准，也能写引擎与欲望。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Johnny B. Goode: the guitar-hero prototype",
+        "zh": "Johnny B. Goode：吉他英雄原型"
+      },
+      "body": {
+        "en": "A kid who can play a guitar like ringing a bell. Johnny B. Goode is autobiography dressed as myth—and the template for every later guitar-hero montage.\n\nThe riff is a name tag. Once you hear it, every arena solo owes a quiet tip of the hat.",
+        "zh": "一个能把吉他弹得像摇铃的孩子。Johnny B. Goode 是披着神话外衣的自传——也是后来所有吉他英雄蒙太奇的模板。\n\nriff 像名牌。听过一次，之后每个体育馆 solo 都欠一个安静的脱帽礼。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "dna",
+      "title": {
+        "en": "Everyone still speaks Chuck",
+        "zh": "大家还在说 Chuck 语"
+      },
+      "body": {
+        "en": "From British Invasion covers to punk's three-chord sprint, Berry's dialect survives translation. The duck walk becomes posture; the riff becomes muscle memory.\n\nOn the genre map he is not a side note. He is the road the map is drawn on.",
+        "zh": "从 British Invasion 的翻唱到朋克的三和弦冲刺，Berry 的方言经得起翻译。鸭步变成姿态，riff 变成肌肉记忆。\n\n在流派图上他不是注脚。他是地图下面那条路。"
+      },
+      "stickyVisual": "dna",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Cars, girls, and a ringing bell",
+        "zh": "汽车、女孩，与摇铃般的吉他"
+      },
+      "body": {
+        "en": "Berry's own lines keep landing on concrete nouns—cars, school, the guitar as a bell. No fog, no thesis statement.\n\nThat concreteness is why the quotes still cut: Rock 'n' Roll begins as reportage with a backbeat.",
+        "zh": "Berry 自己的句子总落在具体名词上——汽车、学校、像铃一样的吉他。没有雾，没有论文提纲。\n\n具体，所以金句仍锋利：Rock 'n' Roll 一开始就是带后拍的现场报道。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "rock-n-roll"
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Johnny B. Goode",
+      "year": 1958,
+      "note": {
+        "en": "Guitar-hero blueprint for rock language.",
+        "zh": "吉他英雄语法的蓝本。"
+      }
+    },
+    "pioneeredGenres": [
+      "rock-n-roll"
+    ],
+    "note": {
+      "en": "Duck-walk riffs made rock portable and teachable.",
+      "zh": "鸭步 riff 让摇滚变得可携带、可传授。"
+    }
+  }
+}

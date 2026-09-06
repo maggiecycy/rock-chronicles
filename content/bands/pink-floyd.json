@@ -1,0 +1,307 @@
+{
+  "name": "Pink Floyd",
+  "slug": "pink-floyd",
+  "formed": 1965,
+  "origin": "London, UK",
+  "primaryEra": "1970s-prog-hard-rock",
+  "alsoAppearsIn": [
+    "1960s-british-invasion"
+  ],
+  "genres": [
+    "progressive-rock",
+    "psychedelic"
+  ],
+  "decisive": true,
+  "whyMatters": {
+    "en": "Albums as places you enter: clocks, walls, and widescreen dread—Prog's atmosphere-empire pole beside Crimson's blade.",
+    "zh": "把专辑做成能走进去的地方：钟声、墙、宽银幕式的不安——相对 Crimson 的刀，这是 Prog 的氛围帝国那一端。"
+  },
+  "members": [
+    {
+      "name": "David Gilmour",
+      "role": "Guitar, Vocals",
+      "years": "1968–1985"
+    },
+    {
+      "name": "Roger Waters",
+      "role": "Bass, Vocals",
+      "years": "1968–1985"
+    },
+    {
+      "name": "Richard Wright",
+      "role": "Keys",
+      "years": "1968–1985"
+    },
+    {
+      "name": "Nick Mason",
+      "role": "Drums",
+      "years": "1968–1985"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Comfortably Numb",
+      "year": 1979
+    },
+    {
+      "title": "Time",
+      "year": 1973
+    },
+    {
+      "title": "Wish You Were Here",
+      "year": 1975
+    }
+  ],
+  "scenes": [
+    {
+      "year": 1973,
+      "track": "Time",
+      "membersOnStage": [
+        "David Gilmour",
+        "Roger Waters",
+        "Richard Wright",
+        "Nick Mason"
+      ],
+      "genreTags": [
+        "progressive-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "闹钟与吉他独奏：时间主题的声景化"
+      }
+    },
+    {
+      "year": 1975,
+      "track": "Wish You Were Here",
+      "membersOnStage": [
+        "David Gilmour",
+        "Roger Waters",
+        "Richard Wright",
+        "Nick Mason"
+      ],
+      "genreTags": [
+        "progressive-rock",
+        "psychedelic"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "缺席与缅怀：概念专辑的情感核"
+      }
+    },
+    {
+      "year": 1979,
+      "track": "Comfortably Numb",
+      "membersOnStage": [
+        "David Gilmour",
+        "Roger Waters",
+        "Richard Wright",
+        "Nick Mason"
+      ],
+      "genreTags": [
+        "progressive-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "疏离叙事与吉他高潮的经典对位"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "The purpose of the music is to free people.",
+      "speaker": "Roger Waters",
+      "source": "Interview excerpt · quote wall",
+      "year": 1980
+    },
+    {
+      "text": "It's not about being loud. It's about being there.",
+      "speaker": "David Gilmour",
+      "source": "Documentary excerpt · Whisper-ready",
+      "year": 2008
+    }
+  ],
+  "lyricQuotes": [
+    "The child is grown, the dream is gone",
+    "We're just two lost souls swimming in a fish bowl"
+  ],
+  "relatedBands": [
+    "king-crimson",
+    "the-beatles"
+  ],
+  "influenceFrom": [
+    "the-beatles"
+  ],
+  "influenced": [
+    "radiohead"
+  ],
+  "shortBio": {
+    "en": "Immersive soundscapes and concept narrative: the album as a place.",
+    "zh": "沉浸声景与概念叙事：把专辑做成可进入的空间。"
+  },
+  "body": {
+    "en": "From underground psychedelia to arena concepts, Floyd's core is space. Barrett sparks the weird; Waters, Gilmour, Wright, and Mason build the empire of atmosphere.\n\nWith King Crimson they form Prog's two poles: immersion versus sharpness.",
+    "zh": "从地下迷幻到体育馆概念巨制，Floyd 的核心始终是空间。Barrett 点燃怪异；Waters、Gilmour、Wright、Mason 建成氛围帝国。\n\n与 King Crimson 并列，构成 Prog 两端：沉浸对锋利。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Space as an instrument",
+        "zh": "空间作为乐器"
+      },
+      "body": {
+        "en": "Floyd's decisiveness is permission: rock can handle time, alienation, and systems—not only rebellion cosplay.\n\nDark Side and The Wall prove a concept album can be a mass event without surrendering the weird.",
+        "zh": "Floyd 的决定性是许可：摇滚可以处理时间、疏离与体制——不只是叛逆扮相。\n\nDark Side 与 The Wall 证明概念专辑能成大众事件，而不交出怪异。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Barrett spark, Gilmour empire",
+        "zh": "Barrett 的火星，Gilmour 的帝国"
+      },
+      "body": {
+        "en": "Early Floyd is Barrett's fractured glow. Later Floyd is architectural dread with Gilmour's sustain as skyline.\n\nName the eras. The band changes face without abandoning the vow to build places out of sound.",
+        "zh": "早期 Floyd 是 Barrett 碎裂的光。后期 Floyd 是建筑式的不安，Gilmour 的延音当天际线。\n\n给时代命名。乐队换脸，却不放弃用声音造地方的誓言。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "time",
+      "title": {
+        "en": "Time: the theme becomes sound design",
+        "zh": "Time：主题写成声景"
+      },
+      "body": {
+        "en": "Clock ticks are not garnish; they are the plot device. Time shows how a place and a subject enter the ear as design, not slogan.\n\nYou do not hear a lecture about mortality. You hear mortality arranged.",
+        "zh": "钟声不是配菜，是情节装置。Time 展示地点与主题如何作为设计进入耳朵，而不是口号。\n\n你听见的不是关于死亡的讲课。是被编排过的死亡感。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "numb",
+      "title": {
+        "en": "Comfortably Numb: counterpoint as drama",
+        "zh": "Comfortably Numb：对位即戏剧"
+      },
+      "body": {
+        "en": "Detached vocal against a guitar climax that refuses to stay polite—arena emotion finds a formula that still stings.\n\nThe Wall's theater trick becomes a permanent stadium weather pattern.",
+        "zh": "疏离人声对上不肯礼貌的吉他高潮——体育馆情感找到一种仍刺人的公式。\n\nThe Wall 的剧场手法，变成永久的体育馆天气。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Versions change; the vow holds",
+        "zh": "版本在变，誓言还在"
+      },
+      "body": {
+        "en": "From Barrett to the Gilmour era, the fingerprint shifts, but the promise of space and concept does not.\n\nThe member list is the chronicle: who held the keys to which room.",
+        "zh": "从 Barrett 到 Gilmour 时代，声纹在变，「空间与概念」的承诺没变。\n\n成员表本身就是编年：谁拿过哪间房的钥匙。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "psychedelic"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Permission to build worlds",
+        "zh": "造世界的许可"
+      },
+      "body": {
+        "en": "Radiohead and other modern auteurs inherit the album-as-world license. Atmosphere becomes a serious craft, not a side effect of reverb.\n\nProgressive flows into Alternative carrying furniture, not just solos.",
+        "zh": "Radiohead 和其他近代作者继承「专辑即世界」的许可。氛围成为正经手艺，不是混响副作用。\n\nProgressive 流向 Alternative 时带着家具，不只带着 solo。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "progressive-rock"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "barrett",
+      "label": {
+        "en": "Barrett-led",
+        "zh": "Barrett 主导"
+      },
+      "years": "1965–1968",
+      "members": [
+        {
+          "name": "Syd Barrett",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "Roger Waters",
+          "role": "Bass, Vocals"
+        },
+        {
+          "name": "Richard Wright",
+          "role": "Keys"
+        },
+        {
+          "name": "Nick Mason",
+          "role": "Drums"
+        }
+      ]
+    },
+    {
+      "id": "classic-waters-gilmour",
+      "label": {
+        "en": "Classic Waters–Gilmour",
+        "zh": "经典 Waters–Gilmour"
+      },
+      "years": "1968–1985",
+      "peak": true,
+      "members": [
+        {
+          "name": "David Gilmour",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "Roger Waters",
+          "role": "Bass, Vocals"
+        },
+        {
+          "name": "Richard Wright",
+          "role": "Keys"
+        },
+        {
+          "name": "Nick Mason",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Concept-album empire version.",
+        "zh": "概念专辑帝国版本。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "See Emily Play",
+      "year": 1967,
+      "note": {
+        "en": "Psychedelic pop portal before the album-era temples.",
+        "zh": "专辑神殿之前的迷幻流行入口。"
+      }
+    },
+    "pioneeredGenres": [
+      "progressive-rock",
+      "psychedelic"
+    ],
+    "note": {
+      "en": "Atmosphere, concept, and live spectacle rewrite scale.",
+      "zh": "氛围、概念与现场奇观重写尺度。"
+    }
+  }
+}

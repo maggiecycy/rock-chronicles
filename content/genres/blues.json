@@ -1,0 +1,18 @@
+{
+  "name": "Blues",
+  "slug": "blues",
+  "summary": {
+    "en": "Rock's root: twelve bars, bent guitar, storytelling voice.",
+    "zh": "摇滚的根基：十二小节、弯音吉他与诉说式演唱。"
+  },
+  "eraFocus": "1950s Roots",
+  "representativeBands": [],
+  "body": {
+    "en": "Blues is not a side branch of rock—it is the grammar itself. From Delta to Chicago electric blues, rhythm and emotional tension shape early Rock 'n' Roll and keep echoing in Hard Rock and Metal improvisations.",
+    "zh": "Blues 不是摇滚的旁支，而是其语法本身。从三角洲到芝加哥电蓝调，节奏与情绪张力直接塑造了早期 Rock 'n' Roll，并在日后 Hard Rock 与 Metal 的即兴段落中反复回响。"
+  },
+  "pioneerBands": [
+    "chuck-berry",
+    "led-zeppelin"
+  ]
+}

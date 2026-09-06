@@ -1,0 +1,275 @@
+{
+  "name": "Metallica",
+  "slug": "metallica",
+  "formed": 1981,
+  "origin": "Los Angeles, USA",
+  "primaryEra": "1980s-punk-metal",
+  "genres": [
+    "heavy-metal"
+  ],
+  "whyMatters": {
+    "en": "Underground thrash pushed into a global Metal industry: speed, precision, album myth—Heavy Metal takes the main stage across the eighties and nineties.",
+    "zh": "把地下 Thrash 推成全球 Metal 工业：速度、精准、专辑神话——Heavy Metal 在八九十年代抢下主舞台。"
+  },
+  "members": [
+    {
+      "name": "James Hetfield",
+      "role": "Vocals, Guitar",
+      "years": "1982–1986"
+    },
+    {
+      "name": "Lars Ulrich",
+      "role": "Drums",
+      "years": "1982–1986"
+    },
+    {
+      "name": "Kirk Hammett",
+      "role": "Guitar",
+      "years": "1982–1986"
+    },
+    {
+      "name": "Cliff Burton",
+      "role": "Bass",
+      "years": "1982–1986"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Master of Puppets",
+      "year": 1986
+    },
+    {
+      "title": "Enter Sandman",
+      "year": 1991
+    },
+    {
+      "title": "One",
+      "year": 1988
+    }
+  ],
+  "scenes": [
+    {
+      "year": 1986,
+      "track": "Master of Puppets",
+      "membersOnStage": [
+        "James Hetfield",
+        "Lars Ulrich",
+        "Kirk Hammett"
+      ],
+      "genreTags": [
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Thrash",
+        "zh": "Thrash 巅峰的结构控制"
+      }
+    },
+    {
+      "year": 1991,
+      "track": "Enter Sandman",
+      "membersOnStage": [
+        "James Hetfield",
+        "Lars Ulrich",
+        "Kirk Hammett"
+      ],
+      "genreTags": [
+        "heavy-metal",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Metal MTV",
+        "zh": "Metal 进入 MTV 主流"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We play metal. That's what we do.",
+      "speaker": "James Hetfield",
+      "source": "Interview excerpt · Whisper-ready",
+      "year": 1991
+    }
+  ],
+  "lyricQuotes": [
+    "Exit light, enter night"
+  ],
+  "relatedBands": [
+    "black-sabbath",
+    "led-zeppelin"
+  ],
+  "influenceFrom": [
+    "black-sabbath",
+    "the-who"
+  ],
+  "influenced": [],
+  "shortBio": {
+    "en": "Bridge from thrash underground to mainstream Metal scale.",
+    "zh": "从地下 Thrash 通向主流 Metal 体量的桥。"
+  },
+  "decisive": true,
+  "body": {
+    "en": "Metallica take Bay Area thrash discipline and scale it until arenas have to learn the downstroke.\n\nMaster of Puppets is the underground cathedral; the Black Album kicks the doors open for MTV. Metal stops apologizing for wanting the center.",
+    "zh": "Metallica 把湾区 thrash 的纪律放大到体育馆也得学会下拨。\n\nMaster of Puppets 是地下大教堂；黑专辑踹开 MTV 的门。Metal 不再为想要中心位置道歉。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Speed learns architecture",
+        "zh": "速度学会建筑"
+      },
+      "body": {
+        "en": "Early Metallica are not only fast—they are precise. Riffs stack like scaffolding; songs turn into campaigns.\n\nDecisive because they carry thrash out of the tape-trading basement without sanding off the teeth, then later prove Metal can own the chart without becoming soft rock in leather.",
+        "zh": "早期 Metallica 不只是快——他们精准。riff 像脚手架叠起来；歌变成战役。\n\n决定性在于：把 thrash 带出磁带交易地下室却不磨掉牙，后来又证明 Metal 能占排行榜，而不必变成穿皮衣的软摇滚。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Cliff, then the long machine",
+        "zh": "Cliff，然后是长期机器"
+      },
+      "body": {
+        "en": "Cliff Burton's era freezes a mythic precision; after the crash, the band rebuilds and keeps marching. Newsted, then later shifts—the machine outlives any single cast photo.\n\nName the versions that still ring when you say Master or Sandman. Personnel is plot, not trivia.",
+        "zh": "Cliff Burton 的时代冻住一种神话级精准；车祸之后乐队重建并继续行军。Newsted，再后来的变动——机器活过任何一张卡司照片。\n\n说出 Master 或 Sandman 时仍会响的那些版本。人事是情节，不是冷知识。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Master of Puppets: thrash with a blueprint",
+        "zh": "Master of Puppets：带着图纸的 Thrash"
+      },
+      "body": {
+        "en": "1986. The title track is long without getting lost—sections lock, open, crush. Underground Metal finds a cathedral that still hits like a street fight.\n\nThis is thrash at peak structural control: rage that can read a map.",
+        "zh": "1986 年。标题曲长却不迷路——段落锁定、打开、碾压。地下 Metal 找到一座仍像街头斗殴的大教堂。\n\n这是 thrash 结构控制的巅峰：会看地图的怒火。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Enter Sandman: Metal on the MTV clock",
+        "zh": "Enter Sandman：MTV 时钟上的 Metal"
+      },
+      "body": {
+        "en": "A riff simple enough to haunt suburban bedrooms; a video cycle that plants Metal in living rooms. Enter Sandman is the handshake with mass culture that thrash purists fear and history requires.\n\nAfter this, Heavy Metal's main-stage claim is no longer theoretical.",
+        "zh": "riff 简单到能缠住郊区卧室；影像轮播把 Metal 种进客厅。Enter Sandman 是与大众文化的握手——thrash 纯粹主义者害怕，历史却需要。\n\n在此之后，Heavy Metal 对主舞台的主张不再是理论。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "dna",
+      "title": {
+        "en": "From tape trade to stadium law",
+        "zh": "从磁带交易到体育馆律法"
+      },
+      "body": {
+        "en": "Downstream: modern Metal's expectation of tightness, the album as campaign, the riff as brand. Upstream: Sabbath gloom and NWOBHM spark, compressed into California velocity.\n\nMetallica sit where underground ethics and industrial scale argue in public.",
+        "zh": "下游：现代 Metal 对紧密度的期待、专辑即战役、riff 即品牌。上游：Sabbath 阴郁与 NWOBHM 火星，压进加州速度。\n\nMetallica 坐在地下伦理与工业体量公开抬杠的位置。"
+      },
+      "stickyVisual": "dna",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Discipline spoken like a threat",
+        "zh": "把纪律说成威胁"
+      },
+      "body": {
+        "en": "Hetfield and Ulrich talk work ethic until it sounds like a dare. The quotes nail a band that treats Metal as craft hours, not costume weekends.\n\nPin the work talk. The myth is sweat with a click track.",
+        "zh": "Hetfield 与 Ulrich 谈职业道德，谈到像下战书。金句钉住一支把 Metal 当工时、不当周末戏服的乐队。\n\n把干活的话钉上。神话是带节拍器的汗。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "heavy-metal"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "cliff-era",
+      "label": {
+        "en": "Cliff Burton era",
+        "zh": "Cliff Burton 时期"
+      },
+      "years": "1982–1986",
+      "peak": true,
+      "members": [
+        {
+          "name": "James Hetfield",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Lars Ulrich",
+          "role": "Drums"
+        },
+        {
+          "name": "Kirk Hammett",
+          "role": "Guitar"
+        },
+        {
+          "name": "Cliff Burton",
+          "role": "Bass"
+        }
+      ]
+    },
+    {
+      "id": "jason-era",
+      "label": {
+        "en": "Jason Newsted era",
+        "zh": "Jason Newsted 时期"
+      },
+      "years": "1986–2001",
+      "members": [
+        {
+          "name": "James Hetfield",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Lars Ulrich",
+          "role": "Drums"
+        },
+        {
+          "name": "Kirk Hammett",
+          "role": "Guitar"
+        },
+        {
+          "name": "Jason Newsted",
+          "role": "Bass"
+        }
+      ],
+      "note": {
+        "en": "Same machine, different low end—version, not a new band.",
+        "zh": "同一机器，不同低音——是版本，不是新乐队。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Seek & Destroy",
+      "year": 1983,
+      "note": {
+        "en": "Thrash speed + riff discipline goes global.",
+        "zh": "Thrash 速度与 riff 纪律走向全球。"
+      }
+    },
+    "pioneeredGenres": [
+      "heavy-metal"
+    ],
+    "note": {
+      "en": "Metal's mass-scale technical grammar.",
+      "zh": "Metal 大众化的技术语法。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "manufactured-rivalry",
+  "title": {
+    "en": "The rivalry they printed for you",
+    "zh": "印给你看的对决"
+  },
+  "summary": {
+    "en": "Newspapers draw a fight. Fans buy jerseys. Both bands sell more records. History gets a cartoon.",
+    "zh": "报纸画一场架。粉丝买球衣。两队唱片都更好卖。历史多了一幅漫画。"
+  },
+  "body": {
+    "en": "Beatles vs Stones. Oasis vs Blur. Sometimes the dislike is real—egos are flammable. Often it's a useful cartoon: two brands, one headline, infinite bar arguments.\n\nRivalries flatten scenes into sports brackets. Fun for a night. Terrible as your whole taste. Ride the Timeline and listen to both sides; the gossip is seasoning, not the meal.",
+    "zh": "Beatles 对 Stones。Oasis 对 Blur。有时讨厌是真的——自我易燃。更多时候是好用的漫画：两个品牌，一个标题，酒吧里吵到天亮。\n\n对决把场景压成体育对阵表。玩一晚很爽；当全部品味很糟。去 Timeline 两边都听；八卦是调料，不是主菜。"
+  },
+  "tone": "meme",
+  "examples": [
+    {
+      "bandSlug": "oasis",
+      "label": "Oasis",
+      "note": {
+        "en": "Britpop's favorite cage match.",
+        "zh": "Britpop 最爱的笼斗。"
+      }
+    },
+    {
+      "bandSlug": "the-beatles",
+      "label": "The Beatles",
+      "note": {
+        "en": "Half of the original cartoon.",
+        "zh": "原版漫画的一半。"
+      }
+    },
+    {
+      "bandSlug": "the-rolling-stones",
+      "label": "The Rolling Stones",
+      "note": {
+        "en": "The other half, still touring the punchline.",
+        "zh": "另一半，还在巡演那句笑点。"
+      }
+    }
+  ]
+}

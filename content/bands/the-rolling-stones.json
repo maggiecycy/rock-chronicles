@@ -1,0 +1,276 @@
+{
+  "name": "The Rolling Stones",
+  "slug": "the-rolling-stones",
+  "formed": 1962,
+  "origin": "London, UK",
+  "primaryEra": "1960s-british-invasion",
+  "genres": [
+    "rock-n-roll",
+    "hard-rock",
+    "blues"
+  ],
+  "decisive": true,
+  "whyMatters": {
+    "en": "British Invasion's dirtier Blues line: swing, danger, and proof a band can age for decades without going soft.",
+    "zh": "British Invasion 更脏的那条 Blues 线：摇摆、危险，以及一支乐队可以老几十年却不软掉。"
+  },
+  "members": [
+    {
+      "name": "Mick Jagger",
+      "role": "Vocals",
+      "years": "1963–2021"
+    },
+    {
+      "name": "Keith Richards",
+      "role": "Guitar",
+      "years": "1963–2021"
+    },
+    {
+      "name": "Charlie Watts",
+      "role": "Drums",
+      "years": "1963–2021"
+    },
+    {
+      "name": "Ronnie Wood",
+      "role": "Guitar",
+      "years": "1963–2021"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "(I Can't Get No) Satisfaction",
+      "year": 1965
+    },
+    {
+      "title": "Gimme Shelter",
+      "year": 1969
+    },
+    {
+      "title": "Sympathy for the Devil",
+      "year": 1968
+    }
+  ],
+  "scenes": [
+    {
+      "year": 1965,
+      "track": "(I Can't Get No) Satisfaction",
+      "membersOnStage": [
+        "Mick Jagger",
+        "Keith Richards",
+        "Charlie Watts"
+      ],
+      "genreTags": [
+        "rock-n-roll",
+        "blues"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "fuzz riff",
+        "zh": "fuzz riff：欲望与不满的全球钩子"
+      }
+    },
+    {
+      "year": 1968,
+      "track": "Sympathy for the Devil",
+      "membersOnStage": [
+        "Mick Jagger",
+        "Keith Richards",
+        "Charlie Watts"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Samba",
+        "zh": "Samba 脉搏遇上摇滚危险叙事"
+      }
+    },
+    {
+      "year": 1969,
+      "track": "Gimme Shelter",
+      "membersOnStage": [
+        "Mick Jagger",
+        "Keith Richards",
+        "Charlie Watts"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "blues"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "时代末感：六十年代的阴影高潮"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "It's only rock 'n' roll but I like it.",
+      "speaker": "Mick Jagger",
+      "source": "Song / interview crossover · quote wall",
+      "year": 1974
+    },
+    {
+      "text": "The music is the most important thing.",
+      "speaker": "Keith Richards",
+      "source": "Interview excerpt · Whisper-ready",
+      "year": 2010
+    }
+  ],
+  "lyricQuotes": [
+    "I can't get no satisfaction",
+    "Rape, murder, it's just a shot away"
+  ],
+  "relatedBands": [
+    "the-beatles",
+    "led-zeppelin"
+  ],
+  "influenceFrom": [],
+  "influenced": [
+    "led-zeppelin",
+    "arctic-monkeys"
+  ],
+  "shortBio": {
+    "en": "British Invasion blues-hard line: swing, danger, lasting stage myth.",
+    "zh": "British Invasion 的 Blues 硬核路线：摇摆、危险与持久的舞台神话。"
+  },
+  "body": {
+    "en": "If the Beatles are the workshop, the Stones are the street. They bring American Blues body-feel back to Britain and export dirtier guitars worldwide.\n\nThe long game is the point: danger as a brand that refuses to retire into polite nostalgia.",
+    "zh": "如果说 Beatles 是工坊，Stones 就是街道。他们把美国 Blues 的身体感带回英国，再以更脏的吉他输回全球。\n\n长期主义才是论点：危险做成品牌，拒绝退休成礼貌怀旧。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "The street line runs parallel",
+        "zh": "街道那条线平行奔跑"
+      },
+      "body": {
+        "en": "They do not chase studio utopia. They turn Blues body and threat into a touring brand you can recognize from the walk alone.\n\nThe sixties need both lines—workshop and street—or the decade collapses into a single myth.",
+        "zh": "他们不追录音室乌托邦。他们把 Blues 的身体与威胁感做成巡回品牌——走路姿态就能认出来。\n\n六十年代需要两条线——工坊与街道——否则整个十年会塌成单一神话。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "blues"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Jagger/Richards axis, revolving edges",
+        "zh": "Jagger/Richards 轴心，边缘在转"
+      },
+      "body": {
+        "en": "Jones, Taylor, Wood—guitar chairs change; the mouth and the riff engine stay. Watts keeps the swing secret until he cannot.\n\nName the peak casts you remember. The Stones story is longevity with a pulse, not a frozen yearbook photo.",
+        "zh": "Jones、Taylor、Wood——吉他席位在换；嘴与 riff 引擎留下。Watts 把摇摆当秘密守到守不住为止。\n\n叫得出的巅峰卡司才值得冻结。Stones 故事是带脉搏的长寿，不是冻住的年鉴照片。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "satisfaction",
+      "title": {
+        "en": "Satisfaction: restlessness as engine",
+        "zh": "Satisfaction：不满当引擎"
+      },
+      "body": {
+        "en": "One fuzz riff and global youth culture shares a melody for impatience. Satisfaction is not a complaint letter; it is a motor that will not idle.\n\nHard Rock later turns up the weight. This is where the fidget becomes anthem.",
+        "zh": "一道失真 riff，全球青年文化有了共同的焦躁旋律。Satisfaction 不是投诉信，是一台不肯怠速的发动机。\n\n后来 Hard Rock 加重重量。焦躁变成国歌，是从这里开始。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "shelter",
+      "title": {
+        "en": "Gimme Shelter: the decade's shadow peak",
+        "zh": "Gimme Shelter：十年的阴影高潮"
+      },
+      "body": {
+        "en": "Late-sixties violence and disillusionment enter the harmony. Merry Clayton's cry cuts across the band like weather breaking a window.\n\nHard Rock's mass is rehearsed here—one of the bridges toward Zeppelin's storm.",
+        "zh": "六十年代末的暴力与幻灭写进和声。Merry Clayton 的喊声横切乐队，像天气砸破窗户。\n\nHard Rock 的重量在此预演——通向 Zeppelin 风暴的桥之一。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Swing as long-termism",
+        "zh": "摇摆即长期主义"
+      },
+      "body": {
+        "en": "Watts is the secret weapon: jazz pocket inside rock swagger. Jagger/Richards hold the axis while decades of fashion try to sand them smooth.\n\nThey age in public without surrendering the dirty center. That refusal is the narrative.",
+        "zh": "Watts 是秘密武器：摇滚嚣张里的爵士口袋。Jagger/Richards 守住轴心，几十年时尚想把他们磨圆。\n\n他们公开变老，却不交出肮脏的中心。拒绝本身就是叙事。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Who inherits the street",
+        "zh": "谁继承街道"
+      },
+      "body": {
+        "en": "Zeppelin scales the dirt into myth. Arctic Monkeys later write nightclub observation with Stones DNA in the walk.\n\nSwing and danger keep showing up on the modern axis—less costume, same posture.",
+        "zh": "Zeppelin 把脏放大成神话。Arctic Monkeys 后来写夜店观察，走路姿态里仍有 Stones DNA。\n\n摇摆与危险不断出现在近代主轴上——少了戏服，姿态还在。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "classic-watts",
+      "label": {
+        "en": "Jagger–Richards–Watts core",
+        "zh": "Jagger–Richards–Watts 核心"
+      },
+      "years": "1963–2021",
+      "peak": true,
+      "members": [
+        {
+          "name": "Mick Jagger",
+          "role": "Vocals"
+        },
+        {
+          "name": "Keith Richards",
+          "role": "Guitar"
+        },
+        {
+          "name": "Charlie Watts",
+          "role": "Drums"
+        },
+        {
+          "name": "Ronnie Wood",
+          "role": "Guitar"
+        }
+      ],
+      "note": {
+        "en": "Long-haul version: swing as identity, cast evolves slowly.",
+        "zh": "长跑版本：摇摆即身份，卡司缓慢演进。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "(I Can't Get No) Satisfaction",
+      "year": 1965,
+      "note": {
+        "en": "Fuzz riff as attitude: blues swagger for the charts.",
+        "zh": "Fuzz riff 即态度：把 Blues 傲气送上榜单。"
+      }
+    },
+    "pioneeredGenres": [
+      "hard-rock",
+      "blues"
+    ],
+    "note": {
+      "en": "Longevity template: keep the groove, change the clothes.",
+      "zh": "长寿模板：groove 不变，衣服常换。"
+    }
+  }
+}

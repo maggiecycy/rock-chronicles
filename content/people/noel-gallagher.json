@@ -1,0 +1,42 @@
+{
+  "name": "Noel Gallagher",
+  "slug": "noel-gallagher",
+  "born": 1967,
+  "origin": "Manchester, England",
+  "roles": [
+    "Guitar",
+    "Vocals",
+    "Songwriter"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Oasis's chief writer—and the living proof of the sibling-feud rock trope.",
+    "zh": "Oasis 的主笔——也是「兄弟必反目」摇滚梗的活证据。"
+  },
+  "whyHub": {
+    "en": "Songwriter hub who outlasts the classic Oasis lineup into a solo continuum.",
+    "zh": "活过 Oasis 经典阵容、进入独奏连续统的词曲枢纽。"
+  },
+  "body": {
+    "en": "Read Noel beside Liam as a Person pair: same band, incompatible orbits. Lineup versions of Oasis stay 'classic Britpop peak'; the sibling graph explains why the version ended.",
+    "zh": "把 Noel 与 Liam 当人物对来读：同一支乐队，不相容的轨道。Oasis 阵容版本仍是「Britpop 巅峰」；兄弟关系图解释版本为何结束。"
+  },
+  "tenures": [
+    {
+      "bandName": "Oasis",
+      "bandSlug": "oasis",
+      "role": "Guitar, Vocals",
+      "from": 1991,
+      "to": 2009
+    },
+    {
+      "bandName": "Noel Gallagher's High Flying Birds",
+      "role": "Vocals, Guitar",
+      "from": 2010,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "liam-gallagher"
+  ]
+}

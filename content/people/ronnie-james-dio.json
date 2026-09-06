@@ -1,0 +1,45 @@
+{
+  "name": "Ronnie James Dio",
+  "slug": "ronnie-james-dio",
+  "born": 1942,
+  "origin": "New Hampshire, USA",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Operatic metal throat who inherits Sabbath after Ozzy—and arrives already battle-tested in Rainbow.",
+    "zh": "歌剧式金属嗓，在 Ozzy 之后接手 Sabbath——抵达前已在 Rainbow 身经百战。"
+  },
+  "whyHub": {
+    "en": "Rainbow → Black Sabbath: proof the logo can change singers and still summon thunder.",
+    "zh": "Rainbow → Black Sabbath：证明 logo 能换主唱，仍能召唤雷。"
+  },
+  "body": {
+    "en": "Dio is the counter-exhibit to 'the singer is the band.' Rainbow makes him a fantasy-metal narrator; Sabbath's Dio years reinvent the myth without erasing Ozzy's weather. Listeners pick sides; the chronicle keeps both tenures.",
+    "zh": "Dio 是「主唱即乐队」的反例展品。Rainbow 让他成为幻想金属叙事者；Sabbath 的 Dio 年代重塑神话，却擦不掉 Ozzy 的天气。听众选边；编年史两边 tenure 都留。"
+  },
+  "tenures": [
+    {
+      "bandName": "Rainbow",
+      "bandSlug": "rainbow",
+      "role": "Vocals",
+      "from": 1975,
+      "to": 1979
+    },
+    {
+      "bandName": "Black Sabbath",
+      "bandSlug": "black-sabbath",
+      "role": "Vocals",
+      "from": 1979,
+      "to": 1982,
+      "note": {
+        "en": "Heaven and Hell era.",
+        "zh": "Heaven and Hell 年代。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "ozzy-osbourne"
+  ]
+}

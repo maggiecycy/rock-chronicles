@@ -1,0 +1,34 @@
+{
+  "slug": "side-project-main",
+  "title": {
+    "en": "The side project that ate dinner",
+    "zh": "支线项目把正餐吃了"
+  },
+  "summary": {
+    "en": "It starts as \"just for fun.\" Then the fun has better songs—and keeps the friends.",
+    "zh": "一开始叫「玩玩而已」。然后好玩的那边歌更好——朋友也留下了。"
+  },
+  "body": {
+    "en": "Side projects are pressure valves until they become forwarding addresses. Dave Grohl walks out of Nirvana's silence and builds Foo Fighters like someone assembling a second nervous system in public. Suddenly the \"main\" band is a ghost that still sells shirts.\n\nIt isn't betrayal so much as metabolism. Artists outgrow rooms. Audiences sometimes follow the person, not the logo—which is why Person pages matter more than loyalty oaths.",
+    "zh": "支线本是减压阀，直到变成新的通讯地址。Dave Grohl 走出 Nirvana 的沉默，把 Foo Fighters 搭得像当众组装第二套神经系统。然后「主队」变成仍在卖衣服的幽灵。\n\n这不太像背叛，更像新陈代谢。人会长出房间。听众有时跟人走，不跟 logo——所以 Person 页比效忠宣誓重要。"
+  },
+  "tone": "lore",
+  "examples": [
+    {
+      "personSlug": "dave-grohl",
+      "label": "Dave Grohl",
+      "note": {
+        "en": "From wreckage to a second life with choruses.",
+        "zh": "从残骸到带副歌的第二种人生。"
+      }
+    },
+    {
+      "bandSlug": "nirvana",
+      "label": "Nirvana",
+      "note": {
+        "en": "The silence that forced the pivot.",
+        "zh": "逼出转向的那场沉默。"
+      }
+    }
+  ]
+}

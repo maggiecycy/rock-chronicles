@@ -1,0 +1,183 @@
+{
+  "name": "Elvis Presley",
+  "slug": "elvis-presley",
+  "formed": 1954,
+  "origin": "Memphis, USA",
+  "primaryEra": "1950s-roots",
+  "genres": [
+    "rock-n-roll"
+  ],
+  "whyMatters": {
+    "en": "Sun Records heat, television hips, teenage voltage: Elvis turns southern music into a global star industry—rock's first seizure of the front stage.",
+    "zh": "Sun Records 的热度、电视上的胯、青少年电压：Elvis 把南方音乐焊成全球明星工业——摇滚第一次抢占正面舞台。"
+  },
+  "members": [
+    {
+      "name": "Elvis Presley",
+      "role": "Vocals, Guitar",
+      "years": "1954–1977"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "That's All Right",
+      "year": 1954
+    },
+    {
+      "title": "Hound Dog",
+      "year": 1956
+    },
+    {
+      "title": "Jailhouse Rock",
+      "year": 1957
+    }
+  ],
+  "scenes": [
+    {
+      "year": 1954,
+      "track": "That's All Right",
+      "membersOnStage": [
+        "Elvis Presley"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Sun Records",
+        "zh": "Sun Records：摇滚明星工业开机"
+      }
+    },
+    {
+      "year": 1956,
+      "track": "Hound Dog",
+      "membersOnStage": [
+        "Elvis Presley"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "电视时代的身体与丑闻能量"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I don't know anything about music. In my line you don't have to.",
+      "speaker": "Elvis Presley",
+      "source": "Widely cited remark · quote wall",
+      "year": 1957
+    }
+  ],
+  "lyricQuotes": [
+    "You ain't nothin' but a hound dog"
+  ],
+  "relatedBands": [
+    "chuck-berry",
+    "the-beatles"
+  ],
+  "influenceFrom": [],
+  "influenced": [
+    "the-beatles",
+    "the-rolling-stones"
+  ],
+  "shortBio": {
+    "en": "The switch that makes rock a global mass-culture event.",
+    "zh": "摇滚成为全球大众文化事件的开关。"
+  },
+  "decisive": true,
+  "body": {
+    "en": "Elvis is not only a voice. He is the moment southern rhythm, TV close-ups, and teenage want fuse into an industry.\n\nAfter him, rock does not ask to enter mass culture. It already owns the doorway.",
+    "zh": "Elvis 不只是嗓子。他是南方节奏、电视特写与少年欲望焊成工业的那一刻。\n\n在他之后，摇滚不必再申请进入大众文化。门口已经是它的。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "The front stage gets stolen",
+        "zh": "正面舞台被抢走"
+      },
+      "body": {
+        "en": "Before Elvis, popular stages still negotiate how much body and Black-rooted rhythm they will allow. He walks through the negotiation carrying a grin and a scandal.\n\nDecisive here means scale: rock stops being a regional noise and becomes a worldwide occupation of youth attention.",
+        "zh": "在 Elvis 之前，大众舞台还在商量能允许多少身体、多少黑人根源节奏。他笑着带着丑闻走进谈判桌。\n\n这里的决定性是规模：摇滚不再是地方噪音，而是全球青年注意力的占领。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "That's All Right: the factory boots up",
+        "zh": "That's All Right：工厂开机"
+      },
+      "body": {
+        "en": "Memphis, Sun Records, 1954. A country-blues hybrid that should not sit so easily in one take—yet it does, and the room hears a future.\n\nThe star industry's power switch flips here: not a corporation plan, a tape that refuses to stay local.",
+        "zh": "孟菲斯，Sun Records，1954。本不该这么轻易坐进一条 take 的乡村-蓝调混合物——它坐下了，房间听见未来。\n\n明星工业的电源在此按下：不是公司企划，是一盘拒绝待在本地的磁带。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Hound Dog: TV learns to panic",
+        "zh": "Hound Dog：电视学会惊慌"
+      },
+      "body": {
+        "en": "The Ed Sullivan edits, the camera that cuts away from the hips, the parents who hear danger in a smile—Hound Dog turns performance into national argument.\n\nRock discovers scandal as distribution. The body becomes part of the broadcast.",
+        "zh": "Ed Sullivan 的剪辑、躲开胯部的镜头、在微笑里听见危险的家长——Hound Dog 把表演变成全国辩论。\n\n摇滚发现丑闻也是发行渠道。身体成了广播的一部分。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "dna",
+      "title": {
+        "en": "Every later idol walks through Memphis",
+        "zh": "后来的偶像都路过孟菲斯"
+      },
+      "body": {
+        "en": "From British Invasion haircuts to arena charisma manuals, the Elvis template—voice, image, desire, controversy—keeps getting rented out.\n\nHe is less a genre than a career shape. The map still bends around that silhouette.",
+        "zh": "从 British Invasion 的发型到体育馆魅力手册，Elvis 模板——嗓音、形象、欲望、争议——不断被租用。\n\n他与其说是流派，不如说是一种生涯外形。地图仍绕着那道剪影弯曲。"
+      },
+      "stickyVisual": "dna",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "The grin that argued with a nation",
+        "zh": "跟整个国家抬杠的笑"
+      },
+      "body": {
+        "en": "Quotes around Elvis swing between worship and moral panic. That split is the story: mass culture learning it cannot look away.\n\nNail both tones to the wall. The contradiction is the voltage.",
+        "zh": "关于 Elvis 的引语在崇拜与道德恐慌之间摆。分裂本身就是故事：大众文化发现自己没法把视线挪开。\n\n两种语气都钉上墙。矛盾就是电压。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "rock-n-roll"
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "That's All Right",
+      "year": 1954,
+      "note": {
+        "en": "Sun Studios flashpoint: country + R&B collide on radio.",
+        "zh": "Sun 录音室引爆点：Country 与 R&B 在电台碰撞。"
+      }
+    },
+    "pioneeredGenres": [
+      "rock-n-roll"
+    ],
+    "note": {
+      "en": "Not the inventor of the sound—but the mass-media ignition.",
+      "zh": "未必发明音色，却点燃了大众媒介。"
+    }
+  }
+}

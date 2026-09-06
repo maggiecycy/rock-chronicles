@@ -1,0 +1,215 @@
+{
+  "name": "Fontaines D.C.",
+  "slug": "fontaines-dc",
+  "formed": 2017,
+  "origin": "Dublin, Ireland",
+  "primaryEra": "2010s-indie-modern",
+  "genres": [
+    "post-punk",
+    "indie-rock"
+  ],
+  "whyMatters": {
+    "en": "Dublin accent, city poetry, Post-Punk snap: Fontaines D.C. prove contemporary rock can still hold the chronicle with urgency and literature in the same breath.",
+    "zh": "都柏林口音、城市诗、Post-Punk 干脆：Fontaines D.C. 证明当代摇滚仍能用紧迫与文学同一口气占住编年史。"
+  },
+  "members": [
+    {
+      "name": "Grian Chatten",
+      "role": "Vocals",
+      "years": "2017–present"
+    },
+    {
+      "name": "Carlos O'Connell",
+      "role": "Guitar",
+      "years": "2017–present"
+    },
+    {
+      "name": "Conor Curley",
+      "role": "Guitar",
+      "years": "2017–present"
+    },
+    {
+      "name": "Conor Deegan III",
+      "role": "Bass",
+      "years": "2017–present"
+    },
+    {
+      "name": "Tom Coll",
+      "role": "Drums",
+      "years": "2017–present"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Boys in the Better Land",
+      "year": 2019
+    },
+    {
+      "title": "Jackie Down the Line",
+      "year": 2022
+    },
+    {
+      "title": "Starburster",
+      "year": 2024
+    }
+  ],
+  "scenes": [
+    {
+      "year": 2019,
+      "track": "Boys in the Better Land",
+      "membersOnStage": [
+        "Grian Chatten",
+        "Carlos O'Connell",
+        "Conor Curley",
+        "Conor Deegan III",
+        "Tom Coll"
+      ],
+      "genreTags": [
+        "post-punk",
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Post-Punk",
+        "zh": "都柏林口音遇上 Post-Punk 复兴"
+      }
+    },
+    {
+      "year": 2022,
+      "track": "Jackie Down the Line",
+      "membersOnStage": [
+        "Grian Chatten",
+        "Carlos O'Connell",
+        "Conor Curley",
+        "Conor Deegan III",
+        "Tom Coll"
+      ],
+      "genreTags": [
+        "post-punk"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "叙事单曲：近代主轴的文学面"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We're a rock band from Dublin. That's enough.",
+      "speaker": "Grian Chatten",
+      "source": "Interview paraphrase · Whisper-ready",
+      "year": 2020
+    }
+  ],
+  "lyricQuotes": [
+    "I was started in the better land"
+  ],
+  "relatedBands": [
+    "joy-division",
+    "arctic-monkeys",
+    "the-strokes"
+  ],
+  "influenceFrom": [
+    "joy-division",
+    "the-clash"
+  ],
+  "influenced": [],
+  "shortBio": {
+    "en": "A decisive voice in today's Post-Punk revival—ink-stained and loud.",
+    "zh": "当代 Post-Punk 复兴的决定性一员——墨水渍，声音响。"
+  },
+  "decisive": true,
+  "body": {
+    "en": "Fontaines D.C. write like the city is dictating and the band is typing at speed. Post-Punk revival gets a literary edge that still hits the body first.\n\nModern chapter, old urgency—no costume required.",
+    "zh": "Fontaines D.C. 写得像城市在口述，乐队在速记。Post-Punk 复兴有了文学锋刃，却仍先打身体。\n\n近代章节，旧紧迫——不必戏服。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Poetry that keeps the tempo",
+        "zh": "跟得上速度的诗"
+      },
+      "body": {
+        "en": "They matter because the revival is not only haircuts and chorus pedals. Grian's delivery makes lines feel carved into brick while the rhythm section refuses to wait for applause.\n\nContemporary rock stays on the axis when language and pulse refuse to divorce.",
+        "zh": "他们要紧，因为复兴不只是发型与合唱效果器。Grian 的吐字让句子像刻进砖墙，节奏组却不肯等掌声。\n\n当代摇滚留在主轴上，靠的是语言与脉搏不肯离婚。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Boys in the Better Land: accent as engine",
+        "zh": "Boys in the Better Land：口音当引擎"
+      },
+      "body": {
+        "en": "Dublin cadence riding a Post-Punk chassis. Boys in the Better Land turns local mouthfeel into export voltage—revival energy with a passport stamp from home.\n\nYou hear place before you hear genre tags.",
+        "zh": "都柏林腔骑在 Post-Punk 底盘上。Boys in the Better Land 把本地口腔肌肉变成出口电压——复兴能量，盖着家乡护照章。\n\n你先听见地方，后听见流派标签。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Jackie Down the Line: the narrative single",
+        "zh": "Jackie Down the Line：叙事单曲"
+      },
+      "body": {
+        "en": "A character study that still moves like a threat. Jackie Down the Line shows the literary face of the modern axis without turning into a reading group.\n\nStory and snap share the same minute.",
+        "zh": "人物速写，却仍像威胁在移动。Jackie Down the Line 亮出近代主轴的文学面，却不变成读书会。\n\n故事与干脆，共享同一分钟。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "dna",
+      "title": {
+        "en": "Joy Division weather, Dublin rain",
+        "zh": "Joy Division 天气，都柏林雨"
+      },
+      "body": {
+        "en": "Upstream: Post-Punk bass priority and punk's refusal to decorate. Downstream: whoever still believes a guitar band can carry poetry without soft focus.\n\nFontaines stand where revival meets a city that insists on being named.",
+        "zh": "上游：Post-Punk 的贝斯优先与朋克对装饰的拒绝。下游：仍相信吉他乐队能扛诗而不必柔焦的人。\n\nFontaines 站在复兴与一座坚持被点名的城市相遇处。"
+      },
+      "stickyVisual": "dna",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Lines that sound like brickwork",
+        "zh": "听起来像砌砖的句子"
+      },
+      "body": {
+        "en": "Interview and lyric blur: the same concrete nouns, the same impatience with vague cool. Quotes work when they sound buildable.\n\nNail the brick words. Atmosphere here is masonry, not mist.",
+        "zh": "访谈与歌词模糊：同样的具体名词，同样对含糊酷感的不耐烦。金句有效，因为听起来可砌。\n\n钉住砖词。这里的氛围是砌筑，不是薄雾。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "post-punk"
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Boys in the Better Land",
+      "year": 2019,
+      "note": {
+        "en": "Post-punk cadence with Dublin reportage.",
+        "zh": "Post-punk 节奏配都柏林纪实。"
+      }
+    },
+    "pioneeredGenres": [
+      "post-punk",
+      "indie-rock"
+    ],
+    "note": {
+      "en": "Proof the post-punk wire still carries current.",
+      "zh": "证明 post-punk 的线仍有电流。"
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "name": "Oasis",
+  "slug": "oasis",
+  "formed": 1991,
+  "origin": "Manchester, UK",
+  "primaryEra": "1990s-grunge-britpop",
+  "genres": [
+    "britpop",
+    "alternative"
+  ],
+  "whyMatters": {
+    "en": "Britpop's biggest amp: Beatles echoes and brother warfare put British guitar rock back at culture's loudest table.",
+    "zh": "Britpop 最大的扩音器：Beatles 回声与兄弟开战，把英国吉他摇滚拽回文化最吵的那张桌。"
+  },
+  "members": [
+    {
+      "name": "Liam Gallagher",
+      "role": "Vocals",
+      "years": "1994–1999",
+      "personSlug": "liam-gallagher"
+    },
+    {
+      "name": "Noel Gallagher",
+      "role": "Guitar, Vocals",
+      "years": "1994–1999",
+      "personSlug": "noel-gallagher"
+    },
+    {
+      "name": "Paul Arthurs",
+      "role": "Guitar",
+      "years": "1994–1999"
+    },
+    {
+      "name": "Paul McGuigan",
+      "role": "Bass",
+      "years": "1994–1999"
+    },
+    {
+      "name": "Alan White",
+      "role": "Drums",
+      "years": "1994–1999"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Live Forever",
+      "year": 1994
+    },
+    {
+      "title": "Wonderwall",
+      "year": 1995
+    },
+    {
+      "title": "Don't Look Back in Anger",
+      "year": 1995
+    }
+  ],
+  "scenes": [
+    {
+      "year": 1994,
+      "track": "Live Forever",
+      "membersOnStage": [
+        "Liam Gallagher",
+        "Noel Gallagher"
+      ],
+      "genreTags": [
+        "britpop"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Grunge",
+        "zh": "对抗 Grunge 阴郁的英国宣言"
+      }
+    },
+    {
+      "year": 1995,
+      "track": "Wonderwall",
+      "membersOnStage": [
+        "Liam Gallagher",
+        "Noel Gallagher"
+      ],
+      "genreTags": [
+        "britpop",
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Britpop",
+        "zh": "Britpop 的全球钩子"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We're the best band in the world.",
+      "speaker": "Noel Gallagher",
+      "source": "Press bravado · quote wall",
+      "year": 1996
+    }
+  ],
+  "lyricQuotes": [
+    "Maybe you're gonna be the one that saves me"
+  ],
+  "relatedBands": [
+    "the-beatles",
+    "radiohead",
+    "arctic-monkeys"
+  ],
+  "influenceFrom": [
+    "the-beatles",
+    "the-rolling-stones"
+  ],
+  "influenced": [
+    "arctic-monkeys"
+  ],
+  "shortBio": {
+    "en": "Britpop's mass-culture peak—swagger as national weather.",
+    "zh": "Britpop 的大众峰值——嚣张变成全国天气。"
+  },
+  "decisive": true,
+  "body": {
+    "en": "Oasis turn Mancunian certainty into choruses that fill parks. Noel writes the ladders; Liam sneers them into anthems; the tabloids do unpaid promotion.\n\nAgainst Grunge's weather, they answer with sunlight and a fight.",
+    "zh": "Oasis 把曼彻斯特式的笃定写成能填满公园的副歌。Noel 搭梯子；Liam 用冷笑把梯子唱成国歌；小报义务宣传。\n\n对着 Grunge 的天气，他们用阳光和打架回答。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Britain turns the volume back up",
+        "zh": "英国把音量拧回来"
+      },
+      "body": {
+        "en": "Britpop needed a band that could be both pub argument and stadium weather. Oasis arrive with Beatles DNA in the chords and sibling voltage in the interviews.\n\nDecisive because guitar rock reclaims the cultural center without asking alternative's permission slip.",
+        "zh": "Britpop 需要一支既能当酒吧抬杠又能当体育馆天气的乐队。Oasis 带着和弦里的 Beatles DNA 与访谈里的兄弟电压到场。\n\n决定性在于：吉他摇滚夺回文化中心，不必向「另类」申请通行证。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Brothers fixed, everyone else orbiting",
+        "zh": "兄弟固定，其余人绕行"
+      },
+      "body": {
+        "en": "Guitarists and bassists rotate; the Gallagher axis holds the weather. The classic mid-nineties cast is the one the parks remember.\n\nLineup talk is really about who survives the storm of two brothers.",
+        "zh": "吉他与贝斯手轮换；Gallagher 轴心守住天气。公园记得的是九十年代中期那套经典卡司。\n\n谈阵容，其实是在谈谁能在两兄弟的风暴里活下来。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Live Forever: a sunny counter-spell",
+        "zh": "Live Forever：一道阳光反咒"
+      },
+      "body": {
+        "en": "1994. Against flannel gloom, Live Forever offers endurance as swagger. The chorus is a refusal to inherit Seattle's weather wholesale.\n\nBritish guitar rock finds a slogan that sounds like a pub toast and a manifesto.",
+        "zh": "1994 年。对着法兰绒阴郁，Live Forever 把耐久写成嚣张。副歌拒绝整批发售继承西雅图天气。\n\n英国吉他摇滚找到一句听起来像酒吧敬酒又像宣言的口号。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Wonderwall: the global earworm with a sneer",
+        "zh": "Wonderwall：带着冷笑的全球耳虫"
+      },
+      "body": {
+        "en": "Acoustic verses, a melody that sticks like gum, Liam's vocal as attitude more than polish. Wonderwall leaves Britpop and becomes karaoke infrastructure.\n\nThat ubiquity is not embarrassment—it is proof the movement punched through.",
+        "zh": "木吉他主歌，像口香糖粘住的旋律，Liam 的嗓音态度多于抛光。Wonderwall 离开 Britpop，变成卡拉 OK 基础设施。\n\n无处不在不是难堪——是运动打穿天花板的证据。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "dna",
+      "title": {
+        "en": "Beatles ghosts, Stone Roses walk",
+        "zh": "Beatles 鬼魂，Stone Roses 步伐"
+      },
+      "body": {
+        "en": "Upstream: sixties melody memory and Madchester confidence. Downstream: every indie kid who wants choruses without apology, and every tabloid that still sells brother drama.\n\nOasis sit where heritage-pop and fight-culture shake hands.",
+        "zh": "上游：六十年代旋律记忆与 Madchester 自信。下游：每个想要不道歉副歌的 Indie 小孩，以及仍靠兄弟戏码卖报的小报。\n\nOasis 坐在遗产流行与打架文化握手的位置。"
+      },
+      "stickyVisual": "dna",
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Interviews as contact sport",
+        "zh": "访谈即接触性运动"
+      },
+      "body": {
+        "en": "Gallagher quotes are half song, half punch. Nail them because Britpop's oral history is combat sports with guitars in the background.\n\nThe music soars; the talk scrapes. Both are the band.",
+        "zh": "Gallagher 金句一半是歌，一半是拳头。钉上它们，因为 Britpop 口述史是背景有吉他的格斗运动。\n\n音乐升空；谈话擦地。两者都是这支乐队。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "britpop"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "britpop-peak",
+      "label": {
+        "en": "Britpop peak",
+        "zh": "Britpop 巅峰"
+      },
+      "years": "1994–1999",
+      "peak": true,
+      "members": [
+        {
+          "name": "Liam Gallagher",
+          "role": "Vocals",
+          "personSlug": "liam-gallagher"
+        },
+        {
+          "name": "Noel Gallagher",
+          "role": "Guitar, Vocals",
+          "personSlug": "noel-gallagher"
+        },
+        {
+          "name": "Paul Arthurs",
+          "role": "Guitar"
+        },
+        {
+          "name": "Paul McGuigan",
+          "role": "Bass"
+        },
+        {
+          "name": "Alan White",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Sibling engine at full volume—before the feud ends the version.",
+        "zh": "兄弟引擎全开——直到反目结束这个版本。"
+      }
+    },
+    {
+      "id": "later-oasis",
+      "label": {
+        "en": "Later Oasis",
+        "zh": "后期 Oasis"
+      },
+      "years": "2000–2009",
+      "members": [
+        {
+          "name": "Liam Gallagher",
+          "role": "Vocals",
+          "personSlug": "liam-gallagher"
+        },
+        {
+          "name": "Noel Gallagher",
+          "role": "Guitar, Vocals",
+          "personSlug": "noel-gallagher"
+        },
+        {
+          "name": "Gem Archer / Andy Bell / others",
+          "role": "Guitar / Bass"
+        }
+      ],
+      "note": {
+        "en": "Name continues; chemistry and cast keep shifting.",
+        "zh": "队名延续；化学反应与卡司持续滑动。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Live Forever",
+      "year": 1994,
+      "note": {
+        "en": "Britpop anthem: working-class swagger as melody.",
+        "zh": "Britpop 圣歌：劳工傲气写成旋律。"
+      }
+    },
+    "pioneeredGenres": [
+      "britpop"
+    ],
+    "note": {
+      "en": "Beatles ghosts + football-terrace volume.",
+      "zh": "Beatles 幽灵 + 看台音量。"
+    }
+  }
+}

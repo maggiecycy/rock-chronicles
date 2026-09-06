@@ -1,0 +1,29 @@
+{
+  "name": "Cream",
+  "slug": "cream",
+  "formed": 1966,
+  "origin": "London, UK",
+  "primaryEra": "1960s-british-invasion",
+  "genres": [
+    "blues",
+    "hard-rock",
+    "psychedelic"
+  ],
+  "decisive": false,
+  "members": [],
+  "essentialTracks": [],
+  "lyricQuotes": [],
+  "relatedBands": [
+    "the-yardbirds"
+  ],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Power trio fireworks: Clapton leaves the Yardbirds and invents a louder blues argument.",
+    "zh": "力量三重奏烟火：Clapton 离开 Yardbirds，发明更大声的 Blues 争论。"
+  },
+  "body": {
+    "en": "Power trio fireworks: Clapton leaves the Yardbirds and invents a louder blues argument. Bridge page for the shared-member graph—not a full decisive narrative yet.",
+    "zh": "力量三重奏烟火：Clapton 离开 Yardbirds，发明更大声的 Blues 争论。 共享成员图的桥梁页——尚未展开决定性长叙事。"
+  }
+}

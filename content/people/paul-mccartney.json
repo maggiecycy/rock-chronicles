@@ -1,0 +1,41 @@
+{
+  "name": "Paul McCartney",
+  "slug": "paul-mccartney",
+  "born": 1942,
+  "origin": "Liverpool, UK",
+  "roles": [
+    "Vocals",
+    "Bass",
+    "Guitar"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Beatles bass and melody engine who keeps writing after the logo ends—Wings as proof of person > brand.",
+    "zh": "Beatles 的贝斯与旋律引擎，logo 结束后仍在写——Wings 证明人大于品牌。"
+  },
+  "whyHub": {
+    "en": "Beatles → Wings: the most famous logo-change in rock, same ear following one writer.",
+    "zh": "Beatles → Wings：摇滚最著名的换 logo，耳朵仍跟着同一个作者。"
+  },
+  "body": {
+    "en": "McCartney is how you teach beginners that bands end and songs don't. Inside The Beatles he is half of the songwriting weather system; in Wings he rebuilds a touring life without pretending the sixties never happened.\n\nOn the graph he is a clean edge: Liverpool four-piece to post-Beatles vehicle.",
+    "zh": "教新人「乐队会结束、歌不会」时，McCartney 是最好的教具。在 Beatles 里他是作曲天气的一半；在 Wings 里他重建巡演人生，却不假装六十年代没发生过。\n\n图上他是干净的一条边：利物浦四人组到后 Beatles 载具。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Beatles",
+      "bandSlug": "the-beatles",
+      "role": "Vocals, Bass",
+      "from": 1960,
+      "to": 1970
+    },
+    {
+      "bandName": "Wings",
+      "bandSlug": "wings",
+      "role": "Vocals, Bass, Guitar",
+      "from": 1971,
+      "to": 1981
+    }
+  ],
+  "relatedPeople": []
+}

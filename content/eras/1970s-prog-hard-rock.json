@@ -1,0 +1,39 @@
+{
+  "name": {
+    "en": "1970s Prog & Hard Rock",
+    "zh": "1970s 前卫与硬摇滚"
+  },
+  "slug": "1970s-prog-hard-rock",
+  "decade": "1970s",
+  "years": "1970–1979",
+  "order": 3,
+  "summary": {
+    "en": "Rock gets huge—either in the head, or in the chest, or both.",
+    "zh": "摇滚变得巨大——要么在脑子里，要么在胸口，要么两边一起。"
+  },
+  "sound": {
+    "en": "Concept side-longs, crushed riffs, drums like weather fronts",
+    "zh": "概念长曲、压扁的 riff、像锋面一样的鼓"
+  },
+  "anchorBands": [
+    "led-zeppelin",
+    "pink-floyd",
+    "king-crimson",
+    "black-sabbath"
+  ],
+  "alsoNotable": [
+    "Queen",
+    "Yes",
+    "Deep Purple",
+    "David Bowie"
+  ],
+  "genres": [
+    "progressive-rock",
+    "hard-rock",
+    "psychedelic"
+  ],
+  "body": {
+    "en": "The seventies argue with themselves in public. Prog wants cathedrals and odd meters. Hard Rock wants the air to move when the chorus hits. Zeppelin turns dynamics into religion; Sabbath invents a colder kind of heavy; Floyd builds theatres of dread and beauty; Crimson keeps the blade sharp.\n\nArena rock is born here—not as a insult yet, just as physics. If the song is big enough, the room has to grow.",
+    "zh": "七十年代当众跟自己吵架。Prog 要大教堂和怪拍子。Hard Rock 要副歌落下时空气会动。Zeppelin 把动态做成宗教；Sabbath 发明一种更冷的重；Floyd 搭起恐惧与美的剧场；Crimson 把刀刃磨利。\n\n体育馆摇滚在这儿出生——当时还不是骂人话，只是物理：歌够大，房间就得长大。"
+  }
+}

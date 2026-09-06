@@ -1,0 +1,38 @@
+{
+  "name": {
+    "en": "1960s British Invasion",
+    "zh": "1960s 英国入侵"
+  },
+  "slug": "1960s-british-invasion",
+  "decade": "1960s",
+  "years": "1960–1969",
+  "order": 2,
+  "summary": {
+    "en": "Britain ships American roots back louder—and invents the modern band as a world.",
+    "zh": "英国把美国根源更大声寄回来——并把「现代乐队」做成一个世界。"
+  },
+  "sound": {
+    "en": "Jangling guitars, screaming crowds, studio doors left open all night",
+    "zh": "叮当吉他、尖叫人群、整夜不关的录音室门"
+  },
+  "anchorBands": [
+    "the-beatles",
+    "the-rolling-stones",
+    "the-who",
+    "the-jimi-hendrix-experience"
+  ],
+  "alsoNotable": [
+    "The Kinks",
+    "The Yardbirds",
+    "Cream",
+    "The Doors"
+  ],
+  "genres": [
+    "rock-n-roll",
+    "psychedelic"
+  ],
+  "body": {
+    "en": "Liverpool and London don't invent electricity; they weaponize longing. The Beatles turn singles into weather systems, then albums into planets. The Stones keep the blues swagger and refuse to grow up on schedule. The Who smash gear like politics. Hendrix arrives and rewrites what a guitar is allowed to do in public.\n\nBy decade's end the template is set: band as brand, album as statement, stage as myth machine.",
+    "zh": "利物浦和伦敦没有发明电；他们把思念做成武器。Beatles 把单曲变成天气，再把专辑变成行星。Stones 守着 Blues 的拽，拒绝按时长大。The Who 砸器材像在搞政治。Hendrix 一来，公开重写吉他被允许做什么。\n\n十年结束时模板定了：乐队即品牌，专辑即声明，舞台即造神话的机器。"
+  }
+}

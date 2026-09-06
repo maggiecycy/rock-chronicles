@@ -1,0 +1,43 @@
+{
+  "name": "Bernard Sumner",
+  "slug": "bernard-sumner",
+  "born": 1956,
+  "origin": "Manchester, UK",
+  "roles": [
+    "Guitar",
+    "Vocals",
+    "Synths"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Joy Division guitarist who learns to sing after Curtis—and steers New Order onto the dancefloor frost.",
+    "zh": "Joy Division 吉他手，在 Curtis 之后学会唱歌——把 New Order 开上结霜的舞池。"
+  },
+  "whyHub": {
+    "en": "Joy Division → New Order: grief metabolized into a second band that outlives the first.",
+    "zh": "Joy Division → New Order：悲伤代谢成第二支更长寿的乐队。"
+  },
+  "body": {
+    "en": "Sumner carries the Manchester bloodline across a silence. Joy Division freezes post-punk into hymns; New Order keeps the pulse and adds club electricity. Same city, same friends, different weather—exactly what Person pages are for.",
+    "zh": "Sumner 把曼城血脉带过一场沉默。Joy Division 把后朋克冻成圣歌；New Order 留下脉搏，加上俱乐部电流。同一座城、同一批朋友、不同天气——正是 Person 页存在的理由。"
+  },
+  "tenures": [
+    {
+      "bandName": "Joy Division",
+      "bandSlug": "joy-division",
+      "role": "Guitar",
+      "from": 1976,
+      "to": 1980
+    },
+    {
+      "bandName": "New Order",
+      "bandSlug": "new-order",
+      "role": "Vocals, Guitar, Synths",
+      "from": 1980,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "peter-hook"
+  ]
+}

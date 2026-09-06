@@ -1,0 +1,40 @@
+{
+  "name": "Thom Yorke",
+  "slug": "thom-yorke",
+  "born": 1968,
+  "origin": "Wellingborough, England",
+  "roles": [
+    "Vocals",
+    "Guitar",
+    "Keys"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Radiohead's uneasy center—and a solo/Atoms for Peace graph beyond the five-piece.",
+    "zh": "Radiohead 不安的中心——以及五人组之外的独奏 / Atoms for Peace 图谱。"
+  },
+  "whyHub": {
+    "en": "Stable band lineups can still host a person who branches into parallel projects.",
+    "zh": "稳定乐队阵容里，仍可有一个向平行项目分叉的人物。"
+  },
+  "body": {
+    "en": "Yorke shows a third pattern: not fired-and-solo (Ozzy), not drummer-to-frontman (Grohl), but parallel selves. Radiohead's lineup version stays remarkably steady; the person hub carries the side quests.",
+    "zh": "Yorke 展示第三种模式：不是被开除后独奏（Ozzy），不是鼓手变主唱（Grohl），而是平行自我。Radiohead 阵容版本异常稳定；人物枢纽扛起支线任务。"
+  },
+  "tenures": [
+    {
+      "bandName": "Radiohead",
+      "bandSlug": "radiohead",
+      "role": "Vocals, Guitar, Keys",
+      "from": 1985,
+      "to": "present"
+    },
+    {
+      "bandName": "Solo / Atoms for Peace",
+      "role": "Vocals, Keys",
+      "from": 2006,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": []
+}

@@ -1,0 +1,234 @@
+{
+  "name": "Arctic Monkeys",
+  "slug": "arctic-monkeys",
+  "formed": 2002,
+  "origin": "Sheffield, UK",
+  "primaryEra": "2000s-revival",
+  "alsoAppearsIn": [
+    "2010s-indie-modern"
+  ],
+  "genres": [
+    "indie-rock",
+    "alternative"
+  ],
+  "decisive": true,
+  "whyMatters": {
+    "en": "MySpace-era Sheffield chat becomes global guitar pop—then they keep shedding skins without quitting the band promise.",
+    "zh": "MySpace 时代的谢菲尔德闲聊变成全球吉他流行——然后他们不断换皮，却不放弃「我们是乐队」的承诺。"
+  },
+  "members": [
+    {
+      "name": "Alex Turner",
+      "role": "Vocals, Guitar",
+      "years": "2002–present"
+    },
+    {
+      "name": "Jamie Cook",
+      "role": "Guitar",
+      "years": "2002–present"
+    },
+    {
+      "name": "Nick O'Malley",
+      "role": "Bass",
+      "years": "2006–present"
+    },
+    {
+      "name": "Matt Helders",
+      "role": "Drums, Vocals",
+      "years": "2002–present"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "I Bet You Look Good on the Dancefloor",
+      "year": 2005
+    },
+    {
+      "title": "Do I Wanna Know?",
+      "year": 2013
+    },
+    {
+      "title": "505",
+      "year": 2007
+    }
+  ],
+  "scenes": [
+    {
+      "year": 2005,
+      "track": "I Bet You Look Good on the Dancefloor",
+      "membersOnStage": [
+        "Alex Turner",
+        "Jamie Cook",
+        "Matt Helders"
+      ],
+      "genreTags": [
+        "indie-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "MySpace",
+        "zh": "MySpace 时代的急速车库出道神话"
+      }
+    },
+    {
+      "year": 2007,
+      "track": "505",
+      "membersOnStage": [
+        "Alex Turner",
+        "Jamie Cook",
+        "Nick O'Malley",
+        "Matt Helders"
+      ],
+      "genreTags": [
+        "indie-rock",
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "叙事歌曲：观察式歌词的成熟面"
+      }
+    },
+    {
+      "year": 2013,
+      "track": "Do I Wanna Know?",
+      "membersOnStage": [
+        "Alex Turner",
+        "Jamie Cook",
+        "Nick O'Malley",
+        "Matt Helders"
+      ],
+      "genreTags": [
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "沙漠摇滚质感：换皮后的全球钩子"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I just wanted to be one of The Strokes.",
+      "speaker": "Alex Turner",
+      "source": "Lyric / interview crossover · quote wall",
+      "year": 2006
+    },
+    {
+      "text": "We're still a guitar band. That hasn't changed.",
+      "speaker": "Matt Helders",
+      "source": "Press excerpt · Whisper-ready",
+      "year": 2018
+    }
+  ],
+  "lyricQuotes": [
+    "I just wanted to be one of The Strokes",
+    "Do I wanna know if this feeling flows both ways?"
+  ],
+  "relatedBands": [
+    "radiohead",
+    "the-rolling-stones"
+  ],
+  "influenceFrom": [
+    "the-rolling-stones",
+    "nirvana",
+    "radiohead"
+  ],
+  "influenced": [],
+  "shortBio": {
+    "en": "Network-era UK Indie anchor: observational lyrics, mutating guitar pop.",
+    "zh": "网络时代英国 Indie 锚点：观察式歌词，不断变体的吉他流行。"
+  },
+  "body": {
+    "en": "Arctic Monkeys turn nightclub-door talk into singles, then refuse to freeze the first photograph. Sheffield observation, desert heat, lounge cool—same handwriting, new weather.\n\nProof the rock axis can update in the streaming age without surrendering the guitars.",
+    "zh": "Arctic Monkeys 把夜店门口的话写成单曲，又拒绝把第一张照片冻住。谢菲尔德观察、沙漠热、lounge 冷——同一笔迹，新天气。\n\n证明流媒体时代摇滚主轴仍可更新，而不必交出吉他。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "The axis still updates",
+        "zh": "主轴仍在更新"
+      },
+      "body": {
+        "en": "If the chronicle stops in the nineties, it misreads the present. Monkeys stand for 2000s–2010s: after post-punk and garage revival, Indie can still write global hooks and keep mutating without quitting the guitar-band contract.\n\nContemporary does not have to mean non-rock.",
+        "zh": "编年史若停在九十年代，就会误读当代。Monkeys 代表 2000s–2010s：后朋克与车库复兴之后，Indie 仍能写出全球钩子，持续换皮却不毁约「吉他乐队」。\n\n当代不必等于非摇滚。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "dancefloor",
+      "title": {
+        "en": "I Bet You Look Good: MySpace ignition",
+        "zh": "I Bet You Look Good：MySpace 点火"
+      },
+      "body": {
+        "en": "Rapid-fire riffs, dancefloor nouns, a Sheffield accent that travels farther than expected. The early singles prove a new medium can still carry old instruments into a frenzy.\n\nThe network changes distribution. The axis instrument can stay a guitar.",
+        "zh": "连珠炮 riff、舞池名词、比预期走得更远的谢菲尔德口音。早期单曲证明新媒体仍能扛着老乐器掀起狂热。\n\n网络改的是发行。主轴乐器可以仍是吉他。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "diwk",
+      "title": {
+        "en": "Do I Wanna Know?: desert skin, same stare",
+        "zh": "Do I Wanna Know?：沙漠皮，同一道盯视"
+      },
+      "body": {
+        "en": "Slower heat, thicker groove, a riff that leans like a streetlight. Do I Wanna Know? proves they are not a nostalgia jukebox—they update the fingerprint and remain recognizable.\n\nDecisive modern bands pass this test: new weather, same name that still fits.",
+        "zh": "更慢的热，更厚的律动，像路灯倾斜的 riff。Do I Wanna Know? 证明他们不是怀旧点唱机——声纹更新，仍可辨认。\n\n决定性近代乐队过这一关：新天气，旧名字仍然合身。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "dna",
+      "title": {
+        "en": "Street notes, alternative license",
+        "zh": "街道笔记，另类许可"
+      },
+      "body": {
+        "en": "Stones swing-observation, Nirvana's alternative permission, Radiohead's courage to molt—Monkeys inherit a toolkit and spend it on taxis, nights out, and later mirages.\n\nUK Indie stays on the main spine because someone keeps filing new reports from the pavement.",
+        "zh": "Stones 的摇摆观察、Nirvana 的另类许可、Radiohead 的换皮勇气——Monkeys 继承工具箱，花在出租车、夜出与后来的海市蜃楼上。\n\n英国 Indie 留在主脊上，因为有人持续从人行道发回新报道。"
+      },
+      "stickyVisual": "dna",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "The generation that wanted to be The Strokes",
+        "zh": "想成为 Strokes 的那一代"
+      },
+      "body": {
+        "en": "Early quotes and lyrics confess a 2000s revival hunger—New York cool seen from a northern night out. The ambition is candid, almost documentary.\n\nPin the confession. It dates the ignition without freezing the later skins.",
+        "zh": "早期金句与歌词坦白一种 2000s 复兴饥饿——从北方夜出看见的纽约酷。野心坦白，近乎纪录片。\n\n钉住坦白。它给点火标注日期，却不冻结后来的皮。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "indie-rock"
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "I Bet You Look Good on the Dancefloor",
+      "year": 2005,
+      "note": {
+        "en": "MySpace-era UK indie: wit at thrash tempo.",
+        "zh": "MySpace 时代英伦 indie：机智配 thrash 速度。"
+      }
+    },
+    "pioneeredGenres": [
+      "indie-rock"
+    ],
+    "note": {
+      "en": "Internet word-of-mouth becomes a chart machine.",
+      "zh": "网络口碑变成榜单机器。"
+    }
+  }
+}

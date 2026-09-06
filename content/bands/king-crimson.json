@@ -1,0 +1,301 @@
+{
+  "name": "King Crimson",
+  "slug": "king-crimson",
+  "formed": 1968,
+  "origin": "London, UK",
+  "primaryEra": "1970s-prog-hard-rock",
+  "genres": [
+    "progressive-rock"
+  ],
+  "decisive": true,
+  "whyMatters": {
+    "en": "Odd meters, revolving lineups, no comfort zone: King Crimson is Prog's sharp edge—rock that can cut, not only swell.",
+    "zh": "不对称拍子、不断换人、没有舒适区：King Crimson 是 Prog 的锋刃——摇滚可以割伤人，不只是膨胀。"
+  },
+  "members": [
+    {
+      "name": "Robert Fripp",
+      "role": "Guitar",
+      "years": "1968–1969",
+      "personSlug": "robert-fripp"
+    },
+    {
+      "name": "Greg Lake",
+      "role": "Vocals, Bass",
+      "years": "1968–1969"
+    },
+    {
+      "name": "Ian McDonald",
+      "role": "Mellotron, Woodwinds",
+      "years": "1968–1969"
+    },
+    {
+      "name": "Michael Giles",
+      "role": "Drums",
+      "years": "1968–1969"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "21st Century Schizoid Man",
+      "year": 1969
+    },
+    {
+      "title": "Starless",
+      "year": 1974
+    },
+    {
+      "title": "Elephant Talk",
+      "year": 1981
+    }
+  ],
+  "scenes": [
+    {
+      "year": 1969,
+      "track": "21st Century Schizoid Man",
+      "membersOnStage": [
+        "Robert Fripp",
+        "Greg Lake",
+        "Ian McDonald",
+        "Michael Giles"
+      ],
+      "genreTags": [
+        "progressive-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Prog",
+        "zh": "Prog 开门即战争：噪声、萨克斯与不对称冲击"
+      }
+    },
+    {
+      "year": 1974,
+      "track": "Starless",
+      "membersOnStage": [
+        "Robert Fripp"
+      ],
+      "genreTags": [
+        "progressive-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Prog",
+        "zh": "长呼吸结构：锋利 Prog 的抒情面"
+      }
+    },
+    {
+      "year": 1981,
+      "track": "Elephant Talk",
+      "membersOnStage": [
+        "Robert Fripp",
+        "Adrian Belew"
+      ],
+      "genreTags": [
+        "progressive-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Crimson",
+        "zh": "新浪潮节奏网格：Crimson 的自我改版"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "King Crimson is a way of doing things.",
+      "speaker": "Robert Fripp",
+      "source": "Interview excerpt · quote wall",
+      "year": 1981
+    },
+    {
+      "text": "Discipline is a vehicle for music.",
+      "speaker": "Robert Fripp",
+      "source": "Workshop / interview excerpt · Whisper-ready",
+      "year": 1995
+    }
+  ],
+  "lyricQuotes": [
+    "Cat's foot iron claw, neurosurgeons scream for more",
+    "Nothing at the end of the rainbow"
+  ],
+  "relatedBands": [
+    "pink-floyd",
+    "led-zeppelin"
+  ],
+  "influenceFrom": [],
+  "influenced": [
+    "radiohead"
+  ],
+  "shortBio": {
+    "en": "Prog's sharp edge: asymmetry, reinvention, no comfort zone.",
+    "zh": "Prog 的锋利刀口：不对称节奏、不断重组、拒绝舒适区。"
+  },
+  "body": {
+    "en": "King Crimson is not pretty Prog. From In the Court of the Crimson King onward, Fripp treats version changes as the experiment itself.\n\nBeside Floyd's immersion, they are the other pole: structure that can injure.",
+    "zh": "King Crimson 不是好听的 Prog。从 In the Court of the Crimson King 起，Fripp 把版本更迭本身当作实验。\n\n相对 Floyd 的沉浸，他们是另一极：会割伤人的结构。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Sharp, not swollen",
+        "zh": "锋利，而非膨胀"
+      },
+      "body": {
+        "en": "Where Floyd builds rooms you walk into, Crimson builds blades you notice too late. Odd meters and sudden dynamics refuse the sofa.\n\nDecisive Prog is not only grandeur. It is the proof that avant-garde rock can enter the canon without smiling for the brochure.",
+        "zh": "Floyd 造你能走进去的房间；Crimson 造你发现太晚的刀刃。不对称拍与突然动态拒绝沙发。\n\n决定性的 Prog 不只是宏大。它证明前卫摇滚可以进正史，而不必对着宣传册微笑。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "New cast, same method",
+        "zh": "新卡司，同一套方法"
+      },
+      "body": {
+        "en": "Names change like seasons. Fripp remains the method: discipline, risk, refusal of nostalgia as product.\n\nFreeze a few peak lineups you can actually remember—then read them as instruments, not celebrity churn.",
+        "zh": "名字像季节一样换。Fripp 留下方法：纪律、风险、拒绝把怀旧当商品。\n\n冻结少数你真正记得住的巅峰卡司——当仪器读，不当明星轮换读。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "schizoid",
+      "title": {
+        "en": "Schizoid Man: the opening shot",
+        "zh": "Schizoid Man：开门一枪"
+      },
+      "body": {
+        "en": "1969. Jazz bite welded to rock impact; the saxophone does not decorate, it attacks. 21st Century Schizoid Man opens Prog's chronicle with gunpowder, not incense.\n\nIf you need a first row for dangerous progressive music, this is it.",
+        "zh": "1969 年。爵士的咬合焊上摇滚冲击；萨克斯不装饰，它进攻。21st Century Schizoid Man 用火药而不是香火打开 Prog 编年。\n\n若危险前卫需要第一行，就是这一行。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "lineup",
+      "title": {
+        "en": "Personnel as instrument change",
+        "zh": "换人即换乐器"
+      },
+      "body": {
+        "en": "Who stands on stage keeps shifting; the name King Crimson stays as a laboratory label. Read members beside scenes: same banner, different apparatus.\n\nThat is the method made visible—reinvention without brand softness.",
+        "zh": "台上是谁不断变；King Crimson 这个名字像实验室标签留下。成员要和场景一起读：同一旗帜，不同仪器。\n\n方法由此可见——重造，却不把品牌磨软。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "A band as a way of working",
+        "zh": "乐队是一种做事方式"
+      },
+      "body": {
+        "en": "Fripp talks method more than myth. The quotes nail a philosophy that contrasts with Zeppelin's four-locked forever.\n\nCrimson is a practice you join, not a selfie you inherit.",
+        "zh": "Fripp 谈方法多过谈神话。金句钉住一种哲学，对照 Zeppelin 的四人永久锁死。\n\nCrimson 是你加入的练习，不是你继承的自拍姿势。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Who picks up the blade",
+        "zh": "谁接过刀刃"
+      },
+      "body": {
+        "en": "Radiohead and other restless moderns absorb the permission: asymmetry, version change, no loyalty to yesterday's success costume.\n\nProgressive bleeds into Alternative here—not as costume drama, as work ethic.",
+        "zh": "Radiohead 和其他不安的近代乐队吸收的是许可：不对称、改版、不对昨天的成功戏服效忠。\n\nProgressive 在此渗进 Alternative——不是古装戏，是工作伦理。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "progressive-rock"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "court-1969",
+      "label": {
+        "en": "Court era (1969)",
+        "zh": "Court 时期（1969）"
+      },
+      "years": "1968–1969",
+      "peak": true,
+      "members": [
+        {
+          "name": "Robert Fripp",
+          "role": "Guitar",
+          "personSlug": "robert-fripp"
+        },
+        {
+          "name": "Greg Lake",
+          "role": "Vocals, Bass"
+        },
+        {
+          "name": "Ian McDonald",
+          "role": "Mellotron, Woodwinds"
+        },
+        {
+          "name": "Michael Giles",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Opening blast—then the cast resets around Fripp.",
+        "zh": "开门炮——随后卡司以 Fripp 为常量重置。"
+      }
+    },
+    {
+      "id": "discipline-1981",
+      "label": {
+        "en": "Discipline era (1981)",
+        "zh": "Discipline 时期（1981）"
+      },
+      "years": "1981–1984",
+      "members": [
+        {
+          "name": "Robert Fripp",
+          "role": "Guitar",
+          "personSlug": "robert-fripp"
+        },
+        {
+          "name": "Adrian Belew",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Tony Levin",
+          "role": "Bass, Stick"
+        },
+        {
+          "name": "Bill Bruford",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "New-wave grid Crimson—same method, new instruments.",
+        "zh": "新浪潮网格 Crimson——同一方法，新乐器。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "21st Century Schizoid Man",
+      "year": 1969,
+      "note": {
+        "en": "Prog's opening scream: jazz chaos meets rock force.",
+        "zh": "Prog 的开场尖叫：爵士混乱遇见摇滚力量。"
+      }
+    },
+    "pioneeredGenres": [
+      "progressive-rock"
+    ],
+    "note": {
+      "en": "Compositional ambition without abandoning abrasion.",
+      "zh": "作曲野心不放弃粗糙感。"
+    }
+  }
+}

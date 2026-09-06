@@ -1,0 +1,206 @@
+{
+  "name": "Joy Division",
+  "slug": "joy-division",
+  "formed": 1976,
+  "origin": "Salford, UK",
+  "primaryEra": "1980s-punk-metal",
+  "genres": [
+    "post-punk"
+  ],
+  "whyMatters": {
+    "en": "Punk energy pressed into cold bass and empty air—Post-Punk and Indie inherit a mood and a rhythm grammar that still feels like night.",
+    "zh": "把 Punk 的能量压进冰冷低音与空房间——Post-Punk 与 Indie 继承一种至今仍像夜晚的情绪与节奏语法。"
+  },
+  "members": [
+    {
+      "name": "Ian Curtis",
+      "role": "Vocals",
+      "years": "1976–1980"
+    },
+    {
+      "name": "Bernard Sumner",
+      "role": "Guitar",
+      "years": "1976–1980"
+    },
+    {
+      "name": "Peter Hook",
+      "role": "Bass",
+      "years": "1976–1980"
+    },
+    {
+      "name": "Stephen Morris",
+      "role": "Drums",
+      "years": "1977–1980"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Love Will Tear Us Apart",
+      "year": 1980
+    },
+    {
+      "title": "Atmosphere",
+      "year": 1980
+    },
+    {
+      "title": "Transmission",
+      "year": 1979
+    }
+  ],
+  "scenes": [
+    {
+      "year": 1979,
+      "track": "Transmission",
+      "membersOnStage": [
+        "Ian Curtis",
+        "Bernard Sumner",
+        "Peter Hook",
+        "Stephen Morris"
+      ],
+      "genreTags": [
+        "post-punk"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "舞蹈命令遇上疏离"
+      }
+    },
+    {
+      "year": 1980,
+      "track": "Love Will Tear Us Apart",
+      "membersOnStage": [
+        "Ian Curtis",
+        "Bernard Sumner",
+        "Peter Hook",
+        "Stephen Morris"
+      ],
+      "genreTags": [
+        "post-punk"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Post-Punk",
+        "zh": "Post-Punk 进入大众记忆的单曲"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I used to think of myself as an artist.",
+      "speaker": "Ian Curtis",
+      "source": "Letter / interview material · Whisper-ready",
+      "year": 1979
+    }
+  ],
+  "lyricQuotes": [
+    "Love will tear us apart again"
+  ],
+  "relatedBands": [
+    "the-clash",
+    "radiohead",
+    "fontaines-dc"
+  ],
+  "influenceFrom": [],
+  "influenced": [
+    "radiohead",
+    "the-strokes",
+    "fontaines-dc"
+  ],
+  "shortBio": {
+    "en": "Decisive template for Post-Punk mood and bass lines.",
+    "zh": "Post-Punk 情绪与低音线的决定性模板。"
+  },
+  "decisive": true,
+  "body": {
+    "en": "Joy Division take punk's urgency and refrigerate it. Hooky's bass leads, Sumner's guitar scratches at the walls, Curtis sings like the floor might open.\n\nThe template for Post-Punk mood is locked before the decade turns.",
+    "zh": "Joy Division 把朋克的紧迫放进冷藏。Hooky 的贝斯领路，Sumner 的吉他刮墙，Curtis 唱得像地板可能裂开。\n\nPost-Punk 情绪模板在十年翻页前就锁死了。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Cold rooms after the spit",
+        "zh": "吐口水之后的冷房间"
+      },
+      "body": {
+        "en": "Punk breaks the furniture. Joy Division rearranges what is left into negative space. Bass becomes melody; drums become machinery; emotion arrives as frost.\n\nIndie later borrows the coat. Few fill it the same way.",
+        "zh": "Punk 砸家具。Joy Division 把剩下的排成负空间。贝斯变主旋律，鼓变机器，情绪以霜的形式到场。\n\n后来 Indie 借这件外套。很少有人穿出同样的样子。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Transmission: dance order, distance kept",
+        "zh": "Transmission：跳舞命令，距离保留"
+      },
+      "body": {
+        "en": "Dance, dance, dance to the radio—an order delivered from a great emotional distance. Transmission makes movement feel like discipline and release at once.\n\nPost-Punk learns it can be physical without becoming cheerful.",
+        "zh": "Dance, dance, dance to the radio——命令从很远的情感距离送达。Transmission 让移动同时像纪律与释放。\n\nPost-Punk 学会可以身体性，而不必变得欢快。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Love Will Tear Us Apart: the public scar",
+        "zh": "Love Will Tear Us Apart：公开的伤疤"
+      },
+      "body": {
+        "en": "The single that carries Post-Punk into common memory. Melody almost kind; lyric not kind at all.\n\nAfter this, cold music can chart. The contradiction becomes a genre habit.",
+        "zh": "把 Post-Punk 带进大众记忆的单曲。旋律近乎温柔；歌词一点也不。\n\n在此之后，冷的音乐也能上榜。矛盾变成流派习惯。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "dna",
+      "title": {
+        "en": "Bass lines that taught a generation to walk",
+        "zh": "教会一代人走路的低音线"
+      },
+      "body": {
+        "en": "From Factory Records afterglow to countless Indie bassists who lead with the left hand, Joy Division sit upstream of mood rock.\n\nPunk's children learn restraint here—and never quite warm up again.",
+        "zh": "从 Factory 余烬到无数用左手领路的 Indie 贝斯手，Joy Division 坐在情绪摇滚上游。\n\nPunk 的孩子们在这里学会克制——并且再也没真正暖和回来。"
+      },
+      "stickyVisual": "dna",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Few words, long shadows",
+        "zh": "话很少，影子很长"
+      },
+      "body": {
+        "en": "Curtis's lines and the band's sparse talk leave more shadow than explanation. The quotes work because they refuse therapy language.\n\nNail them lightly. The music already said the heavy part.",
+        "zh": "Curtis 的句子与乐队稀少的谈话留下影子多于解释。金句有效，因为它们拒绝疗愈腔。\n\n轻轻钉上。重的部分音乐已经说完。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "post-punk"
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Love Will Tear Us Apart",
+      "year": 1980,
+      "note": {
+        "en": "Post-punk as cold dancefloor confession.",
+        "zh": "Post-punk 如冰冷舞池告白。"
+      }
+    },
+    "pioneeredGenres": [
+      "post-punk"
+    ],
+    "note": {
+      "en": "Space, bass, and restraint become a whole aesthetic.",
+      "zh": "空间、贝斯与克制自成美学。"
+    }
+  }
+}

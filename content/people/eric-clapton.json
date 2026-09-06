@@ -1,0 +1,42 @@
+{
+  "name": "Eric Clapton",
+  "slug": "eric-clapton",
+  "born": 1945,
+  "origin": "Surrey, UK",
+  "roles": [
+    "Guitar",
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Yardbirds blues prodigy who exits into Cream—and keeps teaching rock how to worship the solo.",
+    "zh": "Yardbirds 的 Blues 神童，出走进入 Cream——持续教摇滚如何崇拜独奏。"
+  },
+  "whyHub": {
+    "en": "Yardbirds → Cream: the guitar-hero pipeline that feeds Hard Rock mythology.",
+    "zh": "Yardbirds → Cream：喂养 Hard Rock 神话的吉他英雄管线。"
+  },
+  "body": {
+    "en": "Clapton's early exits are the plot. The Yardbirds are a lab; Cream is the explosion—three players arguing at stadium volume. Later careers sprawl; the chronicle cares about this hinge because Page inherits the same lab and builds Zeppelin next door.",
+    "zh": "Clapton 早期的离开即剧情。Yardbirds 是实验室；Cream 是爆炸——三个人在体育馆音量下争吵。后来生涯很长；编年史在乎这个枢纽，因为 Page 继承同一间实验室，在隔壁盖起 Zeppelin。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Yardbirds",
+      "bandSlug": "the-yardbirds",
+      "role": "Guitar",
+      "from": 1963,
+      "to": 1965
+    },
+    {
+      "bandName": "Cream",
+      "bandSlug": "cream",
+      "role": "Guitar, Vocals",
+      "from": 1966,
+      "to": 1968
+    }
+  ],
+  "relatedPeople": [
+    "jimmy-page"
+  ]
+}

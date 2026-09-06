@@ -1,0 +1,37 @@
+{
+  "slug": "glastonbury-radiohead-1997",
+  "title": {
+    "en": "Radiohead at Glastonbury",
+    "zh": "Radiohead · 格拉斯顿伯里"
+  },
+  "year": 1997,
+  "venue": {
+    "en": "Worthy Farm, England",
+    "zh": "英格兰 Worthy Farm"
+  },
+  "summary": {
+    "en": "OK Computer anxiety under festival lights—art-rock that somehow holds a muddy field.",
+    "zh": "音乐节灯光下的 OK Computer 焦虑——艺术摇滚居然撑住一片泥地。"
+  },
+  "whyEpic": {
+    "en": "1997 Glastonbury is the night alternative proves it can command the UK's biggest farm without stadium-rock clichés. Paranoid Android stretches; the crowd stays. Nervous music becomes communal weather.",
+    "zh": "1997 格拉斯顿伯里证明：Alternative 能征服英国最大农田，而不靠体育馆陈词滥调。Paranoid Android 拉长；人群不走。紧张的音乐变成公共天气。"
+  },
+  "bandSlugs": [
+    "radiohead"
+  ],
+  "keyTracks": [
+    {
+      "title": "Paranoid Android",
+      "bandSlug": "radiohead"
+    },
+    {
+      "title": "Karma Police",
+      "bandSlug": "radiohead"
+    }
+  ],
+  "rightsNote": {
+    "en": "No full embeds. Prefer BBC/official licensed archives.",
+    "zh": "不嵌整场。优先 BBC/官方授权存档。"
+  }
+}

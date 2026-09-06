@@ -1,0 +1,298 @@
+{
+  "name": "Nirvana",
+  "slug": "nirvana",
+  "formed": 1987,
+  "origin": "Aberdeen, USA",
+  "primaryEra": "1990s-grunge-britpop",
+  "genres": [
+    "grunge",
+    "alternative"
+  ],
+  "decisive": true,
+  "whyMatters": {
+    "en": "Underground noise becomes a global language while the band refuses rock-hero cosplay—after Teen Spirit, alternative has a new default face.",
+    "zh": "地下噪声变成全球语言，乐队却拒绝摇滚英雄扮相——Teen Spirit 之后，「另类」有了新的默认表情。"
+  },
+  "members": [
+    {
+      "name": "Kurt Cobain",
+      "role": "Vocals, Guitar",
+      "years": "1990–1994",
+      "personSlug": "kurt-cobain"
+    },
+    {
+      "name": "Krist Novoselic",
+      "role": "Bass",
+      "years": "1990–1994"
+    },
+    {
+      "name": "Dave Grohl",
+      "role": "Drums",
+      "years": "1990–1994",
+      "personSlug": "dave-grohl"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Smells Like Teen Spirit",
+      "year": 1991
+    },
+    {
+      "title": "Come As You Are",
+      "year": 1991
+    },
+    {
+      "title": "All Apologies",
+      "year": 1993
+    }
+  ],
+  "scenes": [
+    {
+      "year": 1991,
+      "track": "Smells Like Teen Spirit",
+      "membersOnStage": [
+        "Kurt Cobain",
+        "Krist Novoselic",
+        "Dave Grohl"
+      ],
+      "genreTags": [
+        "grunge",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "—",
+        "zh": "安静—爆发成为一代人的共享语法"
+      }
+    },
+    {
+      "year": 1991,
+      "track": "Come As You Are",
+      "membersOnStage": [
+        "Kurt Cobain",
+        "Krist Novoselic",
+        "Dave Grohl"
+      ],
+      "genreTags": [
+        "grunge"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "疏离钩子：另类进入主流电台"
+      }
+    },
+    {
+      "year": 1993,
+      "track": "All Apologies",
+      "membersOnStage": [
+        "Kurt Cobain",
+        "Krist Novoselic",
+        "Dave Grohl"
+      ],
+      "genreTags": [
+        "alternative",
+        "grunge"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "脆弱与反偶像并存的尾声气质"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I'd rather be hated for who I am, than loved for who I am not.",
+      "speaker": "Kurt Cobain",
+      "source": "Widely circulated interview excerpt · quote wall",
+      "year": 1993
+    },
+    {
+      "text": "We don't want to be the next Beatles. We just want to be Nirvana.",
+      "speaker": "Krist Novoselic",
+      "source": "Press excerpt · Whisper-ready slot",
+      "year": 1992
+    }
+  ],
+  "lyricQuotes": [
+    "I feel stupid and contagious",
+    "All in all is all we are"
+  ],
+  "relatedBands": [
+    "radiohead",
+    "led-zeppelin"
+  ],
+  "influenceFrom": [
+    "led-zeppelin"
+  ],
+  "influenced": [
+    "arctic-monkeys"
+  ],
+  "shortBio": {
+    "en": "Underground noise made global—while refusing to play rock hero.",
+    "zh": "把地下噪声推成全球语言，同时拒绝扮演摇滚英雄。"
+  },
+  "body": {
+    "en": "Nirvana's weight is not only sales. They rewrite the nineties face: quiet-loud dynamics, anti-idol contradiction, the nausea when alternative suddenly owns the mall.\n\nPunk bite inside Hard Rock mass—and a public refusal to enjoy the crown.",
+    "zh": "Nirvana 的分量不只是销量。他们改写九十年代的表情：安静—爆发、反偶像矛盾、「另类」突然占领商场时的恶心感。\n\nHard Rock 体量里的 Punk 咬合——以及公开拒绝享受那顶王冠。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "The reluctant superstar template",
+        "zh": "不情愿巨星的模板"
+      },
+      "body": {
+        "en": "After Teen Spirit, underground and mainstream briefly share a wall. Nirvana matter because they open Hard Rock weight with punk roughness, then refuse the hero script that usually follows.\n\nThe chronicle gains a new type: fame that looks allergic to itself.",
+        "zh": "Teen Spirit 之后，地下与主流短暂共用一面墙。Nirvana 要紧，因为他们用朋克粗糙咬开 Hard Rock 重量，却拒绝通常随之而来的英雄剧本。\n\n编年史多了一种类型：对自己过敏的成名。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Three names, short fuse",
+        "zh": "三个名字，短引信"
+      },
+      "body": {
+        "en": "Cobain, Novoselic, Grohl—the classic trio locks a fingerprint fast. Earlier drummers matter to collectors; the world remembers the chemistry that hit MTV like a weather event.\n\nShort life, permanent silhouette.",
+        "zh": "Cobain、Novoselic、Grohl——经典三人组很快锁死声纹。早期鼓手留给收藏家；世界记得那化学作用像天气砸进 MTV。\n\n生命短，剪影永久。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "spirit",
+      "title": {
+        "en": "Teen Spirit: a shared body memory",
+        "zh": "Teen Spirit：共享的身体记忆"
+      },
+      "body": {
+        "en": "Quiet-loud is not new tech. MTV and radio amplify it until a Seattle trio becomes a generation's muscle memory—cheerleader satire included.\n\nThe medium system turns a local band into an era switch. You can still feel the drop in your shoulders.",
+        "zh": "安静—爆发不是新技术。MTV 与电台把它放大，直到西雅图三人组成为一代人的肌肉记忆——包括啦啦队讽刺。\n\n媒介系统把一支本地乐队变成时代开关。你肩膀里还能感到那一下落下。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "lineup",
+      "title": {
+        "en": "Melody, sludge, and a drum hit like a door",
+        "zh": "旋律、淤泥，与像踹门的鼓"
+      },
+      "body": {
+        "en": "Cobain's tunes under the noise, Novoselic's elastic low end, Grohl's kick that arrives like news. In a short run they brand a sound later bands copy as dynamics alone.\n\nWhat they cannot copy is the reluctance—the face that won and looked trapped.",
+        "zh": "噪声下的 Cobain 旋律，Novoselic 有弹性的低频，Grohl 像新闻抵达的底鼓。短周期里他们烙印一种声音，后来乐队常只抄动态。\n\n抄不走的是不情愿——赢了却像被困住的表情。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Self-cancellation on the record",
+        "zh": "录进唱片的自我取消"
+      },
+      "body": {
+        "en": "Interview negation beside stage explosion. Short lines on the wall keep the oral tension without turning tragedy into merch.\n\nListen for the argument inside the fame: that argument is the legacy's sharp edge.",
+        "zh": "访谈里的否定，挨着舞台上的爆发。墙上的短句保留口述张力，不把悲剧做成周边。\n\n去听成名内部的争吵：那争吵才是遗产的锋刃。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "The face rock wears after 1991",
+        "zh": "1991 年后摇滚戴的脸"
+      },
+      "body": {
+        "en": "Britpop answers with brightness. Indie keeps DIY. Radiohead chooses evolution over repeating the flannel costume.\n\nNirvana remain the nineties hinge: the modern axis turns here, whether later bands salute or flee.",
+        "zh": "Britpop 用明亮回答。Indie 守住 DIY。Radiohead 选择进化，而非复读法兰绒戏服。\n\nNirvana 仍是九十年代铰链：近代主轴在此转弯，后来者无论致敬还是逃离。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "pre-grohl",
+      "label": {
+        "en": "Pre-Grohl",
+        "zh": "Grohl 之前"
+      },
+      "years": "1987–1990",
+      "members": [
+        {
+          "name": "Kurt Cobain",
+          "role": "Vocals, Guitar",
+          "personSlug": "kurt-cobain"
+        },
+        {
+          "name": "Krist Novoselic",
+          "role": "Bass"
+        },
+        {
+          "name": "Chad Channing / others",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Bleach-era continuum before the peak trio.",
+        "zh": "巅峰三人组之前的 Bleach 时期连续统。"
+      }
+    },
+    {
+      "id": "classic-trio",
+      "label": {
+        "en": "Classic trio",
+        "zh": "经典三人组"
+      },
+      "years": "1990–1994",
+      "peak": true,
+      "members": [
+        {
+          "name": "Kurt Cobain",
+          "role": "Vocals, Guitar",
+          "personSlug": "kurt-cobain"
+        },
+        {
+          "name": "Krist Novoselic",
+          "role": "Bass"
+        },
+        {
+          "name": "Dave Grohl",
+          "role": "Drums",
+          "personSlug": "dave-grohl"
+        }
+      ],
+      "note": {
+        "en": "The version the world remembers—and Grohl's launchpad out.",
+        "zh": "世界记住的版本——也是 Grohl 向外跳的跳板。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Smells Like Teen Spirit",
+      "year": 1991,
+      "note": {
+        "en": "Quiet-loud as youth radio takeover.",
+        "zh": "Quiet-loud 占领青年电台。"
+      }
+    },
+    "pioneeredGenres": [
+      "grunge",
+      "alternative"
+    ],
+    "note": {
+      "en": "Underground ethics collide with MTV scale overnight.",
+      "zh": "地下伦理一夜撞上 MTV 尺度。"
+    }
+  }
+}

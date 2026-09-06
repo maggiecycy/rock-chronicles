@@ -1,0 +1,23 @@
+{
+  "slug": "genre-family-intuition",
+  "order": 3,
+  "title": {
+    "en": "Genres are family names, not blood tests",
+    "zh": "流派是姓氏，不是验血报告"
+  },
+  "summary": {
+    "en": "Stop asking \"is this really metal?\" Start asking \"who does this sound related to at Thanksgiving?\"",
+    "zh": "别再问「这到底算不算金属？」改问：「感恩节饭桌上，它会跟谁坐一桌？」"
+  },
+  "body": {
+    "en": "Genre tags exist because humans panic without drawers. The drawers are useful. The purity tests are not.\n\nThink relatives. Blues and rock & roll are the grandparents who invented the household jokes—the riff, the swagger, the idea that a guitar can talk back. Psychedelic cousins stay up too late and rearrange the furniture. Prog aunts bring charts to dinner and refuse to end the story in three minutes. Hard rock uncles turn the amp toward the wall just to feel the air move. Metal builds a whole clubhouse in the backyard with darker jokes and tighter rules. Punk kicks the door in, throws out half the furniture, then post-punk quietly puts a lamp back—but leaves it flickering. Grunge shows up looking like it slept in the car. Britpop shows up dressed for the pub photograph. Indie keeps changing outfits while swearing it hates outfits.\n\nWhen a band sits between chairs—Radiohead, The Clash, Tame Impala—that's not a bug. That's how families actually work.\n\nSo use the Genre Map like a palate, not a courtroom. Branched means someone left home. Influenced means they borrowed the good recipe. Fused means the cousins got married and the music got complicated in a delicious way. If two tags fight in your head, play the landmark track on the band page and let your ears cast the deciding vote.",
+    "zh": "人之所以发明流派标签，是因为没有抽屉会慌。抽屉有用。纯度测验没用。\n\n用亲戚来想。Blues 和 rock & roll 是发明家里那套笑话的爷爷奶奶——riff、那股拽、以及「吉他可以顶嘴」。迷幻表亲熬夜把家具重新摆过。Prog 姑妈带谱来吃饭，坚决不让故事三分钟结束。Hard rock 叔叔把音箱朝墙，就为了感觉空气在动。Metal 在后院搭了整间俱乐部，笑话更黑，规矩更紧。Punk 踹门进来，扔了一半家具；后朋克又悄悄把灯放回去——但让它一直闪。Grunge 来的时候像在车里睡过。Britpop 穿得像要拍酒馆合影。Indie 一直在换衣服，同时发誓自己讨厌衣服。\n\n有的乐队卡在两把椅子之间——Radiohead、The Clash、Tame Impala——这不是故障。亲戚本来就这样。\n\n所以把 Genre Map 当味觉，别当法庭。「裂变」是有人离家；「影响」是偷了好菜谱；「融合」是表亲结婚了，音乐美味地变复杂。脑子里两个标签互殴时，去乐队页听 landmark 那首，让耳朵投决定票。"
+  },
+  "relatedGenreSlugs": [
+    "hard-rock",
+    "heavy-metal",
+    "punk",
+    "indie-rock",
+    "psychedelic"
+  ]
+}

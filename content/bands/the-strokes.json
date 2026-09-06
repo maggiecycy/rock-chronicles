@@ -1,0 +1,216 @@
+{
+  "name": "The Strokes",
+  "slug": "the-strokes",
+  "formed": 1998,
+  "origin": "New York, USA",
+  "primaryEra": "2000s-revival",
+  "genres": [
+    "indie-rock",
+    "post-punk"
+  ],
+  "whyMatters": {
+    "en": "Tight drums, leather cool, Is This It production: The Strokes open the door for the 2000s NYC garage and post-punk revival.",
+    "zh": "紧鼓点、皮衣冷感、Is This It 的制作：The Strokes 为 2000s 纽约车库与后朋克复兴推开那扇门。"
+  },
+  "members": [
+    {
+      "name": "Julian Casablancas",
+      "role": "Vocals",
+      "years": "1998–present"
+    },
+    {
+      "name": "Nick Valensi",
+      "role": "Guitar",
+      "years": "1998–present"
+    },
+    {
+      "name": "Albert Hammond Jr.",
+      "role": "Guitar",
+      "years": "1998–present"
+    },
+    {
+      "name": "Nikolai Fraiture",
+      "role": "Bass",
+      "years": "1998–present"
+    },
+    {
+      "name": "Fabrizio Moretti",
+      "role": "Drums",
+      "years": "1998–present"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Last Nite",
+      "year": 2001
+    },
+    {
+      "title": "Someday",
+      "year": 2001
+    },
+    {
+      "title": "Reptilia",
+      "year": 2003
+    }
+  ],
+  "scenes": [
+    {
+      "year": 2001,
+      "track": "Last Nite",
+      "membersOnStage": [
+        "Julian Casablancas",
+        "Nick Valensi",
+        "Albert Hammond Jr.",
+        "Nikolai Fraiture",
+        "Fabrizio Moretti"
+      ],
+      "genreTags": [
+        "indie-rock",
+        "post-punk"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "复兴浪潮的全球名片"
+      }
+    },
+    {
+      "year": 2003,
+      "track": "Reptilia",
+      "membersOnStage": [
+        "Julian Casablancas",
+        "Nick Valensi",
+        "Albert Hammond Jr.",
+        "Nikolai Fraiture",
+        "Fabrizio Moretti"
+      ],
+      "genreTags": [
+        "indie-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Key composition moment",
+        "zh": "双吉他咬合的都市夜晚"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We just wanted to make cool music.",
+      "speaker": "Julian Casablancas",
+      "source": "Interview excerpt · Whisper-ready",
+      "year": 2002
+    }
+  ],
+  "lyricQuotes": [
+    "Last night she said, oh baby I don't know"
+  ],
+  "relatedBands": [
+    "arctic-monkeys",
+    "the-clash",
+    "joy-division"
+  ],
+  "influenceFrom": [
+    "the-clash",
+    "joy-division"
+  ],
+  "influenced": [
+    "arctic-monkeys"
+  ],
+  "shortBio": {
+    "en": "NYC switch for the 2000s guitar revival.",
+    "zh": "2000s 吉他复兴的纽约开关。"
+  },
+  "decisive": true,
+  "body": {
+    "en": "Five downtown silhouettes, songs that sound like they were recorded in a cool basement on purpose. The Strokes make early-2000s guitar cool feel inevitable again.\n\nAfter them, a wave has a shared aesthetic entrance—hair, snap, restraint.",
+    "zh": "五个下城剪影，歌听起来像故意录在凉爽地下室。The Strokes 让世纪初的吉他酷感再次显得必然。\n\n在他们之后，一股浪潮有了统一审美入口——发型、干脆、克制。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "The cool door swings open",
+        "zh": "酷的那扇门打开"
+      },
+      "body": {
+        "en": "Is This It arrives like a rumor that turns out true: short songs, interlocking guitars, Casablancas half-awake on the mic. Garage and post-punk memory become a present tense uniform.\n\nDecisive as ignition—others pour through the same doorway.",
+        "zh": "Is This It 像一则最终证实的谣言：短歌、咬合吉他、Casablancas 半醒着贴麦。车库与后朋克记忆变成现在时制服。\n\n决定性在点火——别人从同一扇门涌入。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Last Nite: the revival's calling card",
+        "zh": "Last Nite：复兴的名片"
+      },
+      "body": {
+        "en": "A riff that nods at older rooms without paying full rent. Last Nite becomes the global postcard of the revival—recognizable in three seconds, cool in thirty.\n\nThis is how a local NYC temperature becomes export weather.",
+        "zh": "一段向旧房间点头却不全额付租的 riff。Last Nite 成为复兴的全球明信片——三秒能认，三十秒够酷。\n\n本地纽约气温，就这样变成出口天气。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Reptilia: twin guitars, night asphalt",
+        "zh": "Reptilia：双吉他，夜间柏油"
+      },
+      "body": {
+        "en": "Valensi and Hammond interlocking like traffic lights arguing. Reptilia is the downtown night in motion—tight, slightly mean, impossible to over-explain.\n\nThe revival's body language lives in that bite.",
+        "zh": "Valensi 与 Hammond 像抬杠的红绿灯咬合。Reptilia 是移动中的下城夜晚——紧、略凶、不必过度解释。\n\n复兴的身体语言，住在那一口咬合里。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "dna",
+      "title": {
+        "en": "Velvet ghosts, modern haircuts",
+        "zh": "Velvet 鬼魂，现代发型"
+      },
+      "body": {
+        "en": "Upstream: NYC cool from older decades, Television nerves, CBGB dust. Downstream: Arctic Monkeys and a thousand tight-trouser bands learning restraint as style.\n\nThe Strokes are less a genre than a permission slip for looking sharp while playing simple.",
+        "zh": "上游：更早几十年的纽约酷、Television 神经、CBGB 灰尘。下游：Arctic Monkeys 与一千支紧身裤乐队学会把克正当风格。\n\nThe Strokes 与其说是流派，不如说是许可：弹得简单也可以看起来锋利。"
+      },
+      "stickyVisual": "dna",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Half-mumbled doctrine",
+        "zh": "半喃出来的教义"
+      },
+      "body": {
+        "en": "Casablancas quotes arrive half-swallowed, which somehow makes them doctrine for a decade of cool. The band talks less than the silhouette suggests.\n\nPin the mumble. The aesthetic was always economy.",
+        "zh": "Casablancas 的话半吞半吐到场，却莫名成为十年酷感教义。乐队说话比剪影暗示的更少。\n\n钉住含糊。美学本来就是节省。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "indie-rock"
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Last Nite",
+      "year": 2001,
+      "note": {
+        "en": "Garage revival as downtown cool reset.",
+        "zh": "Garage 复兴：市中心酷感重置。"
+      }
+    },
+    "pioneeredGenres": [
+      "indie-rock"
+    ],
+    "note": {
+      "en": "Tight jeans, tighter songs—indie becomes a look again.",
+      "zh": "紧身牛仔裤与更紧的歌——indie 再度成为造型。"
+    }
+  }
+}
