@@ -17,6 +17,7 @@ import {
   getGenreFromDb,
   getGenreLinksFromDb,
 } from "@/lib/content-db/genres";
+import { memoAsync, memoByKeyAsync } from "@/lib/content-db/memo";
 import {
   getAllGuidesFromDb,
   getAllLivesFromDb,
@@ -45,23 +46,39 @@ import {
   getTropeFromJson,
 } from "@/lib/content-json";
 
+const dbAllEras = memoAsync(getAllErasFromDb);
+const dbEra = memoByKeyAsync(getEraFromDb);
+const dbAllBands = memoAsync(getAllBandsFromDb);
+const dbBand = memoByKeyAsync(getBandFromDb);
+const dbAllGenres = memoAsync(getAllGenresFromDb);
+const dbGenre = memoByKeyAsync(getGenreFromDb);
+const dbGenreLinks = memoAsync(getGenreLinksFromDb);
+const dbAllPeople = memoAsync(getAllPeopleFromDb);
+const dbPerson = memoByKeyAsync(getPersonFromDb);
+const dbAllGuides = memoAsync(getAllGuidesFromDb);
+const dbGuide = memoByKeyAsync(getGuideFromDb);
+const dbAllTropes = memoAsync(getAllTropesFromDb);
+const dbTrope = memoByKeyAsync(getTropeFromDb);
+const dbAllLives = memoAsync(getAllLivesFromDb);
+const dbLive = memoByKeyAsync(getLiveFromDb);
+
 export async function getAllEras(): Promise<Era[]> {
-  if (useDatabase()) return getAllErasFromDb();
+  if (useDatabase()) return dbAllEras();
   return getAllErasFromJson();
 }
 
 export async function getEra(slug: string): Promise<Era | undefined> {
-  if (useDatabase()) return getEraFromDb(slug);
+  if (useDatabase()) return dbEra(slug);
   return getEraFromJson(slug);
 }
 
 export async function getAllBands(): Promise<Band[]> {
-  if (useDatabase()) return getAllBandsFromDb();
+  if (useDatabase()) return dbAllBands();
   return getAllBandsFromJson();
 }
 
 export async function getBand(slug: string): Promise<Band | undefined> {
-  if (useDatabase()) return getBandFromDb(slug);
+  if (useDatabase()) return dbBand(slug);
   return getBandFromJson(slug);
 }
 
@@ -74,17 +91,17 @@ export async function getBandsByEra(eraSlug: string): Promise<Band[]> {
 }
 
 export async function getAllGenres(): Promise<Genre[]> {
-  if (useDatabase()) return getAllGenresFromDb();
+  if (useDatabase()) return dbAllGenres();
   return getAllGenresFromJson();
 }
 
 export async function getGenre(slug: string): Promise<Genre | undefined> {
-  if (useDatabase()) return getGenreFromDb(slug);
+  if (useDatabase()) return dbGenre(slug);
   return getGenreFromJson(slug);
 }
 
 export async function getGenreLinks(): Promise<GenreLink[]> {
-  if (useDatabase()) return getGenreLinksFromDb();
+  if (useDatabase()) return dbGenreLinks();
   return getGenreLinksFromJson();
 }
 
@@ -107,12 +124,12 @@ export async function getDecisiveBands(): Promise<Band[]> {
 }
 
 export async function getAllPeople(): Promise<Person[]> {
-  if (useDatabase()) return getAllPeopleFromDb();
+  if (useDatabase()) return dbAllPeople();
   return getAllPeopleFromJson();
 }
 
 export async function getPerson(slug: string): Promise<Person | undefined> {
-  if (useDatabase()) return getPersonFromDb(slug);
+  if (useDatabase()) return dbPerson(slug);
   return getPersonFromJson(slug);
 }
 
@@ -134,20 +151,20 @@ export async function getPeopleForBand(bandSlug: string): Promise<Person[]> {
 }
 
 export async function getAllGuides(): Promise<GuideArticle[]> {
-  if (useDatabase()) return getAllGuidesFromDb();
+  if (useDatabase()) return dbAllGuides();
   return getAllGuidesFromJson();
 }
 
 export async function getGuide(
   slug: string,
 ): Promise<GuideArticle | undefined> {
-  if (useDatabase()) return getGuideFromDb(slug);
+  if (useDatabase()) return dbGuide(slug);
   return getGuideFromJson(slug);
 }
 
 export async function getAllTropes(): Promise<Trope[]> {
   if (useDatabase()) {
-    const tropes = await getAllTropesFromDb();
+    const tropes = await dbAllTropes();
     return tropes.sort((a, b) =>
       (typeof a.title === "string" ? a.title : a.title.en).localeCompare(
         typeof b.title === "string" ? b.title : b.title.en,
@@ -158,17 +175,17 @@ export async function getAllTropes(): Promise<Trope[]> {
 }
 
 export async function getTrope(slug: string): Promise<Trope | undefined> {
-  if (useDatabase()) return getTropeFromDb(slug);
+  if (useDatabase()) return dbTrope(slug);
   return getTropeFromJson(slug);
 }
 
 export async function getAllLives(): Promise<LiveEvent[]> {
-  if (useDatabase()) return getAllLivesFromDb();
+  if (useDatabase()) return dbAllLives();
   return getAllLivesFromJson();
 }
 
 export async function getLive(slug: string): Promise<LiveEvent | undefined> {
-  if (useDatabase()) return getLiveFromDb(slug);
+  if (useDatabase()) return dbLive(slug);
   return getLiveFromJson(slug);
 }
 
