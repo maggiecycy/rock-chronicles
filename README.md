@@ -32,7 +32,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/<your-username>/rock-chronicles.git
+git clone https://github.com/maggiecycy/rock-chronicles.git
 cd rock-chronicles
 npm install
 npm run dev
