@@ -20,19 +20,46 @@ export async function GET() {
   }
 
   try {
-    const bands = await prisma.band.findMany({
-      take: 5,
-      orderBy: { slug: "asc" },
-      select: { slug: true, name: true, formed: true, decisive: true },
-    });
-    const total = await prisma.band.count();
+    const [bands, counts] = await Promise.all([
+      prisma.band.findMany({
+        take: 5,
+        orderBy: { slug: "asc" },
+        select: { slug: true, name: true, formed: true, decisive: true },
+      }),
+      Promise.all([
+        prisma.band.count(),
+        prisma.person.count(),
+        prisma.era.count(),
+        prisma.genre.count(),
+        prisma.guideArticle.count(),
+        prisma.trope.count(),
+        prisma.liveEvent.count(),
+      ]),
+    ]);
+    const [
+      bandCount,
+      personCount,
+      eraCount,
+      genreCount,
+      guideCount,
+      tropeCount,
+      liveCount,
+    ] = counts;
 
     return NextResponse.json({
       ok: true,
       source: "prisma",
       useDatabase: useDatabase(),
-      bandCount: total,
-      sample: bands,
+      counts: {
+        bands: bandCount,
+        people: personCount,
+        eras: eraCount,
+        genres: genreCount,
+        guides: guideCount,
+        tropes: tropeCount,
+        lives: liveCount,
+      },
+      sampleBands: bands,
     });
   } catch (e) {
     const message = e instanceof Error ? e.message : String(e);

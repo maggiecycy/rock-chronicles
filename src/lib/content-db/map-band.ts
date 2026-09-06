@@ -1,10 +1,10 @@
-import type { Localized } from "@/i18n/config";
 import type { Prisma, StickyVisual as PrismaStickyVisual } from "@prisma/client";
 import type {
   Band,
   BandScene,
   StickyVisual,
 } from "@/lib/types";
+import { asStringArray, localized, optionalLocalized } from "./localize";
 
 export const bandDetailInclude = {
   genres: { orderBy: { sortOrder: "asc" as const } },
@@ -34,23 +34,6 @@ export const bandDetailInclude = {
 export type BandDetailRecord = Prisma.BandGetPayload<{
   include: typeof bandDetailInclude;
 }>;
-
-function localized(en: string, zh: string): Localized {
-  return { en, zh };
-}
-
-function optionalLocalized(
-  en: string | null | undefined,
-  zh: string | null | undefined,
-): Localized | undefined {
-  if (!en && !zh) return undefined;
-  return { en: en ?? "", zh: zh ?? "" };
-}
-
-function asStringArray(value: unknown): string[] {
-  if (!Array.isArray(value)) return [];
-  return value.filter((v): v is string => typeof v === "string");
-}
 
 function mapStickyVisual(visual: PrismaStickyVisual): StickyVisual {
   return visual;
