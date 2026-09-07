@@ -2,19 +2,21 @@
   "slug": "listening-without-gatekeeping",
   "order": 5,
   "title": {
-    "en": "You are allowed to like the hit",
-    "zh": "你被允许喜欢那首热歌"
+    "en": "You can like the hit",
+    "zh": "你可以喜欢那首热歌"
   },
   "summary": {
-    "en": "Deep cuts are a joy, not an entrance exam. Hits are doors. Walk through them without apologizing.",
-    "zh": "深切是乐趣，不是入学考试。热歌是门。走进去，不用道歉。"
+    "en": "Deep cuts are optional. Hits are valid entry points. No apology required.",
+    "zh": "深切是可选项。热歌是合法入口。不用道歉。"
   },
   "body": {
-    "en": "Somewhere online, a stranger is waiting to ask if you know the B-side. Smile. You do not work for them.\n\nAlmost everyone who loves rock started with something embarrassing and perfect: a chorus on the radio, a guitar in a movie, a parent's scratched CD, a TikTok that stole eight seconds of a fifty-year-old riff. That is not a lesser origin story. That is how culture actually spreads—like a cold, except it leaves better scars.\n\nHere's a listening habit that doesn't feel like homework. Play the landmark track on a band page—the one we flag as a hinge. Sit with it once without multitasking. Then play one neighbor: a related band, a pioneer genre, a person who quit and started over. If you only do that twice a week, in a month you'll know more rock geography than half the people writing sneering comments.\n\nGatekeeping thrives on shame because shame is efficient. Curiosity is slower and much more fun. Tropes on this site exist so you can recognize the rituals—\"creative differences,\" \"classic lineup,\" \"you had to be there\"—and laugh instead of flunking an imaginary test.\n\nBring your taste. Steal better taste later. Nobody is grading the receipt.",
-    "zh": "网上某处，有个陌生人正等着问你知不知道那首 B-side。笑一下。你又不给他们打工。\n\n几乎每个爱上摇滚的人，都从一件又尴尬又完美的事开始：电台副歌、电影里的吉他、父母那张刮花的 CD、TikTok 偷走一段五十年前 riff 的八秒钟。这不是比较差的起源故事。文化本来就这样传播——像感冒，但留下的疤更好看。\n\n有个听起来不像作业的习惯：打开乐队页那首 landmark——我们标成枢纽的那首。认真听一遍，别一边刷别的。然后再听一个邻居：相关乐队、开创流派、那个走人另起炉灶的人。一周只做两次，一个月后你对摇滚地理的熟悉程度，会超过半数写阴阳评论的人。\n\n装门禁靠羞耻运转，因为羞耻效率高。好奇更慢，也好玩得多。本站的梗，就是让你认出那些仪式——「创作理念不合」「经典阵容」「你当时不在场不会懂」——然后笑出来，而不是去考一场不存在的试。\n\n带着你的品味来。以后再偷更好的品味。没有人在批改小票。"
+    "en": "Someone online will ask if you know the B-side. You do not owe them a quiz score.\n\nMost rock fans start with a radio chorus, a film cue, a parent's CD, or a short clip of an old riff. That is normal distribution, not a lesser origin.\n\nA simple habit: play the landmark track on a band page once without multitasking. Then play one neighbor—related band, pioneer genre, or a member who left and started over. Do that a few times a week and your map fills in faster than comment-section shaming suggests.\n\nGatekeeping runs on shame because shame is cheap. Curiosity is slower. Tropes on this site name the rituals—\"creative differences,\" \"classic lineup,\" \"you had to be there\"—so you can spot them without taking the exam.\n\nBring the taste you have. Expand it later. Nobody grades your receipt.",
+    "zh": "网上总会有人问你知不知道 B-side。你不欠他们考试分。\n\n多数摇滚听众从电台副歌、电影配乐、父母的 CD，或一段老 riff 短视频开始。这是正常传播路径，不是低配起源。\n\n简单习惯：乐队页 landmark 认真听一遍，别一边刷别的。再听一个邻居——相关乐队、开创流派，或走人另起炉灶的人。一周几次，地图会比评论区羞辱暗示的更快填上。\n\n装门禁靠羞耻，因为羞耻成本低。好奇更慢。本站的梗把仪式点名——「创作理念不合」「经典阵容」「你当时不在场」——好让你认出来，而不去考一场虚设的试。\n\n带着现有品味来。以后再扩。没人批改小票。"
   },
   "relatedTropeSlugs": [
     "gatekeeping-deep-cuts",
-    "riff-that-ate-the-band"
+    "riff-that-ate-the-band",
+    "prog-odd-meter",
+    "kvlt-production"
   ]
 }

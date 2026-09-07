@@ -13,8 +13,8 @@
     "blues"
   ],
   "whyMatters": {
-    "en": "Feedback, space, and fire: Hendrix reinvents the electric guitar as an instrument of weather—every later guitar hero walks in that shadow.",
-    "zh": "反馈、空间与火焰：Hendrix 把电吉他重新发明成天气仪器——此后所有吉他英雄都在他的阴影里走。"
+    "en": "London-based trio (1966–69) that made feedback, wah, and studio guitar effects a lead vocabulary on Are You Experienced and Electric Ladyland.",
+    "zh": "伦敦基地三人组（1966–69）：在 Are You Experienced 与 Electric Ladyland 上把反馈、wah 与录音室吉他效果做成主奏语汇。"
   },
   "members": [
     {
@@ -62,8 +62,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Key composition moment",
-        "zh": "迷幻失真成为主流事件"
+        "en": "1967 riff + effect single template.",
+        "zh": "1967 riff + 效果单曲模板。"
       }
     },
     {
@@ -80,8 +80,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Blues",
-        "zh": "Blues 被扩音到神话尺度"
+        "en": "Dylan cover rebuilt in the studio.",
+        "zh": "录音室重建的 Dylan 翻唱。"
       }
     }
   ],
@@ -109,24 +109,24 @@
     "black-sabbath"
   ],
   "shortBio": {
-    "en": "The permanent rewrite of what an electric guitar can do.",
-    "zh": "电吉他可能性的上限被永久改写。"
+    "en": "Hendrix / Redding / Mitchell; Purple Haze and Watchtower are the mass poles.",
+    "zh": "Hendrix / Redding / Mitchell；Purple Haze 与 Watchtower 是大众两极。"
   },
   "decisive": true,
   "body": {
-    "en": "With Mitch Mitchell and Noel Redding, Hendrix turns the guitar into feedback, space, and controlled fire. Blues gets stretched until it becomes myth and physics at once.\n\nAfter that, every hero pose is a footnote.",
-    "zh": "与 Mitch Mitchell、Noel Redding 一起，Hendrix 把吉他变成反馈、空间与可控的火。Blues 被拉长，直到同时是神话与物理。\n\n在那之后，所有英雄姿势都是脚注。"
+    "en": "Formed 1966 with Chas Chandler. Debut singles and Are You Experienced set psychedelic blues; Axis and Electric Ladyland expand studio layering. Monterey and Woodstock performances are media documents.\n\nPurple Haze (1967) and All Along the Watchtower (1968) show original riff writing and transformative cover craft. Short timeline; permanent guitar technique export.",
+    "zh": "1966 年与 Chas Chandler 组建。首批单曲与 Are You Experienced 定下迷幻蓝调；Axis 与 Electric Ladyland 扩展录音室分层。Monterey 与 Woodstock 演出是媒介文献。\n\nPurple Haze（1967）与 All Along the Watchtower（1968）展示原创 riff 与改造性翻唱工艺。时间线短；吉他技术输出永久。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "The guitar learns new physics",
-        "zh": "吉他学会新物理"
+        "en": "Guitar effects as lead voice",
+        "zh": "吉他效果当主奏声部"
       },
       "body": {
-        "en": "Hendrix does not play louder versions of old licks. He treats amp noise, pan, and sustain as vocabulary—the instrument becomes an atmosphere machine.\n\nGuitar-hero culture afterward is walking through a doorway he already burned open.",
-        "zh": "Hendrix 不是把老 lick 弹得更响。他把音箱噪声、声像与延音当词汇——乐器变成大气机器。\n\n此后的吉他英雄文化，都是从他烧开的门洞里走过。"
+        "en": "The Experience matter because Hendrix treats amp noise, wah, and studio mixing as melodic tools equal to blues licks.\n\nTrio format: Mitchell’s jazz drums, Redding’s solid bass.",
+        "zh": "Experience 要紧，因为 Hendrix 把音箱噪声、wah 与录音室混音当作与蓝调乐句同等的旋律工具。\n\n三人编制：Mitchell 的爵士鼓、Redding 的稳健贝斯。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "psychedelic"
@@ -134,12 +134,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Purple Haze: psychedelic distortion as news",
-        "zh": "Purple Haze：迷幻失真变成新闻"
+        "en": "Purple Haze: riff + effect vocabulary",
+        "zh": "Purple Haze：riff + 效果语汇"
       },
       "body": {
-        "en": "1967. The riff leans, the lyric hallucinates, the solo refuses polite resolution. Purple Haze makes psychedelic distortion a mainstream event, not a basement hobby.\n\nLondon hears America rewritten by a left-handed architect of voltage.",
-        "zh": "1967 年。riff 倾斜，歌词致幻，solo 拒绝礼貌收束。Purple Haze 让迷幻失真成为主流事件，不是地下室爱好。\n\n伦敦听见一个左撇子电压建筑师重写的美国。"
+        "en": "Iconic interval riff, octave/fuzz colors, Mitchell fills—1967 psychedelic single template.\n\nTechnique on display inside pop runtime.",
+        "zh": "标志音程 riff、八度/fuzz 色彩、Mitchell 加花——1967 迷幻单曲模板。\n\n流行时长内的技术展示。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -148,12 +148,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Voodoo Child: Blues scaled to myth",
-        "zh": "Voodoo Child：Blues 放大成神话"
+        "en": "Watchtower: cover as rebuild",
+        "zh": "Watchtower：翻唱即重建"
       },
       "body": {
-        "en": "Slight Return stretches a Blues cry across stadium-sized air. Wah and fire imagery are not decoration; they are the plot.\n\nHard Rock and Metal later chase this scale. The shadow is permanent.",
-        "zh": "Slight Return 把 Blues 的哭喊拉过体育馆尺度的空气。哇音与火焰意象不是装饰，是情节。\n\n后来 Hard Rock 与 Metal 追这个尺度。阴影是永久的。"
+        "en": "Dylan song rebuilt with layered guitars and dramatic dynamic curve—cover as authorship claim.\n\nStudio craft citation for later rock.",
+        "zh": "用多层吉他与戏剧动态曲线重建 Dylan 歌曲——翻唱即作者权主张。\n\n后来摇滚的录音室工艺引用。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -162,12 +162,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Everyone after plays in the afterimage",
-        "zh": "后来的人都在残影里弹"
+        "en": "Feedback lineage into hard rock/metal",
+        "zh": "反馈谱系进入 hard rock/金属"
       },
       "body": {
-        "en": "From arena shredders to alternative noise poets, Hendrix sits upstream as permission: the guitar can paint, not only accompany.\n\nPsychedelic, Hard Rock, and experimental edges all drink from the same scorched well.",
-        "zh": "从体育馆速弹手到另类噪声诗人，Hendrix 在上游给出许可：吉他可以绘画，不只是伴奏。\n\n迷幻、Hard Rock、实验边缘都从同一口烧焦的井里喝水。"
+        "en": "Page, metal lead players, and alternative noise guitarists cite the permission to use noise melodically.\n\nDNA is touch + technology, not only speed.",
+        "zh": "Page、金属主音与 alternative 噪声吉他手引用把噪声当旋律使用的许可。\n\nDNA 是触感+技术，不只是速度。"
       },
       "stickyVisual": "dna",
       "soundGenre": "psychedelic"
@@ -175,12 +175,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "He talks soft; the amp does not",
-        "zh": "人说话轻；音箱不轻"
+        "en": "Hendrix on sound and stage",
+        "zh": "Hendrix 谈声音与舞台"
       },
       "body": {
-        "en": "Interview Hendrix is often shy, funny, almost gentle. Stage Hendrix is weather.\n\nKeep both quotes. The gap between the soft voice and the burning instrument is the myth's human core.",
-        "zh": "访谈里的 Hendrix 常常腼腆、好笑、近乎温柔。舞台上的 Hendrix 是天气。\n\n两种话都留着。轻声与燃烧乐器之间的缝，才是神话的人味核心。"
+        "en": "Interview fragments about wanting new sounds match the recorded experiments.\n\nPrefer gear and process detail over vague adjectives.",
+        "zh": "关于想要新声音的访谈碎片，与录音实验匹配。\n\n宁取设备与过程细节，不取空泛形容词。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,

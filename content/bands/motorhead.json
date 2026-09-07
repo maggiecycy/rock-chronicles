@@ -1,0 +1,35 @@
+{
+  "name": "Motörhead",
+  "slug": "motorhead",
+  "formed": 1975,
+  "origin": "London, UK",
+  "primaryEra": "1980s-metal",
+  "genres": [
+    "heavy-metal",
+    "hard-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Lemmy’s power-trio bridge between punk tempo and metal volume; Ace of Spades (1980) fixed speed-as-attitude for both scenes.",
+    "zh": "Lemmy 的三件套：连接朋克速度与金属音量；Ace of Spades（1980）把「速度即态度」钉给两边场景。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Ace of Spades",
+      "year": 1980
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "UK speed/heavy rock; Ace of Spades is the three-chord velocity blueprint.",
+    "zh": "英国速度/重型摇滚；Ace of Spades 是三和弦速度蓝图。"
+  },
+  "body": {
+    "en": "Formed 1975 after Lemmy left Hawkwind. Overkill, Ace of Spades, and No Sleep ’til Hammersmith document the classic Lemmy / Eddie Clarke / Phil Taylor attack—bass as rhythm guitar, shouted vocal, 4/4 charge.\n\nAce of Spades (1980) is the citation track for thrash and hardcore bands naming Motörhead as tempo ancestor. Not progressive; the craft is relentlessness and midrange grit in the mix.",
+    "zh": "Lemmy 离开 Hawkwind 后于 1975 年组建。Overkill、Ace of Spades 与 No Sleep ’til Hammersmith 记录经典 Lemmy / Eddie Clarke / Phil Taylor 攻击——贝斯当节奏吉他、喊叫人声、4/4 冲锋。\n\nAce of Spades（1980）是 thrash 与 hardcore 乐队点名 Motörhead 为速度祖先时的引用曲。不走 progressive；工艺在于不停歇与混音中频的砂感。"
+  }
+}

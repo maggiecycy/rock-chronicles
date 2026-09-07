@@ -1,0 +1,35 @@
+{
+  "name": "My Bloody Valentine",
+  "slug": "my-bloody-valentine",
+  "formed": 1983,
+  "origin": "Dublin, Ireland",
+  "primaryEra": "1990s-grunge-alt",
+  "genres": [
+    "indie-rock",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Dublin/London shoegaze core; Loveless (1991) set extreme guitar blur, pitch bends, and buried vocals as a production ceiling still cited in indie.",
+    "zh": "都柏林/伦敦 shoegaze 核心；Loveless（1991）把极端吉他模糊、弯音与埋人声定为 indie 仍在引用的制作上限。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Only Shallow",
+      "year": 1991
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Kevin Shields–led shoegaze; Only Shallow opens the Loveless method.",
+    "zh": "Kevin Shields 领衔的 shoegaze；Only Shallow 打开 Loveless 方法。"
+  },
+  "body": {
+    "en": "Formed 1983. Isn’t Anything (1988) and Loveless (1991) on Creation Records define the sound: tremolo-arm pitch glide, sampled guitar layers, Bilinda Butcher/Shields vocal blend low in the mix.\n\nOnly Shallow (1991) is the entry cut—drums upfront, guitars as harmonic fog. Studio time and Shields’s process are part of the historical object; the musical claim is texture as composition.",
+    "zh": "1983 年组建。Creation 厂牌上的 Isn’t Anything（1988）与 Loveless（1991）定义声音：颤音臂音高滑动、采样吉他层、Bilinda Butcher/Shields 人声埋在混音低处。\n\nOnly Shallow（1991）是入口——鼓靠前，吉他作和声雾。录音室时间与 Shields 工艺是历史对象的一部分；音乐主张是把纹理当作曲。"
+  }
+}

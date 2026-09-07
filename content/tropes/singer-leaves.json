@@ -1,33 +1,33 @@
 {
   "slug": "singer-leaves",
   "title": {
-    "en": "When the singer walks",
-    "zh": "主唱走人的时候"
+    "en": "The singer leaves (band keeps the logo)",
+    "zh": "主唱走了（logo 还在）"
   },
   "summary": {
-    "en": "Is the band the songs, the logo, or the throat? Every exit is a different answer.",
-    "zh": "乐队是歌、是 logo，还是那条嗓子？每次离开，答案都不一样。"
+    "en": "Half the comments say \"not the real band.\" The other half buys the ticket anyway.",
+    "zh": "评论区一半说「不是原班」。另一半照样买票。"
   },
   "body": {
-    "en": "A singer leaves and the room splits into theologians. One camp says the songs are the band. Another says without that voice you're a cover group with better lighting. A third buys tickets anyway because Friday needs noise.\n\nSabbath without Ozzy becomes another mythology with Dio's operatic thunder. Some bands reboot and survive. Some become tribute acts to their own youth. Follow the Person page—often the \"band story\" was a vocalist's story wearing a group jacket.",
-    "zh": "主唱一走，房间里会分裂成几派神学家。一派说歌才是乐队。一派说没那把嗓子你就是灯光更好的致敬团。第三派照样买票，因为周五需要噪音。\n\n没有 Ozzy 的 Sabbath，在 Dio 歌剧式的雷里长成另一套神话。有的乐队换人还能活；有的变成自己青春的致敬团。跟人走——很多「乐队故事」，其实是主唱的故事，套了件团体夹克。"
+    "en": "Ozzy gets fired; Sabbath keeps touring with Dio and later singers. Fans treat the logo like a sports franchise and the singer like a coach swap.\n\nSometimes the new voice is better for that album cycle. Sometimes it is karaoke with a famous riff library. Check the year on the shirt before you start the fight.",
+    "zh": "Ozzy 被炒；Sabbath 继续巡演，Dio 和其他主唱轮班。粉丝把 logo 当球队，把主唱当换教练。\n\n有时新嗓子更适合那一轮专辑。有时就是拿经典 riff 库唱卡拉 OK。先看衣服上的年份，再开口吵架。"
   },
-  "tone": "lore",
+  "tone": "half-true",
   "examples": [
     {
       "bandSlug": "black-sabbath",
       "label": "Black Sabbath",
       "note": {
-        "en": "Ozzy exits; another thunder learns the songs.",
-        "zh": "Ozzy 离开；另一道雷学会那些歌。"
+        "en": "Ozzy out → Dio in: two peak catalogs, one argument forever.",
+        "zh": "Ozzy 走 → Dio 来：两套巅峰目录，一辈子吵不完。"
       }
     },
     {
-      "personSlug": "ozzy-osbourne",
-      "label": "Ozzy Osbourne",
+      "bandSlug": "van-halen",
+      "label": "Van Halen",
       "note": {
-        "en": "The voice that kept its own weather.",
-        "zh": "把天气带走的那把嗓。"
+        "en": "Roth vs Hagar camps never signed a peace treaty.",
+        "zh": "Roth 派 vs Hagar 派从未签停战协议。"
       }
     }
   ]

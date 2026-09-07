@@ -3,14 +3,14 @@
   "slug": "oasis",
   "formed": 1991,
   "origin": "Manchester, UK",
-  "primaryEra": "1990s-grunge-britpop",
+  "primaryEra": "1990s-britpop",
   "genres": [
     "britpop",
     "alternative"
   ],
   "whyMatters": {
-    "en": "Britpop's biggest amp: Beatles echoes and brother warfare put British guitar rock back at culture's loudest table.",
-    "zh": "Britpop 最大的扩音器：Beatles 回声与兄弟开战，把英国吉他摇滚拽回文化最吵的那张桌。"
+    "en": "Manchester Britpop band that restored loud, Beatles-citing guitar anthems to mid-90s UK charts against grunge’s US dominance.",
+    "zh": "曼彻斯特 Britpop：在 grunge 的美国主导下，把大声、引用 Beatles 的吉他颂歌送回 90 年代中期英国榜。"
   },
   "members": [
     {
@@ -68,8 +68,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Grunge",
-        "zh": "对抗 Grunge 阴郁的英国宣言"
+        "en": "Mid-tempo UK counter to grunge gloom.",
+        "zh": "对位 grunge 阴郁的中速英国宣言。"
       }
     },
     {
@@ -85,8 +85,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Britpop",
-        "zh": "Britpop 的全球钩子"
+        "en": "Britpop’s global acoustic-electric hook.",
+        "zh": "Britpop 的全球原声—电声钩子。"
       }
     }
   ],
@@ -114,24 +114,24 @@
     "arctic-monkeys"
   ],
   "shortBio": {
-    "en": "Britpop's mass-culture peak—swagger as national weather.",
-    "zh": "Britpop 的大众峰值——嚣张变成全国天气。"
+    "en": "Gallagher brothers Britpop; Wonderwall and Live Forever are the mass poles.",
+    "zh": "Gallagher 兄弟的 Britpop；Wonderwall 与 Live Forever 是大众两极。"
   },
   "decisive": true,
   "body": {
-    "en": "Oasis turn Mancunian certainty into choruses that fill parks. Noel writes the ladders; Liam sneers them into anthems; the tabloids do unpaid promotion.\n\nAgainst Grunge's weather, they answer with sunlight and a fight.",
-    "zh": "Oasis 把曼彻斯特式的笃定写成能填满公园的副歌。Noel 搭梯子；Liam 用冷笑把梯子唱成国歌；小报义务宣传。\n\n对着 Grunge 的天气，他们用阳光和打架回答。"
+    "en": "Formed 1991. Definitely Maybe (1994) and (What’s the Story) Morning Glory? (1995) fix Noel’s songwriting, Liam’s sneering mid-range, loud guitars, and terrace-chant choruses.\n\nLive Forever (1994) and Wonderwall / Don’t Look Back in Anger (1995) are the teaching set. Sibling feud and lineup churn are documented; the musical object is song craft plus volume.",
+    "zh": "1991 年组建。Definitely Maybe（1994）与 (What’s the Story) Morning Glory?（1995）定型 Noel 写作、Liam 冷笑中音区、大声吉他与看台口号副歌。\n\nLive Forever（1994）与 Wonderwall / Don’t Look Back in Anger（1995）是教材组。兄弟争执与阵容更替有文献；音乐对象是歌曲工艺加音量。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Britain turns the volume back up",
-        "zh": "英国把音量拧回来"
+        "en": "Britain turns guitar volume back up",
+        "zh": "英国把吉他音量拧回去"
       },
       "body": {
-        "en": "Britpop needed a band that could be both pub argument and stadium weather. Oasis arrive with Beatles DNA in the chords and sibling voltage in the interviews.\n\nDecisive because guitar rock reclaims the cultural center without asking alternative's permission slip.",
-        "zh": "Britpop 需要一支既能当酒吧抬杠又能当体育馆天气的乐队。Oasis 带着和弦里的 Beatles DNA 与访谈里的兄弟电压到场。\n\n决定性在于：吉他摇滚夺回文化中心，不必向「另类」申请通行证。"
+        "en": "Oasis matter as a chart and attitude reset: open chords, loud mixes, northern vocal, Beatles/Stone Roses citations against mid-90s US grunge radio.\n\nBritpop’s stadium pole, not its art-school pole.",
+        "zh": "Oasis 要紧处是榜单与态度重置：开放和弦、大声混音、北方人声、Beatles/Stone Roses 引用，对位 90 年代中期美国 grunge 电台。\n\nBritpop 的体育场一极，而非艺术学院一极。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "britpop"
@@ -139,12 +139,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Brothers fixed, everyone else orbiting",
-        "zh": "兄弟固定，其余人绕行"
+        "en": "Brothers fixed, rhythm section orbiting",
+        "zh": "兄弟固定，节奏组绕行"
       },
       "body": {
-        "en": "Guitarists and bassists rotate; the Gallagher axis holds the weather. The classic mid-nineties cast is the one the parks remember.\n\nLineup talk is really about who survives the storm of two brothers.",
-        "zh": "吉他与贝斯手轮换；Gallagher 轴心守住天气。公园记得的是九十年代中期那套经典卡司。\n\n谈阵容，其实是在谈谁能在两兄弟的风暴里活下来。"
+        "en": "Noel/Liam are the constant engine; guitarists and drummers change across peaks and later years.\n\nClassic Britpop peak version vs later name-continuation versions.",
+        "zh": "Noel/Liam 是恒定引擎；吉他手与鼓手在巅峰与后期更替。\n\n经典 Britpop 巅峰版本 vs 后期名称延续版本。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "britpop"
@@ -152,12 +152,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Live Forever: a sunny counter-spell",
-        "zh": "Live Forever：一道阳光反咒"
+        "en": "Live Forever: mid-tempo confidence single",
+        "zh": "Live Forever：中速自信单曲"
       },
       "body": {
-        "en": "1994. Against flannel gloom, Live Forever offers endurance as swagger. The chorus is a refusal to inherit Seattle's weather wholesale.\n\nBritish guitar rock finds a slogan that sounds like a pub toast and a manifesto.",
-        "zh": "1994 年。对着法兰绒阴郁，Live Forever 把耐久写成嚣张。副歌拒绝整批发售继承西雅图天气。\n\n英国吉他摇滚找到一句听起来像酒吧敬酒又像宣言的口号。"
+        "en": "Definitely Maybe–era statement track—melody forward, guitars wide, lyric defiance without metal gloom.\n\nUK answer to imported alternative sadness, in song form.",
+        "zh": "Definitely Maybe 时期声明曲——旋律靠前、吉他宽、歌词反抗而无金属阴郁。\n\n以歌曲形式回答进口 alternative 伤感。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -166,12 +166,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Wonderwall: the global earworm with a sneer",
-        "zh": "Wonderwall：带着冷笑的全球耳虫"
+        "en": "Wonderwall: global acoustic-electric hook",
+        "zh": "Wonderwall：全球原声—电声钩子"
       },
       "body": {
-        "en": "Acoustic verses, a melody that sticks like gum, Liam's vocal as attitude more than polish. Wonderwall leaves Britpop and becomes karaoke infrastructure.\n\nThat ubiquity is not embarrassment—it is proof the movement punched through.",
-        "zh": "木吉他主歌，像口香糖粘住的旋律，Liam 的嗓音态度多于抛光。Wonderwall 离开 Britpop，变成卡拉 OK 基础设施。\n\n无处不在不是难堪——是运动打穿天花板的证据。"
+        "en": "Strummed figure, Liam’s vocal, singalong chorus—exportable beyond UK Britpop wars.\n\nEarworm with attitude; arrangement stays simple on purpose.",
+        "zh": "扫弦音型、Liam 人声、合唱副歌——可导出到英国 Britpop 论战之外。\n\n带态度的耳虫；编曲故意保持简单。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -181,11 +181,11 @@
       "id": "dna",
       "title": {
         "en": "Beatles ghosts, Stone Roses walk",
-        "zh": "Beatles 鬼魂，Stone Roses 步伐"
+        "zh": "Beatles 幽灵，Stone Roses 步态"
       },
       "body": {
-        "en": "Upstream: sixties melody memory and Madchester confidence. Downstream: every indie kid who wants choruses without apology, and every tabloid that still sells brother drama.\n\nOasis sit where heritage-pop and fight-culture shake hands.",
-        "zh": "上游：六十年代旋律记忆与 Madchester 自信。下游：每个想要不道歉副歌的 Indie 小孩，以及仍靠兄弟戏码卖报的小报。\n\nOasis 坐在遗产流行与打架文化握手的位置。"
+        "en": "Chord moves and vocal phrasing cite 1960s UK pop; swagger and baggy residue cite Madchester. Not a cover band—a citation engine at terrace volume.\n\nInfluence shows in 2000s UK indie anthems.",
+        "zh": "和弦进行与人声句式引用 1960 年代英国流行；姿态与 baggy 残余引用 Madchester。不是翻唱乐队——是看台音量的引用引擎。\n\n影响见于 2000 年代英国 indie 颂歌。"
       },
       "stickyVisual": "dna",
       "soundGenre": "britpop"
@@ -193,12 +193,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Interviews as contact sport",
-        "zh": "访谈即接触性运动"
+        "en": "Interviews as competitive sport",
+        "zh": "访谈如竞技"
       },
       "body": {
-        "en": "Gallagher quotes are half song, half punch. Nail them because Britpop's oral history is combat sports with guitars in the background.\n\nThe music soars; the talk scrapes. Both are the band.",
-        "zh": "Gallagher 金句一半是歌，一半是拳头。钉上它们，因为 Britpop 口述史是背景有吉他的格斗运动。\n\n音乐升空；谈话擦地。两者都是这支乐队。"
+        "en": "Press feuds with Blur and between brothers are part of the public record. Useful as scene sociology; musical judgment still returns to the singles.\n\nAttitude is documented speech, not metaphor.",
+        "zh": "与 Blur 及兄弟间的媒体争执属公开记录。可作场景社会学；音乐判断仍回到单曲。\n\n态度是被记录的话语，不是比喻。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -239,8 +239,8 @@
         }
       ],
       "note": {
-        "en": "Sibling engine at full volume—before the feud ends the version.",
-        "zh": "兄弟引擎全开——直到反目结束这个版本。"
+        "en": "Sibling engine at peak before later fractures.",
+        "zh": "后期分裂前的兄弟引擎巅峰。"
       }
     },
     {
@@ -267,8 +267,8 @@
         }
       ],
       "note": {
-        "en": "Name continues; chemistry and cast keep shifting.",
-        "zh": "队名延续；化学反应与卡司持续滑动。"
+        "en": "Name continues; cast and chemistry shift.",
+        "zh": "名称延续；人马与化学作用改变。"
       }
     }
   ],
@@ -277,16 +277,16 @@
       "title": "Live Forever",
       "year": 1994,
       "note": {
-        "en": "Britpop anthem: working-class swagger as melody.",
-        "zh": "Britpop 圣歌：劳工傲气写成旋律。"
+        "en": "Early Definitely Maybe–era confidence single.",
+        "zh": "Definitely Maybe 早期自信单曲。"
       }
     },
     "pioneeredGenres": [
       "britpop"
     ],
     "note": {
-      "en": "Beatles ghosts + football-terrace volume.",
-      "zh": "Beatles 幽灵 + 看台音量。"
+      "en": "Beatles-citing craft + terrace volume on mid-90s charts.",
+      "zh": "引用 Beatles 的工艺 + 看台音量占据 90 年代中期榜单。"
     }
   }
 }

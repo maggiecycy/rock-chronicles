@@ -1,8 +1,8 @@
 {
   "slug": "woodstock-1969",
   "title": {
-    "en": "Woodstock",
-    "zh": "伍德斯托克"
+    "en": "Woodstock 1969",
+    "zh": "伍德斯托克 1969"
   },
   "year": 1969,
   "venue": {
@@ -10,12 +10,12 @@
     "zh": "美国纽约州贝塞尔"
   },
   "summary": {
-    "en": "Mud, idealism, traffic jams—and a morning set that still rewires how America hears its anthem.",
-    "zh": "泥、理想、堵车——以及一场清晨演出，仍在改写美国听见国歌的方式。"
+    "en": "Mud, traffic, mass attendance—and Hendrix's late set that still frames how the festival is remembered.",
+    "zh": "泥、堵车、超大规模出席——以及 Hendrix 偏晚的那场，仍框定这场音乐节怎么被记住。"
   },
   "whyEpic": {
-    "en": "Woodstock is less a clean concert than a national rumor that came true. Hendrix's late set becomes the image everyone argues about: beauty, noise, protest, and hangover in the same feedback loop.",
-    "zh": "伍德斯托克与其说是干净的演唱会，不如说是成真的国家传言。Hendrix 偏晚的那场，变成人人都要争的画面：美、噪音、抗议、宿醉，在同一圈 feedback 里。"
+    "en": "Woodstock is less a tidy concert than a national-scale event that stuck in media memory. Hendrix's Star-Spangled Banner set becomes the clip people argue over: noise, protest, virtuosity, and hangover in one performance.",
+    "zh": "伍德斯托克与其说是干净演唱会，不如说是粘在媒体记忆里的国家级事件。Hendrix 的国歌改编场次，变成人人争论的片段：噪音、抗议、技术，和宿醉叠在同一次演出里。"
   },
   "bandSlugs": [
     "the-jimi-hendrix-experience"

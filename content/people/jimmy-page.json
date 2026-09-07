@@ -9,16 +9,16 @@
   ],
   "hub": true,
   "shortBio": {
-    "en": "Session wizard turned architect of Led Zeppelin's guitar mythology.",
-    "zh": "录音室鬼才，Led Zeppelin 吉他神话的架构者。"
+    "en": "Session guitarist who led the Yardbirds’ late era then founded Led Zeppelin as guitarist-producer.",
+    "zh": "录音室吉他手：主导 Yardbirds 后期，再以吉他手-制作人身份创立 Led Zeppelin。"
   },
   "whyHub": {
-    "en": "Yardbirds unfinished business → Led Zeppelin weather system.",
-    "zh": "Yardbirds 没做完的事 → Led Zeppelin 天气系统。"
+    "en": "Yardbirds unfinished business → Led Zeppelin production system: personnel bridge into hard-rock’s classic IV.",
+    "zh": "Yardbirds 未竟事务 → Led Zeppelin 制作系统：通向 hard-rock 经典四人的人事桥。"
   },
   "body": {
-    "en": "Page is a hub because his career shows how rock personnel flow: studio player → Yardbirds → a new band that redefines Hard Rock. Follow his tenures to see why lineup 'versions' matter more than endless churn logs.",
-    "zh": "Page 是枢纽，因为他的履历展示摇滚人事流动：录音室乐手 → Yardbirds → 一支重写 Hard Rock 的新乐队。跟着 tenure 看，就会明白为何阵容「版本」比流水账换人更重要。"
+    "en": "Born 1944. Studio years precede Yardbirds (post-Beck); forms Led Zeppelin 1968 with Plant, Jones, Bonham—writes riffs, produces albums, layers guitars.\n\nHub page for how rock personnel flow: session player → group → new band that redefines arena hard rock. Technique and production credits matter as much as stage myth.",
+    "zh": "1944 年生。录音室年代早于 Yardbirds（接 Beck 之后）；1968 与 Plant、Jones、Bonham 组建 Led Zeppelin——写 riff、制作专辑、多层吉他。\n\n枢纽页展示摇滚人事如何流动：录音室乐手 → 组合 → 重定义体育场 hard rock 的新乐队。技术与制作 credits 与舞台神话同等重要。"
   },
   "tenures": [
     {
@@ -28,8 +28,8 @@
       "from": 1966,
       "to": 1968,
       "note": {
-        "en": "Beck's exit, Page inherits the lab.",
-        "zh": "Beck 离开，Page 接手实验室。"
+        "en": "Post-Beck Yardbirds; lab before Zeppelin.",
+        "zh": "Beck 之后的 Yardbirds；Zeppelin 前的实验室。"
       }
     },
     {

@@ -9,8 +9,8 @@
     "blues"
   ],
   "whyMatters": {
-    "en": "Duck walk, double-stop riffs, cars and school halls: Chuck Berry writes Rock 'n' Roll's shared guitar dialect—later bands still speak it with accents.",
-    "zh": "鸭步、双音 riff、汽车与校园走廊：Chuck Berry 写出 Rock 'n' Roll 的通用吉他方言——后来的乐队都带着口音还在说。"
+    "en": "St. Louis guitarist/writer whose Chess singles (1955–58) fixed duck-walk showmanship and double-stop guitar intros as rock’n’roll’s teaching dialect.",
+    "zh": "圣路易斯吉他手/写作者：Chess 单曲（1955–58）把鸭步表演与双音吉他前奏定为摇滚教学方言。"
   },
   "members": [
     {
@@ -45,8 +45,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Key composition moment",
-        "zh": "乡村节奏遇上电吉他弯音"
+        "en": "Double-stop intro everyone learns.",
+        "zh": "人人会弹的双音前奏。"
       }
     },
     {
@@ -61,8 +61,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Key composition moment",
-        "zh": "吉他英雄神话的原型"
+        "en": "1955 car-chase narrative breakthrough.",
+        "zh": "1955 追车叙事突破。"
       }
     }
   ],
@@ -70,7 +70,7 @@
     {
       "text": "The guitar is the most important thing.",
       "speaker": "Chuck Berry",
-      "source": "Interview excerpt · Whisper-ready",
+      "source": "Interview excerpt",
       "year": 1987
     }
   ],
@@ -88,24 +88,24 @@
     "the-rolling-stones"
   ],
   "shortBio": {
-    "en": "The founding architect of Rock 'n' Roll guitar grammar.",
-    "zh": "Rock 'n' Roll 吉他语法的奠基人。"
+    "en": "Berry rock’n’roll; Johnny B. Goode is the guitar-hero syllabus.",
+    "zh": "Berry 摇滚；Johnny B. Goode 是吉他英雄教学大纲。"
   },
   "decisive": true,
   "body": {
-    "en": "Chuck Berry turns the electric guitar into a storytelling engine: teenage motion, chrome, and punchlines that land on the backbeat.\n\nAlmost every guitar band after him is still paying rent on that language.",
-    "zh": "Chuck Berry 把电吉他变成讲故事的引擎：少年动作、镀铬光泽、落在后拍上的包袱。\n\n之后几乎所有吉他乐队，都还在付这门语言的租金。"
+    "en": "Chess Records run: Maybellene, Roll Over Beethoven, Johnny B. Goode—narrative lyrics about cars, youth, and guitar ambition over Johnny Johnson piano and driving backbeats.\n\nJohnny B. Goode (1958) is the eternal intro riff. Beatles, Stones, and garage bands learn the dialect from these 45s.",
+    "zh": "Chess 厂牌系列：Maybellene、Roll Over Beethoven、Johnny B. Goode——汽车、青年与吉他野心叙事歌词，叠 Johnny Johnson 钢琴与驱动性后拍。\n\nJohnny B. Goode（1958）是永恒前奏 riff。Beatles、Stones 与车库乐队从这些 45 转学会方言。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "The grammar arrives duck-walking",
-        "zh": "语法鸭步到来"
+        "en": "Guitar intro as rock curriculum",
+        "zh": "吉他前奏当摇滚课程"
       },
       "body": {
-        "en": "Berry does not invent electricity. He invents the sentence structure: intro riff as headline, verse as road movie, solo as victory lap.\n\nWhen Lennon, Keith Richards, or a thousand garage kids open with that double-stop bounce, they are citing him—whether they admit it or not.",
-        "zh": "Berry 没有发明电。他发明了句子结构：前奏 riff 当标题，主歌当公路电影，solo 当胜利圈。\n\nLennon、Keith Richards，或一千个车库小孩一弹起那双音弹跳，就是在引用他——承认与否无关。"
+        "en": "Berry matters as songwriter-guitarist: verse stories + signature intros. Rock bands treat his singles as homework.\n\nShowmanship is documented; the riffs are the export.",
+        "zh": "Berry 作为词曲-吉他手要紧：主歌故事 + 标志前奏。摇滚乐队把他的单曲当作业。\n\n表演术有文献；riff 才是输出。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "rock-n-roll"
@@ -113,12 +113,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Maybellene: country speed, electric bend",
-        "zh": "Maybellene：乡村速度遇上电音弯音"
+        "en": "Johnny B. Goode: syllabus riff",
+        "zh": "Johnny B. Goode：教学大纲 riff"
       },
       "body": {
-        "en": "1955. A car chase in song form—country rhythm under electric sting. Maybellene makes motion itself the plot.\n\nRock 'n' Roll learns it can be about engines and desire without waiting for a ballad's permission.",
-        "zh": "1955 年。一首歌形状的飙车——乡村节奏托着电吉他的刺。Maybellene 让「移动」本身成为情节。\n\nRock 'n' Roll 学会：不必等情歌批准，也能写引擎与欲望。"
+        "en": "Double-stop intro everyone learns; lyric about a guitar kid—meta and practical.\n\n1958 Chess clarity.",
+        "zh": "人人会弹的双音前奏；关于吉他少年的歌词——既元又实用。\n\n1958 Chess 清晰度。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -127,12 +127,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Johnny B. Goode: the guitar-hero prototype",
-        "zh": "Johnny B. Goode：吉他英雄原型"
+        "en": "Maybellene: car-chase narrative single",
+        "zh": "Maybellene：追车叙事单曲"
       },
       "body": {
-        "en": "A kid who can play a guitar like ringing a bell. Johnny B. Goode is autobiography dressed as myth—and the template for every later guitar-hero montage.\n\nThe riff is a name tag. Once you hear it, every arena solo owes a quiet tip of the hat.",
-        "zh": "一个能把吉他弹得像摇铃的孩子。Johnny B. Goode 是披着神话外衣的自传——也是后来所有吉他英雄蒙太奇的模板。\n\nriff 像名牌。听过一次，之后每个体育馆 solo 都欠一个安静的脱帽礼。"
+        "en": "Country/R&B hybrid beat, storytelling verse—1955 breakthrough side.\n\nTemplate for rock lyric as short story.",
+        "zh": "乡村/R&B 混成节拍、叙事主歌——1955 突破面。\n\n摇滚歌词作短篇故事的模板。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -141,12 +141,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Everyone still speaks Chuck",
-        "zh": "大家还在说 Chuck 语"
+        "en": "British Invasion homework",
+        "zh": "British Invasion 作业"
       },
       "body": {
-        "en": "From British Invasion covers to punk's three-chord sprint, Berry's dialect survives translation. The duck walk becomes posture; the riff becomes muscle memory.\n\nOn the genre map he is not a side note. He is the road the map is drawn on.",
-        "zh": "从 British Invasion 的翻唱到朋克的三和弦冲刺，Berry 的方言经得起翻译。鸭步变成姿态，riff 变成肌肉记忆。\n\n在流派图上他不是注脚。他是地图下面那条路。"
+        "en": "UK beat groups cover Berry before writing originals; guitar education pipelines through his intros.\n\nDNA is lick + lyric craft.",
+        "zh": "英国 beat 组合在写原创前翻唱 Berry；吉他教育管道经他的前奏。\n\nDNA 是乐句 + 歌词工艺。"
       },
       "stickyVisual": "dna",
       "soundGenre": "rock-n-roll"
@@ -154,12 +154,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Cars, girls, and a ringing bell",
-        "zh": "汽车、女孩，与摇铃般的吉他"
+        "en": "Berry on writing and show",
+        "zh": "Berry 谈写作与表演"
       },
       "body": {
-        "en": "Berry's own lines keep landing on concrete nouns—cars, school, the guitar as a bell. No fog, no thesis statement.\n\nThat concreteness is why the quotes still cut: Rock 'n' Roll begins as reportage with a backbeat.",
-        "zh": "Berry 自己的句子总落在具体名词上——汽车、学校、像铃一样的吉他。没有雾，没有论文提纲。\n\n具体，所以金句仍锋利：Rock 'n' Roll 一开始就是带后拍的现场报道。"
+        "en": "When quotes exist, they often stress craft and audience. Prefer that over romance.\n\nRecords remain primary.",
+        "zh": "有引语时，常强调工艺与观众。宁取此而非浪漫。\n\n唱片仍是第一手。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,

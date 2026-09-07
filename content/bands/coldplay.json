@@ -1,0 +1,35 @@
+{
+  "name": "Coldplay",
+  "slug": "coldplay",
+  "formed": 1996,
+  "origin": "London, UK",
+  "primaryEra": "2000s-revival",
+  "genres": [
+    "alternative",
+    "indie-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Post-Britpop London four-piece that scaled piano-led alternative into global stadium pop from Parachutes (2000) through Viva la Vida-era production.",
+    "zh": "后 Britpop 伦敦四人组：从 Parachutes（2000）到 Viva la Vida 时期制作，把钢琴导向的 alternative 扩成全球体育场流行。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Yellow",
+      "year": 2000
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Chris Martin–led band; Yellow and Clocks made early-2000s alternative a mass radio format.",
+    "zh": "Chris Martin 领衔；Yellow 与 Clocks 把 2000 年代初 alternative 做成大众电台格式。"
+  },
+  "body": {
+    "en": "Formed in London in 1996. Parachutes (2000) and A Rush of Blood to the Head (2002) established delay-soaked guitars, piano hooks, and falsetto leads as arena grammar.\n\nYellow (2000) is the debut-era marker. Later records lean on Brian Eno–style production and chart maximalism; the early catalog is the rock-chronicle hinge from Britpop hangover to 2000s stadium alternative.",
+    "zh": "1996 年于伦敦组建。Parachutes（2000）与 A Rush of Blood to the Head（2002）把延时吉他、钢琴钩子与假声主唱做成体育场语法。\n\nYellow（2000）是出道期标记。后期唱片靠 Brian Eno 式制作与榜单最大化；早期目录才是编年史里从 Britpop 余波接到 2000 年代体育场 alternative 的铰链。"
+  }
+}

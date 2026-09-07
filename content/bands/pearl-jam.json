@@ -1,0 +1,35 @@
+{
+  "name": "Pearl Jam",
+  "slug": "pearl-jam",
+  "formed": 1990,
+  "origin": "Seattle, USA",
+  "primaryEra": "1990s-grunge-alt",
+  "genres": [
+    "grunge",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Seattle grunge band that outlasted the early-90s boom as a touring and Ticketmaster-fight institution; Ten (1991) remains the mass entry.",
+    "zh": "西雅图 grunge：在 90 年代初热潮后仍以巡演与 Ticketmaster 抗争体制存续；Ten（1991）仍是大众入口。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Alive",
+      "year": 1991
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Vedder-fronted grunge; Alive and Jeremy define the debut-era radio face.",
+    "zh": "Vedder 领衔的 grunge；Alive 与 Jeremy 定义出道期电台面孔。"
+  },
+  "body": {
+    "en": "Formed 1990 from Green River/Mother Love Bone fragments with Eddie Vedder. Ten and Vs. made them stadium-scale alongside Nirvana/Soundgarden; Vitalogy onward tracked a longer career arc.\n\nAlive (1991) is the essential-track marker here. Musically: open chords, McCready leads, Vedder’s baritone. Institutionally: anti-scalping fights and bootleg-heavy touring culture.",
+    "zh": "1990 年由 Green River/Mother Love Bone 碎片与 Eddie Vedder 组建。Ten 与 Vs. 使其与 Nirvana/Soundgarden 同级体育场体量；Vitalogy 起进入更长职业弧线。\n\nAlive（1991）是此处必听标记。音乐上：开放和弦、McCready 主音、Vedder 男中音。制度上：反黄牛斗争与重现场录音的巡演文化。"
+  }
+}

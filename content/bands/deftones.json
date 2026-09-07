@@ -1,0 +1,35 @@
+{
+  "name": "Deftones",
+  "slug": "deftones",
+  "formed": 1988,
+  "origin": "Sacramento, USA",
+  "primaryEra": "2000s-revival",
+  "genres": [
+    "alternative",
+    "heavy-metal"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Sacramento band that welded nu-metal rhythm weight to shoegaze/dream-pop guitar wash; White Pony (2000) is the catalog hinge.",
+    "zh": "萨克拉门托乐队：把 nu-metal 节奏重量焊上 shoegaze/dream-pop 吉他铺底；White Pony（2000）是目录铰链。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Change (In the House of Flies)",
+      "year": 2000
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Alt-metal group led by Chino Moreno; Change and Digitized atmospheres bridge metal and shoegaze listeners.",
+    "zh": "Chino Moreno 领衔的 alt-metal；Change 等曲目把金属听众与 shoegaze 听众接到同一套氛围制作上。"
+  },
+  "body": {
+    "en": "Formed 1988. Adrenaline and Around the Fur hit 1990s heavy radio; White Pony (2000) widened the palette—trip-hop tempos, layered vocals, Stephen Carpenter’s low tunings against Moreno’s clean/scream split.\n\nChange (In the House of Flies) (2000) is the crossover single. Later records keep the dual audience: metal festival stages and indie/shoegaze playlists.",
+    "zh": "1988 年组建。Adrenaline 与 Around the Fur 打进 1990 年代重金属电台；White Pony（2000）拓宽调色板——trip-hop 速度、多层人声、Stephen Carpenter 的降调对 Moreno 的清唱/嘶吼分工。\n\nChange (In the House of Flies)（2000）是跨界单曲。后期作品仍维持双观众：金属音乐节舞台与 indie/shoegaze 播放列表。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Ramones",
+  "slug": "ramones",
+  "formed": 1974,
+  "origin": "New York, USA",
+  "primaryEra": "punk-postpunk",
+  "genres": [
+    "punk"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Queens, NYC band that compressed rock’n’roll into two-minute, downstroked bursts; Ramones (1976) is the US punk timing blueprint.",
+    "zh": "纽约皇后区：把摇滚压成两分钟下行扫弦爆发；Ramones（1976）是美国朋克时值蓝图。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Blitzkrieg Bop",
+      "year": 1976
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "US punk prototype; Blitzkrieg Bop teaches the 1-2-3-4 count-in.",
+    "zh": "美国朋克原型；Blitzkrieg Bop 教会 1-2-3-4 起拍。"
+  },
+  "body": {
+    "en": "Formed 1974. Early Sire albums (Ramones, Leave Home, Rocket to Russia) fixed leather-jacket image, Joey’s deadpan vocal, Johnny’s strict downstrokes, Dee Dee’s bass count-ins.\n\nBlitzkrieg Bop (1976) is the essential cue. Influence is structural—short songs, few chords, high tempo—absorbed by UK punk, hardcore, and later pop-punk.",
+    "zh": "1974 年组建。早期 Sire 专辑（Ramones、Leave Home、Rocket to Russia）定型皮衣形象、Joey 的冷脸人声、Johnny 的严格下行扫弦、Dee Dee 的贝斯起拍。\n\nBlitzkrieg Bop（1976）是必听提示。影响是结构层面——短歌、少和弦、高速度——被英国朋克、hardcore 与后来的流行朋克吸收。"
+  }
+}

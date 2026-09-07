@@ -1,0 +1,496 @@
+{
+  "bands": {
+    "elvis-presley": {
+      "src": "/media/bands/elvis-presley.jpg",
+      "alt": {
+        "en": "Elvis performing live at the Mississippi-Alabama Fairgrounds in Tupelo, Mississippi, September 26, 1956",
+        "zh": "Elvis Presley（Wikimedia Commons）"
+      },
+      "credit": "https://archive.org/stream/radiotvmirr00mac#page/n225/mode/2up",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elvis_Presley_-_TV_Radio_Mirror,_March_1957_01.jpg"
+    },
+    "king-crimson": {
+      "src": "/media/bands/king-crimson.jpg",
+      "alt": {
+        "en": "J. Wetton, D. Cross, R. Fripp and B. Bruford: King Crimson in a 1974 press photo. The lineup depicted lasted from 1972 to 1974. The photo was distributed by Atlantic Records, which",
+        "zh": "King Crimson（Wikimedia Commons）"
+      },
+      "credit": "Immediate Worthpoint Archived",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_crimson_1974_press_photo.jpg"
+    },
+    "metallica": {
+      "src": "/media/bands/metallica.jpg",
+      "alt": {
+        "en": "Metallica in a press photo dated to 1983. Photo is definitely pre-1989, as Metallica left Megaforce and signed to Elektra in 1984. No copyright markings on the photo and no registr",
+        "zh": "Metallica（Wikimedia Commons）"
+      },
+      "credit": "Immediate (Amazon Listing) Worthpoint",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Metallica_1983_press_photo.jpg"
+    },
+    "new-order": {
+      "src": "/media/bands/new-order.jpg",
+      "alt": {
+        "en": "Individual portraits of the band New Order used to publicize their 1985 album, Low-Life. Clockwise from top left: Bernard Sumner, Steven Morris, Peter Hook and Gillian Gilbert.",
+        "zh": "New Order（Wikimedia Commons）"
+      },
+      "credit": "Lansure's Music Paraphernalia",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Order,_1985.jpg"
+    },
+    "pink-floyd": {
+      "src": "/media/bands/pink-floyd.jpg",
+      "alt": {
+        "en": "This photo was featured in the July 1968 issue of Hit Parader magazine. However, the picture itself would have been taken sometime in 1967.",
+        "zh": "Pink Floyd（Wikimedia Commons）"
+      },
+      "credit": "https://archive.org/details/hitparadermagazi27unse_7/page/8/mode/2up?view=theater July 1968 issue of Hit Parader magazine",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pink_Floyd_1967_with_Syd_Barrett.jpg"
+    },
+    "rainbow": {
+      "src": "/media/bands/rainbow.jpg",
+      "alt": {
+        "en": "Ronnie James Dio and Ritchie Blackmore in Rainbow, Chateau Neuf, Oslo, Norway",
+        "zh": "Rainbow（Wikimedia Commons）"
+      },
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rainbow_in_performance_(27_09_1977_02_500b).jpg"
+    },
+    "tame-impala": {
+      "src": "/media/bands/tame-impala.jpg",
+      "alt": {
+        "en": "Tame Impala, live in AB Brussel.",
+        "zh": "Tame Impala（Wikimedia Commons）"
+      },
+      "credit": "Wikiportrait",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tame-impala-1350426199.jpg"
+    },
+    "the-beatles": {
+      "src": "/media/bands/the-beatles.jpg",
+      "alt": {
+        "en": "Photograph of The Beatles as they arrive in New York City in 1964",
+        "zh": "The Beatles（Wikimedia Commons）"
+      },
+      "credit": "https://www.loc.gov/rr/print/list/235_pob.html Library of Congress note: \"No copyright found; checked by staff December 2000.\"",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Beatles_members_at_New_York_City_in_1964.jpg"
+    },
+    "the-clash": {
+      "src": "/media/bands/the-clash.jpg",
+      "alt": {
+        "en": "The Clash, Chateau Neuf, Oslo, Norway",
+        "zh": "The Clash（Wikimedia Commons）"
+      },
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clash_21051980_12_800.jpg"
+    },
+    "the-jimi-hendrix-experience": {
+      "src": "/media/bands/the-jimi-hendrix-experience.jpg",
+      "alt": {
+        "en": "The Jimi Hendrix Experience performed in Helsinki. Here seen before or after the concert at Hotelli Vaakuna.",
+        "zh": "The Jimi Hendrix Experience（Wikimedia Commons）"
+      },
+      "credit": "http://hs.mediadelivery.fi/img/1920/27b2ad432ecb87a8c37b462ae52322c1.jpg",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jimi-Hendrix-1967-Helsinki-f.jpg"
+    },
+    "the-rolling-stones": {
+      "src": "/media/bands/the-rolling-stones.jpg",
+      "alt": {
+        "en": "Group photographs of the Rolling Stones taken from a 1965 Billboard trade ad. From up to down: Mick Jagger; Charlie Watts and Keith Richards; Brian Jones and Bill Wyman.",
+        "zh": "The Rolling Stones（Wikimedia Commons）"
+      },
+      "credit": "Billboard, 1965-05-01, pag. 25",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rolling_Stones_1965.jpg"
+    },
+    "the-who": {
+      "src": "/media/bands/the-who.jpg",
+      "alt": {
+        "en": "The Who in 1967. L to R: Daltrey, Moon, Entwistle, Townshend",
+        "zh": "The Who（Wikimedia Commons）"
+      },
+      "credit": "https://archive.org/details/hitparadermagazi27unse_5/page/26/mode/2up?view=theater May 1968 issue of Hit Parader magazine",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Who_circa_1967.jpg"
+    },
+    "the-yardbirds": {
+      "src": "/media/bands/the-yardbirds.jpg",
+      "alt": {
+        "en": "The Yardbirds in 1965. (left to right, top to bottom) Jeff Beck, Paul Samwell-Smith, Keith Relf, Chris Dreja and Jim McCarty",
+        "zh": "The Yardbirds（Wikimedia Commons）"
+      },
+      "credit": "This file was derived from: The Yardbirds in 1965.png: - Went back to original source of that image ([1]) for higher resolution version",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Yardbirds_in_1965_(true_monochrome).jpg"
+    },
+    "them-crooked-vultures": {
+      "src": "/media/bands/them-crooked-vultures.jpg",
+      "alt": {
+        "en": "Them Crooked Vultures live op Lowlands 2009",
+        "zh": "Them Crooked Vultures（Wikimedia Commons）"
+      },
+      "credit": "Transferred from nl.wikipedia (Original text : Zelf gemaakt)",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Them_Crooked_Vultures.JPG"
+    },
+    "arctic-monkeys": {
+      "src": "/media/bands/arctic-monkeys.jpg",
+      "alt": {
+        "en": "Arctic Monkeys on the Orange Stage at Roskilde Festival 2014",
+        "zh": "Arctic Monkeys（Wikimedia Commons）"
+      },
+      "credit": "Bill Ebbesen",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arctic_Monkeys_-_Orange_Stage_-_Roskilde_Festival_2014.jpg"
+    },
+    "black-sabbath": {
+      "src": "/media/bands/black-sabbath.jpg",
+      "alt": {
+        "en": "Black Sabbath in a 1970 promotional photograph",
+        "zh": "Black Sabbath（Wikimedia Commons）"
+      },
+      "credit": "Warner Bros. Records press photo",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Sabbath_(1970).jpg"
+    },
+    "chuck-berry": {
+      "src": "/media/bands/chuck-berry.jpg",
+      "alt": {
+        "en": "Chuck Berry performing in 1971",
+        "zh": "Chuck Berry（Wikimedia Commons）"
+      },
+      "credit": "1950s Rock & Roll Revival promotional photo",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chuck_Berry_1971.jpg"
+    },
+    "cream": {
+      "src": "/media/bands/cream.jpg",
+      "alt": {
+        "en": "Cream — Clapton, Bruce and Baker, 1960s",
+        "zh": "Cream（Wikimedia Commons）"
+      },
+      "credit": "Press photograph",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cream_Clapton_Bruce_Baker_1960s.jpg"
+    },
+    "fontaines-dc": {
+      "src": "/media/bands/fontaines-dc.jpg",
+      "alt": {
+        "en": "Fontaines D.C. performing at Loose Ends 2019",
+        "zh": "Fontaines DC（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fontaines_DC_at_Loose_Ends_2019.jpg"
+    },
+    "foo-fighters": {
+      "src": "/media/bands/foo-fighters.jpg",
+      "alt": {
+        "en": "Foo Fighters performing live",
+        "zh": "Foo Fighters（Wikimedia Commons）"
+      },
+      "credit": "Jo (Flickr)",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Foo_Fighters_Live_29.jpg"
+    },
+    "led-zeppelin": {
+      "src": "/media/bands/led-zeppelin.jpg",
+      "alt": {
+        "en": "Led Zeppelin promotional photograph, 1971 — Jones, Page, Bonham, Plant",
+        "zh": "Led Zeppelin（Wikimedia Commons）"
+      },
+      "credit": "Atlantic Records / Cash Box, 1971",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Led_Zeppelin_-_promotional_image_(1971).jpg"
+    },
+    "nirvana": {
+      "src": "/media/bands/nirvana.jpg",
+      "alt": {
+        "en": "Kurt Cobain and Krist Novoselic at the 1992 MTV Video Music Awards",
+        "zh": "Nirvana（Wikimedia Commons）"
+      },
+      "credit": "P.B. Rage",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nirvana_around_1992_(cropped).jpg"
+    },
+    "oasis": {
+      "src": "/media/bands/oasis.jpg",
+      "alt": {
+        "en": "Liam and Noel Gallagher of Oasis, San Diego 2005",
+        "zh": "Oasis（Wikimedia Commons）"
+      },
+      "credit": "Will Fresch",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oasis_Liam_and_Noel.jpg"
+    },
+    "queens-of-the-stone-age": {
+      "src": "/media/bands/queens-of-the-stone-age.jpg",
+      "alt": {
+        "en": "Queens of the Stone Age, 2023",
+        "zh": "Queens Of The Stone Age（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queens_of_the_Stone_Age_-_2023.jpg"
+    },
+    "radiohead": {
+      "src": "/media/bands/radiohead.jpg",
+      "alt": {
+        "en": "Radiohead live at Uber Arena, Berlin, 2025",
+        "zh": "Radiohead（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025_Radiohead_live_concert_at_Uber_Arena,_Berlin_102.jpg"
+    },
+    "the-strokes": {
+      "src": "/media/bands/the-strokes.jpg",
+      "alt": {
+        "en": "The Strokes live at Stubb's, Austin, 2006",
+        "zh": "The Strokes（Wikimedia Commons）"
+      },
+      "credit": "Matt (Flickr)",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TheStrokes.jpg"
+    },
+    "wings": {
+      "src": "/media/bands/wings.jpg",
+      "alt": {
+        "en": "Paul and Linda McCartney with Wings, 1976",
+        "zh": "Wings（Wikimedia Commons）"
+      },
+      "credit": "Jim Summaria",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_McCartney_with_Linda_McCartney_-_Wings_-_1976.jpg"
+    },
+    "joy-division": {
+      "src": "/media/bands/joy-division.jpg",
+      "alt": {
+        "en": "Joy Division exhibition (Ian Curtis's gear), Manchester 2010 — Commons has almost no free-license period band photos",
+        "zh": "Joy Division 展览（Ian Curtis 的乐器装备），曼彻斯特 2010。Commons 上几乎没有可商用的当年乐队宣传照"
+      },
+      "credit": "Man Alive!",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joy_Division_Exhibition.jpg"
+    },
+    "ac-dc": {
+      "src": "/media/bands/ac-dc.jpg",
+      "alt": {
+        "en": "Angus Young of AC/DC at London Olympic Stadium",
+        "zh": "Ac DC（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angus_Young_of_AC_DC_at_London's_Olympic_Stadium.jpg"
+    },
+    "guns-n-roses": {
+      "src": "/media/bands/guns-n-roses.jpg",
+      "alt": {
+        "en": "Guns N' Roses live at London Stadium, 2017",
+        "zh": "Guns N Roses（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Flickr / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:GunsNRoses160617-61_(35271773841).jpg"
+    },
+    "queen": {
+      "src": "/media/bands/queen.jpg",
+      "alt": {
+        "en": "Queen publicity photograph, circa 1977",
+        "zh": "Queen（Wikimedia Commons）"
+      },
+      "credit": "Elektra / press kit, circa 1977",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_News_Of_The_World_(1977_Press_Kit_Photo_01).jpg"
+    },
+    "sex-pistols": {
+      "src": "/media/bands/sex-pistols.jpg",
+      "alt": {
+        "en": "Sex Pistols performing at Paradiso, Amsterdam, 1977",
+        "zh": "Sex Pistols（Wikimedia Commons）"
+      },
+      "credit": "Anefo / Nationaal Archief",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sex_Pistols_in_Paradiso.jpg"
+    },
+    "the-police": {
+      "src": "/media/bands/the-police.jpg",
+      "alt": {
+        "en": "Sting with The Police at Agora Ballroom, Atlanta, 1979",
+        "zh": "The Police（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sting_Atlanta_3.jpg"
+    }
+  },
+  "people": {
+    "bernard-sumner": {
+      "src": "/media/people/bernard-sumner.jpg",
+      "alt": {
+        "en": "Bernard Sumner, live at the Hammerstein Ballroom, New York City, 2005.",
+        "zh": "Bernard Sumner（Wikimedia Commons）"
+      },
+      "credit": "Transferred from en.wikipedia to Commons. Transfer was stated to be made by User:Telrúnya.",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barney2005.jpg"
+    },
+    "dave-grohl": {
+      "src": "/media/people/dave-grohl.jpg",
+      "alt": {
+        "en": "Dave Grohl playing with Scream",
+        "zh": "Dave Grohl（Wikimedia Commons）"
+      },
+      "credit": "www.spiritspirit.de",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dave_Grohl_1989.jpg"
+    },
+    "liam-gallagher": {
+      "src": "/media/people/liam-gallagher.jpg",
+      "alt": {
+        "en": "Liam Gallagher en concert lors du festival des vieilles charrues 2018.",
+        "zh": "Liam Gallagher（Wikimedia Commons）"
+      },
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Festival_des_Vieilles_Charrues_2018_-_Liam_Gallagher_-_013.jpg"
+    },
+    "noel-gallagher": {
+      "src": "/media/people/noel-gallagher.jpg",
+      "alt": {
+        "en": "Noel Gallagher's High Flying Birds live at Pistoia Blues, Italy, on July 8th 2019",
+        "zh": "Noel Gallagher（Wikimedia Commons）"
+      },
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noel_Gallagher_2019.jpg"
+    },
+    "eric-clapton": {
+      "src": "/media/people/eric-clapton.jpg",
+      "alt": {
+        "en": "Eric Clapton",
+        "zh": "Eric Clapton（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eric_Clapton_1.jpg"
+    },
+    "jimmy-page": {
+      "src": "/media/people/jimmy-page.jpg",
+      "alt": {
+        "en": "Jimmy Page, early career publicity photo",
+        "zh": "Jimmy Page（Wikimedia Commons）"
+      },
+      "credit": "Publicity photograph",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jimmy_Page_early.jpg"
+    },
+    "john-paul-jones": {
+      "src": "/media/people/john-paul-jones.jpg",
+      "alt": {
+        "en": "John Paul Jones, 2010",
+        "zh": "John Paul Jones（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Paul_Jones_-_2010.jpg"
+    },
+    "josh-homme": {
+      "src": "/media/people/josh-homme.jpg",
+      "alt": {
+        "en": "Josh Homme",
+        "zh": "Josh Homme（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Josh_Homme_mg_5648.jpg"
+    },
+    "kurt-cobain": {
+      "src": "/media/people/kurt-cobain.jpg",
+      "alt": {
+        "en": "Kurt Cobain at the 1992 MTV Video Music Awards",
+        "zh": "Kurt Cobain（Wikimedia Commons）"
+      },
+      "credit": "P.B. Rage",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nirvana_around_1992_(cropped).jpg"
+    },
+    "ozzy-osbourne": {
+      "src": "/media/people/ozzy-osbourne.jpg",
+      "alt": {
+        "en": "Ozzy Osbourne, 1973",
+        "zh": "Ozzy Osbourne（Wikimedia Commons）"
+      },
+      "credit": "Press photograph",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ozzy_Osbourne_1973.JPG"
+    },
+    "paul-mccartney": {
+      "src": "/media/people/paul-mccartney.jpg",
+      "alt": {
+        "en": "Paul McCartney with Wings, 1976",
+        "zh": "Paul Mccartney（Wikimedia Commons）"
+      },
+      "credit": "Jim Summaria",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_McCartney_with_Linda_McCartney_-_Wings_-_1976.jpg"
+    },
+    "peter-hook": {
+      "src": "/media/people/peter-hook.jpg",
+      "alt": {
+        "en": "Peter Hook",
+        "zh": "Peter Hook（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peter_Hook.jpg"
+    },
+    "robert-fripp": {
+      "src": "/media/people/robert-fripp.jpg",
+      "alt": {
+        "en": "Robert Fripp",
+        "zh": "Robert Fripp（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Fripp.jpg"
+    },
+    "robert-plant": {
+      "src": "/media/people/robert-plant.jpg",
+      "alt": {
+        "en": "Robert Plant, 2022",
+        "zh": "Robert Plant（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Plant_(2022).jpg"
+    },
+    "ronnie-james-dio": {
+      "src": "/media/people/ronnie-james-dio.jpg",
+      "alt": {
+        "en": "Ronnie James Dio, 2009",
+        "zh": "Ronnie James Dio（Wikimedia Commons）"
+      },
+      "credit": "Diego Torres",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ronnie_James_Dio_(3538742389).jpg"
+    },
+    "thom-yorke": {
+      "src": "/media/people/thom-yorke.jpg",
+      "alt": {
+        "en": "Thom Yorke",
+        "zh": "Thom Yorke（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thom_Yorke.jpg"
+    }
+  }
+}

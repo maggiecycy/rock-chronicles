@@ -3,7 +3,7 @@
   "slug": "foo-fighters",
   "formed": 1994,
   "origin": "Seattle, USA",
-  "primaryEra": "1990s-grunge-britpop",
+  "primaryEra": "1990s-grunge-alt",
   "genres": [
     "alternative",
     "hard-rock"
@@ -18,11 +18,15 @@
   "influenceFrom": [],
   "influenced": [],
   "shortBio": {
-    "en": "Grohl rebuilds after Nirvana—drums become choruses; the person keeps the plot moving.",
-    "zh": "Grohl 在 Nirvana 之后重建——鼓变成副歌；人把剧情往前推。"
+    "en": "Grohl-fronted alt-rock; drummer-to-frontman career after 1994.",
+    "zh": "Grohl 领衔的 alt-rock；1994 年后鼓手转主唱的职业路径。"
   },
   "body": {
-    "en": "Grohl rebuilds after Nirvana—drums become choruses; the person keeps the plot moving. Bridge page for the shared-member graph—not a full decisive narrative yet.",
-    "zh": "Grohl 在 Nirvana 之后重建——鼓变成副歌；人把剧情往前推。 共享成员图的桥梁页——尚未展开决定性长叙事。"
+    "en": "Started 1994 with Grohl playing most instruments on the debut; Nate Mendel, Pat Smear, and later Taylor Hawkins stabilized the live band. The Colour and the Shape fixed loud-quiet radio hooks.\n\nBridge node in this graph: Nirvana drummer → Foo Fighters frontman → Them Crooked Vultures. Musical constants—compressed guitars, stacked choruses, live reliability—matter more than mythology.",
+    "zh": "1994 起步，首专大半乐器由 Grohl 亲自演奏；Nate Mendel、Pat Smear 与后来的 Taylor Hawkins 稳定现场编制。The Colour and the Shape 定型强弱电台钩子。\n\n本图谱桥接节点：Nirvana 鼓手 → Foo Fighters 主唱 → Them Crooked Vultures。音乐常量——压缩吉他、堆叠副歌、现场稳定——重于神话。"
+  },
+  "whyMatters": {
+    "en": "Dave Grohl’s post-Nirvana band; Foo Fighters (1995) onward turned a one-man demo project into a durable alternative/hard-rock touring act.",
+    "zh": "Dave Grohl 在 Nirvana 之后的乐队；自同名专辑（1995）起把一人 demo 项目做成持久的 alternative/hard-rock 巡演编制。"
   }
 }

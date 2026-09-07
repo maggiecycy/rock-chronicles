@@ -1,0 +1,34 @@
+{
+  "slug": "shoegaze-pedalboard",
+  "title": {
+    "en": "Why \"shoegaze\"? Look down.",
+    "zh": "为什么叫「盯鞋」？低头。"
+  },
+  "summary": {
+    "en": "The pedalboard is bigger than the living room. Fuzz and delay get stomped for an hour.",
+    "zh": "效果器板比客厅大。Fuzz 和 Delay 踩一小时。"
+  },
+  "body": {
+    "en": "The name stuck because guitarists stare at the floor—at racks of pedals—while walls of reverb and fuzz bury the vocal.\n\nMy Bloody Valentine and Slowdive made the joke true: gaze at shoes, flood the room, leave the stage banter to other genres.",
+    "zh": "名字能站住，是因为吉他手盯地板——盯那一排单块——混响和 fuzz 把人声埋进去。\n\nMy Bloody Valentine 和 Slowdive 把笑话坐实：盯鞋、灌满房间、把台上废话留给别的流派。"
+  },
+  "tone": "meme",
+  "examples": [
+    {
+      "bandSlug": "my-bloody-valentine",
+      "label": "My Bloody Valentine",
+      "note": {
+        "en": "Loveless: guitar ocean as identity.",
+        "zh": "Loveless：吉他海当身份。"
+      }
+    },
+    {
+      "bandSlug": "slowdive",
+      "label": "Slowdive",
+      "note": {
+        "en": "Delay/reverb stacks, whispered vocals, shoes optional but on-brand.",
+        "zh": "Delay/混响堆栈、气声人声；鞋可选，但很符合人设。"
+      }
+    }
+  ]
+}

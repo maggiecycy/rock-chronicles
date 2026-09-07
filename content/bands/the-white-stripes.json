@@ -1,0 +1,36 @@
+{
+  "name": "The White Stripes",
+  "slug": "the-white-stripes",
+  "formed": 1997,
+  "origin": "Detroit, USA",
+  "primaryEra": "2000s-revival",
+  "genres": [
+    "indie-rock",
+    "blues",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Detroit duo that stripped blues-garage to guitar/drums/vocal; Elephant (2003) and Seven Nation Army made minimal lineup a global riff brand.",
+    "zh": "底特律双人组：把蓝调车库压成吉他/鼓/人声；Elephant（2003）与 Seven Nation Army 让最小编制成为全球 riff 品牌。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Seven Nation Army",
+      "year": 2003
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Jack / Meg White blues-garage; Seven Nation Army is the stadium chant riff.",
+    "zh": "Jack / Meg White 的蓝调车库；Seven Nation Army 是体育场口号 riff。"
+  },
+  "body": {
+    "en": "Formed 1997. Early Sympathy for the Record Industry releases and White Blood Cells kept recording raw; Elephant (Liam Watson / Toe Rag) hit mainstream without adding bass.\n\nSeven Nation Army (2003) is the listed riff—octave pedal illusion of bass. Proof that early-2000s rock radio still answered to garage reduction, not only nu-metal density.",
+    "zh": "1997 年组建。早期 Sympathy for the Record Industry 发行与 White Blood Cells 保持毛糙录音；Elephant（Liam Watson / Toe Rag）打进主流且不加贝斯。\n\nSeven Nation Army（2003）是列出 riff——八度效果器制造的假贝斯。证明 2000 年代初摇滚电台仍回应车库减法，而非只有 nu-metal 密度。"
+  }
+}

@@ -1,33 +1,33 @@
 {
   "slug": "stadium-vs-club",
   "title": {
-    "en": "Stadium guilt vs club cool",
-    "zh": "体育馆原罪 vs 小酒馆酷感"
+    "en": "Stadium sellout vs club purity",
+    "zh": "体育馆「堕落」vs 小场「纯正」"
   },
   "summary": {
-    "en": "In rock, size is never just capacity. It's a moral argument with beer in it.",
-    "zh": "在摇滚里，规模从来不只是人数。它是一场掺着啤酒的道德辩论。"
+    "en": "Both sides are half right. Volume is not a moral category.",
+    "zh": "两边都只对一半。响度不是道德分类。"
   },
   "body": {
-    "en": "Club kids accuse arena acts of selling out. Arena acts accuse clubs of LARPing poverty with better leather. Both can be right on different nights.\n\nPunk arrives as a subtraction machine for stadium excess. Britpop and later indie reclaim big rooms wearing different jackets. The fight isn't stupid—it protects something tender about proximity—but it gets stupid when volume becomes virtue. Listen for whether the songs still breathe when the room gets cathedral-sized.",
-    "zh": "小酒馆骂体育馆卖身。体育馆骂小酒馆穿着更好的皮衣玩穷。不同夜晚两边都可能对。\n\nPunk 像一台给体育馆过剩做减法的机器。Britpop 和后来的 indie 又换件外套把大场地夺回来。这场架并不蠢——它护着某种关于「靠近」的娇气——但当音量变成品德，就蠢了。听歌在房间变成大教堂时，还喘不喘得上气。"
+    "en": "Club kids call arena acts sellouts. Arena acts call club kids romantic about bad PAs. Punk arrives as a cut against stadium excess; Britpop and later indie reclaim big rooms under different clothes.\n\nUseful test: do the songs still work when the room scales? Useless test: \"real fans only saw them in a basement in 1992.\"",
+    "zh": "小场骂体育馆堕落。体育馆骂小场把烂 PA 浪漫化。朋克上来砍体育馆过度；Britpop 和后来的 indie 换一套衣服又把大场收回来。\n\n有用标准：歌放大了还成不成？没用标准：「真粉丝只在 1992 年地下室见过他们」。"
   },
   "tone": "half-true",
   "examples": [
     {
-      "bandSlug": "the-clash",
-      "label": "The Clash",
-      "note": {
-        "en": "Politics in a room that kept getting larger.",
-        "zh": "政治待在一个越来越大的房间里。"
-      }
-    },
-    {
       "bandSlug": "oasis",
       "label": "Oasis",
       "note": {
-        "en": "Knebworth as weather system.",
-        "zh": "Knebworth 做成天气系统。"
+        "en": "Knebworth: Britpop as stadium sport.",
+        "zh": "Knebworth：Britpop 当体育馆运动。"
+      }
+    },
+    {
+      "bandSlug": "the-strokes",
+      "label": "The Strokes",
+      "note": {
+        "en": "NYC clubs → festival headliners in one album cycle.",
+        "zh": "纽约小场 → 一张专的周期内冲到音乐节头条。"
       }
     }
   ]

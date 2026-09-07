@@ -1,0 +1,35 @@
+{
+  "name": "The Smiths",
+  "slug": "the-smiths",
+  "formed": 1982,
+  "origin": "Manchester, UK",
+  "primaryEra": "punk-postpunk",
+  "genres": [
+    "indie-rock",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Manchester four-piece that set jangle guitar and literary lyric as 1980s UK indie’s default; The Queen Is Dead (1986) is the peak album citation.",
+    "zh": "曼彻斯特四人组：把 jangle 吉他与文学歌词定为 1980 年代英国 indie 默认；The Queen Is Dead（1986）是峰值专辑引用。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "There Is a Light That Never Goes Out",
+      "year": 1986
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Morrissey / Marr indie; There Is a Light That Never Goes Out is the lasting single.",
+    "zh": "Morrissey / Marr 的 indie；There Is a Light That Never Goes Out 是长寿单曲。"
+  },
+  "body": {
+    "en": "Formed 1982. Rough Trade singles and albums through Strangeways… pair Johnny Marr’s multi-tracked jangle with Morrissey’s baritone and UK-specific references—no synth-pop compromise.\n\nThere Is a Light That Never Goes Out (1986) is the entry. They are the bridge from post-punk to 1990s Britpop guitar bands that cite Marr’s voicings and Morrissey’s persona separately.",
+    "zh": "1982 年组建。Rough Trade 单曲与直至 Strangeways… 的专辑：Johnny Marr 多层 jangle 对 Morrissey 男中音与英国本土指涉——不做 synth-pop 妥协。\n\nThere Is a Light That Never Goes Out（1986）是入口。他们是后朋克到 1990 年代 Britpop 吉他乐队的桥：后者分别引用 Marr 声部与 Morrissey 人设。"
+  }
+}

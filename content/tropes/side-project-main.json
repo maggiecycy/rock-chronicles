@@ -1,33 +1,33 @@
 {
   "slug": "side-project-main",
   "title": {
-    "en": "The side project that ate dinner",
-    "zh": "支线项目把正餐吃了"
+    "en": "Side project becomes the main band",
+    "zh": "副业变主业"
   },
   "summary": {
-    "en": "It starts as \"just for fun.\" Then the fun has better songs—and keeps the friends.",
-    "zh": "一开始叫「玩玩而已」。然后好玩的那边歌更好——朋友也留下了。"
+    "en": "\"Just jamming with friends\" ships a better album than the day job.",
+    "zh": "「跟朋友随便玩一下」——结果比正职那张盘还好听。"
   },
   "body": {
-    "en": "Side projects are pressure valves until they become forwarding addresses. Dave Grohl walks out of Nirvana's silence and builds Foo Fighters like someone assembling a second nervous system in public. Suddenly the \"main\" band is a ghost that still sells shirts.\n\nIt isn't betrayal so much as metabolism. Artists outgrow rooms. Audiences sometimes follow the person, not the logo—which is why Person pages matter more than loyalty oaths.",
-    "zh": "支线本是减压阀，直到变成新的通讯地址。Dave Grohl 走出 Nirvana 的沉默，把 Foo Fighters 搭得像当众组装第二套神经系统。然后「主队」变成仍在卖衣服的幽灵。\n\n这不太像背叛，更像新陈代谢。人会长出房间。听众有时跟人走，不跟 logo——所以 Person 页比效忠宣誓重要。"
+    "en": "Dave Grohl starts Foo Fighters as a one-man tape project after Nirvana. Josh Homme stacks Queens, Eagles of Death Metal, and Them Crooked Vultures like side hustles with chart teeth.\n\nRule of thumb: if the \"side\" band has its own Wikipedia drama and merch table, it is not a side project anymore.",
+    "zh": "Dave Grohl 在 Nirvana 之后用一人录音做成 Foo Fighters。Josh Homme 把 Queens、Eagles of Death Metal、Them Crooked Vultures 叠成带排行榜牙齿的「副业」。\n\n经验法则：如果「副业」已经有自己的维基撕逼和周边摊，那就不是副业了。"
   },
-  "tone": "lore",
+  "tone": "meme",
   "examples": [
     {
-      "personSlug": "dave-grohl",
-      "label": "Dave Grohl",
+      "bandSlug": "foo-fighters",
+      "label": "Foo Fighters",
       "note": {
-        "en": "From wreckage to a second life with choruses.",
-        "zh": "从残骸到带副歌的第二种人生。"
+        "en": "Started as Grohl’s solo demos; became the day job.",
+        "zh": "从 Grohl 一人 demo 变成正职。"
       }
     },
     {
-      "bandSlug": "nirvana",
-      "label": "Nirvana",
+      "bandSlug": "them-crooked-vultures",
+      "label": "Them Crooked Vultures",
       "note": {
-        "en": "The silence that forced the pivot.",
-        "zh": "逼出转向的那场沉默。"
+        "en": "Homme / Jones / Grohl: side project with a stadium résumé.",
+        "zh": "Homme / Jones / Grohl：简历能填体育馆的副业。"
       }
     }
   ]

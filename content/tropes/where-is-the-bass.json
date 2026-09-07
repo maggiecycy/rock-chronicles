@@ -1,0 +1,34 @@
+{
+  "slug": "where-is-the-bass",
+  "title": {
+    "en": "Where is the bass in the mix?",
+    "zh": "混音里的贝斯呢？"
+  },
+  "summary": {
+    "en": "Engineer muted the bass track. The bassist finished the gig without noticing.",
+    "zh": "混音师把贝斯轨 Mute 了。贝斯手演完都没发现。"
+  },
+  "body": {
+    "en": "Oldest band joke after drummer jokes: turn down the bass until it is a rumor. Early Beatles stereo oddities, metal walls of guitar, and indie \"midrange forever\" mixes all feed the meme.\n\nSometimes it is a bad mix. Sometimes the bass is felt more than heard. Either way, the bassist still has to carry the amp.",
+    "zh": "仅次于鼓手笑话的老梗：把贝斯推到像谣言。早期披头士奇怪立体声、金属吉他墙、indie「中频万岁」混音都给这梗加油。\n\n有时真是烂混音。有时贝斯是「感觉到」多于「听到」。不管怎样，贝斯手还是得扛音箱。"
+  },
+  "tone": "meme",
+  "examples": [
+    {
+      "bandSlug": "the-beatles",
+      "label": "The Beatles",
+      "note": {
+        "en": "Hard-panned early stereo: bass jokes write themselves.",
+        "zh": "早期硬分轨立体声：贝斯笑话自己长出来。"
+      }
+    },
+    {
+      "bandSlug": "metallica",
+      "label": "Metallica",
+      "note": {
+        "en": "…And Justice / later loudness wars: bass as casualty in fan lore.",
+        "zh": "…And Justice / 后期响度战争：粉丝传说里贝斯是伤亡名单。"
+      }
+    }
+  ]
+}

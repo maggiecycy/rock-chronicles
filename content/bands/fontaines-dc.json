@@ -9,8 +9,8 @@
     "indie-rock"
   ],
   "whyMatters": {
-    "en": "Dublin accent, city poetry, Post-Punk snap: Fontaines D.C. prove contemporary rock can still hold the chronicle with urgency and literature in the same breath.",
-    "zh": "都柏林口音、城市诗、Post-Punk 干脆：Fontaines D.C. 证明当代摇滚仍能用紧迫与文学同一口气占住编年史。"
+    "en": "Dublin post-punk band; Dogrel (2019) onward put Irish place-name lyric and dry, driving guitars on late-2010s/2020s indie festival stages.",
+    "zh": "都柏林后朋克；自 Dogrel（2019）起把爱尔兰地名歌词与干、驱动的吉他送上 2010 末/2020 年代 indie 音乐节舞台。"
   },
   "members": [
     {
@@ -70,8 +70,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Post-Punk",
-        "zh": "都柏林口音遇上 Post-Punk 复兴"
+        "en": "Dogrel-era drive statement.",
+        "zh": "Dogrel 时期驱动声明。"
       }
     },
     {
@@ -89,8 +89,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Key composition moment",
-        "zh": "叙事单曲：近代主轴的文学面"
+        "en": "Later single with wider dynamics.",
+        "zh": "动态更宽的后期单曲。"
       }
     }
   ],
@@ -98,7 +98,7 @@
     {
       "text": "We're a rock band from Dublin. That's enough.",
       "speaker": "Grian Chatten",
-      "source": "Interview paraphrase · Whisper-ready",
+      "source": "Interview paraphrase",
       "year": 2020
     }
   ],
@@ -116,24 +116,24 @@
   ],
   "influenced": [],
   "shortBio": {
-    "en": "A decisive voice in today's Post-Punk revival—ink-stained and loud.",
-    "zh": "当代 Post-Punk 复兴的决定性一员——墨水渍，声音响。"
+    "en": "Chatten-fronted post-punk; Boys in the Better Land is the early statement.",
+    "zh": "Chatten 领衔的后朋克；Boys in the Better Land 是早期声明。"
   },
   "decisive": true,
   "body": {
-    "en": "Fontaines D.C. write like the city is dictating and the band is typing at speed. Post-Punk revival gets a literary edge that still hits the body first.\n\nModern chapter, old urgency—no costume required.",
-    "zh": "Fontaines D.C. 写得像城市在口述，乐队在速记。Post-Punk 复兴有了文学锋刃，却仍先打身体。\n\n近代章节，旧紧迫——不必戏服。"
+    "en": "Formed 2017. Dogrel and A Hero’s Death establish Chatten’s spoken-sung Dublin diction, twin guitars, and taut rhythm section; later albums (Skinty Fia, Romance) widen dynamics and production.\n\nBoys in the Better Land (2019) and Jackie Down the Line / Starburster show early drive and later single craft.",
+    "zh": "2017 年组建。Dogrel 与 A Hero’s Death 确立 Chatten 半说唱都柏林吐字、双吉他与紧绷节奏组；后期专辑（Skinty Fia、Romance）拓宽动态与制作。\n\nBoys in the Better Land（2019）与 Jackie Down the Line / Starburster 展示早期驱动与后期单曲工艺。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Poetry that keeps the tempo",
-        "zh": "跟得上速度的诗"
+        "en": "Place-name post-punk on festival stages",
+        "zh": "音乐节舞台上的地名后朋克"
       },
       "body": {
-        "en": "They matter because the revival is not only haircuts and chorus pedals. Grian's delivery makes lines feel carved into brick while the rhythm section refuses to wait for applause.\n\nContemporary rock stays on the axis when language and pulse refuse to divorce.",
-        "zh": "他们要紧，因为复兴不只是发型与合唱效果器。Grian 的吐字让句子像刻进砖墙，节奏组却不肯等掌声。\n\n当代摇滚留在主轴上，靠的是语言与脉搏不肯离婚。"
+        "en": "Fontaines DC matter as a 2010s/20s UK/Irish post-punk wave node: literary local detail, dry production, high live work rate.\n\nNot revival cosplay—current touring grammar.",
+        "zh": "Fontaines DC 要紧处是 2010/20 年代英爱后朋克浪潮节点：文学地方细节、干制作、高现场工作量。\n\n不是复古扮相——是当下巡演语法。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "post-punk"
@@ -141,12 +141,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Boys in the Better Land: accent as engine",
-        "zh": "Boys in the Better Land：口音当引擎"
+        "en": "Boys in the Better Land: debut drive",
+        "zh": "Boys in the Better Land：出道驱动"
       },
       "body": {
-        "en": "Dublin cadence riding a Post-Punk chassis. Boys in the Better Land turns local mouthfeel into export voltage—revival energy with a passport stamp from home.\n\nYou hear place before you hear genre tags.",
-        "zh": "都柏林腔骑在 Post-Punk 底盘上。Boys in the Better Land 把本地口腔肌肉变成出口电压——复兴能量，盖着家乡护照章。\n\n你先听见地方，后听见流派标签。"
+        "en": "Fast tempo, place lyric, gang energy—Dogrel-era statement.\n\nEntry to the early sound.",
+        "zh": "快速度、地名歌词、群体能量——Dogrel 时期声明。\n\n早期声音入口。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -155,12 +155,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Jackie Down the Line: the narrative single",
-        "zh": "Jackie Down the Line：叙事单曲"
+        "en": "Jackie Down the Line: later single craft",
+        "zh": "Jackie Down the Line：后期单曲工艺"
       },
       "body": {
-        "en": "A character study that still moves like a threat. Jackie Down the Line shows the literary face of the modern axis without turning into a reading group.\n\nStory and snap share the same minute.",
-        "zh": "人物速写，却仍像威胁在移动。Jackie Down the Line 亮出近代主轴的文学面，却不变成读书会。\n\n故事与干脆，共享同一分钟。"
+        "en": "Wider dynamics, clearer hook writing—post-Dogrel chart/festival reach.\n\nShows growth without abandoning diction.",
+        "zh": "更宽动态、更清晰钩子写作——Dogrel 之后的榜单/音乐节触达。\n\n展示成长且不放弃吐字。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -169,12 +169,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Joy Division weather, Dublin rain",
-        "zh": "Joy Division 天气，都柏林雨"
+        "en": "Irish diction in anglophone indie",
+        "zh": "英语 indie 里的爱尔兰吐字"
       },
       "body": {
-        "en": "Upstream: Post-Punk bass priority and punk's refusal to decorate. Downstream: whoever still believes a guitar band can carry poetry without soft focus.\n\nFontaines stand where revival meets a city that insists on being named.",
-        "zh": "上游：Post-Punk 的贝斯优先与朋克对装饰的拒绝。下游：仍相信吉他乐队能扛诗而不必柔焦的人。\n\nFontaines 站在复兴与一座坚持被点名的城市相遇处。"
+        "en": "Peers in UK post-punk cite the permission to keep local accent and reportage lyric.\n\nDNA is voice + tempo discipline.",
+        "zh": "英国后朋克同辈引用保留地方口音与报道歌词的许可。\n\nDNA 是声线 + 速度纪律。"
       },
       "stickyVisual": "dna",
       "soundGenre": "post-punk"
@@ -182,12 +182,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Lines that sound like brickwork",
-        "zh": "听起来像砌砖的句子"
+        "en": "Band on work rate and place",
+        "zh": "乐队谈工作量与地方"
       },
       "body": {
-        "en": "Interview and lyric blur: the same concrete nouns, the same impatience with vague cool. Quotes work when they sound buildable.\n\nNail the brick words. Atmosphere here is masonry, not mist.",
-        "zh": "访谈与歌词模糊：同样的具体名词，同样对含糊酷感的不耐烦。金句有效，因为听起来可砌。\n\n钉住砖词。这里的氛围是砌筑，不是薄雾。"
+        "en": "Interviews often stress Dublin/Ireland specificity and touring density.\n\nUseful sociology beside the records.",
+        "zh": "访谈常强调都柏林/爱尔兰具体性与巡演密度。\n\n唱片旁的有用社会学。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,

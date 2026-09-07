@@ -1,0 +1,35 @@
+{
+  "name": "Franz Ferdinand",
+  "slug": "franz-ferdinand",
+  "formed": 2002,
+  "origin": "Glasgow, UK",
+  "primaryEra": "2000s-revival",
+  "genres": [
+    "indie-rock",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Glasgow art-rock four-piece that put angular dance-punk guitars on mid-2000s indie charts; Take Me Out (2004) is the structural hook lesson.",
+    "zh": "格拉斯哥 art-rock 四人组：把棱角 dance-punk 吉他送上 2000 年代中期 indie 榜；Take Me Out（2004）是结构钩子教材。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Take Me Out",
+      "year": 2004
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Post-punk revival dance-rock; Take Me Out’s mid-song tempo drop became a club/indie staple.",
+    "zh": "后朋克复兴期的舞曲摇滚；Take Me Out 的曲中速度降落成为俱乐部/indie 常备。"
+  },
+  "body": {
+    "en": "Formed 2002. Debut Franz Ferdinand (2004) and You Could Have It So Much Better married wire-tight rhythm guitar to disco bass figures and Alex Kapranos’s deadpan vocal.\n\nTake Me Out (2004) splits verse and chorus tempos on purpose—teaching arrangement as drama without prog length. They sit with Interpol/Strokes-era revival but aim at dance floors more than NYC cool.",
+    "zh": "2002 年组建。首专 Franz Ferdinand（2004）与 You Could Have It So Much Better 把绷紧节奏吉他焊上迪斯科低音型与 Alex Kapranos 的冷脸人声。\n\nTake Me Out（2004）故意拆开主副歌速度——用编曲制造戏剧，却不走 prog 时长。与 Interpol/Strokes 同期复兴为邻，但更瞄准舞池而非纽约酷感。"
+  }
+}

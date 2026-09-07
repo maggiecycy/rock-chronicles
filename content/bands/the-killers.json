@@ -1,0 +1,35 @@
+{
+  "name": "The Killers",
+  "slug": "the-killers",
+  "formed": 2001,
+  "origin": "Las Vegas, USA",
+  "primaryEra": "2000s-revival",
+  "genres": [
+    "indie-rock",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Las Vegas new-wave revival band; Hot Fuss (2004) put synth hooks and Springsteen-scale choruses on 2000s indie/alt radio.",
+    "zh": "拉斯维加斯新浪潮复兴；Hot Fuss（2004）把合成器钩子与 Springsteen 体量副歌送上 2000 年代 indie/alt 电台。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Mr. Brightside",
+      "year": 2003
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Brandon Flowers–led stadium indie; Mr. Brightside is the durable single.",
+    "zh": "Brandon Flowers 领衔的体育场 indie；Mr. Brightside 是长寿单曲。"
+  },
+  "body": {
+    "en": "Formed 2001. Hot Fuss and Sam’s Town established Flowers’s baritone, Dave Keuning’s delayed guitar, synth leads, and anthemic choruses aimed at arenas from the start.\n\nMr. Brightside (2003) is the permanent radio object. They continue the post-Strokes indie boom into explicit stadium design without garage rawness.",
+    "zh": "2001 年组建。Hot Fuss 与 Sam’s Town 确立 Flowers 男中音、Dave Keuning 延时吉他、合成器主音，以及从一开始就瞄准体育场的副歌。\n\nMr. Brightside（2003）是永久电台对象。把后 Strokes 的 indie 热潮推进到明确的体育场设计，不保留车库毛边。"
+  }
+}

@@ -11,8 +11,8 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "British Invasion's dirtier Blues line: swing, danger, and proof a band can age for decades without going soft.",
-    "zh": "British Invasion 更脏的那条 Blues 线：摇摆、危险，以及一支乐队可以老几十年却不软掉。"
+    "en": "London blues-rock band that sustained riff-based hard rock and stagecraft from 1960s singles through Exile-era peak and decades of touring.",
+    "zh": "伦敦蓝调摇滚：从 1960 年代单曲经 Exile 时期高峰到数十年巡演，持续 riff 导向 hard rock 与舞台工艺。"
   },
   "members": [
     {
@@ -65,8 +65,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "fuzz riff",
-        "zh": "fuzz riff：欲望与不满的全球钩子"
+        "en": "Fuzz riff as 1965 AM-radio weapon.",
+        "zh": "1965 年 AM 电台上的 fuzz riff 武器。"
       }
     },
     {
@@ -82,8 +82,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Samba",
-        "zh": "Samba 脉搏遇上摇滚危险叙事"
+        "en": "Key composition moment",
+        "zh": "关键写作时刻"
       }
     },
     {
@@ -100,8 +100,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Key composition moment",
-        "zh": "时代末感：六十年代的阴影高潮"
+        "en": "Ensemble dread on Let It Bleed–era track.",
+        "zh": "Let It Bleed 时期合奏紧迫感。"
       }
     }
   ],
@@ -115,7 +115,7 @@
     {
       "text": "The music is the most important thing.",
       "speaker": "Keith Richards",
-      "source": "Interview excerpt · Whisper-ready",
+      "source": "Interview excerpt",
       "year": 2010
     }
   ],
@@ -133,23 +133,23 @@
     "arctic-monkeys"
   ],
   "shortBio": {
-    "en": "British Invasion blues-hard line: swing, danger, lasting stage myth.",
-    "zh": "British Invasion 的 Blues 硬核路线：摇摆、危险与持久的舞台神话。"
+    "en": "Jagger / Richards blues-rock; Satisfaction and Gimme Shelter are poles.",
+    "zh": "Jagger / Richards 蓝调摇滚；Satisfaction 与 Gimme Shelter 是两极。"
   },
   "body": {
-    "en": "If the Beatles are the workshop, the Stones are the street. They bring American Blues body-feel back to Britain and export dirtier guitars worldwide.\n\nThe long game is the point: danger as a brand that refuses to retire into polite nostalgia.",
-    "zh": "如果说 Beatles 是工坊，Stones 就是街道。他们把美国 Blues 的身体感带回英国，再以更脏的吉他输回全球。\n\n长期主义才是论点：危险做成品牌，拒绝退休成礼貌怀旧。"
+    "en": "Formed 1962. Early R&B covers become original riff hits; late-60s/early-70s albums (Beggars Banquet, Let It Bleed, Sticky Fingers, Exile on Main St.) are the critical peak—Richards open-G riffs, Watts pocket, Jagger vocal persona.\n\n(I Can’t Get No) Satisfaction (1965) and Gimme Shelter (1969) bookend fuzz-pop breakthrough and darker ensemble rock.",
+    "zh": "1962 年组建。早期 R&B 翻唱变为原创 riff 热单；60 末/70 初专辑（Beggars Banquet、Let It Bleed、Sticky Fingers、Exile on Main St.）是批评高峰——Richards 开放 G 调 riff、Watts 口袋感、Jagger 人声人设。\n\n(I Can’t Get No) Satisfaction（1965）与 Gimme Shelter（1969）标记 fuzz 流行突破与更暗的合奏摇滚两端。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "The street line runs parallel",
-        "zh": "街道那条线平行奔跑"
+        "en": "Riff longevity as a working band",
+        "zh": "作为工作乐队的 riff 长寿"
       },
       "body": {
-        "en": "They do not chase studio utopia. They turn Blues body and threat into a touring brand you can recognize from the walk alone.\n\nThe sixties need both lines—workshop and street—or the decade collapses into a single myth.",
-        "zh": "他们不追录音室乌托邦。他们把 Blues 的身体与威胁感做成巡回品牌——走路姿态就能认出来。\n\n六十年代需要两条线——工坊与街道——否则整个十年会塌成单一神话。"
+        "en": "Stones matter as a long-running blues-rock economy: guitar riffs first, groove second, image third. Catalog density in 1968–72 still anchors the reputation.\n\nTouring machine and songbook share credit.",
+        "zh": "Stones 要紧处是长运行的蓝调摇滚经济：吉他 riff 第一、groove 第二、形象第三。1968–72 目录密度仍锚定声誉。\n\n巡演机器与歌本共享功劳。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "blues"
@@ -157,12 +157,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Jagger/Richards axis, revolving edges",
-        "zh": "Jagger/Richards 轴心，边缘在转"
+        "en": "Jones era, Taylor peak, Wood decades",
+        "zh": "Jones 时期、Taylor 高峰、Wood 数十年"
       },
       "body": {
-        "en": "Jones, Taylor, Wood—guitar chairs change; the mouth and the riff engine stay. Watts keeps the swing secret until he cannot.\n\nName the peak casts you remember. The Stones story is longevity with a pulse, not a frozen yearbook photo.",
-        "zh": "Jones、Taylor、Wood——吉他席位在换；嘴与 riff 引擎留下。Watts 把摇摆当秘密守到守不住为止。\n\n叫得出的巅峰卡司才值得冻结。Stones 故事是带脉搏的长寿，不是冻住的年鉴照片。"
+        "en": "Brian Jones early multi-instrument color; Mick Taylor on the late-60s/early-70s peak records; Ronnie Wood on the long touring era.\n\nWatts’s death ends a rhythmic constant—versions matter.",
+        "zh": "Brian Jones 早期多乐器色彩；Mick Taylor 在 60 末/70 初峰值唱片；Ronnie Wood 在长巡演年代。\n\nWatts 去世结束节奏常量——版本要紧。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "rock-n-roll"
@@ -170,12 +170,12 @@
     {
       "id": "satisfaction",
       "title": {
-        "en": "Satisfaction: restlessness as engine",
-        "zh": "Satisfaction：不满当引擎"
+        "en": "Satisfaction: fuzz riff as pop weapon",
+        "zh": "Satisfaction：fuzz riff 当流行武器"
       },
       "body": {
-        "en": "One fuzz riff and global youth culture shares a melody for impatience. Satisfaction is not a complaint letter; it is a motor that will not idle.\n\nHard Rock later turns up the weight. This is where the fidget becomes anthem.",
-        "zh": "一道失真 riff，全球青年文化有了共同的焦躁旋律。Satisfaction 不是投诉信，是一台不肯怠速的发动机。\n\n后来 Hard Rock 加重重量。焦躁变成国歌，是从这里开始。"
+        "en": "Gibson Maestro fuzz on the hook; Jagger’s lyric complaint; AM radio saturation in 1965.\n\nRiff-first writing becomes a pop-rock default.",
+        "zh": "钩子上的 Gibson Maestro fuzz；Jagger 的抱怨歌词；1965 年 AM 电台饱和。\n\nriff 优先写作成为流行摇滚默认。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -184,12 +184,12 @@
     {
       "id": "shelter",
       "title": {
-        "en": "Gimme Shelter: the decade's shadow peak",
-        "zh": "Gimme Shelter：十年的阴影高潮"
+        "en": "Gimme Shelter: ensemble dread",
+        "zh": "Gimme Shelter：合奏式紧迫"
       },
       "body": {
-        "en": "Late-sixties violence and disillusionment enter the harmony. Merry Clayton's cry cuts across the band like weather breaking a window.\n\nHard Rock's mass is rehearsed here—one of the bridges toward Zeppelin's storm.",
-        "zh": "六十年代末的暴力与幻灭写进和声。Merry Clayton 的喊声横切乐队，像天气砸破窗户。\n\nHard Rock 的重量在此预演——通向 Zeppelin 风暴的桥之一。"
+        "en": "Richards riff, Merry Clayton guest vocal, Watts/Wyman lock—late-60s darkness without abandoning blues form.\n\nAlbum-era band as cinema-adjacent rock.",
+        "zh": "Richards riff、Merry Clayton 客串人声、Watts/Wyman 锁定——不放弃蓝调形式的 60 年代末黑暗。\n\n专辑时代乐队作为电影邻近摇滚。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -198,12 +198,12 @@
     {
       "id": "members",
       "title": {
-        "en": "Swing as long-termism",
-        "zh": "摇摆即长期主义"
+        "en": "Glimmer Twins + rhythm section",
+        "zh": "Glimmer Twins + 节奏组"
       },
       "body": {
-        "en": "Watts is the secret weapon: jazz pocket inside rock swagger. Jagger/Richards hold the axis while decades of fashion try to sand them smooth.\n\nThey age in public without surrendering the dirty center. That refusal is the narrative.",
-        "zh": "Watts 是秘密武器：摇滚嚣张里的爵士口袋。Jagger/Richards 守住轴心，几十年时尚想把他们磨圆。\n\n他们公开变老，却不交出肮脏的中心。拒绝本身就是叙事。"
+        "en": "Jagger/Richards writing axis; Watts’s swing; bass and second guitar roles shift by era.\n\nChemistry is documented in takes, not vague metaphors.",
+        "zh": "Jagger/Richards 写作轴；Watts 的摇摆；贝斯与第二吉他角色随时代变。\n\n化学作用记录在 take 里，不是空泛比喻。"
       },
       "stickyVisual": "members",
       "soundGenre": "rock-n-roll"
@@ -211,12 +211,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Who inherits the street",
-        "zh": "谁继承街道"
+        "en": "Hard-rock and indie still borrow the strut",
+        "zh": "Hard-rock 与 indie 仍借用其步态"
       },
       "body": {
-        "en": "Zeppelin scales the dirt into myth. Arctic Monkeys later write nightclub observation with Stones DNA in the walk.\n\nSwing and danger keep showing up on the modern axis—less costume, same posture.",
-        "zh": "Zeppelin 把脏放大成神话。Arctic Monkeys 后来写夜店观察，走路姿态里仍有 Stones DNA。\n\n摇摆与危险不断出现在近代主轴上——少了戏服，姿态还在。"
+        "en": "Open-G riffs and swagger vocal phrasing feed hard rock and later garage/indie revivalists.\n\nLongevity itself becomes a reference type.",
+        "zh": "开放 G 调 riff 与趾高气扬的人声句式喂养 hard rock 与后来的车库/indie 复兴者。\n\n长寿本身成为一种参照类型。"
       },
       "stickyVisual": "influence",
       "soundGenre": "hard-rock"
@@ -250,8 +250,8 @@
         }
       ],
       "note": {
-        "en": "Long-haul version: swing as identity, cast evolves slowly.",
-        "zh": "长跑版本：摇摆即身份，卡司缓慢演进。"
+        "en": "Long Watts-era rhythm constant across decades.",
+        "zh": "跨数十年的 Watts 时期节奏常量。"
       }
     }
   ],
@@ -260,8 +260,8 @@
       "title": "(I Can't Get No) Satisfaction",
       "year": 1965,
       "note": {
-        "en": "Fuzz riff as attitude: blues swagger for the charts.",
-        "zh": "Fuzz riff 即态度：把 Blues 傲气送上榜单。"
+        "en": "Early riff-pop breakthrough single.",
+        "zh": "早期 riff 流行突破单曲。"
       }
     },
     "pioneeredGenres": [
@@ -269,8 +269,8 @@
       "blues"
     ],
     "note": {
-      "en": "Longevity template: keep the groove, change the clothes.",
-      "zh": "长寿模板：groove 不变，衣服常换。"
+      "en": "Blues-rock riff economy sustained across decades.",
+      "zh": "跨数十年持续的蓝调摇滚 riff 经济。"
     }
   }
 }

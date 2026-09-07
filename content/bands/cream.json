@@ -10,20 +10,57 @@
     "psychedelic"
   ],
   "decisive": false,
-  "members": [],
-  "essentialTracks": [],
+  "whyMatters": {
+    "en": "London power trio (Clapton / Bruce / Baker) that pushed blues improvisation to hard-rock volume in 1966–68.",
+    "zh": "伦敦三件套（Clapton / Bruce / Baker）：1966–68 把蓝调即兴推到 hard-rock 音量。"
+  },
+  "members": [
+    {
+      "name": "Eric Clapton",
+      "role": "Guitar",
+      "years": "1966–1968",
+      "personSlug": "eric-clapton"
+    },
+    {
+      "name": "Jack Bruce",
+      "role": "Bass, Vocals",
+      "years": "1966–1968"
+    },
+    {
+      "name": "Ginger Baker",
+      "role": "Drums",
+      "years": "1966–1968"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Sunshine of Your Love",
+      "year": 1967
+    },
+    {
+      "title": "White Room",
+      "year": 1968
+    },
+    {
+      "title": "Crossroads",
+      "year": 1968
+    }
+  ],
   "lyricQuotes": [],
   "relatedBands": [
     "the-yardbirds"
   ],
   "influenceFrom": [],
-  "influenced": [],
+  "influenced": [
+    "led-zeppelin",
+    "black-sabbath"
+  ],
   "shortBio": {
-    "en": "Power trio fireworks: Clapton leaves the Yardbirds and invents a louder blues argument.",
-    "zh": "力量三重奏烟火：Clapton 离开 Yardbirds，发明更大声的 Blues 争论。"
+    "en": "Blues-rock power trio; Sunshine of Your Love is the classroom riff.",
+    "zh": "蓝调摇滚三件套；Sunshine of Your Love 是课堂 riff。"
   },
   "body": {
-    "en": "Power trio fireworks: Clapton leaves the Yardbirds and invents a louder blues argument. Bridge page for the shared-member graph—not a full decisive narrative yet.",
-    "zh": "力量三重奏烟火：Clapton 离开 Yardbirds，发明更大声的 Blues 争论。 共享成员图的桥梁页——尚未展开决定性长叙事。"
+    "en": "Formed 1966 after Clapton left the Yardbirds. Fresh Cream, Disraeli Gears, and Wheels of Fire document extended live jams, Bruce’s high vocal/bass, Baker’s jazz-informed drums.\n\nSunshine of Your Love (1967) and the live Crossroads are the citation tracks. Short career; lasting role as the bridge from British blues clubs to stadium-volume trio hard rock.",
+    "zh": "Clapton 离开 Yardbirds 后于 1966 年组建。Fresh Cream、Disraeli Gears 与 Wheels of Fire 记录长现场即兴、Bruce 的高音人声/贝斯、Baker 偏爵士的鼓。\n\nSunshine of Your Love（1967）与现场 Crossroads 是引用曲。生涯短；作用是英国蓝调俱乐部到体育场音量三件套 hard rock 的桥。"
   }
 }

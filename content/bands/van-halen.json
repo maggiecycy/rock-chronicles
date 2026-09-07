@@ -1,0 +1,34 @@
+{
+  "name": "Van Halen",
+  "slug": "van-halen",
+  "formed": 1972,
+  "origin": "Pasadena, USA",
+  "primaryEra": "1980s-metal",
+  "genres": [
+    "hard-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Pasadena hard-rock band that made two-handed tapping and high-gain precision a guitar-hero standard; Van Halen (1978) is the debut shock.",
+    "zh": "帕萨迪纳 hard-rock：把双手 tapping 与高增益精度做成吉他英雄标准；同名首专（1978）是出道冲击。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Eruption",
+      "year": 1978
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Eddie Van Halen–era hard rock; Eruption is the technique showcase.",
+    "zh": "Eddie Van Halen 时期 hard rock；Eruption 是技术展示。"
+  },
+  "body": {
+    "en": "Formed 1972. Debut album with Ted Templeman production put Eddie’s tapping, harmonics, and brown-sound midrange beside David Lee Roth’s showman vocal and Michael Anthony’s harmony.\n\nEruption (1978) is the instrumental citation. 1980s Roth-to-Hagar lineup change is a separate commercial chapter; the technique export is early and permanent.",
+    "zh": "1972 年组建。Ted Templeman 制作的首专把 Eddie 的 tapping、泛音与棕色中频，配上 David Lee Roth 的表演人声与 Michael Anthony 和声。\n\nEruption（1978）是器乐引用。1980 年代 Roth 到 Hagar 的阵容更替是另一商业章节；技术输出早且持久。"
+  }
+}

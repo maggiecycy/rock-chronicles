@@ -1,8 +1,8 @@
 {
   "slug": "live-aid-1985",
   "title": {
-    "en": "Live Aid",
-    "zh": "Live Aid"
+    "en": "Live Aid 1985",
+    "zh": "Live Aid 1985"
   },
   "year": 1985,
   "venue": {
@@ -10,12 +10,12 @@
     "zh": "温布利 / JFK 体育场（全球转播）"
   },
   "summary": {
-    "en": "An afternoon when rock tries to be a planet-wide TV ritual—and a few minutes become immortal gossip.",
-    "zh": "一个下午，摇滚试图成为行星级电视仪式——有几分钟变成不朽八卦。"
+    "en": "Global charity broadcast. Many short sets; a few clips dominate memory.",
+    "zh": "全球慈善转播。很多短场；记忆只留几段。"
   },
   "whyEpic": {
-    "en": "Live Aid is charity, broadcast engineering, and stadium craft colliding. Memory cheats: many acts play, but culture keeps a handful of clips. On this chronicle we keep the hinge—global rock as shared weather—without pretending we can stream the whole day.",
-    "zh": "Live Aid 是慈善、转播工程与体育馆手艺的相撞。记忆会作弊：很多人上台，文化只留下几段。本编年史保留枢纽——全球摇滚如共享天气——但不假装能播整天。"
+    "en": "Live Aid mixes charity, satellite TV, and stadium craft. Many acts play; culture keeps a handful of minutes. This chronicle treats it as a hinge for rock as shared broadcast event—not as a streamable full day.",
+    "zh": "Live Aid 混合慈善、卫星电视和体育馆手艺。很多人上台；文化只留几分钟。本编年史把它当摇滚成为共享转播事件的枢纽——不假装能播整天。"
   },
   "bandSlugs": [
     "led-zeppelin",
@@ -25,8 +25,8 @@
     {
       "title": "Various short sets (broadcast lore)",
       "note": {
-        "en": "Many acts; memory often collapses to a few iconic minutes.",
-        "zh": "多队上场；记忆常坍缩成几分钟经典。"
+        "en": "Many acts; public memory collapses to a few clips.",
+        "zh": "多队上场；公众记忆常坍成几段。"
       }
     }
   ],

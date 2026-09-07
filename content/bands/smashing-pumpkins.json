@@ -1,0 +1,35 @@
+{
+  "name": "The Smashing Pumpkins",
+  "slug": "smashing-pumpkins",
+  "formed": 1988,
+  "origin": "Chicago, USA",
+  "primaryEra": "1990s-grunge-alt",
+  "genres": [
+    "alternative",
+    "indie-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Chicago alternative band; Siamese Dream (1993) and Mellon Collie (1995) stacked wall-of-guitar production with dream-pop and metal dynamics.",
+    "zh": "芝加哥 alternative；Siamese Dream（1993）与 Mellon Collie（1995）把墙式吉他制作叠上 dream-pop 与金属动态。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "1979",
+      "year": 1996
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Billy Corgan–led alt-rock; 1979 is the mid-90s melodic single.",
+    "zh": "Billy Corgan 领衔的 alt-rock；1979 是 90 年代中期旋律单曲。"
+  },
+  "body": {
+    "en": "Formed 1988. Gish and Siamese Dream (Butch Vig) established Corgan’s layered guitars, Chamberlin/Wretzky rhythm section, and loud-quiet pivots; Mellon Collie expanded to double-album scope.\n\n1979 (1996) shows the electronic-tinged, mid-tempo side. They occupy 1990s alt radio beside Nirvana/Pearl Jam with more prog ambition and studio maximalism.",
+    "zh": "1988 年组建。Gish 与 Siamese Dream（Butch Vig）确立 Corgan 多层吉他、Chamberlin/Wretzky 节奏组与强弱转折；Mellon Collie 扩到双专体量。\n\n1979（1996）展示偏电子的中速面。与 Nirvana/Pearl Jam 同在 1990 年代 alt 电台，prog 野心与录音室最大化更强。"
+  }
+}

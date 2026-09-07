@@ -607,6 +607,46 @@ async function withDbRetry<T>(
   throw new Error(`withDbRetry exhausted: ${label}`);
 }
 
+async function clearEditorial() {
+  await prisma.liveEventTrack.deleteMany();
+  await prisma.liveEventBand.deleteMany();
+  await prisma.liveEvent.deleteMany();
+  await prisma.tropeExample.deleteMany();
+  await prisma.guideRelatedTrope.deleteMany();
+  await prisma.guideRelatedGenre.deleteMany();
+  await prisma.guideRelatedBand.deleteMany();
+  await prisma.guideArticle.deleteMany();
+  await prisma.trope.deleteMany();
+}
+
+/** Guides / tropes / lives only — keeps eras, genres, bands, people. */
+async function seedEditorialOnce() {
+  const guides = readJsonDir<GuideArticle>("guide");
+  const tropes = readJsonDir<Trope>("tropes");
+  const lives = readJsonDir<LiveEvent>("lives");
+
+  console.log("Waiting for database…");
+  await waitForDb();
+
+  console.log("Clearing guides / tropes / lives…");
+  await withDbRetry("clearEditorial", () => clearEditorial());
+
+  console.log(`Seeding tropes (${tropes.length})…`);
+  await seedTropes(tropes);
+
+  console.log(`Seeding guides (${guides.length})…`);
+  await seedGuides(guides);
+
+  console.log(`Seeding lives (${lives.length})…`);
+  await seedLives(lives);
+
+  console.log("Editorial seed complete:", {
+    guides: await prisma.guideArticle.count(),
+    tropes: await prisma.trope.count(),
+    lives: await prisma.liveEvent.count(),
+  });
+}
+
 async function seedOnce() {
   const eras = readJsonDir<Era>("eras");
   const genres = readJsonDir<Genre>("genres");
@@ -663,16 +703,19 @@ async function seedOnce() {
 }
 
 async function main() {
+  const editorialOnly = process.argv.includes("--editorial-only");
+  const runSeed = editorialOnly ? seedEditorialOnce : seedOnce;
+
   // Full-run retries: Aiven trial drops connections mid-seed (P1017)
   const maxRuns = 5;
   for (let run = 1; run <= maxRuns; run++) {
     try {
       if (run > 1) {
-        console.log(`\nRestarting full seed (run ${run}/${maxRuns})…`);
+        console.log(`\nRestarting seed (run ${run}/${maxRuns})…`);
         await prisma.$disconnect().catch(() => undefined);
         await waitForDb();
       }
-      await seedOnce();
+      await runSeed();
       return;
     } catch (e) {
       if (!isTransientDbError(e) || run === maxRuns) throw e;

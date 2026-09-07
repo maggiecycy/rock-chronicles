@@ -1,0 +1,35 @@
+{
+  "name": "The Cure",
+  "slug": "the-cure",
+  "formed": 1978,
+  "origin": "Crawley, UK",
+  "primaryEra": "punk-postpunk",
+  "genres": [
+    "post-punk",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Crawley band that moved from post-punk minimalism to goth and then mainstream goth-pop; Disintegration (1989) and Kiss Me–era singles mark the arc.",
+    "zh": "克劳利乐队：从后朋克极简走到哥特再进主流哥特流行；Disintegration（1989）与 Kiss Me 时期单曲标记弧线。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Just Like Heaven",
+      "year": 1987
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Robert Smith–led post-punk/goth-pop; Just Like Heaven is the bright single.",
+    "zh": "Robert Smith 领衔的后朋克/哥特流行；Just Like Heaven 是明亮单曲。"
+  },
+  "body": {
+    "en": "Formed 1978. Three Imaginary Boys and Pornography define the cold early sound; The Head on the Door and Kiss Me, Kiss Me, Kiss Me add pop hooks; Disintegration returns to long-form gloom at stadium scale.\n\nJust Like Heaven (1987) is the listed entry. Constants: Smith’s chorus-heavy guitar, extended song lengths, and a fan culture that spans indie and goth clubs.",
+    "zh": "1978 年组建。Three Imaginary Boys 与 Pornography 定义早期冷声；The Head on the Door 与 Kiss Me, Kiss Me, Kiss Me 加入流行钩子；Disintegration 以体育场体量回到长篇阴郁。\n\nJust Like Heaven（1987）是列出入口。常量：Smith 的 chorus 效果吉他、偏长歌曲、跨越 indie 与哥特俱乐部的粉丝文化。"
+  }
+}

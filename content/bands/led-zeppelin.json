@@ -13,8 +13,8 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "Four musicians turn Blues into weather: hush like a folk song, then collapse like a roof. Every Hard Rock giant after them is answering that storm.",
-    "zh": "四个人把 Blues 变成天气：轻得像民谣，重得像房顶塌下来。之后所有 Hard Rock 巨人，都在回应这场风暴。"
+    "en": "London four-piece that scaled blues and folk forms to arena hard rock; Led Zeppelin II–IV and Physical Graffiti remain the citation set for riff weight and dynamic range.",
+    "zh": "伦敦四人组：把蓝调与民谣形式扩到体育场 hard rock；Led Zeppelin II–IV 与 Physical Graffiti 仍是 riff 重量与动态幅度的引用集。"
   },
   "members": [
     {
@@ -75,8 +75,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Theremin Hard Rock",
-        "zh": "Theremin 与崩塌动态：Hard Rock 的身体语法"
+        "en": "Theremin breakdown inside hard-rock single form.",
+        "zh": "Hard-rock 单曲形式内的 theremin 崩解段。"
       }
     },
     {
@@ -93,8 +93,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Key composition moment",
-        "zh": "民谣起、重锤收：动态叙事成为默认模板"
+        "en": "Acoustic-to-electric arc as FM-request template.",
+        "zh": "原声到电声弧线成为 FM 点播模板。"
       }
     },
     {
@@ -111,8 +111,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Blues",
-        "zh": "循环动机与东方色彩：超越英美 Blues 回路"
+        "en": "Ostinato epic with non-blues modal color (Kashmir).",
+        "zh": "固定音型史诗与非蓝调调式色彩（Kashmir）。"
       }
     }
   ],
@@ -126,7 +126,7 @@
     {
       "text": "We were just four people who got together and happened to be very good.",
       "speaker": "Robert Plant",
-      "source": "Press interview excerpt · Whisper-ready slot",
+      "source": "Press interview excerpt",
       "year": 2005
     }
   ],
@@ -145,23 +145,23 @@
     "nirvana"
   ],
   "shortBio": {
-    "en": "Hard Rock's myth factory: Blues bones, epic dynamics, arena volume.",
-    "zh": "Hard Rock 的神话工厂：Blues 骨架、史诗动态、体育馆音量。"
+    "en": "Page / Plant / Jones / Bonham hard rock; Whole Lotta Love and Stairway are the twin poles.",
+    "zh": "Page / Plant / Jones / Bonham 的 hard rock；Whole Lotta Love 与 Stairway 是两极。"
   },
   "body": {
-    "en": "Led Zeppelin take the Blues and scale it until a living room feels like an arena. Page's arrangements, Bonham's drum wall, Plant's howl, Jones's weave—the seventies Hard Rock default arrives fully formed.\n\nMetal and Grunge later salute or try to topple the giant. Neither gets to ignore it.",
-    "zh": "Led Zeppelin 把 Blues 放大到客厅也像体育馆。Page 的编曲、Bonham 的鼓墙、Plant 的尖叫、Jones 的织体——七十年代 Hard Rock 的标准配置，一次成型。\n\n后来 Metal 致敬，Grunge 想推翻。谁都绕不开这座巨人。"
+    "en": "Formed 1968 from Yardbirds residue. Early albums document Page’s production, Bonham’s drums, Jones’s arrangements, Plant’s high register—studio and stage as one system.\n\nWhole Lotta Love (1969), Stairway to Heaven (1971), Kashmir (1975) show theremin breakdown, acoustic-to-electric arc, and ostinato epic. Stable classic-IV lineup is itself a historical fact in a scene of churn.",
+    "zh": "1968 年由 Yardbirds 残余组建。早期专辑记录 Page 制作、Bonham 鼓、Jones 编曲、Plant 高音区——录音室与舞台同一系统。\n\nWhole Lotta Love（1969）、Stairway to Heaven（1971）、Kashmir（1975）展示 theremin 崩解段、原声到电声弧线与固定音型史诗。经典四人稳定阵容本身即人事动荡场景中的历史事实。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Four people, one weather system",
-        "zh": "四个人，一套天气"
+        "en": "Four players, one production system",
+        "zh": "四人，一套制作系统"
       },
       "body": {
-        "en": "Zeppelin are not merely louder. They rewrite Blues storytelling as expandable drama: quiet passages build the debt, distortion cashes it.\n\nArena rock, Hard Rock radio grammar, even Grunge's quiet-loud punch—ancestors live here. The template is climate control, not a riff list.",
-        "zh": "Zeppelin 不只是更响。他们把 Blues 的诉说改写成可伸缩的戏剧：安静段落欠债，失真段落兑现。\n\n体育馆摇滚、Hard Rock 电台语法、甚至 Grunge 的「安静—爆发」——祖先都在这里。模板不是一串 riff，是气候系统。"
+        "en": "Zeppelin matter as a closed instrumental economy: Page’s guitar/production, Plant’s vocal, Jones’s bass/keys/arranging, Bonham’s drums. Blues and folk sources are scaled, not merely covered.\n\nArena hard rock’s default grammar—riff + dynamic swing—gets a durable catalog here.",
+        "zh": "Zeppelin 要紧处是封闭的乐器经济：Page 吉他/制作、Plant 人声、Jones 贝斯/键盘/编曲、Bonham 鼓。蓝调与民谣来源被扩写，而非仅翻唱。\n\n体育场 hard rock 的默认语法——riff + 动态摆动——在此留下耐久目录。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "hard-rock"
@@ -169,12 +169,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "The cast that never needed a sequel",
-        "zh": "不需要续集的卡司"
+        "en": "Classic IV with almost no churn",
+        "zh": "几乎无更替的经典四人"
       },
       "body": {
-        "en": "Rock loves revolving doors. Zeppelin almost refuse one. Page, Plant, Jones, Bonham lock from the start and stay locked until Bonham's death ends the band.\n\nThat stability is the point: the sound becomes a brand you can name in the dark, not a project that rebrands every album.",
-        "zh": "摇滚爱换人。Zeppelin 几乎不换。Page、Plant、Jones、Bonham 从一开始锁死，直到 Bonham 去世乐队随之结束。\n\n稳定本身就是论点：这声音能在黑暗里被叫出名字，不是每张专辑换皮的项目组。"
+        "en": "Unlike many peers, the peak version is one cast. Session origins (Page, Jones) explain arrangement density; Bonham’s death ends the original run.\n\nLineup stability is part of why the silhouette stays sharp.",
+        "zh": "与许多同辈不同，巅峰版本几乎是一套人马。录音室出身（Page、Jones）解释编曲密度；Bonham 去世结束原班运行。\n\n阵容稳定是剪影清晰的原因之一。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "hard-rock"
@@ -182,12 +182,12 @@
     {
       "id": "lineup",
       "title": {
-        "en": "Empire configuration: four instruments",
-        "zh": "帝国配置：四件乐器"
+        "en": "Roles: guitar/production, vocal, arrange, drums",
+        "zh": "分工：吉他/制作、人声、编曲、鼓"
       },
       "body": {
-        "en": "Page writes architecture. Plant sells myth with a throat. Jones fills the middle air—bass, keys, arrangement glue. Bonham hits like gravity has a preference.\n\nRemove any one piece and the weather system fails. That is why the lineup chapter matters as much as any single.",
-        "zh": "Page 写建筑。Plant 用嗓子卖神话。Jones 填满中间空气——贝斯、键盘、编曲胶水。Bonham 打得像重力有了偏好。\n\n少一件，天气系统就垮。所以阵容这一章，分量不亚于任何一首单曲。"
+        "en": "Page builds parts and mixes; Plant carries melody and lyric myth frames; Jones supplies bass, keys, and charts; Bonham supplies the groove weight later metal cites.\n\nFour roles, few substitutes—configuration as method.",
+        "zh": "Page 写分声部并混音；Plant 扛旋律与歌词神话框架；Jones 提供贝斯、键盘与谱面；Bonham 提供后来金属常引的 groove 重量。\n\n四个角色、极少替补——编制即方法。"
       },
       "stickyVisual": "members",
       "soundGenre": "hard-rock"
@@ -195,12 +195,12 @@
     {
       "id": "wll",
       "title": {
-        "en": "Whole Lotta Love, body first",
-        "zh": "Whole Lotta Love：先写身体"
+        "en": "Whole Lotta Love: riff then breakdown",
+        "zh": "Whole Lotta Love：先 riff 后崩解"
       },
       "body": {
-        "en": "1969. The riff arrives like a door kicked open. Desire gets plugged into amplifiers; the middle section collapses into theremin fog and tape chaos, then the riff returns like a verdict.\n\nHard Rock learns here how to dose adrenaline with structure—not just volume, but timing.",
-        "zh": "1969 年。riff 像踹开的门。欲望被插上扩音器；中段塌进 theremin 雾与磁带混沌，然后 riff 回来，像宣判。\n\nHard Rock 在这里学会用结构控制肾上腺素——不只是音量，是时机。"
+        "en": "Open riff, Plant’s vocal, then theremin/feedback middle before the return. Hard rock learns mid-song studio drama without prog suite length.\n\nBody-first listening: the drop is structural, not ornamental.",
+        "zh": "开放 riff、Plant 人声，然后 theremin/反馈中段再返回。Hard rock 学到曲中录音室戏剧，却不走 prog 组曲时长。\n\n身体优先的听法：落下是结构，不是装饰。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -209,12 +209,12 @@
     {
       "id": "stairway",
       "title": {
-        "en": "Stairway: the long climb becomes a hit",
-        "zh": "Stairway：长爬坡也能成流行"
+        "en": "Stairway: acoustic climb to hard ending",
+        "zh": "Stairway：原声爬升到硬收束"
       },
       "body": {
-        "en": "Acoustic hush to dual-neck climax. The song teaches a mass audience that a track can grow like a story instead of looping like a jingle.\n\nOverplayed, over-quoted, still undeletable. It proves a long piece can be a popular event—and that lesson outlives the radio fatigue.",
-        "zh": "木吉他的安静，爬到双颈吉他的高潮。这首歌教会大众：一首歌可以像故事往上长，不必像广告词循环。\n\n播滥了，引用滥了，仍删不掉。它证明长曲也可以是流行事件——这个教训比电台疲劳活得更久。"
+        "en": "Fingerpicked opening, layered guitars, then Bonham’s entry and solo section. FM radio turns a long form into a request-line standard.\n\nDynamic narrative—folk start, heavy finish—becomes a teaching template.",
+        "zh": "指弹开场、多层吉他，然后 Bonham 进入与独奏段。FM 电台把长曲变成点播标准。\n\n动态叙事——民谣起、重型收——成为教学模板。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -223,12 +223,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "They keep saying: four sounds locked",
-        "zh": "他们反复说：四个声音锁在一起"
+        "en": "Four sounds, locked takes",
+        "zh": "四种声音，锁定的录音"
       },
       "body": {
-        "en": "Interviews circle the same obsession: not star power, but lock. Four parts that refuse to float apart.\n\nThese short cites are not souvenirs. They nail spoken history to the years when the lock still held.",
-        "zh": "访谈里绕来绕去同一件事：不是明星光环，是锁死。四件东西不肯漂开。\n\n这些短引语不是纪念品。它们把口述钉在锁还扣着的那些年。"
+        "en": "Interview and lore lines stress chemistry over costume. The useful claim is musical: arrangement and performance lock, not mystique for its own sake.\n\nRead quotes as production notes in oral form.",
+        "zh": "访谈与传说强调化学作用而非戏服。有用的主张是音乐上的：编曲与演奏锁定，而非为神秘而神秘。\n\n把引语当口述形式的制作笔记。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -237,12 +237,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Salute, steal, or overthrow",
-        "zh": "致敬、偷窃，或推翻"
+        "en": "Answers: metal, punk refusal, grunge weight",
+        "zh": "回应：金属、朋克拒绝、grunge 重量"
       },
       "body": {
-        "en": "Metal inherits the weight. Grunge inherits the dynamics and the unease, then rejects giant worship. Either way, Zeppelin sit on the path.\n\nDecisive means later movements must declare a position: bow, borrow, or burn the statue.",
-        "zh": "Metal 继承重量。Grunge 继承动态与不安，却拒绝巨人崇拜。无论哪边，Zeppelin 都挡在路上。\n\n所谓决定性：后来的运动必须表态——鞠躬、偷窃，还是烧掉雕像。"
+        "en": "NWOBHM and metal inherit riff weight; punk often refuses the excess; grunge keeps the sludge and drops the fantasy lyric.\n\nZeppelin remain a reference to salute, sample, or overthrow.",
+        "zh": "NWOBHM 与金属继承 riff 重量；朋克常拒绝其过量；grunge 留下淤泥并丢掉奇幻歌词。\n\nZeppelin 仍是致敬、采样或推翻的参照。"
       },
       "stickyVisual": "influence",
       "soundGenre": "hard-rock"
@@ -279,8 +279,8 @@
         }
       ],
       "note": {
-        "en": "The stable peak version—almost no churn, maximal myth.",
-        "zh": "稳定巅峰版本——几乎不换人，神话最大化。"
+        "en": "Stable peak version—minimal churn, maximal catalog citation.",
+        "zh": "稳定巅峰版本——更替极少，目录引用最多。"
       }
     }
   ],
@@ -289,16 +289,16 @@
       "title": "Whole Lotta Love",
       "year": 1969,
       "note": {
-        "en": "Stop-start dynamics: soft / crush as Hard Rock grammar.",
-        "zh": "骤停骤起：轻/重成为 Hard Rock 语法。"
+        "en": "Early riff weight as hard-rock teaching track.",
+        "zh": "早期 riff 重量作为 hard-rock 教学曲。"
       }
     },
     "pioneeredGenres": [
       "hard-rock"
     ],
     "note": {
-      "en": "Blues scaled to arena myth—Metal and Grunge still answer this.",
-      "zh": "Blues 放大成体育馆神话——Metal 与 Grunge 仍在回应。"
+      "en": "Blues/folk forms scaled to arena; metal and grunge still answer the catalog.",
+      "zh": "蓝调/民谣形式扩到体育场；金属与 grunge 仍回应此目录。"
     }
   }
 }

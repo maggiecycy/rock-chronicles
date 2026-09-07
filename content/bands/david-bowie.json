@@ -1,0 +1,35 @@
+{
+  "name": "David Bowie",
+  "slug": "david-bowie",
+  "formed": 1969,
+  "origin": "London, UK",
+  "primaryEra": "1970s-prog-hard-rock",
+  "genres": [
+    "alternative",
+    "psychedelic"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Solo artist filed here as a band-node: glam, Berlin trilogy, and Let’s Dance show persona and production shifts as a working method from 1969 onward.",
+    "zh": "以乐队节点收录的独唱歌手：从 1969 年起，glam、柏林三部曲与 Let’s Dance 把人设与制作切换当成工作方法。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Space Oddity",
+      "year": 1969
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "English songwriter/performer; Ziggy, Berlin, and 1980s pop eras reset rock’s costume-and-studio playbook.",
+    "zh": "英国词曲/表演者；Ziggy、柏林与 1980 年代流行时期重置了摇滚的造型与录音室剧本。"
+  },
+  "body": {
+    "en": "Career hinge tracks run from Space Oddity (1969) through Ziggy Stardust (1972), the Eno collaborations Low/Heroes (1977), and Let’s Dance (1983).\n\nBowie’s value in this graph is procedural: lineup and style change on purpose, not as crisis. Session players and producers (Mick Ronson, Tony Visconti, Nile Rodgers) matter as much as the characters.",
+    "zh": "关键曲目从 Space Oddity（1969）经 Ziggy Stardust（1972）、与 Eno 合作的 Low/Heroes（1977），到 Let’s Dance（1983）。\n\n在本图谱里 Bowie 的价值是程序化的：阵容与风格有意切换，而非危机产物。录音室乐手与制作人（Mick Ronson、Tony Visconti、Nile Rodgers）与角色人设同等重要。"
+  }
+}

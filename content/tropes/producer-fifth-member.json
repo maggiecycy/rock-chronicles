@@ -1,33 +1,33 @@
 {
   "slug": "producer-fifth-member",
   "title": {
-    "en": "Producer as the fifth member",
-    "zh": "制作人：第五位成员"
+    "en": "The producer as fifth member",
+    "zh": "制作人＝第五成员"
   },
   "summary": {
-    "en": "The person not on the album cover who still decides how the room breathes.",
-    "zh": "不在封面合影里，却决定房间怎么呼吸的那个人。"
+    "en": "If you mute the producer’s choices, the \"band sound\" disappears.",
+    "zh": "把制作人的选择 Mute 掉，「乐队声音」往往一起消失。"
   },
   "body": {
-    "en": "George Martin with The Beatles is the sainted version of this trope: arrangements that make four players sound like a small orchestra having ideas. Elsewhere the producer becomes the villain in \"they sanded off our edges\" folklore.\n\nEither way, drop the fantasy of four pure souls alone with truth. Records are built. Someone is choosing the snare that punches your sternum. Credit them or curse them—just don't pretend the dials were holy ghosts.",
-    "zh": "George Martin 与 Beatles 是这梗的圣徒版：编曲让四个人听起来像一支有想法的小乐团。别处制作人会变成「他们把棱角打磨没了」传说里的反派。\n\n不管怎样，放下「四个纯净灵魂独自面对真理」的幻想吧。唱片是建出来的。有人在选那颗敲你胸骨的军鼓。赞美或咒骂都行——别假装那些旋钮是圣灵转的。"
+    "en": "George Martin with the Beatles. Butch Vig on Nevermind. Flood / Alan Moulder on half the 90s alternative map. Fans argue guitars; engineers argue compression, mic placement, and which take survives.\n\nWhen a band switches producers and \"loses the magic,\" check the credits before you blame the new bassist.",
+    "zh": "George Martin 之于披头士。Butch Vig 之于 Nevermind。Flood / Alan Moulder 之于半张 90 年代 alternative 地图。粉丝吵吉他；工程师吵压缩、话筒位、哪条 take 留下。\n\n乐队换制作人然后「没魔力了」——先查 credits，再骂新贝斯手。"
   },
-  "tone": "half-true",
+  "tone": "lore",
   "examples": [
     {
       "bandSlug": "the-beatles",
       "label": "The Beatles",
       "note": {
-        "en": "Martin as architecture.",
-        "zh": "Martin 像建筑本身。"
+        "en": "Martin as arranging / studio co-author in the public myth.",
+        "zh": "Martin 在公共神话里是编曲 / 录音室共同作者。"
       }
     },
     {
-      "bandSlug": "radiohead",
-      "label": "Radiohead",
+      "bandSlug": "nirvana",
+      "label": "Nirvana",
       "note": {
-        "en": "Godrich era: the room gets stranger on purpose.",
-        "zh": "Godrich 年代：房间故意越来越怪。"
+        "en": "Nevermind polish vs In Utero raw—producer choice as identity fight.",
+        "zh": "Nevermind 抛光 vs In Utero 毛边——制作人选择当身份战。"
       }
     }
   ]

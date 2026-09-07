@@ -1,0 +1,35 @@
+{
+  "name": "The Stone Roses",
+  "slug": "the-stone-roses",
+  "formed": 1983,
+  "origin": "Manchester, UK",
+  "primaryEra": "1990s-britpop",
+  "genres": [
+    "indie-rock",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Manchester band that fused indie guitar with dance grooves before Britpop’s chart boom; The Stone Roses (1989) and Fools Gold are the documents.",
+    "zh": "曼彻斯特乐队：在 Britpop 榜单热潮前把 indie 吉他与舞曲 groove 融合；同名专辑（1989）与 Fools Gold 是文献。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Fools Gold",
+      "year": 1989
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Madchester guitar-dance; Fools Gold is the extended groove single.",
+    "zh": "Madchester 吉他—舞曲；Fools Gold 是延长 groove 单曲。"
+  },
+  "body": {
+    "en": "Formed 1983. Debut album with John Leckie production set Ian Brown’s slack vocal, John Squire’s wah/jangle leads, Mani’s bass, Reni’s funk drums—baggy culture’s guitar wing.\n\nFools Gold (1989) is the listed track (long 12\" form). Second Coming delays and internal conflict limited the catalog; influence on Oasis and Britpop guitar bands is still cited.",
+    "zh": "1983 年组建。John Leckie 制作的首专定型 Ian Brown 松弛人声、John Squire 的 wah/jangle 主音、Mani 贝斯、Reni 的 funk 鼓——baggy 文化的吉他翼。\n\nFools Gold（1989）是列出曲目（长 12 寸形态）。Second Coming 延期与内部冲突限制了目录；对 Oasis 与 Britpop 吉他乐队的影响仍常被引用。"
+  }
+}

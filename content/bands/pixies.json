@@ -1,0 +1,35 @@
+{
+  "name": "Pixies",
+  "slug": "pixies",
+  "formed": 1986,
+  "origin": "Boston, USA",
+  "primaryEra": "punk-postpunk",
+  "genres": [
+    "alternative",
+    "indie-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Boston four-piece whose Surfer Rosa/Doolittle quiet-loud song forms became the template Nirvana and 1990s alternative openly cited.",
+    "zh": "波士顿四人组：Surfer Rosa/Doolittle 的强弱歌曲形式成为 Nirvana 与 1990 年代 alternative 公开引用的模板。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Where Is My Mind?",
+      "year": 1988
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Black Francis / Kim Deal alternative; Where Is My Mind? is the lasting hook.",
+    "zh": "Black Francis / Kim Deal 的 alternative；Where Is My Mind? 是长寿钩子。"
+  },
+  "body": {
+    "en": "Formed 1986. Come On Pilgrim, Surfer Rosa (1988, Steve Albini), and Doolittle (1989) fixed soft verse / explosive chorus, surreal lyrics, and Deal’s harmony/bass role.\n\nWhere Is My Mind? (1988) is the entry. Dynamics, not virtuosity, are the export—later taught as “Pixies structure” in alt-rock songwriting.",
+    "zh": "1986 年组建。Come On Pilgrim、Surfer Rosa（1988，Steve Albini）与 Doolittle（1989）定型：轻主歌/爆副歌、超现实歌词、Deal 的和声与贝斯角色。\n\nWhere Is My Mind?（1988）是入口。输出的是动态而非炫技——后来在 alt-rock 歌曲写作里被称作「Pixies 结构」。"
+  }
+}

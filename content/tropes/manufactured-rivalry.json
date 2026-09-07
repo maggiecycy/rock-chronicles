@@ -1,16 +1,16 @@
 {
   "slug": "manufactured-rivalry",
   "title": {
-    "en": "The rivalry they printed for you",
-    "zh": "印给你看的对决"
+    "en": "The manufactured rivalry",
+    "zh": "媒体制造的对打"
   },
   "summary": {
-    "en": "Newspapers draw a fight. Fans buy jerseys. Both bands sell more records. History gets a cartoon.",
-    "zh": "报纸画一场架。粉丝买球衣。两队唱片都更好卖。历史多了一幅漫画。"
+    "en": "Blur vs Oasis sold papers. The music was already different; the feud was the product.",
+    "zh": "Blur vs Oasis 卖报纸。音乐本来就不一样；撕逼才是产品。"
   },
   "body": {
-    "en": "Beatles vs Stones. Oasis vs Blur. Sometimes the dislike is real—egos are flammable. Often it's a useful cartoon: two brands, one headline, infinite bar arguments.\n\nRivalries flatten scenes into sports brackets. Fun for a night. Terrible as your whole taste. Ride the Timeline and listen to both sides; the gossip is seasoning, not the meal.",
-    "zh": "Beatles 对 Stones。Oasis 对 Blur。有时讨厌是真的——自我易燃。更多时候是好用的漫画：两个品牌，一个标题，酒吧里吵到天亮。\n\n对决把场景压成体育对阵表。玩一晚很爽；当全部品味很糟。去 Timeline 两边都听；八卦是调料，不是主菜。"
+    "en": "NME and tabloids need a title fight. Two bands from the same decade get cast as enemies even when the catalogs barely overlap.\n\nSometimes the artists lean into it for charts. Sometimes they hate the script and still get quoted into it. Read the records first; treat the \"war\" as marketing with better lighting.",
+    "zh": "NME 和小报需要一场拳赛。同年代两支乐队被写成死敌——哪怕碟谱几乎不重叠。\n\n有时艺人自己靠这个冲榜。有时他们讨厌剧本，仍被引用进局里。先听碟；把「战争」当打光更好的营销。"
   },
   "tone": "meme",
   "examples": [
@@ -18,24 +18,16 @@
       "bandSlug": "oasis",
       "label": "Oasis",
       "note": {
-        "en": "Britpop's favorite cage match.",
-        "zh": "Britpop 最爱的笼斗。"
+        "en": "Liam/Noel quotes as weekly content.",
+        "zh": "Liam/Noel 金句当每周内容更新。"
       }
     },
     {
-      "bandSlug": "the-beatles",
-      "label": "The Beatles",
+      "bandSlug": "blur",
+      "label": "Blur",
       "note": {
-        "en": "Half of the original cartoon.",
-        "zh": "原版漫画的一半。"
-      }
-    },
-    {
-      "bandSlug": "the-rolling-stones",
-      "label": "The Rolling Stones",
-      "note": {
-        "en": "The other half, still touring the punchline.",
-        "zh": "另一半，还在巡演那句笑点。"
+        "en": "Parklife pole vs Knebworth pole—same chart war, different tools.",
+        "zh": "Parklife 极 vs Knebworth 极——同一场榜单战，工具不同。"
       }
     }
   ]

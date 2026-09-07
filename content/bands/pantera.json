@@ -1,0 +1,35 @@
+{
+  "name": "Pantera",
+  "slug": "pantera",
+  "formed": 1981,
+  "origin": "Arlington, USA",
+  "primaryEra": "1980s-metal",
+  "genres": [
+    "heavy-metal",
+    "hard-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Texas band that replaced glam residue with down-tuned groove metal; Vulgar Display of Power (1992) and Far Beyond Driven set mid-90s US metal radio weight.",
+    "zh": "德州乐队：用降调 groove metal 替换 glam 残余；Vulgar Display of Power（1992）与 Far Beyond Driven 定下 90 年代中期美国金属电台重量。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Walk",
+      "year": 1992
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Dimebag / Anselmo groove metal; Walk is the mid-tempo riff lesson.",
+    "zh": "Dimebag / Anselmo 的 groove metal；Walk 是中速 riff 教材。"
+  },
+  "body": {
+    "en": "Formed 1981 (early glam albums exist). Cowboys from Hell (1990) onward is the relevant era—Dimebag Darrell’s pinched harmonics, Rex Brown’s bass, Vinnie Paul’s clicky kick, Phil Anselmo’s bark.\n\nWalk (1992) teaches groove over speed. They shift US metal away from thrash racing toward stalled, palm-muted riffs that nu-metal and metalcore later inherit.",
+    "zh": "1981 年组建（早期有 glam 专辑）。自 Cowboys from Hell（1990）起为相关时期——Dimebag Darrell 的捏音泛音、Rex Brown 贝斯、Vinnie Paul 咔嗒底鼓、Phil Anselmo 吠叫。\n\nWalk（1992）教的是 groove 重于速度。他们把美国金属从 thrash 竞速推向停顿式掌闷 riff，后为 nu-metal 与 metalcore 继承。"
+  }
+}

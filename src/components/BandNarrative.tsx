@@ -5,6 +5,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { motion, useInView } from "framer-motion";
 import { TagPill } from "@/components/TagPill";
 import { PullQuote } from "@/components/PullQuote";
+import { EntityHeroImage } from "@/components/EntityHeroImage";
 import { useSound } from "@/components/SoundProvider";
 import { useLocale } from "@/i18n/LocaleProvider";
 import { loc, type Localized } from "@/i18n/config";
@@ -354,6 +355,7 @@ export function BandNarrative({
           <p className="mt-4 text-lg text-ink-soft">
             {loc(band.shortBio, locale)}
           </p>
+          {band.image && <EntityHeroImage image={band.image} variant="wide" />}
           <p className="mt-6 leading-relaxed text-ink-soft">
             {loc(band.body, locale)}
           </p>
@@ -407,6 +409,7 @@ export function BandNarrative({
           <p className="mt-6 max-w-2xl text-xl text-ink-soft">
             {loc(band.whyMatters ?? band.shortBio, locale)}
           </p>
+          {band.image && <EntityHeroImage image={band.image} variant="wide" />}
           {band.landmark && (
             <div className="mt-8 max-w-xl border-2 border-ink bg-paper-deep/30 p-5">
               <p className="text-xs font-medium uppercase tracking-wider text-muted">

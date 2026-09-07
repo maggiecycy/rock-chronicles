@@ -1,0 +1,35 @@
+{
+  "name": "The Beach Boys",
+  "slug": "the-beach-boys",
+  "formed": 1961,
+  "origin": "California, USA",
+  "primaryEra": "1960s-british-invasion",
+  "genres": [
+    "psychedelic",
+    "rock-n-roll"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "California group that turned studio harmony and modular arrangement into rock’s production frontier; Pet Sounds (1966) and Good Vibrations are the hinge.",
+    "zh": "加州组合：把录音室和声与模块化编曲推成摇滚制作前沿；Pet Sounds（1966）与 Good Vibrations 是铰链。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Good Vibrations",
+      "year": 1966
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Brian Wilson–era studio pop; Good Vibrations is the modular single.",
+    "zh": "Brian Wilson 时期录音室流行；Good Vibrations 是模块化单曲。"
+  },
+  "body": {
+    "en": "Formed 1961. Early surf hits precede the studio peak: Pet Sounds and the Smile sessions treated the studio as instrument—theremin, bicycle bells, stacked vocals, sectional recording.\n\nGood Vibrations (1966) is the essential track here. Influence on Beatles’ late-60s studio work and later indie psych is documentary, not metaphor.",
+    "zh": "1961 年组建。早期冲浪热单之后是录音室高峰：Pet Sounds 与 Smile 录音把录音室当乐器——theremin、自行车铃、堆叠人声、分段录音。\n\nGood Vibrations（1966）是此处必听。对 Beatles 60 年代末录音室工作与后来 indie 迷幻的影响有文献可查，而非比喻。"
+  }
+}

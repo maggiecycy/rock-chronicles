@@ -1,0 +1,35 @@
+{
+  "name": "Tool",
+  "slug": "tool",
+  "formed": 1990,
+  "origin": "Los Angeles, USA",
+  "primaryEra": "1990s-grunge-alt",
+  "genres": [
+    "progressive-rock",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "LA progressive metal band; Lateralus (2001) and Ænima put polymeter, long-form structures, and art-video culture on metal radio.",
+    "zh": "洛杉矶 progressive metal；Lateralus（2001）与 Ænima 把复合节拍、长结构与艺术录像文化送上金属电台。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Schism",
+      "year": 2001
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Keenan / Jones / Chancellor / Carey prog-metal; Schism is the odd-meter single.",
+    "zh": "Keenan / Jones / Chancellor / Carey 的 prog-metal；Schism 是奇数拍单曲。"
+  },
+  "body": {
+    "en": "Formed 1990. Undertow through Fear Inoculum use drop-tuned riffs, Danny Carey’s polyrhythms, Maynard Keenan’s mid-range vocal, and album gaps measured in years.\n\nSchism (2001) is the listed track—time-signature shifts as hook. They occupy metal-adjacent charts with prog length and visual art packaging rather than thrash speed.",
+    "zh": "1990 年组建。从 Undertow 到 Fear Inoculum：降调 riff、Danny Carey 的复合节奏、Maynard Keenan 中音区人声，以及以年计的专辑间隔。\n\nSchism（2001）是列出曲目——拍号切换即钩子。占据金属邻近榜单，靠 prog 时长与视觉艺术包装，而非 thrash 速度。"
+  }
+}

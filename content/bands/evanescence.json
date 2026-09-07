@@ -1,0 +1,35 @@
+{
+  "name": "Evanescence",
+  "slug": "evanescence",
+  "formed": 1995,
+  "origin": "Little Rock, USA",
+  "primaryEra": "2000s-revival",
+  "genres": [
+    "alternative",
+    "heavy-metal"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Little Rock–origin act that fused goth-piano hooks with nu-metal guitars; Fallen (2003) dominated early-2000s rock radio.",
+    "zh": "小石城起家：哥特钢琴钩子叠 nu-metal 吉他；Fallen（2003）占领 2000 年代初摇滚电台。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Bring Me to Life",
+      "year": 2003
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Amy Lee–fronted goth/nu-metal crossover; Bring Me to Life is the chart spike.",
+    "zh": "Amy Lee 领衔的哥特/nu-metal 跨界；Bring Me to Life 是榜单峰值。"
+  },
+  "body": {
+    "en": "Formed mid-1990s in Arkansas; Fallen (2003) is the commercial record that matters here—Ben Moody–era guitars, string/choir arrangements, Lee’s mezzo lead.\n\nBring Me to Life (2003) with Paul McCoy’s guest vocal is the nu-metal radio handshake. The page tracks how early-2000s rock radio absorbed goth-pop melody without leaving the heavy playlist.",
+    "zh": "1990 年代中期于阿肯色组建；Fallen（2003）是此处关键的商业唱片——Ben Moody 时期吉他、弦乐/合唱编曲、Lee 的女中音主唱。\n\n与 Paul McCoy 客串的 Bring Me to Life（2003）是 nu-metal 电台握手礼。本页追踪 2000 年代初摇滚电台如何在不离开重型播放列表的前提下吸收哥特流行旋律。"
+  }
+}

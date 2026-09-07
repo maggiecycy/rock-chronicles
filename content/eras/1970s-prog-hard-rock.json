@@ -1,31 +1,33 @@
 {
   "name": {
-    "en": "1970s Prog & Hard Rock",
-    "zh": "1970s 前卫与硬摇滚"
+    "en": "Hard Rock, Prog & Early Metal",
+    "zh": "硬摇滚、前卫与早期金属"
   },
   "slug": "1970s-prog-hard-rock",
   "decade": "1970s",
   "years": "1970–1979",
   "order": 3,
   "summary": {
-    "en": "Rock gets huge—either in the head, or in the chest, or both.",
-    "zh": "摇滚变得巨大——要么在脑子里，要么在胸口，要么两边一起。"
+    "en": "Side-long suites and crushed riffs share the same decade of bigger rooms.",
+    "zh": "边长组曲与压扁的 Riff，共享体育馆变大的同一个十年。"
   },
   "sound": {
-    "en": "Concept side-longs, crushed riffs, drums like weather fronts",
-    "zh": "概念长曲、压扁的 riff、像锋面一样的鼓"
+    "en": "Concept side-longs, downtuned power chords, double-kick and tom fills",
+    "zh": "概念专集长曲、降调强力和弦、双踩与通通鼓填充"
   },
   "anchorBands": [
     "led-zeppelin",
     "pink-floyd",
-    "king-crimson",
-    "black-sabbath"
+    "black-sabbath",
+    "queen",
+    "ac-dc"
   ],
   "alsoNotable": [
-    "Queen",
-    "Yes",
+    "King Crimson",
     "Deep Purple",
-    "David Bowie"
+    "David Bowie",
+    "Rush",
+    "Fleetwood Mac"
   ],
   "genres": [
     "progressive-rock",
@@ -33,7 +35,11 @@
     "psychedelic"
   ],
   "body": {
-    "en": "The seventies argue with themselves in public. Prog wants cathedrals and odd meters. Hard Rock wants the air to move when the chorus hits. Zeppelin turns dynamics into religion; Sabbath invents a colder kind of heavy; Floyd builds theatres of dread and beauty; Crimson keeps the blade sharp.\n\nArena rock is born here—not as a insult yet, just as physics. If the song is big enough, the room has to grow.",
-    "zh": "七十年代当众跟自己吵架。Prog 要大教堂和怪拍子。Hard Rock 要副歌落下时空气会动。Zeppelin 把动态做成宗教；Sabbath 发明一种更冷的重；Floyd 搭起恐惧与美的剧场；Crimson 把刀刃磨利。\n\n体育馆摇滚在这儿出生——当时还不是骂人话，只是物理：歌够大，房间就得长大。"
+    "en": "The seventies split into parallel markets. Prog uses odd meters, Mellotron, and multi-part suites. Hard rock bets on riff, volume, and chorus hooks. Led Zeppelin mixes acoustic/electric dynamics and long improvisation. Black Sabbath detunes and writes tritone-heavy songs that seed metal. Pink Floyd builds album-length studio concepts. King Crimson keeps dissonant structure tight.\n\nArena touring scales with PA systems and lighting rigs. Bigger songs need bigger rooms; the economics follow.",
+    "zh": "七十年代分裂成并行市场。Prog 用怪拍子、Mellotron 与多段组曲。Hard Rock 押注 Riff、音量与副歌钩子。Led Zeppelin 混合原声/电声动态与长即兴。Black Sabbath 降调，写三全音偏重的曲子，给金属定调。Pink Floyd 做专辑尺度的录音室概念专集。King Crimson 把不协和结构收得很紧。\n\n体育馆巡演随 PA 与灯光架放大。歌更大，场地更大；经济模型跟着走。"
+  },
+  "navLabel": {
+    "en": "70s",
+    "zh": "七十年代"
   }
 }

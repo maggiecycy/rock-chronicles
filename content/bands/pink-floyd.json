@@ -13,8 +13,8 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "Albums as places you enter: clocks, walls, and widescreen dread—Prog's atmosphere-empire pole beside Crimson's blade.",
-    "zh": "把专辑做成能走进去的地方：钟声、墙、宽银幕式的不安——相对 Crimson 的刀，这是 Prog 的氛围帝国那一端。"
+    "en": "London band that moved from Syd Barrett psychedelia to Waters/Gilmour concept albums; Dark Side (1973) and The Wall (1979) set album-length production as mass rock.",
+    "zh": "伦敦乐队：从 Syd Barrett 迷幻走到 Waters/Gilmour 概念专集；Dark Side（1973）与 The Wall（1979）把专辑时长制作做成大众摇滚。"
   },
   "members": [
     {
@@ -67,8 +67,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Key composition moment",
-        "zh": "闹钟与吉他独奏：时间主题的声景化"
+        "en": "Clock FX + mid-album dynamic spine (Time).",
+        "zh": "钟声效果 + 专辑中脊动态（Time）。"
       }
     },
     {
@@ -87,7 +87,7 @@
       "intensity": 1,
       "note": {
         "en": "Key composition moment",
-        "zh": "缺席与缅怀：概念专辑的情感核"
+        "zh": "关键写作时刻"
       }
     },
     {
@@ -104,8 +104,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Key composition moment",
-        "zh": "疏离叙事与吉他高潮的经典对位"
+        "en": "Dual vocal/solo ballad from The Wall.",
+        "zh": "The Wall 的双人声/独奏谣曲。"
       }
     }
   ],
@@ -119,7 +119,7 @@
     {
       "text": "It's not about being loud. It's about being there.",
       "speaker": "David Gilmour",
-      "source": "Documentary excerpt · Whisper-ready",
+      "source": "Documentary excerpt",
       "year": 2008
     }
   ],
@@ -138,23 +138,23 @@
     "radiohead"
   ],
   "shortBio": {
-    "en": "Immersive soundscapes and concept narrative: the album as a place.",
-    "zh": "沉浸声景与概念叙事：把专辑做成可进入的空间。"
+    "en": "Gilmour / Waters progressive rock; Time and Comfortably Numb are twin poles.",
+    "zh": "Gilmour / Waters 的 progressive rock；Time 与 Comfortably Numb 是两极。"
   },
   "body": {
-    "en": "From underground psychedelia to arena concepts, Floyd's core is space. Barrett sparks the weird; Waters, Gilmour, Wright, and Mason build the empire of atmosphere.\n\nWith King Crimson they form Prog's two poles: immersion versus sharpness.",
-    "zh": "从地下迷幻到体育馆概念巨制，Floyd 的核心始终是空间。Barrett 点燃怪异；Waters、Gilmour、Wright、Mason 建成氛围帝国。\n\n与 King Crimson 并列，构成 Prog 两端：沉浸对锋利。"
+    "en": "Formed 1965. Barrett-era singles precede the Waters-led concept run: Dark Side of the Moon, Wish You Were Here, Animals, The Wall—studio effects, spoken samples, long-form song cycles.\n\nTime (1973) and Comfortably Numb (1979) show clock-work arrangement and dual-vocal/solo architecture. Lineup versions (Barrett → Waters dominance → later Gilmour-led) are first-class.",
+    "zh": "1965 年组建。Barrett 时期单曲之后是 Waters 主导的概念专集序列：Dark Side of the Moon、Wish You Were Here、Animals、The Wall——录音室效果、口语采样、长歌曲组。\n\nTime（1973）与 Comfortably Numb（1979）展示钟表式编曲与双人声/独奏架构。阵容版本（Barrett → Waters 主导 → 后期 Gilmour 主导）是一等对象。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Space as an instrument",
-        "zh": "空间作为乐器"
+        "en": "Concept albums at chart scale",
+        "zh": "榜单尺度的概念专集"
       },
       "body": {
-        "en": "Floyd's decisiveness is permission: rock can handle time, alienation, and systems—not only rebellion cosplay.\n\nDark Side and The Wall prove a concept album can be a mass event without surrendering the weird.",
-        "zh": "Floyd 的决定性是许可：摇滚可以处理时间、疏离与体制——不只是叛逆扮相。\n\nDark Side 与 The Wall 证明概念专辑能成大众事件，而不交出怪异。"
+        "en": "Floyd matter as proof that long-form production, sound design, and thematic albums can sit on mass charts without singles-only logic.\n\nStudio and live spectacle share one engineering culture.",
+        "zh": "Floyd 要紧处是证明：长制作、声音设计与主题专辑可以上大众榜，而不只靠单曲逻辑。\n\n录音室与现场奇观共享同一工程文化。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "progressive-rock"
@@ -162,12 +162,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Barrett spark, Gilmour empire",
-        "zh": "Barrett 的火星，Gilmour 的帝国"
+        "en": "Barrett, Waters-led, post-Waters",
+        "zh": "Barrett、Waters 主导、后 Waters"
       },
       "body": {
-        "en": "Early Floyd is Barrett's fractured glow. Later Floyd is architectural dread with Gilmour's sustain as skyline.\n\nName the eras. The band changes face without abandoning the vow to build places out of sound.",
-        "zh": "早期 Floyd 是 Barrett 碎裂的光。后期 Floyd 是建筑式的不安，Gilmour 的延音当天际线。\n\n给时代命名。乐队换脸，却不放弃用声音造地方的誓言。"
+        "en": "Early psychedelia is Barrett-centered. Mid catalog is Waters writing + Gilmour guitar/vocal. Post-1985 Gilmour-led albums are another legal/musical chapter.\n\nVersions explain disputes and sound shifts.",
+        "zh": "早期迷幻以 Barrett 为中心。中期目录是 Waters 写作 + Gilmour 吉他/人声。1985 后 Gilmour 主导专辑是另一法律/音乐章节。\n\n版本解释争执与声音转向。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "progressive-rock"
@@ -175,12 +175,12 @@
     {
       "id": "time",
       "title": {
-        "en": "Time: the theme becomes sound design",
-        "zh": "Time：主题写成声景"
+        "en": "Time: clocks, dynamics, mid-album spine",
+        "zh": "Time：钟声、动态、专辑中脊"
       },
       "body": {
-        "en": "Clock ticks are not garnish; they are the plot device. Time shows how a place and a subject enter the ear as design, not slogan.\n\nYou do not hear a lecture about mortality. You hear mortality arranged.",
-        "zh": "钟声不是配菜，是情节装置。Time 展示地点与主题如何作为设计进入耳朵，而不是口号。\n\n你听见的不是关于死亡的讲课。是被编排过的死亡感。"
+        "en": "Sound-effect intro, rototom figure, verse/chorus, Gilmour solo—Dark Side’s structural teaching track.\n\nProduction narrative without needing mystical language.",
+        "zh": "音效引入、rototom 音型、主副歌、Gilmour 独奏——Dark Side 的结构教材曲。\n\n制作叙事无需神秘语言。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -189,12 +189,12 @@
     {
       "id": "numb",
       "title": {
-        "en": "Comfortably Numb: counterpoint as drama",
-        "zh": "Comfortably Numb：对位即戏剧"
+        "en": "Comfortably Numb: dual vocal, dual solo",
+        "zh": "Comfortably Numb：双人声、双独奏"
       },
       "body": {
-        "en": "Detached vocal against a guitar climax that refuses to stay polite—arena emotion finds a formula that still stings.\n\nThe Wall's theater trick becomes a permanent stadium weather pattern.",
-        "zh": "疏离人声对上不肯礼貌的吉他高潮——体育馆情感找到一种仍刺人的公式。\n\nThe Wall 的剧场手法，变成永久的体育馆天气。"
+        "en": "Waters verse dryness against Gilmour chorus lift; two celebrated guitar solos in one song. The Wall’s mass-entry ballad.\n\nArrangement drama as rock theatre craft.",
+        "zh": "Waters 主歌干对 Gilmour 副歌抬升；一曲两段著名吉他独奏。The Wall 的大众入口谣曲。\n\n编曲戏剧即摇滚剧场工艺。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -203,12 +203,12 @@
     {
       "id": "members",
       "title": {
-        "en": "Versions change; the vow holds",
-        "zh": "版本在变，誓言还在"
+        "en": "Wright keys, Mason drums, Gilmour/Waters split",
+        "zh": "Wright 键盘、Mason 鼓、Gilmour/Waters 分工"
       },
       "body": {
-        "en": "From Barrett to the Gilmour era, the fingerprint shifts, but the promise of space and concept does not.\n\nThe member list is the chronicle: who held the keys to which room.",
-        "zh": "从 Barrett 到 Gilmour 时代，声纹在变，「空间与概念」的承诺没变。\n\n成员表本身就是编年：谁拿过哪间房的钥匙。"
+        "en": "Richard Wright’s harmony pads and Nick Mason’s steady drums underpin the concept years. Vocal and lyric authority shifts are audible across albums.\n\nListen for who writes the frame.",
+        "zh": "Richard Wright 的和声铺底与 Nick Mason 稳健鼓组支撑概念专集年代。人声与歌词权威的转移在各专可闻。\n\n听谁在写框架。"
       },
       "stickyVisual": "members",
       "soundGenre": "psychedelic"
@@ -216,12 +216,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Permission to build worlds",
-        "zh": "造世界的许可"
+        "en": "Prog ambition without costume metal",
+        "zh": "无戏服金属的 prog 野心"
       },
       "body": {
-        "en": "Radiohead and other modern auteurs inherit the album-as-world license. Atmosphere becomes a serious craft, not a side effect of reverb.\n\nProgressive flows into Alternative carrying furniture, not just solos.",
-        "zh": "Radiohead 和其他近代作者继承「专辑即世界」的许可。氛围成为正经手艺，不是混响副作用。\n\nProgressive 流向 Alternative 时带着家具，不只带着 solo。"
+        "en": "Later art-rock and ambient-adjacent bands cite the production; metal cites the scale. Punk often refuses the spectacle.\n\nCatalog remains a studio-engineering reference.",
+        "zh": "后来 art-rock 与 ambient 邻近乐队引用其制作；金属引用其体量。朋克常拒绝其奇观。\n\n目录仍是录音室工程参照。"
       },
       "stickyVisual": "influence",
       "soundGenre": "progressive-rock"
@@ -252,7 +252,11 @@
           "name": "Nick Mason",
           "role": "Drums"
         }
-      ]
+      ],
+      "note": {
+        "en": "Syd Barrett–centered psychedelic version.",
+        "zh": "以 Syd Barrett 为中心的迷幻版本。"
+      }
     },
     {
       "id": "classic-waters-gilmour",
@@ -281,8 +285,8 @@
         }
       ],
       "note": {
-        "en": "Concept-album empire version.",
-        "zh": "概念专辑帝国版本。"
+        "en": "Concept-album peak Waters/Gilmour partnership.",
+        "zh": "概念专集巅峰 Waters/Gilmour 搭档。"
       }
     }
   ],
@@ -291,8 +295,8 @@
       "title": "See Emily Play",
       "year": 1967,
       "note": {
-        "en": "Psychedelic pop portal before the album-era temples.",
-        "zh": "专辑神殿之前的迷幻流行入口。"
+        "en": "Early psychedelic-era marker.",
+        "zh": "早期迷幻时期标记。"
       }
     },
     "pioneeredGenres": [
@@ -300,8 +304,8 @@
       "psychedelic"
     ],
     "note": {
-      "en": "Atmosphere, concept, and live spectacle rewrite scale.",
-      "zh": "氛围、概念与现场奇观重写尺度。"
+      "en": "Concept-album production as mass-rock default ambition.",
+      "zh": "概念专集制作成为大众摇滚默认野心。"
     }
   }
 }

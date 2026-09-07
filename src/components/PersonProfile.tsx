@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { EntityHeroImage } from "@/components/EntityHeroImage";
 import { useLocale } from "@/i18n/LocaleProvider";
 import { loc } from "@/i18n/config";
 import type { Person } from "@/lib/types";
@@ -38,6 +39,9 @@ export function PersonProfile({
       <p className="mt-6 text-lg leading-relaxed text-ink-soft">
         {loc(person.shortBio, locale)}
       </p>
+      {person.image && (
+        <EntityHeroImage image={person.image} variant="portrait" />
+      )}
 
       <section className="mt-10 border-2 border-ink p-5 sm:p-6">
         <h2 className="text-xs font-medium uppercase tracking-wider text-muted">

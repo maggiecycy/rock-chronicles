@@ -1,0 +1,68 @@
+{
+  "name": "The Police",
+  "slug": "the-police",
+  "formed": 1977,
+  "origin": "London, UK",
+  "primaryEra": "punk-postpunk",
+  "genres": [
+    "rock-n-roll",
+    "alternative"
+  ],
+  "decisive": true,
+  "whyMatters": {
+    "en": "London trio that fused reggae upstrokes, new-wave tightness, and pop melody into early-1980s global rock radio.",
+    "zh": "伦敦三人组：把雷鬼上击、new wave 紧凑与流行旋律融进 1980 年代初全球摇滚电台。"
+  },
+  "members": [
+    {
+      "name": "Sting",
+      "role": "Vocals, Bass",
+      "years": "1977–1986"
+    },
+    {
+      "name": "Andy Summers",
+      "role": "Guitar",
+      "years": "1977–1986"
+    },
+    {
+      "name": "Stewart Copeland",
+      "role": "Drums",
+      "years": "1977–1986"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Roxanne",
+      "year": 1978
+    },
+    {
+      "title": "Every Breath You Take",
+      "year": 1983
+    },
+    {
+      "title": "Message in a Bottle",
+      "year": 1979
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [
+    "the-clash",
+    "talking-heads",
+    "the-cure"
+  ],
+  "influenceFrom": [
+    "the-beatles"
+  ],
+  "influenced": [
+    "the-killers",
+    "coldplay"
+  ],
+  "shortBio": {
+    "en": "Sting / Summers / Copeland; Every Breath You Take is the mass ballad.",
+    "zh": "Sting / Summers / Copeland；Every Breath You Take 是大众谣曲。"
+  },
+  "body": {
+    "en": "Formed 1977. Outlandos d’Amour through Synchronicity track rising scale: Copeland’s hi-hat reggae grammar, Summers’s chorus/delay angles, Sting’s high melodic bass and vocal.\n\nRoxanne (1978) and Every Breath You Take (1983) bookend club tension and global pop. They show post-punk energy can chart without punk orthodoxy or soft-rock surrender.",
+    "zh": "1977 年组建。从 Outlandos d’Amour 到 Synchronicity 追踪体量上升：Copeland 的踩镲雷鬼语法、Summers 的 chorus/延时棱角、Sting 的高音旋律贝斯与人声。\n\nRoxanne（1978）与 Every Breath You Take（1983）标记俱乐部张力与全球流行两端。证明后朋克能量可以上榜，无需朋克正统，也不向软摇滚投降。"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "ringo-best-drummer",
+  "title": {
+    "en": "\"Ringo isn't even the best drummer in the Beatles\"",
+    "zh": "「Ringo 连披头士里都不是最好的鼓手」"
+  },
+  "summary": {
+    "en": "Internet classic (often misattributed to Lennon). Serves feel, not flash.",
+    "zh": "网络经典（常被错安到 Lennon 头上）。要的是手感，不是炫技。"
+  },
+  "body": {
+    "en": "The quote floats around as \"John said Ringo isn't the best drummer in the world—he isn't even the best drummer in the Beatles.\" Historians keep killing the attribution; memes keep it alive.\n\nWhat the joke actually points at: Ringo's parts are song-first—fills that stick, time that sits—while drum-nerd culture ranks speed and complexity. Different scoreboards.",
+    "zh": "这句以「John 说 Ringo 不是世界上最好的鼓手——他甚至不是披头士里最好的」在网上漂。史学家不断辟谣；迷因不断续命。\n\n笑话真正指向：Ringo 的部分是为歌服务——好记的加花、坐得住的拍——而鼓手极客文化按速度和复杂度排名。记分板不同。"
+  },
+  "tone": "half-true",
+  "examples": [
+    {
+      "bandSlug": "the-beatles",
+      "label": "The Beatles",
+      "note": {
+        "en": "Feel vs flash: the endless drum-forum thread.",
+        "zh": "手感 vs 炫技：鼓手论坛万年帖。"
+      }
+    }
+  ]
+}

@@ -2,14 +2,14 @@
   "name": "Punk",
   "slug": "punk",
   "summary": {
-    "en": "Shorter, faster, desacralized: rock's self-correction.",
-    "zh": "缩短、加速、去神圣化：摇滚的自我校正。"
+    "en": "Shorter songs, cheaper gear, DIY labels against prog and arena scale.",
+    "zh": "更短的歌、更便宜的器材、DIY 厂牌，对抗 Prog 与体育馆规模。"
   },
-  "eraFocus": "1980s Punk & Metal",
+  "eraFocus": "Punk & Post-Punk",
   "representativeBands": [],
   "body": {
-    "en": "Punk pushes back against Prog and arena inflation. It prizes speed, attitude, and accessibility, and directly births Post-Punk, hardcore, and later Indie DIY.",
-    "zh": "Punk 反击 Prog 与 Arena Rock 的膨胀。它强调速度、态度与可达性，并直接催生 Post-Punk、Hardcore，以及日后 Indie 的 DIY 精神。"
+    "en": "Punk reacts to Prog length and arena rock economics. It favors speed, attitude, and playable songs, and feeds Post-Punk, hardcore, and later Indie DIY scenes.",
+    "zh": "Punk 反击 Prog 曲长与 Arena Rock 经济。它强调速度、态度与易上手歌曲，并直接催生后朋克、Hardcore，以及日后 Indie 的 DIY 场景。"
   },
   "pioneerBands": [
     "the-clash"

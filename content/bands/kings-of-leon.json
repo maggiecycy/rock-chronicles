@@ -1,0 +1,35 @@
+{
+  "name": "Kings of Leon",
+  "slug": "kings-of-leon",
+  "formed": 1999,
+  "origin": "Nashville, USA",
+  "primaryEra": "2000s-revival",
+  "genres": [
+    "indie-rock",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Nashville Followill family band that moved from garage Southern rock to arena alt-radio with Only by the Night (2008).",
+    "zh": "纳什维尔 Followill 家族乐队：从车库南方摇滚转到 Only by the Night（2008）的体育场 alternative 电台。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Sex on Fire",
+      "year": 2008
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "US indie/alt rock; Sex on Fire and Use Somebody are the late-2000s crossover singles.",
+    "zh": "美国 indie/alt rock；Sex on Fire 与 Use Somebody 是 2000 年代末跨界单曲。"
+  },
+  "body": {
+    "en": "Formed 1999. Early albums (Youth & Young Manhood, Aha Shake Heartbreak) pushed rawer riffs and Caleb Followill’s strained vocal; Because of the Times expanded dynamics.\n\nSex on Fire (2008) is the chart object. They matter here as a US path into the same stadium-indie space Coldplay/Killers occupied in the UK/US charts—Southern rock DNA under delay-guitar polish.",
+    "zh": "1999 年组建。早期专辑（Youth & Young Manhood、Aha Shake Heartbreak）更毛糙的 riff 与 Caleb Followill 绷紧人声；Because of the Times 扩展动态。\n\nSex on Fire（2008）是榜单对象。此处意义是美国路径进入 Coldplay/Killers 占据的体育场 indie 空间——延时吉他抛光下仍有南方摇滚 DNA。"
+  }
+}

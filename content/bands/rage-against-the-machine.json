@@ -1,0 +1,35 @@
+{
+  "name": "Rage Against the Machine",
+  "slug": "rage-against-the-machine",
+  "formed": 1991,
+  "origin": "Los Angeles, USA",
+  "primaryEra": "1990s-grunge-alt",
+  "genres": [
+    "alternative",
+    "hard-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "LA four-piece that fused rap vocals with hard-rock/funk riffs; Rage Against the Machine (1992) made political slogan rock a mainstream format.",
+    "zh": "洛杉矶四人组：rap 人声焊 hard-rock/funk riff；同名专辑（1992）让政治口号摇滚成为主流格式。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Killing in the Name",
+      "year": 1992
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Zack de la Rocha / Tom Morello rap-metal; Killing in the Name is the entry riot.",
+    "zh": "Zack de la Rocha / Tom Morello 的 rap-metal；Killing in the Name 是入口暴动曲。"
+  },
+  "body": {
+    "en": "Formed 1991. Debut album and Evil Empire paired de la Rocha’s cadence with Morello’s effects-as-solos, Tim Commerford’s funk bass, Brad Wilk’s dry drums—no samples required for the “DJ” textures.\n\nKilling in the Name (1992) is the citation track. They sit at the 1990s intersection of metal radio and protest lyric without nu-metal’s later pop polish.",
+    "zh": "1991 年组建。首专与 Evil Empire 把 de la Rocha 的节奏腔与 Morello 的效果器当独奏、Tim Commerford 的 funk 贝斯、Brad Wilk 的干鼓组配在一起——「DJ」质感无需采样。\n\nKilling in the Name（1992）是引用曲。位于 1990 年代金属电台与抗议歌词交汇处，尚未有后期 nu-metal 的流行抛光。"
+  }
+}

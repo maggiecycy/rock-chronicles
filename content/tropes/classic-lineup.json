@@ -5,12 +5,12 @@
     "zh": "经典阵容"
   },
   "summary": {
-    "en": "The photo that won. Everything after is \"the other drummer,\" even if that drummer tours for twenty years.",
-    "zh": "那张赢了的合影。之后所有人，哪怕巡演二十年，都是「另一位鼓手」。"
+    "en": "The poster faces from the peak albums. Later members remain \"the other drummer\" forever.",
+    "zh": "巅峰专辑海报上的那几张脸。后来的人巡演二十年，仍是「另一位鼓手」。"
   },
   "body": {
-    "en": "Fans don't remember chronology; they remember a poster. Four faces locked to one album cycle—Zeppelin around IV, Beatles somewhere between wit and the end of the world—and suddenly that cast is the real band. Later humans become footnotes with drumsticks.\n\nIt's unfair and completely understandable. Peak chemistry has a smell. Record companies freeze it into merch. We treat classic lineups as named seasons with years attached, so you can love the myth without pretending the other seasons never aired.",
-    "zh": "粉丝记不住年表；他们记得一张海报。四张脸锁死在一轮专辑上——Zeppelin 的 IV 前后，Beatles 在机智与世界末日之间——然后这卡司就成了「真乐队」。后来的人变成带鼓棒的脚注。\n\n不公平，但完全能懂。巅峰化学反应有气味。厂牌把它冻进周边。我们把经典阵容当成带年份的季数：你可以爱神话，也不用假装其它季没播过。"
+    "en": "Fans remember a T-shirt more than a chronology. Four faces locked to one album cycle—Zeppelin around IV, Sabbath with Ozzy—and that cast becomes \"the real band.\"\n\nIt is unfair and commercially inevitable. Peak chemistry sells merch; Wikipedia arguments freeze it. We name lineup versions so you can use the myth without erasing every other cast.",
+    "zh": "粉丝记得 T 恤，多过年表。四张脸锁在一轮专辑上——Zeppelin 的 IV 前后，Sabbath 的 Ozzy 卡司——这就是「真乐队」。\n\n不公平，但好卖。巅峰化学反应出周边；维基吵架把它冻住。我们把经典阵容写成带年份的版本：神话可用，其它卡司也不用抹掉。"
   },
   "tone": "lore",
   "examples": [
@@ -18,16 +18,16 @@
       "bandSlug": "led-zeppelin",
       "label": "Led Zeppelin",
       "note": {
-        "en": "The four-face weather system.",
-        "zh": "四张脸那套天气。"
+        "en": "Page / Plant / Jones / Bonham—one public image.",
+        "zh": "Page / Plant / Jones / Bonham——一张公共脸。"
       }
     },
     {
-      "bandSlug": "the-beatles",
-      "label": "The Beatles",
+      "bandSlug": "black-sabbath",
+      "label": "Black Sabbath",
       "note": {
-        "en": "The arc everyone argues about dating.",
-        "zh": "人人都在争论该从哪张盘算起的那条弧。"
+        "en": "Ozzy era vs Dio era: two \"classic\" wars in one logo.",
+        "zh": "Ozzy 期 vs Dio 期：一个 logo 里两场「经典」战争。"
       }
     }
   ]

@@ -16,6 +16,7 @@ export function MagazineNav() {
     { href: "/genres", label: t.nav.genres },
     { href: "/people", label: t.nav.people },
     { href: "/guide", label: t.nav.guide },
+    { href: "/canon", label: t.nav.canon },
   ];
 
   return (

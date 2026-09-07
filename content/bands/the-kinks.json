@@ -1,0 +1,35 @@
+{
+  "name": "The Kinks",
+  "slug": "the-kinks",
+  "formed": 1963,
+  "origin": "London, UK",
+  "primaryEra": "1960s-british-invasion",
+  "genres": [
+    "hard-rock",
+    "rock-n-roll"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "London band whose early singles pioneered distorted power-chord rock; You Really Got Me (1964) is a hard-rock / garage root citation.",
+    "zh": "伦敦乐队：早期单曲开创失真强力和弦摇滚；You Really Got Me（1964）是 hard-rock / garage 根源引用。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "You Really Got Me",
+      "year": 1964
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Davies brothers rock’n’roll; You Really Got Me is the riff prototype.",
+    "zh": "Davies 兄弟的摇滚；You Really Got Me 是 riff 原型。"
+  },
+  "body": {
+    "en": "Formed 1963. Mid-1960s Pye singles (You Really Got Me, All Day and All of the Night) used sliced-speaker distortion and Ray Davies’s songwriting; later Village Green–era work turned toward English observational pop.\n\nYou Really Got Me (1964) is the essential track here—two-chord riff, Dave Davies’s guitar grind. Cited by Van Halen and countless garage/hard-rock bands as a distortion template.",
+    "zh": "1963 年组建。1960 年代中期 Pye 单曲（You Really Got Me、All Day and All of the Night）使用划破扬声器的失真与 Ray Davies 写作；后期 Village Green 时期转向英式观察流行。\n\nYou Really Got Me（1964）是此处必听——两和弦 riff、Dave Davies 的吉他碾磨。被 Van Halen 与大量 garage/hard-rock 乐队引为失真模板。"
+  }
+}

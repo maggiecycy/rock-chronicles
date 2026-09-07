@@ -1,0 +1,35 @@
+{
+  "name": "Rush",
+  "slug": "rush",
+  "formed": 1968,
+  "origin": "Toronto, Canada",
+  "primaryEra": "1970s-prog-hard-rock",
+  "genres": [
+    "progressive-rock",
+    "hard-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Toronto trio that kept prog-length writing and instrumental virtuosity on rock radio through the 1970s–80s; Moving Pictures (1981) is the mass hinge.",
+    "zh": "多伦多三人组：1970–80 年代把 prog 时长写作与乐器炫技留在摇滚电台；Moving Pictures（1981）是大众铰链。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Tom Sawyer",
+      "year": 1981
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Lee / Lifeson / Peart prog-rock; Tom Sawyer is the synthesizer-era hit.",
+    "zh": "Lee / Lifeson / Peart 的 progressive rock；Tom Sawyer 是合成器时期热单。"
+  },
+  "body": {
+    "en": "Formed 1968; Neil Peart joined 1974. 2112 and Hemispheres document long-form side suites; Permanent Waves and Moving Pictures compress prog into radio-length precision.\n\nTom Sawyer (1981) shows the mid-era mix—Minimoog hooks, odd-meter drums, Geddy’s high vocal. They prove a power trio can sustain prog ambition without a theatrical frontman brand.",
+    "zh": "1968 年组建；Neil Peart 1974 年加入。2112 与 Hemispheres 记录长篇组曲；Permanent Waves 与 Moving Pictures 把 prog 压成电台长度的精密曲。\n\nTom Sawyer（1981）展示中期混音——Minimoog 钩子、奇数拍鼓、Geddy 高音人声。证明三件套也能维持 prog 野心，无需戏剧化主唱品牌。"
+  }
+}

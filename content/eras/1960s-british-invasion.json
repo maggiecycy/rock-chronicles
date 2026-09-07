@@ -1,19 +1,19 @@
 {
   "name": {
-    "en": "1960s British Invasion",
-    "zh": "1960s 英国入侵"
+    "en": "Sixties Classic & Psych",
+    "zh": "六十年代经典与迷幻"
   },
   "slug": "1960s-british-invasion",
   "decade": "1960s",
-  "years": "1960–1969",
+  "years": "1964–1969",
   "order": 2,
   "summary": {
-    "en": "Britain ships American roots back louder—and invents the modern band as a world.",
-    "zh": "英国把美国根源更大声寄回来——并把「现代乐队」做成一个世界。"
+    "en": "UK bands re-export American blues louder; albums and studio craft take over singles.",
+    "zh": "英国乐队把美国蓝调更大声寄回；专辑与录音室工艺压过单曲。"
   },
   "sound": {
-    "en": "Jangling guitars, screaming crowds, studio doors left open all night",
-    "zh": "叮当吉他、尖叫人群、整夜不关的录音室门"
+    "en": "Rickenbacker jangle, Marshall stacks, four-track then eight-track studios",
+    "zh": "Rickenbacker 叮当声、Marshall 音箱墙、四轨到八轨录音室"
   },
   "anchorBands": [
     "the-beatles",
@@ -32,7 +32,11 @@
     "psychedelic"
   ],
   "body": {
-    "en": "Liverpool and London don't invent electricity; they weaponize longing. The Beatles turn singles into weather systems, then albums into planets. The Stones keep the blues swagger and refuse to grow up on schedule. The Who smash gear like politics. Hendrix arrives and rewrites what a guitar is allowed to do in public.\n\nBy decade's end the template is set: band as brand, album as statement, stage as myth machine.",
-    "zh": "利物浦和伦敦没有发明电；他们把思念做成武器。Beatles 把单曲变成天气，再把专辑变成行星。Stones 守着 Blues 的拽，拒绝按时长大。The Who 砸器材像在搞政治。Hendrix 一来，公开重写吉他被允许做什么。\n\n十年结束时模板定了：乐队即品牌，专辑即声明，舞台即造神话的机器。"
+    "en": "Liverpool and London do not invent electric rock; they industrialize it. From 1964 the Beatles move from hit singles to full albums and multi-track studio work. The Rolling Stones keep Chicago blues covers and swagger on the charts. The Who smash gear on stage and write power-chord anthems. Hendrix, in London from 1966, pushes feedback, wah, and controlled noise into mainstream sets.\n\nBy 1969 the working model is clear: self-contained band, album as primary product, touring as spectacle.",
+    "zh": "利物浦与伦敦没有发明电声摇滚；他们把它产业化。从 1964 年起，Beatles 从热单转向整张专辑与多轨录音。Rolling Stones 把芝加哥蓝调翻唱与姿态送上榜单。The Who 在台上砸器材，写强力和弦歌曲。Hendrix 1966 年起常驻伦敦，把反馈、哇音与可控噪音推进主流现场。\n\n到 1969 年，工作模型已经清楚：自足乐队、专辑为主要产品、巡演为大型演出。"
+  },
+  "navLabel": {
+    "en": "60s",
+    "zh": "六十年代"
   }
 }

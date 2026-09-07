@@ -1,0 +1,35 @@
+{
+  "name": "Linkin Park",
+  "slug": "linkin-park",
+  "formed": 1996,
+  "origin": "Agoura Hills, USA",
+  "primaryEra": "2000s-revival",
+  "genres": [
+    "alternative",
+    "heavy-metal"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Agoura Hills six-piece that made rap-rock/nu-metal the default millennial rock radio format via Hybrid Theory (2000).",
+    "zh": "阿古拉山六人组：借 Hybrid Theory（2000）把 rap-rock/nu-metal 做成千禧一代摇滚电台默认格式。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "In the End",
+      "year": 2000
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Chester Bennington / Mike Shinoda dual-vocal nu-metal; In the End is the global hook.",
+    "zh": "Chester Bennington / Mike Shinoda 双人声 nu-metal；In the End 是全球钩子。"
+  },
+  "body": {
+    "en": "Formed 1996 (earlier name Xero). Hybrid Theory and Meteora fused DJ/sample beds, downtuned guitars, Shinoda’s rap verses, Bennington’s melodic chorus.\n\nIn the End (2000) is the structural template taught to a decade of bands. Later catalogs add electronic and concept-album turns; the chronicle weight is how 2000–03 rock radio sounded in malls and MTV.",
+    "zh": "1996 年组建（曾用名 Xero）。Hybrid Theory 与 Meteora 融合 DJ/采样铺底、降调吉他、Shinoda 的 rap 主歌、Bennington 的旋律副歌。\n\nIn the End（2000）是教给整整十年乐队的结构模板。后期目录加入电子与概念专集转向；编年分量是 2000–03 商场与 MTV 上的摇滚电台声景。"
+  }
+}

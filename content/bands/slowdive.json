@@ -1,0 +1,35 @@
+{
+  "name": "Slowdive",
+  "slug": "slowdive",
+  "formed": 1989,
+  "origin": "Reading, UK",
+  "primaryEra": "1990s-grunge-alt",
+  "genres": [
+    "indie-rock",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Reading shoegaze/dream-pop band; Souvlaki (1993) fixed gentle vocals inside thick guitar fog as the softer Creation-era pole opposite MBV’s abrasion.",
+    "zh": "雷丁 shoegaze/dream-pop；Souvlaki（1993）把轻人声放进厚吉他雾，作为 Creation 时期相对 MBV 摩擦感的柔软一极。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Alison",
+      "year": 1993
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Neil Halstead / Rachel Goswell shoegaze; Alison is the Souvlaki entry.",
+    "zh": "Neil Halstead / Rachel Goswell 的 shoegaze；Alison 是 Souvlaki 入口。"
+  },
+  "body": {
+    "en": "Formed 1989. Just for a Day and Souvlaki (with some Brian Eno input) use delay/reverb stacks, whispered dual vocals, and mid-tempo drums rather than noise assault.\n\nAlison (1993) is the listed track. 2010s reunion albums confirmed a lasting template for dream-pop revival bands citing UK shoegaze.",
+    "zh": "1989 年组建。Just for a Day 与 Souvlaki（含部分 Brian Eno 参与）用延时/混响堆叠、低语双人声与中速鼓，而非噪声突击。\n\nAlison（1993）是列出曲目。2010 年代重组专辑坐实了英国 shoegaze 被 dream-pop 复兴乐队持续引用的模板。"
+  }
+}

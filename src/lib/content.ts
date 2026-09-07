@@ -45,6 +45,7 @@ import {
   getSharedMemberEdgesFromJson,
   getTropeFromJson,
 } from "@/lib/content-json";
+import { withBandImage, withPersonImage } from "@/lib/media";
 
 const dbAllEras = memoAsync(getAllErasFromDb);
 const dbEra = memoByKeyAsync(getEraFromDb);
@@ -73,13 +74,13 @@ export async function getEra(slug: string): Promise<Era | undefined> {
 }
 
 export async function getAllBands(): Promise<Band[]> {
-  if (useDatabase()) return dbAllBands();
-  return getAllBandsFromJson();
+  const bands = useDatabase() ? await dbAllBands() : getAllBandsFromJson();
+  return bands.map(withBandImage);
 }
 
 export async function getBand(slug: string): Promise<Band | undefined> {
-  if (useDatabase()) return dbBand(slug);
-  return getBandFromJson(slug);
+  const band = useDatabase() ? await dbBand(slug) : getBandFromJson(slug);
+  return band ? withBandImage(band) : undefined;
 }
 
 export async function getBandsByEra(eraSlug: string): Promise<Band[]> {
@@ -124,13 +125,13 @@ export async function getDecisiveBands(): Promise<Band[]> {
 }
 
 export async function getAllPeople(): Promise<Person[]> {
-  if (useDatabase()) return dbAllPeople();
-  return getAllPeopleFromJson();
+  const people = useDatabase() ? await dbAllPeople() : getAllPeopleFromJson();
+  return people.map(withPersonImage);
 }
 
 export async function getPerson(slug: string): Promise<Person | undefined> {
-  if (useDatabase()) return dbPerson(slug);
-  return getPersonFromJson(slug);
+  const person = useDatabase() ? await dbPerson(slug) : getPersonFromJson(slug);
+  return person ? withPersonImage(person) : undefined;
 }
 
 export async function getHubPeople(): Promise<Person[]> {
@@ -150,42 +151,94 @@ export async function getPeopleForBand(bandSlug: string): Promise<Person[]> {
   );
 }
 
+/** In local dev, editorial JSON is source of truth (avoids stale DB memo / Aiven blips). */
+function preferEditorialJson(): boolean {
+  return process.env.NODE_ENV !== "production";
+}
+
 export async function getAllGuides(): Promise<GuideArticle[]> {
-  if (useDatabase()) return dbAllGuides();
+  if (preferEditorialJson()) return getAllGuidesFromJson();
+  if (useDatabase()) {
+    try {
+      const rows = await dbAllGuides();
+      if (rows.length > 0) return rows;
+    } catch {
+      /* fall through to JSON */
+    }
+  }
   return getAllGuidesFromJson();
 }
 
 export async function getGuide(
   slug: string,
 ): Promise<GuideArticle | undefined> {
-  if (useDatabase()) return dbGuide(slug);
+  if (preferEditorialJson()) return getGuideFromJson(slug);
+  if (useDatabase()) {
+    try {
+      const row = await dbGuide(slug);
+      if (row) return row;
+    } catch {
+      /* fall through */
+    }
+  }
   return getGuideFromJson(slug);
 }
 
 export async function getAllTropes(): Promise<Trope[]> {
+  if (preferEditorialJson()) return getAllTropesFromJson();
   if (useDatabase()) {
-    const tropes = await dbAllTropes();
-    return tropes.sort((a, b) =>
-      (typeof a.title === "string" ? a.title : a.title.en).localeCompare(
-        typeof b.title === "string" ? b.title : b.title.en,
-      ),
-    );
+    try {
+      const tropes = await dbAllTropes();
+      if (tropes.length > 0) {
+        return tropes.sort((a, b) =>
+          (typeof a.title === "string" ? a.title : a.title.en).localeCompare(
+            typeof b.title === "string" ? b.title : b.title.en,
+          ),
+        );
+      }
+    } catch {
+      /* fall through */
+    }
   }
   return getAllTropesFromJson();
 }
 
 export async function getTrope(slug: string): Promise<Trope | undefined> {
-  if (useDatabase()) return dbTrope(slug);
+  if (preferEditorialJson()) return getTropeFromJson(slug);
+  if (useDatabase()) {
+    try {
+      const row = await dbTrope(slug);
+      if (row) return row;
+    } catch {
+      /* fall through */
+    }
+  }
   return getTropeFromJson(slug);
 }
 
 export async function getAllLives(): Promise<LiveEvent[]> {
-  if (useDatabase()) return dbAllLives();
+  if (preferEditorialJson()) return getAllLivesFromJson();
+  if (useDatabase()) {
+    try {
+      const rows = await dbAllLives();
+      if (rows.length > 0) return rows;
+    } catch {
+      /* fall through */
+    }
+  }
   return getAllLivesFromJson();
 }
 
 export async function getLive(slug: string): Promise<LiveEvent | undefined> {
-  if (useDatabase()) return dbLive(slug);
+  if (preferEditorialJson()) return getLiveFromJson(slug);
+  if (useDatabase()) {
+    try {
+      const row = await dbLive(slug);
+      if (row) return row;
+    } catch {
+      /* fall through */
+    }
+  }
   return getLiveFromJson(slug);
 }
 

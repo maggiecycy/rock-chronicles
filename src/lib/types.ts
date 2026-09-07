@@ -61,6 +61,8 @@ export interface Person {
   body: Localized;
   tenures: PersonTenure[];
   relatedPeople?: string[];
+  /** Optional portrait (from content/media-index.json overlay). */
+  image?: EntityImage;
 }
 
 export interface EssentialTrack {
@@ -95,6 +97,19 @@ export interface NarrativeChapter {
   soundGenre?: string;
 }
 
+/** Wikimedia / self-hosted editorial image with attribution. */
+export interface EntityImage {
+  /** Site path under /public, e.g. /media/bands/led-zeppelin.jpg */
+  src: string;
+  alt: Localized;
+  /** Human-readable credit line shown under the image */
+  credit: string;
+  /** Short license label, e.g. CC BY-SA 4.0 or Public domain */
+  license: string;
+  /** Commons file page or other provenance URL */
+  sourceUrl: string;
+}
+
 export interface Band {
   name: string;
   slug: string;
@@ -118,6 +133,8 @@ export interface Band {
   interviewQuotes?: InterviewQuote[];
   narrative?: NarrativeChapter[];
   lineupVersions?: LineupVersion[];
+  /** Optional hero image (from content/media-index.json overlay). */
+  image?: EntityImage;
   /**
    * Fused “firsts” card — not a separate encyclopedia.
    * Landmark debut track + genres this act helped open + note.

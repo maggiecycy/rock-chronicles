@@ -1,19 +1,19 @@
 {
   "name": {
-    "en": "2010s+ Indie & Modern Rock",
-    "zh": "2010s+ 独立与现代摇滚"
+    "en": "Post-Rock, Psych & Now",
+    "zh": "后摇滚、迷幻与当下"
   },
   "slug": "2010s-indie-modern",
   "decade": "2010s+",
-  "years": "2010–now",
-  "order": 7,
+  "years": "1998–now",
+  "order": 9,
   "summary": {
-    "en": "Streaming shatters scenes—but the riff still finds a way to hypnotize.",
-    "zh": "流媒体把场景打碎——但 riff 仍会找到催眠你的办法。"
+    "en": "Streaming fragments scenes; guitar records still chart via psych, post-punk, and festival indie.",
+    "zh": "流媒体打碎场景；迷幻、后朋克与音乐节 Indie 仍让吉他唱片上榜。"
   },
   "sound": {
-    "en": "Bedroom psych, festival scale, post-punk reportage",
-    "zh": "卧室迷幻、音乐节尺度、后朋克纪实"
+    "en": "Bedroom psych production, festival PA scale, post-punk reportage vocals",
+    "zh": "卧室迷幻制作、音乐节 PA 尺度、后朋克纪实人声"
   },
   "anchorBands": [
     "tame-impala",
@@ -30,7 +30,11 @@
     "alternative"
   ],
   "body": {
-    "en": "Playlists replace record-store clerks, yet guitar records keep sneaking into headphones. Tame Impala turns solitude into dancefloor hypnosis. Fontaines D.C. prove post-punk cadence still carries city news. Radiohead's children inherit permission to mutate.\n\nModern rock on this site isn't nostalgia cosplay. It's proof the axis can bend without snapping—as long as someone still cares how the drum hits the chest.",
-    "zh": "播放列表取代了唱片店店员，吉他唱片却仍溜进耳机。Tame Impala 把独处做成舞池催眠。Fontaines D.C. 证明后朋克节奏仍能运送城市新闻。Radiohead 的孩子们继承了变种的许可。\n\n本站的当代摇滚不是复古扮演。它证明主轴可以弯而不断——只要还有人在乎鼓如何敲进胸口。"
+    "en": "Playlists replace record-store clerks; guitar albums still reach headphones via Bandcamp, Spotify, and festival bills. Tame Impala builds solo psych with drum machines and layered guitars. Fontaines D.C. show post-punk cadence still carries city reportage. Bands after Radiohead inherit permission to mutate form without quitting guitars.\n\nModern rock here is not nostalgia cosplay. It tracks how the format adapts to streaming economics while drums and riffs still lead the mix.",
+    "zh": "播放列表取代唱片店店员；吉他专辑仍经 Bandcamp、Spotify 与音乐节进入耳机。Tame Impala 用鼓机与叠层吉他做独奏迷幻。Fontaines D.C. 证明后朋克节奏仍能运载城市纪实。Radiohead 之后的乐队继承了改变曲式、不放弃吉他的许可。\n\n本站的当代摇滚不是复古扮演。它追踪格式如何适应流媒体经济，同时鼓与 Riff 仍主导混音。"
+  },
+  "navLabel": {
+    "en": "Now",
+    "zh": "当下"
   }
 }

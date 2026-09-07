@@ -1,0 +1,26 @@
+{
+  "slug": "cobain-tuning-optional",
+  "title": {
+    "en": "Tuning is optional (stomp the DS-1)",
+    "zh": "调音是什么？（踩下 DS-1）"
+  },
+  "summary": {
+    "en": "Mustang + BOSS DS-1: once the distortion is on, pitch is a suggestion.",
+    "zh": "Mustang + BOSS DS-1：失真一开，音准只是建议。"
+  },
+  "body": {
+    "en": "Kurt Cobain's public guitar myth is not boutique tuning discipline—it is drop the pedal, hit power chords, let the song carry the mess.\n\nGrunge jokes about \"out of tune\" miss the point: the record still locks because the riffs and dynamics are the architecture. Noise with a chorus is still a chorus.",
+    "zh": "Kurt Cobain 的公共吉他神话不是精品调音纪律——是踩单块、打 power chord、让歌扛住乱七八糟。\n\n拿「音不准」嘲 grunge 会偏题：碟还能锁住，是因为 riff 和动态才是结构。带副歌的噪声，仍然是副歌。"
+  },
+  "tone": "meme",
+  "examples": [
+    {
+      "bandSlug": "nirvana",
+      "label": "Nirvana",
+      "note": {
+        "en": "DS-1 lore as gear meme and soft-loud grammar.",
+        "zh": "DS-1 传说：器材梗 + soft-loud 语法。"
+      }
+    }
+  ]
+}

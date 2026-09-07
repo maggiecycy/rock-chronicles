@@ -2,14 +2,14 @@
   "name": "Rock 'n' Roll",
   "slug": "rock-n-roll",
   "summary": {
-    "en": "The 1950s blast point: rhythm, youth, and amplifiers meet.",
-    "zh": "1950s 的爆炸点：节奏、青春与扩音器的相遇。"
+    "en": "1950s format: blues–country–R&B compressed into three-minute singles.",
+    "zh": "1950s 格式：蓝调–乡村–R&B 压缩成三分钟单曲。"
   },
-  "eraFocus": "1950s Roots",
+  "eraFocus": "Roots & Rock'n'Roll",
   "representativeBands": [],
   "body": {
-    "en": "Rock 'n' Roll compresses Blues, Country, and R&B into three-minute shockwaves. It defines the band as a youth-culture vehicle and gives the British Invasion a vocabulary to reinvent.",
-    "zh": "Rock 'n' Roll 把 Blues、Country 与 R&B 压缩成三分钟的冲击波。它定义了「乐队作为青年文化载体」的模板，也为 British Invasion 提供了可重新发明的语汇。"
+    "en": "Rock 'n' Roll merges Blues, Country, and R&B into short, danceable records aimed at teens. It sets the guitar–bass–drums band as a youth product and hands the British Invasion a reusable song and riff vocabulary.",
+    "zh": "Rock 'n' Roll 把 Blues、Country 与 R&B 合成面向青少年的短舞曲唱片。它把吉他–贝斯–鼓乐队定为青年产品，并为 British Invasion 提供可复用的歌曲与 Riff 语汇。"
   },
   "pioneerBands": [
     "chuck-berry",

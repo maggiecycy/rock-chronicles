@@ -2,16 +2,16 @@
   "slug": "genre-family-intuition",
   "order": 3,
   "title": {
-    "en": "Genres are family names, not blood tests",
-    "zh": "流派是姓氏，不是验血报告"
+    "en": "Genres are labels, not purity tests",
+    "zh": "流派是标签，不是纯度测验"
   },
   "summary": {
-    "en": "Stop asking \"is this really metal?\" Start asking \"who does this sound related to at Thanksgiving?\"",
-    "zh": "别再问「这到底算不算金属？」改问：「感恩节饭桌上，它会跟谁坐一桌？」"
+    "en": "Stop asking \"is this really metal?\" Ask which records and scenes it sits next to.",
+    "zh": "别问「这算不算正统金属」。问它和哪些唱片、哪些场景坐一桌。"
   },
   "body": {
-    "en": "Genre tags exist because humans panic without drawers. The drawers are useful. The purity tests are not.\n\nThink relatives. Blues and rock & roll are the grandparents who invented the household jokes—the riff, the swagger, the idea that a guitar can talk back. Psychedelic cousins stay up too late and rearrange the furniture. Prog aunts bring charts to dinner and refuse to end the story in three minutes. Hard rock uncles turn the amp toward the wall just to feel the air move. Metal builds a whole clubhouse in the backyard with darker jokes and tighter rules. Punk kicks the door in, throws out half the furniture, then post-punk quietly puts a lamp back—but leaves it flickering. Grunge shows up looking like it slept in the car. Britpop shows up dressed for the pub photograph. Indie keeps changing outfits while swearing it hates outfits.\n\nWhen a band sits between chairs—Radiohead, The Clash, Tame Impala—that's not a bug. That's how families actually work.\n\nSo use the Genre Map like a palate, not a courtroom. Branched means someone left home. Influenced means they borrowed the good recipe. Fused means the cousins got married and the music got complicated in a delicious way. If two tags fight in your head, play the landmark track on the band page and let your ears cast the deciding vote.",
-    "zh": "人之所以发明流派标签，是因为没有抽屉会慌。抽屉有用。纯度测验没用。\n\n用亲戚来想。Blues 和 rock & roll 是发明家里那套笑话的爷爷奶奶——riff、那股拽、以及「吉他可以顶嘴」。迷幻表亲熬夜把家具重新摆过。Prog 姑妈带谱来吃饭，坚决不让故事三分钟结束。Hard rock 叔叔把音箱朝墙，就为了感觉空气在动。Metal 在后院搭了整间俱乐部，笑话更黑，规矩更紧。Punk 踹门进来，扔了一半家具；后朋克又悄悄把灯放回去——但让它一直闪。Grunge 来的时候像在车里睡过。Britpop 穿得像要拍酒馆合影。Indie 一直在换衣服，同时发誓自己讨厌衣服。\n\n有的乐队卡在两把椅子之间——Radiohead、The Clash、Tame Impala——这不是故障。亲戚本来就这样。\n\n所以把 Genre Map 当味觉，别当法庭。「裂变」是有人离家；「影响」是偷了好菜谱；「融合」是表亲结婚了，音乐美味地变复杂。脑子里两个标签互殴时，去乐队页听 landmark 那首，让耳朵投决定票。"
+    "en": "Genre tags exist because listeners need drawers. The drawers help. Purity tests do not.\n\nRough map: blues and rock & roll supply the basic riff vocabulary. Psychedelic stretches form and studio tricks. Prog keeps long structures and odd meters. Hard rock turns amps up and keeps songs relatively direct. Metal tightens rules, speed, and tone. Punk cuts length and technique; post-punk puts atmosphere and art-school methods back in. Grunge mixes punk dynamics with heavy riffs. Britpop puts UK guitar bands back on the charts. Indie is a shifting umbrella for non-major, guitar-led scenes.\n\nBands that sit between tags—Radiohead, The Clash, Tame Impala—are normal. Scenes leak.\n\nUse the Genre Map as orientation, not a courtroom. Branched means a sub-style left the parent. Influenced means borrowing. Fused means two families mix on the same record. If two tags conflict, play the landmark track on the band page and decide with your ears.",
+    "zh": "流派标签存在，是因为听众需要抽屉。抽屉有用。纯度测验没用。\n\n粗分：Blues 和 rock & roll 提供基础 riff 语汇。迷幻拉长曲式和录音室手法。Prog 保留长结构和怪拍。Hard rock 把音箱拧大、歌仍相对直接。Metal 收紧规则、速度和音色。Punk 砍长度和技术；后朋克把氛围和艺术学院手法加回来。Grunge 用朋克动态配重型 riff。Britpop 把英国吉他乐队送回榜单。Indie 是非主流吉他场景的滑动伞称。\n\n卡在标签之间的乐队——Radiohead、The Clash、Tame Impala——很正常。场景会渗漏。\n\nGenre Map 用来定向，不当法庭。「裂变」是子风格离开母体；「影响」是借用；「融合」是同一张盘上两家人混在一起。两个标签打架时，去乐队页听 landmark，用耳朵定。"
   },
   "relatedGenreSlugs": [
     "hard-rock",

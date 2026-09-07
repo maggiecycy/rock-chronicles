@@ -1,0 +1,46 @@
+{
+  "name": {
+    "en": "Punk & Post-Punk",
+    "zh": "朋克与后朋克"
+  },
+  "slug": "punk-postpunk",
+  "decade": "1970s–1980s",
+  "years": "1976–1989",
+  "order": 4,
+  "summary": {
+    "en": "Short songs and DIY labels reset the bar; post-punk rebuilds with bass, space, and art-school rigor.",
+    "zh": "短歌与 DIY 厂牌重置门槛；后朋克用贝斯、空间感与艺术学院手法重建。"
+  },
+  "sound": {
+    "en": "Fast downstrokes, dry snare, cold basslines, early drum machines",
+    "zh": "快速下拨、干军鼓、冷贝斯线、早期鼓机"
+  },
+  "anchorBands": [
+    "sex-pistols",
+    "the-clash",
+    "joy-division",
+    "the-police",
+    "talking-heads"
+  ],
+  "alsoNotable": [
+    "Ramones",
+    "The Cure",
+    "The Smiths",
+    "Pixies",
+    "Sonic Youth",
+    "Depeche Mode"
+  ],
+  "genres": [
+    "punk",
+    "post-punk",
+    "alternative"
+  ],
+  "body": {
+    "en": "Punk is not short metal. From ~1976 in New York and London it cuts song length, rejects virtuoso solos, and favors cheap gear and independent labels. Post-punk keeps the urgency but adds space, funk/reggae rhythm, synths, and art-school arrangement.\n\nOn this chronicle the era sits apart from metal: same years, different scenes, different production goals.",
+    "zh": "朋克不是短金属。约 1976 年起，纽约与伦敦把歌曲缩短，拒绝炫技 Solo，偏向廉价器材与独立厂牌。后朋克保留紧迫感，但加入空间感、Funk/Reggae 节奏、合成器与艺术学院式编曲。\n\n在本编年史里，这个年代与金属分开：同一年份，不同场景，不同制作目标。"
+  },
+  "navLabel": {
+    "en": "Punk",
+    "zh": "朋克"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Red Hot Chili Peppers",
+  "slug": "red-hot-chili-peppers",
+  "formed": 1983,
+  "origin": "Los Angeles, USA",
+  "primaryEra": "1990s-grunge-alt",
+  "genres": [
+    "alternative",
+    "hard-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "LA funk-rock band; Blood Sugar Sex Magik (1991) and Californication (1999) scaled slap bass and Frusciante guitar to global alternative radio.",
+    "zh": "洛杉矶 funk-rock；Blood Sugar Sex Magik（1991）与 Californication（1999）把打点贝斯与 Frusciante 吉他扩到全球 alternative 电台。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Californication",
+      "year": 1999
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Kiedis / Flea / Frusciante funk-alt; Californication is the late-90s mass single.",
+    "zh": "Kiedis / Flea / Frusciante 的 funk-alt；Californication 是 90 年代末大众单曲。"
+  },
+  "body": {
+    "en": "Formed 1983. Mother’s Milk and Blood Sugar Sex Magik (Rick Rubin) are the hard-funk peak; Californication and By the Way add melodic ballad craft after lineup churn.\n\nCalifornication (1999) is the track listed here. The musical constants: Flea’s bass as lead instrument, Chad Smith’s pocket, Frusciante’s clean-to-crunch chord voicings.",
+    "zh": "1983 年组建。Mother’s Milk 与 Blood Sugar Sex Magik（Rick Rubin）是硬 funk 高峰；Californication 与 By the Way 在阵容动荡后加入旋律谣曲工艺。\n\nCalifornication（1999）是此处列出曲目。音乐常量：Flea 贝斯当主奏、Chad Smith 的口袋感、Frusciante 从干净到 crunch 的和弦声部。"
+  }
+}

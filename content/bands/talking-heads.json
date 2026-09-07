@@ -1,0 +1,35 @@
+{
+  "name": "Talking Heads",
+  "slug": "talking-heads",
+  "formed": 1975,
+  "origin": "New York, USA",
+  "primaryEra": "punk-postpunk",
+  "genres": [
+    "post-punk",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "CBGB-origin art-funk band; Remain in Light (1980, Eno) fused polyrhythm, looped guitar, and Byrne’s vocal into new-wave’s densest studio peak.",
+    "zh": "源自 CBGB 的 art-funk；Remain in Light（1980，Eno）把复合节奏、循环吉他与 Byrne 人声做成 new wave 最密的录音室高峰。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Once in a Lifetime",
+      "year": 1980
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Byrne / Harrison / Weymouth / Frantz new wave; Once in a Lifetime is the mass entry.",
+    "zh": "Byrne / Harrison / Weymouth / Frantz 的 new wave；Once in a Lifetime 是大众入口。"
+  },
+  "body": {
+    "en": "Formed 1975. Talking Heads: 77 and More Songs… established nervous funk; Fear of Music and Remain in Light expanded African/American rhythm collaboration and studio layering.\n\nOnce in a Lifetime (1980) is the listed track. They show post-punk can be dance music and art school without glam costume—groove and lyric dissociation as method.",
+    "zh": "1975 年组建。Talking Heads: 77 与 More Songs… 确立紧张 funk；Fear of Music 与 Remain in Light 扩展非裔/美洲节奏合作与录音室分层。\n\nOnce in a Lifetime（1980）是列出曲目。证明后朋克可以是舞曲与艺术学院产物而无 glam 戏服——groove 与歌词抽离即方法。"
+  }
+}

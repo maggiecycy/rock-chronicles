@@ -1,0 +1,34 @@
+{
+  "slug": "prog-odd-meter",
+  "title": {
+    "en": "If it isn't in 13/8, is it even a song?",
+    "zh": "没有 13/8 算乐曲吗？"
+  },
+  "summary": {
+    "en": "Odd meters, 18-minute keyboard solos, space-philosophy lyrics—prog gatekeeping as sport.",
+    "zh": "怪拍号、18 分钟键盘 Solo、太空哲学歌词——前摇门禁当运动。"
+  },
+  "body": {
+    "en": "Prog fans joke (half-serious) that a track without weird time signatures, a thesis-length solo, and lyrics about cosmic systems does not count as music—only as \"a song.\"\n\nKing Crimson and Rush built the stereotype with actual craft. Use the joke to spot the flex; then listen for arrangement, not just the math.",
+    "zh": "前摇粉半开玩笑：没有怪拍号、没有论文长度 Solo、没有宇宙制度歌词，那不叫乐曲——只叫「一首歌」。\n\nKing Crimson 和 Rush 用真本事养出这刻板印象。用这梗认出炫耀；然后听编曲，别只听算术。"
+  },
+  "tone": "meme",
+  "examples": [
+    {
+      "bandSlug": "king-crimson",
+      "label": "King Crimson",
+      "note": {
+        "en": "21st Century Schizoid Man as the starter pack.",
+        "zh": "21st Century Schizoid Man：入门礼包。"
+      }
+    },
+    {
+      "bandSlug": "rush",
+      "label": "Rush",
+      "note": {
+        "en": "Geddy / Alex / Neil: virtuosity as public brand.",
+        "zh": "Geddy / Alex / Neil：炫技当公共品牌。"
+      }
+    }
+  ]
+}

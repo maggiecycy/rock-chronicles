@@ -1,0 +1,34 @@
+{
+  "name": "Iron Maiden",
+  "slug": "iron-maiden",
+  "formed": 1975,
+  "origin": "London, UK",
+  "primaryEra": "1980s-metal",
+  "genres": [
+    "heavy-metal"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "NWOBHM flagship; the Dickinson–Murray–Smith twin-guitar era and Number of the Beast (1982) set gallop rhythm and concept-lyric metal as global touring grammar.",
+    "zh": "NWOBHM 旗舰；Dickinson–Murray–Smith 双吉他时期与 Number of the Beast（1982）把疾驰节奏与概念歌词金属做成全球巡语法。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "The Trooper",
+      "year": 1983
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "British heavy metal; The Trooper exemplifies gallop riff and dual-lead writing.",
+    "zh": "英国重金属；The Trooper 示范疾驰 riff 与双主音写作。"
+  },
+  "body": {
+    "en": "Formed London 1975 by Steve Harris. Breakthrough is early-1980s: Killers, Number of the Beast, Piece of Mind—Harris’s eighth-note bass gallop, twin leads, Bruce Dickinson’s operatic mid range.\n\nThe Trooper (1983) is the textbook track. Eddie mascot and long tours matter as brand tech; musically they standardize New Wave of British Heavy Metal for arenas without thrash speed.",
+    "zh": "1975 年由 Steve Harris 于伦敦组建。突破在 1980 年代初：Killers、Number of the Beast、Piece of Mind——Harris 的八分音符贝斯疾驰、双主音、Bruce Dickinson 的歌剧式中音区。\n\nThe Trooper（1983）是教科书曲目。Eddie 吉祥物与长巡演是品牌技术；音乐上他们把 NWOBHM 标准化进体育场，却不走 thrash 速度。"
+  }
+}

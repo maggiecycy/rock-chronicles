@@ -10,16 +10,16 @@
   ],
   "hub": true,
   "shortBio": {
-    "en": "The drummer who walked out of Nirvana's silence and rebuilt as a chorus machine—then kept crashing into other rooms.",
-    "zh": "从 Nirvana 的沉默里走出来的鼓手，重建成副歌机器——还不断撞进别的房间。"
+    "en": "Nirvana drummer (1990–94) who became Foo Fighters frontman and later drummed in Them Crooked Vultures.",
+    "zh": "Nirvana 鼓手（1990–94），后任 Foo Fighters 主唱，并在 Them Crooked Vultures 司鼓。"
   },
   "whyHub": {
-    "en": "Connects Nirvana → Foo Fighters → Them Crooked Vultures: role change as plot twist.",
-    "zh": "串起 Nirvana → Foo Fighters → Them Crooked Vultures：角色转换即剧情反转。"
+    "en": "Connects Nirvana → Foo Fighters → Them Crooked Vultures: role change (drums to frontman) as career structure.",
+    "zh": "连接 Nirvana → Foo Fighters → Them Crooked Vultures：角色转换（鼓手到主唱）即职业结构。"
   },
   "body": {
-    "en": "Grohl is the chronicle's favorite proof that people outlive logos. Behind the kit he helps lock Nirvana's peak trio; out front he turns grief and surplus energy into Foo Fighters choruses; with Homme and Jones he moonlights in Them Crooked Vultures like Hard Rock karaoke for gods.\n\nFollow the tenures: the graph edges write themselves.",
-    "zh": "Grohl 是编年史最爱的证据：人比 logo 活得长。鼓手位上他锁住 Nirvana 巅峰三人组；台前他把悲伤与过剩能量写成 Foo Fighters 副歌；与 Homme、Jones 一起在 Them Crooked Vultures 里，像诸神的 Hard Rock 卡拉 OK。\n\n跟着 tenure 走：图上的边会自己长出来。"
+    "en": "Born 1969. Locks Nirvana’s peak trio with Cobain/Novoselic; after 1994 builds Foo Fighters from solo demos into a touring alternative/hard-rock band; 2009–10 joins Homme and John Paul Jones in Them Crooked Vultures.\n\nHub value is personnel flow across logos. Musical constants: hard kick as drummer, stacked choruses as singer.",
+    "zh": "1969 年生。与 Cobain/Novoselic 锁定 Nirvana 巅峰三人组；1994 年后从独唱 demo 建成 Foo Fighters 巡演 alternative/hard-rock 乐队；2009–10 与 Homme、John Paul Jones 组成 Them Crooked Vultures。\n\n枢纽价值是跨 logo 的人事流动。音乐常量：司鼓时的硬底鼓，主唱时的堆叠副歌。"
   },
   "tenures": [
     {
@@ -29,8 +29,8 @@
       "from": 1990,
       "to": 1994,
       "note": {
-        "en": "Peak trio thunder.",
-        "zh": "巅峰三人组雷霆。"
+        "en": "Peak trio drums, 1990–94.",
+        "zh": "巅峰三人组鼓手，1990–94。"
       }
     },
     {
@@ -47,8 +47,8 @@
       "from": 2009,
       "to": 2010,
       "note": {
-        "en": "Supergroup moonlighting.",
-        "zh": "超级组合客串。"
+        "en": "Supergroup drums/vocals, short run.",
+        "zh": "超级组合鼓/人声，短周期。"
       }
     }
   ],

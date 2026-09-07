@@ -3,9 +3,10 @@
 import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { motion, useMotionValueEvent, useScroll, useSpring } from "framer-motion";
-import { useLocale } from "@/i18n/LocaleProvider";
-import { loc } from "@/i18n/config";
 import type { Band, Era } from "@/lib/types";
+import { eraNavLabel } from "@/lib/era-nav";
+import { loc } from "@/i18n/config";
+import { useLocale } from "@/i18n/LocaleProvider";
 
 interface TimelineRailProps {
   eras: Era[];
@@ -38,7 +39,7 @@ function EraCard({
         }`}
       />
       <p className="text-xs font-medium uppercase tracking-wider text-accent">
-        {era.decade}
+        {loc(eraNavLabel(era), locale)}
       </p>
       <h2 className="font-display mt-2 text-2xl font-semibold leading-tight sm:text-3xl">
         <Link
@@ -85,12 +86,13 @@ function EraCard({
 }
 
 export function TimelineRail({ eras, bandsByEra }: TimelineRailProps) {
-  const { t } = useLocale();
+  const { t, locale } = useLocale();
   const scrollerRef = useRef<HTMLDivElement>(null);
   const dragRef = useRef({ active: false, startX: 0, scrollLeft: 0 });
   const [progress, setProgress] = useState(0);
   const [activeIndex, setActiveIndex] = useState(0);
-  const activeDecade = eras[activeIndex]?.decade ?? eras[0]?.decade ?? "";
+  const activeEra = eras[activeIndex] ?? eras[0];
+  const activeNav = activeEra ? loc(eraNavLabel(activeEra), locale) : "";
 
   const { scrollXProgress } = useScroll({ container: scrollerRef });
   const smoothProgress = useSpring(scrollXProgress, {
@@ -185,7 +187,7 @@ export function TimelineRail({ eras, bandsByEra }: TimelineRailProps) {
           <p className="text-xs font-medium uppercase tracking-[0.2em] text-muted">
             {t.timeline.freeScroll}
           </p>
-          <p className="font-display mt-1 text-2xl font-semibold">{activeDecade}</p>
+          <p className="font-display mt-1 text-2xl font-semibold">{activeNav}</p>
         </div>
         <div className="flex gap-2">
           <button
@@ -220,7 +222,7 @@ export function TimelineRail({ eras, bandsByEra }: TimelineRailProps) {
                   active ? "bg-ink text-paper" : "text-muted hover:text-ink"
                 }`}
               >
-                {era.decade}
+                {loc(eraNavLabel(era), locale)}
               </button>
             );
           })}

@@ -8,16 +8,16 @@
   ],
   "hub": true,
   "shortBio": {
-    "en": "Black Sabbath's original howl—then a solo brand that outlived one lineup version.",
-    "zh": "Black Sabbath 的原始嚎叫——随后独奏品牌活过某一个阵容版本。"
+    "en": "Black Sabbath’s original vocalist; solo career after 1979 firing, with later Sabbath reunions.",
+    "zh": "Black Sabbath 原主唱；1979 被撤后展开独唱生涯，并有后期 Sabbath 重聚。"
   },
   "whyHub": {
-    "en": "The cleanest textbook of band → solo flow: fired from the founding Metal lineup, then bigger alone.",
-    "zh": "乐队→独奏流动的教科书：被金属创始阵容开除，随后独奏更大。"
+    "en": "Textbook band → solo flow: removed from founding metal lineup, then larger as a solo brand.",
+    "zh": "教科书式乐队 → 独唱流动：离开创始金属阵容后，独唱品牌体量更大。"
   },
   "body": {
-    "en": "Ozzy makes lineup versions visceral. Sabbath's Ozzy-era peak is one object; the Dio-era Sabbath is another; Ozzy solo is a third career graph. Person pages exist so that story is not smashed into a single band blob.",
-    "zh": "Ozzy 让阵容版本变得可感。Sabbath 的 Ozzy 时期是一个对象；Dio 时期是另一个；Ozzy 独奏是第三张履历图。人物页存在，就是为了别把故事揉进一个乐队团块。"
+    "en": "Born 1948, Birmingham. Ozzy-era Sabbath (1970–78 peak records) is one object; Dio-era Sabbath is another; Blizzard of Ozz–era solo with Randy Rhoads is a third graph.\n\nPerson pages exist so lineup versions stay comparable. Nasal lead and stage persona are constants; songwriting partners change.",
+    "zh": "1948 年生于伯明翰。Ozzy 时期 Sabbath（1970–78 峰值唱片）是一对象；Dio 时期 Sabbath 是另一对象；与 Randy Rhoads 的 Blizzard of Ozz 独唱是第三图谱。\n\n人物页存在是为了让阵容版本可比较。鼻音主唱与舞台人设是常量；写作搭档更换。"
   },
   "tenures": [
     {
@@ -27,8 +27,8 @@
       "from": 1968,
       "to": 1979,
       "note": {
-        "en": "Founding Metal peak version.",
-        "zh": "金属创始巅峰版本。"
+        "en": "Founding Ozzy-era metal peak.",
+        "zh": "创始 Ozzy 时期金属巅峰。"
       }
     },
     {
@@ -45,7 +45,7 @@
       "to": 2017,
       "note": {
         "en": "Reunions / late chapters.",
-        "zh": "重组与后期章节。"
+        "zh": "重聚与后期章节。"
       }
     }
   ],

@@ -1,8 +1,8 @@
 {
   "slug": "msg-zeppelin-1973",
   "title": {
-    "en": "Zeppelin at the Garden",
-    "zh": "Zeppelin 花园广场"
+    "en": "Led Zeppelin at Madison Square Garden 1973",
+    "zh": "Led Zeppelin · 花园广场 1973"
   },
   "year": 1973,
   "venue": {
@@ -10,12 +10,12 @@
     "zh": "纽约麦迪逊广场花园"
   },
   "summary": {
-    "en": "Hard Rock fills a sports cathedral and somehow still feels dangerous.",
-    "zh": "Hard Rock 填满一座体育教堂，却仍危险。"
+    "en": "Hard rock at sports-arena scale. Peak touring Zeppelin, later tied to The Song Remains the Same.",
+    "zh": "Hard rock 做到体育场馆规模。巡演巅峰期 Zeppelin，后来绑上 The Song Remains the Same。"
   },
   "whyEpic": {
-    "en": "Madison Square Garden nights from this era freeze the Zeppelin template: stop-start dynamics, Bonham weather, Plant sailing screams across concrete. The Song Remains the Same lore turns a tour into scripture—love it or side-eye it, the scale sticks.",
-    "zh": "这个时期的花园广场之夜冻住了 Zeppelin 模板：骤停骤起、Bonham 的天气、Plant 的嚎掠过水泥。The Song Remains the Same 传说把巡演写成经文——爱或侧目，尺度都粘住了。"
+    "en": "MSG shows from this tour freeze the Zeppelin template: stop-start dynamics, Bonham's drums, Plant's high vocals in a concrete room. The Song Remains the Same turns the tour into lasting footage. Agree or not with the myth-making—the scale is the point.",
+    "zh": "这轮巡演的花园广场场次冻住了 Zeppelin 模板：骤停骤起、Bonham 的鼓、Plant 在水泥空间里的高音。《The Song Remains the Same》把巡演做成长期影像。认不认神话包装另说——规模本身是重点。"
   },
   "bandSlugs": [
     "led-zeppelin"

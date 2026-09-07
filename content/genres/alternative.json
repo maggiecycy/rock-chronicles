@@ -2,17 +2,17 @@
   "name": "Alternative",
   "slug": "alternative",
   "summary": {
-    "en": "A catch-all for guitar rock outside the mainstream—then the mainstream itself.",
-    "zh": "主流之外的吉他摇滚集合名词，后成为主流本身。"
+    "en": "College/indie guitar rock that became the nineties mainstream category.",
+    "zh": "学院/独立吉他摇滚，后来成为 90 年代主流分类。"
   },
-  "eraFocus": "1990s Grunge & Britpop",
+  "eraFocus": "Grunge & Alternative",
   "representativeBands": [
     "radiohead",
     "nirvana"
   ],
   "body": {
-    "en": "Alternative begins as a radio category and becomes a generation's default rock. From college experiment to hit singles, it holds Radiohead-style evolution and the scattered streams after Grunge.",
-    "zh": "Alternative 起初是电台分类，后来变成一代人的默认摇滚。从学院派实验到电台热单，它包容 Radiohead 式演进，也承接 Grunge 之后的散落支流。"
+    "en": "Alternative starts as a college-radio and indie-press category, then becomes default rock on MTV and modern-rock radio. It covers Radiohead-style album evolution and the scattered streams after Grunge.",
+    "zh": "Alternative 起初是学院电台与独立媒体分类，后来成为 MTV 与现代摇滚电台的默认摇滚。它覆盖 Radiohead 式专辑演进，也承接 Grunge 之后的散落支流。"
   },
   "pioneerBands": [
     "nirvana",

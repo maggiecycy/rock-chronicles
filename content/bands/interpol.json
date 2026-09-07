@@ -1,0 +1,35 @@
+{
+  "name": "Interpol",
+  "slug": "interpol",
+  "formed": 1997,
+  "origin": "New York, USA",
+  "primaryEra": "2000s-revival",
+  "genres": [
+    "post-punk",
+    "indie-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "NYC post-punk revival four-piece; Turn on the Bright Lights (2002) restored Joy Division–echo bass and reverb guitar as early-2000s indie default.",
+    "zh": "纽约后朋克复兴四人组；Turn on the Bright Lights（2002）把 Joy Division 回声式贝斯与混响吉他恢复成 2000 年代初 indie 默认。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Obstacle 1",
+      "year": 2002
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Paul Banks / Carlos Dengler–era gloom rock; Obstacle 1 is the debut-era single.",
+    "zh": "Paul Banks / Carlos Dengler 时期暗色摇滚；Obstacle 1 是出道期单曲。"
+  },
+  "body": {
+    "en": "Formed 1997. Bright Lights and Antics (2004) defined a look and mix: black suits, delayed dual guitars, high-register bass, dry vocal.\n\nObstacle 1 (2002) is the structural sample—tight verse, open chorus, Dengler’s melodic bass. They sit with The Strokes/Yeah Yeah Yeahs on the NYC revival map but aim colder and more mid-tempo than garage peers.",
+    "zh": "1997 年组建。Bright Lights 与 Antics（2004）定义外形与混音：黑西装、双延时吉他、高音域贝斯、干人声。\n\nObstacle 1（2002）是结构样本——紧主歌、开副歌、Dengler 的旋律贝斯。与 The Strokes/Yeah Yeah Yeahs 同在纽约复兴地图，但比 garage 同伴更冷、更中速。"
+  }
+}

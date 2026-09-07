@@ -1,0 +1,34 @@
+{
+  "name": "Judas Priest",
+  "slug": "judas-priest",
+  "formed": 1969,
+  "origin": "Birmingham, UK",
+  "primaryEra": "1980s-metal",
+  "genres": [
+    "heavy-metal"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Birmingham metal band that codified leather-and-studs image plus twin-guitar attack; British Steel (1980) and Painkiller (1990) bookend classic and speed eras.",
+    "zh": "伯明翰金属乐队：编码皮衣铆钉形象与双吉他攻击；British Steel（1980）与 Painkiller（1990）标记经典与速度两端。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Painkiller",
+      "year": 1990
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Halford / Tipton / Downing metal grammar; Painkiller is the late-peak speed document.",
+    "zh": "Halford / Tipton / Downing 金属语法；Painkiller 是后期峰值速度文献。"
+  },
+  "body": {
+    "en": "Formed 1969. Mid/late-1970s albums (Sad Wings, Hell Bent for Leather) and British Steel moved metal from blues-rock residue toward tighter riff songs and Halford’s high register.\n\nPainkiller (1990) with Scott Travis’s double-kick is the extreme update. They are a reference for how heavy metal separated from 1970s hard rock: shorter hooks, chrome production, dual guitar leads as default.",
+    "zh": "1969 年组建。1970 年代中后期专辑（Sad Wings、Hell Bent for Leather）与 British Steel 把金属从蓝调摇滚残余推进到更紧的 riff 歌曲与 Halford 高音区。\n\nPainkiller（1990）加上 Scott Travis 双踩是极端更新。他们是重金属如何脱离 1970 年代 hard rock 的参照：更短钩子、镀铬制作、双吉他主音成默认。"
+  }
+}

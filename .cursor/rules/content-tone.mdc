@@ -1,0 +1,23 @@
+---
+description: Rock Chronicles editorial voice — no AI purple prose
+globs: content/**/*.json,src/i18n/**/*.ts,src/components/**/*.tsx
+alwaysApply: true
+---
+
+# Content tone (Rock Chronicles)
+
+Write like a senior RYM / Zhihu rock reader: precise terms, concrete history/tech, dry or grounded heat — never inflated analogy.
+
+## Forbidden
+- AI metaphors: cosmic soul journeys, tapestries, blazing stars, thunderbolts, warm-coffee comfort, weather-as-meaning by default
+- Pseudo-philosophy and empty hype adjectives stacked without facts
+- Translation-ese Chinese; use fan terms (失真、Riff、延音、概念专集、后朋克、双吉他编排)
+
+## Required
+- Name gear, production, dates, riffs/dynamics/form, or verifiable scene impact
+- Short sentences; EN/ZH both native to music readers
+- When editing `content/**/*.json`, rewrite purple `whyMatters` / `shortBio` / `body` / chapter text to fact-led copy
+
+## Examples
+Bad: "Nirvana was a thunderbolt that shattered the silent sky of pop…"
+Good: "1991年《Smells Like Teen Spirit》：Power Chords + 主歌干净/副歌失真的 Soft-Loud，把华丽金属挤出主流视野，Grunge 上台。"

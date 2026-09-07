@@ -1,0 +1,35 @@
+{
+  "name": "The Doors",
+  "slug": "the-doors",
+  "formed": 1965,
+  "origin": "Los Angeles, USA",
+  "primaryEra": "1960s-british-invasion",
+  "genres": [
+    "psychedelic",
+    "blues"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "LA four-piece without a bass player onstage; The Doors (1967) put organ-led blues-psych and Morrison’s baritone on AM radio.",
+    "zh": "洛杉矶四人组、舞台无贝斯手；同名首专（1967）把管风琴导向的蓝调迷幻与 Morrison 男中音送上 AM 电台。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Light My Fire",
+      "year": 1967
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Morrison / Manzarek psych-rock; Light My Fire is the breakthrough edit.",
+    "zh": "Morrison / Manzarek 的迷幻摇滚；Light My Fire 是突破剪辑版。"
+  },
+  "body": {
+    "en": "Formed 1965. Debut album and Strange Days feature Ray Manzarek’s keyboard bass + organ, Robbie Krieger’s jazz-folk guitar, John Densmore’s jazz-inflected drums.\n\nLight My Fire (1967) is the mass single (radio edit vs album length). They sit in US psychedelia with blues structure and spoken-word passages rather than San Francisco jam culture.",
+    "zh": "1965 年组建。首专与 Strange Days 以 Ray Manzarek 的键盘贝斯+管风琴、Robbie Krieger 的爵士民谣吉他、John Densmore 偏爵士鼓组为骨架。\n\nLight My Fire（1967）是大众单曲（电台剪辑 vs 专辑时长）。位于美国迷幻版图，偏蓝调结构与口语段落，而非旧金山长即兴文化。"
+  }
+}

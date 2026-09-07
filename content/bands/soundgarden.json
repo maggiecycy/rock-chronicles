@@ -1,0 +1,35 @@
+{
+  "name": "Soundgarden",
+  "slug": "soundgarden",
+  "formed": 1984,
+  "origin": "Seattle, USA",
+  "primaryEra": "1990s-grunge-alt",
+  "genres": [
+    "grunge",
+    "hard-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Seattle band that kept 1970s hard-rock riff craft inside grunge; Badmotorfinger (1991) and Superunknown (1994) are the peak documents.",
+    "zh": "西雅图乐队：把 1970 年代 hard-rock riff 工艺留在 grunge 里；Badmotorfinger（1991）与 Superunknown（1994）是峰值文献。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Black Hole Sun",
+      "year": 1994
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Cornell / Thayil heavy grunge; Black Hole Sun is the mass single.",
+    "zh": "Cornell / Thayil 的重型 grunge；Black Hole Sun 是大众单曲。"
+  },
+  "body": {
+    "en": "Formed 1984. Ultramega OK and Louder Than Love preceded the breakthrough; Badmotorfinger and Superunknown paired Chris Cornell’s wide vocal range with Kim Thayil’s odd-time, drop-tuned riffs.\n\nBlack Hole Sun (1994) is the listed hit—psychedelic chord color over a slow groove. They are Seattle’s most explicit Sabbath/Zeppelin riff lineage inside the grunge cohort.",
+    "zh": "1984 年组建。Ultramega OK 与 Louder Than Love 在突破之前；Badmotorfinger 与 Superunknown 把 Chris Cornell 宽音域人声与 Kim Thayil 奇数拍、降调 riff 配对。\n\nBlack Hole Sun（1994）是列出热单——慢 groove 上的迷幻和弦色彩。西雅图 grunge 同辈里，他们的 Sabbath/Zeppelin riff 谱系最明确。"
+  }
+}

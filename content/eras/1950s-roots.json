@@ -1,19 +1,19 @@
 {
   "name": {
-    "en": "1950s Roots",
-    "zh": "1950s 根源"
+    "en": "Roots & Rock'n'Roll",
+    "zh": "根源与摇滚乐"
   },
   "slug": "1950s-roots",
   "decade": "1950s",
-  "years": "1950–1959",
+  "years": "1950–1963",
   "order": 1,
   "summary": {
-    "en": "Electric guitars learn to talk dirty—and teenagers get a soundtrack.",
-    "zh": "电吉他学会说脏话——青少年第一次有了自己的配乐。"
+    "en": "Electric blues, backbeat, and teen radio invent the rock band format.",
+    "zh": "电蓝调、后拍与青少年电台，定下摇滚乐队的基本格式。"
   },
   "sound": {
-    "en": "Twang, backbeat, radio crackle, Saturday-night volume",
-    "zh": "拨弦脆响、后拍、电台沙沙声、周六夜晚的音量"
+    "en": "Twangy single-coil, 2/4 backbeat, AM radio compression, loud small amps",
+    "zh": "单线圈拨弦脆响、2/4 后拍、AM 电台压缩、小功率音箱开大"
   },
   "anchorBands": [
     "chuck-berry",
@@ -30,7 +30,11 @@
     "rock-n-roll"
   ],
   "body": {
-    "en": "Before rock had museums, it had jukeboxes. Blues players bent notes until they hurt; Chuck Berry turned the guitar into a joke you could dance to; Elvis made the whole country argue about hips.\n\nThis decade isn't a polite prologue. It's the spark: amplification + youth + radio. Everything later—British Invasion, metal, punk sneers—still borrows vocabulary invented in these rooms.",
-    "zh": "摇滚还没进博物馆的时候，它待在点唱机里。Blues 把音弯到疼；Chuck Berry 把吉他变成能跳舞的笑话；Elvis 让整个国家为了胯部吵起来。\n\n这十年不是客气的序章。它是火星：扩音 + 青春 + 电台。后面所有东西——英伦入侵、金属、朋克的冷笑——仍在借用这些房间里发明的词汇。"
+    "en": "Rock starts in jukeboxes and small clubs, not museums. Chicago and Memphis electric blues bend notes with tube amps. Chuck Berry writes verse–chorus guitar songs you can dance to. Elvis brings country–R&B hybrids onto national TV in 1956.\n\nThe toolkit is simple: amplified guitar, drums on the backbeat, radio airplay, a teenage market. Later British Invasion, metal, and punk still reuse licks, song lengths, and stage moves from this period.",
+    "zh": "摇滚起步于点唱机和小俱乐部，不是博物馆。芝加哥与孟菲斯电蓝调用电子管音箱弯音。Chuck Berry 写出能跳舞的主歌–副歌吉他歌。Elvis 在 1956 年把乡村与 R&B 的混血推上全美电视。\n\n工具箱很简单：扩音吉他、后拍鼓点、电台放送、青少年市场。后来的英伦入侵、金属与朋克，仍在复用这一时期的 Lick、歌曲长度与舞台动作。"
+  },
+  "navLabel": {
+    "en": "Roots",
+    "zh": "根源"
   }
 }

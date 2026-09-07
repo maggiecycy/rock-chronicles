@@ -9,8 +9,8 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "Odd meters, revolving lineups, no comfort zone: King Crimson is Prog's sharp edge—rock that can cut, not only swell.",
-    "zh": "不对称拍子、不断换人、没有舒适区：King Crimson 是 Prog 的锋刃——摇滚可以割伤人，不只是膨胀。"
+    "en": "Robert Fripp–centered progressive band whose radical lineup versions—from In the Court (1969) to 1980s dual-guitar—treat reformation as method.",
+    "zh": "以 Robert Fripp 为中心的 progressive 乐队：从 In the Court（1969）到 1980 年代双吉他，把彻底重组当作方法。"
   },
   "members": [
     {
@@ -64,8 +64,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Prog",
-        "zh": "Prog 开门即战争：噪声、萨克斯与不对称冲击"
+        "en": "Distorted assault opener on 1969 prog debut.",
+        "zh": "1969 prog 首专上的失真突击开场。"
       }
     },
     {
@@ -79,8 +79,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Prog",
-        "zh": "长呼吸结构：锋利 Prog 的抒情面"
+        "en": "Key composition moment",
+        "zh": "关键写作时刻"
       }
     },
     {
@@ -95,8 +95,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Crimson",
-        "zh": "新浪潮节奏网格：Crimson 的自我改版"
+        "en": "Long-form 1970s piece (Starless era).",
+        "zh": "1970 年代长曲（Starless 时期）。"
       }
     }
   ],
@@ -110,7 +110,7 @@
     {
       "text": "Discipline is a vehicle for music.",
       "speaker": "Robert Fripp",
-      "source": "Workshop / interview excerpt · Whisper-ready",
+      "source": "Workshop / interview excerpt",
       "year": 1995
     }
   ],
@@ -127,23 +127,23 @@
     "radiohead"
   ],
   "shortBio": {
-    "en": "Prog's sharp edge: asymmetry, reinvention, no comfort zone.",
-    "zh": "Prog 的锋利刀口：不对称节奏、不断重组、拒绝舒适区。"
+    "en": "Fripp prog laboratory; Schizoid Man and Starless bookend early extremes.",
+    "zh": "Fripp 的 prog 实验室；Schizoid Man 与 Starless 标记早期两极。"
   },
   "body": {
-    "en": "King Crimson is not pretty Prog. From In the Court of the Crimson King onward, Fripp treats version changes as the experiment itself.\n\nBeside Floyd's immersion, they are the other pole: structure that can injure.",
-    "zh": "King Crimson 不是好听的 Prog。从 In the Court of the Crimson King 起，Fripp 把版本更迭本身当作实验。\n\n相对 Floyd 的沉浸，他们是另一极：会割伤人的结构。"
+    "en": "Formed 1968. Debut In the Court of the Crimson King sets Mellotron + dissonant rock; 1970s Wetton/Bruford years add improvisation and Starless-length pieces; 1981 Belew/Levin/Bruford era uses gamelan-like guitar interlocking (Elephant Talk).\n\nLineup churn is the point: Fripp remains; casts change.",
+    "zh": "1968 年组建。首专 In the Court of the Crimson King 定下 Mellotron + 不协和摇滚；1970 年代 Wetton/Bruford 年加入即兴与 Starless 级时长；1981 Belew/Levin/Bruford 时期使用类甘美兰吉他交织（Elephant Talk）。\n\n阵容更替即要点：Fripp 留下；人马更换。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Sharp, not swollen",
-        "zh": "锋利，而非膨胀"
+        "en": "Reformation as working method",
+        "zh": "把重组当作工作方法"
       },
       "body": {
-        "en": "Where Floyd builds rooms you walk into, Crimson builds blades you notice too late. Odd meters and sudden dynamics refuse the sofa.\n\nDecisive Prog is not only grandeur. It is the proof that avant-garde rock can enter the canon without smiling for the brochure.",
-        "zh": "Floyd 造你能走进去的房间；Crimson 造你发现太晚的刀刃。不对称拍与突然动态拒绝沙发。\n\n决定性的 Prog 不只是宏大。它证明前卫摇滚可以进正史，而不必对着宣传册微笑。"
+        "en": "Crimson matter because the band is a practice: Fripp keeps the name and standards while replacing instrumental casts.\n\nOpposite of Zeppelin’s stable IV—useful contrast in the chronicle.",
+        "zh": "Crimson 要紧，因为乐队是一种实践：Fripp 保留名称与标准，同时更换乐器人马。\n\n与 Zeppelin 稳定四人相反——编年中有用的对照。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "progressive-rock"
@@ -151,12 +151,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "New cast, same method",
-        "zh": "新卡司，同一套方法"
+        "en": "Court era, ’70s improvisers, ’80s interlocking",
+        "zh": "Court 时期、70 年代即兴、80 年代交织"
       },
       "body": {
-        "en": "Names change like seasons. Fripp remains the method: discipline, risk, refusal of nostalgia as product.\n\nFreeze a few peak lineups you can actually remember—then read them as instruments, not celebrity churn.",
-        "zh": "名字像季节一样换。Fripp 留下方法：纪律、风险、拒绝把怀旧当商品。\n\n冻结少数你真正记得住的巅峰卡司——当仪器读，不当明星轮换读。"
+        "en": "Each era has distinct grammar—Mellotron symphonic rock, free-ish metal-jazz, then new-wave-adjacent math guitar.\n\nVersions are not footnotes; they are the catalog.",
+        "zh": "每个时期有不同语法——Mellotron 交响摇滚、偏自由的金属—爵士、然后新浪潮邻近的数学吉他。\n\n版本不是脚注；它们就是目录。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "progressive-rock"
@@ -164,12 +164,12 @@
     {
       "id": "schizoid",
       "title": {
-        "en": "Schizoid Man: the opening shot",
-        "zh": "Schizoid Man：开门一枪"
+        "en": "21st Century Schizoid Man: assault opener",
+        "zh": "21st Century Schizoid Man：突击开场"
       },
       "body": {
-        "en": "1969. Jazz bite welded to rock impact; the saxophone does not decorate, it attacks. 21st Century Schizoid Man opens Prog's chronicle with gunpowder, not incense.\n\nIf you need a first row for dangerous progressive music, this is it.",
-        "zh": "1969 年。爵士的咬合焊上摇滚冲击；萨克斯不装饰，它进攻。21st Century Schizoid Man 用火药而不是香火打开 Prog 编年。\n\n若危险前卫需要第一行，就是这一行。"
+        "en": "Distorted vocal, saxophone, heavy riff—1969 prog that attacks rather than only floats.\n\nDebut statement still cited by metal and math-rock listeners.",
+        "zh": "失真人声、萨克斯、重 riff——1969 年进攻而非只漂浮的 prog。\n\n首专声明仍被金属与 math-rock 听众引用。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -178,12 +178,12 @@
     {
       "id": "lineup",
       "title": {
-        "en": "Personnel as instrument change",
-        "zh": "换人即换乐器"
+        "en": "Fripp constant, cast variables",
+        "zh": "Fripp 常量，人马变量"
       },
       "body": {
-        "en": "Who stands on stage keeps shifting; the name King Crimson stays as a laboratory label. Read members beside scenes: same banner, different apparatus.\n\nThat is the method made visible—reinvention without brand softness.",
-        "zh": "台上是谁不断变；King Crimson 这个名字像实验室标签留下。成员要和场景一起读：同一旗帜，不同仪器。\n\n方法由此可见——重造，却不把品牌磨软。"
+        "en": "Guitar/composition hub stays; bass, drums, vocal, reeds change across decades.\n\nRead the members list as a version picker.",
+        "zh": "吉他/作曲枢纽留下；贝斯、鼓、人声、簧乐跨年代更换。\n\n把成员列表当版本选择器阅读。"
       },
       "stickyVisual": "members",
       "soundGenre": "progressive-rock"
@@ -191,12 +191,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "A band as a way of working",
-        "zh": "乐队是一种做事方式"
+        "en": "Discipline talk beside wild records",
+        "zh": "狂野唱片旁的纪律话语"
       },
       "body": {
-        "en": "Fripp talks method more than myth. The quotes nail a philosophy that contrasts with Zeppelin's four-locked forever.\n\nCrimson is a practice you join, not a selfie you inherit.",
-        "zh": "Fripp 谈方法多过谈神话。金句钉住一种哲学，对照 Zeppelin 的四人永久锁死。\n\nCrimson 是你加入的练习，不是你继承的自拍姿势。"
+        "en": "Fripp’s public language about practice and craft matches a catalog that rewards attentive listening.\n\nMethod discourse is part of the band’s archival object.",
+        "zh": "Fripp 关于练习与工艺的公开语言，与一份奖励专注聆听的目录匹配。\n\n方法话语是乐队档案对象的一部分。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -205,12 +205,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Who picks up the blade",
-        "zh": "谁接过刀刃"
+        "en": "Prog permission for later mutants",
+        "zh": "给后来变异者的 prog 许可"
       },
       "body": {
-        "en": "Radiohead and other restless moderns absorb the permission: asymmetry, version change, no loyalty to yesterday's success costume.\n\nProgressive bleeds into Alternative here—not as costume drama, as work ethic.",
-        "zh": "Radiohead 和其他不安的近代乐队吸收的是许可：不对称、改版、不对昨天的成功戏服效忠。\n\nProgressive 在此渗进 Alternative——不是古装戏，是工作伦理。"
+        "en": "Tool, math rock, and experimental metal cite the permission to change meters and lineups.\n\nCrimson’s lesson is procedural as much as sonic.",
+        "zh": "Tool、math rock 与实验金属引用其更换拍号与阵容的许可。\n\nCrimson 的课在程序上与声音上同等重要。"
       },
       "stickyVisual": "influence",
       "soundGenre": "progressive-rock"
@@ -245,8 +245,8 @@
         }
       ],
       "note": {
-        "en": "Opening blast—then the cast resets around Fripp.",
-        "zh": "开门炮——随后卡司以 Fripp 为常量重置。"
+        "en": "Court of the Crimson King–era Mellotron lineup.",
+        "zh": "Court of the Crimson King 时期 Mellotron 阵容。"
       }
     },
     {
@@ -276,8 +276,8 @@
         }
       ],
       "note": {
-        "en": "New-wave grid Crimson—same method, new instruments.",
-        "zh": "新浪潮网格 Crimson——同一方法，新乐器。"
+        "en": "Belew/Levin/Bruford interlocking-guitar era.",
+        "zh": "Belew/Levin/Bruford 交织吉他时期。"
       }
     }
   ],
@@ -286,16 +286,16 @@
       "title": "21st Century Schizoid Man",
       "year": 1969,
       "note": {
-        "en": "Prog's opening scream: jazz chaos meets rock force.",
-        "zh": "Prog 的开场尖叫：爵士混乱遇见摇滚力量。"
+        "en": "Schizoid assault as debut citation.",
+        "zh": "Schizoid 突击作为首专引用。"
       }
     },
     "pioneeredGenres": [
       "progressive-rock"
     ],
     "note": {
-      "en": "Compositional ambition without abandoning abrasion.",
-      "zh": "作曲野心不放弃粗糙感。"
+      "en": "Lineup reformation as prog working method.",
+      "zh": "阵容重组作为 prog 工作方法。"
     }
   }
 }

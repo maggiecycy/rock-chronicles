@@ -1,0 +1,35 @@
+{
+  "name": "Pulp",
+  "slug": "pulp",
+  "formed": 1978,
+  "origin": "Sheffield, UK",
+  "primaryEra": "1990s-britpop",
+  "genres": [
+    "britpop",
+    "indie-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Sheffield Britpop band that treated class and sex as narrative detail; Different Class (1995) and Common People are the document.",
+    "zh": "谢菲尔德 Britpop：把阶级与性写成叙事细节；Different Class（1995）与 Common People 是文献。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Common People",
+      "year": 1995
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Jarvis Cocker–led Britpop; Common People is the class-satire single.",
+    "zh": "Jarvis Cocker 领衔的 Britpop；Common People 是阶级讽刺单曲。"
+  },
+  "body": {
+    "en": "Formed 1978; commercial peak is mid-1990s after His ’n’ Hers. Different Class put Cocker’s spoken-sung delivery and glam-tinged arrangements on UK charts beside Oasis/Blur.\n\nCommon People (1995) is the structural and lyrical reference—verse reportage into chant chorus. They matter as Britpop’s literary/observational pole against laddish stadium rock.",
+    "zh": "1978 年组建；商业高峰在 His ’n’ Hers 之后的 1990 年代中期。Different Class 把 Cocker 的说唱式演唱与偏 glam 编曲送上英国榜，与 Oasis/Blur 并列。\n\nCommon People（1995）是结构与歌词参照——主歌报道推进到口号副歌。他们是 Britpop 里文学/观察一极，对位兄弟会式体育场摇滚。"
+  }
+}

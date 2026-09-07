@@ -10,8 +10,8 @@
     "alternative"
   ],
   "whyMatters": {
-    "en": "One-person psychedelic pop with festival scale: the 2010s rock axis absorbs electronic production and still keeps guitar and arrangement identity.",
-    "zh": "一人乐队式迷幻流行，却有音乐节体量：2010s 摇滚主轴吸收电子制作，身份仍落在吉他与编曲上。"
+    "en": "Kevin Parker’s Perth project; Lonerism (2012) and Currents (2015) made solo-studio psychedelic pop a festival-headliner format.",
+    "zh": "Kevin Parker 的珀斯项目；Lonerism（2012）与 Currents（2015）把一人录音室迷幻流行做成音乐节头条格式。"
   },
   "members": [
     {
@@ -47,8 +47,8 @@
       ],
       "intensity": 1,
       "note": {
-        "en": "Key composition moment",
-        "zh": "卧室迷幻进入主流视野"
+        "en": "Currents long electronic build single.",
+        "zh": "Currents 长电子推进单曲。"
       }
     },
     {
@@ -63,8 +63,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Key composition moment",
-        "zh": "循环与崩溃：现代迷幻的电台事件"
+        "en": "Compact funk-psych streaming hook.",
+        "zh": "紧凑 funk-迷幻流媒体钩子。"
       }
     }
   ],
@@ -72,7 +72,7 @@
     {
       "text": "I just follow what sounds good.",
       "speaker": "Kevin Parker",
-      "source": "Interview excerpt · Whisper-ready",
+      "source": "Interview excerpt",
       "year": 2015
     }
   ],
@@ -89,24 +89,24 @@
   ],
   "influenced": [],
   "shortBio": {
-    "en": "Decisive auteur project for contemporary psychedelic pop.",
-    "zh": "当代迷幻流行的决定性作者项目。"
+    "en": "Parker psychedelic pop; Let It Happen and Less I Know are Currents poles.",
+    "zh": "Parker 迷幻流行；Let It Happen 与 Less I Know 是 Currents 两极。"
   },
   "decisive": true,
   "body": {
-    "en": "Kevin Parker builds Tame Impala like a private studio weather system that somehow fills fields. Psychedelia returns as soft focus and hard craft—loops, bass bloom, falsetto as neon.\n\nGuitar-band identity survives the laptop decade by learning its tools.",
-    "zh": "Kevin Parker 把 Tame Impala 建成私人录音室天气系统，却莫名填满户外场地。迷幻以柔焦与硬手艺回来——循环、贝斯绽放、假声当霓虹。\n\n吉他乐队身份熬过笔记本电脑十年，靠的是学会那些工具。"
+    "en": "Begun mid-2000s; Parker writes/plays/produces most parts, touring band separate. Innerspeaker and Lonerism revive psych guitar; Currents pivots to disco-bass and processed vocal for global crossover.\n\nLet It Happen (2015) and The Less I Know the Better (2015) show extended electronic build and concise funk-psych hook.",
+    "zh": "2000 年代中期起步；Parker 写作/演奏/制作大部分声部，巡演乐队另组。Innerspeaker 与 Lonerism 复兴迷幻吉他；Currents 转向迪斯科贝斯与处理人声以全球跨界。\n\nLet It Happen（2015）与 The Less I Know the Better（2015）展示延长电子推进与紧凑 funk-迷幻钩子。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Bedroom cosmos, festival speakers",
-        "zh": "卧室宇宙，音乐节音箱"
+        "en": "Solo studio psych as headliner brand",
+        "zh": "一人录音室迷幻作为头条品牌"
       },
       "body": {
-        "en": "Decisive because the modern axis need not choose between rock instrumentation and electronic production. Parker keeps arrangement and guitar DNA while the mix speaks fluent 2010s.\n\nPsychedelic pop stops being revival cosplay and becomes a present-tense hit language.",
-        "zh": "决定性在于：近代主轴不必在摇滚编制与电子制作之间二选一。Parker 守住编曲与吉他 DNA，混音却说流利的 2010s。\n\n迷幻流行不再是复兴扮相，而成本时代畅销语言。"
+        "en": "Tame Impala matter as proof a mostly-solo recording project can scale to festivals via meticulous production and a live band shell.\n\nParker’s method is the band.",
+        "zh": "Tame Impala 要紧处是证明：主要一人录音的项目可经精密制作与现场乐队外壳扩到音乐节。\n\nParker 的方法即乐队。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "psychedelic"
@@ -114,12 +114,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Feels Like We Only Go Backwards: soft focus, hard hook",
-        "zh": "Feels Like We Only Go Backwards：柔焦，硬钩子"
+        "en": "Let It Happen: long electronic build",
+        "zh": "Let It Happen：长电子推进"
       },
       "body": {
-        "en": "A melody that circles like a thought you cannot finish. Bedroom psychedelia steps into mainstream sight without quitting the swirl.\n\nThis is how intimate production becomes public weather.",
-        "zh": "旋律像一个绕不完的念头打转。卧室迷幻走进主流视野，却不退出漩涡。\n\n亲密制作变成公共天气，是从这里开始。"
+        "en": "Loop breakdown mid-song, dance pulse, psych harmony—Currents’ extended single.\n\nStudio accident/glitch aesthetic as arrangement.",
+        "zh": "曲中循环崩解、舞曲脉冲、迷幻和声——Currents 的延长单曲。\n\n把录音室事故/毛刺美学当编曲。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -128,12 +128,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Let It Happen: the loop that breaks itself",
-        "zh": "Let It Happen：自我崩坏的循环"
+        "en": "Less I Know: compact funk-psych hook",
+        "zh": "Less I Know：紧凑 funk-迷幻钩子"
       },
       "body": {
-        "en": "A long build that glitches on purpose—dancefloor logic colliding with studio accident as drama. Let It Happen is modern psychedelia's radio event: patient, then ruptured.\n\nElectronic courage, still signed by a guitar-band name.",
-        "zh": "长铺垫，故意故障——舞池逻辑撞上工作室事故，事故即戏剧。Let It Happen 是现代迷幻的电台事件：耐心，然后破裂。\n\n电子勇气，签名仍是吉他乐队名。"
+        "en": "Bass hook, falsetto, short runtime—streaming-era crossover object.\n\nConcise where Let It Happen is expansive.",
+        "zh": "贝斯钩子、假声、短时长——流媒体时代跨界对象。\n\n相对 Let It Happen 的扩展，此曲紧凑。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -142,12 +142,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Sixties haze, twenty-tens tools",
-        "zh": "六十年代雾，一零年代工具"
+        "en": "DIY studio maximalism",
+        "zh": "DIY 录音室最大化"
       },
       "body": {
-        "en": "Upstream: psychedelic bass bloom and studio-as-instrument habits. Downstream: pop and indie acts that treat the mix as composition.\n\nTame Impala sit where rock identity and producer authorship stop pretending they are enemies.",
-        "zh": "上游：迷幻贝斯绽放与「录音室即乐器」习惯。下游：把混音当作曲的流行与 Indie。\n\nTame Impala 坐在摇滚身份与制作人作者性停止假扮敌人的位置。"
+        "en": "Bedroom-to-arena path influences 2010s psych and indie-pop producers.\n\nDNA is mix craft + melody, not jam length.",
+        "zh": "卧室到舞台的路径影响 2010 年代迷幻与 indie-pop 制作人。\n\nDNA 是混音工艺 + 旋律，不是即兴时长。"
       },
       "stickyVisual": "dna",
       "soundGenre": "psychedelic"
@@ -155,12 +155,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "The quiet architect of loud weather",
-        "zh": "大声天气的安静建筑师"
+        "en": "Parker on process and control",
+        "zh": "Parker 谈过程与控制"
       },
       "body": {
-        "en": "Parker often talks like a studio introvert who accidentally booked a stadium. Quotes nail craft obsession more than rock mythology.\n\nPin the workbench talk. The spectacle is a side effect of loops done right.",
-        "zh": "Parker 说话常像误订了体育馆的录音室内向者。金句钉住手艺执念，多于摇滚神话。\n\n钉住工作台谈话。奇观是循环做对了的副作用。"
+        "en": "Interviews emphasize home-studio control and endless tweaking.\n\nMethod talk matches the credits list.",
+        "zh": "访谈强调家庭录音室控制与无尽微调。\n\n方法谈话与credits 列表匹配。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,

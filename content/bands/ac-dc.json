@@ -1,0 +1,85 @@
+{
+  "name": "AC/DC",
+  "slug": "ac-dc",
+  "formed": 1973,
+  "origin": "Sydney, Australia",
+  "primaryEra": "1970s-prog-hard-rock",
+  "alsoAppearsIn": [
+    "1980s-metal"
+  ],
+  "genres": [
+    "hard-rock"
+  ],
+  "decisive": true,
+  "whyMatters": {
+    "en": "Australian hard-rock band that treated open-chord riffs and fixed lineup craft as a durable product line from the Bon Scott era through Back in Black (1980).",
+    "zh": "澳大利亚 hard-rock：从 Bon Scott 时期到 Back in Black（1980），把开放和弦 riff 与固定编制工艺做成可持续产品线。"
+  },
+  "members": [
+    {
+      "name": "Angus Young",
+      "role": "Guitar",
+      "years": "1973–present"
+    },
+    {
+      "name": "Malcolm Young",
+      "role": "Guitar",
+      "years": "1973–2014"
+    },
+    {
+      "name": "Bon Scott",
+      "role": "Vocals",
+      "years": "1974–1980"
+    },
+    {
+      "name": "Brian Johnson",
+      "role": "Vocals",
+      "years": "1980–present"
+    },
+    {
+      "name": "Cliff Williams",
+      "role": "Bass",
+      "years": "1977–2016"
+    },
+    {
+      "name": "Phil Rudd",
+      "role": "Drums",
+      "years": "1975–1983; 1994–2015"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Highway to Hell",
+      "year": 1979
+    },
+    {
+      "title": "Back in Black",
+      "year": 1980
+    },
+    {
+      "title": "Thunderstruck",
+      "year": 1990
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [
+    "led-zeppelin",
+    "black-sabbath",
+    "guns-n-roses"
+  ],
+  "influenceFrom": [
+    "chuck-berry",
+    "the-rolling-stones"
+  ],
+  "influenced": [
+    "guns-n-roses"
+  ],
+  "shortBio": {
+    "en": "Young brothers’ hard rock; Highway to Hell and Back in Black are the mass curriculum.",
+    "zh": "Young 兄弟的 hard rock；Highway to Hell 与 Back in Black 是大众课程。"
+  },
+  "body": {
+    "en": "Formed Sydney 1973. High Voltage through Highway to Hell fix Malcolm’s rhythm grind, Angus’s pentatonic leads, Bon Scott’s bark. After Scott’s death (1980), Back in Black with Brian Johnson kept the same right-hand discipline at larger scale.\n\nThunderstruck (1990) shows the later Young/Johnson touring machine. Few chords, high gain, no prog detours—the export is consistency as method.",
+    "zh": "1973 年于悉尼组建。从 High Voltage 到 Highway to Hell 定型 Malcolm 的节奏碾磨、Angus 的五声音阶主音、Bon Scott 的吠叫。Scott 去世（1980）后，Brian Johnson 的 Back in Black 以更大尺度保持同一套右手纪律。\n\nThunderstruck（1990）展示后期 Young/Johnson 巡演机器。少和弦、高增益、无 prog 绕路——输出的是把一致性当作方法。"
+  }
+}

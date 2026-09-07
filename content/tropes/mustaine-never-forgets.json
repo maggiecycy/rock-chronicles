@@ -1,0 +1,34 @@
+{
+  "slug": "mustaine-never-forgets",
+  "title": {
+    "en": "Dave Mustaine never forgets 1983",
+    "zh": "Dave Mustaine 忘不了 1983"
+  },
+  "summary": {
+    "en": "Life goals: write faster riffs than Metallica, hate Metallica, mention getting fired by Metallica.",
+    "zh": "人生目标：写出比 Metallica 更快的 riff、恨 Metallica、采访里再提一次被 Metallica 开除。"
+  },
+  "body": {
+    "en": "Mustaine gets kicked from early Metallica, builds Megadeth, and turns the grudge into a career-long running gag—except he is not fully joking.\n\nEvery thrash comment section eventually returns to 1983. The music is fast enough to settle the argument; the interviews refuse to.",
+    "zh": "Mustaine 被早期 Metallica 踢走，组建 Megadeth，把这笔账做成职业生涯长跑——只是他不全是在开玩笑。\n\n每个 thrash 评论区最终都会绕回 1983。音乐已经够快能结案；采访拒绝结案。"
+  },
+  "tone": "meme",
+  "examples": [
+    {
+      "bandSlug": "megadeth",
+      "label": "Megadeth",
+      "note": {
+        "en": "The grudge as brand engine.",
+        "zh": "仇恨当品牌发动机。"
+      }
+    },
+    {
+      "bandSlug": "metallica",
+      "label": "Metallica",
+      "note": {
+        "en": "The band that keeps getting named in Megadeth interviews.",
+        "zh": "Megadeth 采访里被点名次数最多的那支。"
+      }
+    }
+  ]
+}

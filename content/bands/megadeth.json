@@ -1,0 +1,34 @@
+{
+  "name": "Megadeth",
+  "slug": "megadeth",
+  "formed": 1983,
+  "origin": "Los Angeles, USA",
+  "primaryEra": "1980s-metal",
+  "genres": [
+    "heavy-metal"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Dave Mustaine’s thrash project after Metallica; Rust in Peace (1990) set technical riff density and political lyric as thrash’s precision pole.",
+    "zh": "Dave Mustaine 离开 Metallica 后的 thrash 项目；Rust in Peace（1990）把技术性 riff 密度与政治歌词定为 thrash 的精密一极。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Holy Wars... The Punishment Due",
+      "year": 1990
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Technical thrash; Holy Wars… The Punishment Due is the early-90s peak document.",
+    "zh": "技术 thrash；Holy Wars… The Punishment Due 是 90 年代初峰值文献。"
+  },
+  "body": {
+    "en": "Formed Los Angeles 1983 by Mustaine with Dave Ellefson. Peace Sells… and So Far, So Good… built the catalog; Rust in Peace with Friedman/Menza is the consensus technical high.\n\nHoly Wars… The Punishment Due (1990) stacks odd-phrase riffs and tight rhythm guitar. They sit in the Big Four thrash map opposite Metallica’s broader mainstream path—more chromatic runs, more explicit geopolitics in lyrics.",
+    "zh": "1983 年由 Mustaine 与 Dave Ellefson 于洛杉矶组建。Peace Sells… 与 So Far, So Good… 建立目录；与 Friedman/Menza 的 Rust in Peace 是共识技术高峰。\n\nHoly Wars… The Punishment Due（1990）堆叠奇数乐句 riff 与紧节奏吉他。在 Big Four thrash 地图上对 Metallica 更宽的主流路径——更多半音跑动、歌词地缘政治更直接。"
+  }
+}

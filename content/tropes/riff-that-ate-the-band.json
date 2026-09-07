@@ -5,37 +5,37 @@
     "zh": "把乐队吃掉的那句 riff"
   },
   "summary": {
-    "en": "One hook pays the mortgage and traps the setlist. Blessing. Prison. Sometimes both by the second chorus.",
-    "zh": "一个 hook 付房贷，也锁死歌单。祝福。监狱。有时副歌第二遍两者都是。"
+    "en": "One hook pays the mortgage and freezes the setlist. Income stream and trap.",
+    "zh": "一个 hook 付房贷，也锁死歌单。饭票和笼子一起到。"
   },
   "body": {
-    "en": "Satisfaction. Teen Spirit. You know the shape before the title finishes loading. That riff is a meal ticket and a cage: crowds wait for it like weather, and everything else becomes \"the other songs.\"\n\nBands cope differently. Lean in and become a greatest-hits machine. Mock yourself. Or do the Radiohead move—mutate until the hit feels like a previous species. Either way, when a riff gets that big, the band doesn't own it anymore. Culture does.",
-    "zh": "Satisfaction。Teen Spirit。歌名还没加载完，你已经知道形状。那句 riff 是饭票也是笼子：人群像等天气一样等它，其它都成了「剩下的歌」。\n\n乐队的活法不同。迎上去，变成精选辑机器。自嘲。或者学 Radiohead——变种到那首热歌听起来像上一物种。不管怎样，riff 大到那个份上，乐队不再拥有它。文化拥有它。"
+    "en": "Satisfaction. Smoke on the Water. Teen Spirit. The crowd waits for that shape; everything else becomes \"the other songs.\"\n\nBands cope differently: lean into greatest-hits mode, joke about it onstage, or do the Radiohead move—mutate until the hit feels like a previous life. Once a riff is that big, culture owns it more than the band does.",
+    "zh": "Satisfaction。Smoke on the Water。Teen Spirit。观众等的是那个形状；其它歌都成「剩下的」。\n\n乐队活法不同：迎上去做精选辑模式、台上自嘲，或者学 Radiohead——改到那首热歌听起来像上辈子。Riff 大到那个份上，文化比乐队更拥有它。"
   },
   "tone": "lore",
   "examples": [
     {
-      "bandSlug": "nirvana",
-      "label": "Nirvana",
+      "bandSlug": "deep-purple",
+      "label": "Deep Purple",
       "note": {
-        "en": "Teen Spirit's gravity well.",
-        "zh": "Teen Spirit 的引力井。"
+        "en": "Smoke on the Water: guitar-shop national anthem.",
+        "zh": "Smoke on the Water：琴行国歌。"
       }
     },
     {
-      "bandSlug": "the-rolling-stones",
-      "label": "The Rolling Stones",
+      "bandSlug": "nirvana",
+      "label": "Nirvana",
       "note": {
-        "en": "Satisfaction forever on the clock.",
-        "zh": "Satisfaction 永远在钟面上。"
+        "en": "Teen Spirit still owns the public image.",
+        "zh": "Teen Spirit 仍压着公共形象。"
       }
     },
     {
       "bandSlug": "radiohead",
       "label": "Radiohead",
       "note": {
-        "en": "The art of fleeing your own chorus.",
-        "zh": "逃离自己副歌的艺术。"
+        "en": "Deliberately left the early hit behind.",
+        "zh": "刻意把早期热歌甩在身后。"
       }
     }
   ]

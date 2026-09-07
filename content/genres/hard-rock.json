@@ -2,16 +2,16 @@
   "name": "Hard Rock",
   "slug": "hard-rock",
   "summary": {
-    "en": "Heavier riffs, bigger stages, sharper rhythm sections.",
-    "zh": "更重的 riff、更大的舞台、更锋利的节奏组。"
+    "en": "Heavier riffs, bigger stages, tighter rhythm sections.",
+    "zh": "更重的 Riff、更大的舞台、更紧的节奏组。"
   },
-  "eraFocus": "1970s Prog & Hard Rock",
+  "eraFocus": "Hard Rock, Prog & Early Metal",
   "representativeBands": [
     "led-zeppelin"
   ],
   "body": {
-    "en": "Hard Rock amplifies the Blues skeleton with distortion and drum impact—the arena rock of the seventies. It is Heavy Metal's direct ancestor and the 'hero myth' Grunge later dismantles.",
-    "zh": "Hard Rock 把 Blues 的骨架放大，用失真吉他与鼓点冲击定义 70 年代体育馆摇滚。它同时是 Heavy Metal 的直系祖先，也是日后 Grunge 要解构的「英雄神话」。"
+    "en": "Hard Rock amplifies a Blues skeleton with distortion and drum impact—the arena rock of the seventies. It is Heavy Metal's direct ancestor; Grunge later rejects its guitar-hero stage persona.",
+    "zh": "Hard Rock 用失真与鼓点冲击放大 Blues 骨架——即 70 年代体育馆摇滚。它是 Heavy Metal 的直系祖先；日后 Grunge 拒绝其吉他英雄式舞台人设。"
   },
   "pioneerBands": [
     "led-zeppelin",

@@ -5,29 +5,29 @@
     "zh": "重聚巡演"
   },
   "summary": {
-    "en": "Nostalgia with a rider and a lighting plot. Sometimes healing. Sometimes karaoke with fireworks.",
-    "zh": "带餐饮单和灯光表的怀旧。有时是愈合。有时是带烟火的卡拉 OK。"
+    "en": "Same hits, higher ticket prices, optional new album nobody asked for.",
+    "zh": "还是那些热歌，票价更高，可选附赠一张没人点名的新专。"
   },
   "body": {
-    "en": "Reunions rewrite the ending you thought you had. They can settle debts, restore dignity, or trap a band in a museum loop where every night is 1973 with better knees until they aren't.\n\nThe interesting question isn't \"are they sellouts?\"—ticket lines already voted. It's which lineup version is reconstituting, and which songs get quietly retired because nobody can hit that note without medical supervision.",
-    "zh": "重聚会改写你以为已经写完的结局。可以还债、找回体面，也可以把乐队困在博物馆循环里：每天都是 1973，膝盖暂时还行，直到不行。\n\n有趣的问题不是「他们卖不卖」——排队的人已经投过票。而是：重聚的是哪个阵容版本，以及哪些歌被悄悄退役，因为没人能在无医疗监督下再唱那个音。"
+    "en": "The honest pitch: we need the money / we miss the volume / the kids never saw us. The dishonest pitch: \"we have unfinished artistic business.\"\n\nSometimes the chemistry returns. Sometimes it is a karaoke franchise with original faces. Check whether they play the deep cuts they gatekept you for—or just the singles that paid for the private jet.",
+    "zh": "诚实说法：要钱 / 想听响 / 下一代没见过现场。不诚实说法：「我们还有未完成的艺术使命。」\n\n有时化学反应真回来。有时就是原班卡拉 OK 加盟店。看看他们是演当年拿来门禁你的深切——还是只演付私人飞机的那几首单曲。"
   },
-  "tone": "meme",
+  "tone": "half-true",
   "examples": [
     {
-      "bandSlug": "led-zeppelin",
-      "label": "Led Zeppelin",
+      "bandSlug": "black-sabbath",
+      "label": "Black Sabbath",
       "note": {
-        "en": "Rare spectacles, endless discourse.",
-        "zh": "稀有奇观，永无止境的讨论。"
+        "en": "Multiple \"final\" runs; Ozzy-era nostalgia as product.",
+        "zh": "多次「最后巡演」；Ozzy 期怀旧做成商品。"
       }
     },
     {
-      "bandSlug": "oasis",
-      "label": "Oasis",
+      "bandSlug": "the-stone-roses",
+      "label": "The Stone Roses",
       "note": {
-        "en": "The internet's favorite unfinished argument.",
-        "zh": "互联网最爱的未完结辩论。"
+        "en": "Long wait, big rooms, same two albums in the bloodstream.",
+        "zh": "等很久、场地很大，血管里还是那两张专。"
       }
     }
   ]

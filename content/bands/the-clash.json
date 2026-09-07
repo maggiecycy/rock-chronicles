@@ -3,7 +3,7 @@
   "slug": "the-clash",
   "formed": 1976,
   "origin": "London, UK",
-  "primaryEra": "1980s-punk-metal",
+  "primaryEra": "punk-postpunk",
   "alsoAppearsIn": [
     "1970s-prog-hard-rock"
   ],
@@ -12,8 +12,8 @@
     "post-punk"
   ],
   "whyMatters": {
-    "en": "Punk politics with a world-music appetite: The Clash prove the 'only band that matters' can be street corner and experiment booth at once.",
-    "zh": "Punk 政治遇上世界音乐胃口：The Clash 证明「唯一重要的乐队」可以同时是街角与实验摊。"
+    "en": "London punk band that widened UK punk into reggae, rockabilly, and album-length politics; London Calling (1979) is the double-album hinge.",
+    "zh": "伦敦朋克：把英国朋克拓宽到雷鬼、rockabilly 与专辑尺度政治；London Calling（1979）是双专铰链。"
   },
   "members": [
     {
@@ -66,8 +66,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Punk",
-        "zh": "末世广播：Punk 的史诗化"
+        "en": "1979 title-track opening statement.",
+        "zh": "1979 同名曲开场声明。"
       }
     },
     {
@@ -85,8 +85,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Punk",
-        "zh": "钩子与双语：Punk 也能写流行"
+        "en": "Combat Rock radio hook export.",
+        "zh": "Combat Rock 电台钩子出口。"
       }
     }
   ],
@@ -114,24 +114,24 @@
     "arctic-monkeys"
   ],
   "shortBio": {
-    "en": "Punk's expansionist sample—street heat with a passport.",
-    "zh": "Punk 的扩张主义样本——街头热度，带着护照。"
+    "en": "Strummer / Jones punk-to-post-punk; London Calling is the mass document.",
+    "zh": "Strummer / Jones 从朋克到后朋克；London Calling 是大众文献。"
   },
   "decisive": true,
   "body": {
-    "en": "The Clash refuse to keep punk in a three-chord cage. Reggae, dub, rockabilly, and radio-ready hooks sit beside slogans that still smell like paint.\n\nStreet and laboratory share one leather jacket.",
-    "zh": "The Clash 拒绝把朋克关在三和弦笼子里。Reggae、dub、rockabilly 与电台钩子，和仍有油漆味的口号并排。\n\n街头与实验室共穿一件皮衣。"
+    "en": "Formed 1976. Early CBS singles and The Clash debut are fast punk; Give ’Em Enough Rope and London Calling expand styles; Sandinista! overshoots length; Combat Rock yields radio hits.\n\nLondon Calling (1979) and Should I Stay or Should I Go / Straight to Hell (1982) show range. Longer fuse than the Pistols.",
+    "zh": "1976 年组建。早期 CBS 单曲与首专是快朋克；Give ’Em Enough Rope 与 London Calling 扩展风格；Sandinista! 时长过载；Combat Rock 交出电台热单。\n\nLondon Calling（1979）与 Should I Stay or Should I Go / Straight to Hell（1982）展示幅度。引信长过 Pistols。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "The only band, and it keeps traveling",
-        "zh": "唯一乐队，而且一直在出门"
+        "en": "Punk as expandable toolkit",
+        "zh": "把朋克当可扩展工具箱"
       },
       "body": {
-        "en": "Political edge without tourist innocence: they borrow rhythms because the city already contains them, not because a brochure suggested spice.\n\nDecisive punk expands. It does not purify itself into a museum accent.",
-        "zh": "政治锋利，却没有游客式天真：他们借用节奏，因为城市里本来就有，不是因为手册建议加点香料。\n\n决定性的朋克会扩张。不会净化成博物馆口音。"
+        "en": "The Clash matter because they treat punk energy as a base layer under reggae riddims, piano rockers, and reportage lyrics—not a purity test.\n\nAlbum ambition inside a punk generation.",
+        "zh": "The Clash 要紧，因为他们把朋克能量当雷鬼 riddim、钢琴摇滚与报道歌词下的底层——而非纯度测验。\n\n朋克一代内部的专辑野心。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "punk"
@@ -139,12 +139,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "London Calling: end-of-world radio",
-        "zh": "London Calling：末世广播"
+        "en": "London Calling: title-track warning",
+        "zh": "London Calling：同名曲警告"
       },
       "body": {
-        "en": "1979. The title track opens like a broadcast from a city that knows the water is rising. Punk learns epic scale without quitting the pavement.\n\nThe double album around it is appetite made visible—width as politics.",
-        "zh": "1979 年。标题曲像一座知道水在涨的城市发来的广播。Punk 学会史诗尺度，却不离开人行道。\n\n周围的双专辑是胃口的可见化——宽本身就是政治。"
+        "en": "Strummer vocal, Jones guitar, Topper drums—opening statement of the 1979 double album.\n\nScene + songcraft fused.",
+        "zh": "Strummer 人声、Jones 吉他、Topper 鼓——1979 双专开场声明。\n\n场景与歌曲工艺融合。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -153,12 +153,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Should I Stay: a hook with bilingual teeth",
-        "zh": "Should I Stay：带双语牙的钩子"
+        "en": "Should I Stay: rock’n’roll hook export",
+        "zh": "Should I Stay：摇滚钩子出口"
       },
       "body": {
-        "en": "A chorus anyone can shout; Spanish asides that keep it from becoming pure souvenir. Punk discovers it can write pop without washing off the grit.\n\nThe clash inside The Clash is the method: accessibility versus refusal to simplify the world.",
-        "zh": "谁都能喊的副歌；西班牙语插句不让它变成纯纪念品。Punk 发现能写流行，而不洗掉沙砾。\n\nThe Clash 内部的冲突就是方法：可接近，对简化世界说不。"
+        "en": "Simple chord cycle, gang vocal—Combat Rock radio object that outlives scene politics for casual listeners.\n\nExportable craft beside the experimental tracks.",
+        "zh": "简单和弦循环、群吼——让休闲听众记过场景政治的 Combat Rock 电台对象。\n\n实验曲旁的可导出工艺。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -167,12 +167,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Punk with a passport stamp",
-        "zh": "盖着护照章的 Punk"
+        "en": "Politics + genre tourism",
+        "zh": "政治 + 类型旅游"
       },
       "body": {
-        "en": "Later political guitar bands and indie cosmopolitans inherit the permission to mix without apology.\n\nFrom hardcore slogans to dance-floor borrowings, the Clash map stays open—borders as material, not walls.",
-        "zh": "后来的政治吉他乐队与 Indie 世界主义者继承「混搭不必道歉」的许可。\n\n从硬核口号到舞池借用，Clash 地图一直开着——边界是材料，不是墙。"
+        "en": "Later political punk and indie cite the permission to mix styles. DNA is curiosity under urgency, not a single tempo.\n\nJones vs Strummer tensions are documented personnel history.",
+        "zh": "后来政治朋克与 indie 引用其混搭风格许可。DNA 是紧迫下的好奇，而非单一速度。\n\nJones 与 Strummer 张力属有文献的人事史。"
       },
       "stickyVisual": "dna",
       "soundGenre": "punk"
@@ -180,12 +180,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Slogans that still smell like paint",
-        "zh": "仍有油漆味的口号"
+        "en": "Manifesto lines in the press",
+        "zh": "媒体里的宣言句"
       },
       "body": {
-        "en": "Strummer talk cuts like a leaflet handed out at midnight. The quotes work because they sound usable on a street, not framed in a gallery.\n\nKeep them short. The band already hated empty monument talk.",
-        "zh": "Strummer 的话像午夜散发的传单。金句有效，因为它们听起来能在街上用，不是裱在画廊里。\n\n保持短。这支乐队本就讨厌空洞纪念碑腔。"
+        "en": "Interview slogans about boredom and engagement match the lyric reportage.\n\nCheck them against the records’ stylistic spread.",
+        "zh": "关于无聊与介入的访谈口号，与歌词报道匹配。\n\n对照唱片的风格跨度核验。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,

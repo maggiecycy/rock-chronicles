@@ -9,8 +9,8 @@
     "hard-rock"
   ],
   "whyMatters": {
-    "en": "Maximum volume, smashed guitars, rock opera: youth rage and concept ambition share one stage—the bridge from Invasion to Hard Rock.",
-    "zh": "最大音量、砸琴、摇滚歌剧：青年暴怒与概念野心同台——从 Invasion 通向 Hard Rock 的桥。"
+    "en": "London four-piece that fused power-chord pop, live destruction lore, and Townshend concept albums (Tommy, Who’s Next) into hard-rock theatre.",
+    "zh": "伦敦四人组：把强力和弦流行、现场破坏传说与 Townshend 概念专集（Tommy、Who’s Next）融进 hard-rock 剧场。"
   },
   "members": [
     {
@@ -63,8 +63,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Key composition moment",
-        "zh": "口吃式怒火：一代人的宣战"
+        "en": "1965 stutter/feedback youth single.",
+        "zh": "1965 口吃/反馈青年单曲。"
       }
     },
     {
@@ -81,8 +81,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Key composition moment",
-        "zh": "合成器风与摇滚怒吼的合流"
+        "en": "Sequencer intro into arena power chords.",
+        "zh": "音序引入接入体育场强力和弦。"
       }
     }
   ],
@@ -90,7 +90,7 @@
     {
       "text": "Rock is art and the stuff of life.",
       "speaker": "Pete Townshend",
-      "source": "Interview excerpt · Whisper-ready",
+      "source": "Interview excerpt",
       "year": 1970
     }
   ],
@@ -110,24 +110,24 @@
     "metallica"
   ],
   "shortBio": {
-    "en": "The loudest, most violent British Invasion branch.",
-    "zh": "最大声、最暴烈的 British Invasion 支线。"
+    "en": "Townshend / Daltrey / Entwistle / Moon; Baba O’Riley and My Generation are poles.",
+    "zh": "Townshend / Daltrey / Entwistle / Moon；Baba O’Riley 与 My Generation 是两极。"
   },
   "decisive": true,
   "body": {
-    "en": "The Who treat the stage like a demolition site and a theater at once. Townshend's windmill, Moon's chaos, Entwistle's lead-bass, Daltrey's howl—Invasion energy with Hard Rock's coming weight.\n\nThey prove youth fury can carry concept without losing the smash.",
-    "zh": "The Who 把舞台同时当拆迁现场与剧场。Townshend 的风车、Moon 的混沌、Entwistle 的主音贝斯、Daltrey 的嚎——Invasion 能量，Hard Rock 将至的重量。\n\n他们证明青年怒火能扛概念，而不丢掉砸碎的那一下。"
+    "en": "Formed 1964. Mid-60s singles (My Generation) establish stutter vocal and feedback; Tommy invents rock-opera scale; Who’s Next (synthesizer/sequencer experiments) yields Baba O’Riley and Won’t Get Fooled Again.\n\nMoon’s drums and Entwistle’s lead-bass are instrumental signatures. Live volume is part of the historical record.",
+    "zh": "1964 年组建。60 年代中期单曲（My Generation）确立口吃人声与反馈；Tommy 发明摇滚歌剧尺度；Who’s Next（合成器/音序实验）交出 Baba O’Riley 与 Won’t Get Fooled Again。\n\nMoon 的鼓与 Entwistle 的主奏式贝斯是乐器签名。现场音量属历史记录的一部分。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Rage with a blueprint",
-        "zh": "带着图纸的暴怒"
+        "en": "Power chords + concept ambition",
+        "zh": "强力和弦 + 概念野心"
       },
       "body": {
-        "en": "My Generation stutters like a fist. Tommy and later rock-opera ambition show the same band can draft architecture.\n\nDecisive because they refuse the false choice: either destroy or compose. They do both under one name.",
-        "zh": "My Generation 口吃得像一记拳头。Tommy 与后来的摇滚歌剧野心证明同一支乐队也会画建筑图。\n\n决定性在于拒绝假二选一：要么毁灭，要么作曲。他们在同一个名字下两样都干。"
+        "en": "The Who matter as the band that kept singles craft while inventing album-length narrative and synth-rock experiments for arenas.\n\nViolence onstage is lore; arrangement is the durable export.",
+        "zh": "The Who 要紧处是：保持单曲工艺的同时，为体育场发明专辑时长叙事与合成器摇滚实验。\n\n舞台暴力是传说；编曲才是耐久输出。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "hard-rock"
@@ -135,12 +135,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "My Generation: a stuttered declaration of war",
-        "zh": "My Generation：口吃式宣战"
+        "en": "My Generation: 1965 stutter single",
+        "zh": "My Generation：1965 口吃单曲"
       },
       "body": {
-        "en": "1965. Daltrey trips over the words on purpose; the bass solo barges in like an argument. Hope I die before I get old is less lyric than detonator.\n\nBritish youth finds a voice that will not tidy itself for the drawing room.",
-        "zh": "1965 年。Daltrey 故意在词上绊倒；贝斯 solo 像抬杠闯进来。Hope I die before I get old 与其说是歌词，不如说是雷管。\n\n英国青年找到一种不肯为客厅整理仪容的嗓音。"
+        "en": "Feedback, Entwistle solo break, Daltrey’s stutter—mod-era youth single that still reads as hard-rock proto.\n\nTempo and attitude first.",
+        "zh": "反馈、Entwistle 独奏段、Daltrey 口吃——仍可读作 hard-rock 原型的 mod 时代青年单曲。\n\n速度与态度优先。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -149,12 +149,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Won't Get Fooled Again: synth wind, same howl",
-        "zh": "Won't Get Fooled Again：合成器风，同一声嚎"
+        "en": "Baba O’Riley: sequencer into power chord",
+        "zh": "Baba O’Riley：音序接入强力和弦"
       },
       "body": {
-        "en": "The organ scream, the power chord landslide, Daltrey's final yell—seventies rock learns spectacle without quitting politics-of-the-gut.\n\nInvasion violence grows into Hard Rock theater. The bridge is audible.",
-        "zh": "风琴嘶叫、强力和弦滑坡、Daltrey 最后那一声——七十年代摇滚学会奇观，却不放弃肠子里的政治。\n\nInvasion 的暴力长成 Hard Rock 剧场。桥是听得见的。"
+        "en": "ARP/Lowrey figure into full-band crash; violin solo; Daltrey vocal—Who’s Next teaching track.\n\nElectronics without abandoning guitar war.",
+        "zh": "ARP/Lowrey 音型接入全乐队撞击；小提琴独奏；Daltrey 人声——Who’s Next 教材曲。\n\n不放弃吉他战争的电子。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -163,12 +163,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "From Mod clubs to arena thunder",
-        "zh": "从 Mod 俱乐部到体育馆雷声"
+        "en": "Moon volume, Townshend writing",
+        "zh": "Moon 音量，Townshend 写作"
       },
       "body": {
-        "en": "Punk later steals the attitude and shortens the fuse. Arena rock steals the volume and the gesture. Prog-adjacent ambition steals the opera nerve.\n\nThe Who sit at the junction where British Invasion stops being cute and starts being dangerous architecture.",
-        "zh": "后来 Punk 偷走态度、缩短引信。体育馆摇滚偷走音量与手势。偏 Prog 的野心偷走歌剧神经。\n\nThe Who 站在路口：British Invasion 不再可爱，开始变成危险的建筑。"
+        "en": "Later hard rock cites the live assault; prog and concept acts cite Tommy/Quadrophenia permission.\n\nDNA splits into volume culture and writer culture.",
+        "zh": "后来 hard rock 引用现场突击；prog 与概念乐队引用 Tommy/Quadrophenia 许可。\n\nDNA 裂为音量文化与写作者文化。"
       },
       "stickyVisual": "dna",
       "soundGenre": "rock-n-roll"
@@ -176,12 +176,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Talk loud, smash louder",
-        "zh": "话说得响，砸得更响"
+        "en": "Townshend on craft and destruction",
+        "zh": "Townshend 谈工艺与破坏"
       },
       "body": {
-        "en": "Townshend talks theory; Moon lives entropy; the quotes swing between manifesto and mischief.\n\nPin both. The band's intelligence and its violence are the same engine with different gears.",
-        "zh": "Townshend 谈理论；Moon 活在熵里；金句在宣言与恶作剧之间摆。\n\n两种都钉上。这支乐队的智力与暴力，是同一台引擎的不同档位。"
+        "en": "Interview lines about songwriting systems sit beside smashed-instrument stories.\n\nHold both as documented practices.",
+        "zh": "关于歌曲写作系统的访谈句，旁靠砸乐器故事。\n\n二者都当作有文献的实践。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,

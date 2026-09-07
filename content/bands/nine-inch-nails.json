@@ -1,0 +1,35 @@
+{
+  "name": "Nine Inch Nails",
+  "slug": "nine-inch-nails",
+  "formed": 1988,
+  "origin": "Cleveland, USA",
+  "primaryEra": "1990s-grunge-alt",
+  "genres": [
+    "alternative",
+    "hard-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Trent Reznor’s industrial-rock project; The Downward Spiral (1994) brought sequenced aggression and studio-as-instrument to US rock mass media.",
+    "zh": "Trent Reznor 的工业摇滚项目；The Downward Spiral（1994）把音序攻击与「录音室即乐器」送进美国摇滚大众媒介。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Closer",
+      "year": 1994
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Industrial rock as one-man studio band; Closer is the 1994 crossover single.",
+    "zh": "一人录音室编制的工业摇滚；Closer 是 1994 跨界单曲。"
+  },
+  "body": {
+    "en": "Started Cleveland 1988. Pretty Hate Machine and Broken EPs built the live/industrial hybrid; The Downward Spiral and The Fragile are the dense studio peaks—sampling, distorted vocals, programmed drums beside live kits.\n\nCloser (1994) is the MTV/radio spike. NIN matters in a guitar-band chronicle as the 1990s proof that rock dynamics can be built from machines without exiting rock radio.",
+    "zh": "1988 年于克利夫兰起步。Pretty Hate Machine 与 Broken EP 建立现场/工业混合；The Downward Spiral 与 The Fragile 是密集录音室高峰——采样、失真人声、程序鼓与真人鼓组并存。\n\nCloser（1994）是 MTV/电台尖峰。在吉他乐队编年里，NIN 证明 1990 年代摇滚动态可用机器搭建且不退出摇滚电台。"
+  }
+}

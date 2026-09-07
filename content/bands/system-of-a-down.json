@@ -1,0 +1,35 @@
+{
+  "name": "System of a Down",
+  "slug": "system-of-a-down",
+  "formed": 1994,
+  "origin": "Los Angeles, USA",
+  "primaryEra": "2000s-revival",
+  "genres": [
+    "heavy-metal",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "LA Armenian-American metal band; Toxicity (2001) put odd meters, shouted politics, and abrupt dynamic cuts on nu-metal radio.",
+    "zh": "洛杉矶亚美裔金属乐队；Toxicity（2001）把奇数拍、喊叫政治与突然动态切磋送上 nu-metal 电台。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Chop Suey!",
+      "year": 2001
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Tankian / Malakian alt-metal; Chop Suey! is the structural spike.",
+    "zh": "Tankian / Malakian 的 alt-metal；Chop Suey! 是结构尖峰。"
+  },
+  "body": {
+    "en": "Formed 1994. Self-titled debut and Toxicity fused Serj Tankian’s theatrical vocal, Daron Malakian’s riff cuts, odd-time drums, and Middle Eastern melodic ornaments.\n\nChop Suey! (2001) is the citation—tempo and intensity change mid-song without a bridge cliché. They sit beside Linkin Park on early-2000s charts with less hip-hop and more prog abruptness.",
+    "zh": "1994 年组建。同名首专与 Toxicity 融合 Serj Tankian 戏剧人声、Daron Malakian 的 riff 切割、奇数拍鼓与中东旋律装饰。\n\nChop Suey!（2001）是引用——曲中速度与强度切换，不靠俗套桥段。与 Linkin Park 同在 2000 年代初榜单，更少 hip-hop、更多 prog 式突然性。"
+  }
+}

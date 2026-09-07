@@ -1,0 +1,35 @@
+{
+  "name": "The Verve",
+  "slug": "the-verve",
+  "formed": 1990,
+  "origin": "Wigan, UK",
+  "primaryEra": "1990s-britpop",
+  "genres": [
+    "britpop",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Wigan band that put string loops and Richard Ashcroft’s vocal on late-Britpop stadium scale; Urban Hymns (1997) is the mass record.",
+    "zh": "威根乐队：把弦乐循环与 Richard Ashcroft 人声推上后 Britpop 体育场体量；Urban Hymns（1997）是大众唱片。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Bitter Sweet Symphony",
+      "year": 1997
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Britpop-era psych-rock; Bitter Sweet Symphony is the sample-era hit.",
+    "zh": "Britpop 时期迷幻摇滚；Bitter Sweet Symphony 是采样时代热单。"
+  },
+  "body": {
+    "en": "Formed 1990. A Northern Soul and early EPs built space-rock length; Urban Hymns after a breakup/reunion delivered the chart peak with Nick McCabe’s guitar wash and orchestral samples.\n\nBitter Sweet Symphony (1997) is the essential track (and rights-dispute case study). They close Britpop’s commercial arc with melancholic, mid-tempo maximalism.",
+    "zh": "1990 年组建。A Northern Soul 与早期 EP 建立太空摇滚时长；解散/重组后的 Urban Hymns 以 Nick McCabe 吉他铺底与管弦采样交出榜单高峰。\n\nBitter Sweet Symphony（1997）是必听（也是版权纠纷案例）。以忧郁中速的最大化制作收束 Britpop 商业弧线。"
+  }
+}

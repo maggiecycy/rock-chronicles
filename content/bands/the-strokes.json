@@ -9,8 +9,8 @@
     "post-punk"
   ],
   "whyMatters": {
-    "en": "Tight drums, leather cool, Is This It production: The Strokes open the door for the 2000s NYC garage and post-punk revival.",
-    "zh": "紧鼓点、皮衣冷感、Is This It 的制作：The Strokes 为 2000s 纽约车库与后朋克复兴推开那扇门。"
+    "en": "NYC five-piece whose Is This It (2001) reset early-2000s indie toward compressed garage-pop and leather-jacket cool after nu-metal radio.",
+    "zh": "纽约五人组：Is This It（2001）在 nu-metal 电台之后，把 2000 年代初 indie 扳向压缩车库流行与皮衣酷感。"
   },
   "members": [
     {
@@ -70,8 +70,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Key composition moment",
-        "zh": "复兴浪潮的全球名片"
+        "en": "2001 debut hook single.",
+        "zh": "2001 出道钩子单曲。"
       }
     },
     {
@@ -89,8 +89,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Key composition moment",
-        "zh": "双吉他咬合的都市夜晚"
+        "en": "Dual-guitar Room on Fire precision.",
+        "zh": "Room on Fire 双吉他精度。"
       }
     }
   ],
@@ -98,7 +98,7 @@
     {
       "text": "We just wanted to make cool music.",
       "speaker": "Julian Casablancas",
-      "source": "Interview excerpt · Whisper-ready",
+      "source": "Interview excerpt",
       "year": 2002
     }
   ],
@@ -118,24 +118,24 @@
     "arctic-monkeys"
   ],
   "shortBio": {
-    "en": "NYC switch for the 2000s guitar revival.",
-    "zh": "2000s 吉他复兴的纽约开关。"
+    "en": "Casablancas-led post-punk revival; Last Nite is the debut-era hook.",
+    "zh": "Casablancas 领衔的后朋克复兴；Last Nite 是出道期钩子。"
   },
   "decisive": true,
   "body": {
-    "en": "Five downtown silhouettes, songs that sound like they were recorded in a cool basement on purpose. The Strokes make early-2000s guitar cool feel inevitable again.\n\nAfter them, a wave has a shared aesthetic entrance—hair, snap, restraint.",
-    "zh": "五个下城剪影，歌听起来像故意录在凉爽地下室。The Strokes 让世纪初的吉他酷感再次显得必然。\n\n在他们之后，一股浪潮有了统一审美入口——发型、干脆、克制。"
+    "en": "Formed 1998. Is This It and Room on Fire fix Julian’s half-spoken vocal, interlocking Valensi/Hammond guitars, Fraiture bass, Moretti drums—lo-fi sheen as aesthetic.\n\nLast Nite (2001) and Reptilia (2003) are the citation singles. UK/US indie boom follows their template for several years.",
+    "zh": "1998 年组建。Is This It 与 Room on Fire 定型 Julian 半说唱人声、Valensi/Hammond 交织吉他、Fraiture 贝斯、Moretti 鼓——把 lo-fi 光泽当美学。\n\nLast Nite（2001）与 Reptilia（2003）是引用单曲。此后数年英美 indie 热潮跟随其模板。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "The cool door swings open",
-        "zh": "酷的那扇门打开"
+        "en": "Garage-pop reset after nu-metal",
+        "zh": "nu-metal 之后的车库流行重置"
       },
       "body": {
-        "en": "Is This It arrives like a rumor that turns out true: short songs, interlocking guitars, Casablancas half-awake on the mic. Garage and post-punk memory become a present tense uniform.\n\nDecisive as ignition—others pour through the same doorway.",
-        "zh": "Is This It 像一则最终证实的谣言：短歌、咬合吉他、Casablancas 半醒着贴麦。车库与后朋克记忆变成现在时制服。\n\n决定性在点火——别人从同一扇门涌入。"
+        "en": "The Strokes matter as a format reset: short songs, dry production, NYC cool, post-punk guitar chatter against early-2000s heavy radio.\n\nIs This It timing is half the story.",
+        "zh": "The Strokes 要紧处是格式重置：短歌、干制作、纽约酷感、后朋克吉他碎语，对位 2000 年代初重型电台。\n\nIs This It 的时机是故事的一半。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "indie-rock"
@@ -143,12 +143,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Last Nite: the revival's calling card",
-        "zh": "Last Nite：复兴的名片"
+        "en": "Last Nite: debut hook single",
+        "zh": "Last Nite：出道钩子单曲"
       },
       "body": {
-        "en": "A riff that nods at older rooms without paying full rent. Last Nite becomes the global postcard of the revival—recognizable in three seconds, cool in thirty.\n\nThis is how a local NYC temperature becomes export weather.",
-        "zh": "一段向旧房间点头却不全额付租的 riff。Last Nite 成为复兴的全球明信片——三秒能认，三十秒够酷。\n\n本地纽约气温，就这样变成出口天气。"
+        "en": "Stones-ish guitar figure, Casablancas vocal fry, tight runtime—2001 indie radio object.\n\nAccessible entry to the album’s cool.",
+        "zh": "偏 Stones 的吉他音型、Casablancas 声带摩擦、紧时长——2001 indie 电台对象。\n\n专辑酷感的易入口。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -157,12 +157,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Reptilia: twin guitars, night asphalt",
-        "zh": "Reptilia：双吉他，夜间柏油"
+        "en": "Reptilia: dual-guitar chatter",
+        "zh": "Reptilia：双吉他碎语"
       },
       "body": {
-        "en": "Valensi and Hammond interlocking like traffic lights arguing. Reptilia is the downtown night in motion—tight, slightly mean, impossible to over-explain.\n\nThe revival's body language lives in that bite.",
-        "zh": "Valensi 与 Hammond 像抬杠的红绿灯咬合。Reptilia 是移动中的下城夜晚——紧、略凶、不必过度解释。\n\n复兴的身体语言，住在那一口咬合里。"
+        "en": "Interlocking parts, urgent vocal—Room on Fire precision.\n\nShows the band as arrangement, not only image.",
+        "zh": "交织声部、紧迫人声——Room on Fire 精度。\n\n展示乐队是编曲，不只是形象。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -171,12 +171,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Velvet ghosts, modern haircuts",
-        "zh": "Velvet 鬼魂，现代发型"
+        "en": "Template for 2000s indie uniform",
+        "zh": "2000 年代 indie 制服模板"
       },
       "body": {
-        "en": "Upstream: NYC cool from older decades, Television nerves, CBGB dust. Downstream: Arctic Monkeys and a thousand tight-trouser bands learning restraint as style.\n\nThe Strokes are less a genre than a permission slip for looking sharp while playing simple.",
-        "zh": "上游：更早几十年的纽约酷、Television 神经、CBGB 灰尘。下游：Arctic Monkeys 与一千支紧身裤乐队学会把克正当风格。\n\nThe Strokes 与其说是流派，不如说是许可：弹得简单也可以看起来锋利。"
+        "en": "Leather, skinny ties, compressed mixes—copied hard by peers. Later Strokes records experiment; the debut DNA dominates citations.\n\nInfluence is sonic and sartorial.",
+        "zh": "皮衣、瘦领带、压缩混音——被同辈狠抄。后期 Strokes 唱片有实验；引用仍被首专 DNA 主导。\n\n影响在声音与着装。"
       },
       "stickyVisual": "dna",
       "soundGenre": "indie-rock"
@@ -184,12 +184,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Half-mumbled doctrine",
-        "zh": "半喃出来的教义"
+        "en": "Cool minimalism in interviews",
+        "zh": "访谈里的酷极简"
       },
       "body": {
-        "en": "Casablancas quotes arrive half-swallowed, which somehow makes them doctrine for a decade of cool. The band talks less than the silhouette suggests.\n\nPin the mumble. The aesthetic was always economy.",
-        "zh": "Casablancas 的话半吞半吐到场，却莫名成为十年酷感教义。乐队说话比剪影暗示的更少。\n\n钉住含糊。美学本来就是节省。"
+        "en": "Early press often mirrors the laconic vocal style. Useful as branding evidence.\n\nMusic still judged on the singles’ compression and hooks.",
+        "zh": "早期媒体常镜像其寡言人声风格。可作品牌证据。\n\n音乐判断仍看单曲的压缩与钩子。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,

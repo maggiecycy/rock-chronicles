@@ -1,0 +1,75 @@
+{
+  "name": "Queen",
+  "slug": "queen",
+  "formed": 1970,
+  "origin": "London, UK",
+  "primaryEra": "1970s-prog-hard-rock",
+  "alsoAppearsIn": [
+    "punk-postpunk"
+  ],
+  "genres": [
+    "hard-rock",
+    "progressive-rock"
+  ],
+  "decisive": true,
+  "whyMatters": {
+    "en": "London four-piece that combined multi-section songwriting, stacked vocals, and hard-rock guitar on 1970s FM radio; A Night at the Opera (1975) is the proof album.",
+    "zh": "伦敦四人组：在 1970 年代 FM 电台上结合多段体写作、堆叠人声与 hard-rock 吉他；A Night at the Opera（1975）是证明专辑。"
+  },
+  "members": [
+    {
+      "name": "Freddie Mercury",
+      "role": "Vocals, Piano",
+      "years": "1970–1991"
+    },
+    {
+      "name": "Brian May",
+      "role": "Guitar",
+      "years": "1970–present"
+    },
+    {
+      "name": "Roger Taylor",
+      "role": "Drums",
+      "years": "1970–present"
+    },
+    {
+      "name": "John Deacon",
+      "role": "Bass",
+      "years": "1971–1997"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Bohemian Rhapsody",
+      "year": 1975
+    },
+    {
+      "title": "We Will Rock You",
+      "year": 1977
+    },
+    {
+      "title": "Don't Stop Me Now",
+      "year": 1978
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [
+    "led-zeppelin",
+    "david-bowie"
+  ],
+  "influenceFrom": [
+    "the-beatles",
+    "led-zeppelin"
+  ],
+  "influenced": [
+    "muse"
+  ],
+  "shortBio": {
+    "en": "Mercury / May / Taylor / Deacon; Bohemian Rhapsody is the multi-section hit.",
+    "zh": "Mercury / May / Taylor / Deacon；Bohemian Rhapsody 是多段体热单。"
+  },
+  "body": {
+    "en": "Formed 1970. Mid-70s albums through News of the World fuse Brian May’s layered guitars, Freddie Mercury’s range, and studio vocal choirs. Later hits (We Will Rock You, Don’t Stop Me Now) simplify for stadium chant.\n\nBohemian Rhapsody (1975) is the structural citation—ballad, opera pastiche, hard outro without a single verse-chorus loop. Craft and theatricality share the same sessions.",
+    "zh": "1970 年组建。70 年代中期至 News of the World 的专辑融合 Brian May 多层吉他、Freddie Mercury 音域与录音室人声合唱。后期热单（We Will Rock You、Don’t Stop Me Now）为体育场口号简化。\n\nBohemian Rhapsody（1975）是结构引用——谣曲、歌剧拼贴、硬摇滚尾奏，而非单一主副歌循环。工艺与剧场性在同一录音会话里。"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": {
+    "en": "Britpop & UK Indie",
+    "zh": "英伦摇滚与英式独立"
+  },
+  "slug": "1990s-britpop",
+  "decade": "1990s",
+  "years": "1989–2005",
+  "order": 7,
+  "summary": {
+    "en": "UK guitar bands fight for chart position with sixties lineage and class lyrics.",
+    "zh": "英国吉他乐队用六十年代谱系与阶级歌词争榜。"
+  },
+  "sound": {
+    "en": "Big Noel-style choruses, jangly indie, Madchester residue, northern accent vocals",
+    "zh": "Noel 式大副歌、叮当 Indie、Madchester 余韵、北方口音人声"
+  },
+  "anchorBands": [
+    "oasis",
+    "blur",
+    "pulp",
+    "the-stone-roses",
+    "the-verve"
+  ],
+  "alsoNotable": [
+    "Suede",
+    "The Libertines",
+    "Arctic Monkeys"
+  ],
+  "genres": [
+    "britpop",
+    "indie-rock",
+    "alternative"
+  ],
+  "body": {
+    "en": "Britpop is not UK grunge. It argues for Beatles/Kinks lineage, class storytelling, and NME/chart competition as a national sport. Kept separate so Oasis and Nirvana are not filed under one label.",
+    "zh": "Britpop 不是英国版 Grunge。它主张 Beatles/Kinks 谱系、阶级叙事，以及把 NME/榜单竞争当国民运动。与 Grunge 分开，免得 Oasis 和 Nirvana 被归成同一标签。"
+  },
+  "navLabel": {
+    "en": "Britpop",
+    "zh": "英伦"
+  }
+}

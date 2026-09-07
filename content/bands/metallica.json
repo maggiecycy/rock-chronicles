@@ -3,13 +3,13 @@
   "slug": "metallica",
   "formed": 1981,
   "origin": "Los Angeles, USA",
-  "primaryEra": "1980s-punk-metal",
+  "primaryEra": "1980s-metal",
   "genres": [
     "heavy-metal"
   ],
   "whyMatters": {
-    "en": "Underground thrash pushed into a global Metal industry: speed, precision, album myth—Heavy Metal takes the main stage across the eighties and nineties.",
-    "zh": "把地下 Thrash 推成全球 Metal 工业：速度、精准、专辑神话——Heavy Metal 在八九十年代抢下主舞台。"
+    "en": "LA/Bay Area thrash band that scaled underground speed metal to mainstream rock radio via Master of Puppets (1986) and the Black Album (1991).",
+    "zh": "洛杉矶/湾区 thrash：借 Master of Puppets（1986）与黑专（1991）把地下速度金属扩到主流摇滚电台。"
   },
   "members": [
     {
@@ -61,8 +61,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Thrash",
-        "zh": "Thrash 巅峰的结构控制"
+        "en": "Long-form thrash arrangement peak.",
+        "zh": "长形式 thrash 编曲峰值。"
       }
     },
     {
@@ -79,8 +79,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Metal MTV",
-        "zh": "Metal 进入 MTV 主流"
+        "en": "Radio-length riff with chant chorus.",
+        "zh": "电台时长 riff + 口号副歌。"
       }
     }
   ],
@@ -88,7 +88,7 @@
     {
       "text": "We play metal. That's what we do.",
       "speaker": "James Hetfield",
-      "source": "Interview excerpt · Whisper-ready",
+      "source": "Interview excerpt",
       "year": 1991
     }
   ],
@@ -105,24 +105,24 @@
   ],
   "influenced": [],
   "shortBio": {
-    "en": "Bridge from thrash underground to mainstream Metal scale.",
-    "zh": "从地下 Thrash 通向主流 Metal 体量的桥。"
+    "en": "Hetfield / Ulrich thrash-to-arena metal; Enter Sandman is the mass hinge.",
+    "zh": "Hetfield / Ulrich 从 thrash 到体育场金属；Enter Sandman 是大众铰链。"
   },
   "decisive": true,
   "body": {
-    "en": "Metallica take Bay Area thrash discipline and scale it until arenas have to learn the downstroke.\n\nMaster of Puppets is the underground cathedral; the Black Album kicks the doors open for MTV. Metal stops apologizing for wanting the center.",
-    "zh": "Metallica 把湾区 thrash 的纪律放大到体育馆也得学会下拨。\n\nMaster of Puppets 是地下大教堂；黑专辑踹开 MTV 的门。Metal 不再为想要中心位置道歉。"
+    "en": "Formed 1981. Kill ’Em All through …And Justice for All document thrash precision and Cliff Burton then Jason Newsted bass eras; the Black Album (Bob Rock) shortens songs for rock radio.\n\nMaster of Puppets (1986), One (1988), Enter Sandman (1991) show progressive thrash length, ballad-metal drama, and riff-chorus mainstreaming.",
+    "zh": "1981 年组建。从 Kill ’Em All 到 …And Justice for All 记录 thrash 精密与 Cliff Burton 然后 Jason Newsted 贝斯时期；黑专（Bob Rock）缩短歌曲以进摇滚电台。\n\nMaster of Puppets（1986）、One（1988）、Enter Sandman（1991）展示 progressive thrash 时长、谣曲—金属戏剧，以及 riff-副歌主流化。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Speed learns architecture",
-        "zh": "速度学会建筑"
+        "en": "Thrash craft at arena scale",
+        "zh": "体育场尺度的 thrash 工艺"
       },
       "body": {
-        "en": "Early Metallica are not only fast—they are precise. Riffs stack like scaffolding; songs turn into campaigns.\n\nDecisive because they carry thrash out of the tape-trading basement without sanding off the teeth, then later prove Metal can own the chart without becoming soft rock in leather.",
-        "zh": "早期 Metallica 不只是快——他们精准。riff 像脚手架叠起来；歌变成战役。\n\n决定性在于：把 thrash 带出磁带交易地下室却不磨掉牙，后来又证明 Metal 能占排行榜，而不必变成穿皮衣的软摇滚。"
+        "en": "Metallica matter as the thrash band that kept downpicked riff discipline while learning mass-chorus writing. Underground credibility and MTV-era reach share one catalog.\n\nBig Four leader by sales and citation.",
+        "zh": "Metallica 要紧处是：在学习大众副歌写作时仍保持下拨 riff 纪律。地下信誉与 MTV 时期触达共享同一目录。\n\n销量与引用上的 Big Four 领袖。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "heavy-metal"
@@ -130,12 +130,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Cliff, then the long machine",
-        "zh": "Cliff，然后是长期机器"
+        "en": "Burton era vs Newsted/Rock era",
+        "zh": "Burton 时期 vs Newsted/Rock 时期"
       },
       "body": {
-        "en": "Cliff Burton's era freezes a mythic precision; after the crash, the band rebuilds and keeps marching. Newsted, then later shifts—the machine outlives any single cast photo.\n\nName the versions that still ring when you say Master or Sandman. Personnel is plot, not trivia.",
-        "zh": "Cliff Burton 的时代冻住一种神话级精准；车祸之后乐队重建并继续行军。Newsted，再后来的变动——机器活过任何一张卡司照片。\n\n说出 Master 或 Sandman 时仍会响的那些版本。人事是情节，不是冷知识。"
+        "en": "Cliff Burton’s years are the progressive-thrash citation. Post-1986 bass change and 1991 production shift create distinct versions under one name.\n\nHammett after Mustaine: lead-guitar continuity with a different origin story.",
+        "zh": "Cliff Burton 年代是 progressive thrash 引用。1986 后换贝斯与 1991 制作转向造就同名下的不同版本。\n\nMustaine 之后的 Hammett：主音吉他连续，起源故事不同。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "heavy-metal"
@@ -143,12 +143,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Master of Puppets: thrash with a blueprint",
-        "zh": "Master of Puppets：带着图纸的 Thrash"
+        "en": "Master of Puppets: long-form thrash",
+        "zh": "Master of Puppets：长形式 thrash"
       },
       "body": {
-        "en": "1986. The title track is long without getting lost—sections lock, open, crush. Underground Metal finds a cathedral that still hits like a street fight.\n\nThis is thrash at peak structural control: rage that can read a map.",
-        "zh": "1986 年。标题曲长却不迷路——段落锁定、打开、碾压。地下 Metal 找到一座仍像街头斗殴的大教堂。\n\n这是 thrash 结构控制的巅峰：会看地图的怒火。"
+        "en": "Multi-section riff essay—speed, mid-tempo crush, clean bridge. Peak of pre-mainstream song length.\n\nTeaching track for arrangement inside thrash.",
+        "zh": "多段 riff 长文——速度、中速碾压、干净桥段。主流化前歌曲时长的峰值。\n\nthrash 内部编曲教材。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -157,12 +157,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Enter Sandman: Metal on the MTV clock",
-        "zh": "Enter Sandman：MTV 时钟上的 Metal"
+        "en": "Enter Sandman: radio-length riff",
+        "zh": "Enter Sandman：电台时长 riff"
       },
       "body": {
-        "en": "A riff simple enough to haunt suburban bedrooms; a video cycle that plants Metal in living rooms. Enter Sandman is the handshake with mass culture that thrash purists fear and history requires.\n\nAfter this, Heavy Metal's main-stage claim is no longer theoretical.",
-        "zh": "riff 简单到能缠住郊区卧室；影像轮播把 Metal 种进客厅。Enter Sandman 是与大众文化的握手——thrash 纯粹主义者害怕，历史却需要。\n\n在此之后，Heavy Metal 对主舞台的主张不再是理论。"
+        "en": "Bob Rock sheen, shorter runtime, chant chorus—thrash DNA inside hard-rock radio format.\n\nThe hinge toward 1990s mainstream metal.",
+        "zh": "Bob Rock 光泽、更短时长、口号副歌——hard-rock 电台格式里的 thrash DNA。\n\n通向 1990 年代主流金属的铰链。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -171,12 +171,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "From tape trade to stadium law",
-        "zh": "从磁带交易到体育馆律法"
+        "en": "Downpick discipline, later forks",
+        "zh": "下拨纪律，后期分叉"
       },
       "body": {
-        "en": "Downstream: modern Metal's expectation of tightness, the album as campaign, the riff as brand. Upstream: Sabbath gloom and NWOBHM spark, compressed into California velocity.\n\nMetallica sit where underground ethics and industrial scale argue in public.",
-        "zh": "下游：现代 Metal 对紧密度的期待、专辑即战役、riff 即品牌。上游：Sabbath 阴郁与 NWOBHM 火星，压进加州速度。\n\nMetallica 坐在地下伦理与工业体量公开抬杠的位置。"
+        "en": "Right-hand stamina and chromatic riff writing feed metalcore and modern metal. Load/Reload and Napster-era fights are separate institutional chapters.\n\nMusical constant: Hetfield rhythm guitar as engine.",
+        "zh": "右手耐力与半音 riff 写作喂养 metalcore 与现代金属。Load/Reload 与 Napster 时期争端是另一些制度章节。\n\n音乐常量：Hetfield 节奏吉他当引擎。"
       },
       "stickyVisual": "dna",
       "soundGenre": "heavy-metal"
@@ -184,12 +184,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Discipline spoken like a threat",
-        "zh": "把纪律说成威胁"
+        "en": "Work ethic lines beside the riffs",
+        "zh": "riff 旁的工作伦理话术"
       },
       "body": {
-        "en": "Hetfield and Ulrich talk work ethic until it sounds like a dare. The quotes nail a band that treats Metal as craft hours, not costume weekends.\n\nPin the work talk. The myth is sweat with a click track.",
-        "zh": "Hetfield 与 Ulrich 谈职业道德，谈到像下战书。金句钉住一支把 Metal 当工时、不当周末戏服的乐队。\n\n把干活的话钉上。神话是带节拍器的汗。"
+        "en": "Interview excerpts about practice and touring density match the recorded attack.\n\nPrefer process talk over mythic language.",
+        "zh": "关于练习与巡演密度的访谈摘句，与录音中的攻击性匹配。\n\n宁取过程谈话，不取神话化语言。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -222,7 +222,11 @@
           "name": "Cliff Burton",
           "role": "Bass"
         }
-      ]
+      ],
+      "note": {
+        "en": "Cliff Burton progressive-thrash peak years.",
+        "zh": "Cliff Burton progressive thrash 巅峰年。"
+      }
     },
     {
       "id": "jason-era",
@@ -250,8 +254,8 @@
         }
       ],
       "note": {
-        "en": "Same machine, different low end—version, not a new band.",
-        "zh": "同一机器，不同低音——是版本，不是新乐队。"
+        "en": "Newsted / Black Album–era mainstream hinge.",
+        "zh": "Newsted / 黑专时期主流铰链。"
       }
     }
   ],
@@ -260,16 +264,16 @@
       "title": "Seek & Destroy",
       "year": 1983,
       "note": {
-        "en": "Thrash speed + riff discipline goes global.",
-        "zh": "Thrash 速度与 riff 纪律走向全球。"
+        "en": "Early thrash speed document.",
+        "zh": "早期 thrash 速度文献。"
       }
     },
     "pioneeredGenres": [
       "heavy-metal"
     ],
     "note": {
-      "en": "Metal's mass-scale technical grammar.",
-      "zh": "Metal 大众化的技术语法。"
+      "en": "Underground thrash craft scaled to 1990s rock radio.",
+      "zh": "地下 thrash 工艺扩到 1990 年代摇滚电台。"
     }
   }
 }

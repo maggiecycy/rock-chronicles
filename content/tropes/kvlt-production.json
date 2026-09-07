@@ -1,0 +1,33 @@
+{
+  "slug": "kvlt-production",
+  "title": {
+    "en": "If it sounds like a 90s tape in a Norwegian basement…",
+    "zh": "如果听起来像挪威地下室的 90 年代磁带……"
+  },
+  "summary": {
+    "en": "…then it is \"true\" black metal. Fidelity is suspicious; frostbite is authenticity.",
+    "zh": "……那它就是「绝对纯正」的黑金。清晰度可疑；冻伤才是正统。"
+  },
+  "body": {
+    "en": "Second-wave black metal lore treats bedroom/necro production as a purity test. Clean modern mixes get accused of selling out before anyone argues about riffs.\n\nThe joke is real in forums; the music still ranges from intentional lo-fi to later bands that can actually record. Listen past the ideology when you want songs, not visas.",
+    "zh": "第二波黑金传说把卧室 / necro 录音当纯度测试。现代干净混音还没吵到 riff，先被控堕落。\n\n论坛里这梗是真的；音乐本身从故意 Lo-Fi 到后来会录音的乐队都有。想听歌而不是签证时，先把意识形态放一边。"
+  },
+  "tone": "meme",
+  "examples": [
+    {
+      "bandSlug": "slayer",
+      "label": "Slayer",
+      "note": {
+        "en": "Not BM—but thrash fans run a parallel \"raw vs polished\" fight.",
+        "zh": "不是黑金——但 thrash 粉有平行的「毛边 vs 抛光」内战。"
+      }
+    },
+    {
+      "label": "Second-wave BM forums",
+      "note": {
+        "en": "Where \"kvlt\" production grades the tape hiss.",
+        "zh": "在那儿用磁带嘶声给「kvlt」打分。"
+      }
+    }
+  ]
+}

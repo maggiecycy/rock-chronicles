@@ -3,7 +3,7 @@
   "slug": "new-order",
   "formed": 1980,
   "origin": "Manchester, UK",
-  "primaryEra": "1980s-punk-metal",
+  "primaryEra": "punk-postpunk",
   "genres": [
     "post-punk"
   ],
@@ -17,11 +17,15 @@
   "influenceFrom": [],
   "influenced": [],
   "shortBio": {
-    "en": "Joy Division after the silence: same bloodline, colder dancefloor, longer afterlife.",
-    "zh": "沉默之后的 Joy Division：同一血脉，更冷的舞池，更长的余生。"
+    "en": "Sumner / Hook / Morris + Gillian Gilbert; post-punk into club electronics.",
+    "zh": "Sumner / Hook / Morris + Gillian Gilbert；后朋克进入俱乐部电子。"
   },
   "body": {
-    "en": "Joy Division after the silence: same bloodline, colder dancefloor, longer afterlife. Bridge page for the shared-member graph—not a full decisive narrative yet.",
-    "zh": "沉默之后的 Joy Division：同一血脉，更冷的舞池，更长的余生。 共享成员图的桥梁页——尚未展开决定性长叙事。"
+    "en": "Formed 1980 after Ian Curtis’s death. Early Factory Records singles (Blue Monday) and Power, Corruption & Lies fused sequenced bass, Hook’s high melodic basslines, and Sumner’s dry vocal.\n\nBridge page for Joy Division → dancefloor continuity. Catalog shows how post-punk personnel adopted drum machines without abandoning song form.",
+    "zh": "Ian Curtis 去世后于 1980 年组建。早期 Factory 单曲（Blue Monday）与 Power, Corruption & Lies 融合音序低音、Hook 的高音旋律贝斯与 Sumner 的干人声。\n\nJoy Division → 舞池连续性的桥页。目录展示后朋克人事如何采用鼓机而不放弃歌曲形式。"
+  },
+  "whyMatters": {
+    "en": "Post–Joy Division Manchester band; same core players plus synth/bass-dance grammar from Movement (1981) through Technique.",
+    "zh": "Joy Division 之后的曼彻斯特乐队；自 Movement（1981）到 Technique，同一核心成员加上合成器/舞曲贝斯语法。"
   }
 }

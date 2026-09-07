@@ -1,0 +1,35 @@
+{
+  "name": "Fleetwood Mac",
+  "slug": "fleetwood-mac",
+  "formed": 1967,
+  "origin": "London, UK",
+  "primaryEra": "1970s-prog-hard-rock",
+  "genres": [
+    "rock-n-roll",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "British-American band whose 1975–77 Buckingham–Nicks lineup turned soft-rock harmony and studio polish into Rumours-scale pop architecture.",
+    "zh": "英美乐队：1975–77 Buckingham–Nicks 阵容把软摇滚和声与录音室抛光做成 Rumours 级流行结构。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Go Your Own Way",
+      "year": 1977
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Lineup-drama soft rock; Go Your Own Way and Rumours define late-70s radio craft.",
+    "zh": "阵容戏剧化的软摇滚；Go Your Own Way 与 Rumours 定义 70 年代末电台工艺。"
+  },
+  "body": {
+    "en": "Started 1967 as a UK blues band (Peter Green era). The chronicle hinge is the California pop era: Fleetwood Mac (1975) and Rumours (1977) with Lindsey Buckingham, Stevie Nicks, Christine McVie, John McVie, Mick Fleetwood.\n\nGo Your Own Way (1977) shows the production—layered acoustics, precise drums, stacked vocals. Interpersonal conflict is documented; the musical object is arrangement density and radio longevity.",
+    "zh": "1967 年起家为英国蓝调乐队（Peter Green 时期）。编年铰链是加州流行时期：Fleetwood Mac（1975）与 Rumours（1977），阵容含 Lindsey Buckingham、Stevie Nicks、Christine McVie、John McVie、Mick Fleetwood。\n\nGo Your Own Way（1977）展示制作——多层原声、精确鼓组、堆叠人声。人际冲突有文献；音乐对象是编曲密度与电台寿命。"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Guns N' Roses",
+  "slug": "guns-n-roses",
+  "formed": 1985,
+  "origin": "Los Angeles, USA",
+  "primaryEra": "1980s-metal",
+  "alsoAppearsIn": [
+    "1990s-grunge-alt"
+  ],
+  "genres": [
+    "hard-rock"
+  ],
+  "decisive": true,
+  "whyMatters": {
+    "en": "LA hard-rock band; Appetite for Destruction (1987) reset late-80s metal radio toward street-blues riffs before grunge’s chart takeover.",
+    "zh": "洛杉矶 hard-rock；Appetite for Destruction（1987）在 grunge 占榜前，把 80 年代末金属电台扳向街头蓝调 riff。"
+  },
+  "members": [
+    {
+      "name": "Axl Rose",
+      "role": "Vocals",
+      "years": "1985–present"
+    },
+    {
+      "name": "Slash",
+      "role": "Guitar",
+      "years": "1985–1996; 2016–present"
+    },
+    {
+      "name": "Izzy Stradlin",
+      "role": "Guitar",
+      "years": "1985–1991"
+    },
+    {
+      "name": "Duff McKagan",
+      "role": "Bass",
+      "years": "1985–1997; 2016–present"
+    },
+    {
+      "name": "Steven Adler",
+      "role": "Drums",
+      "years": "1985–1990"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Sweet Child O' Mine",
+      "year": 1987
+    },
+    {
+      "title": "Welcome to the Jungle",
+      "year": 1987
+    },
+    {
+      "title": "November Rain",
+      "year": 1991
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [
+    "ac-dc",
+    "led-zeppelin",
+    "the-rolling-stones"
+  ],
+  "influenceFrom": [
+    "ac-dc",
+    "the-rolling-stones"
+  ],
+  "influenced": [],
+  "shortBio": {
+    "en": "Classic five-piece hard rock; Sweet Child O’ Mine is the Trojan-horse ballad.",
+    "zh": "经典五人 hard rock；Sweet Child O’ Mine 是特洛伊木马式谣曲。"
+  },
+  "body": {
+    "en": "Formed 1985. Appetite paired Axl Rose’s scream, Slash’s Les Paul leads, Izzy’s rhythm, Duff’s punk bass, Adler’s swing—against hair-metal gloss. Use Your Illusion (1991) expanded epics (November Rain) and lineup strain.\n\nWelcome to the Jungle and Sweet Child O’ Mine (1987) are the dual entry. They are the late golden-age hard-rock commercial peak immediately before alternative redraws US rock radio.",
+    "zh": "1985 年组建。Appetite 把 Axl Rose 的尖叫、Slash 的 Les Paul 主音、Izzy 节奏、Duff 朋克贝斯、Adler 的摇摆，对上 hair-metal 光泽。Use Your Illusion（1991）扩展史诗（November Rain）并加剧阵容紧张。\n\nWelcome to the Jungle 与 Sweet Child O’ Mine（1987）是双入口。他们是 alternative 重画美国摇滚电台之前，硬摇滚商业黄金晚期的峰值。"
+  }
+}

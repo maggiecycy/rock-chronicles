@@ -1,0 +1,26 @@
+{
+  "slug": "gilmour-one-bend",
+  "title": {
+    "en": "Waters writes the thesis, Gilmour plays one bend",
+    "zh": "Waters 写论文，Gilmour 一个推音"
+  },
+  "summary": {
+    "en": "Forty minutes on war, systems, and Dad—then one guitar phrase ends the debate.",
+    "zh": "四十分钟二战、制度与爸爸——然后一句吉他推音结束辩论。"
+  },
+  "body": {
+    "en": "Roger Waters builds concept-album architecture and spoken-word rage. David Gilmour answers with tone, sustain, and a bend that makes stadiums go quiet.\n\nFloyd fans pick a side the way football fans pick a club. The joke works because both halves are on the same records.",
+    "zh": "Roger Waters 盖概念专建筑和说唱怒气。David Gilmour 用音色、延音和一个推音让体育馆安静。\n\nFloyd 粉选边，像球迷选俱乐部。笑话成立，是因为两半都在同一张碟上。"
+  },
+  "tone": "meme",
+  "examples": [
+    {
+      "bandSlug": "pink-floyd",
+      "label": "Pink Floyd",
+      "note": {
+        "en": "The split is the lore; the solos are the receipt.",
+        "zh": "分裂是传说；Solo 是小票。"
+      }
+    }
+  ]
+}

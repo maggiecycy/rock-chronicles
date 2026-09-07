@@ -3,13 +3,13 @@
   "slug": "joy-division",
   "formed": 1976,
   "origin": "Salford, UK",
-  "primaryEra": "1980s-punk-metal",
+  "primaryEra": "punk-postpunk",
   "genres": [
     "post-punk"
   ],
   "whyMatters": {
-    "en": "Punk energy pressed into cold bass and empty air—Post-Punk and Indie inherit a mood and a rhythm grammar that still feels like night.",
-    "zh": "把 Punk 的能量压进冰冷低音与空房间——Post-Punk 与 Indie 继承一种至今仍像夜晚的情绪与节奏语法。"
+    "en": "Salford/Manchester post-punk four-piece; Unknown Pleasures (1979) and Closer (1980) fixed cold bass-led songs and Martin Hannett production before Curtis’s death ended the band.",
+    "zh": "索尔福德/曼彻斯特后朋克四人组；Unknown Pleasures（1979）与 Closer（1980）在 Curtis 去世结束乐队前，定下冷贝斯主导歌曲与 Martin Hannett 制作。"
   },
   "members": [
     {
@@ -62,8 +62,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Key composition moment",
-        "zh": "舞蹈命令遇上疏离"
+        "en": "Melodic single with Hook bass hook.",
+        "zh": "带 Hook 贝斯钩子的旋律单曲。"
       }
     },
     {
@@ -80,8 +80,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Post-Punk",
-        "zh": "Post-Punk 进入大众记忆的单曲"
+        "en": "Slow wide Hannett production ballad.",
+        "zh": "Hannett 慢宽制作谣曲。"
       }
     }
   ],
@@ -89,7 +89,7 @@
     {
       "text": "I used to think of myself as an artist.",
       "speaker": "Ian Curtis",
-      "source": "Letter / interview material · Whisper-ready",
+      "source": "Letter / interview material",
       "year": 1979
     }
   ],
@@ -108,24 +108,24 @@
     "fontaines-dc"
   ],
   "shortBio": {
-    "en": "Decisive template for Post-Punk mood and bass lines.",
-    "zh": "Post-Punk 情绪与低音线的决定性模板。"
+    "en": "Curtis / Sumner / Hook / Morris post-punk; Love Will Tear Us Apart is the mass single.",
+    "zh": "Curtis / Sumner / Hook / Morris 后朋克；Love Will Tear Us Apart 是大众单曲。"
   },
   "decisive": true,
   "body": {
-    "en": "Joy Division take punk's urgency and refrigerate it. Hooky's bass leads, Sumner's guitar scratches at the walls, Curtis sings like the floor might open.\n\nThe template for Post-Punk mood is locked before the decade turns.",
-    "zh": "Joy Division 把朋克的紧迫放进冷藏。Hooky 的贝斯领路，Sumner 的吉他刮墙，Curtis 唱得像地板可能裂开。\n\nPost-Punk 情绪模板在十年翻页前就锁死了。"
+    "en": "Formed 1976 (Warsaw). Factory Records albums with Hannett: spacious drums, Hook’s high melodic bass, Sumner’s brittle guitar, Curtis’s baritone.\n\nTransmission, Atmosphere, Love Will Tear Us Apart (1980) are the entry set. Survivors continue as New Order—same bloodline, different tools.",
+    "zh": "1976 年组建（曾用名 Warsaw）。与 Hannett 的 Factory 专辑：宽鼓组、Hook 高音旋律贝斯、Sumner 脆吉他、Curtis 男中音。\n\nTransmission、Atmosphere、Love Will Tear Us Apart（1980）是入口组。幸存者续为 New Order——同一血脉，不同工具。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Cold rooms after the spit",
-        "zh": "吐口水之后的冷房间"
+        "en": "Post-punk bass and space as method",
+        "zh": "后朋克贝斯与空间作为方法"
       },
       "body": {
-        "en": "Punk breaks the furniture. Joy Division rearranges what is left into negative space. Bass becomes melody; drums become machinery; emotion arrives as frost.\n\nIndie later borrows the coat. Few fill it the same way.",
-        "zh": "Punk 砸家具。Joy Division 把剩下的排成负空间。贝斯变主旋律，鼓变机器，情绪以霜的形式到场。\n\n后来 Indie 借这件外套。很少有人穿出同样的样子。"
+        "en": "Joy Division matter for arrangement: bass often above guitar, drums gated/spaciously produced, vocal deadpan. Short catalog, high citation in goth/post-punk/indie.\n\nEnded 1980; influence is structural.",
+        "zh": "Joy Division 要紧在编曲：贝斯常高于吉他、鼓经门限/宽空间制作、人声冷脸。目录短，哥特/后朋克/indie 引用高。\n\n1980 年结束；影响是结构层面的。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "post-punk"
@@ -133,12 +133,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Transmission: dance order, distance kept",
-        "zh": "Transmission：跳舞命令，距离保留"
+        "en": "Love Will Tear Us Apart: melodic single",
+        "zh": "Love Will Tear Us Apart：旋律单曲"
       },
       "body": {
-        "en": "Dance, dance, dance to the radio—an order delivered from a great emotional distance. Transmission makes movement feel like discipline and release at once.\n\nPost-Punk learns it can be physical without becoming cheerful.",
-        "zh": "Dance, dance, dance to the radio——命令从很远的情感距离送达。Transmission 让移动同时像纪律与释放。\n\nPost-Punk 学会可以身体性，而不必变得欢快。"
+        "en": "Hook bass hook, Curtis vocal, danceable mid-tempo—widest public entry beyond the albums’ frost.\n\nPosthumous chart life is part of the document.",
+        "zh": "Hook 贝斯钩子、Curtis 人声、可跳的中速——超越专辑冷感的最宽公众入口。\n\n身后上榜属文献的一部分。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -147,12 +147,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Love Will Tear Us Apart: the public scar",
-        "zh": "Love Will Tear Us Apart：公开的伤疤"
+        "en": "Atmosphere: slow, wide production",
+        "zh": "Atmosphere：慢、宽的制作"
       },
       "body": {
-        "en": "The single that carries Post-Punk into common memory. Melody almost kind; lyric not kind at all.\n\nAfter this, cold music can chart. The contradiction becomes a genre habit.",
-        "zh": "把 Post-Punk 带进大众记忆的单曲。旋律近乎温柔；歌词一点也不。\n\n在此之后，冷的音乐也能上榜。矛盾变成流派习惯。"
+        "en": "Hannett space, synth pads, Curtis vocal further back—ballad form inside post-punk.\n\nTeaching track for production as emotion carrier.",
+        "zh": "Hannett 空间、合成器铺底、Curtis 人声更靠后——后朋克里的谣曲形式。\n\n制作作为情绪载体的教材曲。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -161,12 +161,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Bass lines that taught a generation to walk",
-        "zh": "教会一代人走路的低音线"
+        "en": "Factory method → New Order tools",
+        "zh": "Factory 方法 → New Order 工具"
       },
       "body": {
-        "en": "From Factory Records afterglow to countless Indie bassists who lead with the left hand, Joy Division sit upstream of mood rock.\n\nPunk's children learn restraint here—and never quite warm up again.",
-        "zh": "从 Factory 余烬到无数用左手领路的 Indie 贝斯手，Joy Division 坐在情绪摇滚上游。\n\nPunk 的孩子们在这里学会克制——并且再也没真正暖和回来。"
+        "en": "Same players adopt sequencers and club bass after 1980. JD’s DNA is the melodic bass + dry vocal template many revival bands copy.\n\nContinuity is personnel, not costume.",
+        "zh": "同一批乐手在 1980 年后采用音序器与俱乐部贝斯。JD 的 DNA 是旋律贝斯 + 干人声模板，许多复兴乐队照抄。\n\n连续的是人事，不是戏服。"
       },
       "stickyVisual": "dna",
       "soundGenre": "post-punk"
@@ -174,12 +174,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Few words, long shadows",
-        "zh": "话很少，影子很长"
+        "en": "Sparse public speech, dense myth later",
+        "zh": "公开话语 sparce，事后神话变密"
       },
       "body": {
-        "en": "Curtis's lines and the band's sparse talk leave more shadow than explanation. The quotes work because they refuse therapy language.\n\nNail them lightly. The music already said the heavy part.",
-        "zh": "Curtis 的句子与乐队稀少的谈话留下影子多于解释。金句有效，因为它们拒绝疗愈腔。\n\n轻轻钉上。重的部分音乐已经说完。"
+        "en": "Contemporary quotes are limited; later oral history fills gaps. Prefer musical description over romantic fatalism.\n\nRecords first.",
+        "zh": "同时代引语有限；后来口述史填空。宁取音乐描述，不取浪漫宿命论。\n\n唱片优先。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,

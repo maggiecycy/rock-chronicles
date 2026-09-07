@@ -1,0 +1,1945 @@
+{
+  "version": 1,
+  "title": {
+    "en": "100 Acts That Move the Timeline",
+    "zh": "100 支推动时间轴的乐队"
+  },
+  "intro": {
+    "en": "Timeline eras and this canon now share one taxonomy. Genres (punk, metal, grunge…) are sound tags; eras are chronological story buckets. Punk is not filed with thrash; Britpop is not filed with Seattle.",
+    "zh": "时间轴 eras 与本名单现已共用同一套分期。流派（punk、metal、grunge…）是声音标签；年代是叙事时间桶。朋克不再和鞭金塞一格；Britpop 不再和西雅图塞一格。"
+  },
+  "selectionPrinciples": {
+    "en": [
+      "Eras = when an act decisively changed the map (not only formation year).",
+      "Genres = sonic family tags; one band can wear several.",
+      "Punk/post-punk and metal are separate eras—even when years overlap.",
+      "Grunge/US alternative and Britpop are separate eras—parallel 1990s, different arguments.",
+      "Prefer lineage over sales; expand toward ~100 without pretending coverage is complete."
+    ],
+    "zh": [
+      "年代 = 该乐队决定性改写地图的时刻（不只是成立年份）。",
+      "流派 = 声音家族标签；一支乐队可以挂多个。",
+      "朋克/后朋与金属分属不同年代——即使年份重叠。",
+      "Grunge/美替代与 Britpop 分属不同年代——并行的 1990s，不同的争论。",
+      "重谱系轻销量；朝约 100 支扩展，但不假装已经穷尽。"
+    ]
+  },
+  "periods": [
+    {
+      "id": "1950s-roots",
+      "order": 1,
+      "eraSlug": "1950s-roots",
+      "name": {
+        "en": "Roots & Rock'n'Roll",
+        "zh": "根源与摇滚乐"
+      },
+      "years": "1950–1963",
+      "summary": {
+        "en": "Electric blues, backbeat, and teen radio invent the rock band format.",
+        "zh": "电蓝调、后拍与青少年电台，定下摇滚乐队的基本格式。"
+      },
+      "bands": [
+        {
+          "slug": "elvis-presley",
+          "name": "Elvis Presley",
+          "formed": 1954,
+          "origin": "Memphis, USA",
+          "primaryEra": "1950s-roots",
+          "genres": [
+            "rock-n-roll"
+          ],
+          "signature": {
+            "title": "That's All Right",
+            "year": 1954
+          },
+          "role": {
+            "en": "Puts rock & roll on mass TV and radio.",
+            "zh": "把 rock & roll 送上大众电视和电台。"
+          }
+        },
+        {
+          "slug": "chuck-berry",
+          "name": "Chuck Berry",
+          "formed": 1955,
+          "origin": "St. Louis, USA",
+          "primaryEra": "1950s-roots",
+          "genres": [
+            "rock-n-roll",
+            "blues"
+          ],
+          "signature": {
+            "title": "Johnny B. Goode",
+            "year": 1958
+          },
+          "role": {
+            "en": "Defines early rock guitar riff and story-song templates.",
+            "zh": "定下早期摇滚吉他 riff 与叙事歌模板。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1960s-british-invasion",
+      "order": 2,
+      "eraSlug": "1960s-british-invasion",
+      "name": {
+        "en": "Sixties Classic & Psych",
+        "zh": "六十年代经典与迷幻"
+      },
+      "years": "1964–1969",
+      "summary": {
+        "en": "UK bands re-export American blues louder; albums and studio craft take over singles.",
+        "zh": "英国乐队把美国蓝调更大声寄回；专辑与录音室工艺压过单曲。"
+      },
+      "bands": [
+        {
+          "slug": "the-beatles",
+          "name": "The Beatles",
+          "formed": 1960,
+          "origin": "Liverpool, UK",
+          "primaryEra": "1960s-british-invasion",
+          "genres": [
+            "rock-n-roll",
+            "psychedelic"
+          ],
+          "signature": {
+            "title": "A Day in the Life",
+            "year": 1967
+          },
+          "role": {
+            "en": "Redraws pop/rock borders; makes the album the main unit.",
+            "zh": "改写流行与摇滚边界；把专辑做成主要单位。"
+          }
+        },
+        {
+          "slug": "the-beach-boys",
+          "name": "The Beach Boys",
+          "formed": 1961,
+          "origin": "California, USA",
+          "primaryEra": "1960s-british-invasion",
+          "genres": [
+            "psychedelic",
+            "rock-n-roll"
+          ],
+          "signature": {
+            "title": "Good Vibrations",
+            "year": 1966
+          },
+          "role": {
+            "en": "Studio craft and layered pop/psych production.",
+            "zh": "录音室工艺与多层流行/迷幻制作。"
+          }
+        },
+        {
+          "slug": "the-rolling-stones",
+          "name": "The Rolling Stones",
+          "formed": 1962,
+          "origin": "London, UK",
+          "primaryEra": "1960s-british-invasion",
+          "genres": [
+            "rock-n-roll",
+            "hard-rock",
+            "blues"
+          ],
+          "signature": {
+            "title": "(I Can't Get No) Satisfaction",
+            "year": 1965
+          },
+          "role": {
+            "en": "Blues-based rock posture at stadium scale.",
+            "zh": "蓝调底色的摇滚姿态做到体育馆规模。"
+          }
+        },
+        {
+          "slug": "the-kinks",
+          "name": "The Kinks",
+          "formed": 1963,
+          "origin": "London, UK",
+          "primaryEra": "1960s-british-invasion",
+          "genres": [
+            "hard-rock",
+            "rock-n-roll"
+          ],
+          "signature": {
+            "title": "You Really Got Me",
+            "year": 1964
+          },
+          "role": {
+            "en": "Early hard rock / garage distortion template.",
+            "zh": "早期 hard rock / garage 失真模板。"
+          }
+        },
+        {
+          "slug": "the-yardbirds",
+          "name": "The Yardbirds",
+          "formed": 1963,
+          "origin": "London, UK",
+          "primaryEra": "1960s-british-invasion",
+          "genres": [
+            "rock-n-roll",
+            "blues"
+          ],
+          "signature": {
+            "title": "The Yardbirds",
+            "year": 1963
+          },
+          "role": {
+            "en": "British blues lab that produces Clapton, Beck, and Page—then Cream and Zeppelin.",
+            "zh": "英伦 Blues 实验室，产出 Clapton、Beck、Page——再连到 Cream 与 Zeppelin。"
+          }
+        },
+        {
+          "slug": "the-velvet-underground",
+          "name": "The Velvet Underground",
+          "formed": 1964,
+          "origin": "New York, USA",
+          "primaryEra": "1960s-british-invasion",
+          "genres": [
+            "alternative",
+            "post-punk"
+          ],
+          "signature": {
+            "title": "Heroin",
+            "year": 1967
+          },
+          "role": {
+            "en": "Underground avant-rock; delayed influence on punk/post-punk.",
+            "zh": "地下前卫摇滚；对朋克/后朋克的延迟影响。"
+          }
+        },
+        {
+          "slug": "the-who",
+          "name": "The Who",
+          "formed": 1964,
+          "origin": "London, UK",
+          "primaryEra": "1960s-british-invasion",
+          "genres": [
+            "rock-n-roll",
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Baba O'Riley",
+            "year": 1971
+          },
+          "role": {
+            "en": "Mod energy into arena rock; early synth and concept ambition.",
+            "zh": "从 Mod 能量进体育馆摇滚；早期合成器与概念野心。"
+          }
+        },
+        {
+          "slug": "the-doors",
+          "name": "The Doors",
+          "formed": 1965,
+          "origin": "Los Angeles, USA",
+          "primaryEra": "1960s-british-invasion",
+          "genres": [
+            "psychedelic",
+            "blues"
+          ],
+          "signature": {
+            "title": "Light My Fire",
+            "year": 1967
+          },
+          "role": {
+            "en": "Organ-led psychedelic rock with theatrical vocals.",
+            "zh": "键盘主导的迷幻摇滚，人声偏剧场。"
+          }
+        },
+        {
+          "slug": "cream",
+          "name": "Cream",
+          "formed": 1966,
+          "origin": "London, UK",
+          "primaryEra": "1960s-british-invasion",
+          "genres": [
+            "blues",
+            "hard-rock",
+            "psychedelic"
+          ],
+          "signature": {
+            "title": "Sunshine of Your Love",
+            "year": 1967
+          },
+          "role": {
+            "en": "Power-trio blues rock toward heavier weight.",
+            "zh": "力量三重奏蓝调摇滚，往更重推进。"
+          }
+        },
+        {
+          "slug": "the-jimi-hendrix-experience",
+          "name": "The Jimi Hendrix Experience",
+          "formed": 1966,
+          "origin": "London, UK",
+          "primaryEra": "1960s-british-invasion",
+          "genres": [
+            "psychedelic",
+            "hard-rock",
+            "blues"
+          ],
+          "signature": {
+            "title": "Purple Haze",
+            "year": 1967
+          },
+          "role": {
+            "en": "Treats electric guitar as lead instrument, not just backing.",
+            "zh": "把电吉他当主奏乐器，而不只是伴奏。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1970s-prog-hard-rock",
+      "order": 3,
+      "eraSlug": "1970s-prog-hard-rock",
+      "name": {
+        "en": "Hard Rock, Prog & Early Metal",
+        "zh": "硬摇滚、前卫与早期金属"
+      },
+      "years": "1970–1979",
+      "summary": {
+        "en": "Side-long suites and crushed riffs share the same decade of bigger rooms.",
+        "zh": "边长组曲与压扁的 Riff，共享体育馆变大的同一个十年。"
+      },
+      "bands": [
+        {
+          "slug": "pink-floyd",
+          "name": "Pink Floyd",
+          "formed": 1965,
+          "origin": "London, UK",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "progressive-rock",
+            "psychedelic"
+          ],
+          "signature": {
+            "title": "Comfortably Numb",
+            "year": 1979
+          },
+          "role": {
+            "en": "Concept and atmospheric rock at mass scale.",
+            "zh": "概念与氛围摇滚做到大众规模。"
+          }
+        },
+        {
+          "slug": "fleetwood-mac",
+          "name": "Fleetwood Mac",
+          "formed": 1967,
+          "origin": "London, UK",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "rock-n-roll",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Go Your Own Way",
+            "year": 1977
+          },
+          "role": {
+            "en": "Soft/pop rock as radio craft and band drama.",
+            "zh": "软摇滚/流行摇滚做成电台工艺与乐队戏剧。"
+          }
+        },
+        {
+          "slug": "black-sabbath",
+          "name": "Black Sabbath",
+          "formed": 1968,
+          "origin": "Birmingham, UK",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "hard-rock",
+            "heavy-metal"
+          ],
+          "signature": {
+            "title": "Paranoid",
+            "year": 1970
+          },
+          "role": {
+            "en": "Foundational heavy metal tone and tritone riffs.",
+            "zh": "重金属奠基音色与三全音 riff。"
+          }
+        },
+        {
+          "slug": "deep-purple",
+          "name": "Deep Purple",
+          "formed": 1968,
+          "origin": "Hertford, UK",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "hard-rock",
+            "heavy-metal"
+          ],
+          "signature": {
+            "title": "Smoke on the Water",
+            "year": 1972
+          },
+          "role": {
+            "en": "Hard rock riff school plus organ-led drive.",
+            "zh": "Hard rock riff 范本 + 管风琴驱动。"
+          }
+        },
+        {
+          "slug": "king-crimson",
+          "name": "King Crimson",
+          "formed": 1968,
+          "origin": "London, UK",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "progressive-rock"
+          ],
+          "signature": {
+            "title": "21st Century Schizoid Man",
+            "year": 1969
+          },
+          "role": {
+            "en": "Prog's sharp edge; repeated reinvention.",
+            "zh": "前卫摇滚锋利一脉；反复自我重写。"
+          }
+        },
+        {
+          "slug": "led-zeppelin",
+          "name": "Led Zeppelin",
+          "formed": 1968,
+          "origin": "London, UK",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "hard-rock",
+            "blues"
+          ],
+          "signature": {
+            "title": "Stairway to Heaven",
+            "year": 1971
+          },
+          "role": {
+            "en": "Hard rock + folk dynamics as stadium template.",
+            "zh": "硬摇滚与民谣动态做成体育馆模板。"
+          }
+        },
+        {
+          "slug": "rush",
+          "name": "Rush",
+          "formed": 1968,
+          "origin": "Toronto, Canada",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "progressive-rock",
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Tom Sawyer",
+            "year": 1981
+          },
+          "role": {
+            "en": "Prog/metal virtuosity without apology.",
+            "zh": "毫不掩饰的前卫/金属演奏力。"
+          }
+        },
+        {
+          "slug": "david-bowie",
+          "name": "David Bowie",
+          "formed": 1969,
+          "origin": "London, UK",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "alternative",
+            "psychedelic"
+          ],
+          "signature": {
+            "title": "Space Oddity",
+            "year": 1969
+          },
+          "role": {
+            "en": "Glam and art-rock persona shifts as method.",
+            "zh": "把 Glam 与艺术摇滚的人设切换当方法。"
+          }
+        },
+        {
+          "slug": "queen",
+          "name": "Queen",
+          "formed": 1970,
+          "origin": "London, UK",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "hard-rock",
+            "progressive-rock"
+          ],
+          "signature": {
+            "title": "Bohemian Rhapsody",
+            "year": 1975
+          },
+          "role": {
+            "en": "Glam/opera ambition with hard-rock muscle.",
+            "zh": "华丽/歌剧野心 + 硬摇滚肌肉。"
+          }
+        },
+        {
+          "slug": "wings",
+          "name": "Wings",
+          "formed": 1971,
+          "origin": "UK",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "rock-n-roll"
+          ],
+          "signature": {
+            "title": "Band on the Run",
+            "year": 1973
+          },
+          "role": {
+            "en": "Post-Beatles McCartney band—bridge page.",
+            "zh": "后 Beatles 的 McCartney 乐队——桥梁页。"
+          }
+        },
+        {
+          "slug": "ac-dc",
+          "name": "AC/DC",
+          "formed": 1973,
+          "origin": "Sydney, Australia",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Back in Black",
+            "year": 1980
+          },
+          "role": {
+            "en": "Straight hard-rock riff textbook.",
+            "zh": "直给硬摇滚 riff 教科书。"
+          }
+        },
+        {
+          "slug": "rainbow",
+          "name": "Rainbow",
+          "formed": 1975,
+          "origin": "UK / USA",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "hard-rock",
+            "heavy-metal"
+          ],
+          "signature": {
+            "title": "Stargazer",
+            "year": 1976
+          },
+          "role": {
+            "en": "Bridge from Deep Purple to Dio-era metal theatrics.",
+            "zh": "从 Deep Purple 通向 Dio 时代金属剧场。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "punk-postpunk",
+      "order": 4,
+      "eraSlug": "punk-postpunk",
+      "name": {
+        "en": "Punk & Post-Punk",
+        "zh": "朋克与后朋克"
+      },
+      "years": "1976–1989",
+      "summary": {
+        "en": "Short songs and DIY labels reset the bar; post-punk rebuilds with bass, space, and art-school rigor.",
+        "zh": "短歌与 DIY 厂牌重置门槛；后朋克用贝斯、空间感与艺术学院手法重建。"
+      },
+      "bands": [
+        {
+          "slug": "ramones",
+          "name": "Ramones",
+          "formed": 1974,
+          "origin": "New York, USA",
+          "primaryEra": "punk-postpunk",
+          "genres": [
+            "punk"
+          ],
+          "signature": {
+            "title": "Blitzkrieg Bop",
+            "year": 1976
+          },
+          "role": {
+            "en": "US three-chord punk blueprint.",
+            "zh": "美式三和弦朋克蓝图。"
+          }
+        },
+        {
+          "slug": "sex-pistols",
+          "name": "Sex Pistols",
+          "formed": 1975,
+          "origin": "London, UK",
+          "primaryEra": "punk-postpunk",
+          "genres": [
+            "punk"
+          ],
+          "signature": {
+            "title": "Anarchy in the U.K.",
+            "year": 1976
+          },
+          "role": {
+            "en": "UK punk as cultural rupture; attitude over chops.",
+            "zh": "英国朋克作为文化决裂；态度压过技术。"
+          }
+        },
+        {
+          "slug": "talking-heads",
+          "name": "Talking Heads",
+          "formed": 1975,
+          "origin": "New York, USA",
+          "primaryEra": "punk-postpunk",
+          "genres": [
+            "post-punk",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Once in a Lifetime",
+            "year": 1980
+          },
+          "role": {
+            "en": "New wave + global rhythm; art-school funk.",
+            "zh": "新浪潮 + 世界节奏；艺术学院 Funk。"
+          }
+        },
+        {
+          "slug": "joy-division",
+          "name": "Joy Division",
+          "formed": 1976,
+          "origin": "Salford, UK",
+          "primaryEra": "punk-postpunk",
+          "genres": [
+            "post-punk"
+          ],
+          "signature": {
+            "title": "Love Will Tear Us Apart",
+            "year": 1980
+          },
+          "role": {
+            "en": "Post-punk / early gothic emotional template.",
+            "zh": "后朋克/早期哥特情绪模板。"
+          }
+        },
+        {
+          "slug": "the-clash",
+          "name": "The Clash",
+          "formed": 1976,
+          "origin": "London, UK",
+          "primaryEra": "punk-postpunk",
+          "genres": [
+            "punk",
+            "post-punk"
+          ],
+          "signature": {
+            "title": "London Calling",
+            "year": 1979
+          },
+          "role": {
+            "en": "Punk as worldview—reggae/ska included.",
+            "zh": "朋克做成世界观——雷鬼/斯卡一并纳入。"
+          }
+        },
+        {
+          "slug": "the-police",
+          "name": "The Police",
+          "formed": 1977,
+          "origin": "London, UK",
+          "primaryEra": "punk-postpunk",
+          "genres": [
+            "rock-n-roll",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Every Breath You Take",
+            "year": 1983
+          },
+          "role": {
+            "en": "New wave / reggae-rock into global pop hits.",
+            "zh": "新浪潮/雷鬼摇滚做成全球流行热歌。"
+          }
+        },
+        {
+          "slug": "the-cure",
+          "name": "The Cure",
+          "formed": 1978,
+          "origin": "Crawley, UK",
+          "primaryEra": "punk-postpunk",
+          "genres": [
+            "post-punk",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Just Like Heaven",
+            "year": 1987
+          },
+          "role": {
+            "en": "Goth rock into goth-pop classic form.",
+            "zh": "哥特摇滚走进哥特流行经典形态。"
+          }
+        },
+        {
+          "slug": "depeche-mode",
+          "name": "Depeche Mode",
+          "formed": 1980,
+          "origin": "Basildon, UK",
+          "primaryEra": "punk-postpunk",
+          "genres": [
+            "alternative",
+            "post-punk"
+          ],
+          "signature": {
+            "title": "Enjoy the Silence",
+            "year": 1990
+          },
+          "role": {
+            "en": "Synth-led electronic rock at stadium scale.",
+            "zh": "合成器主导的电音摇滚做到体育馆规模。"
+          }
+        },
+        {
+          "slug": "new-order",
+          "name": "New Order",
+          "formed": 1980,
+          "origin": "Manchester, UK",
+          "primaryEra": "punk-postpunk",
+          "genres": [
+            "post-punk"
+          ],
+          "signature": {
+            "title": "Blue Monday",
+            "year": 1983
+          },
+          "role": {
+            "en": "Post-punk into dancefloor modernity.",
+            "zh": "后朋克走进舞池现代性。"
+          }
+        },
+        {
+          "slug": "sonic-youth",
+          "name": "Sonic Youth",
+          "formed": 1981,
+          "origin": "New York, USA",
+          "primaryEra": "punk-postpunk",
+          "genres": [
+            "alternative",
+            "indie-rock"
+          ],
+          "signature": {
+            "title": "Teen Age Riot",
+            "year": 1988
+          },
+          "role": {
+            "en": "Noise rock and alternate tunings as method.",
+            "zh": "噪声摇滚与另类调弦作为方法。"
+          }
+        },
+        {
+          "slug": "the-smiths",
+          "name": "The Smiths",
+          "formed": 1982,
+          "origin": "Manchester, UK",
+          "primaryEra": "punk-postpunk",
+          "genres": [
+            "indie-rock",
+            "alternative"
+          ],
+          "signature": {
+            "title": "There Is a Light That Never Goes Out",
+            "year": 1986
+          },
+          "role": {
+            "en": "Indie / jangle-pop with literary swagger.",
+            "zh": "Indie / Jangle Pop，带文学式张扬。"
+          }
+        },
+        {
+          "slug": "pixies",
+          "name": "Pixies",
+          "formed": 1986,
+          "origin": "Boston, USA",
+          "primaryEra": "punk-postpunk",
+          "genres": [
+            "alternative",
+            "indie-rock"
+          ],
+          "signature": {
+            "title": "Where Is My Mind?",
+            "year": 1988
+          },
+          "role": {
+            "en": "Quiet-loud dynamics that teach alternative rock.",
+            "zh": "教会替代摇滚的强弱动态。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1980s-metal",
+      "order": 5,
+      "eraSlug": "1980s-metal",
+      "name": {
+        "en": "Metal Branches",
+        "zh": "金属分枝"
+      },
+      "years": "1979–1992",
+      "summary": {
+        "en": "NWOBHM gallop, thrash precision, twin-guitar harmony, late hard-rock hits.",
+        "zh": "NWOBHM 疾驰、Thrash 精度、双吉他和声，以及晚期硬摇滚热单。"
+      },
+      "bands": [
+        {
+          "slug": "judas-priest",
+          "name": "Judas Priest",
+          "formed": 1969,
+          "origin": "Birmingham, UK",
+          "primaryEra": "1980s-metal",
+          "genres": [
+            "heavy-metal"
+          ],
+          "signature": {
+            "title": "Painkiller",
+            "year": 1990
+          },
+          "role": {
+            "en": "Modern metal twin-guitar grammar.",
+            "zh": "现代金属双吉他语法。"
+          }
+        },
+        {
+          "slug": "van-halen",
+          "name": "Van Halen",
+          "formed": 1972,
+          "origin": "Pasadena, USA",
+          "primaryEra": "1980s-metal",
+          "genres": [
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Eruption",
+            "year": 1978
+          },
+          "role": {
+            "en": "Tapping virtuosity and guitar-hero modernity.",
+            "zh": "点弦炫技与吉他英雄现代性。"
+          }
+        },
+        {
+          "slug": "iron-maiden",
+          "name": "Iron Maiden",
+          "formed": 1975,
+          "origin": "London, UK",
+          "primaryEra": "1980s-metal",
+          "genres": [
+            "heavy-metal"
+          ],
+          "signature": {
+            "title": "The Trooper",
+            "year": 1983
+          },
+          "role": {
+            "en": "NWOBHM flagship—gallop riffs and myth lyrics.",
+            "zh": "NWOBHM 旗舰——疾驰 riff 与神话歌词。"
+          }
+        },
+        {
+          "slug": "motorhead",
+          "name": "Motörhead",
+          "formed": 1975,
+          "origin": "London, UK",
+          "primaryEra": "1980s-metal",
+          "genres": [
+            "heavy-metal",
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Ace of Spades",
+            "year": 1980
+          },
+          "role": {
+            "en": "Speed/attitude bridge between punk and metal.",
+            "zh": "朋克与金属之间的速度/态度桥。"
+          }
+        },
+        {
+          "slug": "metallica",
+          "name": "Metallica",
+          "formed": 1981,
+          "origin": "Los Angeles, USA",
+          "primaryEra": "1980s-metal",
+          "genres": [
+            "heavy-metal"
+          ],
+          "signature": {
+            "title": "Master of Puppets",
+            "year": 1986
+          },
+          "role": {
+            "en": "Thrash metal's mass breakthrough peak.",
+            "zh": "鞭击金属的大众突破巅峰。"
+          }
+        },
+        {
+          "slug": "pantera",
+          "name": "Pantera",
+          "formed": 1981,
+          "origin": "Arlington, USA",
+          "primaryEra": "1980s-metal",
+          "genres": [
+            "heavy-metal",
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Walk",
+            "year": 1992
+          },
+          "role": {
+            "en": "Groove metal's down-tuned swagger.",
+            "zh": "律动金属的降调跋扈。"
+          }
+        },
+        {
+          "slug": "slayer",
+          "name": "Slayer",
+          "formed": 1981,
+          "origin": "Huntington Park, USA",
+          "primaryEra": "1980s-metal",
+          "genres": [
+            "heavy-metal"
+          ],
+          "signature": {
+            "title": "Raining Blood",
+            "year": 1986
+          },
+          "role": {
+            "en": "Extreme thrash speed and dread tone.",
+            "zh": "极端鞭击速度与恐惧音色。"
+          }
+        },
+        {
+          "slug": "megadeth",
+          "name": "Megadeth",
+          "formed": 1983,
+          "origin": "Los Angeles, USA",
+          "primaryEra": "1980s-metal",
+          "genres": [
+            "heavy-metal"
+          ],
+          "signature": {
+            "title": "Holy Wars... The Punishment Due",
+            "year": 1990
+          },
+          "role": {
+            "en": "Technical thrash precision and political lyrics.",
+            "zh": "技术型鞭金精度与政治歌词。"
+          }
+        },
+        {
+          "slug": "guns-n-roses",
+          "name": "Guns N' Roses",
+          "formed": 1985,
+          "origin": "Los Angeles, USA",
+          "primaryEra": "1980s-metal",
+          "genres": [
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Sweet Child O' Mine",
+            "year": 1987
+          },
+          "role": {
+            "en": "Late-80s hard rock street theatre.",
+            "zh": "80 年代末硬摇滚街头剧场。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1990s-grunge-alt",
+      "order": 6,
+      "eraSlug": "1990s-grunge-alt",
+      "name": {
+        "en": "Grunge & Alternative",
+        "zh": "油渍与替代摇滚"
+      },
+      "years": "1990–1997",
+      "summary": {
+        "en": "Indie labels and major radio briefly share a playlist; loud/quiet becomes default song form.",
+        "zh": "独立厂牌与主流电台短暂共用歌单；强弱对比成为默认曲式。"
+      },
+      "bands": [
+        {
+          "slug": "my-bloody-valentine",
+          "name": "My Bloody Valentine",
+          "formed": 1983,
+          "origin": "Dublin, Ireland",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "indie-rock",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Only Shallow",
+            "year": 1991
+          },
+          "role": {
+            "en": "Shoegaze peak of blur and volume.",
+            "zh": "自赏摇滚模糊与音量峰值。"
+          }
+        },
+        {
+          "slug": "red-hot-chili-peppers",
+          "name": "Red Hot Chili Peppers",
+          "formed": 1983,
+          "origin": "Los Angeles, USA",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "alternative",
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Californication",
+            "year": 1999
+          },
+          "role": {
+            "en": "Funk rock as California mainstream brand.",
+            "zh": "Funk Rock 做成加州主流品牌。"
+          }
+        },
+        {
+          "slug": "soundgarden",
+          "name": "Soundgarden",
+          "formed": 1984,
+          "origin": "Seattle, USA",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "grunge",
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Black Hole Sun",
+            "year": 1994
+          },
+          "role": {
+            "en": "Heavy riff craft inside grunge.",
+            "zh": "Grunge 里的重型 riff 工艺。"
+          }
+        },
+        {
+          "slug": "radiohead",
+          "name": "Radiohead",
+          "formed": 1985,
+          "origin": "Abingdon, UK",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "alternative",
+            "indie-rock",
+            "progressive-rock"
+          ],
+          "signature": {
+            "title": "Paranoid Android",
+            "year": 1997
+          },
+          "role": {
+            "en": "Modern progressive alternative high-water mark.",
+            "zh": "现代前卫替代摇滚高水位。"
+          }
+        },
+        {
+          "slug": "alice-in-chains",
+          "name": "Alice in Chains",
+          "formed": 1987,
+          "origin": "Seattle, USA",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "grunge",
+            "heavy-metal"
+          ],
+          "signature": {
+            "title": "Man in the Box",
+            "year": 1990
+          },
+          "role": {
+            "en": "Harmonic gloom on the metal/grunge border.",
+            "zh": "金属/Grunge 边界上的阴郁和声。"
+          }
+        },
+        {
+          "slug": "nirvana",
+          "name": "Nirvana",
+          "formed": 1987,
+          "origin": "Aberdeen, USA",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "grunge",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Smells Like Teen Spirit",
+            "year": 1991
+          },
+          "role": {
+            "en": "Defines 90s loud/quiet as generational radio grammar.",
+            "zh": "把 90 年代强弱对比写成代际电台语法。"
+          }
+        },
+        {
+          "slug": "nine-inch-nails",
+          "name": "Nine Inch Nails",
+          "formed": 1988,
+          "origin": "Cleveland, USA",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "alternative",
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Closer",
+            "year": 1994
+          },
+          "role": {
+            "en": "Industrial rock's mainstream dark-room sound.",
+            "zh": "工业摇滚的主流暗房音色。"
+          }
+        },
+        {
+          "slug": "smashing-pumpkins",
+          "name": "The Smashing Pumpkins",
+          "formed": 1988,
+          "origin": "Chicago, USA",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "alternative",
+            "indie-rock"
+          ],
+          "signature": {
+            "title": "1979",
+            "year": 1996
+          },
+          "role": {
+            "en": "Symphonic noise and dream-pop alternative.",
+            "zh": "交响噪声与梦幻流行的替代摇滚。"
+          }
+        },
+        {
+          "slug": "slowdive",
+          "name": "Slowdive",
+          "formed": 1989,
+          "origin": "Reading, UK",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "indie-rock",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Alison",
+            "year": 1993
+          },
+          "role": {
+            "en": "Dream-pop shoegaze classic form.",
+            "zh": "梦幻流行与经典 Shoegaze 形态。"
+          }
+        },
+        {
+          "slug": "pearl-jam",
+          "name": "Pearl Jam",
+          "formed": 1990,
+          "origin": "Seattle, USA",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "grunge",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Alive",
+            "year": 1991
+          },
+          "role": {
+            "en": "Grunge's durable stadium hard rock.",
+            "zh": "Grunge 里最耐久的体育馆硬摇滚。"
+          }
+        },
+        {
+          "slug": "tool",
+          "name": "Tool",
+          "formed": 1990,
+          "origin": "Los Angeles, USA",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "progressive-rock",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Schism",
+            "year": 2001
+          },
+          "role": {
+            "en": "Prog-metal / art-math atmosphere.",
+            "zh": "前卫金属与艺术数学氛围。"
+          }
+        },
+        {
+          "slug": "rage-against-the-machine",
+          "name": "Rage Against the Machine",
+          "formed": 1991,
+          "origin": "Los Angeles, USA",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "alternative",
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Killing in the Name",
+            "year": 1992
+          },
+          "role": {
+            "en": "Rap-metal with explicit politics.",
+            "zh": "带明确政治内容的 Rap Metal。"
+          }
+        },
+        {
+          "slug": "foo-fighters",
+          "name": "Foo Fighters",
+          "formed": 1994,
+          "origin": "Seattle, USA",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "alternative",
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Everlong",
+            "year": 1997
+          },
+          "role": {
+            "en": "Post-grunge workhorse of modern US hard rock.",
+            "zh": "现代美式硬摇滚的中流砥柱。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1990s-britpop",
+      "order": 7,
+      "eraSlug": "1990s-britpop",
+      "name": {
+        "en": "Britpop & UK Indie",
+        "zh": "英伦摇滚与英式独立"
+      },
+      "years": "1989–2005",
+      "summary": {
+        "en": "UK guitar bands fight for chart position with sixties lineage and class lyrics.",
+        "zh": "英国吉他乐队用六十年代谱系与阶级歌词争榜。"
+      },
+      "bands": [
+        {
+          "slug": "pulp",
+          "name": "Pulp",
+          "formed": 1978,
+          "origin": "Sheffield, UK",
+          "primaryEra": "1990s-britpop",
+          "genres": [
+            "britpop",
+            "indie-rock"
+          ],
+          "signature": {
+            "title": "Common People",
+            "year": 1995
+          },
+          "role": {
+            "en": "Class narrative as Britpop literature.",
+            "zh": "把阶级叙事写成 Britpop 文学。"
+          }
+        },
+        {
+          "slug": "the-stone-roses",
+          "name": "The Stone Roses",
+          "formed": 1983,
+          "origin": "Manchester, UK",
+          "primaryEra": "1990s-britpop",
+          "genres": [
+            "indie-rock",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Fools Gold",
+            "year": 1989
+          },
+          "role": {
+            "en": "Madchester dance-rock before the Britpop boom.",
+            "zh": "Britpop 爆发前的曼彻斯特舞曲摇滚。"
+          }
+        },
+        {
+          "slug": "blur",
+          "name": "Blur",
+          "formed": 1988,
+          "origin": "Colchester, UK",
+          "primaryEra": "1990s-britpop",
+          "genres": [
+            "britpop",
+            "indie-rock"
+          ],
+          "signature": {
+            "title": "Song 2",
+            "year": 1997
+          },
+          "role": {
+            "en": "Wit, art-school Britpop, and loud/quiet tricks.",
+            "zh": "智性、艺术学院 Britpop，与强弱把戏。"
+          }
+        },
+        {
+          "slug": "suede",
+          "name": "Suede",
+          "formed": 1989,
+          "origin": "London, UK",
+          "primaryEra": "1990s-britpop",
+          "genres": [
+            "britpop",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Beautiful Ones",
+            "year": 1996
+          },
+          "role": {
+            "en": "Glam revival inside Britpop's first wave.",
+            "zh": "Britpop 第一波里的 Glam 复兴。"
+          }
+        },
+        {
+          "slug": "the-verve",
+          "name": "The Verve",
+          "formed": 1990,
+          "origin": "Wigan, UK",
+          "primaryEra": "1990s-britpop",
+          "genres": [
+            "britpop",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Bitter Sweet Symphony",
+            "year": 1997
+          },
+          "role": {
+            "en": "Strings + Brit swagger as mass melancholy.",
+            "zh": "弦乐 + 英伦跋扈做成大众忧郁。"
+          }
+        },
+        {
+          "slug": "oasis",
+          "name": "Oasis",
+          "formed": 1991,
+          "origin": "Manchester, UK",
+          "primaryEra": "1990s-britpop",
+          "genres": [
+            "britpop",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Wonderwall",
+            "year": 1995
+          },
+          "role": {
+            "en": "Britpop's mass anthem factory.",
+            "zh": "Britpop 的大众颂歌工厂。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2000s-revival",
+      "order": 8,
+      "eraSlug": "2000s-revival",
+      "name": {
+        "en": "Garage Revival & Mass Alt",
+        "zh": "车库复兴与大众另类"
+      },
+      "years": "2000–2009",
+      "summary": {
+        "en": "Post-punk and garage guitar bands reclaim radio after nu-metal and laptop pop.",
+        "zh": "后朋克与车库吉他乐队在 Nu-Metal 与笔记本流行乐之后重占电台。"
+      },
+      "bands": [
+        {
+          "slug": "deftones",
+          "name": "Deftones",
+          "formed": 1988,
+          "origin": "Sacramento, USA",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "alternative",
+            "heavy-metal"
+          ],
+          "signature": {
+            "title": "Change (In the House of Flies)",
+            "year": 2000
+          },
+          "role": {
+            "en": "Atmospheric alt-metal / shoegaze weight.",
+            "zh": "氛围另类金属 / Shoegaze 重量。"
+          }
+        },
+        {
+          "slug": "muse",
+          "name": "Muse",
+          "formed": 1994,
+          "origin": "Teignmouth, UK",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "alternative",
+            "progressive-rock"
+          ],
+          "signature": {
+            "title": "Knights of Cydonia",
+            "year": 2006
+          },
+          "role": {
+            "en": "Space-opera rock for arena maximalists.",
+            "zh": "给体育馆极大主义者的太空歌剧摇滚。"
+          }
+        },
+        {
+          "slug": "system-of-a-down",
+          "name": "System of a Down",
+          "formed": 1994,
+          "origin": "Los Angeles, USA",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "heavy-metal",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Chop Suey!",
+            "year": 2001
+          },
+          "role": {
+            "en": "Odd-meter nu-metal theatre and politics.",
+            "zh": "怪拍 Nu-Metal 剧场与政治。"
+          }
+        },
+        {
+          "slug": "evanescence",
+          "name": "Evanescence",
+          "formed": 1995,
+          "origin": "Little Rock, USA",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "alternative",
+            "heavy-metal"
+          ],
+          "signature": {
+            "title": "Bring Me to Life",
+            "year": 2003
+          },
+          "role": {
+            "en": "Goth-metal / nu-metal radio fusion.",
+            "zh": "哥特金属与 Nu-Metal 的电台融合。"
+          }
+        },
+        {
+          "slug": "coldplay",
+          "name": "Coldplay",
+          "formed": 1996,
+          "origin": "London, UK",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "alternative",
+            "indie-rock"
+          ],
+          "signature": {
+            "title": "Yellow",
+            "year": 2000
+          },
+          "role": {
+            "en": "Post-Britpop stadium melancholy goes global.",
+            "zh": "后 Britpop 体育场忧郁走向全球。"
+          }
+        },
+        {
+          "slug": "linkin-park",
+          "name": "Linkin Park",
+          "formed": 1996,
+          "origin": "Agoura Hills, USA",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "alternative",
+            "heavy-metal"
+          ],
+          "signature": {
+            "title": "In the End",
+            "year": 2000
+          },
+          "role": {
+            "en": "Nu-metal as global millennial radio grammar.",
+            "zh": "Nu-Metal 做成全球千禧电台语法。"
+          }
+        },
+        {
+          "slug": "queens-of-the-stone-age",
+          "name": "Queens of the Stone Age",
+          "formed": 1996,
+          "origin": "California, USA",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "hard-rock",
+            "alternative"
+          ],
+          "signature": {
+            "title": "No One Knows",
+            "year": 2002
+          },
+          "role": {
+            "en": "Desert / stoner rock with pop-lethal hooks.",
+            "zh": "沙漠/Stoner Rock，钩子能杀进流行。"
+          }
+        },
+        {
+          "slug": "interpol",
+          "name": "Interpol",
+          "formed": 1997,
+          "origin": "New York, USA",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "post-punk",
+            "indie-rock"
+          ],
+          "signature": {
+            "title": "Obstacle 1",
+            "year": 2002
+          },
+          "role": {
+            "en": "NYC post-punk revival gloom.",
+            "zh": "纽约后朋克复兴的阴郁。"
+          }
+        },
+        {
+          "slug": "the-libertines",
+          "name": "The Libertines",
+          "formed": 1997,
+          "origin": "London, UK",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "indie-rock",
+            "punk"
+          ],
+          "signature": {
+            "title": "Can't Stand Me Now",
+            "year": 2004
+          },
+          "role": {
+            "en": "Garage Brit-punk romance and collapse.",
+            "zh": "Garage Brit-punk 的浪漫与崩塌。"
+          }
+        },
+        {
+          "slug": "the-white-stripes",
+          "name": "The White Stripes",
+          "formed": 1997,
+          "origin": "Detroit, USA",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "indie-rock",
+            "blues",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Seven Nation Army",
+            "year": 2003
+          },
+          "role": {
+            "en": "Minimal blues-garage; world-scale riff.",
+            "zh": "极简蓝调车库；世界级 riff。"
+          }
+        },
+        {
+          "slug": "the-strokes",
+          "name": "The Strokes",
+          "formed": 1998,
+          "origin": "New York, USA",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "indie-rock",
+            "post-punk"
+          ],
+          "signature": {
+            "title": "Last Nite",
+            "year": 2001
+          },
+          "role": {
+            "en": "NYC garage revival spark for early-2000s indie.",
+            "zh": "纽约车库复兴火花，点燃 2000 年代初 indie。"
+          }
+        },
+        {
+          "slug": "kings-of-leon",
+          "name": "Kings of Leon",
+          "formed": 1999,
+          "origin": "Nashville, USA",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "indie-rock",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Sex on Fire",
+            "year": 2008
+          },
+          "role": {
+            "en": "Southern rock DNA inside modern alt radio.",
+            "zh": "南部摇滚 DNA 走进现代另类电台。"
+          }
+        },
+        {
+          "slug": "the-killers",
+          "name": "The Killers",
+          "formed": 2001,
+          "origin": "Las Vegas, USA",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "indie-rock",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Mr. Brightside",
+            "year": 2003
+          },
+          "role": {
+            "en": "New-wave revival into stadium permanence.",
+            "zh": "新浪潮复兴做成体育馆常驻。"
+          }
+        },
+        {
+          "slug": "arctic-monkeys",
+          "name": "Arctic Monkeys",
+          "formed": 2002,
+          "origin": "Sheffield, UK",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "indie-rock",
+            "alternative"
+          ],
+          "signature": {
+            "title": "I Bet You Look Good on the Dancefloor",
+            "year": 2005
+          },
+          "role": {
+            "en": "Digital-era UK indie that still writes riffs.",
+            "zh": "数位时代仍会写 riff 的英伦独立。"
+          }
+        },
+        {
+          "slug": "franz-ferdinand",
+          "name": "Franz Ferdinand",
+          "formed": 2002,
+          "origin": "Glasgow, UK",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "indie-rock",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Take Me Out",
+            "year": 2004
+          },
+          "role": {
+            "en": "Dance-punk angular hooks for clubs and charts.",
+            "zh": "舞曲朋克棱角钩子——俱乐部与榜单通吃。"
+          }
+        },
+        {
+          "slug": "them-crooked-vultures",
+          "name": "Them Crooked Vultures",
+          "formed": 2009,
+          "origin": "USA",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "hard-rock",
+            "alternative"
+          ],
+          "signature": {
+            "title": "New Fang",
+            "year": 2009
+          },
+          "role": {
+            "en": "Supergroup bridge across Zeppelin/QOTSA/Foo lines.",
+            "zh": "跨 Zeppelin/QOTSA/Foo 谱系的超级组合。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2010s-indie-modern",
+      "order": 9,
+      "eraSlug": "2010s-indie-modern",
+      "name": {
+        "en": "Post-Rock, Psych & Now",
+        "zh": "后摇滚、迷幻与当下"
+      },
+      "years": "1998–now",
+      "summary": {
+        "en": "Streaming fragments scenes; guitar records still chart via psych, post-punk, and festival indie.",
+        "zh": "流媒体打碎场景；迷幻、后朋克与音乐节 Indie 仍让吉他唱片上榜。"
+      },
+      "bands": [
+        {
+          "slug": "godspeed-you-black-emperor",
+          "name": "Godspeed You! Black Emperor",
+          "formed": 1994,
+          "origin": "Montreal, Canada",
+          "primaryEra": "2010s-indie-modern",
+          "genres": [
+            "alternative"
+          ],
+          "signature": {
+            "title": "East Hastings",
+            "year": 1998
+          },
+          "role": {
+            "en": "Dark, anarchic post-rock cinema.",
+            "zh": "暗黑、无政府气味的后摇滚电影感。"
+          }
+        },
+        {
+          "slug": "sigur-ros",
+          "name": "Sigur Rós",
+          "formed": 1994,
+          "origin": "Reykjavík, Iceland",
+          "primaryEra": "2010s-indie-modern",
+          "genres": [
+            "alternative",
+            "indie-rock"
+          ],
+          "signature": {
+            "title": "Hoppípolla",
+            "year": 2005
+          },
+          "role": {
+            "en": "Icelandic epic post-rock tenderness.",
+            "zh": "冰岛史诗后摇滚的温柔。"
+          }
+        },
+        {
+          "slug": "mogwai",
+          "name": "Mogwai",
+          "formed": 1995,
+          "origin": "Glasgow, UK",
+          "primaryEra": "2010s-indie-modern",
+          "genres": [
+            "alternative",
+            "indie-rock"
+          ],
+          "signature": {
+            "title": "Auto Rock",
+            "year": 2006
+          },
+          "role": {
+            "en": "Scottish dynamic post-rock crescendos.",
+            "zh": "苏格兰动态后摇滚渐强。"
+          }
+        },
+        {
+          "slug": "explosions-in-the-sky",
+          "name": "Explosions in the Sky",
+          "formed": 1999,
+          "origin": "Austin, USA",
+          "primaryEra": "2010s-indie-modern",
+          "genres": [
+            "alternative",
+            "indie-rock"
+          ],
+          "signature": {
+            "title": "Your Hand in Mine",
+            "year": 2003
+          },
+          "role": {
+            "en": "American emotional instrumental post-rock.",
+            "zh": "美式情感器乐后摇滚。"
+          }
+        },
+        {
+          "slug": "tame-impala",
+          "name": "Tame Impala",
+          "formed": 2007,
+          "origin": "Perth, Australia",
+          "primaryEra": "2010s-indie-modern",
+          "genres": [
+            "psychedelic",
+            "indie-rock",
+            "alternative"
+          ],
+          "signature": {
+            "title": "The Less I Know the Better",
+            "year": 2015
+          },
+          "role": {
+            "en": "Modern psych revival; studio-as-band method.",
+            "zh": "现代迷幻复兴；录音室即乐队。"
+          }
+        },
+        {
+          "slug": "idles",
+          "name": "IDLES",
+          "formed": 2009,
+          "origin": "Bristol, UK",
+          "primaryEra": "2010s-indie-modern",
+          "genres": [
+            "punk",
+            "post-punk"
+          ],
+          "signature": {
+            "title": "Never Fight a Man With a Perm",
+            "year": 2018
+          },
+          "role": {
+            "en": "Modern hardcore-tinged post-punk urgency.",
+            "zh": "现代硬核气味的后朋克紧迫感。"
+          }
+        },
+        {
+          "slug": "fontaines-dc",
+          "name": "Fontaines D.C.",
+          "formed": 2017,
+          "origin": "Dublin, Ireland",
+          "primaryEra": "2010s-indie-modern",
+          "genres": [
+            "post-punk",
+            "indie-rock"
+          ],
+          "signature": {
+            "title": "Boys in the Better Land",
+            "year": 2019
+          },
+          "role": {
+            "en": "Contemporary Irish post-punk wave.",
+            "zh": "当代爱尔兰后朋克浪潮。"
+          }
+        }
+      ]
+    }
+  ],
+  "expansionCandidates": [
+    "Yes",
+    "Jethro Tull",
+    "Genesis",
+    "Electric Light Orchestra",
+    "Thin Lizzy",
+    "Buddy Holly",
+    "Little Richard",
+    "R.E.M.",
+    "U2",
+    "Talking Heads (deep narrative)",
+    "David Bowie (full person+band pages)"
+  ],
+  "resources": {
+    "forums": [
+      {
+        "name": "Rate Your Music",
+        "url": "https://rateyourmusic.com/",
+        "note": {
+          "en": "Deep genre tags, charts, obsessive album scoring.",
+          "zh": "深度流派标签、榜单、偏执专辑评分。"
+        }
+      },
+      {
+        "name": "Reddit — r/progrockmusic & r/indieheads",
+        "url": "https://www.reddit.com/r/progrockmusic/",
+        "note": {
+          "en": "Long argument threads as research method.",
+          "zh": "长争论帖也是一种研究方法。"
+        }
+      },
+      {
+        "name": "Sputnikmusic",
+        "url": "https://www.sputnikmusic.com/",
+        "note": {
+          "en": "User reviews with high craft.",
+          "zh": "用户乐评写作质素偏高。"
+        }
+      },
+      {
+        "name": "Steve Hoffman Music Forums",
+        "url": "https://forums.stevehoffman.tv/",
+        "note": {
+          "en": "Pressings, mastering, classic-rock audiophile talk.",
+          "zh": "首版、母带与经典摇滚发烧友讨论。"
+        }
+      }
+    ],
+    "media": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/",
+        "note": {
+          "en": "Indie / experimental taste-maker (agree or argue).",
+          "zh": "独立/实验风向标（同意或跟它吵）。"
+        }
+      },
+      {
+        "name": "AllMusic",
+        "url": "https://www.allmusic.com/",
+        "note": {
+          "en": "Genealogy graphs and similar-artist maps.",
+          "zh": "谱系图与相似艺人地图。"
+        }
+      },
+      {
+        "name": "Discogs",
+        "url": "https://www.discogs.com/",
+        "note": {
+          "en": "Release data for collectors.",
+          "zh": "收藏者用的版本数据。"
+        }
+      },
+      {
+        "name": "Rolling Stone",
+        "url": "https://www.rollingstone.com/",
+        "note": {
+          "en": "Mass-memory rock history layer.",
+          "zh": "大众记忆层的摇滚史。"
+        }
+      }
+    ],
+    "youtube": [
+      {
+        "name": "Rick Beato",
+        "url": "https://www.youtube.com/@RickBeato",
+        "note": {
+          "en": "What Makes This Song Great? — riff/harmony/mix breakdowns.",
+          "zh": "金曲拆解：riff / 和声 / 混音。"
+        }
+      },
+      {
+        "name": "Polyphonic",
+        "url": "https://www.youtube.com/@polyphonic",
+        "note": {
+          "en": "Animated essays on rock history and album culture.",
+          "zh": "动画散文风摇滚史与专辑文化。"
+        }
+      },
+      {
+        "name": "Trash Theory",
+        "url": "https://www.youtube.com/@TrashTheory",
+        "note": {
+          "en": "Punk / Britpop / post-punk documentary shorts.",
+          "zh": "朋克 / Britpop / 后朋克短纪录片。"
+        }
+      },
+      {
+        "name": "The Needle Drop",
+        "url": "https://www.youtube.com/@theneedledrop",
+        "note": {
+          "en": "High-volume contemporary rock/indie critique.",
+          "zh": "高产量当代摇滚/独立评论。"
+        }
+      }
+    ]
+  },
+  "futureFeatures": {
+    "en": [
+      "Richer genre evolution graph (already started on /genres).",
+      "Optional official audio embeds where licensing allows.",
+      "Fan lists / Blend links as community layer—after the canon is solid."
+    ],
+    "zh": [
+      "更密的流派演化图（/genres 已起步）。",
+      "在版权允许时嵌入官方试听。",
+      "乐迷歌单 / Blend 社群层——等名单骨架扎实后再做。"
+    ]
+  }
+}

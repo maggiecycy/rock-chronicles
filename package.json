@@ -12,8 +12,13 @@
     "db:generate": "node --env-file=.env.local node_modules/prisma/build/index.js generate",
     "db:push": "node --env-file=.env.local node_modules/prisma/build/index.js db push",
     "db:seed": "node --env-file=.env.local node_modules/prisma/build/index.js db seed",
+    "db:seed:editorial": "node --env-file=.env.local ./node_modules/tsx/dist/cli.mjs prisma/seed.ts --editorial-only",
     "db:studio": "node --env-file=.env.local node_modules/prisma/build/index.js studio",
     "db:reset": "node --env-file=.env.local node_modules/prisma/build/index.js db push --force-reset && node --env-file=.env.local node_modules/prisma/build/index.js db seed",
+    "media:commons": "node scripts/fetch-commons-media.mjs",
+    "canon:sync": "node scripts/sync-canon-bands.mjs",
+    "canon:rebuild": "node scripts/rebuild-canon-periods.mjs",
+    "eras:remap": "node scripts/remap-eras.mjs",
     "postinstall": "prisma generate"
   },
   "dependencies": {

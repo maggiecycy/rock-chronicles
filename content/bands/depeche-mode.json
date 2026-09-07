@@ -1,0 +1,35 @@
+{
+  "name": "Depeche Mode",
+  "slug": "depeche-mode",
+  "formed": 1980,
+  "origin": "Basildon, UK",
+  "primaryEra": "punk-postpunk",
+  "genres": [
+    "alternative",
+    "post-punk"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Basildon synth group that scaled electronic songwriting to rock-arena size; Violator (1990) made synth-pop a stadium rock peer.",
+    "zh": "巴西尔登合成器组合：把电子歌曲写作扩到摇滚体育场体量；Violator（1990）让 synth-pop 与体育场摇滚平起平坐。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Enjoy the Silence",
+      "year": 1990
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Martin Gore / Dave Gahan–era electronic rock; Enjoy the Silence is the mass-entry single.",
+    "zh": "Martin Gore / Dave Gahan 时期电子摇滚；Enjoy the Silence 是大众入口单曲。"
+  },
+  "body": {
+    "en": "Formed 1980. Early Mute Records singles and Black Celebration built a dark synth vocabulary; Music for the Masses and the 1988 Pasadena Rose Bowl show proved the live scale.\n\nViolator (1990)—Personal Jesus, Enjoy the Silence—crossed into US rock radio without guitar-band cosplay. They belong in a rock chronicle as proof that sequenced bass and industrial percussion can carry arena dynamics.",
+    "zh": "1980 年组建。早期 Mute 单曲与 Black Celebration 建立暗色合成器语汇；Music for the Masses 与 1988 年帕萨迪纳玫瑰碗演出坐实现场体量。\n\nViolator（1990）——Personal Jesus、Enjoy the Silence——打进美国摇滚电台，无需假装吉他乐队。收入摇滚编年是为了证明：音序低音与工业打击乐也能撑住体育场动态。"
+  }
+}

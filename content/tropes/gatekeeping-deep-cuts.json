@@ -1,24 +1,33 @@
 {
   "slug": "gatekeeping-deep-cuts",
   "title": {
-    "en": "Deep-cut gatekeeping",
-    "zh": "深切装门禁"
+    "en": "\"Name three deep cuts or get out\"",
+    "zh": "「说不出三首深切就滚」"
   },
   "summary": {
-    "en": "A stranger invents an exam you never signed up for. The correct answer is still liking the song.",
-    "zh": "陌生人发明一场你没报名的考试。正确答案仍然是：喜欢那首歌。"
+    "en": "Gatekeeping with a discography. Hits are still how most people arrive.",
+    "zh": "拿碟谱当门禁。热歌仍是大多数人的入口。"
   },
   "body": {
-    "en": "\"Name three B-sides or get out\" is not scholarship. It's insecurity with a discography.\n\nHits are doors. Deep cuts are rooms you find later, usually because you got obsessed and stayed past midnight. Start in the doorway. Anyone who mocks that is auditioning for a job nobody posted. This chronicle would rather hand you a landmark and a story than a shame quiz—tropes included, so you can spot the ritual and walk past it whistling.",
-    "zh": "「说不出三首 B-side 就滚」不是学问。那是带着唱片目录的心虚。\n\n热歌是门廊。深切是你后来才找到的房间，通常因为你着迷了，待过午夜。先站门廊。谁嘲笑这个，谁就是在面试一个没人发过的职位。本编年史宁可给你一首 landmark 和一个故事，也不给你羞耻测验——梗也写在这儿，好让你认出仪式，吹着口哨走过去。"
+    "en": "Real version of the joke: someone online grades your taste because you like the single. Deep cuts come after obsession—not before entry.\n\nMetal forums, shoegaze Discords, and Britpop group chats all run a version of this quiz. Steal the homework if you want; do not treat it as a visa stamp. Start with the landmark track. Anyone who mocks that is insecure with a spreadsheet.",
+    "zh": "真实版本：你喜欢那首单曲，网上就有人给你品味打分。深切是着迷之后才找到的——不是入场券。\n\n金属论坛、自赏 Discord、Britpop 群聊都有这套测验。想抄作业可以；别当签证盖章。先听 landmark。嘲笑这个的人，是带着 Excel 的心虚。"
   },
   "tone": "meme",
   "examples": [
     {
-      "label": "Any comment section after midnight",
+      "bandSlug": "radiohead",
+      "label": "Radiohead",
       "note": {
-        "en": "Where joy goes to be graded.",
-        "zh": "快乐去被打分的地方。"
+        "en": "Creep fans vs OK Computer thesis writers—same band, eternal fight.",
+        "zh": "Creep 粉 vs OK Computer 论文党——同一支乐队，永久内战。"
+      }
+    },
+    {
+      "bandSlug": "metallica",
+      "label": "Metallica",
+      "note": {
+        "en": "Master of Puppets or nothing—until someone admits Enter Sandman.",
+        "zh": "不认 Master of Puppets 就不算——直到有人承认听 Enter Sandman。"
       }
     }
   ]

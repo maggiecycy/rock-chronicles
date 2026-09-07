@@ -1,0 +1,35 @@
+{
+  "name": "The Velvet Underground",
+  "slug": "the-velvet-underground",
+  "formed": 1964,
+  "origin": "New York, USA",
+  "primaryEra": "1960s-british-invasion",
+  "genres": [
+    "alternative",
+    "post-punk"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "NYC band with Warhol association; The Velvet Underground & Nico (1967) delayed-influence blueprint for punk, noise, and indie’s drone/dissonance.",
+    "zh": "与 Warhol 关联的纽约乐队；The Velvet Underground & Nico（1967）是朋克、噪声与 indie 持续音/不协和的延迟影响蓝图。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Heroin",
+      "year": 1967
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Reed / Cale avant-rock; Heroin is the early drone-narrative piece.",
+    "zh": "Reed / Cale 的前卫摇滚；Heroin 是早期持续音叙事曲。"
+  },
+  "body": {
+    "en": "Formed 1964. Debut with Nico, White Light/White Heat, and later Reed-led albums used viola drone, feedback, deadpan lyric, and minimal chord vamps outside AM-psych fashion.\n\nHeroin (1967) is the listed track. Commercial failure at release; citation density in punk/post-punk/indie histories is the measure of impact.",
+    "zh": "1964 年组建。与 Nico 的首专、White Light/White Heat 及后期 Reed 主导专辑：中提琴持续音、反馈、冷脸歌词、极少和弦反复，落在 AM 迷幻时尚之外。\n\nHeroin（1967）是列出曲目。发行时商业失败；朋克/后朋克/indie 史中的引用密度才是影响尺度。"
+  }
+}

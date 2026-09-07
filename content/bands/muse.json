@@ -1,0 +1,35 @@
+{
+  "name": "Muse",
+  "slug": "muse",
+  "formed": 1994,
+  "origin": "Teignmouth, UK",
+  "primaryEra": "2000s-revival",
+  "genres": [
+    "alternative",
+    "progressive-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Teignmouth trio that scaled prog/alt riffs, falsetto leads, and classical pastiche into 2000s arena rock; Black Holes and Absolution–era peak.",
+    "zh": "廷茅斯三人组：把 prog/alt riff、假声主唱与古典拼贴扩成 2000 年代体育场摇滚；Black Holes 与 Absolution 时期为峰。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Knights of Cydonia",
+      "year": 2006
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Matt Bellamy–led arena alternative; Knights of Cydonia is the maximal single.",
+    "zh": "Matt Bellamy 领衔的体育场 alternative；Knights of Cydonia 是最大化单曲。"
+  },
+  "body": {
+    "en": "Formed 1994. Origin of Symmetry (2001) and Absolution (2003) built the template—heavily compressed guitars, arp synths, operatic falsetto, conspiracy/sci-fi lyric frames.\n\nKnights of Cydonia (2006) stacks Morricone pastiche and stadium riff. They occupy the UK arena lane beside Radiohead’s experimental path: same generation, louder crowd-chant design.",
+    "zh": "1994 年组建。Origin of Symmetry（2001）与 Absolution（2003）建立模板——高压缩吉他、琶音合成器、歌剧式假声、阴谋/科幻歌词框架。\n\nKnights of Cydonia（2006）堆叠 Morricone 拼贴与体育场 riff。与 Radiohead 的实验路径同代，占据英国体育场车道，更强调集体口号设计。"
+  }
+}

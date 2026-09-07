@@ -2,16 +2,16 @@
   "slug": "how-to-read-rock-history",
   "order": 2,
   "title": {
-    "en": "How to read rock history without drowning",
-    "zh": "怎么读摇滚史，才不会淹死"
+    "en": "How to read rock history",
+    "zh": "怎么读摇滚史"
   },
   "summary": {
-    "en": "You don't need the whole encyclopedia. You need a few hinge nights—and permission to follow one curiosity at a time.",
-    "zh": "你不需要整本百科。你只需要几扇会吱呀作响的门——以及一次只追一条好奇心的许可。"
+    "en": "You do not need the full encyclopedia. Pick one song, find its year, then add one neighboring act.",
+    "zh": "不必通读百科。先定一首歌、查年份，再加一支相邻乐队。"
   },
   "body": {
-    "en": "Rock history looks like a warehouse of albums until you notice it behaves more like gossip: each scene is answering the last one.\n\nBlues walks into the room first—crooked, funny, deadly serious about feeling. Rock & roll puts it on the radio and scares parents. Britain grabs the guitar and sends it back louder. Then the seventies argue with themselves: bigger stages, stranger time signatures, or three chords and spit. The eighties harden into metal armor and post-punk frost. The nineties crash the party in flannel and Britpop swagger. Indie keeps reinventing \"we meant to sound small\" while playing festivals the size of towns.\n\nYou don't have to memorize that paragraph. Treat it like a subway map. Timeline is the free ride—scroll until a decade feels like weather you recognize. Genre Map is for when someone says \"that's so post-punk\" and you want to know what they think they're tasting. People pages are for the detective plot: same face, different logos.\n\nOne rule that saves newcomers: never start with \"I should know everything.\" Start with one song that already owns you. Find its year. Open that era. Steal one neighboring band. Quit for the day if you want. History will still be there tomorrow—slightly annoyed you left, but available.",
-    "zh": "摇滚史乍一看像堆积如山的专辑仓库；再看一眼，更像八卦：每个场景都在回答上一个场景。\n\nBlues 先走进房间——歪、好笑、对情绪认真得要命。Rock & roll 把它送上电台，把父母吓一跳。英国把吉他抢走，再更大声地寄回来。然后七十年代开始自己跟自己吵：更大的舞台、更怪的拍号，还是三和弦加一口唾沫。八十年代变成金属铠甲和后朋克的霜。九十年代穿着法兰绒闯进来，一边 Britpop 一边拽。Indie 一直在重演「我们本来想小声」——同时站在跟小镇一样大的音乐节上。\n\n这段话不用背。把它当地铁图就行。Timeline 是随便坐的车——横滑到某个年代闻起来像你认识的天气。Genre Map 是有人说「好后朋」时，你想搞清楚他嘴里到底在品什么。People 页是侦探线：同一张脸，不同的 logo。\n\n有一条能救新人的规矩：永远别从「我应该什么都懂」开始。从一首已经拿捏你的歌开始。找到年份。打开那个年代。顺手偷一支隔壁乐队。想停就停。历史明天还在——可能有点不爽你先走，但门没锁。"
+    "en": "Rock history looks like a warehouse of albums. In practice it works more like reply chains: each scene answers the last one.\n\nBlues first. Rock & roll puts it on radio. Britain sends it back louder in the mid-60s. The 70s split into stadium hard rock, prog complexity, and three-chord punk. The 80s harden metal and post-punk. The 90s put grunge and Britpop on the same decade with different agendas. Indie keeps claiming small-room values while playing large festivals.\n\nDo not memorize that paragraph. Use it as a map. Timeline is chronological browsing. Genre Map is for when someone says \"post-punk\" and you want the family tree. People pages track the same musician under different logos.\n\nRule for newcomers: do not start from \"I should know everything.\" Start from one song you already care about. Open that era. Add one related band. Stop when you want. The archive will still be there.",
+    "zh": "摇滚史看起来像专辑仓库。实际更像回复链：每个场景都在回答上一个。\n\n先是 Blues。Rock & roll 上电台。60 年代中期英国把它更大声寄回来。70 年代拆成体育馆硬摇滚、前卫复杂结构，和三和弦朋克。80 年代金属与后朋克定型。90 年代 grunge 与 Britpop 同年代、不同议程。Indie 一边自称小场美学，一边站在大型音乐节上。\n\n这段不用背，当地图用。Timeline 按年代刷。Genre Map 是有人说「后朋」时查谱系用的。People 页追踪同一人换 logo 的路径。\n\n新人规矩：别从「我应该全懂」开始。从一首你已经在意的歌入手。打开那个年代。加一支相关乐队。想停就停。档案还在。"
   },
   "relatedGenreSlugs": [
     "blues",
@@ -21,6 +21,7 @@
   ],
   "relatedTropeSlugs": [
     "creative-differences",
-    "classic-lineup"
+    "classic-lineup",
+    "mustaine-never-forgets"
   ]
 }

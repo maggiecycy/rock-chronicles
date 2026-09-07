@@ -1,0 +1,35 @@
+{
+  "name": "Alice in Chains",
+  "slug": "alice-in-chains",
+  "formed": 1987,
+  "origin": "Seattle, USA",
+  "primaryEra": "1990s-grunge-alt",
+  "genres": [
+    "grunge",
+    "heavy-metal"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Seattle four-piece that put twin-harmony vocals over down-tuned hard-rock riffs; Facelift (1990) and Dirt (1992) sit on the metal side of grunge radio.",
+    "zh": "西雅图四人组：双人声和谐叠在降调 hard-rock riff 上；Facelift（1990）与 Dirt（1992）站在 grunge 电台里更偏 metal 的一侧。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Man in the Box",
+      "year": 1990
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Grunge/metal border band known for Layne Staley–Jerry Cantrell harmony and Dirt-era riffs.",
+    "zh": "Grunge/metal 交界乐队：以 Layne Staley 与 Jerry Cantrell 的和声及 Dirt 时期 riff 著称。"
+  },
+  "body": {
+    "en": "Formed in Seattle in 1987. Early singles and Facelift brought them onto US rock radio; Dirt (1992) fixed the template—sludgy guitar, close vocal thirds, addiction-era lyrics.\n\nMan in the Box (1990) remains the entry point. They sit beside Soundgarden and Pearl Jam on the Seattle map but keep a clearer metal lineage via Cantrell’s riff writing.",
+    "zh": "1987 年于西雅图组建。早期单曲与 Facelift 打进美国摇滚电台；Dirt（1992）定型：淤泥感吉他、贴近的三度人声、成瘾题材歌词。\n\nMan in the Box（1990）仍是入口。地图上与 Soundgarden、Pearl Jam 同属西雅图，但 Cantrell 的 riff 写作更贴近 metal 谱系。"
+  }
+}

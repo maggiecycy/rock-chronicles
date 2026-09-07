@@ -1,0 +1,46 @@
+{
+  "name": {
+    "en": "Grunge & Alternative",
+    "zh": "油渍与替代摇滚"
+  },
+  "slug": "1990s-grunge-alt",
+  "decade": "1990s",
+  "years": "1990–1997",
+  "order": 6,
+  "summary": {
+    "en": "Indie labels and major radio briefly share a playlist; loud/quiet becomes default song form.",
+    "zh": "独立厂牌与主流电台短暂共用歌单；强弱对比成为默认曲式。"
+  },
+  "sound": {
+    "en": "Fuzz pedals, soft–loud verse–chorus, dry room mics, alt-radio mixes",
+    "zh": "Fuzz 效果器、弱–强主歌副歌、干房间话筒、另类电台混音"
+  },
+  "anchorBands": [
+    "nirvana",
+    "pearl-jam",
+    "radiohead",
+    "soundgarden",
+    "foo-fighters"
+  ],
+  "alsoNotable": [
+    "Alice in Chains",
+    "Smashing Pumpkins",
+    "Rage Against the Machine",
+    "Nine Inch Nails",
+    "Tool",
+    "Slowdive"
+  ],
+  "genres": [
+    "grunge",
+    "alternative",
+    "indie-rock"
+  ],
+  "body": {
+    "en": "Seattle Sub Pop and related bands hit US MTV and modern-rock radio after Nevermind (1991). Pixies-style soft–loud dynamics become a common template. Radiohead moves from guitar singles toward studio-heavy albums by mid-decade.\n\nThis track is US-leaning alternative shock—not the Britpop chart war running in parallel in the UK.",
+    "zh": "西雅图 Sub Pop 及相关乐队在 Nevermind（1991）之后打进美国 MTV 与现代摇滚电台。Pixies 式的弱–强动态成为常用模板。Radiohead 在十年中期从吉他单曲转向录音室重度专辑。\n\n这条线是偏美的替代冲击——不是英国并行发生的 Britpop 榜单战。"
+  },
+  "navLabel": {
+    "en": "Grunge",
+    "zh": "油渍"
+  }
+}

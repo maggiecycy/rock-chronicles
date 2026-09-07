@@ -1,0 +1,35 @@
+{
+  "name": "Sonic Youth",
+  "slug": "sonic-youth",
+  "formed": 1981,
+  "origin": "New York, USA",
+  "primaryEra": "punk-postpunk",
+  "genres": [
+    "alternative",
+    "indie-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "NYC noise-rock band that treated alternate tunings and prepared guitar as composition method; Daydream Nation (1988) is the indie landmark.",
+    "zh": "纽约 noise-rock：把另类调弦与预制吉他当作曲方法；Daydream Nation（1988）是 indie 地标。"
+  },
+  "members": [],
+  "essentialTracks": [
+    {
+      "title": "Teen Age Riot",
+      "year": 1988
+    }
+  ],
+  "lyricQuotes": [],
+  "relatedBands": [],
+  "influenceFrom": [],
+  "influenced": [],
+  "shortBio": {
+    "en": "Moore / Gordon / Ranaldo noise-indie; Teen Age Riot opens Daydream Nation.",
+    "zh": "Moore / Gordon / Ranaldo 的 noise-indie；Teen Age Riot 打开 Daydream Nation。"
+  },
+  "body": {
+    "en": "Formed 1981. Bad Moon Rising through Sister and Daydream Nation moved from No Wave residue to long-form indie with song hooks inside dissonance.\n\nTeen Age Riot (1988) is the accessible gate. Influence runs through 1990s alternative and DIY: tunings as identity, feedback as arrangement, dual/triple guitar roles without classic-rock solos.",
+    "zh": "1981 年组建。从 Bad Moon Rising 到 Sister 与 Daydream Nation，从 No Wave 残余走到在不协和里仍有歌曲钩子的长篇 indie。\n\nTeen Age Riot（1988）是易入口。影响贯穿 1990 年代 alternative 与 DIY：调弦即身份、反馈即编曲、双/三吉他角色而不走经典摇滚独奏。"
+  }
+}

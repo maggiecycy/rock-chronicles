@@ -1,0 +1,44 @@
+{
+  "name": {
+    "en": "Metal Branches",
+    "zh": "金属分枝"
+  },
+  "slug": "1980s-metal",
+  "decade": "1980s",
+  "years": "1979–1992",
+  "order": 5,
+  "summary": {
+    "en": "NWOBHM gallop, thrash precision, twin-guitar harmony, late hard-rock hits.",
+    "zh": "NWOBHM 疾驰、Thrash 精度、双吉他和声，以及晚期硬摇滚热单。"
+  },
+  "sound": {
+    "en": "Palm-muted gallop, thrash downpicking, drop-tuned swagger, shred solos",
+    "zh": "闷音疾驰、Thrash 下拨、降调姿态、Shred Solo"
+  },
+  "anchorBands": [
+    "metallica",
+    "iron-maiden",
+    "guns-n-roses",
+    "van-halen",
+    "judas-priest"
+  ],
+  "alsoNotable": [
+    "Motörhead",
+    "Slayer",
+    "Megadeth",
+    "Pantera",
+    "AC/DC"
+  ],
+  "genres": [
+    "heavy-metal",
+    "hard-rock"
+  ],
+  "body": {
+    "en": "Metal hardens into separate circuits: NWOBHM gallop and twin leads, Bay Area thrash tempo and precision, later groove metal down-tuning. Guns N' Roses lands late-eighties hard rock on MTV before grunge takes US radio.\n\nKept separate from punk so speed-and-attitude and armor-and-technique are not filed as one exit.",
+    "zh": "金属硬化成多条线路：NWOBHM 疾驰与双主音、湾区 Thrash 的速度与精度、后来 Groove Metal 的降调。Guns N' Roses 在 Grunge 占据美国电台之前，把晚期硬摇滚送上 MTV。\n\n与朋克分开，免得「速度+态度」和「铠甲+技巧」被归档成同一条出路。"
+  },
+  "navLabel": {
+    "en": "Metal",
+    "zh": "金属"
+  }
+}

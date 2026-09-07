@@ -5,15 +5,15 @@
   "origin": "Birmingham, UK",
   "primaryEra": "1970s-prog-hard-rock",
   "alsoAppearsIn": [
-    "1980s-punk-metal"
+    "1980s-metal"
   ],
   "genres": [
     "hard-rock",
     "heavy-metal"
   ],
   "whyMatters": {
-    "en": "Birmingham fog, a tritone, and Ozzy's wail: Heavy Metal gets a birth certificate that is not Hard Rock with extra mascara.",
-    "zh": "伯明翰的雾、一个三全音、Ozzy 的嚎叫：Heavy Metal 拿到出生证明——不是涂了更多睫毛膏的 Hard Rock。"
+    "en": "Birmingham four-piece whose 1970 debut fixed tritone riffs, down-tuned guitar, and occult-tinged lyric as heavy metal’s separable identity from hard rock.",
+    "zh": "伯明翰四人组：1970 首专把三全音 riff、降调吉他与偏神秘歌词定为重金属相对 hard rock 可分离的身份。"
   },
   "members": [
     {
@@ -68,8 +68,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Metal",
-        "zh": "雨声与三全音：Metal 的创世场景"
+        "en": "Tritone riff + slow tempo as early metal scene.",
+        "zh": "三全音 riff + 慢速度作为早期金属场景。"
       }
     },
     {
@@ -86,8 +86,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Key composition moment",
-        "zh": "短、快、重：电台也能播的黑暗"
+        "en": "Short/fast heavy single that still fits radio.",
+        "zh": "仍适合电台的短快重型单曲。"
       }
     }
   ],
@@ -95,7 +95,7 @@
     {
       "text": "We knew we had something different.",
       "speaker": "Tony Iommi",
-      "source": "Interview excerpt · Whisper-ready",
+      "source": "Interview excerpt",
       "year": 2000
     }
   ],
@@ -114,24 +114,24 @@
     "metallica"
   ],
   "shortBio": {
-    "en": "Heavy Metal's direct starting point—industrial gloom made into riffs.",
-    "zh": "Heavy Metal 的直系起点——工业阴郁炼成 riff。"
+    "en": "Iommi / Osbourne / Butler / Ward; Paranoid-era metal foundation.",
+    "zh": "Iommi / Osbourne / Butler / Ward；Paranoid 时期金属地基。"
   },
   "decisive": true,
   "body": {
-    "en": "Black Sabbath do not brighten the Blues. They lower the lights until the factory town itself becomes a riff.\n\nDown-tuned guitars, rain, and dread: Metal stops being a fashion adjective and becomes a separate room.",
-    "zh": "Black Sabbath 不把 Blues 擦亮。他们把灯压低，直到工厂城市自己变成 riff。\n\n降调吉他、雨、恐惧：Metal 不再是时髦形容词，而是一间独立的房间。"
+    "en": "Formed 1968. Black Sabbath, Paranoid, and Master of Reality document Iommi’s riff writing after fingertip injury (lighter strings, fretting adaptations), Geezer’s bass/lyrics, Ozzy’s nasal lead, Ward’s drums.\n\nTitle track Black Sabbath (1970) and Paranoid / Iron Man are the teaching set. Dio-era Heaven and Hell is a separate vocal-engine version under the same name.",
+    "zh": "1968 年组建。Black Sabbath、Paranoid 与 Master of Reality 记录 Iommi 指伤后的 riff 写作（更细弦、按弦适应）、Geezer 贝斯/歌词、Ozzy 鼻音主唱、Ward 鼓。\n\n同名曲 Black Sabbath（1970）与 Paranoid / Iron Man 是教材组。Dio 时期 Heaven and Hell 是同名下另一套人声引擎版本。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "The birth certificate is a riff",
-        "zh": "出生证明是一段 riff"
+        "en": "A riff catalog, not mascara hard rock",
+        "zh": "riff 目录，而非涂睫毛膏的 hard rock"
       },
       "body": {
-        "en": "Before Sabbath, heavy music still argued with Blues and psychedelia. After the title track Black Sabbath, the argument ends: darkness can be the subject, not the seasoning.\n\nThat is the decisive cut—Metal as identity, not volume setting.",
-        "zh": "在 Sabbath 之前，重音乐还在跟 Blues 与迷幻讨价还价。标题曲 Black Sabbath 之后，讨价结束：黑暗可以是主题，不是调味料。\n\n这就是决定性切口——Metal 是身份，不是音量旋钮。"
+        "en": "Sabbath matter because heaviness is arrangement and interval choice—tritone, slow tempo, bleak lyric—not only louder amps.\n\nMetal gets a separable grammar from blues-based hard rock here.",
+        "zh": "Sabbath 要紧，因为「重」是编曲与音程选择——三全音、慢速度、阴郁歌词——不只是更大的音箱。\n\n金属在此获得相对蓝调 hard rock 可分离的语法。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "heavy-metal"
@@ -139,12 +139,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Ozzy years, Dio years, same eclipse",
-        "zh": "Ozzy 年代，Dio 年代，同一片日食"
+        "en": "Ozzy years vs Dio years",
+        "zh": "Ozzy 年代 vs Dio 年代"
       },
       "body": {
-        "en": "Sabbath reinvent with new singers and still keep the eclipse. Ozzy's early dread and Dio's later theatrical bite are different weather under the same black sun.\n\nFreeze the versions you can still hum by name—Metal history is also lineup history.",
-        "zh": "Sabbath 换主唱仍能守住日食。Ozzy 早期的恐惧与 Dio 后期的戏剧咬合，是同一黑日下的不同天气。\n\n只冻结你还能哼出名的那些版本——Metal 史也是阵容史。"
+        "en": "Ozzy-era peak is the birth citation. Dio’s Heaven and Hell reinvents vocal and fantasy lyric without erasing the riff engine.\n\nSame logo, different singer—why lineup versions are first-class objects.",
+        "zh": "Ozzy 时期巅峰是创世引用。Dio 的 Heaven and Hell 重做人声与奇幻歌词，不擦掉 riff 引擎。\n\n同一 logo、不同主唱——故阵容版本是一等对象。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "hard-rock"
@@ -152,12 +152,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Rain, tritone, creation myth",
-        "zh": "雨声、三全音、创世神话"
+        "en": "Black Sabbath: tritone opening",
+        "zh": "Black Sabbath：三全音开场"
       },
       "body": {
-        "en": "1970. Thunder on the record, a flattened fifth hanging in the air, Ozzy warning you about what walks behind. The song Black Sabbath does not ask permission to be ominous.\n\nMetal's creation scene is not a stadium yet. It is a wet street and a guitar that refuses major-key comfort.",
-        "zh": "1970 年。唱片里的雷，悬着的降五度，Ozzy 警告你背后有东西在走。标题曲 Black Sabbath 不请求许可再阴森。\n\nMetal 的创世场景还不是体育馆。是湿街，是一把拒绝大调安慰的吉他。"
+        "en": "Rain/bell intro into Iommi’s tritone figure; Ozzy’s vocal enters over the dread tempo. Often cited as metal’s creation-scene track.\n\nAtmosphere is tempo + interval, not stage fog metaphor.",
+        "zh": "雨声/钟声引入 Iommi 三全音音型；Ozzy 人声进入恐惧速度。常被引为金属创世场景曲。\n\n氛围是速度+音程，不是舞台烟雾比喻。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -166,12 +166,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Paranoid: darkness that fits radio",
-        "zh": "Paranoid：能进电台的黑暗"
+        "en": "Paranoid: short, fast, radio-fit darkness",
+        "zh": "Paranoid：短、快、适合电台的黑暗"
       },
       "body": {
-        "en": "Short, fast, heavy. Paranoid proves the new language can travel without a twenty-minute suite.\n\nIf Black Sabbath invents the mood, Paranoid invents the single that carries it into cars and pubs—Metal learns to move.",
-        "zh": "短、快、重。Paranoid 证明新语言不必靠二十分钟组曲也能上路。\n\n若 Black Sabbath 发明情绪，Paranoid 就发明能把它带进汽车与酒吧的单曲——Metal 学会移动。"
+        "en": "Faster riff, tighter runtime, still heavy. Proof early metal can fit AM/FM without losing the down-tuned grind.\n\nTeaching contrast to the title track’s crawl.",
+        "zh": "更快 riff、更紧时长，仍然重。证明早期金属可进 AM/FM 而不丢掉降调碾磨。\n\n与同名曲爬行速度的教学对照。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -180,12 +180,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Downstream of the black sun",
-        "zh": "黑日的下游"
+        "en": "Downstream: doom, NWOBHM, grunge sludge",
+        "zh": "下游：doom、NWOBHM、grunge 淤泥"
       },
       "body": {
-        "en": "From Sabbath's gloom flow thrash precision, doom's crawl, and every band that tunes down to feel the floor drop.\n\nHard Rock still swings; Metal stares. The split never fully heals.",
-        "zh": "从 Sabbath 的阴郁流出 thrash 的精准、doom 的爬行，以及所有把弦调低只为感觉地板塌陷的乐队。\n\nHard Rock 仍在摇摆；Metal 在凝视。裂缝从未完全愈合。"
+        "en": "Doom keeps the slow dread; NWOBHM keeps riff primacy at higher speed; Seattle grunge cites the sludge more than the occult.\n\nBlack sun as catalog influence, not astrology.",
+        "zh": "Doom 留下慢恐惧；NWOBHM 以更高速度保持 riff 优先；西雅图 grunge 更多引用淤泥而非神秘学。\n\n黑太阳是目录影响，不是占星。"
       },
       "stickyVisual": "dna",
       "soundGenre": "hard-rock"
@@ -193,12 +193,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "They called it heavy; it became Metal",
-        "zh": "他们说 heavy；它变成了 Metal"
+        "en": "They called it heavy; catalogs called it metal",
+        "zh": "他们称它重；目录称它金属"
       },
       "body": {
-        "en": "Early quotes still search for a name—heavy blues, underground thunder. The music arrives before the marketing department.\n\nPin the words anyway: you can hear a genre inventing its vocabulary in real time.",
-        "zh": "早期引语还在找名字——heavy blues、地下雷声。音乐先到，市场部后到。\n\n仍把话钉上墙：你能听见一个流派在实时发明自己的词汇。"
+        "en": "Early press language lags the genre label. Useful quotes describe volume, gloom, and audience shock—genre name arrives in retrospect.\n\nTrack the naming lag as history.",
+        "zh": "早期媒体用语落后于类型标签。有用引语描述音量、阴郁与听众震惊——类型名事后到来。\n\n把命名滞后当作历史追踪。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -234,8 +234,8 @@
         }
       ],
       "note": {
-        "en": "Metal's birth certificate lineup.",
-        "zh": "金属出生证明阵容。"
+        "en": "Founding Ozzy-era peak lineup.",
+        "zh": "创始 Ozzy 时期巅峰阵容。"
       }
     },
     {
@@ -264,8 +264,8 @@
         }
       ],
       "note": {
-        "en": "Same band name, different vocal engine—why versions matter.",
-        "zh": "同一队名，不同人声引擎——所以需要版本。"
+        "en": "Same band name, Dio vocal engine—versions matter.",
+        "zh": "同名、Dio 人声引擎——版本要紧。"
       }
     }
   ],
@@ -274,16 +274,16 @@
       "title": "Black Sabbath",
       "year": 1970,
       "note": {
-        "en": "Trill + doom tempo: Metal's founding chill.",
-        "zh": "颤音 + 末日速度：Metal 的奠基寒意。"
+        "en": "Tritone opening as metal creation citation.",
+        "zh": "三全音开场作为金属创世引用。"
       }
     },
     "pioneeredGenres": [
       "heavy-metal"
     ],
     "note": {
-      "en": "Heaviness as atmosphere, not just volume.",
-      "zh": "「重」是气氛，不只是音量。"
+      "en": "Heaviness as interval, tempo, and lyric frame—not only volume.",
+      "zh": "「重」作为音程、速度与歌词框架——不只是音量。"
     }
   }
 }
