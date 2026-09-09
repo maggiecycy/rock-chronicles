@@ -17,17 +17,20 @@
     {
       "name": "Sting",
       "role": "Vocals, Bass",
-      "years": "1977–1986"
+      "years": "1977–1986",
+      "personSlug": "sting"
     },
     {
       "name": "Andy Summers",
       "role": "Guitar",
-      "years": "1977–1986"
+      "years": "1977–1986",
+      "personSlug": "andy-summers"
     },
     {
       "name": "Stewart Copeland",
       "role": "Drums",
-      "years": "1977–1986"
+      "years": "1977–1986",
+      "personSlug": "stewart-copeland"
     }
   ],
   "essentialTracks": [
@@ -36,27 +39,68 @@
       "year": 1978
     },
     {
+      "title": "Message in a Bottle",
+      "year": 1979
+    },
+    {
       "title": "Every Breath You Take",
       "year": 1983
     },
     {
-      "title": "Message in a Bottle",
+      "title": "Walking on the Moon",
       "year": 1979
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [
-    "the-clash",
-    "talking-heads",
-    "the-cure"
+  "scenes": [
+    {
+      "year": 1978,
+      "track": "Roxanne",
+      "membersOnStage": ["Sting", "Andy Summers", "Stewart Copeland"],
+      "genreTags": ["alternative", "rock-n-roll"],
+      "intensity": 2,
+      "note": {
+        "en": "Reggae upstroke + white-reggae club tension as debut hit.",
+        "zh": "雷鬼上击 + 白雷鬼俱乐部张力作为出道热单。"
+      }
+    },
+    {
+      "year": 1979,
+      "track": "Message in a Bottle",
+      "membersOnStage": ["Sting", "Andy Summers", "Stewart Copeland"],
+      "genreTags": ["alternative"],
+      "intensity": 2,
+      "note": {
+        "en": "Summers delay/chorus figure as trio signature.",
+        "zh": "Summers 的延时/chorus 音型成为三人组签名。"
+      }
+    },
+    {
+      "year": 1983,
+      "track": "Every Breath You Take",
+      "membersOnStage": ["Sting", "Andy Summers", "Stewart Copeland"],
+      "genreTags": ["alternative", "rock-n-roll"],
+      "intensity": 2,
+      "note": {
+        "en": "Synchronicity ballad; Copeland restraint under stalker lyric.",
+        "zh": "Synchronicity 谣曲；跟踪狂歌词下 Copeland 的克制。"
+      }
+    }
   ],
-  "influenceFrom": [
-    "the-beatles"
+  "interviewQuotes": [
+    {
+      "text": "We were a trio. That was the discipline.",
+      "speaker": "Stewart Copeland",
+      "source": "Press interview excerpt",
+      "year": 2007
+    }
   ],
-  "influenced": [
-    "the-killers",
-    "coldplay"
+  "lyricQuotes": [
+    "Roxanne, you don't have to put on the red light",
+    "Every breath you take, every move you make"
   ],
+  "relatedBands": ["the-clash", "talking-heads", "the-cure"],
+  "influenceFrom": ["the-beatles", "the-clash"],
+  "influenced": ["the-killers", "coldplay"],
   "shortBio": {
     "en": "Sting / Summers / Copeland; Every Breath You Take is the mass ballad.",
     "zh": "Sting / Summers / Copeland；Every Breath You Take 是大众谣曲。"
@@ -64,5 +108,122 @@
   "body": {
     "en": "Formed 1977. Outlandos d’Amour through Synchronicity track rising scale: Copeland’s hi-hat reggae grammar, Summers’s chorus/delay angles, Sting’s high melodic bass and vocal.\n\nRoxanne (1978) and Every Breath You Take (1983) bookend club tension and global pop. They show post-punk energy can chart without punk orthodoxy or soft-rock surrender.",
     "zh": "1977 年组建。从 Outlandos d’Amour 到 Synchronicity 追踪体量上升：Copeland 的踩镲雷鬼语法、Summers 的 chorus/延时棱角、Sting 的高音旋律贝斯与人声。\n\nRoxanne（1978）与 Every Breath You Take（1983）标记俱乐部张力与全球流行两端。证明后朋克能量可以上榜，无需朋克正统，也不向软摇滚投降。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Reggae grammar inside new-wave pop",
+        "zh": "new wave 流行里的雷鬼语法"
+      },
+      "body": {
+        "en": "The Police shrink rock to a trio and borrow reggae upstrokes without becoming a reggae band. Copeland’s hi-hat and offbeat kick, Summers’s chorus/delay chords, Sting’s high bass+vocal—one interlocking clock.\n\nPost-punk energy that charts: tight, melodic, not three-chord orthodoxy.",
+        "zh": "The Police 把摇滚缩成三人组，借用雷鬼上击却不变成雷鬼乐队。Copeland 的踩镲与反拍底鼓、Summers 的 chorus/延时和弦、Sting 的高音贝斯+人声——一套咬合时钟。\n\n能上榜的后朋克能量：紧、有旋律，不是三和弦正统。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "One trio, then solo exits",
+        "zh": "一套三人组，然后各自离开"
+      },
+      "body": {
+        "en": "1977–86 is essentially one cast. Internal tension (especially Sting vs Copeland) ends the run after Synchronicity. Later reunion tours replay the hits; the chronicle’s peak version remains the original trio.\n\nNo classic-lineup churn—just an abrupt stop.",
+        "zh": "1977–86 基本是一套人马。内部张力（尤其 Sting vs Copeland）在 Synchronicity 后结束运行。后来重聚巡演重播热歌；编年史巅峰版本仍是原三人组。\n\n没有经典阵容更替——只有突然停机。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "lineup",
+      "title": {
+        "en": "Bass/voice, chorus guitar, reggae drums",
+        "zh": "贝斯/人声、chorus 吉他、雷鬼鼓"
+      },
+      "body": {
+        "en": "Sting writes most melodies and plays melodic bass high in the mix. Summers paints with effects rather than metal leads. Copeland treats the kit like a percussion ensemble—octobans, hi-hat chatter.\n\nThree egos, one clock: the songs work when the grid locks.",
+        "zh": "Sting 写大部分旋律，并把旋律贝斯推到混音高处。Summers 用效果器上色，而不是金属主音。Copeland 把鼓组当打击乐合奏——八角鼓、踩镲碎语。\n\n三个自我、一套时钟：格子锁住时歌才成立。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "roxanne",
+      "title": {
+        "en": "Roxanne: club hit, white-reggae frame",
+        "zh": "Roxanne：俱乐部热单，白雷鬼框架"
+      },
+      "body": {
+        "en": "Debut-era single: sparse arrangement, Sting’s nasal lead, Copeland’s upstroke-friendly groove. Proves the trio format can compete on punk-adjacent radio without leather orthodoxy.\n\nEntry object for the whole catalog.",
+        "zh": "出道期单曲：编配稀疏、Sting 鼻音主唱、Copeland 适合上击的律动。证明三人编制能在朋克相邻电台竞争，无需皮衣正统。\n\n整本目录的入口对象。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "every-breath",
+      "title": {
+        "en": "Every Breath You Take: ballad as trap",
+        "zh": "Every Breath You Take：当陷阱的谣曲"
+      },
+      "body": {
+        "en": "Synchronicity (1983) global ballad. Summers’s clean arpeggio, Copeland’s restrained kit, Sting’s stalker lyric often misheard as romance.\n\nPeak chart proof that the trio’s discipline scales to soft dynamics without soft-rock surrender.",
+        "zh": "Synchronicity（1983）全球谣曲。Summers 干净分解和弦、Copeland 克制鼓组、Sting 的跟踪狂歌词常被听成浪漫。\n\n榜单峰值证明：三人组纪律可以放到轻动态，却不向软摇滚投降。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Trio pop-rock grammar after punk",
+        "zh": "朋克之后的三人流行摇滚语法"
+      },
+      "body": {
+        "en": "Later radio rock (Killers, Coldplay-adjacent dynamics) cites the melodic bass + effects guitar + tight drums recipe. Sting’s solo career splits the brand; the Police catalog stays the locked-trio document.\n\nShort discography, long citation list for post-punk that charts.",
+        "zh": "后来的电台摇滚（Killers、Coldplay 相邻动态）引用「旋律贝斯 + 效果吉他 + 紧鼓」配方。Sting 独唱拆开品牌；Police 目录仍是锁定三人组的文献。\n\n作品目录短；对能上榜的后朋克引用列表长。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "classic-trio",
+      "label": {
+        "en": "Classic trio",
+        "zh": "经典三人组"
+      },
+      "years": "1977–1986",
+      "peak": true,
+      "members": [
+        { "name": "Sting", "role": "Vocals, Bass", "personSlug": "sting" },
+        { "name": "Andy Summers", "role": "Guitar", "personSlug": "andy-summers" },
+        { "name": "Stewart Copeland", "role": "Drums", "personSlug": "stewart-copeland" }
+      ],
+      "note": {
+        "en": "Only studio/live peak cast; reunions replay this silhouette.",
+        "zh": "唯一录音室/现场巅峰卡司；重聚重播这一剪影。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Roxanne",
+      "year": 1978,
+      "note": {
+        "en": "Reggae-upstroke new wave as chart punk-adjacent hit.",
+        "zh": "雷鬼上击 new wave 作为朋克相邻榜单热单。"
+      }
+    },
+    "pioneeredGenres": ["alternative"],
+    "note": {
+      "en": "Trio reggae/new-wave grammar that scaled to global ballads.",
+      "zh": "可放大到全球谣曲的三人雷鬼/new wave 语法。"
+    }
   }
 }

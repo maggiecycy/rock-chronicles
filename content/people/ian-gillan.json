@@ -1,0 +1,42 @@
+{
+  "name": "Ian Gillan",
+  "slug": "ian-gillan",
+  "born": 1945,
+  "origin": "London, UK",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Deep Purple Mark II scream; In Rock / Machine Head peak vocals.",
+    "zh": "Deep Purple Mark II 尖叫；In Rock / Machine Head 峰值人声。"
+  },
+  "body": {
+    "en": "Born 1945. Mark II vocal on Child in Time and Highway Star. Leaves 1973; returns in later reunions. Scream sits above Lord’s Hammond without melisma fashion.\n\nCitation era is 1969–73 with Blackmore/Glover/Lord/Paice.",
+    "zh": "1945 年生。Mark II 人声见于 Child in Time 与 Highway Star。1973 离队；后期重聚回归。尖叫坐在 Lord Hammond 上，不走花腔时尚。\n\n引用期是与 Blackmore/Glover/Lord/Paice 的 1969–73。"
+  },
+  "tenures": [
+    {
+      "bandName": "Deep Purple",
+      "bandSlug": "deep-purple",
+      "role": "Vocals",
+      "from": 1969,
+      "to": 1973
+    },
+    {
+      "bandName": "Deep Purple",
+      "bandSlug": "deep-purple",
+      "role": "Vocals",
+      "from": 1984,
+      "to": "present",
+      "note": {
+        "en": "Reunion eras with gaps.",
+        "zh": "有间断的重聚时期。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "ritchie-blackmore",
+    "jon-lord"
+  ]
+}

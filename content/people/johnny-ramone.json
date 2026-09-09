@@ -1,0 +1,31 @@
+{
+  "name": "Johnny Ramone",
+  "slug": "johnny-ramone",
+  "born": 1948,
+  "origin": "New York, USA",
+  "roles": [
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Ramones guitar; Mosrite downstrokes, policy of no leads.",
+    "zh": "Ramones 吉他；Mosrite 下行扫弦，原则上不独奏。"
+  },
+  "body": {
+    "en": "Born John Cummings, 1948. Strict downstroke discipline defines US punk timing. Refuses lead breaks by method. Leather-jacket stage stillness is part of the brand.\n\nGuitar method is the structural export.",
+    "zh": "本名 John Cummings，1948 年生。严格下行扫弦纪律定义美国朋克时值。方法上拒绝主音段落。皮衣舞台静止是品牌一部分。\n\n吉他方法是结构出口。"
+  },
+  "tenures": [
+    {
+      "bandName": "Ramones",
+      "bandSlug": "ramones",
+      "role": "Guitar",
+      "from": 1974,
+      "to": 1996
+    }
+  ],
+  "relatedPeople": [
+    "joey-ramone",
+    "dee-dee-ramone"
+  ]
+}

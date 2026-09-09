@@ -12,23 +12,332 @@
     "en": "NWOBHM flagship; the Dickinson–Murray–Smith twin-guitar era and Number of the Beast (1982) set gallop rhythm and concept-lyric metal as global touring grammar.",
     "zh": "NWOBHM 旗舰；Dickinson–Murray–Smith 双吉他时期与 Number of the Beast（1982）把疾驰节奏与概念歌词金属做成全球巡语法。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Steve Harris",
+      "role": "Bass",
+      "years": "1975–present",
+      "personSlug": "steve-harris"
+    },
+    {
+      "name": "Bruce Dickinson",
+      "role": "Vocals",
+      "years": "1981–1993; 1999–present",
+      "personSlug": "bruce-dickinson"
+    },
+    {
+      "name": "Paul Di'Anno",
+      "role": "Vocals",
+      "years": "1978–1981",
+      "personSlug": "paul-di-anno"
+    },
+    {
+      "name": "Dave Murray",
+      "role": "Guitar",
+      "years": "1976–present"
+    },
+    {
+      "name": "Adrian Smith",
+      "role": "Guitar",
+      "years": "1980–1990; 1999–present"
+    },
+    {
+      "name": "Nicko McBrain",
+      "role": "Drums",
+      "years": "1982–present"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "The Trooper",
       "year": 1983
+    },
+    {
+      "title": "The Number of the Beast",
+      "year": 1982
+    },
+    {
+      "title": "Run to the Hills",
+      "year": 1982
+    },
+    {
+      "title": "Hallowed Be Thy Name",
+      "year": 1982
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1982,
+      "track": "The Number of the Beast",
+      "membersOnStage": [
+        "Bruce Dickinson",
+        "Steve Harris",
+        "Dave Murray",
+        "Adrian Smith",
+        "Clive Burr"
+      ],
+      "genreTags": [
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Dickinson debut album peak; Harris gallop + twin leads + concept lyric.",
+        "zh": "Dickinson 首张峰值专辑；Harris 疾驰 + 双主音 + 概念歌词。"
+      }
+    },
+    {
+      "year": 1983,
+      "track": "The Trooper",
+      "membersOnStage": [
+        "Bruce Dickinson",
+        "Steve Harris",
+        "Dave Murray",
+        "Adrian Smith",
+        "Nicko McBrain"
+      ],
+      "genreTags": [
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Gallop riff textbook; Crimean War lyric over dual-lead harmony.",
+        "zh": "疾驰 riff 教科书；克里米亚战争歌词压在双主音和声上。"
+      }
+    },
+    {
+      "year": 1981,
+      "track": "Killers",
+      "membersOnStage": [
+        "Paul Di'Anno",
+        "Steve Harris",
+        "Dave Murray",
+        "Adrian Smith",
+        "Clive Burr"
+      ],
+      "genreTags": [
+        "heavy-metal",
+        "punk"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Di'Anno era: street-metal bark before operatic mid-range swap.",
+        "zh": "Di'Anno 时期：街头金属吠叫，歌剧式中音区替换前。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We do not play soft rock.",
+      "speaker": "Steve Harris",
+      "source": "Interview excerpt · quote wall",
+      "year": 1983
+    },
+    {
+      "text": "I joined a band that already had an identity.",
+      "speaker": "Bruce Dickinson",
+      "source": "On replacing Di'Anno · press",
+      "year": 1982
+    }
+  ],
+  "lyricQuotes": [
+    "You'll take my life but I'll take yours too",
+    "Run to the hills, run for your lives"
+  ],
+  "relatedBands": [
+    "deep-purple",
+    "black-sabbath",
+    "judas-priest",
+    "metallica"
+  ],
+  "influenceFrom": [
+    "deep-purple",
+    "black-sabbath",
+    "led-zeppelin"
+  ],
+  "influenced": [
+    "metallica",
+    "megadeth"
+  ],
   "shortBio": {
-    "en": "British heavy metal; The Trooper exemplifies gallop riff and dual-lead writing.",
-    "zh": "英国重金属；The Trooper 示范疾驰 riff 与双主音写作。"
+    "en": "Harris gallop metal; Di'Anno then Dickinson; The Trooper is the twin-lead textbook.",
+    "zh": "Harris 疾驰金属；Di'Anno 后换 Dickinson；The Trooper 是双主音教科书。"
   },
   "body": {
     "en": "Formed London 1975 by Steve Harris. Breakthrough is early-1980s: Killers, Number of the Beast, Piece of Mind—Harris’s eighth-note bass gallop, twin leads, Bruce Dickinson’s operatic mid range.\n\nThe Trooper (1983) is the textbook track. Eddie mascot and long tours matter as brand tech; musically they standardize New Wave of British Heavy Metal for arenas without thrash speed.",
     "zh": "1975 年由 Steve Harris 于伦敦组建。突破在 1980 年代初：Killers、Number of the Beast、Piece of Mind——Harris 的八分音符贝斯疾驰、双主音、Bruce Dickinson 的歌剧式中音区。\n\nThe Trooper（1983）是教科书曲目。Eddie 吉祥物与长巡演是品牌技术；音乐上他们把 NWOBHM 标准化进体育场，却不走 thrash 速度。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Gallop + twin lead as NWOBHM export",
+        "zh": "疾驰 + 双主音作为 NWOBHM 出口"
+      },
+      "body": {
+        "en": "Harris’s eighth-note bass gallop, Murray/Smith dual leads, and concept lyrics become Iron Maiden’s export kit. Number of the Beast (1982) takes NWOBHM from clubs to global touring grammar without thrash BPM.\n\nEddie mascot is brand tech beside the riffs.",
+        "zh": "Harris 八分贝斯疾驰、Murray/Smith 双主音与概念歌词成为 Iron Maiden 出口套件。Number of the Beast（1982）把 NWOBHM 从俱乐部带到全球巡语法，却不走 thrash BPM。\n\nEddie 吉祥物是 riff 旁的品牌技术。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "singers",
+      "title": {
+        "en": "Di'Anno bark → Dickinson range",
+        "zh": "Di'Anno 吠叫 → Dickinson 音域"
+      },
+      "body": {
+        "en": "Paul Di'Anno fronts Iron Maiden and Killers with street bark. Bruce Dickinson joins 1981; Number of the Beast locks operatic mid-range and longer forms.\n\nHub: singer swap without abandoning Harris’s gallop DNA.",
+        "zh": "Paul Di'Anno 以街头吠叫主唱 Iron Maiden 与 Killers。Bruce Dickinson 1981 加入；Number of the Beast 锁死歌剧式中音区与更长曲式。\n\n枢纽：换主唱而不丢 Harris 疾驰 DNA。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "trooper",
+      "title": {
+        "en": "The Trooper: gallop textbook",
+        "zh": "The Trooper：疾驰教科书"
+      },
+      "body": {
+        "en": "Open gallop riff, twin-lead harmony, Crimean War lyric. McBrain era drums. It is the track used to explain Maiden’s rhythm and dual-guitar method in one cut.\n\nRun to the Hills and Hallowed Be Thy Name sit as Beast-era companions.",
+        "zh": "开放疾驰 riff、双主音和声、克里米亚战争歌词。McBrain 时期鼓。用一首解释 Maiden 节奏与双吉他方法。\n\nRun to the Hills 与 Hallowed Be Thy Name 是 Beast 时期同伴。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Harris pocket, twin necks of harmony",
+        "zh": "Harris 律动，双吉他和声"
+      },
+      "body": {
+        "en": "Harris writes and drives from bass. Murray and Smith trade harmony leads more than shred contests. Dickinson’s mid-high range carries narrative lyrics over the gallop.\n\nDi'Anno chapter remains the street-metal citation.",
+        "zh": "Harris 从贝斯写作并驱动。Murray 与 Smith 交换和声主音多于炫技对决。Dickinson 中高音区承载叙事歌词压在疾驰上。\n\nDi'Anno 章节仍是街头金属引用。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Identity before the new singer",
+        "zh": "新主唱之前已有身份"
+      },
+      "body": {
+        "en": "Harris’s hard-line metal claim and Dickinson’s “already had identity” line mark continuity through the vocal swap.\n\nQuotes document brand method, not mystique.",
+        "zh": "Harris 的硬线金属主张与 Dickinson「乐队已有身份」句，标记换主唱下的连续性。\n\n引语记录品牌方法，不造神秘。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 1,
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Arena metal before thrash peak",
+        "zh": "Thrash 峰值前的体育场金属"
+      },
+      "body": {
+        "en": "Metallica and other 80s metal acts cite gallop rhythm and twin-lead writing. Maiden keep concept albums and long tours as default product.\n\nNWOBHM scaled without losing the Harris pocket.",
+        "zh": "Metallica 与其他 80 年代金属引用疾驰节奏与双主音写作。Maiden 把概念专集与长巡演当默认产品。\n\nNWOBHM 放大而不丢 Harris 律动。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "heavy-metal"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "di-anno-era",
+      "label": {
+        "en": "Di'Anno era",
+        "zh": "Di'Anno 时期"
+      },
+      "years": "1978–1981",
+      "members": [
+        {
+          "name": "Paul Di'Anno",
+          "role": "Vocals",
+          "personSlug": "paul-di-anno"
+        },
+        {
+          "name": "Steve Harris",
+          "role": "Bass",
+          "personSlug": "steve-harris"
+        },
+        {
+          "name": "Dave Murray",
+          "role": "Guitar"
+        },
+        {
+          "name": "Adrian Smith",
+          "role": "Guitar"
+        },
+        {
+          "name": "Clive Burr",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Iron Maiden / Killers; street bark over early gallop forms.",
+        "zh": "Iron Maiden / Killers；街头吠叫压在早期疾驰形式上。"
+      }
+    },
+    {
+      "id": "dickinson-peak",
+      "label": {
+        "en": "Dickinson peak",
+        "zh": "Dickinson 峰值"
+      },
+      "years": "1981–1990",
+      "peak": true,
+      "members": [
+        {
+          "name": "Bruce Dickinson",
+          "role": "Vocals",
+          "personSlug": "bruce-dickinson"
+        },
+        {
+          "name": "Steve Harris",
+          "role": "Bass",
+          "personSlug": "steve-harris"
+        },
+        {
+          "name": "Dave Murray",
+          "role": "Guitar"
+        },
+        {
+          "name": "Adrian Smith",
+          "role": "Guitar"
+        },
+        {
+          "name": "Nicko McBrain",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Beast through Seventh Son citation years; McBrain from Piece of Mind.",
+        "zh": "Beast 至 Seventh Son 引用年；McBrain 自 Piece of Mind 起。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "The Number of the Beast",
+      "year": 1982,
+      "note": {
+        "en": "Dickinson-era global NWOBHM proof album single.",
+        "zh": "Dickinson 时期全球 NWOBHM 证明专辑单曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "heavy-metal"
+    ],
+    "note": {
+      "en": "Gallop bass + twin lead + concept lyric as touring grammar.",
+      "zh": "疾驰贝斯 + 双主音 + 概念歌词作为巡语法。"
+    }
   }
 }

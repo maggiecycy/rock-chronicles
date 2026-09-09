@@ -1,0 +1,30 @@
+{
+  "name": "Bon Scott",
+  "slug": "bon-scott",
+  "born": 1946,
+  "origin": "Forfar, Scotland / Australia",
+  "roles": ["Vocals", "Songwriting"],
+  "hub": true,
+  "shortBio": {
+    "en": "AC/DC vocalist 1974–80; Highway to Hell-era bark. Death forces the Johnson-era reboot.",
+    "zh": "AC/DC 主唱 1974–80；Highway to Hell 时期的吠叫。去世迫使 Johnson 时期重启。"
+  },
+  "whyHub": {
+    "en": "Singer-leaves case: catalog peak with Scott, then equal-scale peak with Johnson on the same guitar method.",
+    "zh": "主唱离开案例：Scott 时期目录巅峰，随后 Johnson 在同一吉他方法上达到同等尺度巅峰。"
+  },
+  "body": {
+    "en": "Joined 1974. Nasal, shouted leads over open-chord riffs. Dies 1980 after Highway to Hell.\n\nPerson page exists so Bon-era and Johnson-era AC/DC stay comparable seasons, not a purity fight.",
+    "zh": "1974 年加入。鼻音喊叫主音架在开放和弦 riff 上。Highway to Hell 后于 1980 年去世。\n\n人物页用来让 Bon 时期与 Johnson 时期成为可比较的赛季，而不是纯度战争。"
+  },
+  "tenures": [
+    {
+      "bandName": "AC/DC",
+      "bandSlug": "ac-dc",
+      "role": "Vocals",
+      "from": 1974,
+      "to": 1980
+    }
+  ],
+  "relatedPeople": ["angus-young", "malcolm-young", "brian-johnson"]
+}

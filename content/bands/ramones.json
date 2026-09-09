@@ -12,23 +12,317 @@
     "en": "Queens, NYC band that compressed rock’n’roll into two-minute, downstroked bursts; Ramones (1976) is the US punk timing blueprint.",
     "zh": "纽约皇后区：把摇滚压成两分钟下行扫弦爆发；Ramones（1976）是美国朋克时值蓝图。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Joey Ramone",
+      "role": "Vocals",
+      "years": "1974–1996",
+      "personSlug": "joey-ramone"
+    },
+    {
+      "name": "Johnny Ramone",
+      "role": "Guitar",
+      "years": "1974–1996",
+      "personSlug": "johnny-ramone"
+    },
+    {
+      "name": "Dee Dee Ramone",
+      "role": "Bass",
+      "years": "1974–1989",
+      "personSlug": "dee-dee-ramone"
+    },
+    {
+      "name": "Tommy Ramone",
+      "role": "Drums",
+      "years": "1974–1978"
+    },
+    {
+      "name": "Marky Ramone",
+      "role": "Drums",
+      "years": "1978–1983; 1987–1996"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Blitzkrieg Bop",
       "year": 1976
+    },
+    {
+      "title": "Judy Is a Punk",
+      "year": 1976
+    },
+    {
+      "title": "Sheena Is a Punk Rocker",
+      "year": 1977
+    },
+    {
+      "title": "I Wanna Be Sedated",
+      "year": 1978
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1976,
+      "track": "Blitzkrieg Bop",
+      "membersOnStage": [
+        "Joey Ramone",
+        "Johnny Ramone",
+        "Dee Dee Ramone",
+        "Tommy Ramone"
+      ],
+      "genreTags": [
+        "punk"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "1-2-3-4 count-in; downstroke wall; two-minute US punk blueprint.",
+        "zh": "1-2-3-4 起拍；下行扫弦墙；两分钟美国朋克蓝图。"
+      }
+    },
+    {
+      "year": 1977,
+      "track": "Sheena Is a Punk Rocker",
+      "membersOnStage": [
+        "Joey Ramone",
+        "Johnny Ramone",
+        "Dee Dee Ramone",
+        "Tommy Ramone"
+      ],
+      "genreTags": [
+        "punk",
+        "rock-n-roll"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Bubblegum melody under leather-jacket tempo.",
+        "zh": "皮衣速度下的泡泡糖旋律。"
+      }
+    },
+    {
+      "year": 1978,
+      "track": "I Wanna Be Sedated",
+      "membersOnStage": [
+        "Joey Ramone",
+        "Johnny Ramone",
+        "Dee Dee Ramone",
+        "Marky Ramone"
+      ],
+      "genreTags": [
+        "punk"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Marky-era Road to Ruin; still short-song discipline.",
+        "zh": "Marky 时期 Road to Ruin；仍守短歌纪律。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We're a happy family.",
+      "speaker": "Joey Ramone",
+      "source": "On-stage / press refrain · quote wall",
+      "year": 1977
+    },
+    {
+      "text": "I don't play leads. I don't want to play leads.",
+      "speaker": "Johnny Ramone",
+      "source": "Interview on downstroke method · press",
+      "year": 1978
+    }
+  ],
+  "lyricQuotes": [
+    "Hey ho, let's go",
+    "I wanna be sedated"
+  ],
+  "relatedBands": [
+    "sex-pistols",
+    "the-clash",
+    "nirvana"
+  ],
+  "influenceFrom": [
+    "chuck-berry",
+    "the-beatles"
+  ],
+  "influenced": [
+    "sex-pistols",
+    "the-clash",
+    "nirvana"
+  ],
   "shortBio": {
-    "en": "US punk prototype; Blitzkrieg Bop teaches the 1-2-3-4 count-in.",
-    "zh": "美国朋克原型；Blitzkrieg Bop 教会 1-2-3-4 起拍。"
+    "en": "Joey / Johnny / Dee Dee / Tommy then Marky; Blitzkrieg Bop teaches the count-in.",
+    "zh": "Joey / Johnny / Dee Dee / Tommy，后换 Marky；Blitzkrieg Bop 教会起拍。"
   },
   "body": {
     "en": "Formed 1974. Early Sire albums (Ramones, Leave Home, Rocket to Russia) fixed leather-jacket image, Joey’s deadpan vocal, Johnny’s strict downstrokes, Dee Dee’s bass count-ins.\n\nBlitzkrieg Bop (1976) is the essential cue. Influence is structural—short songs, few chords, high tempo—absorbed by UK punk, hardcore, and later pop-punk.",
     "zh": "1974 年组建。早期 Sire 专辑（Ramones、Leave Home、Rocket to Russia）定型皮衣形象、Joey 的冷脸人声、Johnny 的严格下行扫弦、Dee Dee 的贝斯起拍。\n\nBlitzkrieg Bop（1976）是必听提示。影响是结构层面——短歌、少和弦、高速度——被英国朋克、hardcore 与后来的流行朋克吸收。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Two-minute downstroke blueprint",
+        "zh": "两分钟下行扫弦蓝图"
+      },
+      "body": {
+        "en": "Ramones compress rock’n’roll into short songs, open chords, and Johnny’s strict downstrokes. CBGB-era New York timing becomes the US punk default that UK bands accelerate further.\n\nFew leads; high tempo; leather as uniform.",
+        "zh": "Ramones 把摇滚压成短歌、开放和弦与 Johnny 严格下行扫弦。CBGB 时期纽约时值成为美国朋克默认，英国乐队再提速。\n\n少独奏；高速度；皮衣作制服。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "punk"
+    },
+    {
+      "id": "drums",
+      "title": {
+        "en": "Tommy then Marky",
+        "zh": "Tommy 然后 Marky"
+      },
+      "body": {
+        "en": "Tommy Ramone drums the 1976–77 Sire documents, then produces. Marky joins 1978 for Road to Ruin onward. Joey/Johnny/Dee Dee remain the vocal-guitar-bass constant through the classic years.\n\nLineup Versions mark the drum chair, not a genre pivot.",
+        "zh": "Tommy Ramone 鼓上 1976–77 Sire 文献，后转制作。Marky 1978 加入，自 Road to Ruin 起。Joey/Johnny/Dee Dee 在经典年仍是人声-吉他-贝斯常量。\n\n阵容版本标记鼓席，不是流派转向。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "punk"
+    },
+    {
+      "id": "blitzkrieg",
+      "title": {
+        "en": "Blitzkrieg Bop: count-in pedagogy",
+        "zh": "Blitzkrieg Bop：起拍教学"
+      },
+      "body": {
+        "en": "Dee Dee’s 1-2-3-4, Joey’s hey-ho chant, Johnny’s chord wall. Under three minutes. It is the track teachers and cover bands still use to explain US punk timing.\n\nJudy Is a Punk sits beside it on the debut as the short-song twin.",
+        "zh": "Dee Dee 的 1-2-3-4、Joey 的 hey-ho 口号、Johnny 的和弦墙。不到三分钟。仍是教师与翻唱乐队解释美国朋克时值的曲目。\n\nJudy Is a Punk 在首专旁作短歌双生。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "punk"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Deadpan, downstroke, count-in",
+        "zh": "冷脸、下行扫弦、起拍"
+      },
+      "body": {
+        "en": "Joey: tall deadpan lead. Johnny: Mosrite/downstroke discipline, no solos by policy. Dee Dee: bass and many early lyrics/count-ins.\n\nChemistry is rigid method, not jam culture.",
+        "zh": "Joey：高个冷脸主唱。Johnny：Mosrite/下行扫弦纪律，原则上不独奏。Dee Dee：贝斯与许多早期歌词/起拍。\n\n化学反应是刚性方法，不是即兴文化。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "punk"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Happy family, no leads",
+        "zh": "快乐家庭，无独奏"
+      },
+      "body": {
+        "en": "Joey’s “happy family” refrain and Johnny’s no-leads rule document brand and technique. Read them against the Sire tracking speeds.\n\nQuotes are method evidence.",
+        "zh": "Joey 的「快乐家庭」口头禅与 Johnny 的无独奏规则记录品牌与技术。对照 Sire 跟录速度阅读。\n\n引语是方法证据。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 1,
+      "soundGenre": "punk"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "UK punk and hardcore absorb the timing",
+        "zh": "英国朋克与 hardcore 吸收时值"
+      },
+      "body": {
+        "en": "Sex Pistols and The Clash take the short-song energy into UK tabloid and political lanes. Later hardcore and pop-punk keep the count-in and downstroke grammar.\n\nStructural influence outlives the leather image.",
+        "zh": "Sex Pistols 与 The Clash 把短歌能量带进英国小报与政治车道。后来 hardcore 与流行朋克保留起拍与下行扫弦语法。\n\n结构影响比皮衣形象活得更久。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "punk"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "tommy-era",
+      "label": {
+        "en": "Tommy era",
+        "zh": "Tommy 时期"
+      },
+      "years": "1974–1978",
+      "peak": true,
+      "members": [
+        {
+          "name": "Joey Ramone",
+          "role": "Vocals",
+          "personSlug": "joey-ramone"
+        },
+        {
+          "name": "Johnny Ramone",
+          "role": "Guitar",
+          "personSlug": "johnny-ramone"
+        },
+        {
+          "name": "Dee Dee Ramone",
+          "role": "Bass",
+          "personSlug": "dee-dee-ramone"
+        },
+        {
+          "name": "Tommy Ramone",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Debut through Rocket to Russia; US punk timing blueprint.",
+        "zh": "首专至 Rocket to Russia；美国朋克时值蓝图。"
+      }
+    },
+    {
+      "id": "marky-era",
+      "label": {
+        "en": "Marky era",
+        "zh": "Marky 时期"
+      },
+      "years": "1978–1983; 1987–1996",
+      "members": [
+        {
+          "name": "Joey Ramone",
+          "role": "Vocals",
+          "personSlug": "joey-ramone"
+        },
+        {
+          "name": "Johnny Ramone",
+          "role": "Guitar",
+          "personSlug": "johnny-ramone"
+        },
+        {
+          "name": "Dee Dee Ramone",
+          "role": "Bass",
+          "personSlug": "dee-dee-ramone"
+        },
+        {
+          "name": "Marky Ramone",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Road to Ruin onward; Dee Dee exits 1989, later bassists continue tours.",
+        "zh": "自 Road to Ruin；Dee Dee 1989 离队，后期贝斯手续巡演。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Blitzkrieg Bop",
+      "year": 1976,
+      "note": {
+        "en": "Count-in + downstroke as US punk timing lesson.",
+        "zh": "起拍 + 下行扫弦作为美国朋克时值课。"
+      }
+    },
+    "pioneeredGenres": [
+      "punk"
+    ],
+    "note": {
+      "en": "Short songs, few chords, high tempo as export method.",
+      "zh": "短歌、少和弦、高速度作为出口方法。"
+    }
   }
 }

@@ -1,0 +1,26 @@
+{
+  "name": "Sid Vicious",
+  "slug": "sid-vicious",
+  "born": 1957,
+  "origin": "London, UK",
+  "roles": ["Bass"],
+  "hub": false,
+  "shortBio": {
+    "en": "Sex Pistols bassist 1977–78; symbol more than technician—Matlock’s exit makes the swap a media event.",
+    "zh": "Sex Pistols 贝斯 1977–78；符号多于技术——Matlock 离开使替换成媒体事件。"
+  },
+  "body": {
+    "en": "Joins after Matlock. Limited bass skill; large tabloid silhouette. Dies 1979. Useful as a reminder that punk lore and punk records are not always the same object.",
+    "zh": "Matlock 之后加入。贝斯技术有限；小报剪影巨大。1979 年去世。用来提醒：朋克传说与朋克唱片不总是同一对象。"
+  },
+  "tenures": [
+    {
+      "bandName": "Sex Pistols",
+      "bandSlug": "sex-pistols",
+      "role": "Bass",
+      "from": 1977,
+      "to": 1978
+    }
+  ],
+  "relatedPeople": ["john-lydon", "glen-matlock"]
+}

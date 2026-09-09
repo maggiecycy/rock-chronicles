@@ -1,0 +1,31 @@
+{
+  "name": "Bilinda Butcher",
+  "slug": "bilinda-butcher",
+  "born": 1961,
+  "origin": "London, UK",
+  "roles": [
+    "Guitar",
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "MBV guitar/vocals; soft blend with Shields low in the Loveless mix.",
+    "zh": "MBV 吉他/人声；与 Shields 在 Loveless 混音低处柔声交融。"
+  },
+  "body": {
+    "en": "Born 1961. Joins late 1980s; dual guitar/vocal with Shields on Isn’t Anything and Loveless. Soft delivery buried in harmonic fog defines the blend.\n\nPeak citation is the Loveless-era four.",
+    "zh": "1961 年生。80 年代末加入；在 Isn’t Anything 与 Loveless 上与 Shields 双吉他/人声。柔声埋在和声雾中定义交融。\n\n峰值引用是 Loveless 时期四人组。"
+  },
+  "tenures": [
+    {
+      "bandName": "My Bloody Valentine",
+      "bandSlug": "my-bloody-valentine",
+      "role": "Guitar, Vocals",
+      "from": 1987,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "kevin-shields"
+  ]
+}

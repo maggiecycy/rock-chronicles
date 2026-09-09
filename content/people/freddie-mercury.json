@@ -1,0 +1,38 @@
+{
+  "name": "Freddie Mercury",
+  "slug": "freddie-mercury",
+  "born": 1946,
+  "origin": "Stone Town, Zanzibar / London, UK",
+  "roles": [
+    "Vocals",
+    "Piano",
+    "Songwriting"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Queen’s lead vocalist and pianist; multi-register writing from glam hard rock to disco-tinged pop.",
+    "zh": "Queen 主唱与钢琴手；从 glam hard rock 到带 disco 色彩的流行，跨音域写作。"
+  },
+  "body": {
+    "en": "Born Farrokh Bulsara, 1946. With Queen from 1970 until his death in 1991. Piano-led songs and stacked vocal arrangements are his studio signature; live work centers on range and call-and-response with arenas.\n\nPerson page exists so Mercury-era Queen stays distinct from later guest-vocal tours.",
+    "zh": "本名 Farrokh Bulsara，1946 年生。1970 年起在 Queen 直至 1991 年去世。钢琴主导歌曲与堆叠人声编曲是录音室签名；现场工作围绕音域与体育馆呼应。\n\n人物页用来把 Mercury 时期 Queen 与后来的客座主唱巡演分开。"
+  },
+  "tenures": [
+    {
+      "bandName": "Queen",
+      "bandSlug": "queen",
+      "role": "Vocals, Piano",
+      "from": 1970,
+      "to": 1991,
+      "note": {
+        "en": "Classic-four peak through Innuendo.",
+        "zh": "至 Innuendo 的经典四人巅峰。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "brian-may",
+    "roger-taylor",
+    "john-deacon"
+  ]
+}

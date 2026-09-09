@@ -1,0 +1,33 @@
+{
+  "name": "Izzy Stradlin",
+  "slug": "izzy-stradlin",
+  "born": 1962,
+  "origin": "Lafayette, Indiana, USA",
+  "roles": [
+    "Guitar",
+    "Songwriting"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "GnR rhythm guitar/songwriter on Appetite; exits 1991 before Illusion peak strain.",
+    "zh": "Appetite 时期 GnR 节奏吉他/写手；1991 在 Illusion 峰值张力前离队。"
+  },
+  "body": {
+    "en": "Born 1962. Rhythm and co-writing on Appetite-era songs; Stones-derived chord economy beside Slash leads. Leaves 1991 as the band scales to Illusion epics.\n\nCitation value is Appetite five chemistry more than later solo catalog.",
+    "zh": "1962 年生。Appetite 时期节奏与共写；在 Slash 主音旁提供 Stones 系和弦经济。1991 乐队扩向 Illusion 史诗时离队。\n\n引用价值在 Appetite 五人化学，多于后期独唱目录。"
+  },
+  "tenures": [
+    {
+      "bandName": "Guns N' Roses",
+      "bandSlug": "guns-n-roses",
+      "role": "Guitar",
+      "from": 1985,
+      "to": 1991
+    }
+  ],
+  "relatedPeople": [
+    "axl-rose",
+    "slash",
+    "duff-mckagan"
+  ]
+}

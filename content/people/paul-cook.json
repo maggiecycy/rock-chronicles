@@ -1,0 +1,32 @@
+{
+  "name": "Paul Cook",
+  "slug": "paul-cook",
+  "born": 1956,
+  "origin": "London, UK",
+  "roles": [
+    "Drums"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Sex Pistols drummer; straight eighths as UK punk kit default.",
+    "zh": "Sex Pistols 鼓手；直线八分作为英国朋克鼓组默认。"
+  },
+  "body": {
+    "en": "Born 1956. Keeps drums simple and loud behind Jones’s wall and Lydon’s sneer. Remains with Jones as the rhythm/guitar constant through Matlock and Vicious bass chairs.\n\nMethod: no progressive fills; tempo up, pocket flat.",
+    "zh": "1956 年生。在 Jones 墙与 Lydon 冷笑后保持鼓简单且响。跨 Matlock 与 Vicious 贝斯席，与 Jones 同为节奏/吉他常量。\n\n方法：无 progressive 加花；提速、律动扁平。"
+  },
+  "tenures": [
+    {
+      "bandName": "Sex Pistols",
+      "bandSlug": "sex-pistols",
+      "role": "Drums",
+      "from": 1975,
+      "to": 1978
+    }
+  ],
+  "relatedPeople": [
+    "steve-jones",
+    "john-lydon",
+    "glen-matlock"
+  ]
+}

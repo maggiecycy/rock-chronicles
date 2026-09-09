@@ -1,0 +1,39 @@
+{
+  "name": "Duff McKagan",
+  "slug": "duff-mckagan",
+  "born": 1964,
+  "origin": "Seattle, USA",
+  "roles": [
+    "Bass"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "GnR bassist; punk-rooted pocket on Appetite; exits mid-90s, returns 2016.",
+    "zh": "GnR 贝斯手；Appetite 上朋克根底律动；90 年代中离队，2016 回归。"
+  },
+  "body": {
+    "en": "Born 1964, Seattle. Punk bass energy under hard-rock riffs on Appetite. Leaves mid-90s; returns with Slash 2016.\n\nLinks Seattle punk schooling to LA hard-rock commercial peak.",
+    "zh": "1964 年生于西雅图。Appetite 上 hard-rock riff 下的朋克贝斯能量。90 年代中离队；2016 与 Slash 回归。\n\n把西雅图朋克训练连接到洛杉矶 hard-rock 商业峰值。"
+  },
+  "tenures": [
+    {
+      "bandName": "Guns N' Roses",
+      "bandSlug": "guns-n-roses",
+      "role": "Bass",
+      "from": 1985,
+      "to": 1997
+    },
+    {
+      "bandName": "Guns N' Roses",
+      "bandSlug": "guns-n-roses",
+      "role": "Bass",
+      "from": 2016,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "slash",
+    "axl-rose",
+    "izzy-stradlin"
+  ]
+}

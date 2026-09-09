@@ -1,0 +1,51 @@
+{
+  "name": "Slash",
+  "slug": "slash",
+  "born": 1965,
+  "origin": "Stoke-on-Trent, England / Los Angeles, USA",
+  "roles": [
+    "Guitar"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "GnR lead guitar; Les Paul midrange on Appetite; left mid-90s, returned 2016.",
+    "zh": "GnR 主音吉他；Appetite 上的 Les Paul 中频；90 年代中离队，2016 回归。"
+  },
+  "whyHub": {
+    "en": "Leave/return marks GnR brand continuity fights; Appetite tone remains the citation.",
+    "zh": "离队/回归标记 GnR 品牌连续性争夺；Appetite 音色仍是引用。"
+  },
+  "body": {
+    "en": "Born Saul Hudson, 1965. Les Paul leads on Welcome to the Jungle and Sweet Child O’ Mine define late-80s hard-rock radio tone. Exits mid-90s; returns 2016 with Duff for touring.\n\nHub value: guitar identity that can leave the logo and reattach.",
+    "zh": "本名 Saul Hudson，1965 年生。Welcome to the Jungle 与 Sweet Child O’ Mine 的 Les Paul 主音定义 80 年代末 hard-rock 电台音色。90 年代中离队；2016 与 Duff 回归巡演。\n\n枢纽价值：可离开 logo 再挂回的吉他身份。"
+  },
+  "tenures": [
+    {
+      "bandName": "Guns N' Roses",
+      "bandSlug": "guns-n-roses",
+      "role": "Guitar",
+      "from": 1985,
+      "to": 1996,
+      "note": {
+        "en": "Appetite / Illusion peak.",
+        "zh": "Appetite / Illusion 峰值。"
+      }
+    },
+    {
+      "bandName": "Guns N' Roses",
+      "bandSlug": "guns-n-roses",
+      "role": "Guitar",
+      "from": 2016,
+      "to": "present",
+      "note": {
+        "en": "Stadium reunion return.",
+        "zh": "体育场重聚回归。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "axl-rose",
+    "duff-mckagan",
+    "izzy-stradlin"
+  ]
+}

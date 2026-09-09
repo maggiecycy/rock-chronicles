@@ -1,0 +1,31 @@
+{
+  "name": "Joey Ramone",
+  "slug": "joey-ramone",
+  "born": 1951,
+  "origin": "New York, USA",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Ramones lead vocal; deadpan delivery over downstroke walls.",
+    "zh": "Ramones 主唱；下行扫弦墙上的冷脸唱法。"
+  },
+  "body": {
+    "en": "Born Jeffrey Hyman, 1951. Tall deadpan lead on Blitzkrieg Bop through later Sire years. Hey-ho chant and bubblegum melody under leather tempo.\n\nConstant vocal face across Tommy and Marky drum eras.",
+    "zh": "本名 Jeffrey Hyman，1951 年生。从 Blitzkrieg Bop 到后期 Sire 年的高个冷脸主唱。皮衣速度下的 hey-ho 口号与泡泡糖旋律。\n\n跨 Tommy 与 Marky 鼓时期的人声常量。"
+  },
+  "tenures": [
+    {
+      "bandName": "Ramones",
+      "bandSlug": "ramones",
+      "role": "Vocals",
+      "from": 1974,
+      "to": 1996
+    }
+  ],
+  "relatedPeople": [
+    "johnny-ramone",
+    "dee-dee-ramone"
+  ]
+}

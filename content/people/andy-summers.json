@@ -1,0 +1,26 @@
+{
+  "name": "Andy Summers",
+  "slug": "andy-summers",
+  "born": 1942,
+  "origin": "Poulton-le-Fylde, England",
+  "roles": ["Guitar"],
+  "hub": false,
+  "shortBio": {
+    "en": "The Police guitarist; chorus/delay chord color instead of metal leads.",
+    "zh": "The Police 吉他手；用 chorus/延时和弦上色，而不是金属主音。"
+  },
+  "body": {
+    "en": "Older than Sting/Copeland; brings jazz/rock session vocabulary. Effects-heavy clean tones define Message in a Bottle and Every Breath You Take figures.",
+    "zh": "比 Sting/Copeland 年长；带来爵士/摇滚录音室语汇。效果器驱动的干净音色定义 Message in a Bottle 与 Every Breath You Take 的音型。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Police",
+      "bandSlug": "the-police",
+      "role": "Guitar",
+      "from": 1977,
+      "to": 1986
+    }
+  ],
+  "relatedPeople": ["sting", "stewart-copeland"]
+}

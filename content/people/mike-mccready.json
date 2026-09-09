@@ -1,0 +1,31 @@
+{
+  "name": "Mike McCready",
+  "slug": "mike-mccready",
+  "born": 1966,
+  "origin": "Pensacola, Florida / Seattle, USA",
+  "roles": [
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Pearl Jam lead guitar; blues-rock solos on Alive and Even Flow.",
+    "zh": "Pearl Jam 主音吉他；Alive 与 Even Flow 上的蓝调摇滚独奏。"
+  },
+  "body": {
+    "en": "Born 1966. Les Paul / Strat leads on Ten. Blues-rock vocabulary sits over Gossard rhythm and Vedder baritone—less quiet-loud than Nirvana, more open-chord hard-rock weight.\n\nContinuous lead seat since formation.",
+    "zh": "1966 年生。Ten 上的 Les Paul / Strat 主音。蓝调摇滚语汇坐在 Gossard 节奏与 Vedder 男中音上——强弱动态少过 Nirvana，更偏开放和弦 hard-rock 重量。\n\n自组建起连续主音席。"
+  },
+  "tenures": [
+    {
+      "bandName": "Pearl Jam",
+      "bandSlug": "pearl-jam",
+      "role": "Guitar",
+      "from": 1990,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "eddie-vedder",
+    "stone-gossard"
+  ]
+}

@@ -19,44 +19,121 @@
     {
       "name": "Axl Rose",
       "role": "Vocals",
-      "years": "1985–present"
+      "years": "1985–present",
+      "personSlug": "axl-rose"
     },
     {
       "name": "Slash",
       "role": "Guitar",
-      "years": "1985–1996; 2016–present"
+      "years": "1985–1996; 2016–present",
+      "personSlug": "slash"
     },
     {
       "name": "Izzy Stradlin",
       "role": "Guitar",
-      "years": "1985–1991"
+      "years": "1985–1991",
+      "personSlug": "izzy-stradlin"
     },
     {
       "name": "Duff McKagan",
       "role": "Bass",
-      "years": "1985–1997; 2016–present"
+      "years": "1985–1997; 2016–present",
+      "personSlug": "duff-mckagan"
     },
     {
       "name": "Steven Adler",
       "role": "Drums",
-      "years": "1985–1990"
+      "years": "1985–1990",
+      "personSlug": "steven-adler"
     }
   ],
   "essentialTracks": [
-    {
-      "title": "Sweet Child O' Mine",
-      "year": 1987
-    },
     {
       "title": "Welcome to the Jungle",
       "year": 1987
     },
     {
+      "title": "Sweet Child O' Mine",
+      "year": 1987
+    },
+    {
       "title": "November Rain",
       "year": 1991
+    },
+    {
+      "title": "Paradise City",
+      "year": 1987
     }
   ],
-  "lyricQuotes": [],
+  "scenes": [
+    {
+      "year": 1987,
+      "track": "Welcome to the Jungle",
+      "membersOnStage": [
+        "Axl Rose",
+        "Slash",
+        "Izzy Stradlin",
+        "Duff McKagan",
+        "Steven Adler"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Appetite opener energy; street hard rock vs hair-metal gloss.",
+        "zh": "Appetite 开场能量；街头 hard rock 对上 hair-metal 光泽。"
+      }
+    },
+    {
+      "year": 1987,
+      "track": "Sweet Child O' Mine",
+      "membersOnStage": [
+        "Axl Rose",
+        "Slash",
+        "Izzy Stradlin",
+        "Duff McKagan",
+        "Steven Adler"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Slash hexatonic intro as Trojan-horse ballad riff.",
+        "zh": "Slash 六声前奏：特洛伊木马式谣曲 riff。"
+      }
+    },
+    {
+      "year": 1991,
+      "track": "November Rain",
+      "membersOnStage": [
+        "Axl Rose",
+        "Slash",
+        "Duff McKagan"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Illusion-era epic; piano + orchestra ambition under hard-rock logo.",
+        "zh": "Illusion 时期史诗；hard-rock logo 下的钢琴+管弦野心。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We were a real band from the street.",
+      "speaker": "Slash",
+      "source": "Press interview excerpt",
+      "year": 1992
+    }
+  ],
+  "lyricQuotes": [
+    "Welcome to the jungle, we got fun and games",
+    "She's got a smile that it seems to me"
+  ],
   "relatedBands": [
     "ac-dc",
     "led-zeppelin",
@@ -74,5 +151,204 @@
   "body": {
     "en": "Formed 1985. Appetite paired Axl Rose’s scream, Slash’s Les Paul leads, Izzy’s rhythm, Duff’s punk bass, Adler’s swing—against hair-metal gloss. Use Your Illusion (1991) expanded epics (November Rain) and lineup strain.\n\nWelcome to the Jungle and Sweet Child O’ Mine (1987) are the dual entry. They are the late golden-age hard-rock commercial peak immediately before alternative redraws US rock radio.",
     "zh": "1985 年组建。Appetite 把 Axl Rose 的尖叫、Slash 的 Les Paul 主音、Izzy 节奏、Duff 朋克贝斯、Adler 的摇摆，对上 hair-metal 光泽。Use Your Illusion（1991）扩展史诗（November Rain）并加剧阵容紧张。\n\nWelcome to the Jungle 与 Sweet Child O’ Mine（1987）是双入口。他们是 alternative 重画美国摇滚电台之前，硬摇滚商业黄金晚期的峰值。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Street blues hard rock vs hair-metal gloss",
+        "zh": "街头蓝调 hard rock vs hair-metal 光泽"
+      },
+      "body": {
+        "en": "Appetite for Destruction (1987) sells danger and swing: Les Paul midrange leads, open chords, Axl’s scream, Adler’s behind-the-beat drums. Late-80s metal radio had been polishing; GnR dirtied the signal.\n\nLast massive hard-rock takeover before grunge redraws US rock radio.",
+        "zh": "Appetite for Destruction（1987）卖危险与摇摆：Les Paul 中频主音、开放和弦、Axl 尖叫、Adler 拖拍鼓。80 年代末金属电台在抛光；GnR 把信号弄脏。\n\ngrunge 重画美国摇滚电台前，最后一次大规模 hard-rock 占领。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Appetite five, then churn, then partial return",
+        "zh": "Appetite 五人，然后动荡，再部分回归"
+      },
+      "body": {
+        "en": "Peak silhouette: Axl / Slash / Izzy / Duff / Adler. Adler exits ~1990; Izzy 1991; Slash/Duff mid-90s. Chinese Democracy-era Axl keeps the logo with other players. 2016+ Not in This Lifetime returns Slash/Duff with Axl.\n\nChronicle peak = Appetite five. Later casts are seasons, not replacements for that photo.",
+        "zh": "巅峰剪影：Axl / Slash / Izzy / Duff / Adler。Adler 约 1990 离开；Izzy 1991；Slash/Duff 90 年代中期。Chinese Democracy 时期 Axl 用其他人保住 logo。2016+ Not in This Lifetime 让 Slash/Duff 与 Axl 回归。\n\n编年史巅峰 = Appetite 五人。后来卡司是赛季，不是那张合影的替身。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "lineup",
+      "title": {
+        "en": "Scream, Les Paul, Stones rhythm, punk bass, swing drums",
+        "zh": "尖叫、Les Paul、 Stones 节奏、朋克贝斯、摇摆鼓"
+      },
+      "body": {
+        "en": "Axl handles range and drama. Slash supplies pentatonic/hexatonic hooks. Izzy writes Stones-leaning rhythm parts. Duff brings punk attack on bass. Adler swings rather than metronome-metals.\n\nChemistry is the product; later lineups prove how hard that chemistry is to clone.",
+        "zh": "Axl 扛音域与戏剧。Slash 提供五声/六声钩子。Izzy 写偏 Stones 的节奏分声部。Duff 带来朋克攻击性贝斯。Adler 摇摆，而不是节拍器金属。\n\n化学反应即产品；后来阵容证明这化学反应有多难复制。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "jungle",
+      "title": {
+        "en": "Welcome to the Jungle: opener as warning",
+        "zh": "Welcome to the Jungle：当警告的开场"
+      },
+      "body": {
+        "en": "Feedback/scream entry, tight riff, Axl’s LA lyric. MTV and radio push it as the face of Appetite.\n\nHard-rock single grammar with street-report voice—not fantasy metal myth.",
+        "zh": "反馈/尖叫进入、紧 riff、Axl 的洛杉矶歌词。MTV 与电台把它推成 Appetite 的脸。\n\n街头报告人声的 hard-rock 单曲语法——不是奇幻金属神话。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "sweet-child",
+      "title": {
+        "en": "Sweet Child: ballad that still riffs",
+        "zh": "Sweet Child：仍在 riff 的谣曲"
+      },
+      "body": {
+        "en": "Slash’s intro figure is the Trojan horse; the band still hits hard in the back half. Crosses hair-metal ballad expectation with Appetite grit.\n\nMass entry for listeners who never buy the full street myth.",
+        "zh": "Slash 前奏音型是特洛伊木马；后半仍打得很重。跨过 hair-metal 谣曲预期，留下 Appetite 砂砾。\n\n从不买完整街头神话的听众的大众入口。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Last hard-rock empire before alternative radio",
+        "zh": "alternative 电台前的最后 hard-rock 帝国"
+      },
+      "body": {
+        "en": "Illusion double album expands epics and fractures the cast. Grunge/alternative then occupy US rock radio real estate GnR held in 1988–92.\n\nStill the citation for late-80s street hard rock that outsold polished metal peers.",
+        "zh": "Illusion 双专扩展史诗并撕裂卡司。随后 grunge/alternative 占据 GnR 在 1988–92 持有的美国摇滚电台地产。\n\n仍是 80 年代末街头 hard rock 的引用——销量压过抛光金属同辈。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "appetite-five",
+      "label": {
+        "en": "Appetite five",
+        "zh": "Appetite 五人"
+      },
+      "years": "1985–1990",
+      "peak": true,
+      "members": [
+        {
+          "name": "Axl Rose",
+          "role": "Vocals",
+          "personSlug": "axl-rose"
+        },
+        {
+          "name": "Slash",
+          "role": "Guitar",
+          "personSlug": "slash"
+        },
+        {
+          "name": "Izzy Stradlin",
+          "role": "Guitar",
+          "personSlug": "izzy-stradlin"
+        },
+        {
+          "name": "Duff McKagan",
+          "role": "Bass",
+          "personSlug": "duff-mckagan"
+        },
+        {
+          "name": "Steven Adler",
+          "role": "Drums",
+          "personSlug": "steven-adler"
+        }
+      ],
+      "note": {
+        "en": "Classic photo and Appetite catalog.",
+        "zh": "经典合影与 Appetite 目录。"
+      }
+    },
+    {
+      "id": "illusion-strain",
+      "label": {
+        "en": "Illusion-era strain",
+        "zh": "Illusion 时期紧张"
+      },
+      "years": "1990–1993",
+      "members": [
+        {
+          "name": "Axl Rose",
+          "role": "Vocals",
+          "personSlug": "axl-rose"
+        },
+        {
+          "name": "Slash",
+          "role": "Guitar",
+          "personSlug": "slash"
+        },
+        {
+          "name": "Duff McKagan",
+          "role": "Bass",
+          "personSlug": "duff-mckagan"
+        }
+      ],
+      "note": {
+        "en": "Adler/Izzy gone; Matt Sorum and others on kit/guitar; epics expand.",
+        "zh": "Adler/Izzy 已走；Matt Sorum 等顶鼓/吉他；史诗扩张。"
+      }
+    },
+    {
+      "id": "not-in-this-lifetime",
+      "label": {
+        "en": "Not in This Lifetime return",
+        "zh": "Not in This Lifetime 回归"
+      },
+      "years": "2016–present",
+      "members": [
+        {
+          "name": "Axl Rose",
+          "role": "Vocals",
+          "personSlug": "axl-rose"
+        },
+        {
+          "name": "Slash",
+          "role": "Guitar",
+          "personSlug": "slash"
+        },
+        {
+          "name": "Duff McKagan",
+          "role": "Bass",
+          "personSlug": "duff-mckagan"
+        }
+      ],
+      "note": {
+        "en": "Partial classic return without full Appetite five.",
+        "zh": "部分经典回归，并非完整 Appetite 五人。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Welcome to the Jungle",
+      "year": 1987,
+      "note": {
+        "en": "Street hard-rock single that reoriented late-80s metal radio.",
+        "zh": "重定向 80 年代末金属电台的街头 hard-rock 单曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "hard-rock"
+    ],
+    "note": {
+      "en": "Last pre-grunge hard-rock mass peak; Appetite five as the silhouette.",
+      "zh": "grunge 前最后 hard-rock 大众峰值；Appetite 五人即剪影。"
+    }
   }
 }

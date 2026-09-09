@@ -1,0 +1,32 @@
+{
+  "name": "Eddie Vedder",
+  "slug": "eddie-vedder",
+  "born": 1964,
+  "origin": "Evanston, Illinois, USA",
+  "roles": [
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Pearl Jam frontman; baritone on Ten-era Alive and Jeremy.",
+    "zh": "Pearl Jam 主唱；Ten 时期 Alive 与 Jeremy 上的男中音。"
+  },
+  "body": {
+    "en": "Born 1964. Joins Gossard/Ament/McCready 1990. Baritone forward on Ten; anti-star interview posture beside stadium scale. Remains continuous vocal seat through drum rotations.\n\nLyric narratives (Alive, Jeremy) define debut radio face.",
+    "zh": "1964 年生。1990 加入 Gossard/Ament/McCready。Ten 上男中音靠前；体育场体量旁的反明星访谈姿态。鼓席轮换下人声席连续。\n\n叙事歌词（Alive、Jeremy）定义出道电台面孔。"
+  },
+  "tenures": [
+    {
+      "bandName": "Pearl Jam",
+      "bandSlug": "pearl-jam",
+      "role": "Vocals",
+      "from": 1990,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "mike-mccready",
+    "stone-gossard"
+  ]
+}

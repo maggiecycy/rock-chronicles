@@ -1,0 +1,36 @@
+{
+  "name": "Sting",
+  "slug": "sting",
+  "born": 1951,
+  "origin": "Wallsend, England",
+  "roles": ["Vocals", "Bass", "Songwriting"],
+  "hub": true,
+  "shortBio": {
+    "en": "The Police bassist/vocalist; later solo pop/jazz-leaning career after the trio ends.",
+    "zh": "The Police 贝斯/主唱；三人组结束后展开偏流行/爵士的独唱生涯。"
+  },
+  "whyHub": {
+    "en": "Band → solo split: Police catalog stays trio document; solo brand continues without Summers/Copeland.",
+    "zh": "乐队→独唱分裂：Police 目录仍是三人组文献；独唱品牌不带 Summers/Copeland 继续。"
+  },
+  "body": {
+    "en": "Born Gordon Sumner, 1951. Writes most Police melodies; melodic bass high in the mix. After 1986 builds a solo catalog. Reunion tours return to the trio silhouette.\n\nHub value: same voice, different logo economics.",
+    "zh": "本名 Gordon Sumner，1951 年生。写大部分 Police 旋律；旋律贝斯在混音高处。1986 后建独唱目录。重聚巡演回到三人剪影。\n\n枢纽价值：同一把嗓，不同的 logo 经济。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Police",
+      "bandSlug": "the-police",
+      "role": "Vocals, Bass",
+      "from": 1977,
+      "to": 1986
+    },
+    {
+      "bandName": "Sting (solo)",
+      "role": "Vocals, Bass",
+      "from": 1985,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": ["andy-summers", "stewart-copeland"]
+}

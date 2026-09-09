@@ -20,22 +20,26 @@
     {
       "name": "Freddie Mercury",
       "role": "Vocals, Piano",
-      "years": "1970–1991"
+      "years": "1970–1991",
+      "personSlug": "freddie-mercury"
     },
     {
       "name": "Brian May",
       "role": "Guitar",
-      "years": "1970–present"
+      "years": "1970–present",
+      "personSlug": "brian-may"
     },
     {
       "name": "Roger Taylor",
       "role": "Drums",
-      "years": "1970–present"
+      "years": "1970–present",
+      "personSlug": "roger-taylor"
     },
     {
       "name": "John Deacon",
       "role": "Bass",
-      "years": "1971–1997"
+      "years": "1971–1997",
+      "personSlug": "john-deacon"
     }
   ],
   "essentialTracks": [
@@ -50,12 +54,91 @@
     {
       "title": "Don't Stop Me Now",
       "year": 1978
+    },
+    {
+      "title": "Somebody to Love",
+      "year": 1976
     }
   ],
-  "lyricQuotes": [],
+  "scenes": [
+    {
+      "year": 1975,
+      "track": "Bohemian Rhapsody",
+      "membersOnStage": [
+        "Freddie Mercury",
+        "Brian May",
+        "Roger Taylor",
+        "John Deacon"
+      ],
+      "genreTags": [
+        "progressive-rock",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Ballad → opera pastiche → hard outro; no single verse-chorus loop.",
+        "zh": "谣曲→歌剧拼贴→硬摇滚尾奏；非单一主副歌循环。"
+      }
+    },
+    {
+      "year": 1977,
+      "track": "We Will Rock You",
+      "membersOnStage": [
+        "Freddie Mercury",
+        "Brian May",
+        "Roger Taylor",
+        "John Deacon"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Stomp-stomp-clap body percussion as stadium chant template.",
+        "zh": "跺脚-跺脚-拍手体感打击成为体育场口号模板。"
+      }
+    },
+    {
+      "year": 1978,
+      "track": "Don't Stop Me Now",
+      "membersOnStage": [
+        "Freddie Mercury",
+        "Brian May",
+        "Roger Taylor",
+        "John Deacon"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Piano-led uptempo; stacked choir vocals over May’s Red Special.",
+        "zh": "钢琴领衔快板；堆叠合唱压在 May 的 Red Special 上。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I always knew I was a star. And everyone else would know it soon.",
+      "speaker": "Freddie Mercury",
+      "source": "Press / biography excerpt · quote wall",
+      "year": 1970
+    },
+    {
+      "text": "We're a rock group. We're not a prog band.",
+      "speaker": "Brian May",
+      "source": "Interview excerpt",
+      "year": 1975
+    }
+  ],
+  "lyricQuotes": [
+    "Is this the real life? Is this just fantasy?",
+    "Don't stop me now, I'm having such a good time"
+  ],
   "relatedBands": [
     "led-zeppelin",
-    "david-bowie"
+    "david-bowie",
+    "muse"
   ],
   "influenceFrom": [
     "the-beatles",
@@ -65,11 +148,169 @@
     "muse"
   ],
   "shortBio": {
-    "en": "Mercury / May / Taylor / Deacon; Bohemian Rhapsody is the multi-section hit.",
-    "zh": "Mercury / May / Taylor / Deacon；Bohemian Rhapsody 是多段体热单。"
+    "en": "Mercury / May / Taylor / Deacon; Bohemian Rhapsody is the multi-section hit that proved studio choir + hard rock on FM.",
+    "zh": "Mercury / May / Taylor / Deacon；Bohemian Rhapsody 是证明「录音室合唱 + hard rock」能上 FM 的多段体热单。"
   },
   "body": {
-    "en": "Formed 1970. Mid-70s albums through News of the World fuse Brian May’s layered guitars, Freddie Mercury’s range, and studio vocal choirs. Later hits (We Will Rock You, Don’t Stop Me Now) simplify for stadium chant.\n\nBohemian Rhapsody (1975) is the structural citation—ballad, opera pastiche, hard outro without a single verse-chorus loop. Craft and theatricality share the same sessions.",
-    "zh": "1970 年组建。70 年代中期至 News of the World 的专辑融合 Brian May 多层吉他、Freddie Mercury 音域与录音室人声合唱。后期热单（We Will Rock You、Don’t Stop Me Now）为体育场口号简化。\n\nBohemian Rhapsody（1975）是结构引用——谣曲、歌剧拼贴、硬摇滚尾奏，而非单一主副歌循环。工艺与剧场性在同一录音会话里。"
+    "en": "Formed 1970. Mid-70s albums through News of the World fuse Brian May’s Red Special layers, Freddie Mercury’s range, and studio vocal choirs. Later hits (We Will Rock You, Don’t Stop Me Now) simplify for stadium chant.\n\nBohemian Rhapsody (1975) is the structural citation—ballad, opera pastiche, hard outro without a single verse-chorus loop. Craft and theatricality share the same sessions.",
+    "zh": "1970 年组建。70 年代中期至 News of the World 的专辑融合 Brian May 的 Red Special 多层吉他、Freddie Mercury 音域与录音室人声合唱。后期热单（We Will Rock You、Don’t Stop Me Now）为体育场口号简化。\n\nBohemian Rhapsody（1975）是结构引用——谣曲、歌剧拼贴、硬摇滚尾奏，而非单一主副歌循环。工艺与剧场性在同一录音会话里。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Multi-section hard rock on 1970s FM",
+        "zh": "1970 年代 FM 上的多段体 hard rock"
+      },
+      "body": {
+        "en": "Queen treat the studio as an instrument: stacked vocals, May’s delay-layered guitar, and song forms that switch genre mid-cut. A Night at the Opera (1975) is the proof album for that method on commercial radio.\n\nThey sit beside Zeppelin-scale hard rock but cite Beatles harmony and music-hall pastiche more openly.",
+        "zh": "Queen 把录音室当乐器：堆叠人声、May 的延时层叠吉他、曲中切换风格的多段体。A Night at the Opera（1975）是该方法登上商业电台的证明专辑。\n\n体量靠近 Zeppelin 级 hard rock，但更公开引用 Beatles 和声与音乐厅拼贴。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "classic-four",
+      "title": {
+        "en": "Four writers, one brand",
+        "zh": "四个写手，一个品牌"
+      },
+      "body": {
+        "en": "Mercury (piano/vocal drama), May (Red Special tone), Taylor (drums/high harmony), Deacon (bass hooks like Another One Bites the Dust). Internal writing credits stay competitive; the live brand stays unified.\n\nPeak citation era is mid-70s through The Game (1980).",
+        "zh": "Mercury（钢琴/人声戏剧）、May（Red Special 音色）、Taylor（鼓/高和声）、Deacon（贝斯钩子如 Another One Bites the Dust）。内部写作署名竞争；现场品牌统一。\n\n峰值引用期是 70 年代中至 The Game（1980）。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "rhapsody",
+      "title": {
+        "en": "Bohemian Rhapsody as structure lesson",
+        "zh": "Bohemian Rhapsody：结构课"
+      },
+      "body": {
+        "en": "No chorus loop: a cappella intro, ballad, mock-opera stack, then May’s hard-rock outro. Tape editing and multi-track choir make the pastiche literal.\n\nIt is the track that forces FM programmers to accept multi-section rock as a hit format.",
+        "zh": "无副歌循环：无伴奏前奏、谣曲、假歌剧堆叠，再接 May 硬摇滚尾奏。磁带剪辑与多轨合唱让拼贴成为字面操作。\n\n这是迫使 FM 编排接受多段体摇滚作热单格式的曲目。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "stadium",
+      "title": {
+        "en": "From Opera to stadium chant",
+        "zh": "从 Opera 到体育场口号"
+      },
+      "body": {
+        "en": "News of the World simplifies: We Will Rock You’s body percussion, We Are the Champions as slow anthem. Don’t Stop Me Now keeps piano drive and choir stacks at pop tempo.\n\nSame band; different arrangement economy for arenas.",
+        "zh": "News of the World 简化：We Will Rock You 的体感打击、We Are the Champions 慢颂歌。Don’t Stop Me Now 在流行速度上保持钢琴驱动与合唱堆叠。\n\n同一乐队；为体育场换编排经济。"
+      },
+      "stickyVisual": "tracks",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Star posture, session craft",
+        "zh": "明星姿态，录音室工艺"
+      },
+      "body": {
+        "en": "Mercury’s circulated lines sell certainty; May’s technical talk sells gear and arrangement. Both belong on the wall beside the multi-track facts.\n\nRead quotes against the Red Special and the vocal stacks—not as myth.",
+        "zh": "Mercury 流传短句卖确定性；May 技术谈话卖器材与编排。两者都应挂在多轨事实旁边。\n\n对照 Red Special 与人声堆叠读引语——不当神话。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Arena craft after Queen",
+        "zh": "Queen 之后的体育场工艺"
+      },
+      "body": {
+        "en": "Muse and later stadium rock cite the multi-section + stacked vocal playbook. Live Aid 1985 becomes a performance citation independent of album cycles.\n\nIn this graph: hard-rock weight with progressive-form ambition, not blues-jam default.",
+        "zh": "Muse 与后来的体育场摇滚引用「多段体 + 堆叠人声」剧本。Live Aid 1985 成为独立于专辑周期的表演引用。\n\n在本图谱：hard-rock 重量配 progressive 形式野心，而非蓝调即兴默认。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "classic-four",
+      "label": {
+        "en": "Classic four",
+        "zh": "经典四人组"
+      },
+      "years": "1971–1991",
+      "peak": true,
+      "members": [
+        {
+          "name": "Freddie Mercury",
+          "role": "Vocals, Piano",
+          "personSlug": "freddie-mercury"
+        },
+        {
+          "name": "Brian May",
+          "role": "Guitar",
+          "personSlug": "brian-may"
+        },
+        {
+          "name": "Roger Taylor",
+          "role": "Drums"
+        },
+        {
+          "name": "John Deacon",
+          "role": "Bass"
+        }
+      ],
+      "note": {
+        "en": "Deacon joins 1971; Mercury active until 1991. Catalog peak for Opera through The Game.",
+        "zh": "Deacon 1971 加入；Mercury 活跃至 1991。目录峰值从 Opera 到 The Game。"
+      }
+    },
+    {
+      "id": "post-mercury",
+      "label": {
+        "en": "Post-Mercury",
+        "zh": "Mercury 之后"
+      },
+      "years": "1991–present",
+      "members": [
+        {
+          "name": "Brian May",
+          "role": "Guitar",
+          "personSlug": "brian-may"
+        },
+        {
+          "name": "Roger Taylor",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "May/Taylor continue with guest vocalists; Deacon retires from public performance.",
+        "zh": "May/Taylor 与客座主唱续演；Deacon 退出公开演出。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Bohemian Rhapsody",
+      "year": 1975,
+      "note": {
+        "en": "Multi-section single as FM-hit format proof.",
+        "zh": "多段体单曲成为 FM 热单格式证明。"
+      }
+    },
+    "pioneeredGenres": [
+      "hard-rock",
+      "progressive-rock"
+    ],
+    "note": {
+      "en": "Studio choir + hard-rock guitar as one commercial method.",
+      "zh": "录音室合唱与 hard-rock 吉他作为同一商业方法。"
+    }
   }
 }

@@ -1,0 +1,32 @@
+{
+  "name": "Dee Dee Ramone",
+  "slug": "dee-dee-ramone",
+  "born": 1951,
+  "origin": "Fort Lee, USA",
+  "roles": [
+    "Bass",
+    "Songwriting"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Ramones bassist; 1-2-3-4 count-ins and early lyric drafts.",
+    "zh": "Ramones 贝斯手；1-2-3-4 起拍与早期歌词草稿。"
+  },
+  "body": {
+    "en": "Born Douglas Colvin, 1951. Bass and many early count-ins/lyrics. Leaves 1989; later bassists continue tours. Count-in pedagogy on Blitzkrieg Bop is his clearest citation.\n\nWriting + pocket more than flash technique.",
+    "zh": "本名 Douglas Colvin，1951 年生。贝斯与许多早期起拍/歌词。1989 离队；后期贝斯手续巡演。Blitzkrieg Bop 起拍教学是其最清晰引用。\n\n写作 + 律动多于炫技。"
+  },
+  "tenures": [
+    {
+      "bandName": "Ramones",
+      "bandSlug": "ramones",
+      "role": "Bass",
+      "from": 1974,
+      "to": 1989
+    }
+  ],
+  "relatedPeople": [
+    "joey-ramone",
+    "johnny-ramone"
+  ]
+}

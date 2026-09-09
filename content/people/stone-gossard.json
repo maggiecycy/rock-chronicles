@@ -1,0 +1,32 @@
+{
+  "name": "Stone Gossard",
+  "slug": "stone-gossard",
+  "born": 1966,
+  "origin": "Seattle, USA",
+  "roles": [
+    "Guitar",
+    "Songwriting"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Pearl Jam rhythm guitar; Mother Love Bone / Green River DNA into Ten.",
+    "zh": "Pearl Jam 节奏吉他；Mother Love Bone / Green River DNA 带进 Ten。"
+  },
+  "body": {
+    "en": "Born 1966. Brings Green River/Mother Love Bone rhythm writing into Pearl Jam with Ament. Co-architect of Ten open-chord grind beside McCready leads.\n\nSeattle personnel continuity into stadium grunge.",
+    "zh": "1966 年生。与 Ament 把 Green River/Mother Love Bone 节奏写作带进 Pearl Jam。在 McCready 主音旁共建 Ten 开放和弦碾磨。\n\n西雅图人事连续性进入体育场 grunge。"
+  },
+  "tenures": [
+    {
+      "bandName": "Pearl Jam",
+      "bandSlug": "pearl-jam",
+      "role": "Guitar",
+      "from": 1990,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "eddie-vedder",
+    "mike-mccready"
+  ]
+}

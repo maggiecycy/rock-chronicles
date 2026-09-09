@@ -13,23 +13,331 @@
     "en": "Seattle grunge band that outlasted the early-90s boom as a touring and Ticketmaster-fight institution; Ten (1991) remains the mass entry.",
     "zh": "西雅图 grunge：在 90 年代初热潮后仍以巡演与 Ticketmaster 抗争体制存续；Ten（1991）仍是大众入口。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Eddie Vedder",
+      "role": "Vocals",
+      "years": "1990–present",
+      "personSlug": "eddie-vedder"
+    },
+    {
+      "name": "Mike McCready",
+      "role": "Guitar",
+      "years": "1990–present",
+      "personSlug": "mike-mccready"
+    },
+    {
+      "name": "Stone Gossard",
+      "role": "Guitar",
+      "years": "1990–present",
+      "personSlug": "stone-gossard"
+    },
+    {
+      "name": "Jeff Ament",
+      "role": "Bass",
+      "years": "1990–present"
+    },
+    {
+      "name": "Dave Krusen",
+      "role": "Drums",
+      "years": "1990–1991"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Alive",
       "year": 1991
+    },
+    {
+      "title": "Jeremy",
+      "year": 1991
+    },
+    {
+      "title": "Even Flow",
+      "year": 1991
+    },
+    {
+      "title": "Black",
+      "year": 1991
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1991,
+      "track": "Alive",
+      "membersOnStage": [
+        "Eddie Vedder",
+        "Mike McCready",
+        "Stone Gossard",
+        "Jeff Ament",
+        "Dave Krusen"
+      ],
+      "genreTags": [
+        "grunge",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Ten-era opener: Vedder baritone, McCready lead, open-chord grind.",
+        "zh": "Ten 时期开场：Vedder 男中音、McCready 主音、开放和弦碾磨。"
+      }
+    },
+    {
+      "year": 1991,
+      "track": "Jeremy",
+      "membersOnStage": [
+        "Eddie Vedder",
+        "Mike McCready",
+        "Stone Gossard",
+        "Jeff Ament",
+        "Dave Krusen"
+      ],
+      "genreTags": [
+        "grunge"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Narrative video single; MTV-scale Ten face.",
+        "zh": "叙事录像单曲；MTV 尺度的 Ten 面孔。"
+      }
+    },
+    {
+      "year": 1991,
+      "track": "Even Flow",
+      "membersOnStage": [
+        "Eddie Vedder",
+        "Mike McCready",
+        "Stone Gossard",
+        "Jeff Ament",
+        "Dave Krusen"
+      ],
+      "genreTags": [
+        "grunge",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Funk-tinged riff; live staple from debut cycle.",
+        "zh": "带放克味 riff；首专周期现场常备。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I would rather be someone's backup singer than a rock star.",
+      "speaker": "Eddie Vedder",
+      "source": "Early-90s press · quote wall",
+      "year": 1992
+    },
+    {
+      "text": "We just wanted to play music.",
+      "speaker": "Stone Gossard",
+      "source": "On post–Mother Love Bone start · interview",
+      "year": 1991
+    }
+  ],
+  "lyricQuotes": [
+    "Son, she said, have I got a little story for you",
+    "Jeremy spoke in class today"
+  ],
+  "relatedBands": [
+    "nirvana",
+    "soundgarden",
+    "alice-in-chains",
+    "foo-fighters"
+  ],
+  "influenceFrom": [
+    "led-zeppelin",
+    "the-who",
+    "the-rolling-stones"
+  ],
+  "influenced": [
+    "foo-fighters",
+    "the-killers"
+  ],
   "shortBio": {
-    "en": "Vedder-fronted grunge; Alive and Jeremy define the debut-era radio face.",
-    "zh": "Vedder 领衔的 grunge；Alive 与 Jeremy 定义出道期电台面孔。"
+    "en": "Vedder / McCready / Gossard Ten-era grunge; Alive and Jeremy are the mass entry.",
+    "zh": "Vedder / McCready / Gossard 的 Ten 时期 grunge；Alive 与 Jeremy 是大众入口。"
   },
   "body": {
     "en": "Formed 1990 from Green River/Mother Love Bone fragments with Eddie Vedder. Ten and Vs. made them stadium-scale alongside Nirvana/Soundgarden; Vitalogy onward tracked a longer career arc.\n\nAlive (1991) is the essential-track marker here. Musically: open chords, McCready leads, Vedder’s baritone. Institutionally: anti-scalping fights and bootleg-heavy touring culture.",
     "zh": "1990 年由 Green River/Mother Love Bone 碎片与 Eddie Vedder 组建。Ten 与 Vs. 使其与 Nirvana/Soundgarden 同级体育场体量；Vitalogy 起进入更长职业弧线。\n\nAlive（1991）是此处必听标记。音乐上：开放和弦、McCready 主音、Vedder 男中音。制度上：反黄牛斗争与重现场录音的巡演文化。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Ten as stadium grunge entry",
+        "zh": "Ten 作为体育场 grunge 入口"
+      },
+      "body": {
+        "en": "Ten (1991) puts Pearl Jam on MTV and rock radio beside Nirvana and Soundgarden. Open chords, Vedder baritone, McCready leads. They outlast the early-90s boom as a touring institution.\n\nTicketmaster fight becomes part of the institutional story.",
+        "zh": "Ten（1991）把 Pearl Jam 推到 MTV 与摇滚电台，与 Nirvana、Soundgarden 并列。开放和弦、Vedder 男中音、McCready 主音。他们以巡演体制撑过 90 年代初热潮。\n\nTicketmaster 抗争成为制度故事的一部分。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "ten-lineup",
+      "title": {
+        "en": "Ten-era classic five",
+        "zh": "Ten 时期经典五人"
+      },
+      "body": {
+        "en": "Vedder, McCready, Gossard, Ament, and Krusen cut Ten. Drum chair rotates later (Abbruzzese, Irons, Cameron); the guitar/vocal core stays.\n\nCitation peak remains the debut five for radio memory.",
+        "zh": "Vedder、McCready、Gossard、Ament 与 Krusen 录 Ten。鼓席后期轮换（Abbruzzese、Irons、Cameron）；吉他/人声核心保留。\n\n电台记忆的引用峰值仍是首专五人。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "alive",
+      "title": {
+        "en": "Alive / Jeremy: dual radio face",
+        "zh": "Alive / Jeremy：双电台面孔"
+      },
+      "body": {
+        "en": "Alive opens with family-story lyric and McCready solo. Jeremy pairs narrative video with mid-tempo grind. Even Flow keeps the live riff staple.\n\nTen supplies the whole mass curriculum in one cycle.",
+        "zh": "Alive 以家庭故事歌词与 McCready 独奏开场。Jeremy 把叙事录像与中速碾磨配对。Even Flow 保持现场 riff 常备。\n\nTen 在同一周期提供整套大众课程。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Baritone, Les Paul leads, Gossard rhythm",
+        "zh": "男中音、Les Paul 主音、Gossard 节奏"
+      },
+      "body": {
+        "en": "Vedder’s baritone sits forward. McCready supplies blues-rock leads. Gossard and Ament bring Mother Love Bone/Green River rhythm DNA.\n\nLess quiet-loud than Nirvana; more open-chord hard rock weight.",
+        "zh": "Vedder 男中音靠前。McCready 提供蓝调摇滚主音。Gossard 与 Ament 带入 Mother Love Bone/Green River 节奏 DNA。\n\n强弱动态少过 Nirvana；更偏开放和弦 hard-rock 重量。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Anti-star posture, play music",
+        "zh": "反明星姿态，先弹琴"
+      },
+      "body": {
+        "en": "Vedder’s backup-singer line and Gossard’s play-music claim document early-90s posture beside stadium scale.\n\nRead against Ten’s radio saturation—not as contradiction to erase.",
+        "zh": "Vedder 的「宁可当和声」句与 Gossard「只想弹琴」主张，记录体育场体量旁的 90 年代初姿态。\n\n对照 Ten 的电台饱和阅读——不当成要抹掉的矛盾。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Touring institution after the boom",
+        "zh": "热潮后的巡演体制"
+      },
+      "body": {
+        "en": "Vs., Vitalogy, and later albums extend the career. Bootleg culture and anti-scalping fights matter as institutional tech. Seattle peers fragment; Pearl Jam keeps the touring machine.\n\nInfluence is durability as much as tone.",
+        "zh": "Vs.、Vitalogy 与后期专辑延长职业线。现场录音文化与反黄牛是制度技术。西雅图同辈分裂；Pearl Jam 保持巡演机器。\n\n影响既是音色，也是耐久。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "ten-era",
+      "label": {
+        "en": "Ten-era classic",
+        "zh": "Ten 时期经典"
+      },
+      "years": "1990–1991",
+      "peak": true,
+      "members": [
+        {
+          "name": "Eddie Vedder",
+          "role": "Vocals",
+          "personSlug": "eddie-vedder"
+        },
+        {
+          "name": "Mike McCready",
+          "role": "Guitar",
+          "personSlug": "mike-mccready"
+        },
+        {
+          "name": "Stone Gossard",
+          "role": "Guitar",
+          "personSlug": "stone-gossard"
+        },
+        {
+          "name": "Jeff Ament",
+          "role": "Bass"
+        },
+        {
+          "name": "Dave Krusen",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Debut album citation lineup; Krusen exits after Ten.",
+        "zh": "首专引用阵容；Krusen 在 Ten 后离队。"
+      }
+    },
+    {
+      "id": "cameron-era",
+      "label": {
+        "en": "Matt Cameron era",
+        "zh": "Matt Cameron 时期"
+      },
+      "years": "1998–present",
+      "members": [
+        {
+          "name": "Eddie Vedder",
+          "role": "Vocals",
+          "personSlug": "eddie-vedder"
+        },
+        {
+          "name": "Mike McCready",
+          "role": "Guitar",
+          "personSlug": "mike-mccready"
+        },
+        {
+          "name": "Stone Gossard",
+          "role": "Guitar",
+          "personSlug": "stone-gossard"
+        },
+        {
+          "name": "Jeff Ament",
+          "role": "Bass"
+        },
+        {
+          "name": "Matt Cameron",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Soundgarden drummer joins; long touring stability.",
+        "zh": "Soundgarden 鼓手加入；长期巡演稳定。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Alive",
+      "year": 1991,
+      "note": {
+        "en": "Ten-era mass entry; baritone over open-chord grind.",
+        "zh": "Ten 时期大众入口；男中音压在开放和弦碾磨上。"
+      }
+    },
+    "pioneeredGenres": [
+      "grunge",
+      "alternative"
+    ],
+    "note": {
+      "en": "Stadium grunge that becomes a touring institution.",
+      "zh": "成为巡演体制的体育场 grunge。"
+    }
   }
 }

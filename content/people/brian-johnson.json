@@ -1,0 +1,30 @@
+{
+  "name": "Brian Johnson",
+  "slug": "brian-johnson",
+  "born": 1947,
+  "origin": "Dunston, England",
+  "roles": ["Vocals", "Songwriting"],
+  "hub": true,
+  "shortBio": {
+    "en": "AC/DC vocalist from 1980; Back in Black relaunches the Young brothers’ method at global FM scale.",
+    "zh": "1980 年起 AC/DC 主唱；Back in Black 把 Young 兄弟的方法重启到全球 FM 尺度。"
+  },
+  "whyHub": {
+    "en": "Replacement singer who keeps the brand’s riff system intact—textbook counterexample to ‘logo without the voice.’",
+    "zh": "替换主唱却保住品牌 riff 系统——「没有那把嗓的 logo」的教科书反例。"
+  },
+  "body": {
+    "en": "Ex-Geordie singer. Higher, raspier bark than Scott. Back in Black (1980) is the proof that AC/DC’s chassis survived the swap.\n\nLater hearing issues pause touring; returns for selected runs.",
+    "zh": "前 Geordie 主唱。比 Scott 更高、更沙的吠叫。Back in Black（1980）证明 AC/DC 底盘扛住了替换。\n\n后期听力问题暂停巡演；选定巡演再归队。"
+  },
+  "tenures": [
+    {
+      "bandName": "AC/DC",
+      "bandSlug": "ac-dc",
+      "role": "Vocals",
+      "from": 1980,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": ["angus-young", "malcolm-young", "bon-scott"]
+}

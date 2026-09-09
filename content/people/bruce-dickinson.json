@@ -1,0 +1,42 @@
+{
+  "name": "Bruce Dickinson",
+  "slug": "bruce-dickinson",
+  "born": 1958,
+  "origin": "Worksop, England",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Joined Maiden 1981; operatic mid-range locks Beast-era global peak.",
+    "zh": "1981 加入 Maiden；歌剧式中音区锁死 Beast 时期全球峰值。"
+  },
+  "whyHub": {
+    "en": "Singer swap Di'Anno → Dickinson without abandoning Harris gallop DNA.",
+    "zh": "Di'Anno → Dickinson 主唱替换，不丢 Harris 疾驰 DNA。"
+  },
+  "body": {
+    "en": "Born 1958. Replaces Di'Anno 1981. Number of the Beast through Seventh Son set arena NWOBHM vocals. Leaves 1993; returns 1999.\n\nHub: vocal upgrade on existing riff architecture.",
+    "zh": "1958 年生。1981 替换 Di'Anno。Number of the Beast 至 Seventh Son 定下体育场 NWOBHM 人声。1993 离队；1999 回归。\n\n枢纽：在既有 riff 架构上的人声升级。"
+  },
+  "tenures": [
+    {
+      "bandName": "Iron Maiden",
+      "bandSlug": "iron-maiden",
+      "role": "Vocals",
+      "from": 1981,
+      "to": 1993
+    },
+    {
+      "bandName": "Iron Maiden",
+      "bandSlug": "iron-maiden",
+      "role": "Vocals",
+      "from": 1999,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "steve-harris",
+    "paul-di-anno"
+  ]
+}

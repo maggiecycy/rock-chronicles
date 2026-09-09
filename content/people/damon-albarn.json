@@ -1,0 +1,46 @@
+{
+  "name": "Damon Albarn",
+  "slug": "damon-albarn",
+  "born": 1968,
+  "origin": "Whitechapel, London, UK",
+  "roles": [
+    "Vocals",
+    "Keys",
+    "Songwriting"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Blur frontman; also builds Gorillaz outside the four-piece logo.",
+    "zh": "Blur 主唱；亦在四人组 logo 外建立 Gorillaz。"
+  },
+  "whyHub": {
+    "en": "Blur Britpop/art-rock path plus Gorillaz project without bandSlug file.",
+    "zh": "Blur Britpop/art-rock 路径 + 无 bandSlug 文件的 Gorillaz 项目。"
+  },
+  "body": {
+    "en": "Born 1968. Character vocals and observational writing on Parklife; later electronic lean on Think Tank. Parallel Gorillaz catalog expands sample/character pop outside Blur.\n\nHub: same writer, multiple logos.",
+    "zh": "1968 年生。Parklife 上的角色人声与观察式写作；Think Tank 后期偏电子。并行 Gorillaz 目录在 Blur 外扩展采样/角色流行。\n\n枢纽：同一写手，多个 logo。"
+  },
+  "tenures": [
+    {
+      "bandName": "Blur",
+      "bandSlug": "blur",
+      "role": "Vocals, Keys",
+      "from": 1988,
+      "to": "present"
+    },
+    {
+      "bandName": "Gorillaz",
+      "role": "Vocals, Songwriting",
+      "from": 1998,
+      "to": "present",
+      "note": {
+        "en": "Virtual-band project; no bandSlug in this catalog.",
+        "zh": "虚拟乐队项目；本目录无 bandSlug。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "graham-coxon"
+  ]
+}

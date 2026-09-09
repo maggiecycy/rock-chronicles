@@ -1,0 +1,26 @@
+{
+  "name": "Cliff Williams",
+  "slug": "cliff-williams",
+  "born": 1949,
+  "origin": "Romford, England",
+  "roles": ["Bass"],
+  "hub": false,
+  "shortBio": {
+    "en": "AC/DC bassist from 1977; pocket playing under the Young brothers’ grind.",
+    "zh": "1977 年起 AC/DC 贝斯；在 Young 兄弟碾磨下的口袋拍演奏。"
+  },
+  "body": {
+    "en": "Joins before Highway to Hell. Eighth-note lock with Phil Rudd. Retires from touring mid-2010s, returns selectively.",
+    "zh": "Highway to Hell 前加入。与 Phil Rudd 锁八分音符。2010 年代中期退出巡演，选择性回归。"
+  },
+  "tenures": [
+    {
+      "bandName": "AC/DC",
+      "bandSlug": "ac-dc",
+      "role": "Bass",
+      "from": 1977,
+      "to": 2016
+    }
+  ],
+  "relatedPeople": ["phil-rudd", "angus-young"]
+}

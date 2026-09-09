@@ -1,0 +1,59 @@
+{
+  "name": "David Bowie",
+  "slug": "david-bowie",
+  "born": 1947,
+  "origin": "London, UK",
+  "roles": [
+    "Vocals",
+    "Guitar",
+    "Keys",
+    "Songwriting"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Solo artist node: Ziggy glam, Berlin trilogy, Let’s Dance production shifts.",
+    "zh": "独唱节点：Ziggy glam、柏林三部曲、Let’s Dance 制作切换。"
+  },
+  "body": {
+    "en": "Born 1947, died 2016. Career hinges Space Oddity, Ziggy Stardust, Low/Heroes, Let’s Dance. Session partners (Ronson, Eno, Fripp, Rodgers) are method, not side notes.\n\nPerson file mirrors band-node david-bowie; tenures note era teams.",
+    "zh": "1947 年生，2016 年去世。关键曲目 Space Oddity、Ziggy Stardust、Low/Heroes、Let’s Dance。录音室伙伴（Ronson、Eno、Fripp、Rodgers）是方法，不是旁注。\n\n人物文件镜像乐队节点 david-bowie；tenure 注明时期团队。"
+  },
+  "tenures": [
+    {
+      "bandName": "David Bowie",
+      "bandSlug": "david-bowie",
+      "role": "Vocals, Guitar",
+      "from": 1971,
+      "to": 1973,
+      "note": {
+        "en": "Ziggy / Spiders era.",
+        "zh": "Ziggy / Spiders 时期。"
+      }
+    },
+    {
+      "bandName": "David Bowie",
+      "bandSlug": "david-bowie",
+      "role": "Vocals, Keys",
+      "from": 1976,
+      "to": 1979,
+      "note": {
+        "en": "Berlin trilogy with Eno/Visconti.",
+        "zh": "与 Eno/Visconti 的柏林三部曲。"
+      }
+    },
+    {
+      "bandName": "David Bowie",
+      "bandSlug": "david-bowie",
+      "role": "Vocals",
+      "from": 1983,
+      "to": 1984,
+      "note": {
+        "en": "Let’s Dance / Rodgers production.",
+        "zh": "Let’s Dance / Rodgers 制作。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "robert-fripp"
+  ]
+}

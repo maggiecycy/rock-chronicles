@@ -19,32 +19,38 @@
     {
       "name": "Angus Young",
       "role": "Guitar",
-      "years": "1973–present"
+      "years": "1973–present",
+      "personSlug": "angus-young"
     },
     {
       "name": "Malcolm Young",
       "role": "Guitar",
-      "years": "1973–2014"
+      "years": "1973–2014",
+      "personSlug": "malcolm-young"
     },
     {
       "name": "Bon Scott",
       "role": "Vocals",
-      "years": "1974–1980"
+      "years": "1974–1980",
+      "personSlug": "bon-scott"
     },
     {
       "name": "Brian Johnson",
       "role": "Vocals",
-      "years": "1980–present"
+      "years": "1980–present",
+      "personSlug": "brian-johnson"
     },
     {
       "name": "Cliff Williams",
       "role": "Bass",
-      "years": "1977–2016"
+      "years": "1977–2016",
+      "personSlug": "cliff-williams"
     },
     {
       "name": "Phil Rudd",
       "role": "Drums",
-      "years": "1975–1983; 1994–2015"
+      "years": "1975–1983; 1994–2015",
+      "personSlug": "phil-rudd"
     }
   ],
   "essentialTracks": [
@@ -59,9 +65,89 @@
     {
       "title": "Thunderstruck",
       "year": 1990
+    },
+    {
+      "title": "You Shook Me All Night Long",
+      "year": 1980
     }
   ],
-  "lyricQuotes": [],
+  "scenes": [
+    {
+      "year": 1979,
+      "track": "Highway to Hell",
+      "membersOnStage": [
+        "Angus Young",
+        "Malcolm Young",
+        "Bon Scott",
+        "Cliff Williams",
+        "Phil Rudd"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Bon Scott bark over Malcolm’s open-chord grind; late-70s peak single.",
+        "zh": "Bon Scott 吠叫压在 Malcolm 开放和弦碾磨上；70 年代末峰值单曲。"
+      }
+    },
+    {
+      "year": 1980,
+      "track": "Back in Black",
+      "membersOnStage": [
+        "Angus Young",
+        "Malcolm Young",
+        "Brian Johnson",
+        "Cliff Williams",
+        "Phil Rudd"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Johnson era launch: same right-hand discipline, larger scale.",
+        "zh": "Johnson 时期启动：同一右手纪律，更大尺度。"
+      }
+    },
+    {
+      "year": 1990,
+      "track": "Thunderstruck",
+      "membersOnStage": [
+        "Angus Young",
+        "Malcolm Young",
+        "Brian Johnson",
+        "Cliff Williams",
+        "Chris Slade"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Angus intro figure as 1990s touring-machine cue.",
+        "zh": "Angus 前奏音型作为 1990 年代巡演机器提示。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I'm a special effects man.",
+      "speaker": "Angus Young",
+      "source": "Interview excerpt · quote wall",
+      "year": 1980
+    },
+    {
+      "text": "It was a case of either stop or keep going.",
+      "speaker": "Malcolm Young",
+      "source": "On continuing after Bon Scott · press",
+      "year": 1980
+    }
+  ],
+  "lyricQuotes": [
+    "I'm on the highway to hell",
+    "Back in black, I hit the sack"
+  ],
   "relatedBands": [
     "led-zeppelin",
     "black-sabbath",
@@ -75,11 +161,187 @@
     "guns-n-roses"
   ],
   "shortBio": {
-    "en": "Young brothers’ hard rock; Highway to Hell and Back in Black are the mass curriculum.",
-    "zh": "Young 兄弟的 hard rock；Highway to Hell 与 Back in Black 是大众课程。"
+    "en": "Young brothers’ hard rock; Highway to Hell and Back in Black are the mass curriculum across two singers.",
+    "zh": "Young 兄弟的 hard rock；Highway to Hell 与 Back in Black 是跨两位主唱的大众课程。"
   },
   "body": {
     "en": "Formed Sydney 1973. High Voltage through Highway to Hell fix Malcolm’s rhythm grind, Angus’s pentatonic leads, Bon Scott’s bark. After Scott’s death (1980), Back in Black with Brian Johnson kept the same right-hand discipline at larger scale.\n\nThunderstruck (1990) shows the later Young/Johnson touring machine. Few chords, high gain, no prog detours—the export is consistency as method.",
     "zh": "1973 年于悉尼组建。从 High Voltage 到 Highway to Hell 定型 Malcolm 的节奏碾磨、Angus 的五声音阶主音、Bon Scott 的吠叫。Scott 去世（1980）后，Brian Johnson 的 Back in Black 以更大尺度保持同一套右手纪律。\n\nThunderstruck（1990）展示后期 Young/Johnson 巡演机器。少和弦、高增益、无 prog 绕路——输出的是把一致性当作方法。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Open chords as product line",
+        "zh": "开放和弦作为产品线"
+      },
+      "body": {
+        "en": "AC/DC treat hard rock as a fixed craft: Malcolm’s downstroke grind, Angus’s school-uniform leads, straight drums, few chord changes. The brand survives a singer swap because the guitar method does not change.\n\nChuck Berry right-hand vocabulary scaled to arena gain.",
+        "zh": "AC/DC 把 hard rock 当固定工艺：Malcolm 下行扫弦碾磨、Angus 校服主音、直线鼓、少和弦变化。品牌能扛住主唱替换，因为吉他方法不变。\n\nChuck Berry 右手语汇放大到体育场增益。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "singer-swap",
+      "title": {
+        "en": "Bon Scott → Brian Johnson",
+        "zh": "Bon Scott → Brian Johnson"
+      },
+      "body": {
+        "en": "Scott era ends 1980. Back in Black (Mutt Lange) with Johnson proves the riff engine outlives the bark. Hub people matter here: singer change without genre pivot.\n\nHighway to Hell and Back in Black are the dual curriculum.",
+        "zh": "Scott 时期止于 1980。Johnson 的 Back in Black（Mutt Lange）证明 riff 引擎比吠叫活得更久。人物枢纽在此：换主唱不换流派。\n\nHighway to Hell 与 Back in Black 是双课程。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "highway",
+      "title": {
+        "en": "Highway to Hell: late-70s peak",
+        "zh": "Highway to Hell：70 年代末峰值"
+      },
+      "body": {
+        "en": "Scott’s last studio album locks the mass formula: open-A power, Angus fills, chantable chorus. Live videos from the era show the school-uniform stage grammar already set.\n\nIntensity sits at hard-rock maximum without metal double-kick.",
+        "zh": "Scott 最后录音室专辑锁死大众公式：开放 A 强力和弦、Angus 填空、可喊副歌。同期现场录像已定校服舞台语法。\n\n强度到 hard-rock 上限，却不走金属双踩。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "dna",
+      "title": {
+        "en": "Malcolm grind, Angus lead",
+        "zh": "Malcolm 碾磨，Angus 主音"
+      },
+      "body": {
+        "en": "Rhythm guitar is the DNA: locked eighths, high gain, no ambient wash. Angus solos stay pentatonic and short. Bass and drums serve the right hand.\n\nLater bands that copy only the school outfit miss the rhythm-guitar primacy.",
+        "zh": "节奏吉他是 DNA：锁死八分、高增益、无氛围铺底。Angus 独奏守五声、短。贝斯与鼓服务右手。\n\n后来只抄校服外形的乐队，常漏掉节奏吉他优先。"
+      },
+      "stickyVisual": "dna",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Special effects, keep going",
+        "zh": "特效，继续走"
+      },
+      "body": {
+        "en": "Angus frames stage motion as effects work; Malcolm’s continue-or-stop line marks the 1980 decision. Quotes document method, not mystique.\n\nPair them with Back in Black’s tracking discipline.",
+        "zh": "Angus 把舞台动作框成特效工种；Malcolm 的继续/停止句标记 1980 决策。引语记录方法，不造神秘。\n\n对照 Back in Black 的跟录纪律阅读。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Export to GnR and arena hard rock",
+        "zh": "输出到 GnR 与体育场 hard rock"
+      },
+      "body": {
+        "en": "Guns N’ Roses cite the riff economy and street-blues hard rock lineage. Stadium rock keeps the open-chord template long after fashion cycles.\n\nIn this graph: consistency as innovation claim.",
+        "zh": "Guns N’ Roses 引用其 riff 经济与街头蓝调 hard rock 谱系。体育场摇滚在潮流周期后仍保留开放和弦模板。\n\n在本图谱：把一致性当作创新主张。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "bon-scott-era",
+      "label": {
+        "en": "Bon Scott era",
+        "zh": "Bon Scott 时期"
+      },
+      "years": "1974–1980",
+      "members": [
+        {
+          "name": "Angus Young",
+          "role": "Guitar",
+          "personSlug": "angus-young"
+        },
+        {
+          "name": "Malcolm Young",
+          "role": "Guitar",
+          "personSlug": "malcolm-young"
+        },
+        {
+          "name": "Bon Scott",
+          "role": "Vocals",
+          "personSlug": "bon-scott"
+        },
+        {
+          "name": "Cliff Williams",
+          "role": "Bass"
+        },
+        {
+          "name": "Phil Rudd",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "High Voltage through Highway to Hell; Scott dies Feb 1980.",
+        "zh": "High Voltage 至 Highway to Hell；Scott 1980 年 2 月去世。"
+      }
+    },
+    {
+      "id": "brian-johnson-peak",
+      "label": {
+        "en": "Brian Johnson peak",
+        "zh": "Brian Johnson 峰值"
+      },
+      "years": "1980–present",
+      "peak": true,
+      "members": [
+        {
+          "name": "Angus Young",
+          "role": "Guitar",
+          "personSlug": "angus-young"
+        },
+        {
+          "name": "Malcolm Young",
+          "role": "Guitar",
+          "personSlug": "malcolm-young"
+        },
+        {
+          "name": "Brian Johnson",
+          "role": "Vocals",
+          "personSlug": "brian-johnson"
+        },
+        {
+          "name": "Cliff Williams",
+          "role": "Bass"
+        },
+        {
+          "name": "Phil Rudd",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Back in Black launch; Malcolm later exits for health; Stevie Young covers rhythm on late tours.",
+        "zh": "以 Back in Black 启动；Malcolm 后期因健康退出；晚期巡演由 Stevie Young 顶节奏。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Highway to Hell",
+      "year": 1979,
+      "note": {
+        "en": "Bon-era mass formula locked before the singer swap.",
+        "zh": "主唱替换前锁死 Bon 时期大众公式。"
+      }
+    },
+    "pioneeredGenres": [
+      "hard-rock"
+    ],
+    "note": {
+      "en": "Open-chord riff craft as durable product across two singers.",
+      "zh": "开放和弦 riff 工艺跨两位主唱仍可持续。"
+    }
   }
 }

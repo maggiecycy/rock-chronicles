@@ -1,0 +1,32 @@
+{
+  "name": "Axl Rose",
+  "slug": "axl-rose",
+  "born": 1962,
+  "origin": "Lafayette, Indiana, USA",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Guns N' Roses frontman; scream-to-piano range on Appetite and Illusion.",
+    "zh": "Guns N' Roses 主唱；Appetite 与 Illusion 上从尖叫到钢琴的音域。"
+  },
+  "body": {
+    "en": "Born 1962. Lead voice of Appetite for Destruction and Use Your Illusion. Holds the brand through mid-90s exits and Chinese Democracy years; reunites with Slash/Duff for stadium tours from 2016.\n\nVocal method: high scream, mid-baritone verses, piano ballads.",
+    "zh": "1962 年生。Appetite for Destruction 与 Use Your Illusion 主声。撑过 90 年代中离队与 Chinese Democracy 年；2016 起与 Slash/Duff 重聚体育场巡演。\n\n人声方法：高尖叫、中男中音主歌、钢琴谣曲。"
+  },
+  "tenures": [
+    {
+      "bandName": "Guns N' Roses",
+      "bandSlug": "guns-n-roses",
+      "role": "Vocals",
+      "from": 1985,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "slash",
+    "izzy-stradlin",
+    "duff-mckagan"
+  ]
+}

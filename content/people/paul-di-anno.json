@@ -1,0 +1,31 @@
+{
+  "name": "Paul Di'Anno",
+  "slug": "paul-di-anno",
+  "born": 1958,
+  "origin": "London, UK",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Early Maiden vocal; street bark on Iron Maiden and Killers.",
+    "zh": "早期 Maiden 主唱；Iron Maiden 与 Killers 上的街头吠叫。"
+  },
+  "body": {
+    "en": "Born 1958. Fronts debut and Killers with street-metal bark before Dickinson’s operatic swap. Chapter remains the NWOBHM club-era citation.\n\nShort tenure; high contrast value against Beast-era vocals.",
+    "zh": "1958 年生。以街头金属吠叫主唱首专与 Killers，先于 Dickinson 歌剧式替换。章节仍是 NWOBHM 俱乐部时期引用。\n\n任期短；对 Beast 时期人声的高对比价值。"
+  },
+  "tenures": [
+    {
+      "bandName": "Iron Maiden",
+      "bandSlug": "iron-maiden",
+      "role": "Vocals",
+      "from": 1978,
+      "to": 1981
+    }
+  ],
+  "relatedPeople": [
+    "steve-harris",
+    "bruce-dickinson"
+  ]
+}

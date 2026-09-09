@@ -16,27 +16,32 @@
     {
       "name": "Johnny Rotten",
       "role": "Vocals",
-      "years": "1975–1978"
+      "years": "1975–1978",
+      "personSlug": "john-lydon"
     },
     {
       "name": "Steve Jones",
       "role": "Guitar",
-      "years": "1975–1978"
+      "years": "1975–1978",
+      "personSlug": "steve-jones"
     },
     {
       "name": "Paul Cook",
       "role": "Drums",
-      "years": "1975–1978"
-    },
-    {
-      "name": "Sid Vicious",
-      "role": "Bass",
-      "years": "1977–1978"
+      "years": "1975–1978",
+      "personSlug": "paul-cook"
     },
     {
       "name": "Glen Matlock",
       "role": "Bass",
-      "years": "1975–1977"
+      "years": "1975–1977",
+      "personSlug": "glen-matlock"
+    },
+    {
+      "name": "Sid Vicious",
+      "role": "Bass",
+      "years": "1977–1978",
+      "personSlug": "sid-vicious"
     }
   ],
   "essentialTracks": [
@@ -51,9 +56,86 @@
     {
       "title": "Pretty Vacant",
       "year": 1977
+    },
+    {
+      "title": "Holidays in the Sun",
+      "year": 1977
     }
   ],
-  "lyricQuotes": [],
+  "scenes": [
+    {
+      "year": 1976,
+      "track": "Anarchy in the U.K.",
+      "membersOnStage": [
+        "Johnny Rotten",
+        "Steve Jones",
+        "Paul Cook",
+        "Glen Matlock"
+      ],
+      "genreTags": [
+        "punk"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "EMI single: Jones brickwall guitar, Lydon sneer, Matlock-era writing.",
+        "zh": "EMI 单曲：Jones 砖墙吉他、Lydon 冷笑、Matlock 时期写作。"
+      }
+    },
+    {
+      "year": 1977,
+      "track": "God Save the Queen",
+      "membersOnStage": [
+        "Johnny Rotten",
+        "Steve Jones",
+        "Paul Cook",
+        "Sid Vicious"
+      ],
+      "genreTags": [
+        "punk"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Jubilee-year tabloid event; banned radio, chart controversy.",
+        "zh": "登基纪念年小报事件；电台禁播、榜单争议。"
+      }
+    },
+    {
+      "year": 1977,
+      "track": "Pretty Vacant",
+      "membersOnStage": [
+        "Johnny Rotten",
+        "Steve Jones",
+        "Paul Cook",
+        "Sid Vicious"
+      ],
+      "genreTags": [
+        "punk"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Open power-chord hook; Cook’s straight eighths as UK punk drum default.",
+        "zh": "开放强力和弦钩子；Cook 直线八分成为英国朋克鼓默认。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We're not into music. We're into chaos.",
+      "speaker": "Johnny Rotten",
+      "source": "Early press · quote wall",
+      "year": 1976
+    },
+    {
+      "text": "Ever get the feeling you've been cheated?",
+      "speaker": "Johnny Rotten",
+      "source": "Winterland final show, San Francisco",
+      "year": 1978
+    }
+  ],
+  "lyricQuotes": [
+    "I am an antichrist / I am an anarchist",
+    "God save the queen, the fascist regime"
+  ],
   "relatedBands": [
     "the-clash",
     "ramones",
@@ -73,5 +155,175 @@
   "body": {
     "en": "Formed 1975. EMI/Virgin singles—Anarchy in the U.K., God Save the Queen, Pretty Vacant—and the 1977 album document Steve Jones’s brickwall guitar, Paul Cook’s straight drums, Lydon’s sneer, Matlock’s early writing then Vicious’s bass tenure.\n\nShort discography; long citation list for UK punk and later hardcore. Beside The Clash they are the brief detonator versus a longer political songbook.",
     "zh": "1975 年组建。EMI/Virgin 单曲——Anarchy in the U.K.、God Save the Queen、Pretty Vacant——与 1977 专辑记录 Steve Jones 砖墙吉他、Paul Cook 直线鼓、Lydon 冷笑、Matlock 早期写作与 Vicious 贝斯任期。\n\n作品目录短；对英国朋克与后来 hardcore 的引用列表长。与 The Clash 并列：短暂引爆器对更长的政治歌本。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Two-year reset of UK rock manners",
+        "zh": "两年重置英国摇滚礼仪"
+      },
+      "body": {
+        "en": "1976–77 singles and Never Mind the Bollocks compress shock, tabloid scale, and brickwall guitar into one short catalog. Tempo up, solos cut, sneer as lead vocal.\n\nThey matter as a media event that also left playable songs.",
+        "zh": "1976–77 单曲与 Never Mind the Bollocks 把冲击、小报尺度与砖墙吉他压进短目录。提速、砍独奏、冷笑当主唱。\n\n要紧处：既是媒介事件，又留下可弹的歌。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "punk"
+    },
+    {
+      "id": "bass-swap",
+      "title": {
+        "en": "Matlock writing → Vicious image",
+        "zh": "Matlock 写作 → Vicious 形象"
+      },
+      "body": {
+        "en": "Glen Matlock co-writes early singles; Sid Vicious replaces him for image and chaos tenure. Jones and Cook remain the instrumental constants.\n\nLineup Versions mark the writing vs myth split.",
+        "zh": "Glen Matlock 共写早期单曲；Sid Vicious 接替以形象与混乱任期。Jones 与 Cook 仍是器乐常量。\n\n阵容版本标记「写作 vs 神话」分裂。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "punk"
+    },
+    {
+      "id": "anarchy",
+      "title": {
+        "en": "Anarchy in the U.K.: rupture single",
+        "zh": "Anarchy in the U.K.：断裂单曲"
+      },
+      "body": {
+        "en": "EMI release, then label fallout. Jones’s guitar is high-gain and flat; Lydon’s vocal is spoken-sung sneer. The count-in and lyric address are the pedagogical objects for UK punk radio history.\n\nRamones timing influence is audible; UK content is local.",
+        "zh": "EMI 发行，随后厂牌决裂。Jones 吉他高增益、扁平；Lydon 人声是说唱式冷笑。起拍与歌词称呼是英国朋克电台史的教学对象。\n\nRamones 时值影响可闻；内容是本土的。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "punk"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Jones brickwall, Cook straight eights",
+        "zh": "Jones 砖墙，Cook 直线八分"
+      },
+      "body": {
+        "en": "Steve Jones supplies the wall of power chords; Paul Cook keeps drums simple and loud. Lydon is the media face; bass chair is the volatile seat.\n\nPost-Pistols, Lydon forms Public Image Ltd—hub path out of the logo.",
+        "zh": "Steve Jones 提供强力和弦墙；Paul Cook 鼓简单且响。Lydon 是媒体脸；贝斯席是动荡席位。\n\nPistols 后 Lydon 组建 Public Image Ltd——离开 logo 的枢纽路径。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "punk"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Chaos line and Winterland exit",
+        "zh": "混乱句与 Winterland 退场"
+      },
+      "body": {
+        "en": "“Not into music / into chaos” is early press posture. “Ever get the feeling you've been cheated?” closes the 1978 US tour at Winterland.\n\nBoth quotes document the band as short-fuse project, not career ladder.",
+        "zh": "「不是搞音乐 / 是搞混乱」是早期媒体姿态。Winterland 1978 美国巡演收场句：「有没有被骗的感觉？」\n\n两句都证明这是短引线项目，不是职业阶梯。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 1,
+      "soundGenre": "punk"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Detonator beside The Clash",
+        "zh": "与 The Clash 并列的引爆器"
+      },
+      "body": {
+        "en": "The Clash expand political songwriting over years; Pistols compress rupture into singles. Joy Division and later hardcore cite the tempo and attitude more than the tabloid costume.\n\nShort catalog, long citation density.",
+        "zh": "The Clash 用数年扩展政治写作；Pistols 把断裂压进单曲。Joy Division 与后来 hardcore 更多引用速度与态度，而非小报戏服。\n\n目录短，引用密度高。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "punk"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "matlock-era",
+      "label": {
+        "en": "Matlock era",
+        "zh": "Matlock 时期"
+      },
+      "years": "1975–1977",
+      "peak": true,
+      "members": [
+        {
+          "name": "Johnny Rotten",
+          "role": "Vocals",
+          "personSlug": "john-lydon"
+        },
+        {
+          "name": "Steve Jones",
+          "role": "Guitar",
+          "personSlug": "steve-jones"
+        },
+        {
+          "name": "Paul Cook",
+          "role": "Drums",
+          "personSlug": "paul-cook"
+        },
+        {
+          "name": "Glen Matlock",
+          "role": "Bass",
+          "personSlug": "glen-matlock"
+        }
+      ],
+      "note": {
+        "en": "Early singles writing; Anarchy-era bass chair.",
+        "zh": "早期单曲写作；Anarchy 时期贝斯席。"
+      }
+    },
+    {
+      "id": "vicious-era",
+      "label": {
+        "en": "Vicious era",
+        "zh": "Vicious 时期"
+      },
+      "years": "1977–1978",
+      "members": [
+        {
+          "name": "Johnny Rotten",
+          "role": "Vocals",
+          "personSlug": "john-lydon"
+        },
+        {
+          "name": "Steve Jones",
+          "role": "Guitar",
+          "personSlug": "steve-jones"
+        },
+        {
+          "name": "Paul Cook",
+          "role": "Drums",
+          "personSlug": "paul-cook"
+        },
+        {
+          "name": "Sid Vicious",
+          "role": "Bass",
+          "personSlug": "sid-vicious"
+        }
+      ],
+      "note": {
+        "en": "Image/chaos tenure; Jones often covers bass on records.",
+        "zh": "形象/混乱任期；唱片上常由 Jones 顶贝斯。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Anarchy in the U.K.",
+      "year": 1976,
+      "note": {
+        "en": "EMI rupture single; UK punk timing and sneer as lead.",
+        "zh": "EMI 断裂单曲；英国朋克时值与冷笑当主唱。"
+      }
+    },
+    "pioneeredGenres": [
+      "punk"
+    ],
+    "note": {
+      "en": "Tabloid scale + brickwall guitar in under two years.",
+      "zh": "不到两年内完成小报尺度 + 砖墙吉他。"
+    }
   }
 }

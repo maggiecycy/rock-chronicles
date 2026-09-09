@@ -1,0 +1,37 @@
+{
+  "name": "John Deacon",
+  "slug": "john-deacon",
+  "born": 1951,
+  "origin": "Leicester, UK",
+  "roles": [
+    "Bass",
+    "Songwriting"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Queen bassist from 1971; writer of bass-led hits including Another One Bites the Dust.",
+    "zh": "1971 年起 Queen 贝斯手；写作 Another One Bites the Dust 等贝斯驱动热单。"
+  },
+  "body": {
+    "en": "Joined 1971, completing the classic four. Melodic bass and funk-leaning grooves on late-70s singles. Retired from public Queen performance after the mid-1990s.\n\nAbsence marks the end of classic-IV continuity more cleanly than any guest singer hire.",
+    "zh": "1971 年加入，凑齐经典四人。70 年代末单曲上的旋律贝斯与偏 funk 律动。1990 年代中期后退出公开 Queen 演出。\n\n他的缺席比任何客座主唱更能干净标出经典四人连续性的结束。"
+  },
+  "tenures": [
+    {
+      "bandName": "Queen",
+      "bandSlug": "queen",
+      "role": "Bass",
+      "from": 1971,
+      "to": 1997,
+      "note": {
+        "en": "Studio/live classic four; later withdrawal from touring.",
+        "zh": "录音室/现场经典四人；后期退出巡演。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "freddie-mercury",
+    "brian-may",
+    "roger-taylor"
+  ]
+}

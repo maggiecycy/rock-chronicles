@@ -4,6 +4,9 @@
   "formed": 1969,
   "origin": "London, UK",
   "primaryEra": "1970s-prog-hard-rock",
+  "alsoAppearsIn": [
+    "punk-postpunk"
+  ],
   "genres": [
     "alternative",
     "psychedelic"
@@ -13,23 +16,320 @@
     "en": "Solo artist filed here as a band-node: glam, Berlin trilogy, and Let’s Dance show persona and production shifts as a working method from 1969 onward.",
     "zh": "以乐队节点收录的独唱歌手：从 1969 年起，glam、柏林三部曲与 Let’s Dance 把人设与制作切换当成工作方法。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "David Bowie",
+      "role": "Vocals, Guitar, Keys",
+      "years": "1969–2016",
+      "personSlug": "david-bowie"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Space Oddity",
       "year": 1969
+    },
+    {
+      "title": "Starman",
+      "year": 1972
+    },
+    {
+      "title": "Heroes",
+      "year": 1977
+    },
+    {
+      "title": "Let's Dance",
+      "year": 1983
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1972,
+      "track": "Starman",
+      "membersOnStage": [
+        "David Bowie",
+        "Mick Ronson",
+        "Trevor Bolder",
+        "Mick Woodmansey"
+      ],
+      "genreTags": [
+        "psychedelic",
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Ziggy-era glam: Ronson guitar, Top of the Pops arm-around cue.",
+        "zh": "Ziggy 时期 glam：Ronson 吉他、Top of the Pops 搭肩提示。"
+      }
+    },
+    {
+      "year": 1977,
+      "track": "Heroes",
+      "membersOnStage": [
+        "David Bowie",
+        "Brian Eno",
+        "Robert Fripp",
+        "Tony Visconti"
+      ],
+      "genreTags": [
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Berlin trilogy: Fripp guitar feedback beds, Eno treatments.",
+        "zh": "柏林三部曲：Fripp 吉他反馈铺底、Eno 处理。"
+      }
+    },
+    {
+      "year": 1983,
+      "track": "Let's Dance",
+      "membersOnStage": [
+        "David Bowie",
+        "Nile Rodgers",
+        "Stevie Ray Vaughan"
+      ],
+      "genreTags": [
+        "rock-n-roll",
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Rodgers production + Vaughan guitar; 1980s pop-radio scale.",
+        "zh": "Rodgers 制作 + Vaughan 吉他；1980 年代流行电台尺度。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I don't know where I'm going from here, but I promise it won't be boring.",
+      "speaker": "David Bowie",
+      "source": "Interview excerpt · quote wall",
+      "year": 1990
+    },
+    {
+      "text": "I'm an instant star. Just add water and stir.",
+      "speaker": "David Bowie",
+      "source": "Press excerpt",
+      "year": 1972
+    }
+  ],
+  "lyricQuotes": [
+    "Ground control to Major Tom",
+    "We can be heroes, just for one day"
+  ],
+  "relatedBands": [
+    "queen",
+    "pink-floyd",
+    "talking-heads",
+    "king-crimson"
+  ],
+  "influenceFrom": [
+    "the-beatles",
+    "the-velvet-underground"
+  ],
+  "influenced": [
+    "radiohead",
+    "nirvana",
+    "the-cure"
+  ],
   "shortBio": {
-    "en": "English songwriter/performer; Ziggy, Berlin, and 1980s pop eras reset rock’s costume-and-studio playbook.",
-    "zh": "英国词曲/表演者；Ziggy、柏林与 1980 年代流行时期重置了摇滚的造型与录音室剧本。"
+    "en": "Solo node: Ziggy glam, Berlin trilogy, Let’s Dance—persona and production as method.",
+    "zh": "独唱节点：Ziggy glam、柏林三部曲、Let’s Dance——人设与制作即方法。"
   },
   "body": {
     "en": "Career hinge tracks run from Space Oddity (1969) through Ziggy Stardust (1972), the Eno collaborations Low/Heroes (1977), and Let’s Dance (1983).\n\nBowie’s value in this graph is procedural: lineup and style change on purpose, not as crisis. Session players and producers (Mick Ronson, Tony Visconti, Nile Rodgers) matter as much as the characters.",
     "zh": "关键曲目从 Space Oddity（1969）经 Ziggy Stardust（1972）、与 Eno 合作的 Low/Heroes（1977），到 Let’s Dance（1983）。\n\n在本图谱里 Bowie 的价值是程序化的：阵容与风格有意切换，而非危机产物。录音室乐手与制作人（Mick Ronson、Tony Visconti、Nile Rodgers）与角色人设同等重要。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Persona shift as working method",
+        "zh": "人设切换作为工作方法"
+      },
+      "body": {
+        "en": "Filed as a band-node: glam, Berlin, and Let’s Dance eras show planned production and costume changes. Session partners (Ronson, Eno, Fripp, Rodgers) are part of the method, not side notes.\n\nChange is the constant, not a crisis narrative.",
+        "zh": "以乐队节点收录：glam、柏林、Let’s Dance 时期展示有计划的制作与造型切换。录音室伙伴（Ronson、Eno、Fripp、Rodgers）是方法的一部分，不是旁注。\n\n切换是常量，不是危机叙事。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "eras",
+      "title": {
+        "en": "Ziggy / Berlin / Let’s Dance as lineups",
+        "zh": "Ziggy / 柏林 / Let’s Dance 作为阵容"
+      },
+      "body": {
+        "en": "Lineup Versions here mean era teams: Spiders from Mars (Ziggy), Eno/Fripp/Visconti (Berlin), Rodgers/Vaughan (Let’s Dance). Same name; different studio fingerprints.\n\nUse the versions as production chapters.",
+        "zh": "此处阵容版本即时期团队：Spiders from Mars（Ziggy）、Eno/Fripp/Visconti（柏林）、Rodgers/Vaughan（Let’s Dance）。同一名字；不同录音室指纹。\n\n把版本当制作章节用。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "ziggy",
+      "title": {
+        "en": "Starman: glam on TOTP",
+        "zh": "Starman：TOTP 上的 glam"
+      },
+      "body": {
+        "en": "Ziggy Stardust cycle: Ronson’s guitar and string arrangements, Bowie’s character vocal. Top of the Pops performance is a UK media hinge for glam visibility.\n\nSpace Oddity (1969) remains the earlier chart entry.",
+        "zh": "Ziggy Stardust 周期：Ronson 吉他与弦乐编排、Bowie 角色人声。Top of the Pops 演出是英国 glam 可见度的媒体铰链。\n\nSpace Oddity（1969）仍是更早的榜单入口。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "psychedelic"
+    },
+    {
+      "id": "berlin",
+      "title": {
+        "en": "Berlin: texture over costume",
+        "zh": "柏林：纹理优先于戏服"
+      },
+      "body": {
+        "en": "Low and Heroes (with Eno) foreground ambient beds, Fripp feedback, Visconti production. Vocal sits inside texture more than arena melisma.\n\nPunk/post-punk neighbors cite the Berlin cool more than Ziggy glitter.",
+        "zh": "Low 与 Heroes（与 Eno）突出氛围铺底、Fripp 反馈、Visconti 制作。人声坐在纹理里，而非体育场花腔。\n\n朋克/后朋克邻域更多引用柏林冷感，而非 Ziggy 闪光。"
+      },
+      "stickyVisual": "dna",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Won’t be boring / instant star",
+        "zh": "不会无聊 / 速成明星"
+      },
+      "body": {
+        "en": "Circulated lines sell the procedural claim: change as promise, stardom as constructed. Pair them with named producers and session players.\n\nQuotes are posture evidence, not prophecy.",
+        "zh": "流传短句卖程序化主张：切换即承诺，明星身份即建构。对照具名制作人与录音室乐手。\n\n引语是姿态证据，不是预言。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Studio mutation template",
+        "zh": "录音室变异模板"
+      },
+      "body": {
+        "en": "Radiohead and later alternative acts cite Berlin-era studio mutation. Punk and glam both claim pieces of the costume history.\n\nIn this graph: method of changing method.",
+        "zh": "Radiohead 与后来 alternative 引用柏林时期录音室变异。朋克与 glam 都认领戏服史的一部分。\n\n在本图谱：改变方法的方法。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "ziggy-era",
+      "label": {
+        "en": "Ziggy / Spiders era",
+        "zh": "Ziggy / Spiders 时期"
+      },
+      "years": "1971–1973",
+      "peak": true,
+      "members": [
+        {
+          "name": "David Bowie",
+          "role": "Vocals, Guitar",
+          "personSlug": "david-bowie"
+        },
+        {
+          "name": "Mick Ronson",
+          "role": "Guitar"
+        },
+        {
+          "name": "Trevor Bolder",
+          "role": "Bass"
+        },
+        {
+          "name": "Mick Woodmansey",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Glam character cycle; Hunky Dory through Aladdin Sane orbit.",
+        "zh": "Glam 角色周期；Hunky Dory 至 Aladdin Sane 轨道。"
+      }
+    },
+    {
+      "id": "berlin-era",
+      "label": {
+        "en": "Berlin trilogy era",
+        "zh": "柏林三部曲时期"
+      },
+      "years": "1976–1979",
+      "members": [
+        {
+          "name": "David Bowie",
+          "role": "Vocals, Keys",
+          "personSlug": "david-bowie"
+        },
+        {
+          "name": "Brian Eno",
+          "role": "Treatments, Keys"
+        },
+        {
+          "name": "Tony Visconti",
+          "role": "Production, Bass"
+        },
+        {
+          "name": "Robert Fripp",
+          "role": "Guitar (Heroes)"
+        }
+      ],
+      "note": {
+        "en": "Low / Heroes / Lodger; texture and ambient beds.",
+        "zh": "Low / Heroes / Lodger；纹理与氛围铺底。"
+      }
+    },
+    {
+      "id": "lets-dance-era",
+      "label": {
+        "en": "Let's Dance era",
+        "zh": "Let's Dance 时期"
+      },
+      "years": "1983–1984",
+      "members": [
+        {
+          "name": "David Bowie",
+          "role": "Vocals",
+          "personSlug": "david-bowie"
+        },
+        {
+          "name": "Nile Rodgers",
+          "role": "Production, Guitar"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "role": "Guitar"
+        }
+      ],
+      "note": {
+        "en": "Global pop-radio scale; funk-rock production.",
+        "zh": "全球流行电台尺度；放克摇滚制作。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Space Oddity",
+      "year": 1969,
+      "note": {
+        "en": "Early chart hinge; Major Tom as recurring character cue.",
+        "zh": "早期榜单铰链；Major Tom 作为反复角色提示。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "psychedelic"
+    ],
+    "note": {
+      "en": "Persona and production shift as deliberate method.",
+      "zh": "人设与制作切换作为有意方法。"
+    }
   }
 }

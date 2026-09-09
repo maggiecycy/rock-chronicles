@@ -1,0 +1,38 @@
+{
+  "name": "Graham Coxon",
+  "slug": "graham-coxon",
+  "born": 1969,
+  "origin": "Rinteln, Germany / Colchester, UK",
+  "roles": [
+    "Guitar",
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Blur guitar; noise/feedback anti-virtuoso chops; exits before Think Tank.",
+    "zh": "Blur 吉他；噪声/反馈反炫技切分；Think Tank 前离队。"
+  },
+  "body": {
+    "en": "Born 1969. Guitar vocabulary—noise, feedback, falling-apart texture—anchors Blur’s art-school side. Leaves before Think Tank (2003); returns on later reunions.\n\nSong 2 crunch and Coffee & TV melodic lead are dual citations.",
+    "zh": "1969 年生。吉他语汇——噪声、反馈、散架纹理——撑住 Blur 艺术学院一面。Think Tank（2003）前离队；后期重聚回归。\n\nSong 2 失真与 Coffee & TV 旋律主音是双引用。"
+  },
+  "tenures": [
+    {
+      "bandName": "Blur",
+      "bandSlug": "blur",
+      "role": "Guitar",
+      "from": 1988,
+      "to": 2002
+    },
+    {
+      "bandName": "Blur",
+      "bandSlug": "blur",
+      "role": "Guitar",
+      "from": 2009,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "damon-albarn"
+  ]
+}

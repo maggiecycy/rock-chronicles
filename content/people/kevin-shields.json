@@ -1,0 +1,32 @@
+{
+  "name": "Kevin Shields",
+  "slug": "kevin-shields",
+  "born": 1963,
+  "origin": "New York / Dublin",
+  "roles": [
+    "Guitar",
+    "Vocals",
+    "Production"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "MBV guitar/producer; tremolo-arm blur and Loveless studio method.",
+    "zh": "MBV 吉他/制作；颤音臂模糊与 Loveless 录音室方法。"
+  },
+  "body": {
+    "en": "Born 1963. Jazzmaster/tremolo pitch glide, sampled guitar stacks, buried vocals. Loveless (1991) is the production ceiling citation; studio time is part of the historical object.\n\nMethod: texture as composition.",
+    "zh": "1963 年生。Jazzmaster/颤音臂音高滑动、采样吉他堆叠、埋人声。Loveless（1991）是制作上限引用；录音室时间是历史对象的一部分。\n\n方法：纹理即作曲。"
+  },
+  "tenures": [
+    {
+      "bandName": "My Bloody Valentine",
+      "bandSlug": "my-bloody-valentine",
+      "role": "Guitar, Vocals",
+      "from": 1983,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "bilinda-butcher"
+  ]
+}

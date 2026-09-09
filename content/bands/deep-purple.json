@@ -13,23 +13,366 @@
     "en": "Mark II lineup (Blackmore / Gillan / Glover / Lord / Paice) set hard rock’s organ-plus-riff classroom: Machine Head (1972) and the Made in Japan live document.",
     "zh": "Mark II 阵容（Blackmore / Gillan / Glover / Lord / Paice）定下 hard rock「管风琴 + riff」课堂：Machine Head（1972）与现场专辑 Made in Japan。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Ritchie Blackmore",
+      "role": "Guitar",
+      "years": "1968–1975",
+      "personSlug": "ritchie-blackmore"
+    },
+    {
+      "name": "Ian Gillan",
+      "role": "Vocals",
+      "years": "1969–1973; 1984–1989; 1992–present",
+      "personSlug": "ian-gillan"
+    },
+    {
+      "name": "Jon Lord",
+      "role": "Keyboards",
+      "years": "1968–2002",
+      "personSlug": "jon-lord"
+    },
+    {
+      "name": "Roger Glover",
+      "role": "Bass",
+      "years": "1969–1973; 1984–present"
+    },
+    {
+      "name": "Ian Paice",
+      "role": "Drums",
+      "years": "1968–present"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Smoke on the Water",
       "year": 1972
+    },
+    {
+      "title": "Highway Star",
+      "year": 1972
+    },
+    {
+      "title": "Child in Time",
+      "year": 1970
+    },
+    {
+      "title": "Strange Kind of Woman",
+      "year": 1971
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1972,
+      "track": "Smoke on the Water",
+      "membersOnStage": [
+        "Ritchie Blackmore",
+        "Ian Gillan",
+        "Jon Lord",
+        "Roger Glover",
+        "Ian Paice"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Open-fifth riff as global teaching tool; Montreux fire lyric.",
+        "zh": "开放五度 riff 作全球教学工具；蒙特勒火灾歌词。"
+      }
+    },
+    {
+      "year": 1972,
+      "track": "Highway Star",
+      "membersOnStage": [
+        "Ritchie Blackmore",
+        "Ian Gillan",
+        "Jon Lord",
+        "Roger Glover",
+        "Ian Paice"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Speed riff + Blackmore classical figures + Lord Hammond race.",
+        "zh": "速度 riff + Blackmore 古典音型 + Lord Hammond 竞速。"
+      }
+    },
+    {
+      "year": 1970,
+      "track": "Child in Time",
+      "membersOnStage": [
+        "Ritchie Blackmore",
+        "Ian Gillan",
+        "Jon Lord",
+        "Roger Glover",
+        "Ian Paice"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "progressive-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "In Rock era: Gillan scream over Lord’s organ bed.",
+        "zh": "In Rock 时期：Gillan 尖叫压在 Lord 管风琴铺底上。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I don't like to be predictable.",
+      "speaker": "Ritchie Blackmore",
+      "source": "Interview excerpt · quote wall",
+      "year": 1975
+    },
+    {
+      "text": "The organ was as loud as the guitar.",
+      "speaker": "Jon Lord",
+      "source": "On early Purple live mix · press",
+      "year": 1972
+    }
+  ],
+  "lyricQuotes": [
+    "We all came out to Montreux / On the Lake Geneva shoreline",
+    "Nobody's gonna take my car, I'm gonna race it to the ground"
+  ],
+  "relatedBands": [
+    "led-zeppelin",
+    "black-sabbath",
+    "rainbow",
+    "iron-maiden"
+  ],
+  "influenceFrom": [
+    "the-beatles",
+    "cream"
+  ],
+  "influenced": [
+    "iron-maiden",
+    "metallica",
+    "rainbow"
+  ],
   "shortBio": {
-    "en": "British hard-rock band; Smoke on the Water made the open-fifth riff a global teaching tool.",
-    "zh": "英国 hard-rock 乐队；Smoke on the Water 把开放五度 riff 做成全球教学工具。"
+    "en": "Mark II hard rock; Smoke on the Water made the open-fifth riff a classroom standard.",
+    "zh": "Mark II hard rock；Smoke on the Water 把开放五度 riff 做成课堂标准。"
   },
   "body": {
-    "en": "Formed 1968; the commercially decisive era is 1970–73 Mark II. In Rock We Trust and Machine Head fused Jon Lord’s Hammond with Blackmore’s blues-classical guitar figures.\n\nSmoke on the Water (1972) is the riff everyone learns; Highway Star and Lazy show the speed and jazz-blues stretch. They sit with Sabbath and Zeppelin as early-70s hard-rock pillars, more organ-forward than either.",
-    "zh": "1968 年组建；商业与风格决定期是 1970–73 的 Mark II。In Rock 与 Machine Head 把 Jon Lord 的 Hammond 与 Blackmore 的蓝调—古典吉他音型焊在一起。\n\nSmoke on the Water（1972）是人人会弹的 riff；Highway Star、Lazy 展示速度与爵士蓝调延伸。与 Sabbath、Zeppelin 同属 70 年代初 hard-rock 支柱，管风琴比重更高。"
+    "en": "Formed 1968; the commercially decisive era is 1970–73 Mark II. In Rock and Machine Head fused Jon Lord’s Hammond with Blackmore’s blues-classical guitar figures.\n\nSmoke on the Water (1972) is the riff everyone learns; Highway Star and Lazy show the speed and jazz-blues stretch. Blackmore exits to Rainbow (1975). They sit with Sabbath and Zeppelin as early-70s hard-rock pillars, more organ-forward than either.",
+    "zh": "1968 年组建；商业与风格决定期是 1970–73 的 Mark II。In Rock 与 Machine Head 把 Jon Lord 的 Hammond 与 Blackmore 的蓝调—古典吉他音型焊在一起。\n\nSmoke on the Water（1972）是人人会弹的 riff；Highway Star、Lazy 展示速度与爵士蓝调延伸。Blackmore 1975 离队组建 Rainbow。与 Sabbath、Zeppelin 同属 70 年代初 hard-rock 支柱，管风琴比重更高。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Organ + riff classroom",
+        "zh": "管风琴 + riff 课堂"
+      },
+      "body": {
+        "en": "Mark II sets hard rock’s organ-plus-riff grammar: Lord’s Hammond equal to Blackmore’s guitar in the live mix. Machine Head (1972) and Made in Japan are the studio and live textbooks.\n\nMore organ-forward than Zeppelin or Sabbath.",
+        "zh": "Mark II 定下 hard rock「管风琴 + riff」语法：现场混音里 Lord 的 Hammond 与 Blackmore 吉他对等。Machine Head（1972）与 Made in Japan 是录音室与现场课本。\n\n管风琴比重高于 Zeppelin 或 Sabbath。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "marks",
+      "title": {
+        "en": "Mark I / II / III and Blackmore exit",
+        "zh": "Mark I / II / III 与 Blackmore 离队"
+      },
+      "body": {
+        "en": "Mark I: Evans/Simper era. Mark II: Gillan/Glover peak. Mark III: Coverdale/Hughes after Gillan/Glover leave. Blackmore exits 1975 to form Rainbow—hub path to fantasy-lyric hard rock.\n\nPaice is the continuous drum seat.",
+        "zh": "Mark I：Evans/Simper 时期。Mark II：Gillan/Glover 峰值。Mark III：Gillan/Glover 离队后 Coverdale/Hughes。Blackmore 1975 离队组建 Rainbow——通向奇幻歌词 hard rock 的枢纽路径。\n\nPaice 是连续鼓席。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "smoke",
+      "title": {
+        "en": "Smoke on the Water: teaching riff",
+        "zh": "Smoke on the Water：教学 riff"
+      },
+      "body": {
+        "en": "Open-fifth figure over Lord’s organ and Paice’s pocket. Lyric documents the Montreux casino fire. It becomes the first riff many guitarists learn worldwide.\n\nHighway Star shows the speed and neoclassical lead side of the same album.",
+        "zh": "开放五度音型压在 Lord 管风琴与 Paice 律动上。歌词记录蒙特勒赌场火灾。成为全球许多吉他手学的第一支 riff。\n\nHighway Star 展示同一专辑的速度与新古典主音面。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Blackmore figures, Lord Hammond, Gillan scream",
+        "zh": "Blackmore 音型、Lord Hammond、Gillan 尖叫"
+      },
+      "body": {
+        "en": "Blackmore blends blues bends with classical scalar runs. Lord treats Hammond as a lead instrument. Gillan’s scream sits above without melisma fashion.\n\nGlover and Paice lock the pocket that Made in Japan documents.",
+        "zh": "Blackmore 把蓝调弯音与古典音阶跑动混合。Lord 把 Hammond 当主奏乐器。Gillan 尖叫坐在上方，不走花腔时尚。\n\nGlover 与 Paice 锁死 Made in Japan 记录的律动。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Unpredictable exit, loud organ",
+        "zh": "不可预测的离队，响管风琴"
+      },
+      "body": {
+        "en": "Blackmore’s unpredictability line foreshadows the Rainbow split. Lord’s equal-volume organ claim is the mix fact behind the Mark II sound.\n\nQuotes document method, not myth.",
+        "zh": "Blackmore 的不可预测句预示 Rainbow 分裂。Lord「管风琴与吉他一样响」是 Mark II 声音背后的混音事实。\n\n引语记录方法，不造神话。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "NWOBHM and metal classroom",
+        "zh": "NWOBHM 与金属课堂"
+      },
+      "body": {
+        "en": "Iron Maiden and later metal acts cite the riff-plus-organ weight and Gillan-range vocals. Rainbow continues Blackmore’s neoclassical lead path with Dio.\n\nSmoke remains the pedagogical object.",
+        "zh": "Iron Maiden 与后来金属引用「riff + 管风琴」重量与 Gillan 音域人声。Rainbow 以 Dio 延续 Blackmore 新古典主音路径。\n\nSmoke 仍是教学对象。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "heavy-metal"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "mark-i",
+      "label": {
+        "en": "Mark I",
+        "zh": "Mark I"
+      },
+      "years": "1968–1969",
+      "members": [
+        {
+          "name": "Ritchie Blackmore",
+          "role": "Guitar",
+          "personSlug": "ritchie-blackmore"
+        },
+        {
+          "name": "Rod Evans",
+          "role": "Vocals"
+        },
+        {
+          "name": "Jon Lord",
+          "role": "Keyboards",
+          "personSlug": "jon-lord"
+        },
+        {
+          "name": "Nick Simper",
+          "role": "Bass"
+        },
+        {
+          "name": "Ian Paice",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Early albums before Gillan/Glover; psychedelic/hard-rock hybrid.",
+        "zh": "Gillan/Glover 前的早期专辑；迷幻/hard-rock 混合。"
+      }
+    },
+    {
+      "id": "mark-ii",
+      "label": {
+        "en": "Mark II",
+        "zh": "Mark II"
+      },
+      "years": "1969–1973",
+      "peak": true,
+      "members": [
+        {
+          "name": "Ritchie Blackmore",
+          "role": "Guitar",
+          "personSlug": "ritchie-blackmore"
+        },
+        {
+          "name": "Ian Gillan",
+          "role": "Vocals",
+          "personSlug": "ian-gillan"
+        },
+        {
+          "name": "Jon Lord",
+          "role": "Keyboards",
+          "personSlug": "jon-lord"
+        },
+        {
+          "name": "Roger Glover",
+          "role": "Bass"
+        },
+        {
+          "name": "Ian Paice",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "In Rock / Machine Head / Made in Japan citation era.",
+        "zh": "In Rock / Machine Head / Made in Japan 引用期。"
+      }
+    },
+    {
+      "id": "mark-iii",
+      "label": {
+        "en": "Mark III",
+        "zh": "Mark III"
+      },
+      "years": "1973–1975",
+      "members": [
+        {
+          "name": "Ritchie Blackmore",
+          "role": "Guitar",
+          "personSlug": "ritchie-blackmore"
+        },
+        {
+          "name": "David Coverdale",
+          "role": "Vocals"
+        },
+        {
+          "name": "Jon Lord",
+          "role": "Keyboards",
+          "personSlug": "jon-lord"
+        },
+        {
+          "name": "Glenn Hughes",
+          "role": "Bass, Vocals"
+        },
+        {
+          "name": "Ian Paice",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Burn / Stormbringer; Blackmore exits 1975 to Rainbow.",
+        "zh": "Burn / Stormbringer；Blackmore 1975 离队组建 Rainbow。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Smoke on the Water",
+      "year": 1972,
+      "note": {
+        "en": "Open-fifth riff as global guitar classroom.",
+        "zh": "开放五度 riff 成为全球吉他课堂。"
+      }
+    },
+    "pioneeredGenres": [
+      "hard-rock",
+      "heavy-metal"
+    ],
+    "note": {
+      "en": "Hammond equal to guitar in hard-rock mix.",
+      "zh": "Hard-rock 混音中 Hammond 与吉他对等。"
+    }
   }
 }

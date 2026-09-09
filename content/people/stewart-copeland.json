@@ -1,0 +1,26 @@
+{
+  "name": "Stewart Copeland",
+  "slug": "stewart-copeland",
+  "born": 1952,
+  "origin": "Alexandria, Virginia, USA",
+  "roles": ["Drums", "Percussion"],
+  "hub": false,
+  "shortBio": {
+    "en": "The Police drummer; reggae hi-hat grammar and octoban color inside trio pop-rock.",
+    "zh": "The Police 鼓手；三人流行摇滚里的雷鬼踩镲语法与八角鼓色彩。"
+  },
+  "body": {
+    "en": "Founding drummer. Treats the kit as a percussion rack—hi-hat chatter, space, few meat-and-potatoes rock fills. Tension with Sting is part of the band’s endgame lore.",
+    "zh": "创始鼓手。把鼓组当打击乐架——踩镲碎语、留白、少见肉蛋洋葱式摇滚加花。与 Sting 的张力是乐队终局传说的一部分。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Police",
+      "bandSlug": "the-police",
+      "role": "Drums",
+      "from": 1977,
+      "to": 1986
+    }
+  ],
+  "relatedPeople": ["sting", "andy-summers"]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Jon Lord",
+  "slug": "jon-lord",
+  "born": 1941,
+  "origin": "Leicester, England",
+  "roles": [
+    "Keyboards"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Deep Purple Hammond player; organ equal to guitar in Mark II mix.",
+    "zh": "Deep Purple Hammond 手；Mark II 混音中管风琴与吉它对等。"
+  },
+  "body": {
+    "en": "Born 1941. Treats Hammond as a lead instrument through Mark I–III and beyond. Machine Head and Made in Japan document organ-plus-riff classroom weight.\n\nExits touring life later; dies 2012. Method claim: keys as hard-rock equal, not pad.",
+    "zh": "1941 年生。跨 Mark I–III 及以后把 Hammond 当主奏乐器。Machine Head 与 Made in Japan 记录管风琴 + riff 课堂重量。\n\n后期退出巡演；2012 去世。方法主张：键盘作 hard-rock 对等物，不是铺底。"
+  },
+  "tenures": [
+    {
+      "bandName": "Deep Purple",
+      "bandSlug": "deep-purple",
+      "role": "Keyboards",
+      "from": 1968,
+      "to": 2002
+    }
+  ],
+  "relatedPeople": [
+    "ritchie-blackmore",
+    "ian-gillan"
+  ]
+}

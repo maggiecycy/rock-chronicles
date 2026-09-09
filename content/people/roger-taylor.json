@@ -1,0 +1,34 @@
+{
+  "name": "Roger Taylor",
+  "slug": "roger-taylor",
+  "born": 1949,
+  "origin": "King's Lynn, UK",
+  "roles": [
+    "Drums",
+    "Vocals",
+    "Songwriting"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Queen drummer and high harmony voice; co-writer on several hits.",
+    "zh": "Queen 鼓手与高声部和声；多首热单共同作者。"
+  },
+  "body": {
+    "en": "Born 1949. Drummer from Queen’s formation; supplies falsetto/high harmonies in the studio stack. Remains active with Brian May on post-Mercury tours.",
+    "zh": "1949 年生。Queen 组建起的鼓手；在录音室叠轨中提供假声/高声部和声。后 Mercury 巡演中仍与 Brian May 合作。"
+  },
+  "tenures": [
+    {
+      "bandName": "Queen",
+      "bandSlug": "queen",
+      "role": "Drums",
+      "from": 1970,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "freddie-mercury",
+    "brian-may",
+    "john-deacon"
+  ]
+}

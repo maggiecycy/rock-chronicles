@@ -1,0 +1,33 @@
+{
+  "name": "Steve Jones",
+  "slug": "steve-jones",
+  "born": 1955,
+  "origin": "London, UK",
+  "roles": [
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Sex Pistols guitarist; brickwall power chords on the 1976–77 singles.",
+    "zh": "Sex Pistols 吉他手；1976–77 单曲上的砖墙强力和弦。"
+  },
+  "body": {
+    "en": "Born 1955. Supplies the high-gain chord wall on Anarchy, God Save the Queen, Pretty Vacant. Often covers bass on records when Vicious tenure is unstable.\n\nPost-Pistols: solo and session work; instrumental constant of the short catalog.",
+    "zh": "1955 年生。在 Anarchy、God Save the Queen、Pretty Vacant 上提供高增益和弦墙。Vicious 任期不稳时唱片上常顶贝斯。\n\nPistols 后：独唱与录音室工作；短目录的器乐常量。"
+  },
+  "tenures": [
+    {
+      "bandName": "Sex Pistols",
+      "bandSlug": "sex-pistols",
+      "role": "Guitar",
+      "from": 1975,
+      "to": 1978
+    }
+  ],
+  "relatedPeople": [
+    "john-lydon",
+    "paul-cook",
+    "glen-matlock",
+    "sid-vicious"
+  ]
+}

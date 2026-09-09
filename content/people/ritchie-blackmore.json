@@ -1,0 +1,47 @@
+{
+  "name": "Ritchie Blackmore",
+  "slug": "ritchie-blackmore",
+  "born": 1945,
+  "origin": "Weston-super-Mare, England",
+  "roles": [
+    "Guitar"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Deep Purple Mark II guitar; exits 1975 to Rainbow with neoclassical leads.",
+    "zh": "Deep Purple Mark II 吉他；1975 离队组建 Rainbow，新古典主音。"
+  },
+  "whyHub": {
+    "en": "Purple → Rainbow personnel bridge; riff classroom to fantasy-lyric hard rock.",
+    "zh": "Purple → Rainbow 人事桥；从 riff 课堂到奇幻歌词 hard rock。"
+  },
+  "body": {
+    "en": "Born 1945. Blues-classical figures on In Rock and Machine Head; Smoke on the Water open-fifth riff. Leaves Purple 1975; forms Rainbow with Dio-era fantasy lyric hard rock.\n\nHub: same right hand, new logo and lyric mode.",
+    "zh": "1945 年生。In Rock 与 Machine Head 上的蓝调—古典音型；Smoke on the Water 开放五度 riff。1975 离队 Purple；与 Dio 时期 Rainbow 做奇幻歌词 hard rock。\n\n枢纽：同一右手，新 logo 与歌词模式。"
+  },
+  "tenures": [
+    {
+      "bandName": "Deep Purple",
+      "bandSlug": "deep-purple",
+      "role": "Guitar",
+      "from": 1968,
+      "to": 1975
+    },
+    {
+      "bandName": "Rainbow",
+      "bandSlug": "rainbow",
+      "role": "Guitar",
+      "from": 1975,
+      "to": 1984,
+      "note": {
+        "en": "Dio years and later commercial chapters.",
+        "zh": "Dio 年与后期商业章节。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "ian-gillan",
+    "jon-lord",
+    "ronnie-james-dio"
+  ]
+}

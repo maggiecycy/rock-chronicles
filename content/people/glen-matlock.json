@@ -1,0 +1,26 @@
+{
+  "name": "Glen Matlock",
+  "slug": "glen-matlock",
+  "born": 1956,
+  "origin": "London, UK",
+  "roles": ["Bass", "Songwriting"],
+  "hub": false,
+  "shortBio": {
+    "en": "Sex Pistols bassist 1975–77; early writing credit before Sid Vicious replaces him.",
+    "zh": "Sex Pistols 贝斯 1975–77；Sid Vicious 替换前的早期写作署名。"
+  },
+  "body": {
+    "en": "Melodic bass and songcraft on early singles. Exit 1977 becomes lore: tabloid prefers Vicious as symbol; musicians often prefer Matlock’s parts on record.",
+    "zh": "早期单曲上的旋律贝斯与写歌。1977 离开成为传说：小报更爱 Vicious 当符号；乐手常更认唱片上 Matlock 的分声部。"
+  },
+  "tenures": [
+    {
+      "bandName": "Sex Pistols",
+      "bandSlug": "sex-pistols",
+      "role": "Bass",
+      "from": 1975,
+      "to": 1977
+    }
+  ],
+  "relatedPeople": ["john-lydon", "sid-vicious"]
+}

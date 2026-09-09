@@ -1,0 +1,32 @@
+{
+  "name": "Steve Harris",
+  "slug": "steve-harris",
+  "born": 1956,
+  "origin": "London, UK",
+  "roles": [
+    "Bass",
+    "Songwriting"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Iron Maiden founder; eighth-note gallop bass as NWOBHM rhythm DNA.",
+    "zh": "Iron Maiden 创始人；八分疾驰贝斯作为 NWOBHM 节奏 DNA。"
+  },
+  "body": {
+    "en": "Born 1956. Writes and drives from bass through Di'Anno and Dickinson eras. Gallop pocket on The Trooper and Number of the Beast is the teaching object.\n\nContinuous seat since 1975; brand architect beside Eddie mascot tech.",
+    "zh": "1956 年生。跨 Di'Anno 与 Dickinson 时期从贝斯写作并驱动。The Trooper 与 Number of the Beast 上的疾驰律动是教学对象。\n\n自 1975 连续席位；在 Eddie 吉祥物技术旁的品牌架构者。"
+  },
+  "tenures": [
+    {
+      "bandName": "Iron Maiden",
+      "bandSlug": "iron-maiden",
+      "role": "Bass",
+      "from": 1975,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "bruce-dickinson",
+    "paul-di-anno"
+  ]
+}

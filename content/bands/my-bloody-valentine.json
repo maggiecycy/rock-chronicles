@@ -13,23 +13,281 @@
     "en": "Dublin/London shoegaze core; Loveless (1991) set extreme guitar blur, pitch bends, and buried vocals as a production ceiling still cited in indie.",
     "zh": "都柏林/伦敦 shoegaze 核心；Loveless（1991）把极端吉他模糊、弯音与埋人声定为 indie 仍在引用的制作上限。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Kevin Shields",
+      "role": "Guitar, Vocals",
+      "years": "1983–present",
+      "personSlug": "kevin-shields"
+    },
+    {
+      "name": "Bilinda Butcher",
+      "role": "Guitar, Vocals",
+      "years": "1987–present",
+      "personSlug": "bilinda-butcher"
+    },
+    {
+      "name": "Debbie Googe",
+      "role": "Bass",
+      "years": "1985–present"
+    },
+    {
+      "name": "Colm Ó Cíosóig",
+      "role": "Drums",
+      "years": "1983–present"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Only Shallow",
       "year": 1991
+    },
+    {
+      "title": "Soon",
+      "year": 1991
+    },
+    {
+      "title": "When You Sleep",
+      "year": 1991
+    },
+    {
+      "title": "You Made Me Realise",
+      "year": 1988
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1991,
+      "track": "Only Shallow",
+      "membersOnStage": [
+        "Kevin Shields",
+        "Bilinda Butcher",
+        "Debbie Googe",
+        "Colm Ó Cíosóig"
+      ],
+      "genreTags": [
+        "indie-rock",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Loveless opener: drums upfront, tremolo-arm guitar fog, buried vocals.",
+        "zh": "Loveless 开场：鼓靠前、颤音臂吉他雾、埋人声。"
+      }
+    },
+    {
+      "year": 1991,
+      "track": "Soon",
+      "membersOnStage": [
+        "Kevin Shields",
+        "Bilinda Butcher",
+        "Debbie Googe",
+        "Colm Ó Cíosóig"
+      ],
+      "genreTags": [
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Sampled guitar loops + dance pulse inside shoegaze mix.",
+        "zh": "采样吉他循环 + 舞曲脉动坐在 shoegaze 混音里。"
+      }
+    },
+    {
+      "year": 1988,
+      "track": "You Made Me Realise",
+      "membersOnStage": [
+        "Kevin Shields",
+        "Bilinda Butcher",
+        "Debbie Googe",
+        "Colm Ó Cíosóig"
+      ],
+      "genreTags": [
+        "indie-rock",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Isn’t Anything-era noise burst; live “holocaust” section citation.",
+        "zh": "Isn’t Anything 时期噪声爆发；现场 holocaust 段引用。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "The guitars were the songs.",
+      "speaker": "Kevin Shields",
+      "source": "On Loveless method · interview",
+      "year": 1991
+    },
+    {
+      "text": "We weren't trying to invent a genre. We were trying to get the sound right.",
+      "speaker": "Kevin Shields",
+      "source": "Press excerpt · quote wall",
+      "year": 2013
+    }
+  ],
+  "lyricQuotes": [
+    "When I look at you oh I don't know what's real",
+    "Soft as snow but warm inside"
+  ],
+  "relatedBands": [
+    "slowdive",
+    "sonic-youth",
+    "radiohead",
+    "pixies"
+  ],
+  "influenceFrom": [
+    "sonic-youth",
+    "the-velvet-underground",
+    "the-cure"
+  ],
+  "influenced": [
+    "slowdive",
+    "radiohead",
+    "smashing-pumpkins"
+  ],
   "shortBio": {
-    "en": "Kevin Shields–led shoegaze; Only Shallow opens the Loveless method.",
-    "zh": "Kevin Shields 领衔的 shoegaze；Only Shallow 打开 Loveless 方法。"
+    "en": "Shields / Butcher / Googe / Ó Cíosóig; Loveless sets shoegaze production ceiling.",
+    "zh": "Shields / Butcher / Googe / Ó Cíosóig；Loveless 定下 shoegaze 制作上限。"
   },
   "body": {
-    "en": "Formed 1983. Isn’t Anything (1988) and Loveless (1991) on Creation Records define the sound: tremolo-arm pitch glide, sampled guitar layers, Bilinda Butcher/Shields vocal blend low in the mix.\n\nOnly Shallow (1991) is the entry cut—drums upfront, guitars as harmonic fog. Studio time and Shields’s process are part of the historical object; the musical claim is texture as composition.",
-    "zh": "1983 年组建。Creation 厂牌上的 Isn’t Anything（1988）与 Loveless（1991）定义声音：颤音臂音高滑动、采样吉他层、Bilinda Butcher/Shields 人声埋在混音低处。\n\nOnly Shallow（1991）是入口——鼓靠前，吉他作和声雾。录音室时间与 Shields 工艺是历史对象的一部分；音乐主张是把纹理当作曲。"
+    "en": "Formed 1983. Isn’t Anything (1988) and Loveless (1991) on Creation Records define the sound: tremolo-arm pitch glide, sampled guitar layers, Bilinda Butcher/Shields vocal blend low in the mix.\n\nOnly Shallow (1991) is the entry cut—drums upfront, guitars as harmonic fog. Studio time and Shields’s process are part of the historical object; the musical claim is texture as composition. Shoegaze is the scene label; genres here stay indie-rock/alternative.",
+    "zh": "1983 年组建。Creation 厂牌上的 Isn’t Anything（1988）与 Loveless（1991）定义声音：颤音臂音高滑动、采样吉他层、Bilinda Butcher/Shields 人声埋在混音低处。\n\nOnly Shallow（1991）是入口——鼓靠前，吉他作和声雾。录音室时间与 Shields 工艺是历史对象的一部分；音乐主张是把纹理当作曲。场景标签是 shoegaze；此处 genres 仍用 indie-rock/alternative。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Texture as composition on Loveless",
+        "zh": "Loveless：纹理即作曲"
+      },
+      "body": {
+        "en": "Loveless (1991) treats guitar blur, pitch bend, and buried vocals as the song itself—not decoration. Creation Records studio time becomes part of the historical object.\n\nShoegaze names the scene; the method is production-first indie.",
+        "zh": "Loveless（1991）把吉他模糊、弯音与埋人声当作歌曲本身——不是装饰。Creation 录音室时间成为历史对象的一部分。\n\nShoegaze 是场景名；方法是制作优先的 indie。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "loveless-four",
+      "title": {
+        "en": "Shields / Butcher / Googe / Colbert",
+        "zh": "Shields / Butcher / Googe / Colbert"
+      },
+      "body": {
+        "en": "Classic four: Kevin Shields, Bilinda Butcher, Debbie Googe, Colm Ó Cíosóig (often cited as Colbert in English press). This is the Loveless and Isn’t Anything citation lineup.\n\nEarlier Dublin lineups precede Butcher; peak citation starts with her dual-vocal/guitar role.",
+        "zh": "经典四人：Kevin Shields、Bilinda Butcher、Debbie Googe、Colm Ó Cíosóig（英文媒体常写 Colbert）。这是 Loveless 与 Isn’t Anything 引用阵容。\n\n更早都柏林阵容在 Butcher 之前；峰值引用自她双人声/吉他角色起。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "only-shallow",
+      "title": {
+        "en": "Only Shallow: drums then fog",
+        "zh": "Only Shallow：先鼓后雾"
+      },
+      "body": {
+        "en": "Opening cut: Ó Cíosóig drums hit hard up front, then Shields’s tremolo-arm chords smear into harmonic fog. Vocals sit low. Soon adds sampled loop and dance pulse inside the same mix logic.\n\nEntry pedagogy for the Loveless method.",
+        "zh": "开场曲：Ó Cíosóig 鼓靠前猛打，随后 Shields 颤音臂和弦糊成和声雾。人声坐低。Soon 在同一混音逻辑里加入采样循环与舞曲脉动。\n\nLoveless 方法的入口教学。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "dna",
+      "title": {
+        "en": "Tremolo arm, samples, buried blend",
+        "zh": "颤音臂、采样、埋入混音"
+      },
+      "body": {
+        "en": "Shields’s Jazzmaster/tremolo technique glides pitch inside chords. Guitar layers are sampled and stacked. Butcher and Shields share soft, low vocals.\n\nLive “holocaust” noise sections extend You Made Me Realise practice into endurance tests.",
+        "zh": "Shields 的 Jazzmaster/颤音臂技术在和弦内滑动音高。吉他层被采样堆叠。Butcher 与 Shields 共享柔、低人声。\n\n现场 holocaust 噪声段把 You Made Me Realise 实践拉成耐力测试。"
+      },
+      "stickyVisual": "dna",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Guitars were the songs",
+        "zh": "吉他就是歌"
+      },
+      "body": {
+        "en": "Shields’s lines reject genre invention talk in favor of getting the sound right. The wall quote belongs beside the tremolo-arm and studio-time facts.\n\nm b v method over myth.",
+        "zh": "Shields 的话拒绝「发明流派」叙事，强调把声音弄对。墙上引语应挂在颤音臂与录音室时间事实旁。\n\n方法优先于神话。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 0,
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Ceiling still cited in indie",
+        "zh": "Indie 仍引用的上限"
+      },
+      "body": {
+        "en": "Slowdive and later shoegaze acts work in the neighborhood; Radiohead and others cite texture ambition. Smashing Pumpkins borrow wall-of-guitar density with different song forms.\n\nLoveless remains the production ceiling citation.",
+        "zh": "Slowdive 与后来 shoegaze 在同一邻域工作；Radiohead 等引用纹理野心。Smashing Pumpkins 借吉他墙密度但曲式不同。\n\nLoveless 仍是制作上限引用。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "loveless-era",
+      "label": {
+        "en": "Loveless era four",
+        "zh": "Loveless 时期四人组"
+      },
+      "years": "1987–1997",
+      "peak": true,
+      "members": [
+        {
+          "name": "Kevin Shields",
+          "role": "Guitar, Vocals",
+          "personSlug": "kevin-shields"
+        },
+        {
+          "name": "Bilinda Butcher",
+          "role": "Guitar, Vocals",
+          "personSlug": "bilinda-butcher"
+        },
+        {
+          "name": "Debbie Googe",
+          "role": "Bass"
+        },
+        {
+          "name": "Colm Ó Cíosóig",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Isn’t Anything / Loveless citation lineup; Shields/Butcher dual vocals.",
+        "zh": "Isn’t Anything / Loveless 引用阵容；Shields/Butcher 双人声。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Only Shallow",
+      "year": 1991,
+      "note": {
+        "en": "Drums-forward entry to Loveless guitar fog method.",
+        "zh": "鼓靠前入口，进入 Loveless 吉他雾方法。"
+      }
+    },
+    "pioneeredGenres": [
+      "indie-rock",
+      "alternative"
+    ],
+    "note": {
+      "en": "Shoegaze production ceiling: blur, bend, buried vocal.",
+      "zh": "Shoegaze 制作上限：模糊、弯音、埋人声。"
+    }
   }
 }

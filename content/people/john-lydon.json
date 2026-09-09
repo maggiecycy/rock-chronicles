@@ -1,0 +1,44 @@
+{
+  "name": "John Lydon",
+  "slug": "john-lydon",
+  "born": 1956,
+  "origin": "London, UK",
+  "roles": ["Vocals"],
+  "hub": true,
+  "shortBio": {
+    "en": "Johnny Rotten in Sex Pistols; later Public Image Ltd—sneer as method across logos.",
+    "zh": "Sex Pistols 时期的 Johnny Rotten；后来 Public Image Ltd——跨 logo 把冷笑当方法。"
+  },
+  "whyHub": {
+    "en": "Punk detonator → post-punk PiL: same voice, different songwriting economy after 1978.",
+    "zh": "朋克引爆器 → 后朋 PiL：1978 后同一把嗓，不同的写作经济。"
+  },
+  "body": {
+    "en": "Born 1956. Fronts Sex Pistols 1975–78. After the breakup forms Public Image Ltd (PiL)—dub space, anti-rock star framing.\n\nPerson page keeps Pistols and PiL as linked seasons under one vocalist.",
+    "zh": "1956 年生。1975–78 任 Sex Pistols 主唱。解散后组建 Public Image Ltd（PiL）——dub 空间、反摇滚明星框架。\n\n人物页把 Pistols 与 PiL 连成同一主唱下的相邻赛季。"
+  },
+  "tenures": [
+    {
+      "bandName": "Sex Pistols",
+      "bandSlug": "sex-pistols",
+      "role": "Vocals",
+      "from": 1975,
+      "to": 1978,
+      "note": {
+        "en": "Johnny Rotten era singles and Bollocks.",
+        "zh": "Johnny Rotten 时期单曲与 Bollocks。"
+      }
+    },
+    {
+      "bandName": "Public Image Ltd",
+      "role": "Vocals",
+      "from": 1978,
+      "to": "present",
+      "note": {
+        "en": "Post-punk / dub-leaning project after Pistols.",
+        "zh": "Pistols 之后的后朋/偏 dub 计划。"
+      }
+    }
+  ],
+  "relatedPeople": ["glen-matlock", "sid-vicious"]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Phil Rudd",
+  "slug": "phil-rudd",
+  "born": 1954,
+  "origin": "Melbourne, Australia",
+  "roles": ["Drums"],
+  "hub": false,
+  "shortBio": {
+    "en": "AC/DC drummer on classic pocket takes; multiple exits and returns.",
+    "zh": "经典口袋拍录音上的 AC/DC 鼓手；多次离开与回归。"
+  },
+  "body": {
+    "en": "Straight time, few fills—the anti-virtuoso drum chair that makes the riffs feel heavier. On and off the stool across decades.",
+    "zh": "直拍、少加花——反炫技鼓位，反而让 riff 更重。数十年来上上下下。"
+  },
+  "tenures": [
+    {
+      "bandName": "AC/DC",
+      "bandSlug": "ac-dc",
+      "role": "Drums",
+      "from": 1975,
+      "to": 1983
+    },
+    {
+      "bandName": "AC/DC",
+      "bandSlug": "ac-dc",
+      "role": "Drums",
+      "from": 1994,
+      "to": 2015
+    }
+  ],
+  "relatedPeople": ["cliff-williams", "angus-young"]
+}

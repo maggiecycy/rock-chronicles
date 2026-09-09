@@ -1,0 +1,30 @@
+{
+  "name": "Malcolm Young",
+  "slug": "malcolm-young",
+  "born": 1953,
+  "origin": "Glasgow, Scotland / Sydney, Australia",
+  "roles": ["Guitar", "Songwriting"],
+  "hub": false,
+  "shortBio": {
+    "en": "AC/DC rhythm guitarist; right-hand eighth-note grind as the band’s engine until 2014.",
+    "zh": "AC/DC 节奏吉他；右手八分碾磨是乐队引擎，直至 2014。"
+  },
+  "body": {
+    "en": "Born 1953. Rhythm parts define AC/DC more than solos. Exits mid-2010s for health; nephew Stevie Young covers later tours.\n\nIf you mute Malcolm’s track, the ‘AC/DC feel’ usually collapses.",
+    "zh": "1953 年生。节奏分声部比 Solo 更定义 AC/DC。2010 年代中期因健康退出；侄子 Stevie Young 顶后期巡演。\n\nMute 掉 Malcolm 的轨，‘AC/DC 手感’通常一起塌。"
+  },
+  "tenures": [
+    {
+      "bandName": "AC/DC",
+      "bandSlug": "ac-dc",
+      "role": "Guitar",
+      "from": 1973,
+      "to": 2014,
+      "note": {
+        "en": "Core rhythm writer through the classic catalog.",
+        "zh": "贯穿经典目录的核心节奏写手。"
+      }
+    }
+  ],
+  "relatedPeople": ["angus-young", "bon-scott", "brian-johnson"]
+}

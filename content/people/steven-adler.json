@@ -1,0 +1,26 @@
+{
+  "name": "Steven Adler",
+  "slug": "steven-adler",
+  "born": 1965,
+  "origin": "Cleveland, Ohio, USA",
+  "roles": ["Drums"],
+  "hub": false,
+  "shortBio": {
+    "en": "Guns N’ Roses drummer on Appetite; swing feel, exits ~1990.",
+    "zh": "Appetite 时期 Guns N’ Roses 鼓手；摇摆手感，约 1990 离开。"
+  },
+  "body": {
+    "en": "Classic-five drummer. Behind-the-beat swing under Slash/Izzy riffs. Fired/exits around 1990; Matt Sorum covers later Illusion tours.\n\nPerson page marks the Appetite pocket vs later kit chairs.",
+    "zh": "经典五人鼓手。在 Slash/Izzy riff 下拖拍摇摆。约 1990 被撤/离开；后来 Illusion 巡演由 Matt Sorum 顶。\n\n人物页用来标出 Appetite 口袋拍与后来鼓位之别。"
+  },
+  "tenures": [
+    {
+      "bandName": "Guns N' Roses",
+      "bandSlug": "guns-n-roses",
+      "role": "Drums",
+      "from": 1985,
+      "to": 1990
+    }
+  ],
+  "relatedPeople": ["axl-rose", "slash", "duff-mckagan"]
+}

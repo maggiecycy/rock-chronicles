@@ -13,23 +13,306 @@
     "en": "Colchester/London Britpop flagship: Parklife (1994) framed English observational pop; later albums (13, Think Tank) pushed art-rock and electronic edges against Oasis’s stadium lane.",
     "zh": "科尔切斯特/伦敦 Britpop 主力：Parklife（1994）框定英式观察式流行；后期专辑（13、Think Tank）把 art-rock 与电子边缘推到 Oasis 体育场路线的对面。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Damon Albarn",
+      "role": "Vocals, Keys",
+      "years": "1988–present",
+      "personSlug": "damon-albarn"
+    },
+    {
+      "name": "Graham Coxon",
+      "role": "Guitar",
+      "years": "1988–2002; 2009–present",
+      "personSlug": "graham-coxon"
+    },
+    {
+      "name": "Alex James",
+      "role": "Bass",
+      "years": "1988–present"
+    },
+    {
+      "name": "Dave Rowntree",
+      "role": "Drums",
+      "years": "1988–present"
+    }
+  ],
   "essentialTracks": [
+    {
+      "title": "Girls & Boys",
+      "year": 1994
+    },
+    {
+      "title": "Parklife",
+      "year": 1994
+    },
     {
       "title": "Song 2",
       "year": 1997
+    },
+    {
+      "title": "Coffee & TV",
+      "year": 1999
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1994,
+      "track": "Parklife",
+      "membersOnStage": [
+        "Damon Albarn",
+        "Graham Coxon",
+        "Alex James",
+        "Dave Rowntree"
+      ],
+      "genreTags": [
+        "britpop"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Observational English pop; spoken-sung verses over jaunty chords.",
+        "zh": "观察式英式流行；轻快和弦上的说唱式主歌。"
+      }
+    },
+    {
+      "year": 1997,
+      "track": "Song 2",
+      "membersOnStage": [
+        "Damon Albarn",
+        "Graham Coxon",
+        "Alex James",
+        "Dave Rowntree"
+      ],
+      "genreTags": [
+        "britpop",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Loud/quiet radio hook; US crossover single from Blur album.",
+        "zh": "强弱电台钩子；Blur 专辑打进美国的单曲。"
+      }
+    },
+    {
+      "year": 2003,
+      "track": "Out of Time",
+      "membersOnStage": [
+        "Damon Albarn",
+        "Alex James",
+        "Dave Rowntree"
+      ],
+      "genreTags": [
+        "indie-rock",
+        "alternative"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "Think Tank era without Coxon; electronic/art-rock lean.",
+        "zh": "无 Coxon 的 Think Tank 时期；偏电子/art-rock。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "If you wake up in the morning and you feel like a pop star, then you're a pop star.",
+      "speaker": "Damon Albarn",
+      "source": "Press excerpt · quote wall",
+      "year": 1995
+    },
+    {
+      "text": "I wanted the guitars to sound like they were falling apart.",
+      "speaker": "Graham Coxon",
+      "source": "On guitar texture · interview",
+      "year": 1997
+    }
+  ],
+  "lyricQuotes": [
+    "Girls who are boys who like boys to be girls",
+    "Woo-hoo"
+  ],
+  "relatedBands": [
+    "oasis",
+    "pulp",
+    "suede",
+    "radiohead"
+  ],
+  "influenceFrom": [
+    "the-kinks",
+    "the-beatles",
+    "the-clash"
+  ],
+  "influenced": [
+    "arctic-monkeys",
+    "franz-ferdinand"
+  ],
   "shortBio": {
-    "en": "Britpop band led by Damon Albarn and Graham Coxon; Parklife to Song 2 spans satire and loud/quiet radio hits.",
-    "zh": "Damon Albarn 与 Graham Coxon 领衔的 Britpop 乐队；从 Parklife 到 Song 2 覆盖讽刺小品与强弱电台单曲。"
+    "en": "Albarn / Coxon Britpop; Parklife satire to Song 2 loud/quiet; Think Tank without Coxon.",
+    "zh": "Albarn / Coxon 的 Britpop；Parklife 讽刺到 Song 2 强弱；Think Tank 无 Coxon。"
   },
   "body": {
-    "en": "Formed 1988. Leisure and Modern Life Is Rubbish set up the Britpop frame; Parklife (1994) and The Great Escape locked chart rivalry with Oasis.\n\nSong 2 (1997) is the US loud/quiet hook. Coxon’s guitar vocabulary—noise, feedback, anti-virtuoso chops—anchors the band’s art-school side beyond the Blur vs Oasis headline.",
-    "zh": "1988 年组建。Leisure 与 Modern Life Is Rubbish 铺好 Britpop 框架；Parklife（1994）与 The Great Escape 坐实与 Oasis 的榜单对峙。\n\nSong 2（1997）是打进美国的强弱钩子。Coxon 的吉他语汇——噪声、反馈、反炫技切分——撑住乐队在「Blur vs Oasis」标题之外的艺术学院一面。"
+    "en": "Formed 1988. Leisure and Modern Life Is Rubbish set up the Britpop frame; Parklife (1994) and The Great Escape locked chart rivalry with Oasis.\n\nSong 2 (1997) is the US loud/quiet hook. Coxon’s guitar vocabulary—noise, feedback, anti-virtuoso chops—anchors the art-school side. Think Tank (2003) is the Coxon-less chapter; later reunions restore the four-piece.",
+    "zh": "1988 年组建。Leisure 与 Modern Life Is Rubbish 铺好 Britpop 框架；Parklife（1994）与 The Great Escape 坐实与 Oasis 的榜单对峙。\n\nSong 2（1997）是打进美国的强弱钩子。Coxon 的吉他语汇——噪声、反馈、反炫技切分——撑住艺术学院一面。Think Tank（2003）是无 Coxon 章节；后期重聚恢复四人组。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Observational Britpop vs stadium Oasis",
+        "zh": "观察式 Britpop 对体育场 Oasis"
+      },
+      "body": {
+        "en": "Parklife (1994) frames English everyday detail and jaunty chords against Oasis’s anthem lane. Albarn’s characters and Coxon’s anti-virtuoso guitar define the Colchester/London side of Britpop.\n\nChart rivalry is media fact; arrangement method is the musical fact.",
+        "zh": "Parklife（1994）用英式日常细节与轻快和弦对上 Oasis 颂歌车道。Albarn 的角色写作与 Coxon 反炫技吉他定义 Britpop 的科尔切斯特/伦敦面。\n\n榜单对峙是媒体事实；编排方法是音乐事实。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "coxon",
+      "title": {
+        "en": "Classic four vs Think Tank",
+        "zh": "经典四人组 vs Think Tank"
+      },
+      "body": {
+        "en": "Peak Britpop and 13 keep Coxon’s noise/feedback vocabulary. Coxon exits before Think Tank (2003); electronic and guest textures fill the guitar chair.\n\nReunions restore the four-piece silhouette.",
+        "zh": "Britpop 峰值与 13 保留 Coxon 噪声/反馈语汇。Coxon 在 Think Tank（2003）前离队；电子与客座纹理填补吉他席。\n\n重聚恢复四人剪影。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "parklife",
+      "title": {
+        "en": "Parklife / Girls & Boys: satire singles",
+        "zh": "Parklife / Girls & Boys：讽刺单曲"
+      },
+      "body": {
+        "en": "Girls & Boys opens the Parklife cycle with disco-adjacent bass and observational chorus. Title track Parklife uses spoken-sung verses and brass color.\n\nEnglish character writing as Britpop radio grammar.",
+        "zh": "Girls & Boys 以近迪斯科贝斯与观察式副歌打开 Parklife 周期。标题曲 Parklife 用说唱式主歌与铜管色彩。\n\n英式角色写作作为 Britpop 电台语法。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "song2",
+      "title": {
+        "en": "Song 2: loud/quiet export",
+        "zh": "Song 2：强弱出口"
+      },
+      "body": {
+        "en": "Two-minute loud/quiet structure, Coxon crunch, Albarn woo-hoo hook. It is the US radio entry that sits beside the UK satire catalog.\n\nCoffee & TV later shows Coxon’s melodic lead side on 13.",
+        "zh": "两分钟强弱结构、Coxon 失真碾压、Albarn 的 woo-hoo 钩子。是坐在英国讽刺目录旁的美国电台入口。\n\nCoffee & TV 后在 13 上展示 Coxon 旋律主音面。"
+      },
+      "stickyVisual": "tracks",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Pop star mornings, falling-apart guitars",
+        "zh": "明星早晨，散架吉他"
+      },
+      "body": {
+        "en": "Albarn’s pop-star line and Coxon’s falling-apart guitar claim mark dual methods: character frontman vs texture guitar.\n\nHub path: Albarn also builds Gorillaz outside this logo.",
+        "zh": "Albarn 的流行明星句与 Coxon「吉他像要散架」主张标记双方法：角色主唱 vs 纹理吉他。\n\n枢纽路径：Albarn 在本 logo 外另建 Gorillaz。"
+      },
+      "stickyVisual": "quote",
+      "quoteIndex": 1,
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Beyond Blur vs Oasis headline",
+        "zh": "超越 Blur vs Oasis 标题"
+      },
+      "body": {
+        "en": "Later UK indie cites Coxon guitar vocabulary and Albarn’s character pop. Arctic Monkeys and others inherit observational lyric habits more than the chart war costume.\n\nThink Tank remains the electronic fork citation.",
+        "zh": "后来英国 indie 引用 Coxon 吉他语汇与 Albarn 角色流行。Arctic Monkeys 等更多继承观察式歌词习惯，而非榜单战争戏服。\n\nThink Tank 仍是电子分叉引用。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "indie-rock"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "classic-britpop",
+      "label": {
+        "en": "Classic Britpop four",
+        "zh": "经典 Britpop 四人组"
+      },
+      "years": "1993–2002",
+      "peak": true,
+      "members": [
+        {
+          "name": "Damon Albarn",
+          "role": "Vocals, Keys",
+          "personSlug": "damon-albarn"
+        },
+        {
+          "name": "Graham Coxon",
+          "role": "Guitar",
+          "personSlug": "graham-coxon"
+        },
+        {
+          "name": "Alex James",
+          "role": "Bass"
+        },
+        {
+          "name": "Dave Rowntree",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Modern Life through 13; Coxon guitar central.",
+        "zh": "Modern Life 至 13；Coxon 吉他核心。"
+      }
+    },
+    {
+      "id": "think-tank",
+      "label": {
+        "en": "Think Tank (Coxon-less)",
+        "zh": "Think Tank（无 Coxon）"
+      },
+      "years": "2002–2003",
+      "members": [
+        {
+          "name": "Damon Albarn",
+          "role": "Vocals, Keys",
+          "personSlug": "damon-albarn"
+        },
+        {
+          "name": "Alex James",
+          "role": "Bass"
+        },
+        {
+          "name": "Dave Rowntree",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Coxon exits; electronic/art-rock lean on Think Tank.",
+        "zh": "Coxon 离队；Think Tank 偏电子/art-rock。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Parklife",
+      "year": 1994,
+      "note": {
+        "en": "Observational English pop as Britpop radio face.",
+        "zh": "观察式英式流行作为 Britpop 电台面孔。"
+      }
+    },
+    "pioneeredGenres": [
+      "britpop",
+      "indie-rock"
+    ],
+    "note": {
+      "en": "Satire singles and later art-rock fork against stadium Britpop.",
+      "zh": "讽刺单曲与后期 art-rock 分叉，对上体育场 Britpop。"
+    }
   }
 }

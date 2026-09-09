@@ -1,0 +1,26 @@
+{
+  "name": "Angus Young",
+  "slug": "angus-young",
+  "born": 1955,
+  "origin": "Glasgow, Scotland / Sydney, Australia",
+  "roles": ["Guitar", "Songwriting"],
+  "hub": false,
+  "shortBio": {
+    "en": "AC/DC lead guitarist; school-uniform stage image and pentatonic leads over Malcolm’s grind.",
+    "zh": "AC/DC 主音吉他；校服舞台形象与 Malcolm 碾磨上的五声音阶主音。"
+  },
+  "body": {
+    "en": "Born 1955. Co-founder with Malcolm. Lead figures stay inside blues-rock boxes at high gain; the brand is attack and showmanship more than modal complexity.\n\nConstant across Bon and Johnson eras.",
+    "zh": "1955 年生。与 Malcolm 联合创始。主音音型留在高增益蓝调摇滚框内；品牌是攻击性与表演，多于调式复杂度。\n\n跨 Bon 与 Johnson 时期的常量。"
+  },
+  "tenures": [
+    {
+      "bandName": "AC/DC",
+      "bandSlug": "ac-dc",
+      "role": "Guitar",
+      "from": 1973,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": ["malcolm-young", "bon-scott", "brian-johnson"]
+}

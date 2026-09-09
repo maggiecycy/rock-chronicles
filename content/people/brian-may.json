@@ -1,0 +1,34 @@
+{
+  "name": "Brian May",
+  "slug": "brian-may",
+  "born": 1947,
+  "origin": "Hampton, London, UK",
+  "roles": [
+    "Guitar",
+    "Vocals",
+    "Songwriting"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Queen guitarist; Red Special + AC30 layered harmony leads define the band’s guitar choir.",
+    "zh": "Queen 吉他手；Red Special + AC30 多层和声主音定义乐队的吉他合唱。"
+  },
+  "body": {
+    "en": "Born 1947. Co-founder of Queen. Homemade Red Special guitar and Vox AC30 stacks produce the wide stereo harmony leads on mid-70s albums. Continues with Roger Taylor on later touring lineups after Mercury.\n\nConstant: tone architecture and harmony arranging more than shred speed.",
+    "zh": "1947 年生。Queen 联合创始人。自制 Red Special 与 Vox AC30 堆栈做出 70 年代中期专辑的宽立体声和声主音。Mercury 之后与 Roger Taylor 继续后期巡演阵容。\n\n常量：音色建筑与和声编排，多于速弹。"
+  },
+  "tenures": [
+    {
+      "bandName": "Queen",
+      "bandSlug": "queen",
+      "role": "Guitar",
+      "from": 1970,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "freddie-mercury",
+    "roger-taylor",
+    "john-deacon"
+  ]
+}
