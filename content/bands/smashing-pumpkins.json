@@ -1,35 +1,286 @@
 {
-  "name": "The Smashing Pumpkins",
+  "name": "Smashing Pumpkins",
   "slug": "smashing-pumpkins",
   "formed": 1988,
   "origin": "Chicago, USA",
   "primaryEra": "1990s-grunge-alt",
   "genres": [
     "alternative",
-    "indie-rock"
+    "indie-rock",
+    "shoegaze"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Chicago alternative band; Siamese Dream (1993) and Mellon Collie (1995) stacked wall-of-guitar production with dream-pop and metal dynamics.",
-    "zh": "芝加哥 alternative；Siamese Dream（1993）与 Mellon Collie（1995）把墙式吉他制作叠上 dream-pop 与金属动态。"
+    "en": "Chicago alternative band; Siamese Dream (1993) and Mellon Collie (1995) stacked wall-of-guitar production into mid-90s alt-radio dominance.",
+    "zh": "芝加哥 alternative 乐队；Siamese Dream（1993）与 Mellon Collie（1995）把吉他墙制作堆成 90 年代中期 alt 电台统治。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Billy Corgan",
+      "role": "Vocals, Guitar",
+      "years": "1988–present",
+      "personSlug": "billy-corgan"
+    },
+    {
+      "name": "James Iha",
+      "role": "Guitar",
+      "years": "1988–2000; 2018–present"
+    },
+    {
+      "name": "D'arcy Wretzky",
+      "role": "Bass",
+      "years": "1988–1999"
+    },
+    {
+      "name": "Jimmy Chamberlin",
+      "role": "Drums",
+      "years": "1988–1996; 1999–2009; 2015–present",
+      "personSlug": "jimmy-chamberlin"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "1979",
-      "year": 1996
+      "year": 1995
+    },
+    {
+      "title": "Today",
+      "year": 1993
+    },
+    {
+      "title": "Cherub Rock",
+      "year": 1993
+    },
+    {
+      "title": "Bullet with Butterfly Wings",
+      "year": 1995
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1993,
+      "track": "Today",
+      "membersOnStage": [
+        "Billy Corgan",
+        "James Iha",
+        "D'arcy Wretzky",
+        "Jimmy Chamberlin"
+      ],
+      "genreTags": [
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Siamese Dream; layered guitars under bright hook.",
+        "zh": "Siamese Dream；明亮钩子下的叠吉他。"
+      }
+    },
+    {
+      "year": 1995,
+      "track": "1979",
+      "membersOnStage": [
+        "Billy Corgan",
+        "James Iha",
+        "D'arcy Wretzky",
+        "Jimmy Chamberlin"
+      ],
+      "genreTags": [
+        "alternative",
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Mellon Collie; drum-loop sheen + nostalgia lyric.",
+        "zh": "Mellon Collie；鼓循环光泽 + 怀旧歌词。"
+      }
+    },
+    {
+      "year": 1995,
+      "track": "Bullet with Butterfly Wings",
+      "membersOnStage": [
+        "Billy Corgan",
+        "James Iha",
+        "D'arcy Wretzky",
+        "Jimmy Chamberlin"
+      ],
+      "genreTags": [
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Distortion chorus rant; Mellon Collie rock face.",
+        "zh": "失真副歌怒吼；Mellon Collie 摇滚脸。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I multi-tracked until the guitars were a wall.",
+      "speaker": "Billy Corgan",
+      "source": "Studio interview excerpt",
+      "year": 1993
+    }
+  ],
+  "lyricQuotes": [
+    "Despite all my rage I am still just a rat in a cage",
+    "Shakedown 1979 / Cool kids never have the time"
+  ],
+  "relatedBands": [
+    "my-bloody-valentine",
+    "nirvana",
+    "pixies",
+    "nine-inch-nails",
+    "radiohead"
+  ],
+  "influenceFrom": [
+    "my-bloody-valentine",
+    "pixies",
+    "queen"
+  ],
+  "influenced": [
+    "muse",
+    "the-killers"
+  ],
   "shortBio": {
-    "en": "Billy Corgan–led alt-rock; 1979 is the mid-90s melodic single.",
-    "zh": "Billy Corgan 领衔的 alt-rock；1979 是 90 年代中期旋律单曲。"
+    "en": "Corgan wall-of-guitar alt; Siamese Dream / Mellon Collie peak.",
+    "zh": "Corgan 吉他墙 alt；Siamese Dream / Mellon Collie 峰值。"
   },
   "body": {
-    "en": "Formed 1988. Gish and Siamese Dream (Butch Vig) established Corgan’s layered guitars, Chamberlin/Wretzky rhythm section, and loud-quiet pivots; Mellon Collie expanded to double-album scope.\n\n1979 (1996) shows the electronic-tinged, mid-tempo side. They occupy 1990s alt radio beside Nirvana/Pearl Jam with more prog ambition and studio maximalism.",
-    "zh": "1988 年组建。Gish 与 Siamese Dream（Butch Vig）确立 Corgan 多层吉他、Chamberlin/Wretzky 节奏组与强弱转折；Mellon Collie 扩到双专体量。\n\n1979（1996）展示偏电子的中速面。与 Nirvana/Pearl Jam 同在 1990 年代 alt 电台，prog 野心与录音室最大化更强。"
+    "en": "Formed 1988. Butch Vig on Siamese Dream stacks endless guitars. Mellon Collie (1995) is double-album ambition + 1979 radio soft cut. Lineup fractures late 90s; Corgan keeps logo.\n\nProduction density is the brand beside quieter Pixies dynamics.",
+    "zh": "1988 年组建。Butch Vig 在 Siamese Dream 上叠无尽吉他。Mellon Collie（1995）是双专野心 + 1979 电台软曲。90 年代末阵容碎裂；Corgan 保住 logo。\n\n制作密度是品牌，对照更安静的 Pixies 动态。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Wall-of-guitar alternative maximalism",
+        "zh": "吉他墙 alternative 最大化"
+      },
+      "body": {
+        "en": "Corgan multi-tracks guitars into shoegaze-adjacent density without abandoning verse-chorus radio. Siamese Dream is the studio peak; Mellon Collie expands length and soft singles.\n\nChicago alt that competed with Seattle volume via production, not only grit.",
+        "zh": "Corgan 把吉他多轨叠到与 shoegaze 相邻的密度，不丢主副歌电台。Siamese Dream 是录音峰值；Mellon Collie 扩展篇幅与软单曲。\n\n用制作而非只靠砂砾与西雅图音量竞争的芝加哥 alt。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Classic four as peak",
+        "zh": "经典四人即巅峰"
+      },
+      "body": {
+        "en": "Corgan / Iha / D'arcy / Chamberlin is the silhouette for Siamese–Mellon. Chamberlin exits/returns; later casts rotate heavily.\n\nPeak flag on mid-90s four.",
+        "zh": "Corgan / Iha / D'arcy / Chamberlin 是 Siamese–Mellon 剪影。Chamberlin 离队/回归；后来卡司大量轮换。\n\n巅峰旗在 90 年代中四人。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Corgan control, Iha color, jazz kit",
+        "zh": "Corgan 控制、Iha 色彩、爵士感鼓"
+      },
+      "body": {
+        "en": "Corgan: songwriting + most tracked guitars. Iha: complementary lines. D'arcy: bass/image. Chamberlin: fusion-leaning power kit.\n\nStudio hierarchy is Corgan-led; live still four.",
+        "zh": "Corgan：写作 + 多数叠轨吉他。Iha：互补声部。D'arcy：贝斯/形象。Chamberlin：偏融合的强力鼓。\n\n录音室层级由 Corgan 主导；现场仍是四人。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "today",
+      "title": {
+        "en": "Today: bright wall single",
+        "zh": "Today：明亮墙单曲"
+      },
+      "body": {
+        "en": "Siamese Dream. Major-key hook over saturated guitars. Irony lyric under candy tone.\n\nMass entry before Mellon Collie scale.",
+        "zh": "Siamese Dream。饱和吉他上的大调钩子。糖果音色下的反讽歌词。\n\nMellon Collie 体量前的大众入口。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "nineteen-seventy-nine",
+      "title": {
+        "en": "1979: soft maximalism",
+        "zh": "1979：软最大化"
+      },
+      "body": {
+        "en": "Drum loop, clean arpeggios, nostalgia. Proves Pumpkins radio range beyond rage singles.\n\nMellon Collie soft face.",
+        "zh": "鼓循环、干净分解、怀旧。证明 Pumpkins 电台范围超出怒吼单曲。\n\nMellon Collie 软脸。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "90s alt production citation",
+        "zh": "90 年代 alt 制作引用"
+      },
+      "body": {
+        "en": "Muse and later arena alt cite Corgan stacking. Sits beside MBV for density, beside Pixies for hooks, beside NIN for 90s ambition scale.\n\nChicago maximalism on alt radio.",
+        "zh": "Muse 与后来体育场 alt 引用 Corgan 叠轨。密度旁是 MBV，钩子旁是 Pixies，90 年代野心尺度旁是 NIN。\n\nAlt 电台上的芝加哥最大化。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "classic-four",
+      "label": {
+        "en": "Siamese / Mellon classic four",
+        "zh": "Siamese / Mellon 经典四人"
+      },
+      "years": "1988–1996",
+      "peak": true,
+      "members": [
+        {
+          "name": "Billy Corgan",
+          "role": "Vocals, Guitar",
+          "personSlug": "billy-corgan"
+        },
+        {
+          "name": "James Iha",
+          "role": "Guitar"
+        },
+        {
+          "name": "D'arcy Wretzky",
+          "role": "Bass"
+        },
+        {
+          "name": "Jimmy Chamberlin",
+          "role": "Drums",
+          "personSlug": "jimmy-chamberlin"
+        }
+      ],
+      "note": {
+        "en": "Siamese Dream and Mellon Collie peak.",
+        "zh": "Siamese Dream 与 Mellon Collie 巅峰。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Today",
+      "year": 1993,
+      "note": {
+        "en": "Wall-of-guitar single that fixed Siamese Dream radio ID.",
+        "zh": "固定 Siamese Dream 电台 ID 的吉他墙单曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative"
+    ],
+    "note": {
+      "en": "Multi-track guitar maximalism as mid-90s alt brand.",
+      "zh": "多轨吉他最大化作为 90 年代中期 alt 品牌。"
+    }
   }
 }

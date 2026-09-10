@@ -1,0 +1,25 @@
+{
+  "name": "Sammy Hagar",
+  "slug": "sammy-hagar",
+  "born": 1947,
+  "origin": "Monterey, California, USA",
+  "roles": ["Vocals", "Guitar"],
+  "hub": true,
+  "shortBio": {
+    "en": "Van Halen vocalist from 1985; 5150-era keyed choruses and stadium radio.",
+    "zh": "1985 年起 Van Halen 主唱；5150 时期有调性副歌与体育馆电台。"
+  },
+  "whyHub": {
+    "en": "Replacement singer with equal chart proof—Roth/Hagar camps never demobilize.",
+    "zh": "有同等榜单证明的替换主唱——Roth/Hagar 两营永不复员。"
+  },
+  "body": {
+    "en": "Ex-Montrose. Joins after Roth; brings longer notes and harmony-friendly choruses. Multiple exits/returns. Rival lore with Roth is the public product as much as the records.",
+    "zh": "前 Montrose。Roth 之后加入；带来更长音与适合和声的副歌。多次离开/回归。与 Roth 的对打传说与唱片同为公共产品。"
+  },
+  "tenures": [
+    { "bandName": "Van Halen", "bandSlug": "van-halen", "role": "Vocals", "from": 1985, "to": 1996 },
+    { "bandName": "Van Halen", "bandSlug": "van-halen", "role": "Vocals", "from": 2003, "to": 2005 }
+  ],
+  "relatedPeople": ["eddie-van-halen", "david-lee-roth", "alex-van-halen"]
+}

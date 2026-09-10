@@ -1,0 +1,39 @@
+{
+  "name": "Black Francis",
+  "slug": "black-francis",
+  "born": 1965,
+  "origin": "Boston, Massachusetts, USA",
+  "roles": [
+    "Vocals",
+    "Guitar",
+    "Songwriting"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Pixies frontman (Charles Thompson); scream-quiet dynamics and surreal lyric.",
+    "zh": "Pixies 主唱（Charles Thompson）；尖叫-安静动态与超现实歌词。"
+  },
+  "body": {
+    "en": "Born 1965. Writes Surfer Rosa/Doolittle quiet-loud forms. Screamo bark vs clean verse. Solo as Frank Black after 1993 split; reunions later.\n\nSong form is the export Nirvana cites.",
+    "zh": "1965 年生。写 Surfer Rosa/Doolittle 强弱曲式。嘶吼吠叫对干净主歌。1993 解散后以 Frank Black 独唱；后重聚。\n\n曲式是 Nirvana 引用的输出。"
+  },
+  "tenures": [
+    {
+      "bandName": "Pixies",
+      "bandSlug": "pixies",
+      "role": "Vocals, Guitar",
+      "from": 1986,
+      "to": 1993
+    },
+    {
+      "bandName": "Pixies",
+      "bandSlug": "pixies",
+      "role": "Vocals, Guitar",
+      "from": 2004,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "kim-deal"
+  ]
+}

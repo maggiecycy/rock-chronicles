@@ -1,0 +1,20 @@
+{
+  "name": "Michael Anthony",
+  "slug": "michael-anthony",
+  "born": 1954,
+  "origin": "Chicago, USA",
+  "roles": ["Bass", "Vocals"],
+  "hub": false,
+  "shortBio": {
+    "en": "Van Halen bassist; high harmony blend in the classic chorus stack.",
+    "zh": "Van Halen 贝斯手；经典副歌叠轨里的高声部和声融合。"
+  },
+  "body": {
+    "en": "Bass and background vocals through Roth and Hagar peaks. Later replaced on some lineups; harmony contribution is part of the classic mix identity.",
+    "zh": "贯穿 Roth 与 Hagar 巅峰的贝斯与和声。后来部分阵容被替换；和声贡献是经典混音身份的一部分。"
+  },
+  "tenures": [
+    { "bandName": "Van Halen", "bandSlug": "van-halen", "role": "Bass", "from": 1974, "to": 2006 }
+  ],
+  "relatedPeople": ["eddie-van-halen", "david-lee-roth", "sammy-hagar"]
+}

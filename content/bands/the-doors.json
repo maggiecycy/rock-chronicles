@@ -4,32 +4,285 @@
   "formed": 1965,
   "origin": "Los Angeles, USA",
   "primaryEra": "1960s-british-invasion",
+  "alsoAppearsIn": [
+    "1970s-prog-hard-rock"
+  ],
   "genres": [
     "psychedelic",
     "blues"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "LA four-piece without a bass player onstage; The Doors (1967) put organ-led blues-psych and Morrison’s baritone on AM radio.",
-    "zh": "洛杉矶四人组、舞台无贝斯手；同名首专（1967）把管风琴导向的蓝调迷幻与 Morrison 男中音送上 AM 电台。"
+    "en": "LA four-piece without a bass player onstage; The Doors (1967) put organ-led blues-psych and Morrison’s baritone on AM/FM simultaneously.",
+    "zh": "洛杉矶四人组，台上无贝斯手；同名首专（1967）把风琴主导的蓝调迷幻与 Morrison 男中音同时送上 AM/FM。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Jim Morrison",
+      "role": "Vocals",
+      "years": "1965–1971",
+      "personSlug": "jim-morrison"
+    },
+    {
+      "name": "Ray Manzarek",
+      "role": "Keyboards, Bass Pedals",
+      "years": "1965–1973",
+      "personSlug": "ray-manzarek"
+    },
+    {
+      "name": "Robby Krieger",
+      "role": "Guitar",
+      "years": "1965–1973"
+    },
+    {
+      "name": "John Densmore",
+      "role": "Drums",
+      "years": "1965–1973"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Light My Fire",
       "year": 1967
+    },
+    {
+      "title": "Break On Through (To the Other Side)",
+      "year": 1967
+    },
+    {
+      "title": "Riders on the Storm",
+      "year": 1971
+    },
+    {
+      "title": "L.A. Woman",
+      "year": 1971
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1967,
+      "track": "Light My Fire",
+      "membersOnStage": [
+        "Jim Morrison",
+        "Ray Manzarek",
+        "Robby Krieger",
+        "John Densmore"
+      ],
+      "genreTags": [
+        "psychedelic",
+        "blues"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Organ + flamenco-leaning solo; AM edit vs album length.",
+        "zh": "风琴 + 偏弗拉门戈独奏；AM 剪辑 vs 专辑时长。"
+      }
+    },
+    {
+      "year": 1967,
+      "track": "Break On Through (To the Other Side)",
+      "membersOnStage": [
+        "Jim Morrison",
+        "Ray Manzarek",
+        "Robby Krieger",
+        "John Densmore"
+      ],
+      "genreTags": [
+        "psychedelic"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Debut opener; jazz-leaning kit under baritone.",
+        "zh": "首专开场；男中音下偏爵士鼓。"
+      }
+    },
+    {
+      "year": 1971,
+      "track": "Riders on the Storm",
+      "membersOnStage": [
+        "Jim Morrison",
+        "Ray Manzarek",
+        "Robby Krieger",
+        "John Densmore"
+      ],
+      "genreTags": [
+        "blues",
+        "psychedelic"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Fender Rhodes rain FX; late-era cool blues.",
+        "zh": "Fender Rhodes 雨声效果；晚期冷蓝调。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Expose yourself to your deepest fear; after that, fear has no power.",
+      "speaker": "Jim Morrison",
+      "source": "Press/poetry interview excerpt",
+      "year": 1969
+    }
+  ],
+  "lyricQuotes": [
+    "You know that it would be untrue / You know that I would be a liar",
+    "Riders on the storm"
+  ],
+  "relatedBands": [
+    "the-rolling-stones",
+    "the-velvet-underground",
+    "pink-floyd",
+    "the-jimi-hendrix-experience"
+  ],
+  "influenceFrom": [
+    "the-rolling-stones",
+    "elvis-presley"
+  ],
+  "influenced": [
+    "the-cure",
+    "joy-division"
+  ],
   "shortBio": {
-    "en": "Morrison / Manzarek psych-rock; Light My Fire is the breakthrough edit.",
-    "zh": "Morrison / Manzarek 的迷幻摇滚；Light My Fire 是突破剪辑版。"
+    "en": "Morrison–Manzarek organ blues-psych; no bassist onstage; Light My Fire is the hit.",
+    "zh": "Morrison–Manzarek 风琴蓝调迷幻；台上无贝斯；Light My Fire 是热单。"
   },
   "body": {
-    "en": "Formed 1965. Debut album and Strange Days feature Ray Manzarek’s keyboard bass + organ, Robbie Krieger’s jazz-folk guitar, John Densmore’s jazz-inflected drums.\n\nLight My Fire (1967) is the mass single (radio edit vs album length). They sit in US psychedelia with blues structure and spoken-word passages rather than San Francisco jam culture.",
-    "zh": "1965 年组建。首专与 Strange Days 以 Ray Manzarek 的键盘贝斯+管风琴、Robbie Krieger 的爵士民谣吉他、John Densmore 偏爵士鼓组为骨架。\n\nLight My Fire（1967）是大众单曲（电台剪辑 vs 专辑时长）。位于美国迷幻版图，偏蓝调结构与口语段落，而非旧金山长即兴文化。"
+    "en": "Formed 1965. Debut 1967: Manzarek left-hand bass, Krieger bottleneck/flamenco figures, Densmore jazz touch, Morrison baritone. Morrison dies 1971; band limps then stops.\n\nArchitecture oddity is the ID: organ as bass + psychedelic blues song forms.",
+    "zh": "1965 年组建。1967 首专：Manzarek 左手贝斯、Krieger 滑棒/弗拉门戈音型、Densmore 爵士触感、Morrison 男中音。Morrison 1971 去世；乐队短暂延续后停。\n\n架构异数即 ID：风琴当贝斯 + 迷幻蓝调曲式。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Organ as bass, poetry as front",
+        "zh": "风琴当贝斯，诗当前站"
+      },
+      "body": {
+        "en": "No bassist: Manzarek Fender Rhodes/Vox Continental covers low end. Krieger writes several hits. Morrison sells baritone and spoken breaks.\n\nLA psych that stayed blues-rooted, not San Francisco jam-only.",
+        "zh": "无贝斯手：Manzarek 的 Fender Rhodes/Vox Continental 补低频。Krieger 写多首热单。Morrison 卖男中音与说白。\n\n仍扎根蓝调的洛杉矶迷幻，不是旧金山纯即兴。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "psychedelic"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Classic four until Morrison death",
+        "zh": "经典四人至 Morrison 去世"
+      },
+      "body": {
+        "en": "Only peak silhouette: Morrison / Manzarek / Krieger / Densmore. Post-1971 albums without Morrison are footnote.\n\nPeak flag: 1967–71 studio four.",
+        "zh": "唯一巅峰剪影：Morrison / Manzarek / Krieger / Densmore。1971 后无 Morrison 专辑是脚注。\n\n巅峰旗：1967–71 录音四人。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "psychedelic"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Baritone, organ bass, bottleneck, jazz kit",
+        "zh": "男中音、风琴贝斯、滑棒、爵士鼓"
+      },
+      "body": {
+        "en": "Morrison: leather, notebooks. Manzarek: two-hand split. Krieger: fingerstyle/slide. Densmore: brushes and latin accents.\n\nFour specialists; arrangement leaves space for organ solos.",
+        "zh": "Morrison：皮衣、笔记本。Manzarek：双手分工。Krieger：指弹/滑音。Densmore：刷片与拉丁点缀。\n\n四名专家；编曲给风琴独奏留空。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "blues"
+    },
+    {
+      "id": "light-my-fire",
+      "title": {
+        "en": "Light My Fire: AM vs album",
+        "zh": "Light My Fire：AM vs 专辑"
+      },
+      "body": {
+        "en": "Krieger composition. Extended organ/guitar solos on LP; radio edit cuts middle. Both versions teach the band’s dynamic range.\n\n1967 crossover hit.",
+        "zh": "Krieger 作曲。LP 上长风琴/吉他独奏；电台剪辑砍中段。两版都教乐队动态范围。\n\n1967 跨界热单。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "psychedelic"
+    },
+    {
+      "id": "riders",
+      "title": {
+        "en": "Riders: late cool blues",
+        "zh": "Riders：晚期冷蓝调"
+      },
+      "body": {
+        "en": "L.A. Woman sessions. Electric piano, rain FX, whispered vocal. Less carnival, more noir blues.\n\nClosing-era citation before Morrison’s death.",
+        "zh": "L.A. Woman 录音。电钢琴、雨声、低语人声。少马戏团，多黑色电影蓝调。\n\nMorrison 去世前的收官引用。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "blues"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Organ-psych cited by later dark rock",
+        "zh": "后来黑暗摇滚引用的风琴迷幻"
+      },
+      "body": {
+        "en": "Post-punk and goth acts borrow Morrison’s baritone drama; keys-as-bass remains a rare architecture lesson.\n\nShort peak, dense radio afterlife.",
+        "zh": "后朋克与哥特借用 Morrison 男中音戏剧；键盘当贝斯仍是稀有架构课。\n\n巅峰短，电台余生密。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "psychedelic"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "classic-four",
+      "label": {
+        "en": "Classic four",
+        "zh": "经典四人"
+      },
+      "years": "1965–1971",
+      "peak": true,
+      "members": [
+        {
+          "name": "Jim Morrison",
+          "role": "Vocals",
+          "personSlug": "jim-morrison"
+        },
+        {
+          "name": "Ray Manzarek",
+          "role": "Keyboards",
+          "personSlug": "ray-manzarek"
+        },
+        {
+          "name": "Robby Krieger",
+          "role": "Guitar"
+        },
+        {
+          "name": "John Densmore",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Morrison-era studio and live peak.",
+        "zh": "Morrison 时期录音与现场峰值。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Light My Fire",
+      "year": 1967,
+      "note": {
+        "en": "Organ-psych hit that put Doors on AM radio.",
+        "zh": "把 Doors 送上 AM 电台的风琴迷幻热单。"
+      }
+    },
+    "pioneeredGenres": [
+      "psychedelic",
+      "blues"
+    ],
+    "note": {
+      "en": "Bass-less organ architecture + baritone psych-blues.",
+      "zh": "无贝斯风琴架构 + 男中音迷幻蓝调。"
+    }
   }
 }

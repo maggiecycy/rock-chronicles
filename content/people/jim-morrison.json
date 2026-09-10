@@ -1,0 +1,29 @@
+{
+  "name": "Jim Morrison",
+  "slug": "jim-morrison",
+  "born": 1943,
+  "origin": "Melbourne, Florida, USA",
+  "roles": [
+    "Vocals",
+    "Lyrics"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "The Doors vocalist; baritone croon and spoken sections over Manzarek organ.",
+    "zh": "The Doors 主唱；在 Manzarek 风琴上的男中音 croon 与说白段落。"
+  },
+  "body": {
+    "en": "Born 1943. Fronts The Doors 1965–71. Leather pants, poetry notebooks, blues-psych delivery. Dies 1971 in Paris.\n\nSeat is voice+lyric; band has no bassist onstage—organ covers low end.",
+    "zh": "1943 年生。1965–71 主唱 The Doors。皮裤、诗本、蓝调迷幻咬字。1971 于巴黎去世。\n\n席位是人声+词；乐队台上无贝斯——风琴补低频。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Doors",
+      "bandSlug": "the-doors",
+      "role": "Vocals",
+      "from": 1965,
+      "to": 1971
+    }
+  ],
+  "relatedPeople": []
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Morrissey",
+  "slug": "morrissey",
+  "born": 1959,
+  "origin": "Manchester, UK",
+  "roles": [
+    "Vocals",
+    "Lyrics"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "The Smiths vocalist; literary first-person lyric over Marr’s jangle.",
+    "zh": "The Smiths 主唱；在 Marr 的 jangle 上写文学第一人称歌词。"
+  },
+  "body": {
+    "en": "Born 1959. Fronts The Smiths 1982–87. Quiff, hearing-aid, and celibacy-era press image. Solo from Viva Hate onward.\n\nDivision of labor: words and persona; Marr owns the guitar architecture.",
+    "zh": "1959 年生。1982–87 主唱 The Smiths。飞机头、助听器与禁欲时期媒体形象。自 Viva Hate 起独唱。\n\n分工：词与人设；Marr 拥有吉他架构。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Smiths",
+      "bandSlug": "the-smiths",
+      "role": "Vocals",
+      "from": 1982,
+      "to": 1987
+    }
+  ],
+  "relatedPeople": [
+    "johnny-marr"
+  ]
+}

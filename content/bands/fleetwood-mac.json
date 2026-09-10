@@ -4,32 +4,330 @@
   "formed": 1967,
   "origin": "London, UK",
   "primaryEra": "1970s-prog-hard-rock",
+  "alsoAppearsIn": [
+    "1980s-metal"
+  ],
   "genres": [
-    "rock-n-roll",
-    "alternative"
+    "blues",
+    "rock-n-roll"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "British-American band whose 1975–77 Buckingham–Nicks lineup turned soft-rock harmony and studio polish into Rumours-scale pop architecture.",
-    "zh": "英美乐队：1975–77 Buckingham–Nicks 阵容把软摇滚和声与录音室抛光做成 Rumours 级流行结构。"
+    "en": "British-American band whose 1975–77 Buckingham–Nicks lineup turned soft-rock harmony and studio polish into Rumours-scale pop-rock dominance.",
+    "zh": "英美乐队：1975–77 Buckingham–Nicks 阵容把软摇滚和声与录音室抛光做成 Rumours 级流行摇滚统治。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Lindsey Buckingham",
+      "role": "Guitar, Vocals",
+      "years": "1975–1987; 1997–2018",
+      "personSlug": "lindsey-buckingham"
+    },
+    {
+      "name": "Stevie Nicks",
+      "role": "Vocals",
+      "years": "1975–present",
+      "personSlug": "stevie-nicks"
+    },
+    {
+      "name": "Christine McVie",
+      "role": "Keyboards, Vocals",
+      "years": "1970–1998; 2014–2022"
+    },
+    {
+      "name": "John McVie",
+      "role": "Bass",
+      "years": "1967–present"
+    },
+    {
+      "name": "Mick Fleetwood",
+      "role": "Drums",
+      "years": "1967–present"
+    },
+    {
+      "name": "Peter Green",
+      "role": "Guitar, Vocals",
+      "years": "1967–1970"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Go Your Own Way",
       "year": 1977
+    },
+    {
+      "title": "Dreams",
+      "year": 1977
+    },
+    {
+      "title": "The Chain",
+      "year": 1977
+    },
+    {
+      "title": "Rhiannon",
+      "year": 1975
+    },
+    {
+      "title": "Oh Well",
+      "year": 1969
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1977,
+      "track": "Go Your Own Way",
+      "membersOnStage": [
+        "Lindsey Buckingham",
+        "Stevie Nicks",
+        "Christine McVie",
+        "John McVie",
+        "Mick Fleetwood"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Rumours opener energy; fingerstyle + stacked choruses.",
+        "zh": "Rumours 开场能量；指弹 + 叠副歌。"
+      }
+    },
+    {
+      "year": 1977,
+      "track": "Dreams",
+      "membersOnStage": [
+        "Lindsey Buckingham",
+        "Stevie Nicks",
+        "Christine McVie",
+        "John McVie",
+        "Mick Fleetwood"
+      ],
+      "genreTags": [
+        "rock-n-roll",
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Nicks vocal over sparse groove; US No.1.",
+        "zh": "Nicks 人声盖稀疏律动；美国冠军。"
+      }
+    },
+    {
+      "year": 1969,
+      "track": "Oh Well",
+      "membersOnStage": [
+        "Peter Green",
+        "John McVie",
+        "Mick Fleetwood"
+      ],
+      "genreTags": [
+        "blues",
+        "rock-n-roll"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Peter Green blues-rock era before pop polish.",
+        "zh": "流行抛光前的 Peter Green 蓝调摇滚期。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We made Rumours while breaking up with each other.",
+      "speaker": "Lindsey Buckingham",
+      "source": "Press interview excerpt",
+      "year": 1977
+    }
+  ],
+  "lyricQuotes": [
+    "If I could / Baby I'd give you my world",
+    "Thunder only happens when it's raining"
+  ],
+  "relatedBands": [
+    "the-beatles",
+    "the-rolling-stones",
+    "the-beach-boys",
+    "cream"
+  ],
+  "influenceFrom": [
+    "cream",
+    "the-beatles",
+    "chuck-berry"
+  ],
+  "influenced": [
+    "the-killers",
+    "coldplay"
+  ],
   "shortBio": {
-    "en": "Lineup-drama soft rock; Go Your Own Way and Rumours define late-70s radio craft.",
-    "zh": "阵容戏剧化的软摇滚；Go Your Own Way 与 Rumours 定义 70 年代末电台工艺。"
+    "en": "Buckingham–Nicks Rumours peak; Green-era blues origin; Go Your Own Way is the hit.",
+    "zh": "Buckingham–Nicks 的 Rumours 峰值；Green 时期蓝调起源；Go Your Own Way 是热单。"
   },
   "body": {
-    "en": "Started 1967 as a UK blues band (Peter Green era). The chronicle hinge is the California pop era: Fleetwood Mac (1975) and Rumours (1977) with Lindsey Buckingham, Stevie Nicks, Christine McVie, John McVie, Mick Fleetwood.\n\nGo Your Own Way (1977) shows the production—layered acoustics, precise drums, stacked vocals. Interpersonal conflict is documented; the musical object is arrangement density and radio longevity.",
-    "zh": "1967 年起家为英国蓝调乐队（Peter Green 时期）。编年铰链是加州流行时期：Fleetwood Mac（1975）与 Rumours（1977），阵容含 Lindsey Buckingham、Stevie Nicks、Christine McVie、John McVie、Mick Fleetwood。\n\nGo Your Own Way（1977）展示制作——多层原声、精确鼓组、堆叠人声。人际冲突有文献；音乐对象是编曲密度与电台寿命。"
+    "en": "Formed 1967 as Peter Green blues band. 1975 Buckingham–Nicks join; Fleetwood Mac (1975) and Rumours (1977) define California soft-rock harmony with UK rhythm section.\n\nLineup versions matter: blues Mac vs Rumours Mac. Peak flag on Buckingham–Nicks five.",
+    "zh": "1967 作为 Peter Green 蓝调乐队组建。1975 Buckingham–Nicks 加入；同名专（1975）与 Rumours（1977）用英国节奏组定义加州软摇滚和声。\n\n阵容版本重要：蓝调 Mac vs Rumours Mac。巅峰旗在 Buckingham–Nicks 五人。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Studio harmony as pop-rock machine",
+        "zh": "录音室和声当流行摇滚机器"
+      },
+      "body": {
+        "en": "Rumours sells stacked vocals, Buckingham fingerstyle attack, and radio-length songs. Drama is biographical; sound is meticulous multi-track craft.\n\nSoft-rock that still hits like hard arrangement.",
+        "zh": "Rumours 卖叠人声、Buckingham 指弹攻击与电台长度歌。戏剧是传记性的；声音是精密多轨工艺。\n\n仍像硬编曲那样打人的软摇滚。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Green blues vs Buckingham–Nicks peak",
+        "zh": "Green 蓝调 vs Buckingham–Nicks 巅峰"
+      },
+      "body": {
+        "en": "1967–70: Green / McVie / Fleetwood blues-rock. 1975–87: Buckingham / Nicks / Christine / John / Mick is the commercial silhouette.\n\nPeak flag: Rumours five. Blues chapter is origin, not the mass logo.",
+        "zh": "1967–70：Green / McVie / Fleetwood 蓝调摇滚。1975–87：Buckingham / Nicks / Christine / John / Mick 是商业剪影。\n\n巅峰旗：Rumours 五人。蓝调章节是起源，不是大众 logo。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Three singers, fingerstyle, locked rhythm",
+        "zh": "三主唱、指弹、锁死节奏组"
+      },
+      "body": {
+        "en": "Nicks/Christine/Buckingham share leads. Buckingham produces and fingerpicks. John/Mick hold blues pocket under pop sheen.\n\nChemistry is romantic math and mic placement.",
+        "zh": "Nicks/Christine/Buckingham 分主唱。Buckingham 制作并指弹。John/Mick 在流行光泽下守蓝调律动。\n\n化学反应是情感算术与话筒位置。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "go-your-own-way",
+      "title": {
+        "en": "Go Your Own Way: Rumours attack",
+        "zh": "Go Your Own Way：Rumours 攻击"
+      },
+      "body": {
+        "en": "Acoustic-electric drive, Nicks harmony answers, Fleetwood tom hits. Breakup lyric as radio fuel.\n\nBuckingham–Nicks era face single.",
+        "zh": "木电驱动、Nicks 和声应答、Fleetwood 通通鼓。分手歌词当电台燃料。\n\nBuckingham–Nicks 时期门面单曲。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "dreams",
+      "title": {
+        "en": "Dreams: sparse No.1",
+        "zh": "Dreams：稀疏冠军单曲"
+      },
+      "body": {
+        "en": "Minimal groove, Nicks lead, Christine keys pad. Proves Rumours range beyond rockers.\n\nUS chart peak of the lineup.",
+        "zh": "极简律动、Nicks 主唱、Christine 键盘垫。证明 Rumours 不止摇滚曲。\n\n该阵容的美国榜峰值。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Harmony-pop cited across decades",
+        "zh": "跨年代引用的和声流行"
+      },
+      "body": {
+        "en": "Adult-contemporary and indie revival both pull Rumours stacking. Green-era tracks stay blues-club citations.\n\nTwo bands under one name—chronicle keeps both, peaks the five.",
+        "zh": "成人当代与 indie 复兴都抽 Rumours 叠声。Green 时期曲目留在蓝调俱乐部引用。\n\n一名两队——编年史两边都留，巅峰钉在五人。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "rock-n-roll"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "buckingham-nicks",
+      "label": {
+        "en": "Buckingham–Nicks five",
+        "zh": "Buckingham–Nicks 五人"
+      },
+      "years": "1975–1987",
+      "peak": true,
+      "members": [
+        {
+          "name": "Lindsey Buckingham",
+          "role": "Guitar, Vocals",
+          "personSlug": "lindsey-buckingham"
+        },
+        {
+          "name": "Stevie Nicks",
+          "role": "Vocals",
+          "personSlug": "stevie-nicks"
+        },
+        {
+          "name": "Christine McVie",
+          "role": "Keyboards, Vocals"
+        },
+        {
+          "name": "John McVie",
+          "role": "Bass"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Rumours / Tusk commercial peak.",
+        "zh": "Rumours / Tusk 商业峰值。"
+      }
+    },
+    {
+      "id": "peter-green",
+      "label": {
+        "en": "Peter Green blues era",
+        "zh": "Peter Green 蓝调期"
+      },
+      "years": "1967–1970",
+      "members": [
+        {
+          "name": "Peter Green",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "John McVie",
+          "role": "Bass"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "British blues-rock origin.",
+        "zh": "英国蓝调摇滚起源。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Go Your Own Way",
+      "year": 1977,
+      "note": {
+        "en": "Rumours single that fixed Buckingham–Nicks radio ID.",
+        "zh": "固定 Buckingham–Nicks 电台 ID 的 Rumours 单曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "rock-n-roll"
+    ],
+    "note": {
+      "en": "Blues origin to Rumours harmony machine under one logo.",
+      "zh": "同一 logo 下：蓝调起源到 Rumours 和声机器。"
+    }
   }
 }

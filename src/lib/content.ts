@@ -63,23 +63,40 @@ const dbTrope = memoByKeyAsync(getTropeFromDb);
 const dbAllLives = memoAsync(getAllLivesFromDb);
 const dbLive = memoByKeyAsync(getLiveFromDb);
 
+/** Local/dev: JSON avoids Aiven RTT. Production uses DB when USE_DATABASE=true. Override: CONTENT_SOURCE=json|database */
+function preferLocalJson(): boolean {
+  if (process.env.CONTENT_SOURCE === "json") return true;
+  if (process.env.CONTENT_SOURCE === "database") return false;
+  return process.env.NODE_ENV !== "production";
+}
+
 export async function getAllEras(): Promise<Era[]> {
+  if (preferLocalJson()) return getAllErasFromJson();
   if (useDatabase()) return dbAllEras();
   return getAllErasFromJson();
 }
 
 export async function getEra(slug: string): Promise<Era | undefined> {
+  if (preferLocalJson()) return getEraFromJson(slug);
   if (useDatabase()) return dbEra(slug);
   return getEraFromJson(slug);
 }
 
 export async function getAllBands(): Promise<Band[]> {
-  const bands = useDatabase() ? await dbAllBands() : getAllBandsFromJson();
+  const bands = preferLocalJson()
+    ? getAllBandsFromJson()
+    : useDatabase()
+      ? await dbAllBands()
+      : getAllBandsFromJson();
   return bands.map(withBandImage);
 }
 
 export async function getBand(slug: string): Promise<Band | undefined> {
-  const band = useDatabase() ? await dbBand(slug) : getBandFromJson(slug);
+  const band = preferLocalJson()
+    ? getBandFromJson(slug)
+    : useDatabase()
+      ? await dbBand(slug)
+      : getBandFromJson(slug);
   return band ? withBandImage(band) : undefined;
 }
 
@@ -92,16 +109,19 @@ export async function getBandsByEra(eraSlug: string): Promise<Band[]> {
 }
 
 export async function getAllGenres(): Promise<Genre[]> {
+  if (preferLocalJson()) return getAllGenresFromJson();
   if (useDatabase()) return dbAllGenres();
   return getAllGenresFromJson();
 }
 
 export async function getGenre(slug: string): Promise<Genre | undefined> {
+  if (preferLocalJson()) return getGenreFromJson(slug);
   if (useDatabase()) return dbGenre(slug);
   return getGenreFromJson(slug);
 }
 
 export async function getGenreLinks(): Promise<GenreLink[]> {
+  if (preferLocalJson()) return getGenreLinksFromJson();
   if (useDatabase()) return dbGenreLinks();
   return getGenreLinksFromJson();
 }
@@ -125,12 +145,20 @@ export async function getDecisiveBands(): Promise<Band[]> {
 }
 
 export async function getAllPeople(): Promise<Person[]> {
-  const people = useDatabase() ? await dbAllPeople() : getAllPeopleFromJson();
+  const people = preferLocalJson()
+    ? getAllPeopleFromJson()
+    : useDatabase()
+      ? await dbAllPeople()
+      : getAllPeopleFromJson();
   return people.map(withPersonImage);
 }
 
 export async function getPerson(slug: string): Promise<Person | undefined> {
-  const person = useDatabase() ? await dbPerson(slug) : getPersonFromJson(slug);
+  const person = preferLocalJson()
+    ? getPersonFromJson(slug)
+    : useDatabase()
+      ? await dbPerson(slug)
+      : getPersonFromJson(slug);
   return person ? withPersonImage(person) : undefined;
 }
 
@@ -151,13 +179,8 @@ export async function getPeopleForBand(bandSlug: string): Promise<Person[]> {
   );
 }
 
-/** In local dev, editorial JSON is source of truth (avoids stale DB memo / Aiven blips). */
-function preferEditorialJson(): boolean {
-  return process.env.NODE_ENV !== "production";
-}
-
 export async function getAllGuides(): Promise<GuideArticle[]> {
-  if (preferEditorialJson()) return getAllGuidesFromJson();
+  if (preferLocalJson()) return getAllGuidesFromJson();
   if (useDatabase()) {
     try {
       const rows = await dbAllGuides();
@@ -172,7 +195,7 @@ export async function getAllGuides(): Promise<GuideArticle[]> {
 export async function getGuide(
   slug: string,
 ): Promise<GuideArticle | undefined> {
-  if (preferEditorialJson()) return getGuideFromJson(slug);
+  if (preferLocalJson()) return getGuideFromJson(slug);
   if (useDatabase()) {
     try {
       const row = await dbGuide(slug);
@@ -185,7 +208,7 @@ export async function getGuide(
 }
 
 export async function getAllTropes(): Promise<Trope[]> {
-  if (preferEditorialJson()) return getAllTropesFromJson();
+  if (preferLocalJson()) return getAllTropesFromJson();
   if (useDatabase()) {
     try {
       const tropes = await dbAllTropes();
@@ -204,7 +227,7 @@ export async function getAllTropes(): Promise<Trope[]> {
 }
 
 export async function getTrope(slug: string): Promise<Trope | undefined> {
-  if (preferEditorialJson()) return getTropeFromJson(slug);
+  if (preferLocalJson()) return getTropeFromJson(slug);
   if (useDatabase()) {
     try {
       const row = await dbTrope(slug);
@@ -217,7 +240,7 @@ export async function getTrope(slug: string): Promise<Trope | undefined> {
 }
 
 export async function getAllLives(): Promise<LiveEvent[]> {
-  if (preferEditorialJson()) return getAllLivesFromJson();
+  if (preferLocalJson()) return getAllLivesFromJson();
   if (useDatabase()) {
     try {
       const rows = await dbAllLives();
@@ -230,7 +253,7 @@ export async function getAllLives(): Promise<LiveEvent[]> {
 }
 
 export async function getLive(slug: string): Promise<LiveEvent | undefined> {
-  if (preferEditorialJson()) return getLiveFromJson(slug);
+  if (preferLocalJson()) return getLiveFromJson(slug);
   if (useDatabase()) {
     try {
       const row = await dbLive(slug);

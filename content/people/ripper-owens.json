@@ -1,0 +1,30 @@
+{
+  "name": "Tim \"Ripper\" Owens",
+  "slug": "ripper-owens",
+  "born": 1967,
+  "origin": "Akron, Ohio, USA",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Judas Priest vocalist 1996–2003 (Jugulator / Demolition) between Halford eras.",
+    "zh": "1996–2003 Judas Priest 主唱（Jugulator / Demolition），夹在 Halford 两期之间。"
+  },
+  "body": {
+    "en": "Born 1967. Replaces Halford for two studio albums. High scream adapted to late-90s Priest production.\n\nCatalog footnote beside British Steel / Painkiller peaks.",
+    "zh": "1967 年生。接替 Halford 录两张录音室专。高音嘶吼适配 90 年代末 Priest 制作。\n\n相对 British Steel / Painkiller 峰值是目录脚注。"
+  },
+  "tenures": [
+    {
+      "bandName": "Judas Priest",
+      "bandSlug": "judas-priest",
+      "role": "Vocals",
+      "from": 1996,
+      "to": 2003
+    }
+  ],
+  "relatedPeople": [
+    "rob-halford"
+  ]
+}

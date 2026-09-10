@@ -1,0 +1,41 @@
+{
+  "name": "Rob Halford",
+  "slug": "rob-halford",
+  "born": 1951,
+  "origin": "Birmingham, UK",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Judas Priest vocalist; operatic highs and leather-studs metal frontman image.",
+    "zh": "Judas Priest 主唱；歌剧式高音与皮衣铆钉金属主唱形象。"
+  },
+  "body": {
+    "en": "Born 1951. Joins early 70s. British Steel through Painkiller define metal vocal range + motorcycle stage entry. Leaves 1992; returns 2003.\n\nVoice is the brand constant beside twin guitars.",
+    "zh": "1951 年生。70 年代初加入。British Steel 至 Painkiller 定义金属音域 + 摩托车上场。1992 离队；2003 回归。\n\n人声是双吉他旁的品牌常量。"
+  },
+  "tenures": [
+    {
+      "bandName": "Judas Priest",
+      "bandSlug": "judas-priest",
+      "role": "Vocals",
+      "from": 1973,
+      "to": 1992
+    },
+    {
+      "bandName": "Judas Priest",
+      "bandSlug": "judas-priest",
+      "role": "Vocals",
+      "from": 2003,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "glenn-tipton"
+  ],
+  "whyHub": {
+    "en": "Halford → Ripper Owens → Halford return: singer swap without killing twin-guitar DNA.",
+    "zh": "Halford → Ripper Owens → Halford 回归：换主唱而不杀双吉他 DNA。"
+  }
+}

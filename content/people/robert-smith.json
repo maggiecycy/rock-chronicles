@@ -1,0 +1,24 @@
+{
+  "name": "Robert Smith",
+  "slug": "robert-smith",
+  "born": 1959,
+  "origin": "Blackpool / Crawley, UK",
+  "roles": ["Vocals", "Guitar", "Songwriting"],
+  "hub": true,
+  "shortBio": {
+    "en": "The Cure’s continuous frontman; chorus/delay guitar and goth-pop voice as brand.",
+    "zh": "The Cure 连续主唱；chorus/延时吉他与哥特流行嗓音即品牌。"
+  },
+  "whyHub": {
+    "en": "Logo stays readable because Smith stays—cast rotates around one voice/guitar.",
+    "zh": "卡司围着一把嗓/吉他转，logo 仍可读——因为 Smith 一直在。"
+  },
+  "body": {
+    "en": "Writes and sings across cold post-punk, pop singles, and Disintegration-scale albums. Visual brand (hair/makeup) is part of the public object alongside the pedals.\n\nPerson page is the constant under lineup churn.",
+    "zh": "跨冷后朋、流行单曲与 Disintegration 尺度专辑写作演唱。视觉品牌（发型/妆容）与单块同为公共对象。\n\n人物页是阵容更替下的常量。"
+  },
+  "tenures": [
+    { "bandName": "The Cure", "bandSlug": "the-cure", "role": "Vocals, Guitar", "from": 1978, "to": "present" }
+  ],
+  "relatedPeople": ["simon-gallup"]
+}

@@ -4,6 +4,9 @@
   "formed": 1972,
   "origin": "Pasadena, USA",
   "primaryEra": "1980s-metal",
+  "alsoAppearsIn": [
+    "1970s-prog-hard-rock"
+  ],
   "genres": [
     "hard-rock"
   ],
@@ -12,23 +15,324 @@
     "en": "Pasadena hard-rock band that made two-handed tapping and high-gain precision a guitar-hero standard; Van Halen (1978) is the debut shock.",
     "zh": "帕萨迪纳 hard-rock：把双手 tapping 与高增益精度做成吉他英雄标准；同名首专（1978）是出道冲击。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Eddie Van Halen",
+      "role": "Guitar, Keyboards",
+      "years": "1972–2020",
+      "personSlug": "eddie-van-halen"
+    },
+    {
+      "name": "Alex Van Halen",
+      "role": "Drums",
+      "years": "1972–2020",
+      "personSlug": "alex-van-halen"
+    },
+    {
+      "name": "David Lee Roth",
+      "role": "Vocals",
+      "years": "1974–1985; 2007–2020",
+      "personSlug": "david-lee-roth"
+    },
+    {
+      "name": "Sammy Hagar",
+      "role": "Vocals, Guitar",
+      "years": "1985–1996; 2003–2005",
+      "personSlug": "sammy-hagar"
+    },
+    {
+      "name": "Michael Anthony",
+      "role": "Bass, Backing Vocals",
+      "years": "1974–2006",
+      "personSlug": "michael-anthony"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Eruption",
       "year": 1978
+    },
+    {
+      "title": "Ain't Talkin' 'Bout Love",
+      "year": 1978
+    },
+    {
+      "title": "Jump",
+      "year": 1984
+    },
+    {
+      "title": "Hot for Teacher",
+      "year": 1984
+    },
+    {
+      "title": "Why Can't This Be Love",
+      "year": 1986
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1978,
+      "track": "Eruption",
+      "membersOnStage": [
+        "Eddie Van Halen",
+        "Alex Van Halen",
+        "David Lee Roth",
+        "Michael Anthony"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Tapping + harmonics showcase; guitar-hero teaching object.",
+        "zh": "Tapping + 泛音展示；吉他英雄教学对象。"
+      }
+    },
+    {
+      "year": 1984,
+      "track": "Jump",
+      "membersOnStage": [
+        "Eddie Van Halen",
+        "Alex Van Halen",
+        "David Lee Roth",
+        "Michael Anthony"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "OBX synth riff + hard-rock chorus; MTV mass single.",
+        "zh": "OBX 合成器 riff + hard-rock 副歌；MTV 大众单曲。"
+      }
+    },
+    {
+      "year": 1986,
+      "track": "Why Can't This Be Love",
+      "membersOnStage": [
+        "Eddie Van Halen",
+        "Alex Van Halen",
+        "Sammy Hagar",
+        "Michael Anthony"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "5150 opener grammar; Hagar melodic range over Eddie keys.",
+        "zh": "5150 开场语法；Hagar 旋律音域盖在 Eddie 键盘上。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "If I can do it, anybody can.",
+      "speaker": "Eddie Van Halen",
+      "source": "Guitar magazine interview excerpt",
+      "year": 1980
+    },
+    {
+      "text": "I am not a rock star. I am a rock singer.",
+      "speaker": "David Lee Roth",
+      "source": "Press interview excerpt",
+      "year": 1984
+    }
+  ],
+  "lyricQuotes": [
+    "Might as well jump",
+    "Ain't talkin' 'bout love"
+  ],
+  "relatedBands": [
+    "ac-dc",
+    "deep-purple",
+    "guns-n-roses",
+    "led-zeppelin"
+  ],
+  "influenceFrom": [
+    "led-zeppelin",
+    "deep-purple",
+    "cream"
+  ],
+  "influenced": [
+    "guns-n-roses"
+  ],
   "shortBio": {
-    "en": "Eddie Van Halen–era hard rock; Eruption is the technique showcase.",
-    "zh": "Eddie Van Halen 时期 hard rock；Eruption 是技术展示。"
+    "en": "Eddie Van Halen–era hard rock; Eruption is the technique showcase; Roth vs Hagar splits the catalog.",
+    "zh": "Eddie Van Halen 时期 hard rock；Eruption 是技术展示；Roth vs Hagar 分裂目录。"
   },
   "body": {
-    "en": "Formed 1972. Debut album with Ted Templeman production put Eddie’s tapping, harmonics, and brown-sound midrange beside David Lee Roth’s showman vocal and Michael Anthony’s harmony.\n\nEruption (1978) is the instrumental citation. 1980s Roth-to-Hagar lineup change is a separate commercial chapter; the technique export is early and permanent.",
-    "zh": "1972 年组建。Ted Templeman 制作的首专把 Eddie 的 tapping、泛音与棕色中频，配上 David Lee Roth 的表演人声与 Michael Anthony 和声。\n\nEruption（1978）是器乐引用。1980 年代 Roth 到 Hagar 的阵容更替是另一商业章节；技术输出早且持久。"
+    "en": "Formed 1972. Debut (1978, Ted Templeman) put Eddie’s tapping and brown-sound midrange beside Roth’s showman vocal and Anthony’s high harmonies. 1984 adds OBX synth hits. 1985 Roth→Hagar swap opens 5150 multi-platinum chapter.\n\nEruption remains the instrumental citation; Jump is the mass single; singer-swap is the chronicle structure.",
+    "zh": "1972 年组建。首专（1978，Ted Templeman）把 Eddie 的 tapping 与棕色中频，配上 Roth 表演人声与 Anthony 高和声。1984 加入 OBX 合成器热单。1985 Roth→Hagar 打开 5150 多白金章节。\n\nEruption 仍是器乐引用；Jump 是大众单曲；主唱替换是编年史结构。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Tapping as hard-rock standard, not parlor trick",
+        "zh": "Tapping 当 hard-rock 标准，不是杂耍"
+      },
+      "body": {
+        "en": "Van Halen (1978) exports two-handed tapping, pinched harmonics, and high-gain midrange. Templeman keeps songs short; Roth sells carnival frontman energy.\n\nGuitar-hero culture after 1978 cites this debut as the precision upgrade over blues-rock default.",
+        "zh": "同名首专（1978）输出双手 tapping、捏泛音与高增益中频。Templeman 把歌唱短；Roth 卖马戏团主唱能量。\n\n1978 后的吉他英雄文化把这张首专当作相对蓝调摇滚默认的精度升级。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Roth era vs Hagar era",
+        "zh": "Roth 时期 vs Hagar 时期"
+      },
+      "body": {
+        "en": "Peak chronicle silhouette: Roth / Eddie / Alex / Anthony (1978–85). 1985 Hagar joins; 5150–Balance is the radio-metal chapter fans call Van Hagar. 2007+ Roth returns for reunion tours.\n\nSame guitar core; two vocal grammars. Peak flag stays on Roth-era classic.",
+        "zh": "编年史巅峰剪影：Roth / Eddie / Alex / Anthony（1978–85）。1985 Hagar 加入；5150–Balance 是粉丝称 Van Hagar 的电台金属章节。2007+ Roth 回归重聚巡演。\n\n同一吉他内核；两套人声语法。巅峰旗留在 Roth 经典期。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Brothers, bark, harmony bass",
+        "zh": "兄弟、吠叫、和声贝斯"
+      },
+      "body": {
+        "en": "Eddie: Frankenstein guitar, MXR, Marshall mid. Alex: double-bass and ride accents. Roth: splits and spoken asides. Anthony: high stacked choruses that define the early mix.\n\nChemistry is the product; later casts prove how loud that chemistry was.",
+        "zh": "Eddie：Frankenstein 吉他、MXR、Marshall 中频。Alex：双底鼓与 ride 点缀。Roth：劈叉与旁白。Anthony：早期混音里的高叠副歌。\n\n化学反应即产品；后来卡司证明那反应有多响。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "eruption",
+      "title": {
+        "en": "Eruption: technique as track",
+        "zh": "Eruption：把技术写成曲目"
+      },
+      "body": {
+        "en": "Instrumental between You Really Got Me cover energy and Ain't Talkin' 'Bout Love. Dive bombs, taps, tremolo abuse—cited in every 80s shred school.\n\nHard-rock single albums rarely put a solo étude this central.",
+        "zh": "夹在 You Really Got Me 翻唱能量与 Ain't Talkin' 'Bout Love 之间的器乐。俯冲击、tapping、颤臂滥用——80 年代 shred 学派必引。\n\nHard-rock 单曲专辑很少把独奏练习曲放这么中心。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "jump",
+      "title": {
+        "en": "Jump: synth riff, still hard rock",
+        "zh": "Jump：合成器 riff，仍是 hard rock"
+      },
+      "body": {
+        "en": "OBX hook, Roth chorus, Eddie still solos. MTV and arena both take it. Not a soft-rock exit—keys as another riff voice.\n\n1984 peak single before the singer swap.",
+        "zh": "OBX 钩子、Roth 副歌、Eddie 仍独奏。MTV 与体育场都接。不是软摇滚出走——键盘当另一把 riff 声部。\n\n主唱替换前的 1984 峰值单曲。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Guitar standard + singer-swap case study",
+        "zh": "吉他标准 + 主唱替换案例"
+      },
+      "body": {
+        "en": "Technique export is permanent. Catalog debate (Roth vs Hagar) is permanent too. Guns N' Roses and 80s LA hard rock inherit the high-gain precision expectation.\n\nChronicle value: gear method + lineup versioning in one logo.",
+        "zh": "技术输出是永久的。目录争论（Roth vs Hagar）也是。Guns N' Roses 与 80 年代洛杉矶 hard rock 继承高增益精度预期。\n\n编年史价值：一个 logo 里同时有装备方法与阵容版本化。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "roth-classic",
+      "label": {
+        "en": "Roth classic",
+        "zh": "Roth 经典期"
+      },
+      "years": "1978–1985",
+      "peak": true,
+      "members": [
+        {
+          "name": "David Lee Roth",
+          "role": "Vocals",
+          "personSlug": "david-lee-roth"
+        },
+        {
+          "name": "Eddie Van Halen",
+          "role": "Guitar",
+          "personSlug": "eddie-van-halen"
+        },
+        {
+          "name": "Michael Anthony",
+          "role": "Bass",
+          "personSlug": "michael-anthony"
+        },
+        {
+          "name": "Alex Van Halen",
+          "role": "Drums",
+          "personSlug": "alex-van-halen"
+        }
+      ],
+      "note": {
+        "en": "Debut through 1984; tapping + showman peak.",
+        "zh": "首专至 1984；tapping + 表演人峰值。"
+      }
+    },
+    {
+      "id": "hagar-5150",
+      "label": {
+        "en": "Hagar / 5150 era",
+        "zh": "Hagar / 5150 时期"
+      },
+      "years": "1985–1996",
+      "members": [
+        {
+          "name": "Sammy Hagar",
+          "role": "Vocals",
+          "personSlug": "sammy-hagar"
+        },
+        {
+          "name": "Eddie Van Halen",
+          "role": "Guitar, Keyboards",
+          "personSlug": "eddie-van-halen"
+        },
+        {
+          "name": "Michael Anthony",
+          "role": "Bass",
+          "personSlug": "michael-anthony"
+        },
+        {
+          "name": "Alex Van Halen",
+          "role": "Drums",
+          "personSlug": "alex-van-halen"
+        }
+      ],
+      "note": {
+        "en": "Melodic radio hard rock; Van Hagar catalog.",
+        "zh": "旋律电台 hard rock；Van Hagar 目录。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Eruption",
+      "year": 1978,
+      "note": {
+        "en": "Tapping étude that reset guitar-hero expectations.",
+        "zh": "重置吉他英雄预期的 tapping 练习曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "hard-rock"
+    ],
+    "note": {
+      "en": "High-gain precision + Roth/Hagar singer-swap as twin chronicle facts.",
+      "zh": "高增益精度 + Roth/Hagar 主唱替换为双编年史事实。"
+    }
   }
 }

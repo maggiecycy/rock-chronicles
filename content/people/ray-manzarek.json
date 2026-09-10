@@ -1,0 +1,31 @@
+{
+  "name": "Ray Manzarek",
+  "slug": "ray-manzarek",
+  "born": 1939,
+  "origin": "Chicago, USA",
+  "roles": [
+    "Keyboards",
+    "Bass (keyboard)"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "The Doors keyboardist; left-hand bass + organ replaced a bassist onstage.",
+    "zh": "The Doors 键盘手；左手贝斯 + 管风琴代替舞台贝斯手。"
+  },
+  "body": {
+    "en": "Born 1939. Vox Continental / Rhodes piano bass under Krieger guitar. Arrangement identity of the classic four.\n\nPost-Morrison projects exist; Doors 1967–71 remains the citation.",
+    "zh": "1939 年生。Vox Continental / Rhodes 钢琴贝斯托 Krieger 吉他。经典四人编制的编曲身份。\n\nMorrison 后项目存在；引用仍是 Doors 1967–71。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Doors",
+      "bandSlug": "the-doors",
+      "role": "Keyboards",
+      "from": 1965,
+      "to": 1973
+    }
+  ],
+  "relatedPeople": [
+    "jim-morrison"
+  ]
+}

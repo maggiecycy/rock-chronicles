@@ -89,6 +89,27 @@ export const GENRE_SOUNDS: Record<string, GenreSoundProfile> = {
     pattern: [1, 0, 1, 0, 1, 0, 1, 0],
     filterFreq: 1900,
   },
+  "thrash-metal": {
+    wave: "sawtooth",
+    baseFreq: 55,
+    bpm: 176,
+    pattern: [1, 1, 0, 1, 1, 0, 1, 1],
+    filterFreq: 900,
+  },
+  "new-wave": {
+    wave: "square",
+    baseFreq: 146.83,
+    bpm: 128,
+    pattern: [1, 0, 1, 0, 0, 1, 0, 1],
+    filterFreq: 2100,
+  },
+  shoegaze: {
+    wave: "sine",
+    baseFreq: 110,
+    bpm: 92,
+    pattern: [1, 0, 0, 1, 0, 0, 1, 0],
+    filterFreq: 2800,
+  },
 };
 
 export function getGenreSound(slug: string): GenreSoundProfile {

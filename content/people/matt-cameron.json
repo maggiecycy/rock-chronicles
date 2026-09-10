@@ -1,0 +1,48 @@
+{
+  "name": "Matt Cameron",
+  "slug": "matt-cameron",
+  "born": 1962,
+  "origin": "San Diego, California, USA",
+  "roles": ["Drums"],
+  "hub": true,
+  "shortBio": {
+    "en": "Soundgarden drummer; Pearl Jam drummer from 1998 — Seattle’s longest shared-kit bridge.",
+    "zh": "Soundgarden 鼓手；1998 起 Pearl Jam 鼓手——西雅图最长共用鼓位桥。"
+  },
+  "whyHub": {
+    "en": "Soundgarden ↔ Pearl Jam personnel edge; odd-meter hard-rock kit craft across two catalog bands.",
+    "zh": "Soundgarden ↔ Pearl Jam 人事边；两支编年史乐队上的奇数拍 hard-rock 鼓工。"
+  },
+  "body": {
+    "en": "Born 1962. Drums Soundgarden through Badmotorfinger / Superunknown eras and reunions. Joins Pearl Jam 1998 after Jack Irons; stays through Yield-forward touring and studio cycles.\n\nRelated: Seattle drumming as transferable infrastructure between two complete pages.",
+    "zh": "1962 年生。鼓 Soundgarden 至 Badmotorfinger / Superunknown 与重聚。1998 接 Jack Irons 进 Pearl Jam；Yield 之后巡演与录音周期仍在。\n\n相关：西雅图鼓作为两篇完整页之间可迁移的基础设施。"
+  },
+  "tenures": [
+    {
+      "bandName": "Soundgarden",
+      "bandSlug": "soundgarden",
+      "role": "Drums",
+      "from": 1986,
+      "to": 1997
+    },
+    {
+      "bandName": "Soundgarden",
+      "bandSlug": "soundgarden",
+      "role": "Drums",
+      "from": 2010,
+      "to": 2017,
+      "note": {
+        "en": "Reunion years.",
+        "zh": "重聚年份。"
+      }
+    },
+    {
+      "bandName": "Pearl Jam",
+      "bandSlug": "pearl-jam",
+      "role": "Drums",
+      "from": 1998,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": ["chris-cornell", "eddie-vedder", "mike-mccready"]
+}

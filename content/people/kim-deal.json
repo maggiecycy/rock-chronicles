@@ -1,0 +1,52 @@
+{
+  "name": "Kim Deal",
+  "slug": "kim-deal",
+  "born": 1961,
+  "origin": "Dayton, Ohio, USA",
+  "roles": [
+    "Bass",
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Pixies bassist/harmony; Gigantic co-lead; later The Breeders.",
+    "zh": "Pixies 贝斯/和声；Gigantic 共同主唱；后做 The Breeders。"
+  },
+  "body": {
+    "en": "Born 1961. Bass + harmony on Doolittle era. Leaves/returns across reunions; Breeders run in parallel.\n\nSecond voice that softens Francis scream architecture.",
+    "zh": "1961 年生。Doolittle 时期贝斯+和声。重聚间离队/回归；Breeders 并行。\n\n软化 Francis 尖叫架构的第二声部。"
+  },
+  "tenures": [
+    {
+      "bandName": "Pixies",
+      "bandSlug": "pixies",
+      "role": "Bass, Vocals",
+      "from": 1986,
+      "to": 1993
+    },
+    {
+      "bandName": "Pixies",
+      "bandSlug": "pixies",
+      "role": "Bass, Vocals",
+      "from": 2004,
+      "to": 2013
+    },
+    {
+      "bandName": "The Breeders",
+      "role": "Vocals, Guitar",
+      "from": 1989,
+      "to": "present",
+      "note": {
+        "en": "Parallel project; not yet in chronicle.",
+        "zh": "并行项目；尚未入编年史。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "black-francis"
+  ],
+  "whyHub": {
+    "en": "Pixies bass/harmony → The Breeders: same player, different logo and song lead.",
+    "zh": "Pixies 贝斯/和声 → The Breeders：同一乐手、不同 logo 与主笔。"
+  }
+}

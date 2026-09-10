@@ -4,32 +4,287 @@
   "formed": 1986,
   "origin": "Boston, USA",
   "primaryEra": "punk-postpunk",
+  "alsoAppearsIn": [
+    "1990s-grunge-alt"
+  ],
   "genres": [
     "alternative",
-    "indie-rock"
+    "indie-rock",
+    "shoegaze"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Boston four-piece whose Surfer Rosa/Doolittle quiet-loud song forms became the template Nirvana and 1990s alternative openly cited.",
-    "zh": "波士顿四人组：Surfer Rosa/Doolittle 的强弱歌曲形式成为 Nirvana 与 1990 年代 alternative 公开引用的模板。"
+    "en": "Boston four-piece whose Surfer Rosa/Doolittle quiet-loud song forms became the template Nirvana and 90s alternative copied.",
+    "zh": "波士顿四人组：Surfer Rosa/Doolittle 的强弱曲式成为 Nirvana 与 90 年代 alternative 复制的模板。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Black Francis",
+      "role": "Vocals, Guitar",
+      "years": "1986–1993; 2004–present",
+      "personSlug": "black-francis"
+    },
+    {
+      "name": "Kim Deal",
+      "role": "Bass, Vocals",
+      "years": "1986–1993; 2004–2013",
+      "personSlug": "kim-deal"
+    },
+    {
+      "name": "Joey Santiago",
+      "role": "Guitar",
+      "years": "1986–1993; 2004–present"
+    },
+    {
+      "name": "David Lovering",
+      "role": "Drums",
+      "years": "1986–1993; 2004–present"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Where Is My Mind?",
       "year": 1988
+    },
+    {
+      "title": "Debaser",
+      "year": 1989
+    },
+    {
+      "title": "Gigantic",
+      "year": 1988
+    },
+    {
+      "title": "Monkey Gone to Heaven",
+      "year": 1989
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1988,
+      "track": "Where Is My Mind?",
+      "membersOnStage": [
+        "Black Francis",
+        "Kim Deal",
+        "Joey Santiago",
+        "David Lovering"
+      ],
+      "genreTags": [
+        "alternative",
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Surfer Rosa; clean arpeggio then scream lift.",
+        "zh": "Surfer Rosa；干净分解后尖叫抬升。"
+      }
+    },
+    {
+      "year": 1989,
+      "track": "Debaser",
+      "membersOnStage": [
+        "Black Francis",
+        "Kim Deal",
+        "Joey Santiago",
+        "David Lovering"
+      ],
+      "genreTags": [
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Doolittle opener; loud-quiet-loud textbook.",
+        "zh": "Doolittle 开场；强弱强教科书。"
+      }
+    },
+    {
+      "year": 1988,
+      "track": "Gigantic",
+      "membersOnStage": [
+        "Black Francis",
+        "Kim Deal",
+        "Joey Santiago",
+        "David Lovering"
+      ],
+      "genreTags": [
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Deal lead vocal; bass hook as A-side face.",
+        "zh": "Deal 主唱；贝斯钩子当 A 面脸。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We were trying to be the next Husker Du and failed into something better.",
+      "speaker": "Black Francis",
+      "source": "Press interview excerpt",
+      "year": 1989
+    }
+  ],
+  "lyricQuotes": [
+    "With your feet on the air and your head on the ground",
+    "Got me a movie / I want you to know"
+  ],
+  "relatedBands": [
+    "sonic-youth",
+    "nirvana",
+    "my-bloody-valentine",
+    "the-velvet-underground",
+    "radiohead"
+  ],
+  "influenceFrom": [
+    "the-velvet-underground",
+    "sonic-youth"
+  ],
+  "influenced": [
+    "nirvana",
+    "radiohead",
+    "the-strokes"
+  ],
   "shortBio": {
-    "en": "Black Francis / Kim Deal alternative; Where Is My Mind? is the lasting hook.",
-    "zh": "Black Francis / Kim Deal 的 alternative；Where Is My Mind? 是长寿钩子。"
+    "en": "Quiet-loud alternative; Surfer Rosa/Doolittle template Nirvana cited.",
+    "zh": "强弱 alternative；Nirvana 引用的 Surfer Rosa/Doolittle 模板。"
   },
   "body": {
-    "en": "Formed 1986. Come On Pilgrim, Surfer Rosa (1988, Steve Albini), and Doolittle (1989) fixed soft verse / explosive chorus, surreal lyrics, and Deal’s harmony/bass role.\n\nWhere Is My Mind? (1988) is the entry. Dynamics, not virtuosity, are the export—later taught as “Pixies structure” in alt-rock songwriting.",
-    "zh": "1986 年组建。Come On Pilgrim、Surfer Rosa（1988，Steve Albini）与 Doolittle（1989）定型：轻主歌/爆副歌、超现实歌词、Deal 的和声与贝斯角色。\n\nWhere Is My Mind?（1988）是入口。输出的是动态而非炫技——后来在 alt-rock 歌曲写作里被称作「Pixies 结构」。"
+    "en": "Formed 1986. Albini on Surfer Rosa; Gil Norton on Doolittle. Soft-loud dynamics, surreal lyric, Santiago lead noise. Split 1993; reunions from 2004.\n\nNoise and shoegaze textures appear in guitar spray, but song form stays verse-scream-hook—genre slug stays alternative/indie.",
+    "zh": "1986 年组建。Surfer Rosa 找 Albini；Doolittle 找 Gil Norton。强弱动态、超现实歌词、Santiago 噪音主音。1993 解散；2004 起重聚。\n\n吉他喷雾里有噪音与 shoegaze 纹理，但曲式仍是主歌-尖叫-钩子——类型 slug 仍是 alternative/indie。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Quiet-loud as alternative song form",
+        "zh": "强弱当 alternative 曲式"
+      },
+      "body": {
+        "en": "Pixies invent (or crystallize) soft verse / screamed chorus for college radio. Surreal titles, short runtimes, no prog padding.\n\nNirvana openly copies the dynamic map on Nevermind.",
+        "zh": "Pixies 发明（或结晶）大学电台的安静主歌/尖叫副歌。超现实标题、短时长、无 prog 填充。\n\nNirvana 在 Nevermind 上公开复制动态地图。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Classic four as only peak",
+        "zh": "经典四人即唯一巅峰"
+      },
+      "body": {
+        "en": "Francis / Deal / Santiago / Lovering is the silhouette. Deal exits reunions later; peak flag stays Doolittle-era four.\n\nNo singer swap—method is the four-way balance.",
+        "zh": "Francis / Deal / Santiago / Lovering 即剪影。Deal 后离开重聚；巅峰旗留在 Doolittle 时期四人。\n\n无主唱替换——方法是四方平衡。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Scream, harmony bass, surf-noise lead",
+        "zh": "尖叫、和声贝斯、冲浪噪音主音"
+      },
+      "body": {
+        "en": "Francis: Tele bark and Spanish blurt. Deal: melodic bass + Gigantic lead. Santiago: surf-twang into noise. Lovering: dry punch kit.\n\nAlbini/Gil Norton capture rooms differently; form stays.",
+        "zh": "Francis：Tele 吠叫与西语爆发。Deal：旋律贝斯 + Gigantic 主唱。Santiago：冲浪颤音进噪音。Lovering：干、砸的鼓。\n\nAlbini/Gil Norton 抓房间不同；曲式不变。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "where-is-my-mind",
+      "title": {
+        "en": "Where Is My Mind?: soft entry",
+        "zh": "Where Is My Mind?：软入口"
+      },
+      "body": {
+        "en": "Arpeggio hook, Deal harmony, controlled lift—not full scream wall. Film sync later expands reach.\n\nSurfer Rosa face that still teaches dynamics.",
+        "zh": "分解钩子、Deal 和声、受控抬升——非全尖叫墙。后来影视同步扩大触及。\n\n仍教动态的 Surfer Rosa 脸。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "debaser",
+      "title": {
+        "en": "Debaser: loud-quiet textbook",
+        "zh": "Debaser：强弱教科书"
+      },
+      "body": {
+        "en": "Doolittle opener. Bass start, scream chorus, Bunuel lyric joke. College-radio violence with pop length.\n\nPrimary teaching object for 90s alt dynamics.",
+        "zh": "Doolittle 开场。贝斯起、尖叫副歌、布努埃尔歌词玩笑。流行长度的大学电台暴力。\n\n90 年代 alt 动态的主教学对象。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Template for grunge and indie",
+        "zh": "Grunge 与 indie 的模板"
+      },
+      "body": {
+        "en": "Cobain cites Pixies dynamics. Radiohead and Strokes pull angular hooks. Noise/shoegaze neighbors (Sonic Youth, MBV) share guitar abrasion; Pixies keep songs shorter.\n\nBoston four as 90s alt operating system.",
+        "zh": "Cobain 引用 Pixies 动态。Radiohead 与 Strokes 抽棱角钩子。噪音/shoegaze 邻里（Sonic Youth、MBV）共享吉他磨损；Pixies 把歌唱得更短。\n\n波士顿四人组作为 90 年代 alt 操作系统。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "doolittle-four",
+      "label": {
+        "en": "Doolittle classic four",
+        "zh": "Doolittle 经典四人"
+      },
+      "years": "1986–1993",
+      "peak": true,
+      "members": [
+        {
+          "name": "Black Francis",
+          "role": "Vocals, Guitar",
+          "personSlug": "black-francis"
+        },
+        {
+          "name": "Kim Deal",
+          "role": "Bass, Vocals",
+          "personSlug": "kim-deal"
+        },
+        {
+          "name": "Joey Santiago",
+          "role": "Guitar"
+        },
+        {
+          "name": "David Lovering",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Surfer Rosa / Doolittle peak.",
+        "zh": "Surfer Rosa / Doolittle 巅峰。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Debaser",
+      "year": 1989,
+      "note": {
+        "en": "Quiet-loud single that became 90s alt grammar.",
+        "zh": "成为 90 年代 alt 语法的强弱单曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "indie-rock"
+    ],
+    "note": {
+      "en": "Soft-loud song form export; noise color inside indie length.",
+      "zh": "强弱曲式输出；indie 长度里的噪音色彩。"
+    }
   }
 }

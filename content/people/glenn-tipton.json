@@ -1,0 +1,31 @@
+{
+  "name": "Glenn Tipton",
+  "slug": "glenn-tipton",
+  "born": 1947,
+  "origin": "Blackheath, UK",
+  "roles": [
+    "Guitar",
+    "Songwriting"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Judas Priest twin-guitar lead; harmony leads with K.K. Downing.",
+    "zh": "Judas Priest 双吉他主音；与 K.K. Downing 的和声主音。"
+  },
+  "body": {
+    "en": "Born 1947. Joins mid-70s. Dual-lead grammar with Downing on Breaking the Law, Painkiller. Later health limits touring; still writing seat.\n\nTwin-guitar metal architecture half.",
+    "zh": "1947 年生。70 年代中加入。与 Downing 在 Breaking the Law、Painkiller 上的双主音语法。后因健康限巡演；仍写作席。\n\n双吉他金属架构的一半。"
+  },
+  "tenures": [
+    {
+      "bandName": "Judas Priest",
+      "bandSlug": "judas-priest",
+      "role": "Guitar",
+      "from": 1974,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "rob-halford"
+  ]
+}

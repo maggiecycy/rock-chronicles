@@ -1,0 +1,35 @@
+{
+  "name": "Stevie Nicks",
+  "slug": "stevie-nicks",
+  "born": 1948,
+  "origin": "Phoenix, Arizona, USA",
+  "roles": [
+    "Vocals",
+    "Songwriting"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Fleetwood Mac vocalist from 1975; shawl-era harmonies and Rumours co-writes.",
+    "zh": "1975 起 Fleetwood Mac 主唱；披肩时期和声与 Rumours 合写。"
+  },
+  "body": {
+    "en": "Born 1948. Joins with Buckingham 1975. Dreams, Rhiannon, Landslide (solo-era fame too). Harmony stack with Christine McVie is Rumours glue.\n\nConstant of Buckingham–Nicks commercial peak.",
+    "zh": "1948 年生。1975 与 Buckingham 加入。Dreams、Rhiannon、Landslide（独唱也成名）。与 Christine McVie 的和声叠层是 Rumours 胶水。\n\nBuckingham–Nicks 商业峰值的常量。"
+  },
+  "tenures": [
+    {
+      "bandName": "Fleetwood Mac",
+      "bandSlug": "fleetwood-mac",
+      "role": "Vocals",
+      "from": 1975,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": [
+    "lindsay-buckingham"
+  ],
+  "whyHub": {
+    "en": "Buckingham–Nicks → Fleetwood Mac → solo: personnel bridge into Rumours-era radio craft.",
+    "zh": "Buckingham–Nicks → Fleetwood Mac → 独唱：通向 Rumours 时期电台工艺的人事桥。"
+  }
+}

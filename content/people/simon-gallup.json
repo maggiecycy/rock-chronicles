@@ -1,0 +1,21 @@
+{
+  "name": "Simon Gallup",
+  "slug": "simon-gallup",
+  "born": 1960,
+  "origin": "Duxhurst, UK",
+  "roles": ["Bass"],
+  "hub": false,
+  "shortBio": {
+    "en": "The Cure bassist on classic cold and Disintegration-era records; intermittent exits.",
+    "zh": "经典冷声与 Disintegration 时期 The Cure 贝斯手；间歇离开。"
+  },
+  "body": {
+    "en": "Bass often carries early hooks (A Forest spine). Leaves and returns; long-run partner to Smith on later tours.",
+    "zh": "早期钩子常由贝斯扛（A Forest 脊椎）。离开又回归；后期巡演里 Smith 的长期搭档。"
+  },
+  "tenures": [
+    { "bandName": "The Cure", "bandSlug": "the-cure", "role": "Bass", "from": 1979, "to": 1982 },
+    { "bandName": "The Cure", "bandSlug": "the-cure", "role": "Bass", "from": 1984, "to": "present" }
+  ],
+  "relatedPeople": ["robert-smith"]
+}

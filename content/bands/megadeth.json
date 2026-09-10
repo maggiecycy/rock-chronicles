@@ -4,31 +4,318 @@
   "formed": 1983,
   "origin": "Los Angeles, USA",
   "primaryEra": "1980s-metal",
+  "alsoAppearsIn": [
+    "1990s-grunge-alt"
+  ],
   "genres": [
-    "heavy-metal"
+    "heavy-metal",
+    "thrash-metal"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Dave Mustaine’s thrash project after Metallica; Rust in Peace (1990) set technical riff density and political lyric as thrash’s precision pole.",
-    "zh": "Dave Mustaine 离开 Metallica 后的 thrash 项目；Rust in Peace（1990）把技术性 riff 密度与政治歌词定为 thrash 的精密一极。"
+    "en": "Dave Mustaine’s thrash project after Metallica; Rust in Peace (1990) set technical riff density and precision leads as thrash’s upper bound.",
+    "zh": "Dave Mustaine 离开 Metallica 后的 thrash 计划；Rust in Peace（1990）把技术 riff 密度与精密主音定为 thrash 上界。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Dave Mustaine",
+      "role": "Vocals, Guitar",
+      "years": "1983–present",
+      "personSlug": "dave-mustaine"
+    },
+    {
+      "name": "David Ellefson",
+      "role": "Bass",
+      "years": "1983–2002; 2010–2021",
+      "personSlug": "dave-ellefson"
+    },
+    {
+      "name": "Marty Friedman",
+      "role": "Guitar",
+      "years": "1990–2000",
+      "personSlug": "marty-friedman"
+    },
+    {
+      "name": "Nick Menza",
+      "role": "Drums",
+      "years": "1989–1998"
+    },
+    {
+      "name": "Chris Poland",
+      "role": "Guitar",
+      "years": "1984–1987"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Holy Wars... The Punishment Due",
       "year": 1990
+    },
+    {
+      "title": "Hangar 18",
+      "year": 1990
+    },
+    {
+      "title": "Peace Sells",
+      "year": 1986
+    },
+    {
+      "title": "Symphony of Destruction",
+      "year": 1992
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1990,
+      "track": "Holy Wars... The Punishment Due",
+      "membersOnStage": [
+        "Dave Mustaine",
+        "Marty Friedman",
+        "David Ellefson",
+        "Nick Menza"
+      ],
+      "genreTags": [
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Rust in Peace opener; tempo shifts + Friedman leads.",
+        "zh": "Rust in Peace 开场；速度切换 + Friedman 主音。"
+      }
+    },
+    {
+      "year": 1990,
+      "track": "Hangar 18",
+      "membersOnStage": [
+        "Dave Mustaine",
+        "Marty Friedman",
+        "David Ellefson",
+        "Nick Menza"
+      ],
+      "genreTags": [
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Conspiracy lyric over escalating solo duel.",
+        "zh": "阴谋论歌词上的升级独奏对决。"
+      }
+    },
+    {
+      "year": 1986,
+      "track": "Peace Sells",
+      "membersOnStage": [
+        "Dave Mustaine",
+        "Chris Poland",
+        "David Ellefson"
+      ],
+      "genreTags": [
+        "heavy-metal"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Bass intro + Mustaine snarl; MTV news bumper fame.",
+        "zh": "贝斯前奏 + Mustaine 咆哮；MTV 新闻片头成名。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I was kicked out of Metallica for drinking too much and being an asshole.",
+      "speaker": "Dave Mustaine",
+      "source": "Press interview excerpt",
+      "year": 1990
+    }
+  ],
+  "lyricQuotes": [
+    "What do you mean I don't believe in God? / I talk to him every day",
+    "Holy wars / The punishment due"
+  ],
+  "relatedBands": [
+    "metallica",
+    "slayer",
+    "iron-maiden",
+    "judas-priest",
+    "pantera"
+  ],
+  "influenceFrom": [
+    "metallica",
+    "iron-maiden",
+    "judas-priest"
+  ],
+  "influenced": [
+    "pantera"
+  ],
   "shortBio": {
-    "en": "Technical thrash; Holy Wars… The Punishment Due is the early-90s peak document.",
-    "zh": "技术 thrash；Holy Wars… The Punishment Due 是 90 年代初峰值文献。"
+    "en": "Mustaine thrash after Metallica firing; Rust in Peace is the technical peak.",
+    "zh": "Mustaine 被 Metallica 开除后的 thrash；Rust in Peace 是技术峰值。"
   },
   "body": {
-    "en": "Formed Los Angeles 1983 by Mustaine with Dave Ellefson. Peace Sells… and So Far, So Good… built the catalog; Rust in Peace with Friedman/Menza is the consensus technical high.\n\nHoly Wars… The Punishment Due (1990) stacks odd-phrase riffs and tight rhythm guitar. They sit in the Big Four thrash map opposite Metallica’s broader mainstream path—more chromatic runs, more explicit geopolitics in lyrics.",
-    "zh": "1983 年由 Mustaine 与 Dave Ellefson 于洛杉矶组建。Peace Sells… 与 So Far, So Good… 建立目录；与 Friedman/Menza 的 Rust in Peace 是共识技术高峰。\n\nHoly Wars… The Punishment Due（1990）堆叠奇数乐句 riff 与紧节奏吉他。在 Big Four thrash 地图上对 Metallica 更宽的主流路径——更多半音跑动、歌词地缘政治更直接。"
+    "en": "Formed 1983 after Mustaine’s Metallica exit. Peace Sells builds US thrash profile. Rust in Peace (1990) with Friedman/Menza locks precision thrash. Countdown to Extinction adds radio cuts.\n\nLineup churn is constant; Mustaine + riff density is the brand. Rivalry with Metallica stays the origin myth.",
+    "zh": "Mustaine 离开 Metallica 后于 1983 组建。Peace Sells 建立美国 thrash 轮廓。与 Friedman/Menza 的 Rust in Peace（1990）锁死精密 thrash。Countdown to Extinction 加入电台曲。\n\n阵容动荡是常量；Mustaine + riff 密度即品牌。与 Metallica 的对峙仍是起源神话。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Thrash rivalry as second school",
+        "zh": "Thrash 对峙作为第二学派"
+      },
+      "body": {
+        "en": "Mustaine leaves Metallica 1983 and builds a faster, more chromatic riff school. Peace Sells is the street face; Rust in Peace is the conservatory exam.\n\nBig Four seat earned by density, not just origin lore.",
+        "zh": "Mustaine 1983 离开 Metallica，建更快、更半音化的 riff 学派。Peace Sells 是街头脸；Rust in Peace 是学院考试。\n\n四大席位靠密度赢得，不只靠起源传说。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Rust in Peace four as peak",
+        "zh": "Rust in Peace 四人即巅峰"
+      },
+      "body": {
+        "en": "Peak: Mustaine / Friedman / Ellefson / Menza (1990–94 approx). Earlier Poland era is rawer. Later casts rotate guitar/drums heavily.\n\nChronicle peak flag on Rust lineup—technical thrash standard.",
+        "zh": "巅峰：Mustaine / Friedman / Ellefson / Menza（约 1990–94）。更早 Poland 时期更糙。后来吉他/鼓大量轮换。\n\n编年史巅峰旗在 Rust 阵容——技术 thrash 标准。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Mustaine bark, Friedman leads, Ellefson bass",
+        "zh": "Mustaine 吠叫、Friedman 主音、Ellefson 贝斯"
+      },
+      "body": {
+        "en": "Mustaine: Jackson/Flying V thrash riffs, snarl vocal. Friedman: neo-classical/exotic leads. Ellefson: precise alternate-picked bass. Menza: double-bass clarity.\n\nWhen Friedman/Menza exit, density drops even if logo stays.",
+        "zh": "Mustaine：Jackson/Flying V thrash riff、咆哮人声。Friedman：新古典/异域主音。Ellefson：精密交替拨贝斯。Menza：双底鼓清晰。\n\nFriedman/Menza 离开后，即使 logo 在，密度也降。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "holy-wars",
+      "title": {
+        "en": "Holy Wars: tempo as structure",
+        "zh": "Holy Wars：速度即结构"
+      },
+      "body": {
+        "en": "Rust opener. Fast A section, mid grind, solo duel. Politics in the lyric without power-ballad exit.\n\nThrash composition textbook track.",
+        "zh": "Rust 开场。快速 A 段、中速碾压、独奏对决。歌词有政治，无强力谣曲出走。\n\nThrash 作曲教科书曲目。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "hangar-18",
+      "title": {
+        "en": "Hangar 18: solo duel radio cut",
+        "zh": "Hangar 18：独奏对决电台曲"
+      },
+      "body": {
+        "en": "Conspiracy narrative over escalating leads. MTV plays the video; guitarists learn the trade-offs.\n\nTechnical thrash that still charts.",
+        "zh": "阴谋叙事盖在升级主音上。MTV 播影像；吉他手学对位交替。\n\n仍能上榜的技术 thrash。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Big Four edge opposite Metallica",
+        "zh": "对着 Metallica 的四大边"
+      },
+      "body": {
+        "en": "Origin myth (firing) keeps the Metallica link visible. Rust in Peace remains the precision citation beside Slayer aggression and Metallica groove.\n\nHub person: Mustaine. No Hetfield person file yet—band-level edge only.",
+        "zh": "起源神话（开除）让 Metallica 链接可见。Rust in Peace 仍是精密引用，坐在旁边的是 Slayer 攻击与 Metallica 律动。\n\n枢纽人物：Mustaine。尚无 Hetfield person——仅乐队级边。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "heavy-metal"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "rust-in-peace",
+      "label": {
+        "en": "Rust in Peace four",
+        "zh": "Rust in Peace 四人"
+      },
+      "years": "1990–1994",
+      "peak": true,
+      "members": [
+        {
+          "name": "Dave Mustaine",
+          "role": "Vocals, Guitar",
+          "personSlug": "dave-mustaine"
+        },
+        {
+          "name": "Marty Friedman",
+          "role": "Guitar",
+          "personSlug": "marty-friedman"
+        },
+        {
+          "name": "David Ellefson",
+          "role": "Bass",
+          "personSlug": "dave-ellefson"
+        },
+        {
+          "name": "Nick Menza",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Technical thrash peak catalog.",
+        "zh": "技术 thrash 巅峰目录。"
+      }
+    },
+    {
+      "id": "peace-sells",
+      "label": {
+        "en": "Peace Sells era",
+        "zh": "Peace Sells 时期"
+      },
+      "years": "1985–1987",
+      "members": [
+        {
+          "name": "Dave Mustaine",
+          "role": "Vocals, Guitar",
+          "personSlug": "dave-mustaine"
+        },
+        {
+          "name": "Chris Poland",
+          "role": "Guitar"
+        },
+        {
+          "name": "David Ellefson",
+          "role": "Bass",
+          "personSlug": "dave-ellefson"
+        }
+      ],
+      "note": {
+        "en": "Earlier raw thrash face.",
+        "zh": "更早的生猛 thrash 脸。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Holy Wars... The Punishment Due",
+      "year": 1990,
+      "note": {
+        "en": "Technical thrash opener that set Rust-era standard.",
+        "zh": "定下 Rust 时期标准的技术 thrash 开场。"
+      }
+    },
+    "pioneeredGenres": [
+      "heavy-metal",
+      "thrash-metal"
+    ],
+    "note": {
+      "en": "Post-Metallica thrash rival; precision as brand.",
+      "zh": "Metallica 后的 thrash 对峙者；精密即品牌。"
+    }
   }
 }

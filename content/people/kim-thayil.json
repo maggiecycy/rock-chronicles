@@ -1,0 +1,30 @@
+{
+  "name": "Kim Thayil",
+  "slug": "kim-thayil",
+  "born": 1960,
+  "origin": "Seattle, USA",
+  "roles": [
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Soundgarden guitarist; drop tunings, odd meters, Sabbath-weight riffs inside grunge.",
+    "zh": "Soundgarden 吉他手；降调、奇数拍、grunge 里的 Sabbath 重量 riff。"
+  },
+  "body": {
+    "en": "Born 1960. Co-founder. Badmotorfinger / Superunknown riffs: dissonant intervals, alternate tunings.\n\nCornell’s range sits on Thayil’s forms.",
+    "zh": "1960 年生。联合创始人。Badmotorfinger / Superunknown riff：不协和音程、另类调弦。\n\nCornell 音域坐在 Thayil 曲式上。"
+  },
+  "tenures": [
+    {
+      "bandName": "Soundgarden",
+      "bandSlug": "soundgarden",
+      "role": "Guitar",
+      "from": 1984,
+      "to": 2019
+    }
+  ],
+  "relatedPeople": [
+    "chris-cornell"
+  ]
+}

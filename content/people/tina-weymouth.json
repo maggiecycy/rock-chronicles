@@ -1,0 +1,45 @@
+{
+  "name": "Tina Weymouth",
+  "slug": "tina-weymouth",
+  "born": 1950,
+  "origin": "Coronado, California, USA",
+  "roles": [
+    "Bass",
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Talking Heads bassist; melodic funk lines; Tom Tom Club with Chris Frantz.",
+    "zh": "Talking Heads 贝斯手；旋律 funk 线条；与 Chris Frantz 做 Tom Tom Club。"
+  },
+  "whyHub": {
+    "en": "Talking Heads groove → Tom Tom Club pop: rhythm section as separate logo.",
+    "zh": "Talking Heads groove → Tom Tom Club 流行：节奏组作为独立 logo。"
+  },
+  "body": {
+    "en": "Born 1950. Bass on Heads 1975–91. Genius of Love (Tom Tom Club, 1981) shows the side project as hit factory.\n\nHub: Heads art-funk and dance-pop share one player.",
+    "zh": "1950 年生。1975–91 在 Heads 司贝斯。Genius of Love（Tom Tom Club，1981）证明支线可成热单工厂。\n\n枢纽：Heads art-funk 与舞曲流行共用同一乐手。"
+  },
+  "tenures": [
+    {
+      "bandName": "Talking Heads",
+      "bandSlug": "talking-heads",
+      "role": "Bass",
+      "from": 1975,
+      "to": 1991
+    },
+    {
+      "bandName": "Tom Tom Club",
+      "role": "Bass, Vocals",
+      "from": 1981,
+      "to": "present",
+      "note": {
+        "en": "With Chris Frantz; project not in chronicle.",
+        "zh": "与 Chris Frantz；项目未入编年史。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "david-byrne"
+  ]
+}

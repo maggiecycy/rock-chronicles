@@ -4,31 +4,335 @@
   "formed": 1969,
   "origin": "Birmingham, UK",
   "primaryEra": "1980s-metal",
+  "alsoAppearsIn": [
+    "1970s-prog-hard-rock"
+  ],
   "genres": [
     "heavy-metal"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Birmingham metal band that codified leather-and-studs image plus twin-guitar attack; British Steel (1980) and Painkiller (1990) bookend classic and speed eras.",
-    "zh": "伯明翰金属乐队：编码皮衣铆钉形象与双吉他攻击；British Steel（1980）与 Painkiller（1990）标记经典与速度两端。"
+    "en": "Birmingham metal band that codified leather-and-studs image plus twin-guitar attack; British Steel (1980) and Painkiller (1990) bookend the classic peak.",
+    "zh": "伯明翰金属乐队：把皮衣铆钉形象与双吉他攻击法典化；British Steel（1980）与 Painkiller（1990）框住经典峰值。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Rob Halford",
+      "role": "Vocals",
+      "years": "1973–1992; 2003–present",
+      "personSlug": "rob-halford"
+    },
+    {
+      "name": "Glenn Tipton",
+      "role": "Guitar",
+      "years": "1974–present",
+      "personSlug": "glenn-tipton"
+    },
+    {
+      "name": "K.K. Downing",
+      "role": "Guitar",
+      "years": "1970–2011"
+    },
+    {
+      "name": "Ian Hill",
+      "role": "Bass",
+      "years": "1969–present"
+    },
+    {
+      "name": "Scott Travis",
+      "role": "Drums",
+      "years": "1989–present"
+    },
+    {
+      "name": "Tim \"Ripper\" Owens",
+      "role": "Vocals",
+      "years": "1996–2003",
+      "personSlug": "ripper-owens"
+    }
+  ],
   "essentialTracks": [
+    {
+      "title": "Breaking the Law",
+      "year": 1980
+    },
+    {
+      "title": "Living After Midnight",
+      "year": 1980
+    },
     {
       "title": "Painkiller",
       "year": 1990
+    },
+    {
+      "title": "You've Got Another Thing Comin'",
+      "year": 1982
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1980,
+      "track": "Breaking the Law",
+      "membersOnStage": [
+        "Rob Halford",
+        "Glenn Tipton",
+        "K.K. Downing",
+        "Ian Hill"
+      ],
+      "genreTags": [
+        "heavy-metal"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "British Steel short-riff single; twin-guitar hooks.",
+        "zh": "British Steel 短 riff 单曲；双吉他钩子。"
+      }
+    },
+    {
+      "year": 1990,
+      "track": "Painkiller",
+      "membersOnStage": [
+        "Rob Halford",
+        "Glenn Tipton",
+        "K.K. Downing",
+        "Ian Hill",
+        "Scott Travis"
+      ],
+      "genreTags": [
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Travis double-bass + Halford highs; speed-metal peak.",
+        "zh": "Travis 双底鼓 + Halford 高音；速度金属峰值。"
+      }
+    },
+    {
+      "year": 1982,
+      "track": "You've Got Another Thing Comin'",
+      "membersOnStage": [
+        "Rob Halford",
+        "Glenn Tipton",
+        "K.K. Downing",
+        "Ian Hill"
+      ],
+      "genreTags": [
+        "heavy-metal"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "US radio metal anthem; Screaming for Vengeance era.",
+        "zh": "美国电台金属圣歌；Screaming for Vengeance 时期。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Leather and studs became the uniform because it looked like the music sounded.",
+      "speaker": "Rob Halford",
+      "source": "Press interview excerpt",
+      "year": 1984
+    }
+  ],
+  "lyricQuotes": [
+    "There I was completely wasting, out of work and down",
+    "Faster than a bullet / Terrifying scream"
+  ],
+  "relatedBands": [
+    "black-sabbath",
+    "iron-maiden",
+    "metallica",
+    "megadeth",
+    "motorhead"
+  ],
+  "influenceFrom": [
+    "black-sabbath",
+    "deep-purple"
+  ],
+  "influenced": [
+    "iron-maiden",
+    "metallica",
+    "megadeth"
+  ],
   "shortBio": {
-    "en": "Halford / Tipton / Downing metal grammar; Painkiller is the late-peak speed document.",
-    "zh": "Halford / Tipton / Downing 金属语法；Painkiller 是后期峰值速度文献。"
+    "en": "Halford + twin-guitar metal; British Steel to Painkiller classic peak.",
+    "zh": "Halford + 双吉他金属；British Steel 至 Painkiller 经典峰值。"
   },
   "body": {
-    "en": "Formed 1969. Mid/late-1970s albums (Sad Wings, Hell Bent for Leather) and British Steel moved metal from blues-rock residue toward tighter riff songs and Halford’s high register.\n\nPainkiller (1990) with Scott Travis’s double-kick is the extreme update. They are a reference for how heavy metal separated from 1970s hard rock: shorter hooks, chrome production, dual guitar leads as default.",
-    "zh": "1969 年组建。1970 年代中后期专辑（Sad Wings、Hell Bent for Leather）与 British Steel 把金属从蓝调摇滚残余推进到更紧的 riff 歌曲与 Halford 高音区。\n\nPainkiller（1990）加上 Scott Travis 双踩是极端更新。他们是重金属如何脱离 1970 年代 hard rock 的参照：更短钩子、镀铬制作、双吉他主音成默认。"
+    "en": "Formed 1969. Halford + Tipton/Downing twin leads define leather-metal image. British Steel shortens songs for radio; Painkiller (1990) with Travis revs speed.\n\nClassic flag is Halford leather era through Painkiller.",
+    "zh": "1969 年组建。Halford + Tipton/Downing 双主音定义皮衣金属形象。British Steel 为电台缩短歌曲；与 Travis 的 Painkiller（1990）加速。\n\n经典旗在 Halford 皮衣期至 Painkiller。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Twin guitar + leather as metal grammar",
+        "zh": "双吉他 + 皮衣当金属语法"
+      },
+      "body": {
+        "en": "Priest codifies harmony leads, studs image, and motorcycle stage entry. Birmingham neighbors Sabbath; Priest chooses speed and polish over doom crawl.\n\nTemplate Maiden and US metal both read.",
+        "zh": "Priest 把和声主音、铆钉形象与摩托车上场法典化。伯明翰邻居是 Sabbath；Priest 选速度与抛光而非 doom 爬行。\n\nMaiden 与美国金属都读这模板。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Halford classic as peak",
+        "zh": "Halford 经典期即巅峰"
+      },
+      "body": {
+        "en": "Peak: Halford / Tipton / Downing / Hill + (later) Travis. Ripper Owens 90s chapter is non-peak. Halford returns 2003.\n\nChronicle peak = leather Halford twin-guitar era through Painkiller.",
+        "zh": "巅峰：Halford / Tipton / Downing / Hill +（后）Travis。90 年代 Ripper Owens 章节非巅峰。Halford 2003 回归。\n\n编年史巅峰 = 皮衣 Halford 双吉他期至 Painkiller。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Operatic highs, dual leads, iron bass",
+        "zh": "歌剧高音、双主音、铁贝斯"
+      },
+      "body": {
+        "en": "Halford: wide vibrato, scream highs. Tipton/Downing: traded solos, harmony thirds. Hill: steady eighths. Travis: double-bass upgrade 1989.\n\nImage and arrangement travel together.",
+        "zh": "Halford：宽颤音、尖叫高音。Tipton/Downing：交替独奏、三度和声。Hill：稳定八分。Travis：1989 双底鼓升级。\n\n形象与编曲一起旅行。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "breaking-the-law",
+      "title": {
+        "en": "Breaking the Law: short-riff radio",
+        "zh": "Breaking the Law：短 riff 电台"
+      },
+      "body": {
+        "en": "British Steel. Two-minute crime riff, gang vocal hook. Metal without epic runtime.\n\nEntry for listeners before Painkiller speed.",
+        "zh": "British Steel。两分钟犯罪 riff、合唱钩子。无史诗时长的金属。\n\nPainkiller 速度前的听众入口。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "painkiller",
+      "title": {
+        "en": "Painkiller: speed-metal exam",
+        "zh": "Painkiller：速度金属考试"
+      },
+      "body": {
+        "en": "Travis intro, Halford top notes, twin-guitar carnage. 1990 statement after 80s polish.\n\nLate classic peak track.",
+        "zh": "Travis 前奏、Halford 顶音、双吉他屠杀。80 年代抛光后的 1990 声明。\n\n晚期经典峰值曲。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Metal uniform exporter",
+        "zh": "金属制服输出者"
+      },
+      "body": {
+        "en": "Leather look and twin-lead grammar feed Maiden, Megadeth, and arena metal. Birmingham metal map: Sabbath doom, Priest speed/image.\n\nHalford voice remains the citation.",
+        "zh": "皮衣外观与双主音语法喂养 Maiden、Megadeth 与体育场金属。伯明翰金属地图：Sabbath doom，Priest 速度/形象。\n\nHalford 人声仍是引用。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "heavy-metal"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "halford-classic",
+      "label": {
+        "en": "Halford classic / Painkiller",
+        "zh": "Halford 经典 / Painkiller"
+      },
+      "years": "1980–1990",
+      "peak": true,
+      "members": [
+        {
+          "name": "Rob Halford",
+          "role": "Vocals",
+          "personSlug": "rob-halford"
+        },
+        {
+          "name": "Glenn Tipton",
+          "role": "Guitar",
+          "personSlug": "glenn-tipton"
+        },
+        {
+          "name": "K.K. Downing",
+          "role": "Guitar"
+        },
+        {
+          "name": "Ian Hill",
+          "role": "Bass"
+        },
+        {
+          "name": "Scott Travis",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "British Steel through Painkiller peak window (Travis from 1989).",
+        "zh": "British Steel 至 Painkiller 巅峰窗（Travis 自 1989）。"
+      }
+    },
+    {
+      "id": "owens-years",
+      "label": {
+        "en": "Owens years",
+        "zh": "Owens 年"
+      },
+      "years": "1996–2003",
+      "members": [
+        {
+          "name": "Tim \"Ripper\" Owens",
+          "role": "Vocals",
+          "personSlug": "ripper-owens"
+        },
+        {
+          "name": "K. K. Downing",
+          "role": "Guitar"
+        },
+        {
+          "name": "Glenn Tipton",
+          "role": "Guitar",
+          "personSlug": "glenn-tipton"
+        },
+        {
+          "name": "Ian Hill",
+          "role": "Bass"
+        },
+        {
+          "name": "Scott Travis",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Jugulator / Demolition between Halford eras.",
+        "zh": "夹在 Halford 两期之间的 Jugulator / Demolition。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Breaking the Law",
+      "year": 1980,
+      "note": {
+        "en": "Short-riff metal single that fixed Priest radio face.",
+        "zh": "固定 Priest 电台脸的短 riff 金属单曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "heavy-metal"
+    ],
+    "note": {
+      "en": "Leather + twin guitar as portable metal grammar.",
+      "zh": "皮衣 + 双吉他作为可移植金属语法。"
+    }
   }
 }

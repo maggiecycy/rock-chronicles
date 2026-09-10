@@ -1,0 +1,22 @@
+{
+  "name": "New Wave",
+  "slug": "new-wave",
+  "summary": {
+    "en": "Post-punk tightness with pop hooks, chorus guitar, and early synth color.",
+    "zh": "后朋克的紧凑 + 流行钩子、chorus 吉他与早期合成器色彩。"
+  },
+  "eraFocus": "Punk & Post-Punk",
+  "representativeBands": [
+    "talking-heads",
+    "the-police",
+    "the-cure"
+  ],
+  "body": {
+    "en": "New Wave keeps punk’s short forms and adds danceable grids, cleaner production, and MTV-ready image. Bass and rhythm guitar often lead; solos shrink.\n\nTalking Heads, The Police, and early Cure sit on the chronicle’s post-punk → pop/alternative bridge.",
+    "zh": "New Wave 保留朋克短曲式，加上可跳舞的格子、更干净的制作与适合 MTV 的形象。贝斯与节奏吉他常主导；Solo 缩小。\n\nTalking Heads、The Police 与早期 Cure 坐在本站后朋 → 流行/alternative 的桥上。"
+  },
+  "pioneerBands": [
+    "talking-heads",
+    "the-police"
+  ]
+}

@@ -6,14 +6,18 @@
   "roles": [
     "Vocals"
   ],
-  "hub": false,
+  "hub": true,
   "shortBio": {
-    "en": "Deep Purple Mark II scream; In Rock / Machine Head peak vocals.",
-    "zh": "Deep Purple Mark II 尖叫；In Rock / Machine Head 峰值人声。"
+    "en": "Deep Purple Mark II scream; brief Black Sabbath vocal on Born Again (1983).",
+    "zh": "Deep Purple Mark II 尖叫；1983《Born Again》短暂任 Black Sabbath 人声。"
+  },
+  "whyHub": {
+    "en": "Deep Purple ↔ Black Sabbath vocal bridge via the Born Again year.",
+    "zh": "经 Born Again 一年的 Deep Purple ↔ Black Sabbath 人声桥。"
   },
   "body": {
-    "en": "Born 1945. Mark II vocal on Child in Time and Highway Star. Leaves 1973; returns in later reunions. Scream sits above Lord’s Hammond without melisma fashion.\n\nCitation era is 1969–73 with Blackmore/Glover/Lord/Paice.",
-    "zh": "1945 年生。Mark II 人声见于 Child in Time 与 Highway Star。1973 离队；后期重聚回归。尖叫坐在 Lord Hammond 上，不走花腔时尚。\n\n引用期是与 Blackmore/Glover/Lord/Paice 的 1969–73。"
+    "en": "Born 1945. Mark II vocal on Child in Time and Highway Star. Leaves Purple 1973; sings Black Sabbath’s Born Again (1983); returns to Purple reunions. Scream sits above Lord’s Hammond without melisma fashion.\n\nCitation eras: 1969–73 Mark II, then the one-album Sabbath hitch.",
+    "zh": "1945 年生。Mark II 人声见于 Child in Time 与 Highway Star。1973 离 Purple；唱 Black Sabbath《Born Again》（1983）；后回 Purple 重聚。尖叫坐在 Lord Hammond 上，不走花腔时尚。\n\n引用期：1969–73 Mark II，再加 Sabbath 一张专的挂靠。"
   },
   "tenures": [
     {
@@ -22,6 +26,17 @@
       "role": "Vocals",
       "from": 1969,
       "to": 1973
+    },
+    {
+      "bandName": "Black Sabbath",
+      "bandSlug": "black-sabbath",
+      "role": "Vocals",
+      "from": 1983,
+      "to": 1984,
+      "note": {
+        "en": "Born Again album/tour only.",
+        "zh": "仅 Born Again 专辑/巡演。"
+      }
     },
     {
       "bandName": "Deep Purple",
@@ -37,6 +52,8 @@
   ],
   "relatedPeople": [
     "ritchie-blackmore",
-    "jon-lord"
+    "jon-lord",
+    "roger-glover",
+    "ozzy-osbourne"
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Billy Corgan",
+  "slug": "billy-corgan",
+  "born": 1967,
+  "origin": "Chicago, Illinois, USA",
+  "roles": [
+    "Vocals",
+    "Guitar",
+    "Songwriting",
+    "Production"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Smashing Pumpkins leader; wall-of-guitar production and alt-radio hooks.",
+    "zh": "Smashing Pumpkins 领袖；吉他墙制作与 alternative 电台钩子。"
+  },
+  "body": {
+    "en": "Born 1967. Writes Siamese Dream / Mellon Collie. Multi-tracks guitars with Butch Vig/Flood eras. Lineup churn; Corgan seat is constant.\n\nProduction density is the 90s alt citation beside quieter Pixies dynamics.",
+    "zh": "1967 年生。写 Siamese Dream / Mellon Collie。与 Butch Vig/Flood 时期多轨吉他。阵容动荡；Corgan 席位是常量。\n\n制作密度是 90 年代 alt 引用，对照更安静的 Pixies 动态。"
+  },
+  "tenures": [
+    {
+      "bandName": "Smashing Pumpkins",
+      "bandSlug": "smashing-pumpkins",
+      "role": "Vocals, Guitar",
+      "from": 1988,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": []
+}

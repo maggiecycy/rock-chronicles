@@ -1,0 +1,21 @@
+{
+  "name": "Dave Ellefson",
+  "slug": "dave-ellefson",
+  "born": 1964,
+  "origin": "Jackson, Minnesota, USA",
+  "roles": ["Bass"],
+  "hub": false,
+  "shortBio": {
+    "en": "Megadeth co-founder bassist; Peace Sells intro figure and long on/off tenure.",
+    "zh": "Megadeth 联合创始贝斯手；Peace Sells 前奏音型与长期上上下下任期。"
+  },
+  "body": {
+    "en": "Locks Mustaine’s riffs from the early albums through Rust years and later returns. Exit/return cycles are part of Megadeth personnel lore.",
+    "zh": "从早期专辑到 Rust 年及后来回归，锁住 Mustaine 的 riff。离开/回归周期是 Megadeth 人事传说的一部分。"
+  },
+  "tenures": [
+    { "bandName": "Megadeth", "bandSlug": "megadeth", "role": "Bass", "from": 1983, "to": 2002 },
+    { "bandName": "Megadeth", "bandSlug": "megadeth", "role": "Bass", "from": 2010, "to": 2021 }
+  ],
+  "relatedPeople": ["dave-mustaine"]
+}

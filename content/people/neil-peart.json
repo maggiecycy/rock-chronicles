@@ -1,0 +1,32 @@
+{
+  "name": "Neil Peart",
+  "slug": "neil-peart",
+  "born": 1952,
+  "origin": "Hamilton, Ontario, Canada",
+  "roles": [
+    "Drums",
+    "Lyrics"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Rush drummer/lyricist from 1974; large kit, odd meters, sci-fi/humanist lyrics.",
+    "zh": "1974 起 Rush 鼓手/作词；大鼓组、奇数拍、科幻/人文歌词。"
+  },
+  "body": {
+    "en": "Born 1952. Joins 1974 replacing Rutsey. 2112 through Moving Pictures set prog-drum teaching objects. Dies 2020.\n\nLyrics + kit expand the trio beyond power-trio default.",
+    "zh": "1952 年生。1974 接替 Rutsey。2112 至 Moving Pictures 定为 prog 鼓教学对象。2020 去世。\n\n歌词+鼓组把三人组扩出 power-trio 默认。"
+  },
+  "tenures": [
+    {
+      "bandName": "Rush",
+      "bandSlug": "rush",
+      "role": "Drums, Lyrics",
+      "from": 1974,
+      "to": 2015
+    }
+  ],
+  "relatedPeople": [
+    "geddy-lee",
+    "alex-lifeson"
+  ]
+}

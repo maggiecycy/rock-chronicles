@@ -1,0 +1,33 @@
+{
+  "name": "Eddie Van Halen",
+  "slug": "eddie-van-halen",
+  "born": 1955,
+  "origin": "Amsterdam, Netherlands / Pasadena, USA",
+  "roles": [
+    "Guitar",
+    "Keyboards"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Van Halen guitarist; tapping, harmonics, and brown-sound midrange as 1978 guitar-hero standard.",
+    "zh": "Van Halen 吉他手；tapping、泛音与棕色中频成为 1978 吉他英雄标准。"
+  },
+  "body": {
+    "en": "Born 1955. Frankenstein Strat-style build, MXR Phase 90/Flanger, Marshall midrange. Eruption (1978) is the technique citation; Ain't Talkin' 'Bout Love and Hot for Teacher lock riff + solo grammar.\n\nConstant across Roth and Hagar eras: high-gain precision and keyboard pop on 1984.",
+    "zh": "1955 年生。Frankenstein 式 Strat 改制、MXR Phase 90/Flanger、Marshall 中频。Eruption（1978）是技术引用；Ain't Talkin' 'Bout Love 与 Hot for Teacher 锁死 riff+独奏语法。\n\n跨 Roth/Hagar 时期的常量：高增益精度，以及 1984 上的键盘流行写法。"
+  },
+  "tenures": [
+    {
+      "bandName": "Van Halen",
+      "bandSlug": "van-halen",
+      "role": "Guitar, Keyboards",
+      "from": 1972,
+      "to": 2020
+    }
+  ],
+  "relatedPeople": [
+    "alex-van-halen",
+    "david-lee-roth",
+    "sammy-hagar"
+  ]
+}

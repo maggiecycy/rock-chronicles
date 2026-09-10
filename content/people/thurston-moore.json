@@ -1,0 +1,29 @@
+{
+  "name": "Thurston Moore",
+  "slug": "thurston-moore",
+  "born": 1958,
+  "origin": "Coral Gables, Florida, USA",
+  "roles": [
+    "Guitar",
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Sonic Youth guitarist; alternate tunings and prepared-guitar noise as composition.",
+    "zh": "Sonic Youth 吉他手；另调弦与预制吉他噪音当作曲。"
+  },
+  "body": {
+    "en": "Born 1958. Co-founds Sonic Youth. Daydream Nation dual-guitar with Ranaldo. Noise/shoegaze-adjacent textures without abandoning song forms.\n\nTuning charts are the method export.",
+    "zh": "1958 年生。共同创办 Sonic Youth。与 Ranaldo 在 Daydream Nation 双吉他。噪音/与 shoegaze 相邻的纹理，不丢歌曲形式。\n\n调弦表即方法输出。"
+  },
+  "tenures": [
+    {
+      "bandName": "Sonic Youth",
+      "bandSlug": "sonic-youth",
+      "role": "Guitar, Vocals",
+      "from": 1981,
+      "to": 2011
+    }
+  ],
+  "relatedPeople": []
+}

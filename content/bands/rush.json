@@ -8,22 +8,139 @@
     "progressive-rock",
     "hard-rock"
   ],
-  "decisive": false,
+  "decisive": true,
   "whyMatters": {
     "en": "Toronto trio that kept prog-length writing and instrumental virtuosity on rock radio through the 1970s–80s; Moving Pictures (1981) is the mass hinge.",
     "zh": "多伦多三人组：1970–80 年代把 prog 时长写作与乐器炫技留在摇滚电台；Moving Pictures（1981）是大众铰链。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Geddy Lee",
+      "role": "Bass, Vocals, Keyboards",
+      "years": "1968–2018",
+      "personSlug": "geddy-lee"
+    },
+    {
+      "name": "Alex Lifeson",
+      "role": "Guitar",
+      "years": "1968–2018",
+      "personSlug": "alex-lifeson"
+    },
+    {
+      "name": "Neil Peart",
+      "role": "Drums, Lyrics",
+      "years": "1974–2015",
+      "personSlug": "neil-peart"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Tom Sawyer",
       "year": 1981
+    },
+    {
+      "title": "The Spirit of Radio",
+      "year": 1980
+    },
+    {
+      "title": "YYZ",
+      "year": 1981
+    },
+    {
+      "title": "2112 (Overture / Temples of Syrinx)",
+      "year": 1976
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1976,
+      "track": "2112 (Overture / Temples of Syrinx)",
+      "membersOnStage": [
+        "Geddy Lee",
+        "Alex Lifeson",
+        "Neil Peart"
+      ],
+      "genreTags": [
+        "progressive-rock",
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Side-long suite era; Peart lyrics + hard-rock riff chapters.",
+        "zh": "整面组曲时期；Peart 歌词 + hard-rock riff 章节。"
+      }
+    },
+    {
+      "year": 1980,
+      "track": "The Spirit of Radio",
+      "membersOnStage": [
+        "Geddy Lee",
+        "Alex Lifeson",
+        "Neil Peart"
+      ],
+      "genreTags": [
+        "progressive-rock",
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Permanent Waves: reggae-tinged bridge inside prog-radio single.",
+        "zh": "Permanent Waves：prog 电台单曲里的偏 reggae 桥段。"
+      }
+    },
+    {
+      "year": 1981,
+      "track": "Tom Sawyer",
+      "membersOnStage": [
+        "Geddy Lee",
+        "Alex Lifeson",
+        "Neil Peart"
+      ],
+      "genreTags": [
+        "progressive-rock",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Minimoog hook, odd-meter drums, high tenor over Moving Pictures polish.",
+        "zh": "Minimoog 钩子、奇数拍鼓、Moving Pictures 抛光上的高男高音。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "What you own is your own kingdom.",
+      "speaker": "Neil Peart",
+      "source": "2112 lyric theme · interview circulation",
+      "year": 1976
+    },
+    {
+      "text": "Three guys trying to sound like more.",
+      "speaker": "Geddy Lee",
+      "source": "On trio arrangement · press",
+      "year": 1981
+    }
+  ],
+  "lyricQuotes": [
+    "Today's Tom Sawyer / He gets high on you",
+    "Begin the day with a friendly voice"
+  ],
+  "relatedBands": [
+    "king-crimson",
+    "pink-floyd",
+    "led-zeppelin",
+    "tool"
+  ],
+  "influenceFrom": [
+    "king-crimson",
+    "led-zeppelin",
+    "black-sabbath"
+  ],
+  "influenced": [
+    "tool",
+    "metallica",
+    "muse"
+  ],
   "shortBio": {
     "en": "Lee / Lifeson / Peart prog-rock; Tom Sawyer is the synthesizer-era hit.",
     "zh": "Lee / Lifeson / Peart 的 progressive rock；Tom Sawyer 是合成器时期热单。"
@@ -31,5 +148,164 @@
   "body": {
     "en": "Formed 1968; Neil Peart joined 1974. 2112 and Hemispheres document long-form side suites; Permanent Waves and Moving Pictures compress prog into radio-length precision.\n\nTom Sawyer (1981) shows the mid-era mix—Minimoog hooks, odd-meter drums, Geddy’s high vocal. They prove a power trio can sustain prog ambition without a theatrical frontman brand.",
     "zh": "1968 年组建；Neil Peart 1974 年加入。2112 与 Hemispheres 记录长篇组曲；Permanent Waves 与 Moving Pictures 把 prog 压成电台长度的精密曲。\n\nTom Sawyer（1981）展示中期混音——Minimoog 钩子、奇数拍鼓、Geddy 高音人声。证明三件套也能维持 prog 野心，无需戏剧化主唱品牌。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Prog ambition inside a power trio",
+        "zh": "Power trio 里的 prog 野心"
+      },
+      "body": {
+        "en": "Lee bass/vocal/keys, Lifeson arrangement guitar, Peart kit + lyrics. Moving Pictures (1981) compresses side-suites into radio-length precision.\n\nVirtuosity without a theatrical frontman brand.",
+        "zh": "Lee 贝斯/人声/键盘、Lifeson 编曲吉他、Peart 鼓组+歌词。Moving Pictures（1981）把整面组曲压成电台长度精密曲。\n\n炫技而无戏剧化主唱品牌。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Rutsey years → Peart trio",
+        "zh": "Rutsey 年 → Peart 三人组"
+      },
+      "body": {
+        "en": "Pre-1974 John Rutsey debut. Peart joins 1974; classic citation starts at Fly by Night through Clockwork Angels.\n\nPeak is Peart-era three.",
+        "zh": "1974 前 John Rutsey 首专。Peart 1974 加入；经典引用自 Fly by Night 至 Clockwork Angels。\n\n峰值是 Peart 时期三人。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "sawyer",
+      "title": {
+        "en": "Tom Sawyer: Moog + odd meter",
+        "zh": "Tom Sawyer：Moog + 奇数拍"
+      },
+      "body": {
+        "en": "Minimoog riff, Peart’s gated/odd phrasing, Geddy high tenor, Lifeson chorus guitar. Moving Pictures mass hinge.\n\nSynth-era Rush teaching track.",
+        "zh": "Minimoog riff、Peart 门限/奇数乐句、Geddy 高男高音、Lifeson chorus 吉他。Moving Pictures 大众铰链。\n\n合成器时期 Rush 教材曲。"
+      },
+      "stickyVisual": "scene",
+      "soundGenre": "progressive-rock",
+      "sceneIndex": 2
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Dual-duty bass, arrangement guitar",
+        "zh": "双责贝斯，编曲吉他"
+      },
+      "body": {
+        "en": "Lee covers bass + lead vocal + foot-pedal synths live. Lifeson favors arpeggio/chord color over shred contests. Peart expands kit and writes lyrics.\n\nThree guys sounding like more is the method.",
+        "zh": "Lee 现场兼贝斯+主唱+脚踏合成器。Lifeson 偏分解/和弦色彩而非 shred 对决。Peart 扩展鼓组并写词。\n\n三人听起来像更多人即方法。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Own kingdom, more than three",
+        "zh": "自己的王国，多于三人"
+      },
+      "body": {
+        "en": "Peart’s autonomy lyric theme and Lee’s trio-arrangement line document Rush ideology: individual craft inside ensemble density.\n\nQuotes label method.",
+        "zh": "Peart 的自主歌词主题与 Lee 的三人编曲线记录 Rush 意识形态：合奏密度里的个人工艺。\n\n引语给方法贴标签。"
+      },
+      "stickyVisual": "quote",
+      "soundGenre": "progressive-rock",
+      "quoteIndex": 1
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Prog on rock radio, later metal cites",
+        "zh": "摇滚电台上的 prog，后来金属引用"
+      },
+      "body": {
+        "en": "Tool and prog-metal acts cite odd meters and concept writing. Metallica-era metal nods to Peart kit ambition.\n\nRush keep prog on rock radio without theatrical costume rock.",
+        "zh": "Tool 与 prog-metal 引用奇数拍与概念写作。Metallica 时期金属点头 Peart 鼓组野心。\n\nRush 把 prog 留在摇滚电台，不做戏服摇滚。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "progressive-rock"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "rutsey-debut",
+      "label": {
+        "en": "Rutsey debut",
+        "zh": "Rutsey 首专"
+      },
+      "years": "1968–1974",
+      "members": [
+        {
+          "name": "Geddy Lee",
+          "role": "Bass, Vocals",
+          "personSlug": "geddy-lee"
+        },
+        {
+          "name": "Alex Lifeson",
+          "role": "Guitar",
+          "personSlug": "alex-lifeson"
+        },
+        {
+          "name": "John Rutsey",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Self-titled debut; hard-rock before Peart.",
+        "zh": "同名首专；Peart 前的 hard-rock。"
+      }
+    },
+    {
+      "id": "peart-peak",
+      "label": {
+        "en": "Peart peak",
+        "zh": "Peart 峰值"
+      },
+      "years": "1974–2015",
+      "peak": true,
+      "members": [
+        {
+          "name": "Geddy Lee",
+          "role": "Bass, Vocals, Keyboards",
+          "personSlug": "geddy-lee"
+        },
+        {
+          "name": "Alex Lifeson",
+          "role": "Guitar",
+          "personSlug": "alex-lifeson"
+        },
+        {
+          "name": "Neil Peart",
+          "role": "Drums, Lyrics",
+          "personSlug": "neil-peart"
+        }
+      ],
+      "note": {
+        "en": "2112 through Moving Pictures and beyond; classic trio.",
+        "zh": "2112 至 Moving Pictures 及之后；经典三人组。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Tom Sawyer",
+      "year": 1981,
+      "note": {
+        "en": "Synth-era prog single as mass hinge.",
+        "zh": "合成器时期 prog 单曲作大众铰链。"
+      }
+    },
+    "pioneeredGenres": [
+      "progressive-rock"
+    ],
+    "note": {
+      "en": "Power-trio prog with dual-duty bass/keys and lyricist-drummer.",
+      "zh": "双责贝斯/键盘 + 作词鼓手的 power-trio prog。"
+    }
   }
 }

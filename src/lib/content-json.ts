@@ -115,27 +115,48 @@ export function getSharedMemberEdgesFromJson(
   people: Person[],
 ): SharedMemberEdge[] {
   const bandSet = new Set(bands.map((b) => b.slug));
+  /** personSlug → band slugs from Person.tenures AND Band.members.personSlug */
+  const bandsByPerson = new Map<string, Set<string>>();
+
+  const add = (personSlug: string, bandSlug: string) => {
+    if (!bandSet.has(bandSlug)) return;
+    let set = bandsByPerson.get(personSlug);
+    if (!set) {
+      set = new Set();
+      bandsByPerson.set(personSlug, set);
+    }
+    set.add(bandSlug);
+  };
+
+  for (const person of people) {
+    for (const t of person.tenures) {
+      if (t.bandSlug) add(person.slug, t.bandSlug);
+    }
+  }
+  for (const band of bands) {
+    for (const m of band.members ?? []) {
+      if (m.personSlug) add(m.personSlug, band.slug);
+    }
+  }
+
+  const personName = new Map(people.map((p) => [p.slug, p.name]));
   const edges: SharedMemberEdge[] = [];
   const seen = new Set<string>();
 
-  for (const person of people) {
-    const bandSlugs = [
-      ...new Set(
-        person.tenures
-          .map((t) => t.bandSlug)
-          .filter((s): s is string => Boolean(s) && bandSet.has(s!)),
-      ),
-    ];
+  for (const [personSlug, bandSlugsSet] of bandsByPerson) {
+    const bandSlugs = [...bandSlugsSet];
+    if (bandSlugs.length < 2) continue;
+    const name = personName.get(personSlug) ?? personSlug;
     for (let i = 0; i < bandSlugs.length; i++) {
       for (let j = i + 1; j < bandSlugs.length; j++) {
         const a = bandSlugs[i];
         const b = bandSlugs[j];
-        const key = [a, b].sort().join("|") + "|" + person.slug;
+        const key = [a, b].sort().join("|") + "|" + personSlug;
         if (seen.has(key)) continue;
         seen.add(key);
         edges.push({
-          personSlug: person.slug,
-          personName: person.name,
+          personSlug,
+          personName: name,
           bandA: a,
           bandB: b,
         });

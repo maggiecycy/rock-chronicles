@@ -1,0 +1,32 @@
+{
+  "name": "Alex Van Halen",
+  "slug": "alex-van-halen",
+  "born": 1953,
+  "origin": "Amsterdam, Netherlands / Pasadena, USA",
+  "roles": [
+    "Drums"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Van Halen drummer; double-bass power and ride-bell accents behind Eddie’s riffs.",
+    "zh": "Van Halen 鼓手；双底鼓力度与 ride 钟点衬 Eddie 的 riff。"
+  },
+  "body": {
+    "en": "Born 1953. Co-founder with Eddie. Hot for Teacher double-bass and dance-floor pocket on Jump define the kit identity.\n\nContinuous seat through Roth/Hagar swaps; rhythm half of the brothers’ engine.",
+    "zh": "1953 年生。与 Eddie 共同创办。Hot for Teacher 双底鼓与 Jump 的舞曲律动定义鼓组身份。\n\n跨 Roth/Hagar 换人的连续席位；兄弟引擎的节奏半边。"
+  },
+  "tenures": [
+    {
+      "bandName": "Van Halen",
+      "bandSlug": "van-halen",
+      "role": "Drums",
+      "from": 1972,
+      "to": 2020
+    }
+  ],
+  "relatedPeople": [
+    "eddie-van-halen",
+    "david-lee-roth",
+    "sammy-hagar"
+  ]
+}

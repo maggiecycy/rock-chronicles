@@ -1,0 +1,20 @@
+{
+  "name": "Marty Friedman",
+  "slug": "marty-friedman",
+  "born": 1962,
+  "origin": "Laurel, Maryland, USA",
+  "roles": ["Guitar"],
+  "hub": false,
+  "shortBio": {
+    "en": "Megadeth lead guitar on Rust in Peace–era technical peak.",
+    "zh": "Rust in Peace 时期 Megadeth 技术巅峰主音吉他。"
+  },
+  "body": {
+    "en": "Joins for Rust in Peace. Fusion-leaning phrasing at thrash tempos. Leaves 2000; peak-cast identity stays tied to that album cycle.",
+    "zh": "为 Rust in Peace 加入。在 thrash 速度上偏融合的乐句。2000 离开；巅峰卡司身份仍绑在那一轮专辑。"
+  },
+  "tenures": [
+    { "bandName": "Megadeth", "bandSlug": "megadeth", "role": "Guitar", "from": 1990, "to": 2000 }
+  ],
+  "relatedPeople": ["dave-mustaine", "dave-ellefson"]
+}

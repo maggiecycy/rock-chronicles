@@ -1,0 +1,42 @@
+{
+  "name": "Lindsey Buckingham",
+  "slug": "lindsey-buckingham",
+  "born": 1949,
+  "origin": "Palo Alto, USA",
+  "roles": [
+    "Guitar",
+    "Vocals",
+    "Producer"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Fleetwood Mac guitarist/arranger; fingerpicked acoustics and studio polish on Rumours.",
+    "zh": "Fleetwood Mac 吉他/编曲；Rumours 上的指弹吉他与录音室抛光。"
+  },
+  "body": {
+    "en": "Born 1949. Joins 1975. Go Your Own Way and The Chain show layered acoustics, precise drums, stacked vocals.\n\nOff/on Mac tenures after 1987; Rumours-era arrangement is the citation.",
+    "zh": "1949 年生。1975 加入。Go Your Own Way 与 The Chain 展示多层原声、精确鼓、堆叠人声。\n\n1987 后离合；引用仍是 Rumours 时期编曲。"
+  },
+  "tenures": [
+    {
+      "bandName": "Buckingham Nicks",
+      "role": "Guitar, Vocals",
+      "from": 1973,
+      "to": 1975,
+      "note": {
+        "en": "Pre-Mac duo; not in chronicle.",
+        "zh": "入 Mac 前二人组；未入编年史。"
+      }
+    },
+    {
+      "bandName": "Fleetwood Mac",
+      "bandSlug": "fleetwood-mac",
+      "role": "Guitar, Vocals",
+      "from": 1975,
+      "to": 2018
+    }
+  ],
+  "relatedPeople": [
+    "stevie-nicks"
+  ]
+}

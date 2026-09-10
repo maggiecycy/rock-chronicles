@@ -1,0 +1,36 @@
+{
+  "name": "Kim Gordon",
+  "slug": "kim-gordon",
+  "born": 1953,
+  "origin": "Rochester / Los Angeles, USA",
+  "roles": [
+    "Bass",
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Sonic Youth bassist/vocalist; spoken/sung delivery inside noise-indie forms.",
+    "zh": "Sonic Youth 贝斯/人声；噪声 indie 形式里的说/唱交付。"
+  },
+  "whyHub": {
+    "en": "Sonic Youth → solo/art projects: noise-indie vocal/bass as separate brand after 2011.",
+    "zh": "Sonic Youth → 独唱/艺术项目：2011 后噪声 indie 人声/贝斯成独立品牌。"
+  },
+  "body": {
+    "en": "Born 1953. Bass and vocal on Sister / Daydream Nation / Dirty. Band ends 2011; solo and art work continue.\n\nHub: NYC noise-rock personnel that outlasts the logo.",
+    "zh": "1953 年生。Sister / Daydream Nation / Dirty 上贝斯与人声。2011 乐队结束；独唱与艺术工作继续。\n\n枢纽：纽约 noise-rock 人事可脱离 logo 存续。"
+  },
+  "tenures": [
+    {
+      "bandName": "Sonic Youth",
+      "bandSlug": "sonic-youth",
+      "role": "Bass, Vocals",
+      "from": 1981,
+      "to": 2011
+    }
+  ],
+  "relatedPeople": [
+    "thurston-moore"
+  ]
+}

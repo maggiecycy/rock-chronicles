@@ -1,0 +1,26 @@
+{
+  "name": "David Lee Roth",
+  "slug": "david-lee-roth",
+  "born": 1954,
+  "origin": "Bloomington, Indiana, USA",
+  "roles": ["Vocals"],
+  "hub": true,
+  "shortBio": {
+    "en": "Van Halen frontman 1974–85 (and later returns); carnival bark opposite Eddie’s precision.",
+    "zh": "Van Halen 主唱 1974–85（及后来回归）；对位 Eddie 精度的嘉年华吠叫。"
+  },
+  "whyHub": {
+    "en": "Singer-era pole in the Roth vs Hagar forever fight.",
+    "zh": "Roth vs Hagar 永久内战里的主唱极。"
+  },
+  "body": {
+    "en": "Showman vocal and talk-sing. Leaves mid-80s; solo career; returns for later tours. Person page keeps Roth-era catalog distinct from Hagar radio years.",
+    "zh": "表演人声与说唱式唱法。80 年代中期离开；独唱；后期巡演回归。人物页把 Roth 时期目录与 Hagar 电台年分开。"
+  },
+  "tenures": [
+    { "bandName": "Van Halen", "bandSlug": "van-halen", "role": "Vocals", "from": 1974, "to": 1985 },
+    { "bandName": "Van Halen", "bandSlug": "van-halen", "role": "Vocals", "from": 2007, "to": "present" },
+    { "bandName": "David Lee Roth (solo)", "role": "Vocals", "from": 1985, "to": "present" }
+  ],
+  "relatedPeople": ["eddie-van-halen", "sammy-hagar", "alex-van-halen"]
+}

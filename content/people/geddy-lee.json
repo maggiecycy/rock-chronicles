@@ -1,0 +1,33 @@
+{
+  "name": "Geddy Lee",
+  "slug": "geddy-lee",
+  "born": 1953,
+  "origin": "Toronto, Canada",
+  "roles": [
+    "Bass",
+    "Vocals",
+    "Keyboards"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Rush bassist/singer; Rickenbacker/Fender tone, high tenor, Moog foot-pedals live.",
+    "zh": "Rush 贝斯/主唱；Rickenbacker/Fender 音色、高男高音、现场 Moog 脚踏。"
+  },
+  "body": {
+    "en": "Born 1953. Handles bass + lead vocal + synth layers. Tom Sawyer and YYZ show the dual-duty grammar.\n\nConstant of the Peart-era trio with Lifeson.",
+    "zh": "1953 年生。兼贝斯+主唱+合成器层。Tom Sawyer 与 YYZ 展示双责语法。\n\n与 Lifeson 组成 Peart 时期三人组的常量。"
+  },
+  "tenures": [
+    {
+      "bandName": "Rush",
+      "bandSlug": "rush",
+      "role": "Bass, Vocals, Keyboards",
+      "from": 1968,
+      "to": 2018
+    }
+  ],
+  "relatedPeople": [
+    "alex-lifeson",
+    "neil-peart"
+  ]
+}

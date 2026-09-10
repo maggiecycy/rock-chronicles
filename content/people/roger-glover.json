@@ -1,0 +1,48 @@
+{
+  "name": "Roger Glover",
+  "slug": "roger-glover",
+  "born": 1945,
+  "origin": "Brecon, Wales, UK",
+  "roles": ["Bass"],
+  "hub": true,
+  "shortBio": {
+    "en": "Deep Purple Mark II bass; later Rainbow bass/producer before Purple reunions.",
+    "zh": "Deep Purple Mark II 贝斯；后 Rainbow 贝斯/制作，再回 Purple 重聚。"
+  },
+  "whyHub": {
+    "en": "Deep Purple ↔ Rainbow personnel bridge alongside Blackmore.",
+    "zh": "与 Blackmore 并列的 Deep Purple ↔ Rainbow 人事桥。"
+  },
+  "body": {
+    "en": "Born 1945. Mark II bass on In Rock / Machine Head / Made in Japan. Leaves with Gillan 1973; joins Rainbow mid-70s as player/producer. Returns to Purple in 1984 reunion lineups.\n\nRelated: Purple–Rainbow family tree on the shared-member graph.",
+    "zh": "1945 年生。Mark II 贝斯见于 In Rock / Machine Head / Made in Japan。1973 与 Gillan 离队；70 年代中加入 Rainbow 任演奏/制作。1984 重聚回 Purple。\n\n相关：共享成员图上的 Purple–Rainbow 族谱。"
+  },
+  "tenures": [
+    {
+      "bandName": "Deep Purple",
+      "bandSlug": "deep-purple",
+      "role": "Bass",
+      "from": 1969,
+      "to": 1973
+    },
+    {
+      "bandName": "Rainbow",
+      "bandSlug": "rainbow",
+      "role": "Bass",
+      "from": 1979,
+      "to": 1984,
+      "note": {
+        "en": "Player/producer era after Dio; before Purple reunion.",
+        "zh": "Dio 后的演奏/制作期；Purple 重聚前。"
+      }
+    },
+    {
+      "bandName": "Deep Purple",
+      "bandSlug": "deep-purple",
+      "role": "Bass",
+      "from": 1984,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": ["ritchie-blackmore", "ian-gillan", "ronnie-james-dio"]
+}

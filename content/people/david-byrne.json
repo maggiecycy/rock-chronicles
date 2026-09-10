@@ -1,0 +1,32 @@
+{
+  "name": "David Byrne",
+  "slug": "david-byrne",
+  "born": 1952,
+  "origin": "Dumbarton, Scotland / Baltimore, USA",
+  "roles": [
+    "Vocals",
+    "Guitar",
+    "Songwriting"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Talking Heads frontman; angular guitar, nervous baritone, Eno-era polyrhythm vocals.",
+    "zh": "Talking Heads 主唱；棱角吉他、紧张男中音、Eno 时期多节奏人声。"
+  },
+  "body": {
+    "en": "Born 1952. CBGB art-punk to Remain in Light (1980) with Eno. Stop Making Sense locks big-suit stage grammar.\n\nPost-Heads solo and soundtrack work; Heads catalog remains the citation.",
+    "zh": "1952 年生。从 CBGB 艺术朋克到与 Eno 的 Remain in Light（1980）。Stop Making Sense 锁死大西装舞台语法。\n\nHeads 后独唱与配乐；Heads 目录仍是引用。"
+  },
+  "tenures": [
+    {
+      "bandName": "Talking Heads",
+      "bandSlug": "talking-heads",
+      "role": "Vocals, Guitar",
+      "from": 1975,
+      "to": 1991
+    }
+  ],
+  "relatedPeople": [
+    "tina-weymouth"
+  ]
+}

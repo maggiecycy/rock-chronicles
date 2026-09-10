@@ -1,0 +1,31 @@
+{
+  "name": "Alex Lifeson",
+  "slug": "alex-lifeson",
+  "born": 1953,
+  "origin": "Fernie / Toronto, Canada",
+  "roles": [
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Rush guitarist; chorus/echo arpeggios and hard-rock power chords inside prog forms.",
+    "zh": "Rush 吉他手；prog 曲式里的 chorus/echo 分解和弦与 hard-rock 强力和弦。"
+  },
+  "body": {
+    "en": "Born 1953. Co-founder. Moving Pictures era: clean arpeggio verses, saturated chorus hits. Less shred-hero, more arrangement guitar.\n\nTrio chemistry with Lee/Peart is the product.",
+    "zh": "1953 年生。联合创始人。Moving Pictures 时期：干净分解主歌、饱和副歌冲击。少 shred 英雄，多编曲吉他。\n\n与 Lee/Peart 的三人化学反应即产品。"
+  },
+  "tenures": [
+    {
+      "bandName": "Rush",
+      "bandSlug": "rush",
+      "role": "Guitar",
+      "from": 1968,
+      "to": 2018
+    }
+  ],
+  "relatedPeople": [
+    "geddy-lee",
+    "neil-peart"
+  ]
+}

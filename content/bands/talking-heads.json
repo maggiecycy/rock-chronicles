@@ -6,24 +6,146 @@
   "primaryEra": "punk-postpunk",
   "genres": [
     "post-punk",
+    "new-wave",
     "alternative"
   ],
-  "decisive": false,
+  "decisive": true,
   "whyMatters": {
     "en": "CBGB-origin art-funk band; Remain in Light (1980, Eno) fused polyrhythm, looped guitar, and Byrne’s vocal into new-wave’s densest studio peak.",
     "zh": "源自 CBGB 的 art-funk；Remain in Light（1980，Eno）把复合节奏、循环吉他与 Byrne 人声做成 new wave 最密的录音室高峰。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "David Byrne",
+      "role": "Vocals, Guitar",
+      "years": "1975–1991",
+      "personSlug": "david-byrne"
+    },
+    {
+      "name": "Tina Weymouth",
+      "role": "Bass",
+      "years": "1975–1991",
+      "personSlug": "tina-weymouth"
+    },
+    {
+      "name": "Chris Frantz",
+      "role": "Drums",
+      "years": "1975–1991"
+    },
+    {
+      "name": "Jerry Harrison",
+      "role": "Guitar, Keyboards",
+      "years": "1977–1991"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Once in a Lifetime",
       "year": 1980
+    },
+    {
+      "title": "Psycho Killer",
+      "year": 1977
+    },
+    {
+      "title": "Burning Down the House",
+      "year": 1983
+    },
+    {
+      "title": "This Must Be the Place (Naive Melody)",
+      "year": 1983
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1977,
+      "track": "Psycho Killer",
+      "membersOnStage": [
+        "David Byrne",
+        "Tina Weymouth",
+        "Chris Frantz"
+      ],
+      "genreTags": [
+        "post-punk",
+        "new-wave"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Nervous funk trio grammar before Harrison; bass ostinato + dry drums.",
+        "zh": "Harrison 前的紧张 funk 三人语法；贝斯固定音型 + 干鼓。"
+      }
+    },
+    {
+      "year": 1980,
+      "track": "Once in a Lifetime",
+      "membersOnStage": [
+        "David Byrne",
+        "Tina Weymouth",
+        "Chris Frantz",
+        "Jerry Harrison"
+      ],
+      "genreTags": [
+        "new-wave",
+        "post-punk"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Eno-era polyrhythm, looped parts, Byrne spoken-sung hook.",
+        "zh": "Eno 时期复合节奏、循环声部、Byrne 说唱钩子。"
+      }
+    },
+    {
+      "year": 1983,
+      "track": "Burning Down the House",
+      "membersOnStage": [
+        "David Byrne",
+        "Tina Weymouth",
+        "Chris Frantz",
+        "Jerry Harrison"
+      ],
+      "genreTags": [
+        "new-wave"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Speaking in Tongues hit; expanded live band, MTV-scale chorus.",
+        "zh": "Speaking in Tongues 热单；扩编现场乐队、MTV 尺度副歌。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Same as it ever was.",
+      "speaker": "David Byrne",
+      "source": "Once in a Lifetime lyric · quote wall",
+      "year": 1980
+    },
+    {
+      "text": "We wanted to make music you could dance to without looking stupid.",
+      "speaker": "Tina Weymouth",
+      "source": "Press excerpt",
+      "year": 1981
+    }
+  ],
+  "lyricQuotes": [
+    "And you may find yourself living in a shotgun shack",
+    "Psycho killer, qu'est-ce que c'est?"
+  ],
+  "relatedBands": [
+    "joy-division",
+    "the-police",
+    "depeche-mode",
+    "new-order"
+  ],
+  "influenceFrom": [
+    "the-velvet-underground",
+    "sex-pistols"
+  ],
+  "influenced": [
+    "radiohead",
+    "depeche-mode",
+    "the-police"
+  ],
   "shortBio": {
     "en": "Byrne / Harrison / Weymouth / Frantz new wave; Once in a Lifetime is the mass entry.",
     "zh": "Byrne / Harrison / Weymouth / Frantz 的 new wave；Once in a Lifetime 是大众入口。"
@@ -31,5 +153,168 @@
   "body": {
     "en": "Formed 1975. Talking Heads: 77 and More Songs… established nervous funk; Fear of Music and Remain in Light expanded African/American rhythm collaboration and studio layering.\n\nOnce in a Lifetime (1980) is the listed track. They show post-punk can be dance music and art school without glam costume—groove and lyric dissociation as method.",
     "zh": "1975 年组建。Talking Heads: 77 与 More Songs… 确立紧张 funk；Fear of Music 与 Remain in Light 扩展非裔/美洲节奏合作与录音室分层。\n\nOnce in a Lifetime（1980）是列出曲目。证明后朋克可以是舞曲与艺术学院产物而无 glam 戏服——groove 与歌词抽离即方法。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Art-funk into new-wave studio density",
+        "zh": "Art-funk 进入 new-wave 录音室密度"
+      },
+      "body": {
+        "en": "CBGB tightness plus Weymouth/Frantz groove becomes Remain in Light’s looped polyrhythm with Eno.\n\nNew wave’s densest studio peak without abandoning dance grid.",
+        "zh": "CBGB 紧凑加上 Weymouth/Frantz groove，经 Eno 变成 Remain in Light 的循环复合节奏。\n\nnew wave 最密录音室高峰，不丢舞曲格子。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "new-wave"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Trio CBGB → four + Eno era",
+        "zh": "CBGB 三人 → 四人 + Eno 时期"
+      },
+      "body": {
+        "en": "Early Heads: Byrne/Weymouth/Frantz. Harrison joins 1977. Remain in Light adds session players in studio while logo stays four.\n\nVersions are production states more than singer swaps.",
+        "zh": "早期 Heads：Byrne/Weymouth/Frantz。Harrison 1977 加入。Remain in Light 录音室加 session，logo 仍四人。\n\n版本是制作状态多于换主唱。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "lifetime",
+      "title": {
+        "en": "Once in a Lifetime: loop as hook",
+        "zh": "Once in a Lifetime：循环即钩子"
+      },
+      "body": {
+        "en": "Spoken-sung verses over interlocking bass/guitar/keys. MTV video locks the water-gesture stage grammar.\n\nTeaching track for Remain in Light method.",
+        "zh": "互锁贝斯/吉他/键盘上的说唱主歌。MTV 录像锁死泼水手势舞台语法。\n\nRemain in Light 方法教材曲。"
+      },
+      "stickyVisual": "scene",
+      "soundGenre": "new-wave",
+      "sceneIndex": 1
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Byrne angle, Weymouth pocket",
+        "zh": "Byrne 棱角，Weymouth 律动"
+      },
+      "body": {
+        "en": "Byrne’s angular guitar and nervous baritone sit on Weymouth’s melodic funk bass and Frantz’s dry kick. Harrison adds keys/guitar color.\n\nTom Tom Club (Weymouth/Frantz) proves the rhythm section can own a separate hit logo.",
+        "zh": "Byrne 棱角吉他与紧张男中音坐在 Weymouth 旋律 funk 贝斯与 Frantz 干底鼓上。Harrison 加键盘/吉他色彩。\n\nTom Tom Club（Weymouth/Frantz）证明节奏组可拥有独立热单 logo。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "new-wave"
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Dance without looking stupid",
+        "zh": "跳舞而不显得蠢"
+      },
+      "body": {
+        "en": "Weymouth’s dance claim and Byrne’s lyric catchphrase document the Heads bargain: art posture plus floor utility.\n\nQuotes are method labels.",
+        "zh": "Weymouth 的舞曲主张与 Byrne 歌词口头禅记录 Heads 交易：艺术姿态 + 舞池效用。\n\n引语是方法标签。"
+      },
+      "stickyVisual": "quote",
+      "soundGenre": "new-wave",
+      "quoteIndex": 1
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Post-punk as dance and studio system",
+        "zh": "后朋克作为舞曲与录音室系统"
+      },
+      "body": {
+        "en": "Radiohead and later art-rock cite Remain in Light density. Depeche Mode and new-wave peers share the dance-grid inheritance.\n\nHeads prove CBGB can scale to polyrhythm albums.",
+        "zh": "Radiohead 与后来 art-rock 引用 Remain in Light 密度。Depeche Mode 与 new-wave 同辈共享舞曲格子遗产。\n\nHeads 证明 CBGB 可扩到复合节奏专辑。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "cbgb-trio",
+      "label": {
+        "en": "CBGB trio",
+        "zh": "CBGB 三人"
+      },
+      "years": "1975–1977",
+      "members": [
+        {
+          "name": "David Byrne",
+          "role": "Vocals, Guitar",
+          "personSlug": "david-byrne"
+        },
+        {
+          "name": "Tina Weymouth",
+          "role": "Bass",
+          "personSlug": "tina-weymouth"
+        },
+        {
+          "name": "Chris Frantz",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Psycho Killer-era three-piece.",
+        "zh": "Psycho Killer 时期三人组。"
+      }
+    },
+    {
+      "id": "classic-four",
+      "label": {
+        "en": "Classic four",
+        "zh": "经典四人"
+      },
+      "years": "1977–1991",
+      "peak": true,
+      "members": [
+        {
+          "name": "David Byrne",
+          "role": "Vocals, Guitar",
+          "personSlug": "david-byrne"
+        },
+        {
+          "name": "Tina Weymouth",
+          "role": "Bass",
+          "personSlug": "tina-weymouth"
+        },
+        {
+          "name": "Chris Frantz",
+          "role": "Drums"
+        },
+        {
+          "name": "Jerry Harrison",
+          "role": "Guitar, Keyboards"
+        }
+      ],
+      "note": {
+        "en": "Remain in Light through Speaking in Tongues peak years.",
+        "zh": "Remain in Light 至 Speaking in Tongues 峰值年。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Once in a Lifetime",
+      "year": 1980,
+      "note": {
+        "en": "Eno-era polyrhythm as new-wave mass entry.",
+        "zh": "Eno 时期复合节奏作为 new-wave 大众入口。"
+      }
+    },
+    "pioneeredGenres": [
+      "new-wave",
+      "post-punk"
+    ],
+    "note": {
+      "en": "Art-school funk + studio looping without glam costume.",
+      "zh": "艺术学院 funk + 录音室循环，无 glam 戏服。"
+    }
   }
 }

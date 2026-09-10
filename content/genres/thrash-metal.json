@@ -1,0 +1,23 @@
+{
+  "name": "Thrash Metal",
+  "slug": "thrash-metal",
+  "summary": {
+    "en": "Double-time riffs, palm mute, and punk tempo inside metal’s gain culture.",
+    "zh": "倍速 Riff、闷音扫弦，把朋克速度塞进金属增益文化。"
+  },
+  "eraFocus": "Metal Branches",
+  "representativeBands": [
+    "metallica",
+    "megadeth",
+    "slayer"
+  ],
+  "body": {
+    "en": "Thrash hardens NWOBHM and hard rock with punk speed: downpicked sixteenth riffs, shouted vocals, and tighter song lengths than epic metal. The Bay Area / European circuits make it a parallel metal mainstream in the mid-80s.\n\nMetallica, Megadeth, and Slayer are the teaching set—discipline and aggression as the product, not ballad gloss.",
+    "zh": "Thrash 用朋克速度硬化 NWOBHM 与 hard rock：下行扫弦十六分 Riff、喊叫人声、比史诗金属更短的歌曲。湾区/欧洲线路在 80 年代中期形成平行金属主流。\n\nMetallica、Megadeth、Slayer 是教学组——产品是纪律与攻击性，不是谣曲抛光。"
+  },
+  "pioneerBands": [
+    "metallica",
+    "megadeth",
+    "slayer"
+  ]
+}

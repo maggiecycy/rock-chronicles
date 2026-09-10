@@ -10,26 +10,282 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Seattle band that kept 1970s hard-rock riff craft inside grunge; Badmotorfinger (1991) and Superunknown (1994) are the peak documents.",
-    "zh": "西雅图乐队：把 1970 年代 hard-rock riff 工艺留在 grunge 里；Badmotorfinger（1991）与 Superunknown（1994）是峰值文献。"
+    "en": "Seattle band that kept 1970s hard-rock riff craft inside grunge; Badmotorfinger (1991) and Superunknown (1994) are the peak pair.",
+    "zh": "西雅图乐队：把 70 年代 hard-rock riff 工艺留在 grunge 里；Badmotorfinger（1991）与 Superunknown（1994）是巅峰双专。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Chris Cornell",
+      "role": "Vocals, Guitar",
+      "years": "1984–1997; 2010–2017",
+      "personSlug": "chris-cornell"
+    },
+    {
+      "name": "Kim Thayil",
+      "role": "Guitar",
+      "years": "1984–1997; 2010–2017"
+    },
+    {
+      "name": "Ben Shepherd",
+      "role": "Bass",
+      "years": "1990–1997; 2010–2017"
+    },
+    {
+      "name": "Matt Cameron",
+      "role": "Drums",
+      "years": "1986–1997; 2010–2017",
+      "personSlug": "matt-cameron"
+    },
+    {
+      "name": "Hiro Yamamoto",
+      "role": "Bass",
+      "years": "1984–1989"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Black Hole Sun",
       "year": 1994
+    },
+    {
+      "title": "Rusty Cage",
+      "year": 1991
+    },
+    {
+      "title": "Spoonman",
+      "year": 1994
+    },
+    {
+      "title": "Outshined",
+      "year": 1991
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1994,
+      "track": "Black Hole Sun",
+      "membersOnStage": [
+        "Chris Cornell",
+        "Kim Thayil",
+        "Ben Shepherd",
+        "Matt Cameron"
+      ],
+      "genreTags": [
+        "grunge",
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Superunknown ballad-riff hybrid; MTV saturation.",
+        "zh": "Superunknown 谣曲-riff 混合；MTV 饱和。"
+      }
+    },
+    {
+      "year": 1991,
+      "track": "Rusty Cage",
+      "membersOnStage": [
+        "Chris Cornell",
+        "Kim Thayil",
+        "Ben Shepherd",
+        "Matt Cameron"
+      ],
+      "genreTags": [
+        "grunge",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Drop-tuned riff + Cornell scream; Badmotorfinger face.",
+        "zh": "降调 riff + Cornell 尖叫；Badmotorfinger 脸。"
+      }
+    },
+    {
+      "year": 1994,
+      "track": "Spoonman",
+      "membersOnStage": [
+        "Chris Cornell",
+        "Kim Thayil",
+        "Ben Shepherd",
+        "Matt Cameron"
+      ],
+      "genreTags": [
+        "grunge"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Odd meter + street percussion cameo.",
+        "zh": "奇数拍 + 街头打击客串。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We were a hard-rock band that happened to be from Seattle.",
+      "speaker": "Kim Thayil",
+      "source": "Press interview excerpt",
+      "year": 1994
+    }
+  ],
+  "lyricQuotes": [
+    "Times are gone for honest men",
+    "In my eyes / Indisposed"
+  ],
+  "relatedBands": [
+    "nirvana",
+    "pearl-jam",
+    "alice-in-chains",
+    "led-zeppelin",
+    "black-sabbath"
+  ],
+  "influenceFrom": [
+    "led-zeppelin",
+    "black-sabbath",
+    "the-who"
+  ],
+  "influenced": [
+    "foo-fighters",
+    "queens-of-the-stone-age"
+  ],
   "shortBio": {
-    "en": "Cornell / Thayil heavy grunge; Black Hole Sun is the mass single.",
-    "zh": "Cornell / Thayil 的重型 grunge；Black Hole Sun 是大众单曲。"
+    "en": "Cornell–Thayil grunge/hard-rock; Superunknown mass peak.",
+    "zh": "Cornell–Thayil grunge/hard-rock；Superunknown 大众峰值。"
   },
   "body": {
-    "en": "Formed 1984. Ultramega OK and Louder Than Love preceded the breakthrough; Badmotorfinger and Superunknown paired Chris Cornell’s wide vocal range with Kim Thayil’s odd-time, drop-tuned riffs.\n\nBlack Hole Sun (1994) is the listed hit—psychedelic chord color over a slow groove. They are Seattle’s most explicit Sabbath/Zeppelin riff lineage inside the grunge cohort.",
-    "zh": "1984 年组建。Ultramega OK 与 Louder Than Love 在突破之前；Badmotorfinger 与 Superunknown 把 Chris Cornell 宽音域人声与 Kim Thayil 奇数拍、降调 riff 配对。\n\nBlack Hole Sun（1994）是列出热单——慢 groove 上的迷幻和弦色彩。西雅图 grunge 同辈里，他们的 Sabbath/Zeppelin riff 谱系最明确。"
+    "en": "Formed 1984. Sub Pop then major. Badmotorfinger odd meters; Superunknown (1994) brings Black Hole Sun to MTV. Split 1997; reunite 2010–17.\n\nDrop tunings + Cornell range = Zeppelin craft inside Seattle logo.",
+    "zh": "1984 年组建。Sub Pop 后转大厂。Badmotorfinger 奇数拍；Superunknown（1994）把 Black Hole Sun 送上 MTV。1997 解散；2010–17 重聚。\n\n降调 + Cornell 音域 = 西雅图 logo 里的齐柏林工艺。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Hard-rock craft inside grunge branding",
+        "zh": "Grunge 品牌里的 hard-rock 工艺"
+      },
+      "body": {
+        "en": "Soundgarden keeps Sabbath/Zeppelin riff weight while Seattle peers push punk-slop or folk angst. Odd meters from Cameron; Thayil drop tunings.\n\nGrunge chart act that still reads as metal-adjacent hard rock.",
+        "zh": "Soundgarden 保留 Sabbath/Zeppelin riff 重量，同时西雅图同辈推朋克脏或民谣焦虑。Cameron 奇数拍；Thayil 降调。\n\n仍可读作金属相邻 hard rock 的 grunge 上榜乐队。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Shepherd-era four as peak",
+        "zh": "Shepherd 时期四人即巅峰"
+      },
+      "body": {
+        "en": "Yamamoto early bass. Peak: Cornell / Thayil / Shepherd / Cameron on Badmotorfinger–Down on the Upside.\n\nPeak flag on that four.",
+        "zh": "早期 Yamamoto 贝斯。巅峰：Badmotorfinger–Down on the Upside 上的 Cornell / Thayil / Shepherd / Cameron。\n\n巅峰旗在那四人。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Four-octave scream, drop riffs, odd kit",
+        "zh": "四八度尖叫、降调 riff、奇数鼓"
+      },
+      "body": {
+        "en": "Cornell: wide vibrato, high belt. Thayil: Guild/Gibson drop tunings, wah color. Shepherd: melodic distortion bass. Cameron: polyrhythm pocket (later Pearl Jam too).\n\nSeats are specialist; songs still hook.",
+        "zh": "Cornell：宽颤音、高喊。Thayil：Guild/Gibson 降调、哇音色彩。Shepherd：旋律失真贝斯。Cameron：复合节奏律动（后也在 Pearl Jam）。\n\n席位专家；歌仍有钩子。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "rusty-cage",
+      "title": {
+        "en": "Rusty Cage: Badmotorfinger attack",
+        "zh": "Rusty Cage：Badmotorfinger 攻击"
+      },
+      "body": {
+        "en": "Chromatic riff, tempo gear-shift, Cornell shriek. Cash later covers it—proof of song under noise.\n\nPre-Superunknown face track.",
+        "zh": "半音 riff、速度换挡、Cornell 尖叫。Cash 后翻唱——证明噪音下仍有歌。\n\nSuperunknown 前的门面曲。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "black-hole-sun",
+      "title": {
+        "en": "Black Hole Sun: MTV mass entry",
+        "zh": "Black Hole Sun：MTV 大众入口"
+      },
+      "body": {
+        "en": "Psychedelic chord color, whispered verse, big chorus. Video saturation makes Superunknown unavoidable.\n\nSoftest face of a heavy band.",
+        "zh": "迷幻和弦色彩、低语主歌、大副歌。影像饱和让 Superunknown 无法回避。\n\n重金属乐队最软的脸。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Seattle hard-rock pillar",
+        "zh": "西雅图 hard-rock 支柱"
+      },
+      "body": {
+        "en": "Beside Nirvana/Pearl Jam/AIC as Big Four. QOTSA and post-grunge hard rock cite Thayil tunings and Cornell range.\n\nGrunge with metal homework done.",
+        "zh": "与 Nirvana/Pearl Jam/AIC 并列四大。QOTSA 与后 grunge hard rock 引用 Thayil 调弦与 Cornell 音域。\n\n做完金属功课的 grunge。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "grunge"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "superunknown-four",
+      "label": {
+        "en": "Badmotorfinger / Superunknown four",
+        "zh": "Badmotorfinger / Superunknown 四人"
+      },
+      "years": "1990–1997",
+      "peak": true,
+      "members": [
+        {
+          "name": "Chris Cornell",
+          "role": "Vocals, Guitar",
+          "personSlug": "chris-cornell"
+        },
+        {
+          "name": "Kim Thayil",
+          "role": "Guitar"
+        },
+        {
+          "name": "Ben Shepherd",
+          "role": "Bass"
+        },
+        {
+          "name": "Matt Cameron",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Peak studio and MTV era.",
+        "zh": "巅峰录音与 MTV 时期。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Black Hole Sun",
+      "year": 1994,
+      "note": {
+        "en": "MTV-era single that fixed Superunknown mass ID.",
+        "zh": "固定 Superunknown 大众 ID 的 MTV 单曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "grunge",
+      "hard-rock"
+    ],
+    "note": {
+      "en": "Drop-tuned hard-rock craft under grunge logo.",
+      "zh": "Grunge logo 下的降调 hard-rock 工艺。"
+    }
   }
 }

@@ -1,0 +1,22 @@
+{
+  "name": "Shoegaze",
+  "slug": "shoegaze",
+  "summary": {
+    "en": "Guitar fog: tremolo bends, stacked fuzz/delay, vocals buried in the wash.",
+    "zh": "吉他雾：颤音臂弯音、堆叠 Fuzz/Delay，人声埋进声墙。"
+  },
+  "eraFocus": "Grunge & Alternative",
+  "representativeBands": [
+    "my-bloody-valentine",
+    "slowdive",
+    "sonic-youth"
+  ],
+  "body": {
+    "en": "Shoegaze treats texture as composition. Pedalboards and studio layering build harmonic blur; drums stay relatively dry so the guitar ocean can move. UK Creation-era records and US noise-adjacent peers share the method even when scenes argue labels.\n\nLoveless-era My Bloody Valentine is the production ceiling most later indie cites.",
+    "zh": "Shoegaze 把纹理当作曲。效果器板与录音室分层做出和声模糊；鼓相对干，好让吉他海移动。英国 Creation 时期唱片与美国噪声相邻同辈共用方法，即使场景在吵标签。\n\nLoveless 时期 My Bloody Valentine 是后来 indie 最常引用的制作上限。"
+  },
+  "pioneerBands": [
+    "my-bloody-valentine",
+    "slowdive"
+  ]
+}

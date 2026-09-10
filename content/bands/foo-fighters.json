@@ -9,7 +9,20 @@
     "hard-rock"
   ],
   "decisive": false,
-  "members": [],
+  "members": [
+    {
+      "name": "Dave Grohl",
+      "role": "Vocals, Guitar",
+      "years": "1994–present",
+      "personSlug": "dave-grohl"
+    },
+    {
+      "name": "Pat Smear",
+      "role": "Guitar",
+      "years": "1994–1997; 2005–present",
+      "personSlug": "pat-smear"
+    }
+  ],
   "essentialTracks": [],
   "lyricQuotes": [],
   "relatedBands": [

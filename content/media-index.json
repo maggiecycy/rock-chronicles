@@ -329,6 +329,206 @@
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sting_Atlanta_3.jpg"
+    },
+    "blur": {
+      "src": "/media/bands/blur.jpg",
+      "alt": {
+        "en": "Blur live at Provinssirock, 2013",
+        "zh": "Blur（Wikimedia Commons）"
+      },
+      "credit": "Cecil",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Provinssirock_20130614_-_Blur_-_22.jpg"
+    },
+    "david-bowie": {
+      "src": "/media/bands/david-bowie.png",
+      "alt": {
+        "en": "David Bowie on TopPop, 1974",
+        "zh": "David Bowie（Wikimedia Commons）"
+      },
+      "credit": "AVRO / TopPop",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Bowie_-_TopPop_1974_07.png"
+    },
+    "deep-purple": {
+      "src": "/media/bands/deep-purple.jpg",
+      "alt": {
+        "en": "Deep Purple at Ostseehalle, Kiel, 1970",
+        "zh": "Deep Purple（Wikimedia Commons）"
+      },
+      "credit": "Friedrich Magnussen / Stadtarchiv Kiel",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rockband_Deep_Purple_in_der_Ostseehalle_zum_Auftakt_ihrer_Deutschlandtournee_(Kiel_22.125).jpg"
+    },
+    "fleetwood-mac": {
+      "src": "/media/bands/fleetwood-mac.jpg",
+      "alt": {
+        "en": "Fleetwood Mac Rumours-era publicity photograph, 1977",
+        "zh": "Fleetwood Mac（Wikimedia Commons）"
+      },
+      "credit": "Warner Bros. Records / Billboard trade ad, 1977",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fleetwood_Mac_Rumours_trade_ad_Billboard_1977.jpg"
+    },
+    "iron-maiden": {
+      "src": "/media/bands/iron-maiden.jpg",
+      "alt": {
+        "en": "Iron Maiden at Wacken Open Air, 2016",
+        "zh": "Iron Maiden（Wikimedia Commons）"
+      },
+      "credit": "Andreas Lawen, Fotandi",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iron_Maiden_-_Wacken_Open_Air_2016-AL1683.jpg"
+    },
+    "judas-priest": {
+      "src": "/media/bands/judas-priest.jpg",
+      "alt": {
+        "en": "Judas Priest live in Bergen, 2011",
+        "zh": "Judas Priest（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Judas_Priest_Bergen_2011.jpg"
+    },
+    "megadeth": {
+      "src": "/media/bands/megadeth.jpg",
+      "alt": {
+        "en": "Megadeth promotional photograph, 1986",
+        "zh": "Megadeth（Wikimedia Commons）"
+      },
+      "credit": "Capitol / Combat promo photograph, 1986",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Megadeth_1986_Promo.jpg"
+    },
+    "my-bloody-valentine": {
+      "src": "/media/bands/my-bloody-valentine.jpg",
+      "alt": {
+        "en": "My Bloody Valentine at the Aragon, Chicago, 2013",
+        "zh": "My Bloody Valentine（Wikimedia Commons）"
+      },
+      "credit": "swimfinfan (Flickr)",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:My_Bloody_Valentine_@_the_Aragon,_Chicago,_11_3_2013_(10701118285).jpg"
+    },
+    "pearl-jam": {
+      "src": "/media/bands/pearl-jam.jpg",
+      "alt": {
+        "en": "Pearl Jam, 1991",
+        "zh": "Pearl Jam（Wikimedia Commons）"
+      },
+      "credit": "Epic Records press photograph, 1991",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pearl_Jam_1991.jpg"
+    },
+    "pixies": {
+      "src": "/media/bands/pixies.jpg",
+      "alt": {
+        "en": "Pixies live at The Anthem, Washington, D.C., 2023",
+        "zh": "Pixies（Wikimedia Commons）"
+      },
+      "credit": "Wp72",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pixies_live_at_The_Anthem_DC_-_Jun_10_2023.jpg"
+    },
+    "ramones": {
+      "src": "/media/bands/ramones.jpg",
+      "alt": {
+        "en": "Ramones in Toronto, 1976",
+        "zh": "Ramones（Wikimedia Commons）"
+      },
+      "credit": "Press / archive photograph",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramones_Toronto_1976.jpg"
+    },
+    "rush": {
+      "src": "/media/bands/rush.jpg",
+      "alt": {
+        "en": "Rush promotional photograph, early 1980s",
+        "zh": "Rush（Wikimedia Commons）"
+      },
+      "credit": "PolyGram press photograph, circa 1981",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rush_band_1970s.jpg"
+    },
+    "smashing-pumpkins": {
+      "src": "/media/bands/smashing-pumpkins.jpg",
+      "alt": {
+        "en": "The Smashing Pumpkins at Pinkpop, 2007",
+        "zh": "Smashing Pumpkins（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pinkpop_2007_-_Smashing_Pumpkins.jpg"
+    },
+    "sonic-youth": {
+      "src": "/media/bands/sonic-youth.jpg",
+      "alt": {
+        "en": "Sonic Youth SST publicity photograph, 1987",
+        "zh": "Sonic Youth（Wikimedia Commons）"
+      },
+      "credit": "Monica Dee / SST publicity photo, 1987",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sonic_Youth_(1987_SST_publicity_photo_by_Monica_Dee).jpg"
+    },
+    "soundgarden": {
+      "src": "/media/bands/soundgarden.jpg",
+      "alt": {
+        "en": "Soundgarden, 2012",
+        "zh": "Soundgarden（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soundgarden_2012.jpg"
+    },
+    "talking-heads": {
+      "src": "/media/bands/talking-heads.jpg",
+      "alt": {
+        "en": "Talking Heads publicity photograph, 1977",
+        "zh": "Talking Heads（Wikimedia Commons）"
+      },
+      "credit": "Sire Records publicity photograph, 1977",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Talking_Heads_(1977_Sire_publicity_photo).jpg"
+    },
+    "the-cure": {
+      "src": "/media/bands/the-cure.jpg",
+      "alt": {
+        "en": "The Cure live in Singapore, 2007",
+        "zh": "The Cure（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Cure_Live_in_Singapore_2-_1st_August_2007.jpg"
+    },
+    "the-doors": {
+      "src": "/media/bands/the-doors.jpg",
+      "alt": {
+        "en": "The Doors in Copenhagen, 1968",
+        "zh": "The Doors（Wikimedia Commons）"
+      },
+      "credit": "Polfoto / Jan Persson",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Doors_in_Copenhagen_1968.jpg"
+    },
+    "the-smiths": {
+      "src": "/media/bands/the-smiths.jpg",
+      "alt": {
+        "en": "The Smiths publicity photograph, 1985",
+        "zh": "The Smiths（Wikimedia Commons）"
+      },
+      "credit": "Paul Cox / Sire Records",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Smiths_1985.jpg"
+    },
+    "van-halen": {
+      "src": "/media/bands/van-halen.jpg",
+      "alt": {
+        "en": "Van Halen lineup publicity photograph, 1984",
+        "zh": "Van Halen（Wikimedia Commons）"
+      },
+      "credit": "Warner Records promotional photograph, 1984",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Van_Halen_Lineup_1984.jpg"
     }
   },
   "people": {

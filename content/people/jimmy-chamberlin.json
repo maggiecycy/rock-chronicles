@@ -1,0 +1,52 @@
+{
+  "name": "Jimmy Chamberlin",
+  "slug": "jimmy-chamberlin",
+  "born": 1964,
+  "origin": "Joliet, Illinois, USA",
+  "roles": [
+    "Drums"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Smashing Pumpkins drummer; jazz-trained kit under alt-rock walls of guitar.",
+    "zh": "Smashing Pumpkins 鼓手；alt-rock 吉他墙下的爵士训练鼓组。"
+  },
+  "body": {
+    "en": "Born 1964. Gish through Mellon Collie pocket. Exits/returns across eras; peak chemistry with Corgan/Wretzky/Iha.\n\nDrums keep prog ambition inside radio singles.",
+    "zh": "1964 年生。Gish 至 Mellon Collie 律动。跨时期离合；与 Corgan/Wretzky/Iha 峰值化学反应。\n\n鼓把 prog 野心留在电台单曲里。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Smashing Pumpkins",
+      "bandSlug": "smashing-pumpkins",
+      "role": "Drums",
+      "from": 1988,
+      "to": 1996
+    },
+    {
+      "bandName": "The Smashing Pumpkins",
+      "bandSlug": "smashing-pumpkins",
+      "role": "Drums",
+      "from": 1999,
+      "to": 2009,
+      "note": {
+        "en": "Return years.",
+        "zh": "回归年。"
+      }
+    },
+    {
+      "bandName": "The Smashing Pumpkins",
+      "bandSlug": "smashing-pumpkins",
+      "role": "Drums",
+      "from": 2015,
+      "to": "present",
+      "note": {
+        "en": "Later return.",
+        "zh": "后期再回归。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "billy-corgan"
+  ]
+}

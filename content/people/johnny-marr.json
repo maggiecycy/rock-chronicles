@@ -1,0 +1,46 @@
+{
+  "name": "Johnny Marr",
+  "slug": "johnny-marr",
+  "born": 1963,
+  "origin": "Manchester, UK",
+  "roles": [
+    "Guitar",
+    "Songwriting"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "The Smiths guitarist; Rickenbacker/jangle layering as 1980s UK indie default.",
+    "zh": "The Smiths 吉他手；Rickenbacker/jangle 叠层成为 80 年代英国 indie 默认。"
+  },
+  "whyHub": {
+    "en": "After The Smiths: Electronic, Modest Mouse, solo—guitarist as mobile indie architecture.",
+    "zh": "离开 The Smiths 后：Electronic、Modest Mouse、独唱——吉他手作为可移动 indie 架构。"
+  },
+  "body": {
+    "en": "Born 1963. Co-writes Smiths catalog with Morrissey. Leaves 1987. Later Electronic with Bernard Sumner; tours with Modest Mouse.\n\nHub: jangle method travels across logos; Smiths tenure is the peak citation.",
+    "zh": "1963 年生。与 Morrissey 合写 Smiths 目录。1987 离队。后与 Bernard Sumner 做 Electronic；与 Modest Mouse 巡演。\n\n枢纽：jangle 方法跨 logo 流动；Smiths 任期是峰值引用。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Smiths",
+      "bandSlug": "the-smiths",
+      "role": "Guitar",
+      "from": 1982,
+      "to": 1987
+    },
+    {
+      "bandName": "Electronic",
+      "role": "Guitar",
+      "from": 1989,
+      "to": 2001,
+      "note": {
+        "en": "With Bernard Sumner; project not yet in chronicle.",
+        "zh": "与 Bernard Sumner；项目尚未入编年史。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "morrissey",
+    "bernard-sumner"
+  ]
+}

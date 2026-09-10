@@ -1,0 +1,38 @@
+{
+  "name": "Dave Mustaine",
+  "slug": "dave-mustaine",
+  "born": 1961,
+  "origin": "La Mesa, California, USA",
+  "roles": ["Vocals", "Guitar"],
+  "hub": true,
+  "shortBio": {
+    "en": "Early Metallica guitarist, then Megadeth founder; 1983 firing as lifelong interview hook.",
+    "zh": "早期 Metallica 吉他手，后建 Megadeth；1983 被开除成终身采访钩子。"
+  },
+  "whyHub": {
+    "en": "Metallica → Megadeth personnel bridge; thrash map and site trope in one person.",
+    "zh": "Metallica → Megadeth 人事桥；thrash 地图与本站梗集于一人。"
+  },
+  "body": {
+    "en": "Fired from Metallica 1983; builds Megadeth the same year. Rhythm riff author and sneering vocal across decades of lineup churn.\n\nRelated people/bands: thrash Big Four rivalry as career structure.",
+    "zh": "1983 被 Metallica 开除；同年组建 Megadeth。跨几十年阵容更替的节奏 riff 作者与冷笑人声。\n\n相关：把 thrash Big Four 对打当职业结构。"
+  },
+  "tenures": [
+    {
+      "bandName": "Metallica",
+      "bandSlug": "metallica",
+      "role": "Guitar",
+      "from": 1981,
+      "to": 1983,
+      "note": { "en": "Pre-Kill 'Em All firing.", "zh": "Kill 'Em All 前被开除。" }
+    },
+    {
+      "bandName": "Megadeth",
+      "bandSlug": "megadeth",
+      "role": "Vocals, Guitar",
+      "from": 1983,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": ["dave-ellefson", "marty-friedman"]
+}

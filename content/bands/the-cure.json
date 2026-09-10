@@ -4,32 +4,321 @@
   "formed": 1978,
   "origin": "Crawley, UK",
   "primaryEra": "punk-postpunk",
+  "alsoAppearsIn": [
+    "1990s-grunge-alt"
+  ],
   "genres": [
     "post-punk",
-    "alternative"
+    "alternative",
+    "new-wave"
   ],
   "decisive": false,
   "whyMatters": {
     "en": "Crawley band that moved from post-punk minimalism to goth and then mainstream goth-pop; Disintegration (1989) and Kiss Me–era singles mark the arc.",
     "zh": "克劳利乐队：从后朋克极简走到哥特再进主流哥特流行；Disintegration（1989）与 Kiss Me 时期单曲标记弧线。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Robert Smith",
+      "role": "Vocals, Guitar",
+      "years": "1978–present",
+      "personSlug": "robert-smith"
+    },
+    {
+      "name": "Simon Gallup",
+      "role": "Bass",
+      "years": "1979–1982; 1984–present",
+      "personSlug": "simon-gallup"
+    },
+    {
+      "name": "Lol Tolhurst",
+      "role": "Drums, Keyboards",
+      "years": "1978–1989"
+    },
+    {
+      "name": "Porl Thompson",
+      "role": "Guitar",
+      "years": "1976–1978; 1983–1993; 2005–2011"
+    },
+    {
+      "name": "Boris Williams",
+      "role": "Drums",
+      "years": "1984–1994"
+    }
+  ],
   "essentialTracks": [
+    {
+      "title": "A Forest",
+      "year": 1980
+    },
     {
       "title": "Just Like Heaven",
       "year": 1987
+    },
+    {
+      "title": "Lovesong",
+      "year": 1989
+    },
+    {
+      "title": "Pictures of You",
+      "year": 1989
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1980,
+      "track": "A Forest",
+      "membersOnStage": [
+        "Robert Smith",
+        "Simon Gallup",
+        "Lol Tolhurst"
+      ],
+      "genreTags": [
+        "post-punk"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Delay-guitar cold wave; early Cure minimalism.",
+        "zh": "Delay 吉他冷潮；早期 Cure 极简。"
+      }
+    },
+    {
+      "year": 1987,
+      "track": "Just Like Heaven",
+      "membersOnStage": [
+        "Robert Smith",
+        "Simon Gallup",
+        "Porl Thompson",
+        "Boris Williams"
+      ],
+      "genreTags": [
+        "alternative",
+        "post-punk"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Kiss Me–era bright single; chorus guitar hook.",
+        "zh": "Kiss Me 时期明亮单曲；chorus 吉他钩子。"
+      }
+    },
+    {
+      "year": 1989,
+      "track": "Pictures of You",
+      "membersOnStage": [
+        "Robert Smith",
+        "Simon Gallup",
+        "Porl Thompson",
+        "Boris Williams"
+      ],
+      "genreTags": [
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Disintegration long-form gloom at stadium scale.",
+        "zh": "Disintegration 体育场体量的长篇阴郁。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I think of the Cure as a continuum.",
+      "speaker": "Robert Smith",
+      "source": "Press interview excerpt",
+      "year": 1989
+    }
+  ],
+  "lyricQuotes": [
+    "Show me how you do it and I promise you / I promise that I'll run away with you",
+    "Whenever I'm alone with you / You make me feel like I am home again"
+  ],
+  "relatedBands": [
+    "joy-division",
+    "depeche-mode",
+    "the-smiths",
+    "new-order"
+  ],
+  "influenceFrom": [
+    "joy-division",
+    "the-velvet-underground"
+  ],
+  "influenced": [
+    "depeche-mode",
+    "the-smiths"
+  ],
   "shortBio": {
-    "en": "Robert Smith–led post-punk/goth-pop; Just Like Heaven is the bright single.",
-    "zh": "Robert Smith 领衔的后朋克/哥特流行；Just Like Heaven 是明亮单曲。"
+    "en": "Robert Smith–led post-punk/goth-pop; Just Like Heaven is the bright single; Disintegration the long gloom.",
+    "zh": "Robert Smith 领衔的后朋克/哥特流行；Just Like Heaven 是明亮单曲；Disintegration 是长篇阴郁。"
   },
   "body": {
-    "en": "Formed 1978. Three Imaginary Boys and Pornography define the cold early sound; The Head on the Door and Kiss Me, Kiss Me, Kiss Me add pop hooks; Disintegration returns to long-form gloom at stadium scale.\n\nJust Like Heaven (1987) is the listed entry. Constants: Smith’s chorus-heavy guitar, extended song lengths, and a fan culture that spans indie and goth clubs.",
-    "zh": "1978 年组建。Three Imaginary Boys 与 Pornography 定义早期冷声；The Head on the Door 与 Kiss Me, Kiss Me, Kiss Me 加入流行钩子；Disintegration 以体育场体量回到长篇阴郁。\n\nJust Like Heaven（1987）是列出入口。常量：Smith 的 chorus 效果吉他、偏长歌曲、跨越 indie 与哥特俱乐部的粉丝文化。"
+    "en": "Formed 1978. Three Imaginary Boys and Pornography define cold early sound; The Head on the Door and Kiss Me add pop hooks; Disintegration returns long-form gloom at scale.\n\nConstants: Smith’s chorus guitar, extended song lengths, fan culture across indie and goth clubs.",
+    "zh": "1978 年组建。Three Imaginary Boys 与 Pornography 定义早期冷声；The Head on the Door 与 Kiss Me 加入流行钩子；Disintegration 以体量回到长篇阴郁。\n\n常量：Smith 的 chorus 吉他、偏长歌曲、跨 indie 与哥特俱乐部的粉丝文化。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "From post-punk cold to goth-pop radio",
+        "zh": "从后朋克冷声到哥特流行电台"
+      },
+      "body": {
+        "en": "Early Cure: short lines, delay, hollow drums. Mid-80s: hooks without dropping the baritone croon. 1989 Disintegration: six-minute songs, cathedral reverb, stadium gloom.\n\nArc is production and song length, not a costume change only.",
+        "zh": "早期 Cure：短句、delay、空鼓。80 年代中：钩子不丢男中音 croon。1989 Disintegration：六分钟歌、教堂混响、体育场阴郁。\n\n弧线是制作与歌曲长度，不只是换装。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Smith constant, cast churn",
+        "zh": "Smith 常量，卡司动荡"
+      },
+      "body": {
+        "en": "Gallup exits and returns; Tolhurst shifts drums→keys then leaves; Thompson/Williams lock Kiss Me–Disintegration peak cast.\n\nPeak flag: late-80s six-piece studio core around Smith. Logo survives because writing seat does not move.",
+        "zh": "Gallup 离队再回归；Tolhurst 从鼓转键盘再离开；Thompson/Williams 锁死 Kiss Me–Disintegration 巅峰卡司。\n\n巅峰旗：80 年代末围绕 Smith 的六人录音核心。Logo 存活因为写作席位不动。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Chorus guitar, Gallup bass, rotating kit",
+        "zh": "Chorus 吉他、Gallup 贝斯、轮换鼓组"
+      },
+      "body": {
+        "en": "Smith: Jazzmaster/Jaguar + chorus/delay, lipstick visual. Gallup: melodic post-punk bass. Tolhurst then Williams on kit. Thompson adds lead color on pop singles.\n\nPersonnel list is long; sound ID is short: Smith’s guitar+voice.",
+        "zh": "Smith：Jazzmaster/Jaguar + chorus/delay，唇膏视觉。Gallup：旋律后朋克贝斯。Tolhurst 然后 Williams 司鼓。Thompson 在流行单曲上加主音色彩。\n\n人事名单很长；声音 ID 很短：Smith 的吉他+人声。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "a-forest",
+      "title": {
+        "en": "A Forest: delay as architecture",
+        "zh": "A Forest：delay 当建筑"
+      },
+      "body": {
+        "en": "Seventeen Seconds-era. Repeating guitar figure, dry vocal, bass that walks not thumps. Club-era post-punk grammar.\n\nEntry for listeners who start from goth-pop singles and walk backward.",
+        "zh": "Seventeen Seconds 时期。重复吉他音型、干人声、走动而非砸击的贝斯。俱乐部时期后朋克语法。\n\n从哥特流行单曲倒走的听众入口。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "just-like-heaven",
+      "title": {
+        "en": "Just Like Heaven: bright without soft",
+        "zh": "Just Like Heaven：明亮但不软"
+      },
+      "body": {
+        "en": "Kiss Me, Kiss Me, Kiss Me single. Major-key hook, still chorus-soaked guitar. US college radio crossover without abandoning Smith’s diction.\n\nMass entry that still points back to darker albums.",
+        "zh": "Kiss Me, Kiss Me, Kiss Me 单曲。大调钩子，仍是 chorus 浸透吉他。美国大学电台跨界，不丢 Smith 咬字。\n\n仍指向更暗专辑的大众入口。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Goth-pop template for alternative radio",
+        "zh": "Alternative 电台的哥特流行模板"
+      },
+      "body": {
+        "en": "Disintegration becomes the long-album citation. Later alternative and goth-club DJs both pull Cure singles. Influence sits beside Joy Division/New Order on UK post-punk family tree.\n\nChronicle: one writer’s guitar tone across three commercial climates.",
+        "zh": "Disintegration 成为长专引用。后来 alternative 与哥特俱乐部 DJ 都抽 Cure 单曲。影响坐在 Joy Division/New Order 旁的英国后朋克族谱上。\n\n编年史：一个写作者的吉他音色跨三种商业气候。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "disintegration-peak",
+      "label": {
+        "en": "Kiss Me / Disintegration peak",
+        "zh": "Kiss Me / Disintegration 巅峰"
+      },
+      "years": "1985–1989",
+      "peak": true,
+      "members": [
+        {
+          "name": "Robert Smith",
+          "role": "Vocals, Guitar",
+          "personSlug": "robert-smith"
+        },
+        {
+          "name": "Simon Gallup",
+          "role": "Bass",
+          "personSlug": "simon-gallup"
+        },
+        {
+          "name": "Porl Thompson",
+          "role": "Guitar"
+        },
+        {
+          "name": "Boris Williams",
+          "role": "Drums"
+        },
+        {
+          "name": "Lol Tolhurst",
+          "role": "Keyboards"
+        }
+      ],
+      "note": {
+        "en": "Pop singles then stadium gloom.",
+        "zh": "流行单曲然后体育场阴郁。"
+      }
+    },
+    {
+      "id": "early-minimal",
+      "label": {
+        "en": "Early minimal trio/quartet",
+        "zh": "早期极简三/四人"
+      },
+      "years": "1979–1982",
+      "members": [
+        {
+          "name": "Robert Smith",
+          "role": "Vocals, Guitar",
+          "personSlug": "robert-smith"
+        },
+        {
+          "name": "Simon Gallup",
+          "role": "Bass",
+          "personSlug": "simon-gallup"
+        },
+        {
+          "name": "Lol Tolhurst",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Seventeen Seconds / Faith / Pornography cold era.",
+        "zh": "Seventeen Seconds / Faith / Pornography 冷声期。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "A Forest",
+      "year": 1980,
+      "note": {
+        "en": "Delay-led post-punk single that fixed early Cure ID.",
+        "zh": "用 delay 固定早期 Cure ID 的后朋克单曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "post-punk",
+      "alternative"
+    ],
+    "note": {
+      "en": "Post-punk to goth-pop continuum under one songwriter.",
+      "zh": "单一写作者下的后朋克到哥特流行连续体。"
+    }
   }
 }

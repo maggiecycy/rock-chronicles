@@ -1,0 +1,50 @@
+{
+  "name": "Chris Cornell",
+  "slug": "chris-cornell",
+  "born": 1964,
+  "origin": "Seattle, Washington, USA",
+  "roles": [
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Soundgarden frontman; four-octave hard-rock scream inside grunge.",
+    "zh": "Soundgarden 主唱；grunge 里的四八度 hard-rock 尖叫。"
+  },
+  "body": {
+    "en": "Born 1964. Fronts Soundgarden through Superunknown. Audioslave later. Dies 2017.\n\nVoice carries Zeppelin-scale range on drop-tuned riffs.",
+    "zh": "1964 年生。主唱 Soundgarden 至 Superunknown。后 Audioslave。2017 去世。\n\n人声在降调 riff 上扛齐柏林尺度音域。"
+  },
+  "tenures": [
+    {
+      "bandName": "Soundgarden",
+      "bandSlug": "soundgarden",
+      "role": "Vocals, Guitar",
+      "from": 1984,
+      "to": 1997
+    },
+    {
+      "bandName": "Soundgarden",
+      "bandSlug": "soundgarden",
+      "role": "Vocals, Guitar",
+      "from": 2010,
+      "to": 2017
+    },
+    {
+      "bandName": "Audioslave",
+      "role": "Vocals",
+      "from": 2001,
+      "to": 2007,
+      "note": {
+        "en": "With Rage alumni; project not in chronicle.",
+        "zh": "与 Rage 旧部；项目未入编年史。"
+      }
+    }
+  ],
+  "relatedPeople": [],
+  "whyHub": {
+    "en": "Soundgarden → Audioslave → solo: Seattle hard-rock vocal as transferable instrument.",
+    "zh": "Soundgarden → Audioslave → 独唱：西雅图 hard-rock 人声作为可迁移乐器。"
+  }
+}

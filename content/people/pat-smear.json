@@ -1,0 +1,52 @@
+{
+  "name": "Pat Smear",
+  "slug": "pat-smear",
+  "born": 1959,
+  "origin": "Los Angeles, California, USA",
+  "roles": ["Guitar"],
+  "hub": true,
+  "shortBio": {
+    "en": "Germs guitarist; Nirvana In Utero–tour second guitar; Foo Fighters rhythm guitar.",
+    "zh": "Germs 吉他手；Nirvana In Utero 巡演第二吉他；Foo Fighters 节奏吉他。"
+  },
+  "whyHub": {
+    "en": "Nirvana ↔ Foo Fighters guitar bridge after Grohl’s drum-to-front move.",
+    "zh": "Grohl 鼓转主唱之后的 Nirvana ↔ Foo Fighters 吉他桥。"
+  },
+  "body": {
+    "en": "Born 1959. Germs / LA punk résumé before joining Nirvana as second guitar for the In Utero tour (1993–94). Joins Foo Fighters early; leaves mid-90s; returns as touring/studio rhythm guitar.\n\nRelated: Seattle–LA punk wire into Foo Fighters’ personnel continuity.",
+    "zh": "1959 年生。Germs / 洛杉矶朋克履历后，以第二吉他加入 Nirvana 的 In Utero 巡演（1993–94）。早期加入 Foo Fighters；90 年代中离开；后以巡演/录音节奏吉他回归。\n\n相关：把西雅图–洛杉矶朋克线接入 Foo Fighters 人事连续性。"
+  },
+  "tenures": [
+    {
+      "bandName": "Nirvana",
+      "bandSlug": "nirvana",
+      "role": "Guitar",
+      "from": 1993,
+      "to": 1994,
+      "note": {
+        "en": "In Utero tour second guitar.",
+        "zh": "In Utero 巡演第二吉他。"
+      }
+    },
+    {
+      "bandName": "Foo Fighters",
+      "bandSlug": "foo-fighters",
+      "role": "Guitar",
+      "from": 1994,
+      "to": 1997
+    },
+    {
+      "bandName": "Foo Fighters",
+      "bandSlug": "foo-fighters",
+      "role": "Guitar",
+      "from": 2005,
+      "to": "present",
+      "note": {
+        "en": "Return as rhythm/tour guitar.",
+        "zh": "以节奏/巡演吉他回归。"
+      }
+    }
+  ],
+  "relatedPeople": ["dave-grohl", "kurt-cobain"]
+}

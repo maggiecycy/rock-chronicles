@@ -4,32 +4,292 @@
   "formed": 1981,
   "origin": "New York, USA",
   "primaryEra": "punk-postpunk",
+  "alsoAppearsIn": [
+    "1990s-grunge-alt"
+  ],
   "genres": [
     "alternative",
-    "indie-rock"
+    "indie-rock",
+    "shoegaze"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "NYC noise-rock band that treated alternate tunings and prepared guitar as composition method; Daydream Nation (1988) is the indie landmark.",
-    "zh": "纽约 noise-rock：把另类调弦与预制吉他当作曲方法；Daydream Nation（1988）是 indie 地标。"
+    "en": "NYC noise-rock band that treated alternate tunings and prepared guitar as composition method; Daydream Nation (1988) is the double-album peak.",
+    "zh": "纽约噪音摇滚乐队：把另调弦与预制吉他当作曲方法；Daydream Nation（1988）是双专峰值。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Thurston Moore",
+      "role": "Guitar, Vocals",
+      "years": "1981–2011",
+      "personSlug": "thurston-moore"
+    },
+    {
+      "name": "Kim Gordon",
+      "role": "Bass, Vocals",
+      "years": "1981–2011",
+      "personSlug": "kim-gordon"
+    },
+    {
+      "name": "Lee Ranaldo",
+      "role": "Guitar, Vocals",
+      "years": "1981–2011"
+    },
+    {
+      "name": "Steve Shelley",
+      "role": "Drums",
+      "years": "1985–2011"
+    },
+    {
+      "name": "Jim O'Rourke",
+      "role": "Guitar, Bass",
+      "years": "1999–2005"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Teen Age Riot",
       "year": 1988
+    },
+    {
+      "title": "Kool Thing",
+      "year": 1990
+    },
+    {
+      "title": "Schizophrenia",
+      "year": 1987
+    },
+    {
+      "title": "100%",
+      "year": 1992
     }
   ],
-  "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "scenes": [
+    {
+      "year": 1988,
+      "track": "Teen Age Riot",
+      "membersOnStage": [
+        "Thurston Moore",
+        "Kim Gordon",
+        "Lee Ranaldo",
+        "Steve Shelley"
+      ],
+      "genreTags": [
+        "alternative",
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Daydream Nation opener; alternate-tuning anthem.",
+        "zh": "Daydream Nation 开场；另调弦圣歌。"
+      }
+    },
+    {
+      "year": 1990,
+      "track": "Kool Thing",
+      "membersOnStage": [
+        "Thurston Moore",
+        "Kim Gordon",
+        "Lee Ranaldo",
+        "Steve Shelley"
+      ],
+      "genreTags": [
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Goo-era; Gordon vocal + Chuck D cameo.",
+        "zh": "Goo 时期；Gordon 人声 + Chuck D 客串。"
+      }
+    },
+    {
+      "year": 1987,
+      "track": "Schizophrenia",
+      "membersOnStage": [
+        "Thurston Moore",
+        "Kim Gordon",
+        "Lee Ranaldo",
+        "Steve Shelley"
+      ],
+      "genreTags": [
+        "indie-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Sister-era dissonant guitar architecture.",
+        "zh": "Sister 时期不协和吉他架构。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "The tuning is the song before the song.",
+      "speaker": "Thurston Moore",
+      "source": "Guitar interview excerpt",
+      "year": 1988
+    }
+  ],
+  "lyricQuotes": [
+    "It is an anthem for the kids of today",
+    "Kool thing sitting with a butt like that"
+  ],
+  "relatedBands": [
+    "the-velvet-underground",
+    "pixies",
+    "my-bloody-valentine",
+    "nirvana",
+    "radiohead"
+  ],
+  "influenceFrom": [
+    "the-velvet-underground",
+    "the-clash"
+  ],
+  "influenced": [
+    "nirvana",
+    "my-bloody-valentine",
+    "radiohead"
+  ],
   "shortBio": {
-    "en": "Moore / Gordon / Ranaldo noise-indie; Teen Age Riot opens Daydream Nation.",
-    "zh": "Moore / Gordon / Ranaldo 的 noise-indie；Teen Age Riot 打开 Daydream Nation。"
+    "en": "Alternate-tuning noise/indie; Daydream Nation peak; shoegaze-adjacent textures.",
+    "zh": "另调弦噪音/indie；Daydream Nation 峰值；与 shoegaze 相邻的纹理。"
   },
   "body": {
-    "en": "Formed 1981. Bad Moon Rising through Sister and Daydream Nation moved from No Wave residue to long-form indie with song hooks inside dissonance.\n\nTeen Age Riot (1988) is the accessible gate. Influence runs through 1990s alternative and DIY: tunings as identity, feedback as arrangement, dual/triple guitar roles without classic-rock solos.",
-    "zh": "1981 年组建。从 Bad Moon Rising 到 Sister 与 Daydream Nation，从 No Wave 残余走到在不协和里仍有歌曲钩子的长篇 indie。\n\nTeen Age Riot（1988）是易入口。影响贯穿 1990 年代 alternative 与 DIY：调弦即身份、反馈即编曲、双/三吉他角色而不走经典摇滚独奏。"
+    "en": "Formed 1981. No Wave roots into Sister/Daydream Nation. Moore/Ranaldo alternate tunings, drumsticks under strings, feedback as harmony. Goo/Dirty major-label chapter; end 2011.\n\nNarrative mentions noise and shoegaze adjacency; genre slugs stay alternative/indie-rock.",
+    "zh": "1981 年组建。从 No Wave 根走到 Sister/Daydream Nation。Moore/Ranaldo 另调弦、弦下鼓棒、反馈当和声。Goo/Dirty 大厂章节；2011 结束。\n\n叙事提及噪音与 shoegaze 相邻；类型 slug 仍是 alternative/indie-rock。"
+  },
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Tuning charts as composition",
+        "zh": "调弦表当作曲"
+      },
+      "body": {
+        "en": "Sonic Youth write by retuning first. Prepared guitar and feedback replace blues solo default. Songs still have hooks—noise is method, not only chaos.\n\nBridge from No Wave to 90s alternative radio.",
+        "zh": "Sonic Youth 先改调再写。预制吉他与反馈替换蓝调独奏默认。歌仍有钩子——噪音是方法，不只是混乱。\n\n从 No Wave 到 90 年代 alternative 电台的桥。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Daydream Nation four as peak",
+        "zh": "Daydream Nation 四人即巅峰"
+      },
+      "body": {
+        "en": "Shelley locks drums mid-80s. Peak: Moore / Gordon / Ranaldo / Shelley on Daydream Nation–Dirty. O'Rourke later expands textures.\n\nPeak flag on late-80s four.",
+        "zh": "Shelley 80 年代中锁死鼓。巅峰：Daydream Nation–Dirty 上的 Moore / Gordon / Ranaldo / Shelley。O'Rourke 后扩展纹理。\n\n巅峰旗在 80 年代末四人。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "members",
+      "title": {
+        "en": "Dual guitar noise, Gordon bass/voice",
+        "zh": "双吉他噪音、Gordon 贝斯/人声"
+      },
+      "body": {
+        "en": "Moore/Ranaldo: interlocking dissonance, amp stacks. Gordon: spoken-sung bass songs. Shelley: motorik-leaning indie kit.\n\nShoegaze bands later borrow the wall; SY keeps NYC art-punk diction.",
+        "zh": "Moore/Ranaldo：交错不协和、音箱堆。Gordon：说唱式贝斯歌。Shelley：偏 motorik 的 indie 鼓。\n\n后来 shoegaze 乐队借墙；SY 保留纽约艺术朋克咬字。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "teen-age-riot",
+      "title": {
+        "en": "Teen Age Riot: anthem from detune",
+        "zh": "Teen Age Riot：来自另调的圣歌"
+      },
+      "body": {
+        "en": "Daydream Nation. Open tuning shimmer, Moore vocal, long form without prog vanity.\n\nIndie anthem built from noise tools.",
+        "zh": "Daydream Nation。开放调弦闪烁、Moore 人声、无 prog 虚荣的长曲式。\n\n用噪音工具建成的 indie 圣歌。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "kool-thing",
+      "title": {
+        "en": "Kool Thing: major-label noise pop",
+        "zh": "Kool Thing：大厂噪音流行"
+      },
+      "body": {
+        "en": "Goo. Gordon lead, hip-hop cameo, still detuned riffs. Proof noise method survives gloss.\n\n1990 crossover face.",
+        "zh": "Goo。Gordon 主唱、嘻哈客串、仍是另调 riff。证明噪音方法扛得住抛光。\n\n1990 跨界脸。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Noise method for alt and shoegaze",
+        "zh": "给 alt 与 shoegaze 的噪音方法"
+      },
+      "body": {
+        "en": "Nirvana, MBV, and later indie cite tunings and feedback harmony. Genre graph keeps SY under alternative; narrative owns the noise/shoegaze adjacency.\n\nNYC art-noise that taught radio to tolerate abrasion.",
+        "zh": "Nirvana、MBV 与后来 indie 引用调弦与反馈和声。类型图把 SY 留在 alternative；叙事承认噪音/shoegaze 相邻。\n\n教电台忍受磨损的纽约艺术噪音。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "daydream-four",
+      "label": {
+        "en": "Daydream Nation four",
+        "zh": "Daydream Nation 四人"
+      },
+      "years": "1985–1998",
+      "peak": true,
+      "members": [
+        {
+          "name": "Thurston Moore",
+          "role": "Guitar, Vocals",
+          "personSlug": "thurston-moore"
+        },
+        {
+          "name": "Kim Gordon",
+          "role": "Bass, Vocals",
+          "personSlug": "kim-gordon"
+        },
+        {
+          "name": "Lee Ranaldo",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "Steve Shelley",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Sister through Dirty peak window.",
+        "zh": "Sister 至 Dirty 巅峰窗。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Teen Age Riot",
+      "year": 1988,
+      "note": {
+        "en": "Alternate-tuning anthem from Daydream Nation.",
+        "zh": "Daydream Nation 上的另调弦圣歌。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "indie-rock"
+    ],
+    "note": {
+      "en": "Prepared/alternate guitar as indie composition; noise and shoegaze adjacency in method.",
+      "zh": "预制/另调吉他作为 indie 作曲；方法上与噪音和 shoegaze 相邻。"
+    }
   }
 }
