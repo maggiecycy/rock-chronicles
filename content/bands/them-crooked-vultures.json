@@ -9,25 +9,203 @@
     "alternative"
   ],
   "decisive": false,
-  "members": [],
-  "essentialTracks": [],
+  "members": [
+    {
+      "name": "Josh Homme",
+      "role": "Vocals, Guitar",
+      "years": "2009–2010",
+      "personSlug": "josh-homme"
+    },
+    {
+      "name": "Dave Grohl",
+      "role": "Drums, Vocals",
+      "years": "2009–2010",
+      "personSlug": "dave-grohl"
+    },
+    {
+      "name": "John Paul Jones",
+      "role": "Bass, Keyboards",
+      "years": "2009–2010",
+      "personSlug": "john-paul-jones"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "New Fang",
+      "year": 2009
+    },
+    {
+      "title": "Mind Eraser, No Chaser",
+      "year": 2009
+    },
+    {
+      "title": "No One Loves Me & Neither Do I",
+      "year": 2009
+    },
+    {
+      "title": "Scumbag Blues",
+      "year": 2009
+    }
+  ],
   "lyricQuotes": [],
   "relatedBands": [
     "foo-fighters",
-    "led-zeppelin"
+    "led-zeppelin",
+    "queens-of-the-stone-age"
   ],
-  "influenceFrom": [],
+  "influenceFrom": [
+    "led-zeppelin",
+    "queens-of-the-stone-age",
+    "foo-fighters"
+  ],
   "influenced": [],
   "shortBio": {
     "en": "Homme / Grohl / Jones supergroup; one-album hard-rock summit.",
     "zh": "Homme / Grohl / Jones 超级组合；一张专辑的 hard-rock 峰会。"
   },
   "body": {
-    "en": "Active mainly 2009–2010. Debut album stacks Homme’s desert riffs, Grohl’s drums (and some vocal), Jones’s bass/keys—Zeppelin lineage meeting QOTSA/Foo methods.\n\nBridge exhibit for the chronicle: proof mid/late-career players still form short-run hard-rock units. Not a long catalog; the lineup itself is the object.",
+    "en": "Active mainly 2009–2010. Debut album stacks Homme's desert riffs, Grohl's drums (and some vocal), Jones's bass/keys—Zeppelin lineage meeting QOTSA/Foo methods.\n\nBridge exhibit for the chronicle: proof mid/late-career players still form short-run hard-rock units. Not a long catalog; the lineup itself is the object.",
     "zh": "主要活动于 2009–2010。首专堆叠 Homme 沙漠 riff、Grohl 鼓（及部分人声）、Jones 贝斯/键盘——Zeppelin 谱系遇见 QOTSA/Foo 方法。\n\n编年桥接展品：证明中后期职业乐手仍可组成短周期 hard-rock 单位。目录不长；阵容本身即对象。"
   },
   "whyMatters": {
     "en": "2009–10 hard-rock trio: Josh Homme, Dave Grohl, John Paul Jones—cross-decade personnel experiment with one self-titled album.",
     "zh": "2009–10 hard-rock 三人组：Josh Homme、Dave Grohl、John Paul Jones——跨年代人事实验，一张同名专辑。"
-  }
+  },
+  "scenes": [
+    {
+      "year": 2009,
+      "track": "New Fang",
+      "membersOnStage": [
+        "Josh Homme",
+        "Dave Grohl",
+        "John Paul Jones"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Debut single—Homme riff, Grohl crash, Jones bass fill; supergroup as power trio.",
+        "zh": "首支单曲——Homme riff、Grohl crash、Jones 贝斯 fill；supergroup 即 power trio。"
+      }
+    },
+    {
+      "year": 2009,
+      "track": "Mind Eraser, No Chaser",
+      "membersOnStage": [
+        "Josh Homme",
+        "Dave Grohl",
+        "John Paul Jones"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Grohl lead vocal trade-off—Foo + QOTSA + Zeppelin syntax in one track.",
+        "zh": "Grohl 主唱交接——一曲内 Foo + QOTSA + Zeppelin 语法。"
+      }
+    },
+    {
+      "year": 2010,
+      "track": "Scumbag Blues",
+      "membersOnStage": [
+        "Josh Homme",
+        "Dave Grohl",
+        "John Paul Jones"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Blues-rock slow burn—Jones keys under Homme's low vocal.",
+        "zh": "Blues-rock 慢烧——Jones 键盘垫 Homme 低人声。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Three careers, one room",
+        "zh": "三条职业线，一个房间"
+      },
+      "body": {
+        "en": "Homme, Grohl, and Jones record in Los Angeles after years of mutual guest spots. No audition—three established players, one album contract.\n\nHomme produces; Grohl drums; Jones plays bass and adds Mellotron/keys where arrangement needs density.\n\nThem Crooked Vultures (2009) is the only studio LP—deliberate short run.",
+        "zh": "Homme、Grohl、Jones 在多年互作客座后于洛杉矶录音。无 audition——三位成熟乐手，一张专辑合约。\n\nHomme 制作；Grohl 打鼓；Jones 贝斯并在编曲需密度处加 Mellotron/键盘。\n\nThem Crooked Vultures（2009）是唯一录音室 LP——刻意短跑。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Self-titled album mechanics",
+        "zh": "同名专辑机制"
+      },
+      "body": {
+        "en": "Mind Eraser, No Chaser splits lead vocal between Homme and Grohl—no frontman hierarchy.\n\nNo One Loves Me & Neither Do I uses Jones keyboard stabs like Zeppelin's No Quarter texture.\n\nMix stays dry and midrange-forward—QOTSA desert production with Zeppelin arrangement density.",
+        "zh": "Mind Eraser, No Chaser 在 Homme 与 Grohl 间分主唱——无 frontman 等级。\n\nNo One Loves Me & Neither Do I 用 Jones 键盘刺击如 Zeppelin No Quarter 纹理。\n\n混音保持干、中频前置——QOTSA 沙漠制作加 Zeppelin 编曲密度。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Tour and silence",
+        "zh": "巡演与静默"
+      },
+      "body": {
+        "en": "Band tours Europe and US in 2010—live sets extend album tracks with jam middle sections.\n\nNo second album follows; members return to Foo Fighters, QOTSA, and Jones's session work.\n\nTCV functions as a personnel-bridge artifact: Zeppelin bass player meets Nirvana drummer meets desert-rock architect.",
+        "zh": "2010 年欧美巡演——现场用 jam 中段延长专辑曲。\n\n无第二张专辑；成员回 Foo Fighters、QOTSA 与 Jones session 工作。\n\nTCV 作人事桥接文物：Zeppelin 贝斯手遇 Nirvana 鼓手遇沙漠摇滚建筑师。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "New Fang",
+        "zh": "New Fang"
+      },
+      "body": {
+        "en": "Debut single—Homme riff, Grohl crash, Jones bass fill; supergroup as power trio.",
+        "zh": "首支单曲——Homme riff、Grohl crash、Jones 贝斯 fill；supergroup 即 power trio。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Mind Eraser, No Chaser",
+        "zh": "Mind Eraser, No Chaser"
+      },
+      "body": {
+        "en": "Grohl lead vocal trade-off—Foo + QOTSA + Zeppelin syntax in one track.",
+        "zh": "Grohl 主唱交接——一曲内 Foo + QOTSA + Zeppelin 语法。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Scumbag Blues",
+        "zh": "Scumbag Blues"
+      },
+      "body": {
+        "en": "Blues-rock slow burn—Jones keys under Homme's low vocal.",
+        "zh": "Blues-rock 慢烧——Jones 键盘垫 Homme 低人声。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "hard-rock"
+    }
+  ]
 }

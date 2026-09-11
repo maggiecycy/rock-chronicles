@@ -21,25 +21,210 @@
       "role": "Guitar",
       "years": "1994–1997; 2005–present",
       "personSlug": "pat-smear"
+    },
+    {
+      "name": "Nate Mendel",
+      "role": "Bass",
+      "years": "1995–present"
+    },
+    {
+      "name": "Taylor Hawkins",
+      "role": "Drums",
+      "years": "1997–2022"
+    },
+    {
+      "name": "Chris Shiflett",
+      "role": "Guitar",
+      "years": "1999–present"
     }
   ],
-  "essentialTracks": [],
+  "essentialTracks": [
+    {
+      "title": "This Is a Call",
+      "year": 1995
+    },
+    {
+      "title": "Everlong",
+      "year": 1997
+    },
+    {
+      "title": "Learn to Fly",
+      "year": 1999
+    },
+    {
+      "title": "The Pretender",
+      "year": 2007
+    },
+    {
+      "title": "Best of You",
+      "year": 2005
+    }
+  ],
   "lyricQuotes": [],
   "relatedBands": [
+    "nirvana",
+    "them-crooked-vultures",
+    "queens-of-the-stone-age"
+  ],
+  "influenceFrom": [
     "nirvana"
   ],
-  "influenceFrom": [],
-  "influenced": [],
+  "influenced": [
+    "queens-of-the-stone-age"
+  ],
   "shortBio": {
     "en": "Grohl-fronted alt-rock; drummer-to-frontman career after 1994.",
     "zh": "Grohl 领衔的 alt-rock；1994 年后鼓手转主唱的职业路径。"
   },
   "body": {
-    "en": "Started 1994 with Grohl playing most instruments on the debut; Nate Mendel, Pat Smear, and later Taylor Hawkins stabilized the live band. The Colour and the Shape fixed loud-quiet radio hooks.\n\nBridge node in this graph: Nirvana drummer → Foo Fighters frontman → Them Crooked Vultures. Musical constants—compressed guitars, stacked choruses, live reliability—matter more than mythology.",
-    "zh": "1994 起步，首专大半乐器由 Grohl 亲自演奏；Nate Mendel、Pat Smear 与后来的 Taylor Hawkins 稳定现场编制。The Colour and the Shape 定型强弱电台钩子。\n\n本图谱桥接节点：Nirvana 鼓手 → Foo Fighters 主唱 → Them Crooked Vultures。音乐常量——压缩吉他、堆叠副歌、现场稳定——重于神话。"
+    "en": "Started 1994 with Grohl playing most instruments on the debut; Nate Mendel, Pat Smear, and later Taylor Hawkins stabilized the live band. The Colour and the Shape (1997) fixed loud-quiet radio hooks.\n\nBridge node in this graph: Nirvana drummer → Foo Fighters frontman → Them Crooked Vultures. Musical constants—compressed guitars, stacked choruses, live reliability—matter more than mythology.",
+    "zh": "1994 起步，首专大半乐器由 Grohl 亲自演奏；Nate Mendel、Pat Smear 与后来的 Taylor Hawkins 稳定现场编制。The Colour and the Shape（1997）定型强弱电台钩子。\n\n本图谱桥接节点：Nirvana 鼓手 → Foo Fighters 主唱 → Them Crooked Vultures。音乐常量——压缩吉他、堆叠副歌、现场稳定——重于神话。"
   },
   "whyMatters": {
-    "en": "Dave Grohl’s post-Nirvana band; Foo Fighters (1995) onward turned a one-man demo project into a durable alternative/hard-rock touring act.",
+    "en": "Dave Grohl's post-Nirvana band; Foo Fighters (1995) onward turned a one-man demo project into a durable alternative/hard-rock touring act.",
     "zh": "Dave Grohl 在 Nirvana 之后的乐队；自同名专辑（1995）起把一人 demo 项目做成持久的 alternative/hard-rock 巡演编制。"
-  }
+  },
+  "scenes": [
+    {
+      "year": 1995,
+      "track": "This Is a Call",
+      "membersOnStage": [
+        "Dave Grohl",
+        "Pat Smear",
+        "Nate Mendel",
+        "William Goldsmith"
+      ],
+      "genreTags": [
+        "alternative",
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Grohl-as-frontman debut—melodic verse, distorted chorus, one-man-demo origins.",
+        "zh": "Grohl 主唱 debut——旋律主歌、失真副歌、一人 demo 起源。"
+      }
+    },
+    {
+      "year": 1997,
+      "track": "Everlong",
+      "membersOnStage": [
+        "Dave Grohl",
+        "Pat Smear",
+        "Nate Mendel",
+        "Taylor Hawkins"
+      ],
+      "genreTags": [
+        "alternative",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Quiet-loud dynamic and open-chord arpeggio—Grohl's signature ballad-rager.",
+        "zh": "Quiet-loud 动态与开放和弦琶音——Grohl 标志性抒情-爆发曲。"
+      }
+    },
+    {
+      "year": 2007,
+      "track": "The Pretender",
+      "membersOnStage": [
+        "Dave Grohl",
+        "Chris Shiflett",
+        "Pat Smear",
+        "Nate Mendel",
+        "Taylor Hawkins"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Delayed-entry riff and stacked gang vocals—stadium alt-rock peak.",
+        "zh": "延迟进入 riff 与堆叠齐唱——体育场 alt-rock 巅峰。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "One-man demo to band",
+        "zh": "一人 demo 到乐队"
+      },
+      "body": {
+        "en": "Grohl records the Foo Fighters debut alone in Seattle after Nirvana ends. This Is a Call and Big Me show melodic hooks over punk-adjacent energy.\n\nPat Smear (ex-Nirvana touring guitarist) and Nate Mendel (Sunny Day Real Estate) join for touring. Grohl still writes and often records core tracks himself.\n\nFoo Fighters (1995) establishes the template: verse melody, chorus distortion, no grunge costume.",
+        "zh": "Nirvana 结束后 Grohl 独自在西雅图录 Foo Fighters 首专。This Is a Call 与 Big Me 在朋克邻近能量上挂旋律钩子。\n\nPat Smear（Nirvana 巡演吉他）与 Nate Mendel（Sunny Day Real Estate）加入巡演。Grohl 仍自写并常自录核心轨。\n\nFoo Fighters（1995）定模板：主歌旋律、副歌失真、无 grunge 戏服。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "The Colour and the Shape",
+        "zh": "The Colour and the Shape"
+      },
+      "body": {
+        "en": "Taylor Hawkins replaces William Goldsmith on drums mid-sessions. Everlong, Monkey Wrench, and My Hero define the loud-quiet FM standard.\n\nGrohl and producer Gil Norton push guitar layering; Mendel's bass locks Hawkins' open hi-hat groove.\n\nAlbum sells millions—cements Grohl as frontman, not just Nirvana drummer.",
+        "zh": "Taylor Hawkins 在录音中途替 William Goldsmith 打鼓。Everlong、Monkey Wrench、My Hero 定义 loud-quiet FM 标准。\n\nGrohl 与制作人 Gil Norton 推吉他 layering；Mendel 贝斯锁 Hawkins 开放 hi-hat groove。\n\n专辑销量数百万——巩固 Grohl 主唱身份，非仅 Nirvana 鼓手。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Stadium era and supergroup bridge",
+        "zh": "体育场时期与 supergroup 桥"
+      },
+      "body": {
+        "en": "Chris Shiflett joins 1999; There Is Nothing Left to Lose through Echoes, Silence, Patience & Grace stack radio rock with Grohl's producer credit on QOTSA records.\n\nGrohl drums on Queens of the Stone Age's Songs for the Deaf (2002); seeds Them Crooked Vultures (2009) with Homme and John Paul Jones.\n\nBest of You and The Pretender prove sustained arena draw two decades post-Nirvana.",
+        "zh": "Chris Shiflett 1999 年加入；There Is Nothing Left to Lose 至 Echoes, Silence, Patience & Grace 堆叠电台摇滚，Grohl 任 QOTSA 唱片制作人。\n\nGrohl 2002 年为 Queens of the Stone Age 的 Songs for the Deaf 打鼓；2009 年与 Homme、John Paul Jones 结出 Them Crooked Vultures。\n\nBest of You 与 The Pretender 证明 Nirvana 后二十年仍有体育场号召力。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "This Is a Call",
+        "zh": "This Is a Call"
+      },
+      "body": {
+        "en": "Grohl-as-frontman debut—melodic verse, distorted chorus, one-man-demo origins.",
+        "zh": "Grohl 主唱 debut——旋律主歌、失真副歌、一人 demo 起源。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Everlong",
+        "zh": "Everlong"
+      },
+      "body": {
+        "en": "Quiet-loud dynamic and open-chord arpeggio—Grohl's signature ballad-rager.",
+        "zh": "Quiet-loud 动态与开放和弦琶音——Grohl 标志性抒情-爆发曲。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "The Pretender",
+        "zh": "The Pretender"
+      },
+      "body": {
+        "en": "Delayed-entry riff and stacked gang vocals—stadium alt-rock peak.",
+        "zh": "延迟进入 riff 与堆叠齐唱——体育场 alt-rock 巅峰。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "hard-rock"
+    }
+  ]
 }

@@ -5,27 +5,214 @@
   "origin": "Manchester, UK",
   "primaryEra": "punk-postpunk",
   "genres": [
-    "post-punk"
+    "post-punk",
+    "new-wave"
   ],
   "decisive": false,
-  "members": [],
-  "essentialTracks": [],
+  "members": [
+    {
+      "name": "Bernard Sumner",
+      "role": "Vocals, Guitar, Synths",
+      "years": "1980–present",
+      "personSlug": "bernard-sumner"
+    },
+    {
+      "name": "Peter Hook",
+      "role": "Bass",
+      "years": "1980–2007",
+      "personSlug": "peter-hook"
+    },
+    {
+      "name": "Stephen Morris",
+      "role": "Drums",
+      "years": "1980–present"
+    },
+    {
+      "name": "Gillian Gilbert",
+      "role": "Keyboards, Guitar",
+      "years": "1981–present"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Ceremony",
+      "year": 1981
+    },
+    {
+      "title": "Blue Monday",
+      "year": 1983
+    },
+    {
+      "title": "Bizarre Love Triangle",
+      "year": 1986
+    },
+    {
+      "title": "True Faith",
+      "year": 1987
+    }
+  ],
   "lyricQuotes": [],
   "relatedBands": [
+    "joy-division",
+    "depeche-mode"
+  ],
+  "influenceFrom": [
     "joy-division"
   ],
-  "influenceFrom": [],
-  "influenced": [],
+  "influenced": [
+    "depeche-mode",
+    "the-killers"
+  ],
   "shortBio": {
     "en": "Sumner / Hook / Morris + Gillian Gilbert; post-punk into club electronics.",
     "zh": "Sumner / Hook / Morris + Gillian Gilbert；后朋克进入俱乐部电子。"
   },
   "body": {
-    "en": "Formed 1980 after Ian Curtis’s death. Early Factory Records singles (Blue Monday) and Power, Corruption & Lies fused sequenced bass, Hook’s high melodic basslines, and Sumner’s dry vocal.\n\nBridge page for Joy Division → dancefloor continuity. Catalog shows how post-punk personnel adopted drum machines without abandoning song form.",
-    "zh": "Ian Curtis 去世后于 1980 年组建。早期 Factory 单曲（Blue Monday）与 Power, Corruption & Lies 融合音序低音、Hook 的高音旋律贝斯与 Sumner 的干人声。\n\nJoy Division → 舞池连续性的桥页。目录展示后朋克人事如何采用鼓机而不放弃歌曲形式。"
+    "en": "Formed 1980 after Ian Curtis's death. Early Factory Records singles (Blue Monday) and Power, Corruption & Lies (1983) fused sequenced bass, Hook's high melodic basslines, and Sumner's dry vocal.\n\nBridge page for Joy Division → dancefloor continuity. Catalog shows how post-punk personnel adopted drum machines without abandoning song form.",
+    "zh": "Ian Curtis 去世后于 1980 年组建。早期 Factory 单曲（Blue Monday）与 Power, Corruption & Lies（1983）融合音序低音、Hook 的高音旋律贝斯与 Sumner 的干人声。\n\nJoy Division → 舞池连续性的桥页。目录展示后朋克人事如何采用鼓机而不放弃歌曲形式。"
   },
   "whyMatters": {
-    "en": "Post–Joy Division Manchester band; same core players plus synth/bass-dance grammar from Movement (1981) through Technique.",
-    "zh": "Joy Division 之后的曼彻斯特乐队；自 Movement（1981）到 Technique，同一核心成员加上合成器/舞曲贝斯语法。"
-  }
+    "en": "Post–Joy Division Manchester band; same core players plus synth/bass-dance grammar from Movement (1981) through Technique (1989).",
+    "zh": "Joy Division 之后的曼彻斯特乐队；自 Movement（1981）到 Technique（1989），同一核心成员加上合成器/舞曲贝斯语法。"
+  },
+  "scenes": [
+    {
+      "year": 1981,
+      "track": "Ceremony",
+      "membersOnStage": [
+        "Bernard Sumner",
+        "Peter Hook",
+        "Stephen Morris",
+        "Gillian Gilbert"
+      ],
+      "genreTags": [
+        "post-punk"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Joy Division outtake as debut—Sumner inherits Curtis lyric, post-punk continuity.",
+        "zh": "Joy Division 遗作作 debut——Sumner 继承 Curtis 歌词，后朋克连续。"
+      }
+    },
+    {
+      "year": 1983,
+      "track": "Blue Monday",
+      "membersOnStage": [
+        "Bernard Sumner",
+        "Peter Hook",
+        "Stephen Morris",
+        "Gillian Gilbert"
+      ],
+      "genreTags": [
+        "new-wave",
+        "post-punk"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Oberheim DMX + sequenced bass—best-selling 12-inch, club grammar enters post-punk.",
+        "zh": "Oberheim DMX + 音序低音——最畅销 12 寸，俱乐部语法进入后朋克。"
+      }
+    },
+    {
+      "year": 1987,
+      "track": "True Faith",
+      "membersOnStage": [
+        "Bernard Sumner",
+        "Peter Hook",
+        "Stephen Morris",
+        "Gillian Gilbert"
+      ],
+      "genreTags": [
+        "new-wave"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "Synth-pop polish on Technique—dry Sumner vocal over programmed groove.",
+        "zh": "Technique 上 synth-pop 抛光——干 Sumner 人声叠 programmed groove。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Joy Division to New Order",
+        "zh": "Joy Division 到 New Order"
+      },
+      "body": {
+        "en": "Remaining Joy Division members rename after Curtis's May 1980 death. Ceremony (1981) is a Curtis lyric set to new music—post-punk grief without dissolution.\n\nMovement (1981) stays close to Joy Division's monochrome; Gillian Gilbert joins on keys.\n\nSumner moves to frontman/guitar; Hook's bass stays high on the neck, melodic not root-locked.",
+        "zh": "Joy Division 余部在 Curtis 1980 年 5 月去世后改名。Ceremony（1981）是 Curtis 歌词配新曲——后朋克哀悼而不解散。\n\nMovement（1981）贴近 Joy Division 单色；Gillian Gilbert 加入键盘。\n\nSumner 转主唱/吉他；Hook 贝斯仍高音区、旋律化而非锁根音。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Blue Monday and dance crossover",
+        "zh": "Blue Monday 与舞曲交叉"
+      },
+      "body": {
+        "en": "Blue Monday (1983) uses Oberheim DMX drum machine and sequenced bass—Factory's die-cut sleeve costs exceed single revenue.\n\nPower, Corruption & Lies adds Age of Consent and The Village—synth pads meet Hook bass hooks.\n\nLow-Life (1985) and Brotherhood refine the electronic/post-punk hybrid for US college radio.",
+        "zh": "Blue Monday（1983）用 Oberheim DMX 鼓机与音序低音——Factory 模切封套成本超单曲收入。\n\nPower, Corruption & Lies 加 Age of Consent 与 The Village——合成器 pad 遇 Hook 贝斯钩。\n\nLow-Life（1985）与 Brotherhood 为美国 college radio 精炼电子/后朋克混合。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Technique and Hook's exit",
+        "zh": "Technique 与 Hook 离队"
+      },
+      "body": {
+        "en": "Technique (1989) records in Ibiza—True Faith and Fine Time add house-adjacent programming to the catalog.\n\nHook's bass style (high, melodic, chorus-heavy) defines the band's silhouette for 27 years.\n\nHook exits 2007; Sumner/Morris/Gilbert continue—post-punk core survives lineup fracture.",
+        "zh": "Technique（1989）于 Ibiza 录音——True Faith 与 Fine Time 为目录加 house 邻近 programming。\n\nHook 贝斯风格（高音、旋律、多 chorus）定义乐队 27 年剪影。\n\nHook 2007 年离队；Sumner/Morris/Gilbert 继续——后朋克核心在阵容断裂后存活。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Ceremony",
+        "zh": "Ceremony"
+      },
+      "body": {
+        "en": "Joy Division outtake as debut—Sumner inherits Curtis lyric, post-punk continuity.",
+        "zh": "Joy Division 遗作作 debut——Sumner 继承 Curtis 歌词，后朋克连续。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Blue Monday",
+        "zh": "Blue Monday"
+      },
+      "body": {
+        "en": "Oberheim DMX + sequenced bass—best-selling 12-inch, club grammar enters post-punk.",
+        "zh": "Oberheim DMX + 音序低音——最畅销 12 寸，俱乐部语法进入后朋克。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "new-wave"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "True Faith",
+        "zh": "True Faith"
+      },
+      "body": {
+        "en": "Synth-pop polish on Technique—dry Sumner vocal over programmed groove.",
+        "zh": "Technique 上 synth-pop 抛光——干 Sumner 人声叠 programmed groove。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "new-wave"
+    }
+  ]
 }

@@ -5,31 +5,219 @@
   "origin": "Arlington, USA",
   "primaryEra": "1980s-metal",
   "genres": [
-    "heavy-metal",
-    "hard-rock"
+    "thrash-metal",
+    "heavy-metal"
   ],
   "decisive": false,
   "whyMatters": {
     "en": "Texas band that replaced glam residue with down-tuned groove metal; Vulgar Display of Power (1992) and Far Beyond Driven set mid-90s US metal radio weight.",
     "zh": "德州乐队：用降调 groove metal 替换 glam 残余；Vulgar Display of Power（1992）与 Far Beyond Driven 定下 90 年代中期美国金属电台重量。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Phil Anselmo",
+      "role": "Vocals",
+      "years": "1987–2003"
+    },
+    {
+      "name": "Dimebag Darrell",
+      "role": "Guitar",
+      "years": "1981–2003"
+    },
+    {
+      "name": "Rex Brown",
+      "role": "Bass",
+      "years": "1982–2003"
+    },
+    {
+      "name": "Vinnie Paul",
+      "role": "Drums",
+      "years": "1981–2003"
+    }
+  ],
   "essentialTracks": [
+    {
+      "title": "Cowboys from Hell",
+      "year": 1990
+    },
     {
       "title": "Walk",
       "year": 1992
+    },
+    {
+      "title": "Cemetery Gates",
+      "year": 1990
+    },
+    {
+      "title": "5 Minutes Alone",
+      "year": 1994
+    },
+    {
+      "title": "I'm Broken",
+      "year": 1994
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "metallica",
+    "slayer",
+    "megadeth"
+  ],
+  "influenceFrom": [
+    "slayer",
+    "metallica",
+    "black-sabbath"
+  ],
+  "influenced": [
+    "deftones",
+    "system-of-a-down"
+  ],
   "shortBio": {
     "en": "Dimebag / Anselmo groove metal; Walk is the mid-tempo riff lesson.",
     "zh": "Dimebag / Anselmo 的 groove metal；Walk 是中速 riff 教材。"
   },
   "body": {
-    "en": "Formed 1981 (early glam albums exist). Cowboys from Hell (1990) onward is the relevant era—Dimebag Darrell’s pinched harmonics, Rex Brown’s bass, Vinnie Paul’s clicky kick, Phil Anselmo’s bark.\n\nWalk (1992) teaches groove over speed. They shift US metal away from thrash racing toward stalled, palm-muted riffs that nu-metal and metalcore later inherit.",
-    "zh": "1981 年组建（早期有 glam 专辑）。自 Cowboys from Hell（1990）起为相关时期——Dimebag Darrell 的捏音泛音、Rex Brown 贝斯、Vinnie Paul 咔嗒底鼓、Phil Anselmo 吠叫。\n\nWalk（1992）教的是 groove 重于速度。他们把美国金属从 thrash 竞速推向停顿式掌闷 riff，后为 nu-metal 与 metalcore 继承。"
-  }
+    "en": "Formed 1981 in Arlington, Texas (early glam albums exist). Cowboys from Hell (1990) onward is the relevant era—Dimebag Darrell's pinched harmonics, Rex Brown's bass, Vinnie Paul's clicky kick, Phil Anselmo's bark.\n\nWalk (1992) teaches groove over speed. They shift US metal away from thrash racing toward stalled, palm-muted riffs that nu-metal and metalcore later inherit.",
+    "zh": "1981 年于德州 Arlington 组建（早期有 glam 专辑）。自 Cowboys from Hell（1990）起为相关时期——Dimebag Darrell 捏音泛音、Rex Brown 贝斯、Vinnie Paul 咔嗒底鼓、Phil Anselmo 吠叫。\n\nWalk（1992）教的是 groove 重于速度。他们把美国金属从 thrash 竞速推向停顿式掌闷 riff，后为 nu-metal 与 metalcore 继承。"
+  },
+  "scenes": [
+    {
+      "year": 1990,
+      "track": "Cowboys from Hell",
+      "membersOnStage": [
+        "Phil Anselmo",
+        "Dimebag Darrell",
+        "Rex Brown",
+        "Vinnie Paul"
+      ],
+      "genreTags": [
+        "thrash-metal",
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Title track of the breakthrough—Dimebag's pinch harmonics and Anselmo's hardcore bark.",
+        "zh": "突破专辑标题曲——Dimebag 捏音泛音与 Anselmo hardcore 吠叫。"
+      }
+    },
+    {
+      "year": 1992,
+      "track": "Walk",
+      "membersOnStage": [
+        "Phil Anselmo",
+        "Dimebag Darrell",
+        "Rex Brown",
+        "Vinnie Paul"
+      ],
+      "genreTags": [
+        "heavy-metal"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Mid-tempo palm-muted riff—groove lesson, not speed display.",
+        "zh": "中速掌闷 riff——groove 教材，非速度展示。"
+      }
+    },
+    {
+      "year": 1994,
+      "track": "5 Minutes Alone",
+      "membersOnStage": [
+        "Phil Anselmo",
+        "Dimebag Darrell",
+        "Rex Brown",
+        "Vinnie Paul"
+      ],
+      "genreTags": [
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Far Beyond Driven deep cut—Dimebag solo as melody inside groove.",
+        "zh": "Far Beyond Driven 深切——groove 内 Dimebag solo 作旋律。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Glam exit to power groove",
+        "zh": "离开 glam 到 power groove"
+      },
+      "body": {
+        "en": "Pantera starts as glam metal in Texas clubs—Metal Magic through Power Metal document the pre-Anselmo era.\n\nPhil Anselmo joins 1987; band drops hairspray for hardcore-adjacent aggression.\n\nCowboys from Hell (1990) is the reset: dropped D tuning, Dimebag's Dean guitar, Vinnie Paul's triggered kick.",
+        "zh": "Pantera 起步于德州俱乐部 glam metal——Metal Magic 至 Power Metal 记录 Anselmo 前时期。\n\nPhil Anselmo 1987 年加入；乐队甩掉发胶转向 hardcore 邻近侵略。\n\nCowboys from Hell（1990）是重置：降 D 调、Dimebag Dean 吉他、Vinnie Paul triggered 底鼓。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "thrash-metal"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Vulgar Display of Power",
+        "zh": "Vulgar Display of Power"
+      },
+      "body": {
+        "en": "Vulgar Display of Power (1992) sells millions—Walk becomes the riff every guitar student learns. Mid-tempo, palm-muted, syncopated.\n\nFucking Hostile and Mouth for War push tempo; This Love adds ballad dynamic inside groove metal.\n\nTerry Date production: drums forward, guitars scooped mid, Anselmo dry in front.",
+        "zh": "Vulgar Display of Power（1992）销量数百万——Walk 成每个吉他学生必学 riff。中速、掌闷、切分。\n\nFucking Hostile 与 Mouth for War 推速度；This Love 在 groove metal 内加抒情动态。\n\nTerry Date 制作：鼓前置、吉他 mid scoop、Anselmo 干声在前。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "thrash-metal"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Far Beyond Driven and end",
+        "zh": "Far Beyond Driven 与终结"
+      },
+      "body": {
+        "en": "Far Beyond Driven (1994) debuts at US #1—5 Minutes Alone and I'm Broken extend the groove template. Strength Beyond Strength opens at extreme tempo.\n\nBand fractures after Anselmo's heroin issues and Dimebag/Rex/Vinnie side projects. Dimebag murdered on stage 2004.\n\nGroove metal legacy: nu-metal and metalcore cite Pantera as the stop-riff ancestor.",
+        "zh": "Far Beyond Driven（1994）美国 #1 debut——5 Minutes Alone 与 I'm Broken 延伸 groove 模板。Strength Beyond Strength 极端速度开场。\n\nAnselmo 海洛因问题与 Dimebag/Rex/Vinnie  side project 后乐队分裂。Dimebag 2004 年台上遇害。\n\ngroove metal 遗产：nu-metal 与 metalcore 引 Pantera 为停 riff 祖先。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "thrash-metal"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Cowboys from Hell",
+        "zh": "Cowboys from Hell"
+      },
+      "body": {
+        "en": "Title track of the breakthrough—Dimebag's pinch harmonics and Anselmo's hardcore bark.",
+        "zh": "突破专辑标题曲——Dimebag 捏音泛音与 Anselmo hardcore 吠叫。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "thrash-metal"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Walk",
+        "zh": "Walk"
+      },
+      "body": {
+        "en": "Mid-tempo palm-muted riff—groove lesson, not speed display.",
+        "zh": "中速掌闷 riff——groove 教材，非速度展示。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "5 Minutes Alone",
+        "zh": "5 Minutes Alone"
+      },
+      "body": {
+        "en": "Far Beyond Driven deep cut—Dimebag solo as melody inside groove.",
+        "zh": "Far Beyond Driven 深切——groove 内 Dimebag solo 作旋律。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "heavy-metal"
+    }
+  ]
 }

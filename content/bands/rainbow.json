@@ -9,24 +9,221 @@
     "heavy-metal"
   ],
   "decisive": false,
-  "members": [],
-  "essentialTracks": [],
+  "members": [
+    {
+      "name": "Ritchie Blackmore",
+      "role": "Guitar",
+      "years": "1975–1984",
+      "personSlug": "ritchie-blackmore"
+    },
+    {
+      "name": "Ronnie James Dio",
+      "role": "Vocals",
+      "years": "1975–1979",
+      "personSlug": "ronnie-james-dio"
+    },
+    {
+      "name": "Roger Glover",
+      "role": "Bass",
+      "years": "1978–1984",
+      "personSlug": "roger-glover"
+    },
+    {
+      "name": "Cozy Powell",
+      "role": "Drums",
+      "years": "1979–1984"
+    },
+    {
+      "name": "Tony Carey",
+      "role": "Keyboards",
+      "years": "1975–1977"
+    },
+    {
+      "name": "Mickey Lee Soule",
+      "role": "Keyboards, Vocals",
+      "years": "1975–1976"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Man on the Silver Mountain",
+      "year": 1975
+    },
+    {
+      "title": "Stargazer",
+      "year": 1976
+    },
+    {
+      "title": "Kill the King",
+      "year": 1978
+    },
+    {
+      "title": "Since You Been Gone",
+      "year": 1979
+    }
+  ],
   "lyricQuotes": [],
   "relatedBands": [
+    "deep-purple",
     "black-sabbath"
   ],
-  "influenceFrom": [],
-  "influenced": [],
+  "influenceFrom": [
+    "deep-purple"
+  ],
+  "influenced": [
+    "iron-maiden",
+    "judas-priest"
+  ],
   "shortBio": {
-    "en": "Blackmore / Dio hard rock; bridge from Purple to Sabbath’s Dio era.",
+    "en": "Blackmore / Dio hard rock; bridge from Purple to Sabbath's Dio era.",
     "zh": "Blackmore / Dio 的 hard rock；从 Purple 到 Sabbath Dio 时期的桥。"
   },
   "body": {
-    "en": "Formed 1975. Ritchie Blackmore’s Rainbow through Long Live Rock ’n’ Roll pair Blackmore’s neoclassical leads with Ronnie James Dio’s operatic mid-range and Cozy Powell’s drums on key records.\n\nPerson-graph bridge: Dio arrives battle-tested before Black Sabbath’s Heaven and Hell. Later Graham Bonnet/Joe Lynn Turner lineups are separate commercial chapters.",
-    "zh": "1975 年组建。从 Ritchie Blackmore’s Rainbow 到 Long Live Rock ’n’ Roll：Blackmore 新古典主音对 Ronnie James Dio 歌剧式中音区，关键唱片含 Cozy Powell 鼓。\n\n人物图谱桥：Dio 在加入 Black Sabbath 的 Heaven and Hell 前已在此练兵。后期 Graham Bonnet/Joe Lynn Turner 阵容是另一商业章节。"
+    "en": "Formed 1975 after Blackmore left Deep Purple. Ritchie Blackmore's Rainbow through Long Live Rock 'n' Roll pair Blackmore's neoclassical leads with Ronnie James Dio's operatic mid-range and Cozy Powell's drums on key records.\n\nPerson-graph bridge: Dio arrives battle-tested before Black Sabbath's Heaven and Hell. Later Graham Bonnet/Joe Lynn Turner lineups are separate commercial chapters.",
+    "zh": "Blackmore 1975 年离开 Deep Purple 后组建。从 Ritchie Blackmore's Rainbow 到 Long Live Rock 'n' Roll：Blackmore 新古典主音对 Ronnie James Dio 歌剧式中音区，关键唱片含 Cozy Powell 鼓。\n\n人物图谱桥：Dio 在加入 Black Sabbath 的 Heaven and Hell 前已在此练兵。后期 Graham Bonnet/Joe Lynn Turner 阵容是另一商业章节。"
   },
   "whyMatters": {
-    "en": "Ritchie Blackmore’s post–Deep Purple band; Rising (1976) and the Dio years set fantasy-lyric hard rock with classical guitar figures.",
-    "zh": "Ritchie Blackmore 离开 Deep Purple 后的乐队；Rising（1976）与 Dio 时期定下奇幻歌词 hard rock 与古典吉他音型。"
-  }
+    "en": "Ritchie Blackmore's post–Deep Purple band; Rising (1976) and the Dio years set fantasy-lyric hard rock with neoclassical guitar figures.",
+    "zh": "Ritchie Blackmore 离开 Deep Purple 后的乐队；Rising（1976）与 Dio 时期定下奇幻歌词 hard rock 与新古典吉他音型。"
+  },
+  "scenes": [
+    {
+      "year": 1975,
+      "track": "Man on the Silver Mountain",
+      "membersOnStage": [
+        "Ritchie Blackmore",
+        "Ronnie James Dio",
+        "Mickey Lee Soule"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Debut single—Dio's mid-range over Blackmore's pentatonic climb.",
+        "zh": "首支单曲——Dio 中音区叠 Blackmore 五声阶爬升。"
+      }
+    },
+    {
+      "year": 1976,
+      "track": "Stargazer",
+      "membersOnStage": [
+        "Ritchie Blackmore",
+        "Ronnie James Dio",
+        "Tony Carey"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Orchestra on Rising—epic metal before the term fixed.",
+        "zh": "Rising 上管弦乐——术语定形前的史诗金属。"
+      }
+    },
+    {
+      "year": 1978,
+      "track": "Kill the King",
+      "membersOnStage": [
+        "Ritchie Blackmore",
+        "Ronnie James Dio",
+        "Roger Glover",
+        "Cozy Powell"
+      ],
+      "genreTags": [
+        "heavy-metal",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Speed intro and stop-start riffs—Powell's double-kick drive.",
+        "zh": "速度 intro 与停走 riff——Powell 双踩驱动。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Blackmore meets Dio",
+        "zh": "Blackmore 遇见 Dio"
+      },
+      "body": {
+        "en": "Blackmore recruits Elf's Ronnie James Dio after quitting Deep Purple mid-1975 tour. Debut Ritchie Blackmore's Rainbow (1975) is leaner than Purple Mark II.\n\nMan on the Silver Mountain fixes the template: Dio's chest voice, Blackmore's ascending riff, no organ pad.\n\nSelf-titled set proves a guitar star can reboot without Gillan/Lord chemistry.",
+        "zh": "Blackmore 1975 年巡演中途离开 Deep Purple 后招募 Elf 的 Ronnie James Dio。首张 Ritchie Blackmore's Rainbow（1975）比 Purple Mark II 更瘦。\n\nMan on the Silver Mountain 钉模板：Dio 胸声、Blackmore 上行 riff、无管风琴垫。\n\n同名专辑证明吉他明星可在无 Gillan/Lord 化学作用下重启。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Rising: power trio plus keys",
+        "zh": "Rising：加键盘的三件套"
+      },
+      "body": {
+        "en": "Rainbow Rising (1976) strips to Blackmore, Dio, Jimmy Bain (bass), Powell (drums), Carey (keys). Stargazer adds Munich orchestra—Dio lyric myth without prog suite sprawl.\n\nTarot Woman and A Light in the Black push tempo; Starstruck stays in single range.\n\nPeak Dio era; vocal power and riff clarity at maximum before lineup churn.",
+        "zh": "Rainbow Rising（1976）瘦身为 Blackmore、Dio、Jimmy Bain（贝斯）、Powell（鼓）、Carey（键盘）。Stargazer 加慕尼黑管弦——Dio 神话歌词无 prog 组曲膨胀。\n\nTarot Woman 与 A Light in the Black 推速度；Starstruck 保持单曲幅度。\n\nDio 时期巅峰；人声力量与 riff 清晰度在阵容更替前达顶。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Long Live Rock 'n' Roll and post-Dio",
+        "zh": "Long Live Rock 'n' Roll 与后 Dio 时期"
+      },
+      "body": {
+        "en": "Long Live Rock 'n' Roll (1978) closes the Dio era with Gate of Babylon and the title track. Dio exits 1979; Glover and Powell anchor the Bonnet then Turner commercial lineups.\n\nDown to Earth (1979) adds Since You Been Gone—AOR polish, still Blackmore riff core.\n\nRainbow ends 1984 when Blackmore rejoins Deep Purple Mk II reunion.",
+        "zh": "Long Live Rock 'n' Roll（1978）以 Gate of Babylon 与标题曲收束 Dio 时期。Dio 1979 年离队；Glover 与 Powell 支撑 Bonnet 后 Turner 商业阵容。\n\nDown to Earth（1979）加 Since You Been Gone——AOR 抛光，Blackmore riff 核心仍在。\n\nRainbow 1984 年随 Blackmore 回归 Deep Purple Mk II 重聚而结束。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Man on the Silver Mountain",
+        "zh": "Man on the Silver Mountain"
+      },
+      "body": {
+        "en": "Debut single—Dio's mid-range over Blackmore's pentatonic climb.",
+        "zh": "首支单曲——Dio 中音区叠 Blackmore 五声阶爬升。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Stargazer",
+        "zh": "Stargazer"
+      },
+      "body": {
+        "en": "Orchestra on Rising—epic metal before the term fixed.",
+        "zh": "Rising 上管弦乐——术语定形前的史诗金属。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Kill the King",
+        "zh": "Kill the King"
+      },
+      "body": {
+        "en": "Speed intro and stop-start riffs—Powell's double-kick drive.",
+        "zh": "速度 intro 与停走 riff——Powell 双踩驱动。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "heavy-metal"
+    }
+  ]
 }

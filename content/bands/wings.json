@@ -5,27 +5,213 @@
   "origin": "UK",
   "primaryEra": "1970s-prog-hard-rock",
   "genres": [
-    "rock-n-roll"
+    "rock-n-roll",
+    "hard-rock"
   ],
   "decisive": false,
-  "members": [],
-  "essentialTracks": [],
+  "members": [
+    {
+      "name": "Paul McCartney",
+      "role": "Vocals, Bass, Guitar, Keys",
+      "years": "1971–1981",
+      "personSlug": "paul-mccartney"
+    },
+    {
+      "name": "Linda McCartney",
+      "role": "Keyboards, Vocals",
+      "years": "1971–1981"
+    },
+    {
+      "name": "Denny Laine",
+      "role": "Guitar, Vocals",
+      "years": "1971–1981"
+    },
+    {
+      "name": "Denny Seiwell",
+      "role": "Drums",
+      "years": "1971–1973"
+    },
+    {
+      "name": "Joe English",
+      "role": "Drums",
+      "years": "1975–1977"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Band on the Run",
+      "year": 1973
+    },
+    {
+      "title": "Jet",
+      "year": 1973
+    },
+    {
+      "title": "Live and Let Die",
+      "year": 1973
+    },
+    {
+      "title": "Maybe I'm Amazed",
+      "year": 1970
+    }
+  ],
   "lyricQuotes": [],
   "relatedBands": [
     "the-beatles"
   ],
-  "influenceFrom": [],
+  "influenceFrom": [
+    "the-beatles"
+  ],
   "influenced": [],
   "shortBio": {
     "en": "McCartney-led 1970s rock/pop; person continuity after Beatles.",
     "zh": "McCartney 领衔的 1970 年代摇滚/流行；Beatles 之后的人物连续性。"
   },
   "body": {
-    "en": "Formed 1971 with Linda McCartney and Denny Laine (lineups shifted). Wild Life through Back to the Egg mix music-hall pop, hard rockers, and touring logistics McCartney rebuilt from scratch.\n\nBridge page: Beatles → Wings in the person graph. Band on the Run is the usual citation; the structural point is songwriter continuity across brand change.",
+    "en": "Formed 1971 with Linda McCartney and Denny Laine; lineups shifted through the decade. Wild Life through Back to the Egg mix music-hall pop, hard rockers, and touring logistics McCartney rebuilt from scratch.\n\nBridge page: Beatles → Wings in the person graph. Band on the Run is the usual citation; the structural point is songwriter continuity across brand change.",
     "zh": "1971 年与 Linda McCartney、Denny Laine 组建（阵容有变）。从 Wild Life 到 Back to the Egg 混合音乐厅流行、硬摇滚曲与 McCartney 从头重建的巡演后勤。\n\n桥页：人物图谱中的 Beatles → Wings。Band on the Run 是常见引用；结构要点是品牌更换后的词曲作者连续性。"
   },
   "whyMatters": {
-    "en": "Paul McCartney’s 1971–81 post-Beatles band; Band on the Run (1973) proved stadium/pop craft continued under a new logo.",
+    "en": "Paul McCartney's 1971–81 post-Beatles band; Band on the Run (1973) proved stadium/pop craft continued under a new logo.",
     "zh": "Paul McCartney 1971–81 在 Beatles 之后的乐队；Band on the Run（1973）证明体育场/流行工艺在新 logo 下延续。"
-  }
+  },
+  "scenes": [
+    {
+      "year": 1973,
+      "track": "Band on the Run",
+      "membersOnStage": [
+        "Paul McCartney",
+        "Linda McCartney",
+        "Denny Laine",
+        "Denny Seiwell"
+      ],
+      "genreTags": [
+        "rock-n-roll",
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Three-part suite structure in a radio single—McCartney's post-Beatles songwriting peak.",
+        "zh": "电台单曲里的三段组曲结构——McCartney 后 Beatles 词曲巅峰。"
+      }
+    },
+    {
+      "year": 1973,
+      "track": "Live and Let Die",
+      "membersOnStage": [
+        "Paul McCartney",
+        "Linda McCartney",
+        "Denny Laine"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "George Martin orchestration on a Bond theme—Wings as pop-event band.",
+        "zh": "George Martin 配器 Bond 主题曲——Wings 作为 pop 事件乐队。"
+      }
+    },
+    {
+      "year": 1976,
+      "track": "Silly Love Songs",
+      "membersOnStage": [
+        "Paul McCartney",
+        "Linda McCartney",
+        "Denny Laine",
+        "Joe English"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "Disco-adjacent groove refuting 'silly' pop dismissal—US #1.",
+        "zh": "Disco 邻近 groove 反驳「肤浅流行」——美国 #1。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Post-Beatles reboot",
+        "zh": "后 Beatles 重启"
+      },
+      "body": {
+        "en": "McCartney forms Wings after Beatles dissolution and solo McCartney (1970). Initial trio: Paul, Linda, Denny Laine—deliberately non-star sidemen.\n\nWild Life (1971) is loose and quickly recorded; tour rehearsals double as writing sessions.\n\nMaybe I'm Amazed (1970, solo) sets the emotional vocal template Wings inherit.",
+        "zh": "Beatles 解散与 solo McCartney（1970）后组建 Wings。初始三人：Paul、Linda、Denny Laine——刻意非明星伴奏。\n\nWild Life（1971）松散快录；巡演排练兼写歌。\n\nMaybe I'm Amazed（1970，solo）定下 Wings 继承的情感人声模板。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Band on the Run: Nigeria sessions",
+        "zh": "Band on the Run：尼日利亚录音"
+      },
+      "body": {
+        "en": "Recorded in Lagos with Paul, Linda, Denny Laine, and Denny Seiwell. Title track runs verse-chorus-suite in under five minutes.\n\nJet opens with snare crack and stacked backing vocals; Live and Let Die adds George Martin horn stabs.\n\nAlbum hits #1 US/UK—proof McCartney's melodic craft survives without Lennon counterweight.",
+        "zh": "于拉各斯与 Paul、Linda、Denny Laine、Denny Seiwell 录制。标题曲五分钟内跑完主歌-副歌-组曲。\n\nJet 以军鼓 crack 与堆叠和声开场；Live and Let Die 加 George Martin 铜管刺击。\n\n专辑英美 #1——证明 McCartney 旋律工艺在无 Lennon 制衡下仍成立。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Wings Over America and dissolution",
+        "zh": "Wings Over America 与解散"
+      },
+      "body": {
+        "en": "Expanded lineup adds Joe English (drums) and Jimmy McCulloch (guitar). Wings Over America (1976) documents arena-scale Beatles catalog plus new material.\n\nVenus and Mars (1975) and London Town (1978) split between rockers and ballad side.\n\nMcCartney ends Wings 1981 after lineup churn and marijuana bust fallout in Japan.",
+        "zh": "扩编加入 Joe English（鼓）与 Jimmy McCulloch（吉他）。Wings Over America（1976）记录体育场级 Beatles 目录加新曲。\n\nVenus and Mars（1975）与 London Town（1978）在摇滚曲与抒情面间分流。\n\nMcCartney 1981 年因阵容更替与日本大麻案余波结束 Wings。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Band on the Run",
+        "zh": "Band on the Run"
+      },
+      "body": {
+        "en": "Three-part suite structure in a radio single—McCartney's post-Beatles songwriting peak.",
+        "zh": "电台单曲里的三段组曲结构——McCartney 后 Beatles 词曲巅峰。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Live and Let Die",
+        "zh": "Live and Let Die"
+      },
+      "body": {
+        "en": "George Martin orchestration on a Bond theme—Wings as pop-event band.",
+        "zh": "George Martin 配器 Bond 主题曲——Wings 作为 pop 事件乐队。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Silly Love Songs",
+        "zh": "Silly Love Songs"
+      },
+      "body": {
+        "en": "Disco-adjacent groove refuting 'silly' pop dismissal—US #1.",
+        "zh": "Disco 邻近 groove 反驳「肤浅流行」——美国 #1。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "rock-n-roll"
+    }
+  ]
 }

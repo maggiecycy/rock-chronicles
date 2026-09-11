@@ -339,6 +339,30 @@ const CURATED = {
       credit: "Warner Records promotional photograph, 1984",
       altEn: "Van Halen lineup publicity photograph, 1984",
     },
+    motorhead: {
+      file: "Motörhead at Wacken Open Air 2013.jpg",
+      license: "CC BY-SA 3.0",
+      credit: "Jonas Rogowski",
+      altEn: "Motörhead at Wacken Open Air, 2013",
+    },
+    slayer: {
+      file: "01-08-2014-Slayer at Wacken Open Air-JonasR.jpg",
+      license: "CC BY-SA 3.0",
+      credit: "Jonas Rogowski",
+      altEn: "Slayer at Wacken Open Air, 2014",
+    },
+    pantera: {
+      file: "Pantera at Copenhell 2023.jpg",
+      license: "CC BY-SA 4.0",
+      credit: "Pugilist",
+      altEn: "Pantera at Copenhell, 2023",
+    },
+    tool: {
+      file: "Tool live Birmingham 2022.jpg",
+      license: "CC BY-SA 4.0",
+      credit: "Lugnuts",
+      altEn: "Tool live in Birmingham, 2022",
+    },
   },
   people: {
     "bernard-sumner": {

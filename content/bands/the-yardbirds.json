@@ -6,28 +6,227 @@
   "primaryEra": "1960s-british-invasion",
   "genres": [
     "rock-n-roll",
-    "blues"
+    "blues",
+    "psychedelic"
   ],
   "decisive": false,
-  "members": [],
-  "essentialTracks": [],
+  "members": [
+    {
+      "name": "Eric Clapton",
+      "role": "Guitar",
+      "years": "1963–1965",
+      "personSlug": "eric-clapton"
+    },
+    {
+      "name": "Jeff Beck",
+      "role": "Guitar",
+      "years": "1965–1966"
+    },
+    {
+      "name": "Jimmy Page",
+      "role": "Guitar, Bass",
+      "years": "1966–1968",
+      "personSlug": "jimmy-page"
+    },
+    {
+      "name": "Keith Relf",
+      "role": "Vocals, Harmonica",
+      "years": "1963–1968"
+    },
+    {
+      "name": "Chris Dreja",
+      "role": "Bass, Guitar",
+      "years": "1963–1968"
+    },
+    {
+      "name": "Jim McCarty",
+      "role": "Drums",
+      "years": "1963–1968"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "For Your Love",
+      "year": 1965
+    },
+    {
+      "title": "Heart Full of Soul",
+      "year": 1965
+    },
+    {
+      "title": "Shapes of Things",
+      "year": 1966
+    },
+    {
+      "title": "Over Under Sideways Down",
+      "year": 1966
+    }
+  ],
   "lyricQuotes": [],
   "relatedBands": [
+    "cream",
     "led-zeppelin",
     "the-rolling-stones"
   ],
-  "influenceFrom": [],
-  "influenced": [],
+  "influenceFrom": [
+    "chuck-berry",
+    "the-rolling-stones"
+  ],
+  "influenced": [
+    "cream",
+    "led-zeppelin"
+  ],
   "shortBio": {
     "en": "1960s blues-rock lab; guitar-hero pipeline out of London clubs.",
     "zh": "1960 年代蓝调摇滚实验室；伦敦俱乐部输出的吉他英雄管道。"
   },
   "body": {
-    "en": "Formed 1963. Early hits (For Your Love) and the Beck/Page eras document feedback, rave-ups, and studio experimentation beyond strict blues covers.\n\nBridge page in the person graph: Clapton exits to Cream; Page carries unfinished business into Led Zeppelin. Catalog is secondary to the personnel flow it enabled.",
-    "zh": "1963 年组建。早期热单（For Your Love）与 Beck/Page 时期记录反馈、rave-up 与超出严格蓝调翻唱的录音室实验。\n\n人物图谱桥页：Clapton 离开组建 Cream；Page 把未完成事务带进 Led Zeppelin。目录次要于它所促成的人事流动。"
+    "en": "Formed 1963 in London. Early hits (For Your Love, 1965) and the Beck/Page eras document feedback, rave-ups, and studio experimentation beyond strict blues covers.\n\nBridge page in the person graph: Clapton exits to Cream; Page carries unfinished business into Led Zeppelin. Catalog is secondary to the personnel flow it enabled.",
+    "zh": "1963 年于伦敦组建。早期热单（For Your Love，1965）与 Beck/Page 时期记录反馈、rave-up 与超出严格蓝调翻唱的录音室实验。\n\n人物图谱桥页：Clapton 离队组建 Cream；Page 把未完成事务带进 Led Zeppelin。目录次要于它所促成的人事流动。"
   },
   "whyMatters": {
-    "en": "British R&B band that successively featured Clapton, Beck, and Page—personnel lab for Cream and Led Zeppelin.",
-    "zh": "英国 R&B 乐队：相继拥有 Clapton、Beck、Page——通向 Cream 与 Led Zeppelin 的人事实验室。"
-  }
+    "en": "British R&B band that successively featured Clapton, Beck, and Page—personnel lab whose guitarists fed Cream and Led Zeppelin.",
+    "zh": "英国 R&B 乐队：相继拥有 Clapton、Beck、Page——吉他手分别流向 Cream 与 Led Zeppelin 的人事实验室。"
+  },
+  "scenes": [
+    {
+      "year": 1965,
+      "track": "For Your Love",
+      "membersOnStage": [
+        "Eric Clapton",
+        "Keith Relf",
+        "Chris Dreja",
+        "Jim McCarty"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Harpsichord pop single that pushed Clapton toward blues-purist exit.",
+        "zh": "羽管键琴流行单曲把 Clapton 推向蓝调纯粹主义者离队。"
+      }
+    },
+    {
+      "year": 1965,
+      "track": "Heart Full of Soul",
+      "membersOnStage": [
+        "Jeff Beck",
+        "Keith Relf",
+        "Chris Dreja",
+        "Jim McCarty"
+      ],
+      "genreTags": [
+        "blues",
+        "psychedelic"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Beck's fuzz-tone sitar substitute on a minor-key riff.",
+        "zh": "Beck 用 fuzz 音色替代 sitar 的小调 riff。"
+      }
+    },
+    {
+      "year": 1966,
+      "track": "Shapes of Things",
+      "membersOnStage": [
+        "Jeff Beck",
+        "Keith Relf",
+        "Chris Dreja",
+        "Jim McCarty"
+      ],
+      "genreTags": [
+        "psychedelic",
+        "blues"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Feedback swells and anti-war lyric—proto-psych in a 2:30 single.",
+        "zh": "反馈延音与反战歌词——2:30 单曲里的前迷幻。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Clapton blues-purist era",
+        "zh": "Clapton 蓝调纯粹主义时期"
+      },
+      "body": {
+        "en": "The Yardbirds start as a Crawdaddy Club R&B unit covering Chicago blues. Clapton's guitar hero status builds on extended live rave-ups.\n\nFor Your Love (1965) adds harpsichord and pop arrangement—Clapton leaves March 1965 citing commercial drift.\n\nHis exit opens the Beck chair; the band's function as guitar incubator begins.",
+        "zh": "Yardbirds 起步于 Crawdaddy Club R&B 单位，翻唱芝加哥蓝调。Clapton 吉他英雄地位建立在延长现场 rave-up 上。\n\nFor Your Love（1965）加入羽管键琴与流行编曲——Clapton 1965 年 3 月因商业化离队。\n\n他的空缺开启 Beck 席位；乐队作为吉他孵化器的功能启动。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Beck: fuzz and feedback",
+        "zh": "Beck：fuzz 与反馈"
+      },
+      "body": {
+        "en": "Jeff Beck replaces Clapton mid-1965. Heart Full of Soul uses fuzz in place of sitar; Shapes of Things adds controlled feedback swells.\n\nRoger the Engineer (1966, US: Over Under Sideways Down) is the Beck peak—Indian scales, reverse tape, and rave-up closers.\n\nBeck departs after US tour friction; Page already in the band switches to lead guitar.",
+        "zh": "Jeff Beck 1965 年中接替 Clapton。Heart Full of Soul 用 fuzz 替 sitar；Shapes of Things 加可控反馈延音。\n\nRoger the Engineer（1966，美版 Over Under Sideways Down）是 Beck 巅峰——印度音阶、反向磁带与 rave-up 收尾。\n\nBeck 在美巡摩擦后离队；已在队的 Page 转任主音吉他。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Page to Zeppelin handoff",
+        "zh": "Page 向 Zeppelin 交接"
+      },
+      "body": {
+        "en": "Jimmy Page joins initially on bass, then lead after Beck exits. Dual-lead experiments with Chris Dreja on guitar precede the final quartet.\n\nLittle Games (1967) is a commercial detour; live sets still feature extended blues jams and Dazed and Confused prototypes.\n\nBand dissolves 1968; Page retains touring obligations and forms Led Zeppelin from the remaining dates.",
+        "zh": "Jimmy Page 先入队贝斯，Beck 离队后转主音。与 Chris Dreja 双主音实验后定型四人组。\n\nLittle Games（1967）是商业岔路；现场仍含延长蓝调 jam 与 Dazed and Confused 原型。\n\n乐队 1968 年解散；Page 保留巡演义务并从未完成场次中组建 Led Zeppelin。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "For Your Love",
+        "zh": "For Your Love"
+      },
+      "body": {
+        "en": "Harpsichord pop single that pushed Clapton toward blues-purist exit.",
+        "zh": "羽管键琴流行单曲把 Clapton 推向蓝调纯粹主义者离队。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Heart Full of Soul",
+        "zh": "Heart Full of Soul"
+      },
+      "body": {
+        "en": "Beck's fuzz-tone sitar substitute on a minor-key riff.",
+        "zh": "Beck 用 fuzz 音色替代 sitar 的小调 riff。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "blues"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Shapes of Things",
+        "zh": "Shapes of Things"
+      },
+      "body": {
+        "en": "Feedback swells and anti-war lyric—proto-psych in a 2:30 single.",
+        "zh": "反馈延音与反战歌词——2:30 单曲里的前迷幻。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "psychedelic"
+    }
+  ]
 }

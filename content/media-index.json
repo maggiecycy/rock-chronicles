@@ -529,6 +529,46 @@
       "credit": "Warner Records promotional photograph, 1984",
       "license": "Public domain",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Van_Halen_Lineup_1984.jpg"
+    },
+    "motorhead": {
+      "src": "/media/bands/motorhead.jpg",
+      "alt": {
+        "en": "Motörhead at Wacken Open Air, 2013",
+        "zh": "Motorhead（Wikimedia Commons）"
+      },
+      "credit": "Jonas Rogowski",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Motörhead_at_Wacken_Open_Air_2013.jpg"
+    },
+    "pantera": {
+      "src": "/media/bands/pantera.jpg",
+      "alt": {
+        "en": "Pantera at Copenhell, 2023",
+        "zh": "Pantera（Wikimedia Commons）"
+      },
+      "credit": "Pugilist",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pantera_at_Copenhell_2023.jpg"
+    },
+    "slayer": {
+      "src": "/media/bands/slayer.jpg",
+      "alt": {
+        "en": "Slayer at Wacken Open Air, 2014",
+        "zh": "Slayer（Wikimedia Commons）"
+      },
+      "credit": "Jonas Rogowski",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:01-08-2014-Slayer_at_Wacken_Open_Air-JonasR.jpg"
+    },
+    "tool": {
+      "src": "/media/bands/tool.jpg",
+      "alt": {
+        "en": "Tool live in Birmingham, 2022",
+        "zh": "Tool（Wikimedia Commons）"
+      },
+      "credit": "Lugnuts",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tool_live_Birmingham_2022.jpg"
     }
   },
   "people": {

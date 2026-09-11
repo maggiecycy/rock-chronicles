@@ -9,24 +9,217 @@
     "alternative"
   ],
   "decisive": false,
-  "members": [],
-  "essentialTracks": [],
+  "members": [
+    {
+      "name": "Josh Homme",
+      "role": "Vocals, Guitar",
+      "years": "1996–present",
+      "personSlug": "josh-homme"
+    },
+    {
+      "name": "Nick Oliveri",
+      "role": "Bass, Vocals",
+      "years": "1998–2004"
+    },
+    {
+      "name": "Mark Lanegan",
+      "role": "Vocals (guest)",
+      "years": "2000–2005"
+    },
+    {
+      "name": "Dave Grohl",
+      "role": "Drums",
+      "years": "2001–2002",
+      "personSlug": "dave-grohl"
+    },
+    {
+      "name": "Troy Van Leeuwen",
+      "role": "Guitar",
+      "years": "2007–present"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "If Only",
+      "year": 2002
+    },
+    {
+      "title": "No One Knows",
+      "year": 2002
+    },
+    {
+      "title": "Go with the Flow",
+      "year": 2002
+    },
+    {
+      "title": "Little Sister",
+      "year": 2005
+    },
+    {
+      "title": "The Way You Used to Do",
+      "year": 2017
+    }
+  ],
   "lyricQuotes": [],
   "relatedBands": [
+    "them-crooked-vultures",
+    "foo-fighters"
+  ],
+  "influenceFrom": [
+    "black-sabbath",
+    "led-zeppelin"
+  ],
+  "influenced": [
     "them-crooked-vultures"
   ],
-  "influenceFrom": [],
-  "influenced": [],
   "shortBio": {
     "en": "Homme-led hard rock/alt; riff machine behind Them Crooked Vultures link.",
     "zh": "Homme 领衔的 hard rock/alt；通向 Them Crooked Vultures 的 riff 机器。"
   },
   "body": {
-    "en": "Formed 1996 in California. Early records and Songs for the Deaf (2002, with Dave Grohl on drums) fix Homme’s tuned-down, repetitive riff writing, Nick Oliveri’s bass era, and Mark Lanegan guest vocals.\n\nBridge node: QOTSA method → Them Crooked Vultures with Grohl and John Paul Jones. Emphasis is groove lock and dry desert production, not shred display.",
-    "zh": "1996 年于加州组建。早期唱片与 Songs for the Deaf（2002，Dave Grohl 鼓）定型 Homme 降调反复 riff、Nick Oliveri 贝斯时期与 Mark Lanegan 客串人声。\n\n桥接节点：QOTSA 方法 → 与 Grohl、John Paul Jones 的 Them Crooked Vultures。重点是 groove 锁定与干燥沙漠制作，而非速弹展示。"
+    "en": "Formed 1996 in California after Kyuss ends. Early records and Songs for the Deaf (2002, with Dave Grohl on drums) fix Homme's tuned-down, repetitive riff writing, Nick Oliveri's bass era, and Mark Lanegan guest vocals.\n\nBridge node: QOTSA method → Them Crooked Vultures with Grohl and John Paul Jones. Emphasis is groove lock and dry desert production, not shred display.",
+    "zh": "1996 年于加州 Kyuss 结束后组建。早期唱片与 Songs for the Deaf（2002，Dave Grohl 鼓）定型 Homme 降调反复 riff、Nick Oliveri 贝斯时期与 Mark Lanegan 客串人声。\n\n桥接节点：QOTSA 方法 → 与 Grohl、John Paul Jones 的 Them Crooked Vultures。重点是 groove 锁定与干燥沙漠制作，而非速弹展示。"
   },
   "whyMatters": {
-    "en": "Josh Homme’s desert-rock project after Kyuss; Queens of the Stone Age (1998) onward built hypnotic, dry riffs that feed later Homme collaborations.",
-    "zh": "Josh Homme 在 Kyuss 之后的沙漠摇滚项目；自同名专辑（1998）起建立催眠、干的 riff，并喂养后期 Homme 合作。"
-  }
+    "en": "Josh Homme's desert-rock project after Kyuss; Queens of the Stone Age (1998) onward built hypnotic, down-tuned riffs that feed later Homme collaborations.",
+    "zh": "Josh Homme 在 Kyuss 之后沙漠摇滚项目；自同名专辑（1998）起建立催眠、降调 riff，并喂养后期 Homme 合作。"
+  },
+  "scenes": [
+    {
+      "year": 2002,
+      "track": "No One Knows",
+      "membersOnStage": [
+        "Josh Homme",
+        "Nick Oliveri",
+        "Dave Grohl"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Grohl on drums—stop-start riff and desert-dry mix on Songs for the Deaf.",
+        "zh": "Grohl 打鼓——Songs for the Deaf 上停走 riff 与沙漠干混音。"
+      }
+    },
+    {
+      "year": 2002,
+      "track": "Go with the Flow",
+      "membersOnStage": [
+        "Josh Homme",
+        "Nick Oliveri",
+        "Dave Grohl"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Melodic chorus over repetitive verse riff—Homme's pop instinct inside stoner rock.",
+        "zh": "重复主歌 riff 上旋律副歌——stoner rock 内的 Homme pop 本能。"
+      }
+    },
+    {
+      "year": 2005,
+      "track": "Little Sister",
+      "membersOnStage": [
+        "Josh Homme",
+        "Troy Van Leeuwen",
+        "Joey Castillo"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Bo Diddley beat in a 2:40 hard-rock single—Lullabies to Paralyze groove shift.",
+        "zh": "Bo Diddley 节拍装进 2:40 hard-rock 单曲——Lullabies to Paralyze groove 转向。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Kyuss exit to desert rock",
+        "zh": "Kyuss 退出到沙漠摇滚"
+      },
+      "body": {
+        "en": "Homme forms Gamma Ray, renamed Queens of the Stone Age after legal conflict. Debut QOTSA (1998) and Rated R (2000) use C tuning, repetitive riffs, and sparse vocal delivery.\n\nNick Oliveri joins on bass—high harmonies and aggression balance Homme's low register.\n\nMark Lanegan guests on vocals; desert rock defined as groove hypnosis, not jam sprawl.",
+        "zh": "Homme 组建 Gamma Ray，法律冲突后改名 Queens of the Stone Age。首张 QOTSA（1998）与 Rated R（2000）用 C 调、重复 riff 与稀疏人声。\n\nNick Oliveri 加入贝斯——高音和声与侵略性平衡 Homme 低区。\n\nMark Lanegan 客串人声；沙漠摇滚定义为 groove 催眠，非 jam 膨胀。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Songs for the Deaf: Grohl on drums",
+        "zh": "Songs for the Deaf：Grohl 打鼓"
+      },
+      "body": {
+        "en": "Homme produces and Grohl drums on Songs for the Deaf (2002)—No One Knows and Go with the Flow hit US rock radio.\n\nMix is dry and mid-forward; riffs repeat with micro-variation, not solo breaks.\n\nAlbum title references desert highway radio static—concept as production note, not myth.",
+        "zh": "Homme 制作、Grohl 打鼓于 Songs for the Deaf（2002）——No One Knows 与 Go with the Flow 打美国 rock 电台。\n\n混音干、中频前置；riff 反复带微变化，非 solo 段。\n\n专辑名指沙漠公路电台静电——概念即制作笔记，非神话。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Homme network and TCV",
+        "zh": "Homme 网络与 TCV"
+      },
+      "body": {
+        "en": "Lullabies to Paralyze (2005) and Era Vulgaris (2007) rotate lineups; Troy Van Leeuwen adds second-guitar texture.\n\nHomme's producer credits and Grohl drum guest spot create the personnel web for Them Crooked Vultures (2009).\n\nQOTSA remains Homme's primary vehicle—riff discipline and desert production as constant.",
+        "zh": "Lullabies to Paralyze（2005）与 Era Vulgaris（2007）轮换阵容；Troy Van Leeuwen 加第二吉他纹理。\n\nHomme 制作人 credit 与 Grohl 鼓客座织出 Them Crooked Vultures（2009）人事网。\n\nQOTSA 仍是 Homme 主载体——riff 纪律与沙漠制作为常量。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "No One Knows",
+        "zh": "No One Knows"
+      },
+      "body": {
+        "en": "Grohl on drums—stop-start riff and desert-dry mix on Songs for the Deaf.",
+        "zh": "Grohl 打鼓——Songs for the Deaf 上停走 riff 与沙漠干混音。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Go with the Flow",
+        "zh": "Go with the Flow"
+      },
+      "body": {
+        "en": "Melodic chorus over repetitive verse riff—Homme's pop instinct inside stoner rock.",
+        "zh": "重复主歌 riff 上旋律副歌——stoner rock 内的 Homme pop 本能。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Little Sister",
+        "zh": "Little Sister"
+      },
+      "body": {
+        "en": "Bo Diddley beat in a 2:40 hard-rock single—Lullabies to Paralyze groove shift.",
+        "zh": "Bo Diddley 节拍装进 2:40 hard-rock 单曲——Lullabies to Paralyze groove 转向。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "hard-rock"
+    }
+  ]
 }

@@ -5,31 +5,225 @@
   "origin": "London, UK",
   "primaryEra": "1980s-metal",
   "genres": [
-    "heavy-metal",
-    "hard-rock"
+    "hard-rock",
+    "heavy-metal"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Lemmy’s power-trio bridge between punk tempo and metal volume; Ace of Spades (1980) fixed speed-as-attitude for both scenes.",
+    "en": "Lemmy's power-trio bridge between punk tempo and metal volume; Ace of Spades (1980) fixed speed-as-attitude for both scenes.",
     "zh": "Lemmy 的三件套：连接朋克速度与金属音量；Ace of Spades（1980）把「速度即态度」钉给两边场景。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Lemmy Kilmister",
+      "role": "Vocals, Bass",
+      "years": "1975–2015"
+    },
+    {
+      "name": "Fast Eddie Clarke",
+      "role": "Guitar",
+      "years": "1976–1982"
+    },
+    {
+      "name": "Phil \"Philthy Animal\" Taylor",
+      "role": "Drums",
+      "years": "1975–1984; 1987–1992"
+    },
+    {
+      "name": "Phil Campbell",
+      "role": "Guitar",
+      "years": "1984–2015"
+    },
+    {
+      "name": "Mikkey Dee",
+      "role": "Drums",
+      "years": "1992–2015"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Ace of Spades",
       "year": 1980
+    },
+    {
+      "title": "Overkill",
+      "year": 1979
+    },
+    {
+      "title": "Bomber",
+      "year": 1979
+    },
+    {
+      "title": "Iron Fist",
+      "year": 1982
+    },
+    {
+      "title": "Killed by Death",
+      "year": 1984
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "judas-priest",
+    "metallica",
+    "slayer"
+  ],
+  "influenceFrom": [
+    "the-rolling-stones"
+  ],
+  "influenced": [
+    "metallica",
+    "slayer",
+    "megadeth"
+  ],
   "shortBio": {
     "en": "UK speed/heavy rock; Ace of Spades is the three-chord velocity blueprint.",
     "zh": "英国速度/重型摇滚；Ace of Spades 是三和弦速度蓝图。"
   },
   "body": {
-    "en": "Formed 1975 after Lemmy left Hawkwind. Overkill, Ace of Spades, and No Sleep ’til Hammersmith document the classic Lemmy / Eddie Clarke / Phil Taylor attack—bass as rhythm guitar, shouted vocal, 4/4 charge.\n\nAce of Spades (1980) is the citation track for thrash and hardcore bands naming Motörhead as tempo ancestor. Not progressive; the craft is relentlessness and midrange grit in the mix.",
-    "zh": "Lemmy 离开 Hawkwind 后于 1975 年组建。Overkill、Ace of Spades 与 No Sleep ’til Hammersmith 记录经典 Lemmy / Eddie Clarke / Phil Taylor 攻击——贝斯当节奏吉他、喊叫人声、4/4 冲锋。\n\nAce of Spades（1980）是 thrash 与 hardcore 乐队点名 Motörhead 为速度祖先时的引用曲。不走 progressive；工艺在于不停歇与混音中频的砂感。"
-  }
+    "en": "Formed 1975 after Lemmy left Hawkwind. Overkill, Ace of Spades, and No Sleep 'til Hammersmith document the classic Lemmy / Eddie Clarke / Phil Taylor attack—bass as rhythm guitar, shouted vocal, 4/4 charge.\n\nAce of Spades (1980) is the citation track for thrash and hardcore bands naming Motörhead as tempo ancestor. Not progressive; the craft is relentlessness and midrange grit in the mix.",
+    "zh": "Lemmy 离开 Hawkwind 后于 1975 年组建。Overkill、Ace of Spades 与 No Sleep 'til Hammersmith 记录经典 Lemmy / Eddie Clarke / Phil Taylor 攻击——贝斯当节奏吉他、喊叫人声、4/4 冲锋。\n\nAce of Spades（1980）是 thrash 与 hardcore 乐队点名 Motörhead 为速度祖先时的引用曲。不走 progressive；工艺在于不停歇与混音中频的砂感。"
+  },
+  "scenes": [
+    {
+      "year": 1979,
+      "track": "Overkill",
+      "membersOnStage": [
+        "Lemmy Kilmister",
+        "Fast Eddie Clarke",
+        "Phil Taylor"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Double-kick opener—tempo as identity before thrash codified.",
+        "zh": "双踩开场——thrash 定形前的速度身份。"
+      }
+    },
+    {
+      "year": 1980,
+      "track": "Ace of Spades",
+      "membersOnStage": [
+        "Lemmy Kilmister",
+        "Fast Eddie Clarke",
+        "Phil Taylor"
+      ],
+      "genreTags": [
+        "heavy-metal",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Three-chord velocity blueprint—Lemmy bass as rhythm guitar in the mix.",
+        "zh": "三和弦速度蓝图——混音中 Lemmy 贝斯当节奏吉他。"
+      }
+    },
+    {
+      "year": 1980,
+      "track": "Bomber",
+      "membersOnStage": [
+        "Lemmy Kilmister",
+        "Fast Eddie Clarke",
+        "Phil Taylor"
+      ],
+      "genreTags": [
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Siren intro and mid-tempo stomp—stage show as production element.",
+        "zh": "警笛 intro 与中速 stomp——舞台秀作制作元素。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Hawkwind exit to Motörhead",
+        "zh": "离开 Hawkwind 组建 Motörhead"
+      },
+      "body": {
+        "en": "Lemmy forms Bastard, renamed Motörhead after a Hawkwind song. Debut and Overkill (1979) establish the power trio: Lemmy's Rickenbacker bass through Marshall, Clarke's blues-rock guitar, Taylor's double-kick.\n\nNo fancy solos—song length stays under four minutes. Punk clubs and metal audiences both claim the band.\n\nLemmy's vocal is shouted conversation, not operatic metal.",
+        "zh": "Lemmy 组建 Bastard，后改 Motörhead，名出 Hawkwind 曲。首张与 Overkill（1979）定 power trio：Lemmy Rickenbacker 贝斯进 Marshall、Clarke blues-rock 吉他、Taylor 双踩。\n\n无花哨 solo——曲长压四分钟内。朋克俱乐部与金属听众都认这支乐队。\n\nLemmy 人声是喊叫式对话，非歌剧金属。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Ace of Spades peak",
+        "zh": "Ace of Spades 巅峰"
+      },
+      "body": {
+        "en": "Ace of Spades (1980) title track opens on Lemmy's bass riff—E minor gallop at 140 BPM. Clarke's guitar doubles the root; no keyboard pad.\n\nAlbum mixes fast (Ace of Spades, Shoot You in the Back) and slow (Live to Win, Leave Me Alone)—dynamic range inside speed metal.\n\nNo Sleep 'til Hammersmith (1981) live document becomes the performance reference.",
+        "zh": "Ace of Spades（1980）标题曲以 Lemmy 贝斯 riff 开场——E 小调 gallop 约 140 BPM。Clarke 吉他双根音；无键盘垫。\n\n专辑混快（Ace of Spades、Shoot You in the Back）与慢（Live to Win、Leave Me Alone）——速度金属内的动态幅度。\n\nNo Sleep 'til Hammersmith（1981）现场文献成演出参照。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Lineup changes and thrash debt",
+        "zh": "阵容更替与 thrash 债务"
+      },
+      "body": {
+        "en": "Clarke exits 1982; Phil Campbell joins for a two-guitar era. Iron Fist and Killed by Death extend the speed template.\n\nMetallica, Slayer, and Anthrax cite Motörhead as tempo and attitude ancestor—not riff complexity.\n\nLemmy runs the band until his death 2015; 40-year live reliability is the secondary legacy.",
+        "zh": "Clarke 1982 年离队；Phil Campbell 加入双吉他时期。Iron Fist 与 Killed by Death 延伸速度模板。\n\nMetallica、Slayer、Anthrax 引 Motörhead 为速度与态度祖先——非 riff 复杂度。\n\nLemmy 运营乐队至 2015 年去世；四十年现场可靠为次要遗产。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Overkill",
+        "zh": "Overkill"
+      },
+      "body": {
+        "en": "Double-kick opener—tempo as identity before thrash codified.",
+        "zh": "双踩开场——thrash 定形前的速度身份。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Ace of Spades",
+        "zh": "Ace of Spades"
+      },
+      "body": {
+        "en": "Three-chord velocity blueprint—Lemmy bass as rhythm guitar in the mix.",
+        "zh": "三和弦速度蓝图——混音中 Lemmy 贝斯当节奏吉他。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Bomber",
+        "zh": "Bomber"
+      },
+      "body": {
+        "en": "Siren intro and mid-tempo stomp—stage show as production element.",
+        "zh": "警笛 intro 与中速 stomp——舞台秀作制作元素。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "heavy-metal"
+    }
+  ],
+  "alsoAppearsIn": [
+    "1970s-prog-hard-rock",
+    "punk-postpunk"
+  ]
 }

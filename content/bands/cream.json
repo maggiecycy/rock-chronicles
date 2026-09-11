@@ -11,13 +11,13 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "London power trio (Clapton / Bruce / Baker) that pushed blues improvisation to hard-rock volume in 1966–68.",
-    "zh": "伦敦三件套（Clapton / Bruce / Baker）：1966–68 把蓝调即兴推到 hard-rock 音量。"
+    "en": "London power trio (Clapton / Bruce / Baker) that pushed blues improvisation to hard-rock volume in 1966–68—first supergroup, first citation for trio stadium rock.",
+    "zh": "伦敦三件套（Clapton / Bruce / Baker）：1966–68 把蓝调即兴推到 hard-rock 音量——首个 supergroup，三件套体育场摇滚的引用起点。"
   },
   "members": [
     {
       "name": "Eric Clapton",
-      "role": "Guitar",
+      "role": "Guitar, Vocals",
       "years": "1966–1968",
       "personSlug": "eric-clapton"
     },
@@ -44,23 +44,171 @@
     {
       "title": "Crossroads",
       "year": 1968
+    },
+    {
+      "title": "Strange Brew",
+      "year": 1967
     }
   ],
   "lyricQuotes": [],
   "relatedBands": [
+    "the-yardbirds",
+    "led-zeppelin",
+    "fleetwood-mac"
+  ],
+  "influenceFrom": [
     "the-yardbirds"
   ],
-  "influenceFrom": [],
   "influenced": [
     "led-zeppelin",
-    "black-sabbath"
+    "black-sabbath",
+    "deep-purple"
   ],
   "shortBio": {
     "en": "Blues-rock power trio; Sunshine of Your Love is the classroom riff.",
     "zh": "蓝调摇滚三件套；Sunshine of Your Love 是课堂 riff。"
   },
   "body": {
-    "en": "Formed 1966 after Clapton left the Yardbirds. Fresh Cream, Disraeli Gears, and Wheels of Fire document extended live jams, Bruce’s high vocal/bass, Baker’s jazz-informed drums.\n\nSunshine of Your Love (1967) and the live Crossroads are the citation tracks. Short career; lasting role as the bridge from British blues clubs to stadium-volume trio hard rock.",
-    "zh": "Clapton 离开 Yardbirds 后于 1966 年组建。Fresh Cream、Disraeli Gears 与 Wheels of Fire 记录长现场即兴、Bruce 的高音人声/贝斯、Baker 偏爵士的鼓。\n\nSunshine of Your Love（1967）与现场 Crossroads 是引用曲。生涯短；作用是英国蓝调俱乐部到体育场音量三件套 hard rock 的桥。"
-  }
+    "en": "Formed July 1966 after Clapton left the Yardbirds. Fresh Cream (1966), Disraeli Gears (1967), and Wheels of Fire (1968) document extended live jams, Bruce's high vocal/bass lines, and Baker's jazz-informed double-kick attack.\n\nSunshine of Your Love (1967) and the live Crossroads are the citation tracks. Two-year peak; lasting role as the bridge from British blues clubs to stadium-volume trio hard rock.",
+    "zh": "Clapton 1966 年 7 月离开 Yardbirds 后组建。Fresh Cream（1966）、Disraeli Gears（1967）与 Wheels of Fire（1968）记录长现场即兴、Bruce 高音人声/贝斯线与 Baker 偏爵士的双踩攻击。\n\nSunshine of Your Love（1967）与现场 Crossroads 是引用曲。巅峰仅两年；作用是英国蓝调俱乐部到体育场音量三件套 hard rock 的桥。"
+  },
+  "scenes": [
+    {
+      "year": 1967,
+      "track": "Sunshine of Your Love",
+      "membersOnStage": [
+        "Eric Clapton",
+        "Jack Bruce",
+        "Ginger Baker"
+      ],
+      "genreTags": [
+        "blues",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Minor-key riff + wah lead; studio template for power-trio hard rock.",
+        "zh": "小调 riff + wah 主音；三件套 hard rock 的录音室模板。"
+      }
+    },
+    {
+      "year": 1968,
+      "track": "White Room",
+      "membersOnStage": [
+        "Eric Clapton",
+        "Jack Bruce",
+        "Ginger Baker"
+      ],
+      "genreTags": [
+        "psychedelic",
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Time-signature shifts and Baker's tom fills in a single.",
+        "zh": "单曲内的拍号切换与 Baker 的 tom 过门。"
+      }
+    },
+    {
+      "year": 1968,
+      "track": "Crossroads",
+      "membersOnStage": [
+        "Eric Clapton",
+        "Jack Bruce",
+        "Ginger Baker"
+      ],
+      "genreTags": [
+        "blues",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Live Johnson cover at full trio velocity—Clapton's solo as citation.",
+        "zh": "Johnson 翻唱以三件套全速现场呈现——Clapton solo 为引用标准。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Yardbirds exit to supergroup",
+        "zh": "离开 Yardbirds 组建 supergroup"
+      },
+      "body": {
+        "en": "Clapton joins Bruce and Baker after leaving the Yardbirds over pop direction. The trio debuts at the Twelfth Night Ball, London, July 1966.\n\nNo second guitarist—each player carries lead weight. Blues covers and originals share equal billing from night one.\n\nFresh Cream (1966) captures the live rave-up method before studio polish arrives.",
+        "zh": "Clapton 因流行方向离开 Yardbirds，与 Bruce、Baker 组队。1966 年 7 月伦敦 Twelfth Night Ball 首演。\n\n无第二吉他——三人各扛主音重量。蓝调翻唱与原创从第一晚平分版面。\n\nFresh Cream（1966）在录音室抛光到来前捕捉现场 rave-up 方法。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "blues"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Disraeli Gears: psychedelic blues peak",
+        "zh": "Disraeli Gears：迷幻蓝调巅峰"
+      },
+      "body": {
+        "en": "Disraeli Gears (1967, Felix Pappalardi production) adds wah, Leslie, and tighter song forms to the jam engine.\n\nSunshine of Your Love opens on Bruce's descending riff; Clapton's solo uses wah as tone filter, not ornament.\n\nStrange Brew and Tales of Brave Ulysses show studio psychedelia without losing blues root notes.",
+        "zh": "Disraeli Gears（1967，Felix Pappalardi 制作）在 jam 引擎上加 wah、Leslie 与更紧歌曲结构。\n\nSunshine of Your Love 以 Bruce 下行 riff 开场；Clapton solo 用 wah 作音色滤波，非装饰。\n\nStrange Brew 与 Tales of Brave Ulysses 展示录音室迷幻而不丢蓝调根音。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "blues"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Wheels of Fire and breakup",
+        "zh": "Wheels of Fire 与解散"
+      },
+      "body": {
+        "en": "Wheels of Fire (1968) mixes studio tracks and live sides; White Room uses 5/4 verse into 4/4 chorus.\n\nCrossroads (live at Winterland) compresses Robert Johnson into a speed-blues sprint—Clapton's solo is the era's guitar exam.\n\nEgo and volume wars end the band November 1968; two years, four US Top 10 albums.",
+        "zh": "Wheels of Fire（1968）混录音室与现场；White Room 用 5/4 主歌接 4/4 副歌。\n\nCrossroads（Winterland 现场）把 Robert Johnson 压成速度蓝调冲刺——Clapton solo 是时代吉他考。\n\n自我与音量内斗于 1968 年 11 月终结乐队；两年四张美国 Top 10 专辑。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "blues"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Sunshine of Your Love",
+        "zh": "Sunshine of Your Love"
+      },
+      "body": {
+        "en": "Minor-key riff + wah lead; studio template for power-trio hard rock.",
+        "zh": "小调 riff + wah 主音；三件套 hard rock 的录音室模板。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "blues"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "White Room",
+        "zh": "White Room"
+      },
+      "body": {
+        "en": "Time-signature shifts and Baker's tom fills in a single.",
+        "zh": "单曲内的拍号切换与 Baker 的 tom 过门。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "psychedelic"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Crossroads",
+        "zh": "Crossroads"
+      },
+      "body": {
+        "en": "Live Johnson cover at full trio velocity—Clapton's solo as citation.",
+        "zh": "Johnson 翻唱以三件套全速现场呈现——Clapton solo 为引用标准。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "blues"
+    }
+  ]
 }

@@ -5,30 +5,218 @@
   "origin": "Huntington Park, USA",
   "primaryEra": "1980s-metal",
   "genres": [
+    "thrash-metal",
     "heavy-metal"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Huntington Park thrash band; Reign in Blood (1986, Rick Rubin) set extreme speed and short-track density for metal’s outer lane.",
+    "en": "Huntington Park thrash band; Reign in Blood (1986, Rick Rubin) set extreme speed and short-track density for metal's outer lane.",
     "zh": "亨廷顿公园 thrash；Reign in Blood（1986，Rick Rubin）为金属外道定下极端速度与短曲密度。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Tom Araya",
+      "role": "Vocals, Bass",
+      "years": "1981–2019"
+    },
+    {
+      "name": "Kerry King",
+      "role": "Guitar",
+      "years": "1981–2019"
+    },
+    {
+      "name": "Jeff Hanneman",
+      "role": "Guitar",
+      "years": "1981–2013"
+    },
+    {
+      "name": "Dave Lombardo",
+      "role": "Drums",
+      "years": "1981–1986; 1987–1992; 2001–2013"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Raining Blood",
       "year": 1986
+    },
+    {
+      "title": "Angel of Death",
+      "year": 1986
+    },
+    {
+      "title": "South of Heaven",
+      "year": 1988
+    },
+    {
+      "title": "Seasons in the Abyss",
+      "year": 1990
+    },
+    {
+      "title": "War Ensemble",
+      "year": 1990
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "metallica",
+    "megadeth",
+    "motorhead"
+  ],
+  "influenceFrom": [
+    "motorhead",
+    "judas-priest"
+  ],
+  "influenced": [
+    "pantera",
+    "metallica"
+  ],
   "shortBio": {
     "en": "Hanneman / King thrash; Raining Blood is the side-B detonation.",
     "zh": "Hanneman / King 的 thrash；Raining Blood 是 B 面引爆。"
   },
   "body": {
-    "en": "Formed 1981. Show No Mercy through South of Heaven document the classic Araya / Hanneman / King / Lombardo lineup—chromatic riffs, blast-adjacent tempos, dry vocal bark.\n\nRaining Blood (1986) closes Reign in Blood’s 29-minute runtime. They are the Big Four’s most extreme commercial reference: less melody than Metallica, less technical display than Megadeth, more relentless tempo.",
-    "zh": "1981 年组建。从 Show No Mercy 到 South of Heaven 记录经典 Araya / Hanneman / King / Lombardo 阵容——半音 riff、近 blast 速度、干吠人声。\n\nRaining Blood（1986）收束 Reign in Blood 约 29 分钟片长。他们是 Big Four 里最极端的商业参照：旋律少于 Metallica，炫技少于 Megadeth，速度更不停歇。"
-  }
+    "en": "Formed 1981 in Huntington Park, California. Show No Mercy through South of Heaven document the classic Araya / Hanneman / King / Lombardo lineup—chromatic riffs, blast-adjacent tempos, dry vocal bark.\n\nRaining Blood (1986) closes Reign in Blood's 29-minute runtime. They are the Big Four's most extreme commercial reference: less melody than Metallica, less technical display than Megadeth, more relentless tempo.",
+    "zh": "1981 年于加州亨廷顿公园组建。从 Show No Mercy 到 South of Heaven 记录经典 Araya / Hanneman / King / Lombardo 阵容——半音 riff、近 blast 速度、干吠人声。\n\nRaining Blood（1986）收束 Reign in Blood 约 29 分钟片长。他们是 Big Four 里最极端的商业参照：旋律少于 Metallica，炫技少于 Megadeth，速度更不停歇。"
+  },
+  "scenes": [
+    {
+      "year": 1986,
+      "track": "Angel of Death",
+      "membersOnStage": [
+        "Tom Araya",
+        "Kerry King",
+        "Jeff Hanneman",
+        "Dave Lombardo"
+      ],
+      "genreTags": [
+        "thrash-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "280 BPM blast-adjacent open—Hanneman/King chromatic twin-guitar attack.",
+        "zh": "280 BPM 近 blast 开场——Hanneman/King 半音双吉他攻击。"
+      }
+    },
+    {
+      "year": 1986,
+      "track": "Raining Blood",
+      "membersOnStage": [
+        "Tom Araya",
+        "Kerry King",
+        "Jeff Hanneman",
+        "Dave Lombardo"
+      ],
+      "genreTags": [
+        "thrash-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Side-B closer—tom intro then full-band detonation at 2:30.",
+        "zh": "B 面收尾——tom intro 后 2:30 全 band 引爆。"
+      }
+    },
+    {
+      "year": 1988,
+      "track": "South of Heaven",
+      "membersOnStage": [
+        "Tom Araya",
+        "Kerry King",
+        "Jeff Hanneman",
+        "Dave Lombardo"
+      ],
+      "genreTags": [
+        "thrash-metal",
+        "heavy-metal"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Tempo drop after Reign—mid-paced evil as deliberate contrast.",
+        "zh": "Reign 后降速——中速 evil 作刻意对照。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Show No Mercy to Hell Awaits",
+        "zh": "Show No Mercy 到 Hell Awaits"
+      },
+      "body": {
+        "en": "Slayer forms from local covers band; Show No Mercy (1983) and Hell Awaits (1985) push tempo past Metallica's Kill 'Em All.\n\nHanneman and King write chromatic dual-guitar parts; Lombardo's double-kick sets blast-adjacent speed.\n\nLyrics touch Satanic and war themes—controversy as marketing, not philosophy.",
+        "zh": "Slayer 由本地翻唱乐队起步；Show No Mercy（1983）与 Hell Awaits（1985）把速度推过 Metallica 的 Kill 'Em All。\n\nHanneman 与 King 写半音双吉他声部；Lombardo 双踩定近 blast 速度。\n\n歌词涉 Satan 与战争——争议作营销，非哲学。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "thrash-metal"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Reign in Blood",
+        "zh": "Reign in Blood"
+      },
+      "body": {
+        "en": "Rick Rubin produces Reign in Blood (1986)—10 tracks, 29 minutes, no filler. Angel of Death opens at extreme tempo; controversial lyrics reference Josef Mengele.\n\nRaining Blood closes side B: tom intro, riff detonation, Araya's bark over Lombardo blast beats.\n\nAlbum defines thrash's outer speed limit while staying on a major label (Def Jam distribution).",
+        "zh": "Rick Rubin 制作 Reign in Blood（1986）——10 曲 29 分钟无 filler。Angel of Death 极端速度开场；争议歌词涉 Josef Mengele。\n\nRaining Blood 收 B 面：tom intro、riff 引爆、Araya 吠叫叠 Lombardo blast beat。\n\n专辑定义 thrash 外缘速度极限，仍走大厂牌（Def Jam 分销）。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "thrash-metal"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Slowdown and Seasons",
+        "zh": "降速与 Seasons"
+      },
+      "body": {
+        "en": "South of Heaven (1988) deliberately drops BPM—title track proves Slayer can do mid-tempo menace.\n\nSeasons in the Abyss (1990) balances speed (War Ensemble) and groove (title track)—last classic-lineup peak.\n\nHanneman's death 2013 and farewell tour 2019 close the band; Reign remains the citation album.",
+        "zh": "South of Heaven（1988）刻意降 BPM——标题曲证明 Slayer 能玩中速威胁。\n\nSeasons in the Abyss（1990）平衡速度（War Ensemble）与 groove（标题曲）——经典阵容最后巅峰。\n\nHanneman 2013 年去世与 2019 告别巡演终结乐队；Reign 仍是引用专辑。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "thrash-metal"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Angel of Death",
+        "zh": "Angel of Death"
+      },
+      "body": {
+        "en": "280 BPM blast-adjacent open—Hanneman/King chromatic twin-guitar attack.",
+        "zh": "280 BPM 近 blast 开场——Hanneman/King 半音双吉他攻击。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "thrash-metal"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Raining Blood",
+        "zh": "Raining Blood"
+      },
+      "body": {
+        "en": "Side-B closer—tom intro then full-band detonation at 2:30.",
+        "zh": "B 面收尾——tom intro 后 2:30 全 band 引爆。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "thrash-metal"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "South of Heaven",
+        "zh": "South of Heaven"
+      },
+      "body": {
+        "en": "Tempo drop after Reign—mid-paced evil as deliberate contrast.",
+        "zh": "Reign 后降速——中速 evil 作刻意对照。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "thrash-metal"
+    }
+  ]
 }
