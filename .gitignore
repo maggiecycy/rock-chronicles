@@ -24,6 +24,10 @@
 .DS_Store
 *.pem
 
+# Local/CDN audio builds (do not commit binaries; see scripts/ingest-rockmusic.mjs)
+/audio-dist/
+/public/audio/
+
 # debug
 npm-debug.log*
 yarn-debug.log*

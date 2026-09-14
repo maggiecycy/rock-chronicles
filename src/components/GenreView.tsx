@@ -2,8 +2,10 @@
 
 import Link from "next/link";
 import { TagPill } from "@/components/TagPill";
+import { TrackList } from "@/components/TrackList";
 import { useLocale } from "@/i18n/LocaleProvider";
 import { loc } from "@/i18n/config";
+import { getTracksByGenre } from "@/lib/audio";
 import type { Band, Genre, GenreLink } from "@/lib/types";
 
 export function GenreView({
@@ -20,6 +22,7 @@ export function GenreView({
   bands: Band[];
 }) {
   const { locale, t } = useLocale();
+  const listenTracks = getTracksByGenre(genre.slug, 5);
 
   const typeLabel = (type: GenreLink["type"]) => t.genres[type];
 
@@ -95,6 +98,16 @@ export function GenreView({
             })}
           </ul>
         </section>
+      )}
+
+      {listenTracks.length > 0 && (
+        <div className="mt-10">
+          <TrackList
+            tracks={listenTracks}
+            title={t.genres.listenPicks}
+            hint={t.genres.listenPicksHint}
+          />
+        </div>
       )}
 
       <section className="mt-10">

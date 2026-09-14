@@ -1,4 +1,4 @@
-import { readFileSync } from "fs";
+import { readFileSync, statSync } from "fs";
 import { join } from "path";
 import type { Localized } from "@/i18n/config";
 import { getAllBands } from "@/lib/content";
@@ -54,11 +54,14 @@ export interface HundredBandsCanon {
 }
 
 let cached: HundredBandsCanon | null = null;
+let cachedMtimeMs = 0;
 
 export function getHundredBandsCanon(): HundredBandsCanon {
-  if (cached) return cached;
   const path = join(process.cwd(), "content/canon/hundred-bands.json");
+  const { mtimeMs } = statSync(path);
+  if (cached && cachedMtimeMs === mtimeMs) return cached;
   cached = JSON.parse(readFileSync(path, "utf8")) as HundredBandsCanon;
+  cachedMtimeMs = mtimeMs;
   return cached;
 }
 

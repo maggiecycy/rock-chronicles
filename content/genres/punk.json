@@ -6,7 +6,11 @@
     "zh": "更短的歌、更便宜的器材、DIY 厂牌，对抗 Prog 与体育馆规模。"
   },
   "eraFocus": "Punk & Post-Punk",
-  "representativeBands": [],
+  "representativeBands": [
+    "billy-idol",
+    "green-day",
+    "fall-out-boy"
+  ],
   "body": {
     "en": "Punk reacts to Prog length and arena rock economics. It favors speed, attitude, and playable songs, and feeds Post-Punk, hardcore, and later Indie DIY scenes.",
     "zh": "Punk 反击 Prog 曲长与 Arena Rock 经济。它强调速度、态度与易上手歌曲，并直接催生后朋克、Hardcore，以及日后 Indie 的 DIY 场景。"

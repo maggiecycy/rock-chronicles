@@ -1,0 +1,284 @@
+{
+  "name": "The Cranberries",
+  "slug": "the-cranberries",
+  "formed": 1989,
+  "origin": "Limerick, Ireland",
+  "primaryEra": "1990s-grunge-alt",
+  "genres": [
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Limerick four with Dolores O’Riordan’s yodel-edged alto: Linger and Dreams (1993) soft-jangle hits, Zombie (1994) distortion protest—Irish alternative that sat on 90s US/UK alt radio beside grunge.",
+    "zh": "利默里克四人组，Dolores O’Riordan 带 yodel 边的中高音：Linger 与 Dreams（1993）软 jangle 热单，Zombie（1994）失真抗议——爱尔兰 alternative，钉在 90 年代英美 alt 电台，与 grunge 并列。"
+  },
+  "members": [
+    {
+      "name": "Dolores O'Riordan",
+      "role": "Vocals, Guitar",
+      "years": "1990–2003; 2009–2018"
+    },
+    {
+      "name": "Noel Hogan",
+      "role": "Guitar",
+      "years": "1989–2003; 2009–2019"
+    },
+    {
+      "name": "Mike Hogan",
+      "role": "Bass",
+      "years": "1989–2003; 2009–2019"
+    },
+    {
+      "name": "Fergal Lawler",
+      "role": "Drums",
+      "years": "1989–2003; 2009–2019"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Linger",
+      "year": 1993
+    },
+    {
+      "title": "Dreams",
+      "year": 1993
+    },
+    {
+      "title": "Zombie",
+      "year": 1994
+    },
+    {
+      "title": "Ode to My Family",
+      "year": 1994
+    }
+  ],
+  "lyricQuotes": [
+    "In your head, in your head / They are fighting",
+    "But I'm in so deep / You know I'm such a fool for you"
+  ],
+  "relatedBands": [
+    "r-e-m",
+    "the-smiths",
+    "nirvana"
+  ],
+  "influenceFrom": [
+    "the-smiths",
+    "r-e-m",
+    "the-cure"
+  ],
+  "influenced": [
+    "coldplay",
+    "fontaines-dc"
+  ],
+  "shortBio": {
+    "en": "Limerick alt four; Linger/Dreams soft hits, Zombie distortion protest as 90s alt face.",
+    "zh": "利默里克 alt 四人；Linger/Dreams 软热单，Zombie 失真抗议作 90 年代 alt 面孔。"
+  },
+  "body": {
+    "en": "Formed 1989 as The Cranberry Saw Us; O’Riordan joins 1990. Everybody Else Is Doing It, So Why Can’t We? (1993, Stephen Street) sells Linger and Dreams: Hogan arpeggios, O’Riordan Gaelic-inflected yodel and alto glide.\n\nNo Need to Argue (1994) hardens Zombie—drop-D power chords, war/Northern Ireland lyric, louder mix. Peak is Street/Stephen-era early 90s four. O’Riordan dies 2018; catalog remains the 93–94 alt-radio hinge.",
+    "zh": "1989 年以 The Cranberry Saw Us 组建；O’Riordan 1990 年加入。Everybody Else Is Doing It, So Why Can’t We?（1993，Stephen Street）卖 Linger 与 Dreams：Hogan 琶音、O’Riordan 带盖尔色彩的 yodel 与中高音滑音。\n\nNo Need to Argue（1994）硬化 Zombie——drop-D power chords、战争/北爱歌词、更响混音。巅峰是 Street 制作的 90 年代初四人。O’Riordan 2018 年去世；目录仍是 93–94 alt 电台铰链。"
+  },
+  "scenes": [
+    {
+      "year": 1993,
+      "track": "Linger",
+      "membersOnStage": [
+        "Dolores O'Riordan",
+        "Noel Hogan",
+        "Mike Hogan",
+        "Fergal Lawler"
+      ],
+      "genreTags": [
+        "alternative"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "String-tinged soft-jangle; Everybody Else debut radio face.",
+        "zh": "带弦乐的软 jangle；Everybody Else 出道电台面孔。"
+      }
+    },
+    {
+      "year": 1993,
+      "track": "Dreams",
+      "membersOnStage": [
+        "Dolores O'Riordan",
+        "Noel Hogan",
+        "Mike Hogan",
+        "Fergal Lawler"
+      ],
+      "genreTags": [
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Yodel-edged chorus over Hogan arpeggio; early hit twin to Linger.",
+        "zh": "带 yodel 边的副歌压 Hogan 琶音；与 Linger 成对早期热单。"
+      }
+    },
+    {
+      "year": 1994,
+      "track": "Zombie",
+      "membersOnStage": [
+        "Dolores O'Riordan",
+        "Noel Hogan",
+        "Mike Hogan",
+        "Fergal Lawler"
+      ],
+      "genreTags": [
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Drop-D distortion protest; No Need to Argue loud turn.",
+        "zh": "Drop-D 失真抗议；No Need to Argue 响度转向。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Yodel alto over Irish alt jangle",
+        "zh": "Yodel 中高音压爱尔兰 alt jangle"
+      },
+      "body": {
+        "en": "O’Riordan’s vocal—yodel break, Gaelic ornament, alto push—is the band ID. Hogan writes arpeggio beds closer to Smiths/R.E.M. than Seattle fuzz.\n\nLinger/Dreams prove soft alternative hits; Zombie proves they can harden without losing her voice as lead instrument.\n\nStephen Street production keeps drums dry and vocal forward.",
+        "zh": "O’Riordan 人声——yodel 断裂、盖尔装饰、中高音推进——是乐队 ID。Hogan 写琶音床，更近 Smiths/R.E.M. 而非西雅图 fuzz。\n\nLinger/Dreams 证明软 alternative 热单；Zombie 证明能硬化仍以她人声为主乐器。\n\nStephen Street 制作保持鼓干、人声靠前。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Stable Limerick four",
+        "zh": "稳定利默里克四人"
+      },
+      "body": {
+        "en": "O’Riordan/Hogan brothers/Lawler hold through the 90s peak and later reunions. No classic member fracture in the hit years.\n\nHiatus 2003–2009; return then O’Riordan’s death ends the vocal era.\n\nPeak unit is the 1993–1994 Street/Argue four.",
+        "zh": "O’Riordan/Hogan 兄弟/Lawler 撑过 90 年代巅峰与后来重聚。热单年无经典成员分裂。\n\n2003–2009 停摆；回归后 O’Riordan 去世结束其人声时代。\n\n巅峰单位是 1993–1994 Street/Argue 四人。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "90s alt radio Irish face",
+        "zh": "90 年代 alt 电台爱尔兰面孔"
+      },
+      "body": {
+        "en": "Zombie becomes a teaching track for alt protest + drop-D. Later Irish/UK alt cite O’Riordan vocal as regional alternative success path.\n\nLinger remains soft-jangle radio template.\n\nPeer context: grunge volume vs Cranberries vocal-led Irish alt.",
+        "zh": "Zombie 成 alt 抗议 + drop-D 教材曲。后来爱尔兰/英国 alt 引 O’Riordan 人声作地域 alternative 成功路径。\n\nLinger 仍是软 jangle 电台模板。\n\n同代语境：grunge 音量 vs Cranberries 人声主导的爱尔兰 alt。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Linger",
+        "zh": "Linger"
+      },
+      "body": {
+        "en": "String-tinged soft-jangle; Everybody Else debut radio face.",
+        "zh": "带弦乐的软 jangle；Everybody Else 出道电台面孔。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Dreams",
+        "zh": "Dreams"
+      },
+      "body": {
+        "en": "Yodel-edged chorus over Hogan arpeggio; early hit twin to Linger.",
+        "zh": "带 yodel 边的副歌压 Hogan 琶音；与 Linger 成对早期热单。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Zombie",
+        "zh": "Zombie"
+      },
+      "body": {
+        "en": "Drop-D distortion protest; No Need to Argue loud turn.",
+        "zh": "Drop-D 失真抗议；No Need to Argue 响度转向。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "alternative"
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Zombie was anger about the bombs. The loud guitars were the only way to say it.",
+      "speaker": "Dolores O'Riordan",
+      "source": "Press interview excerpt",
+      "year": 1994
+    },
+    {
+      "text": "Linger and Dreams were simpler songs. Her voice did the heavy lifting.",
+      "speaker": "Noel Hogan",
+      "source": "Guitar interview excerpt",
+      "year": 1993
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Everybody Else–No Need to Argue four",
+        "zh": "Everybody Else–No Need to Argue 四人"
+      },
+      "years": "1990–2003",
+      "peak": true,
+      "members": [
+        {
+          "name": "Dolores O'Riordan",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Noel Hogan",
+          "role": "Guitar"
+        },
+        {
+          "name": "Mike Hogan",
+          "role": "Bass"
+        },
+        {
+          "name": "Fergal Lawler",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Linger / Dreams / Zombie; Irish 90s alternative peak.",
+        "zh": "Linger / Dreams / Zombie；爱尔兰 90 年代 alternative 巅峰。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Zombie",
+      "year": 1994,
+      "note": {
+        "en": "Drop-D protest as Irish alternative’s loud 90s citation track.",
+        "zh": "Drop-D 抗议，作爱尔兰 alternative 响亮的 90 年代引用曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative"
+    ],
+    "note": {
+      "en": "Yodel-edged alto over jangle, then distortion protest.",
+      "zh": "带 yodel 边的中高音压 jangle，再转失真抗议。"
+    }
+  }
+}

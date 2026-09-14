@@ -37,7 +37,7 @@ export default function RootLayout({
       >
         <Providers>
           <MagazineNav />
-          <div className="flex-1">{children}</div>
+          <div className="flex-1 pb-24">{children}</div>
         </Providers>
       </body>
     </html>

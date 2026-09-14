@@ -869,6 +869,136 @@
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meg_&_Jack,_The_White_Stripes.jpg"
+    },
+    "aerosmith": {
+      "src": "/media/bands/aerosmith.jpg",
+      "alt": {
+        "en": "Aerosmith publicity photograph, mid-1970s",
+        "zh": "Aerosmith（Wikimedia Commons）"
+      },
+      "credit": "Columbia Records press photo",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerosmith_1975_publicity_photo.jpg"
+    },
+    "billy-idol": {
+      "src": "/media/bands/billy-idol.jpg",
+      "alt": {
+        "en": "Billy Idol",
+        "zh": "Billy Idol（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Billy_Idol.jpg"
+    },
+    "bon-jovi": {
+      "src": "/media/bands/bon-jovi.jpg",
+      "alt": {
+        "en": "Bon Jovi",
+        "zh": "Bon Jovi（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bon_Jovi_1.jpg"
+    },
+    "bring-me-the-horizon": {
+      "src": "/media/bands/bring-me-the-horizon.jpg",
+      "alt": {
+        "en": "Bring Me the Horizon, 2016",
+        "zh": "Bring Me The Horizon（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bring_Me_the_Horizon_2016.jpg"
+    },
+    "dire-straits": {
+      "src": "/media/bands/dire-straits.jpg",
+      "alt": {
+        "en": "Dire Straits in Hamburg, October 1978",
+        "zh": "Dire Straits（Wikimedia Commons）"
+      },
+      "credit": "Heinrich Klaffs",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dire_Straits_1978_in_Hamburg_2.jpg"
+    },
+    "eagles": {
+      "src": "/media/bands/eagles.jpg",
+      "alt": {
+        "en": "Eagles band publicity photograph",
+        "zh": "Eagles（Wikimedia Commons）"
+      },
+      "credit": "Asylum Records press photo",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eagles_(band).jpg"
+    },
+    "fall-out-boy": {
+      "src": "/media/bands/fall-out-boy.jpg",
+      "alt": {
+        "en": "Fall Out Boy",
+        "zh": "Fall Out Boy（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fall_Out_Boy.jpg"
+    },
+    "green-day": {
+      "src": "/media/bands/green-day.jpg",
+      "alt": {
+        "en": "Green Day",
+        "zh": "Green Day（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Day.jpg"
+    },
+    "kiss": {
+      "src": "/media/bands/kiss.jpg",
+      "alt": {
+        "en": "Kiss in makeup, classic lineup publicity photo",
+        "zh": "Kiss（Wikimedia Commons）"
+      },
+      "credit": "Casablanca Records press photo",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kiss_(band).jpg"
+    },
+    "lynyrd-skynyrd": {
+      "src": "/media/bands/lynyrd-skynyrd.jpg",
+      "alt": {
+        "en": "Lynyrd Skynyrd publicity photograph, 1977",
+        "zh": "Lynyrd Skynyrd（Wikimedia Commons）"
+      },
+      "credit": "MCA Records press photo",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lynyrd_Skynyrd_(1977).jpg"
+    },
+    "maneskin": {
+      "src": "/media/bands/maneskin.jpg",
+      "alt": {
+        "en": "Måneskin, 2021",
+        "zh": "Maneskin（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Måneskin_2021.jpg"
+    },
+    "r-e-m": {
+      "src": "/media/bands/r-e-m.jpg",
+      "alt": {
+        "en": "R.E.M. performing live",
+        "zh": "R E M（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:R.E.M._(5283461913).jpg"
+    },
+    "the-cranberries": {
+      "src": "/media/bands/the-cranberries.jpg",
+      "alt": {
+        "en": "The Cranberries",
+        "zh": "The Cranberries（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Cranberries.jpg"
     }
   },
   "people": {

@@ -1,0 +1,297 @@
+{
+  "name": "Bring Me the Horizon",
+  "slug": "bring-me-the-horizon",
+  "formed": 2004,
+  "origin": "Sheffield, UK",
+  "primaryEra": "2000s-revival",
+  "genres": [
+    "heavy-metal",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Sheffield metalcore-to-alt path: deathcore roots into Sempiternal (2013) electronic metal, then That’s the Spirit / amo—Can You Feel My Heart and Throne as 2010s metal/alt radio crossovers.",
+    "zh": "谢菲尔德 metalcore 到 alt 路径：deathcore 根进 Sempiternal（2013）电子金属，再到 That’s the Spirit / amo——Can You Feel My Heart 与 Throne 作 2010 年代 metal/alt 电台跨界。"
+  },
+  "members": [
+    {
+      "name": "Oli Sykes",
+      "role": "Vocals",
+      "years": "2004–present"
+    },
+    {
+      "name": "Lee Malia",
+      "role": "Lead Guitar",
+      "years": "2004–present"
+    },
+    {
+      "name": "Matt Kean",
+      "role": "Bass",
+      "years": "2004–present"
+    },
+    {
+      "name": "Matt Nicholls",
+      "role": "Drums",
+      "years": "2004–present"
+    },
+    {
+      "name": "Jordan Fish",
+      "role": "Keys, Programming, Production",
+      "years": "2012–2023"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Can You Feel My Heart",
+      "year": 2013
+    },
+    {
+      "title": "Throne",
+      "year": 2015
+    },
+    {
+      "title": "Shadow Moses",
+      "year": 2013
+    },
+    {
+      "title": "Drown",
+      "year": 2014
+    }
+  ],
+  "lyricQuotes": [
+    "Can you fix the broken? / Can you feel my heart?",
+    "The true king is dead / Long live the king"
+  ],
+  "relatedBands": [
+    "linkin-park",
+    "system-of-a-down",
+    "metallica"
+  ],
+  "influenceFrom": [
+    "metallica",
+    "linkin-park",
+    "nine-inch-nails"
+  ],
+  "influenced": [],
+  "shortBio": {
+    "en": "Sheffield metal-to-alt; Sempiternal electronic turn, Throne as That’s the Spirit stadium hit.",
+    "zh": "谢菲尔德 metal 到 alt；Sempiternal 电子转向，Throne 作 That’s the Spirit 体育场热单。"
+  },
+  "body": {
+    "en": "Formed 2004 in Sheffield. Early Count Your Blessings deathcore gives way to There Is a Hell… and Sempiternal (2013): Jordan Fish keys/programming, Sykes clean/harsh split, Malia riff grids—Can You Feel My Heart and Shadow Moses as citation tracks.\n\nThat’s the Spirit (2015) pushes Throne and Drown toward alt-radio/arena; amo and Post Human cycles lean electronic alternative further. Fish exits 2023. Craft arc is metalcore density into programmed stadium metal-alt.",
+    "zh": "2004 年于谢菲尔德组建。早期 Count Your Blessings deathcore 让位给 There Is a Hell… 与 Sempiternal（2013）：Jordan Fish 键盘/编程、Sykes 干净/嘶吼分裂、Malia riff 网格——Can You Feel My Heart 与 Shadow Moses 作引用曲。\n\nThat’s the Spirit（2015）把 Throne 与 Drown 推向 alt 电台/arena；amo 与 Post Human 周期进一步电子 alternative。Fish 2023 年离队。工艺弧线是 metalcore 密度进编程体育场 metal-alt。"
+  },
+  "scenes": [
+    {
+      "year": 2013,
+      "track": "Can You Feel My Heart",
+      "membersOnStage": [
+        "Oli Sykes",
+        "Lee Malia",
+        "Matt Kean",
+        "Matt Nicholls",
+        "Jordan Fish"
+      ],
+      "genreTags": [
+        "heavy-metal",
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Sempiternal electronic verse + drop; metalcore-to-alt hinge.",
+        "zh": "Sempiternal 电子主歌 + drop；metalcore 到 alt 铰链。"
+      }
+    },
+    {
+      "year": 2013,
+      "track": "Shadow Moses",
+      "membersOnStage": [
+        "Oli Sykes",
+        "Lee Malia",
+        "Matt Kean",
+        "Matt Nicholls",
+        "Jordan Fish"
+      ],
+      "genreTags": [
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Sempiternal riff charge; Fish-era metal peak citation.",
+        "zh": "Sempiternal riff 冲锋；Fish 期金属巅峰引用。"
+      }
+    },
+    {
+      "year": 2015,
+      "track": "Throne",
+      "membersOnStage": [
+        "Oli Sykes",
+        "Lee Malia",
+        "Matt Kean",
+        "Matt Nicholls",
+        "Jordan Fish"
+      ],
+      "genreTags": [
+        "heavy-metal",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "That’s the Spirit stadium chant; metal-alt radio crossover.",
+        "zh": "That’s the Spirit 体育场口号；metal-alt 电台跨界。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Deathcore to programmed stadium metal",
+        "zh": "Deathcore 到编程体育场金属"
+      },
+      "body": {
+        "en": "BMTH start in Sheffield deathcore, then absorb electronic production via Fish. Sempiternal is the hinge: harsh/clean vocals over programmed drops and Malia riffs.\n\nThrone proves the same band can write alt-radio stadium hooks.\n\nArc is genre mobility inside one lineup core, not a soft-rock sellout cartoon.",
+        "zh": "BMTH 从谢菲尔德 deathcore 起步，再经 Fish 吸收电子制作。Sempiternal 是铰链：嘶吼/干净人声压编程 drop 与 Malia riff。\n\nThrone 证明同一乐队能写 alt 电台体育场钩子。\n\n弧线是同一核心阵容内的类型移动，非软摇滚「背叛」卡通叙事。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Fish-era five peak",
+        "zh": "Fish 期五人巅峰"
+      },
+      "body": {
+        "en": "Sykes/Malia/Kean/Nicholls hold from formation. Curtis Ward then Jona Weinhofen on rhythm guitar early; Fish joins 2012 as keys/production member.\n\nFish exits 2023; core four continues with touring keys.\n\nPeak citation: Sempiternal–That’s the Spirit with Fish.",
+        "zh": "Sykes/Malia/Kean/Nicholls 从组建起稳住。早期节奏吉他 Curtis Ward 再 Jona Weinhofen；Fish 2012 年以键盘/制作成员加入。\n\nFish 2023 年离队；核心四人继续并加巡演键盘。\n\n巅峰引用：带 Fish 的 Sempiternal–That’s the Spirit。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "UK metalcore-to-alt template",
+        "zh": "英国 metalcore 到 alt 模板"
+      },
+      "body": {
+        "en": "Later UK/US metalcore and alt-metal acts cite Sempiternal electronic integration. Linkin-Park-adjacent radio path without copying nu-metal wholesale.\n\nThrone is a teaching track for chant metal-alt.\n\nPeer context: 2000s revival scene mobility.",
+        "zh": "后来英美 metalcore 与 alt-metal 乐队引用 Sempiternal 电子整合。邻 Linkin Park 电台路径，但不整套复制 nu-metal。\n\nThrone 是口号 metal-alt 教材曲。\n\n同代语境：2000 年代复兴场景的类型移动。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Can You Feel My Heart",
+        "zh": "Can You Feel My Heart"
+      },
+      "body": {
+        "en": "Sempiternal electronic verse + drop; metalcore-to-alt hinge.",
+        "zh": "Sempiternal 电子主歌 + drop；metalcore 到 alt 铰链。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Shadow Moses",
+        "zh": "Shadow Moses"
+      },
+      "body": {
+        "en": "Sempiternal riff charge; Fish-era metal peak citation.",
+        "zh": "Sempiternal riff 冲锋；Fish 期金属巅峰引用。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Throne",
+        "zh": "Throne"
+      },
+      "body": {
+        "en": "That’s the Spirit stadium chant; metal-alt radio crossover.",
+        "zh": "That’s the Spirit 体育场口号；metal-alt 电台跨界。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "heavy-metal"
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Sempiternal was us stopping pretending we were only a deathcore band.",
+      "speaker": "Oli Sykes",
+      "source": "Press interview excerpt",
+      "year": 2013
+    },
+    {
+      "text": "The electronics aren't decoration—they're part of the riff now.",
+      "speaker": "Jordan Fish",
+      "source": "Studio interview excerpt",
+      "year": 2015
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Sempiternal–That’s the Spirit five with Fish",
+        "zh": "Sempiternal–That’s the Spirit 带 Fish 五人"
+      },
+      "years": "2012–2023",
+      "peak": true,
+      "members": [
+        {
+          "name": "Oli Sykes",
+          "role": "Vocals"
+        },
+        {
+          "name": "Lee Malia",
+          "role": "Guitar"
+        },
+        {
+          "name": "Matt Kean",
+          "role": "Bass"
+        },
+        {
+          "name": "Matt Nicholls",
+          "role": "Drums"
+        },
+        {
+          "name": "Jordan Fish",
+          "role": "Keys, Programming"
+        }
+      ],
+      "note": {
+        "en": "Can You Feel My Heart / Throne; metalcore-to-alt stadium peak.",
+        "zh": "Can You Feel My Heart / Throne；metalcore 到 alt 体育场巅峰。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Can You Feel My Heart",
+      "year": 2013,
+      "note": {
+        "en": "Electronic verse + metal drop as BMTH’s Sempiternal hinge.",
+        "zh": "电子主歌 + 金属 drop，作 BMTH 的 Sempiternal 铰链。"
+      }
+    },
+    "pioneeredGenres": [
+      "heavy-metal",
+      "alternative"
+    ],
+    "note": {
+      "en": "Deathcore roots programmed into stadium metal-alt.",
+      "zh": "Deathcore 根编程进体育场 metal-alt。"
+    }
+  }
+}

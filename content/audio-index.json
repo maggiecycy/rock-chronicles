@@ -1,0 +1,1839 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-14T03:54:15.648Z",
+  "cdnBase": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio",
+  "trackCount": 147,
+  "tracks": [
+    {
+      "id": "ac-dc-back-in-black",
+      "title": "Back In Black",
+      "artistLabel": "AC/DC",
+      "bandSlug": "ac-dc",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/ac-dc-back-in-black.mp3",
+      "durationSec": 255,
+      "extra": false
+    },
+    {
+      "id": "ac-dc-hells-bells",
+      "title": "Hells Bells",
+      "artistLabel": "AC/DC",
+      "bandSlug": "ac-dc",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/ac-dc-hells-bells.mp3",
+      "durationSec": 312,
+      "extra": false
+    },
+    {
+      "id": "ac-dc-shoot-to-thrill",
+      "title": "Shoot to Thrill",
+      "artistLabel": "AC/DC",
+      "bandSlug": "ac-dc",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/ac-dc-shoot-to-thrill.mp3",
+      "durationSec": 317,
+      "extra": false
+    },
+    {
+      "id": "ac-dc-thunderstruck",
+      "title": "Thunderstruck",
+      "artistLabel": "AC/DC",
+      "bandSlug": "ac-dc",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/ac-dc-thunderstruck.mp3",
+      "durationSec": 300,
+      "extra": false
+    },
+    {
+      "id": "ac-dc-who-made-who",
+      "title": "Who Made Who",
+      "artistLabel": "AC/DC",
+      "bandSlug": "ac-dc",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/ac-dc-who-made-who.mp3",
+      "durationSec": 207,
+      "extra": false
+    },
+    {
+      "id": "alex-warren-ordinary",
+      "title": "Ordinary",
+      "artistLabel": "Alex Warren",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/alex-warren-ordinary.mp3",
+      "durationSec": 186,
+      "extra": true
+    },
+    {
+      "id": "apocalypse-cigarettes-after-sex",
+      "title": "Cigarettes After Sex",
+      "artistLabel": "Apocalypse",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/apocalypse-cigarettes-after-sex.mp3",
+      "durationSec": 290,
+      "extra": true
+    },
+    {
+      "id": "arctic-monkeys-505",
+      "title": "505",
+      "artistLabel": "Arctic Monkeys",
+      "bandSlug": "arctic-monkeys",
+      "genreSlugs": [
+        "indie-rock",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/arctic-monkeys-505.mp3",
+      "durationSec": 254,
+      "extra": false
+    },
+    {
+      "id": "back-to-friends-sombr-soundloadmate-com",
+      "title": "sombr - SoundLoadMate.com",
+      "artistLabel": "back to friends",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/back-to-friends-sombr-soundloadmate-com.mp3",
+      "durationSec": 199,
+      "extra": true
+    },
+    {
+      "id": "bad-liar-imagine-dragons",
+      "title": "Imagine Dragons",
+      "artistLabel": "Bad Liar",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/bad-liar-imagine-dragons.mp3",
+      "durationSec": 261,
+      "extra": true
+    },
+    {
+      "id": "beggin-maneskin",
+      "title": "Måneskin",
+      "artistLabel": "Måneskin",
+      "bandSlug": "maneskin",
+      "genreSlugs": [
+        "alternative",
+        "indie-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/beggin-maneskin.mp3",
+      "durationSec": 212,
+      "extra": false
+    },
+    {
+      "id": "billy-idol-rebel-yell",
+      "title": "Rebel Yell",
+      "artistLabel": "Billy Idol",
+      "bandSlug": "billy-idol",
+      "genreSlugs": [
+        "punk",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/billy-idol-rebel-yell.mp3",
+      "durationSec": 286,
+      "extra": false
+    },
+    {
+      "id": "black-sabbath-iron-man-1970",
+      "title": "Iron Man (1970)",
+      "artistLabel": "Black Sabbath",
+      "bandSlug": "black-sabbath",
+      "genreSlugs": [
+        "hard-rock",
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/black-sabbath-iron-man-1970.mp3",
+      "durationSec": 352,
+      "extra": false
+    },
+    {
+      "id": "black-sabbath-paranoid",
+      "title": "Paranoid",
+      "artistLabel": "Black Sabbath",
+      "bandSlug": "black-sabbath",
+      "genreSlugs": [
+        "hard-rock",
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/black-sabbath-paranoid.mp3",
+      "durationSec": 165,
+      "extra": false
+    },
+    {
+      "id": "bob-marley-no-women-no-cry",
+      "title": "No women, no cry",
+      "artistLabel": "Bob Marley",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/bob-marley-no-women-no-cry.mp3",
+      "durationSec": 245,
+      "extra": true
+    },
+    {
+      "id": "bon-jovi-livin-on-a-prayer",
+      "title": "Livin' On A Prayer",
+      "artistLabel": "Bon Jovi",
+      "bandSlug": "bon-jovi",
+      "genreSlugs": [
+        "hard-rock",
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/bon-jovi-livin-on-a-prayer.mp3",
+      "durationSec": 249,
+      "extra": false
+    },
+    {
+      "id": "bring-me-the-horizon-can-you-feel-my-heart",
+      "title": "Can You Feel My Heart",
+      "artistLabel": "Bring Me the Horizon",
+      "bandSlug": "bring-me-the-horizon",
+      "genreSlugs": [
+        "heavy-metal",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/bring-me-the-horizon-can-you-feel-my-heart.mp3",
+      "durationSec": 228,
+      "extra": false
+    },
+    {
+      "id": "bryan-adams-summer-of-69",
+      "title": "Summer of 69",
+      "artistLabel": "Bryan Adams",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/bryan-adams-summer-of-69.mp3",
+      "durationSec": 214,
+      "extra": true
+    },
+    {
+      "id": "cigarettes-after-sex-cry",
+      "title": "Cry",
+      "artistLabel": "Cigarettes After Sex",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/cigarettes-after-sex-cry.mp3",
+      "durationSec": 257,
+      "extra": true
+    },
+    {
+      "id": "coldplay-fix-you",
+      "title": "Fix You",
+      "artistLabel": "Coldplay",
+      "bandSlug": "coldplay",
+      "genreSlugs": [
+        "alternative",
+        "indie-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/coldplay-fix-you.mp3",
+      "durationSec": 296,
+      "extra": false
+    },
+    {
+      "id": "coldplay-yellow",
+      "title": "Yellow",
+      "artistLabel": "Coldplay",
+      "bandSlug": "coldplay",
+      "genreSlugs": [
+        "alternative",
+        "indie-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/coldplay-yellow.mp3",
+      "durationSec": 269,
+      "extra": false
+    },
+    {
+      "id": "crazy-aerosmith",
+      "title": "Aerosmith 🎵",
+      "artistLabel": "Aerosmith",
+      "bandSlug": "aerosmith",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/crazy-aerosmith.mp3",
+      "durationSec": 348,
+      "extra": false
+    },
+    {
+      "id": "daryl-hall-john-oates-maneater",
+      "title": "Maneater",
+      "artistLabel": "Daryl Hall & John Oates",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/daryl-hall-john-oates-maneater.mp3",
+      "durationSec": 265,
+      "extra": true
+    },
+    {
+      "id": "david-bowie-02-space-oddity",
+      "title": "02 - Space Oddity",
+      "artistLabel": "David Bowie",
+      "bandSlug": "david-bowie",
+      "genreSlugs": [
+        "alternative",
+        "psychedelic"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/david-bowie-02-space-oddity.mp3",
+      "durationSec": 315,
+      "extra": false
+    },
+    {
+      "id": "david-bowie-03-starman",
+      "title": "03 - Starman",
+      "artistLabel": "David Bowie",
+      "bandSlug": "david-bowie",
+      "genreSlugs": [
+        "alternative",
+        "psychedelic"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/david-bowie-03-starman.mp3",
+      "durationSec": 258,
+      "extra": false
+    },
+    {
+      "id": "david-bowie-heroes",
+      "title": "heroes",
+      "artistLabel": "David Bowie",
+      "bandSlug": "david-bowie",
+      "genreSlugs": [
+        "alternative",
+        "psychedelic"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/david-bowie-heroes.mp3",
+      "durationSec": 370,
+      "extra": false
+    },
+    {
+      "id": "deep-purple-smoke-on-the-water",
+      "title": "Smoke On the Water",
+      "artistLabel": "Deep Purple",
+      "bandSlug": "deep-purple",
+      "genreSlugs": [
+        "hard-rock",
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/deep-purple-smoke-on-the-water.mp3",
+      "durationSec": 375,
+      "extra": false
+    },
+    {
+      "id": "deftones-change-in-the-house-of-flies",
+      "title": "Change (In the House of Flies)",
+      "artistLabel": "Deftones",
+      "bandSlug": "deftones",
+      "genreSlugs": [
+        "alternative",
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/deftones-change-in-the-house-of-flies.mp3",
+      "durationSec": 300,
+      "extra": false
+    },
+    {
+      "id": "deftones-entombed-1",
+      "title": "Entombed (1)",
+      "artistLabel": "Deftones",
+      "bandSlug": "deftones",
+      "genreSlugs": [
+        "alternative",
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/deftones-entombed-1.mp3",
+      "durationSec": 299,
+      "extra": false
+    },
+    {
+      "id": "dire-straits-industrial-disease",
+      "title": "Industrial Disease",
+      "artistLabel": "Dire Straits",
+      "bandSlug": "dire-straits",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/dire-straits-industrial-disease.mp3",
+      "durationSec": 351,
+      "extra": false
+    },
+    {
+      "id": "dire-straits-money-for-nothing-trim",
+      "title": "Money For Nothing - Trim",
+      "artistLabel": "Dire Straits",
+      "bandSlug": "dire-straits",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/dire-straits-money-for-nothing-trim.mp3",
+      "durationSec": 36,
+      "extra": false
+    },
+    {
+      "id": "dire-straits-sultans-of-swing",
+      "title": "Sultans Of Swing",
+      "artistLabel": "Dire Straits",
+      "bandSlug": "dire-straits",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/dire-straits-sultans-of-swing.mp3",
+      "durationSec": 347,
+      "extra": false
+    },
+    {
+      "id": "dominic-fike-babydoll-i-can-t-move-on-baby-doll",
+      "title": "Babydoll - I can't move on, baby doll",
+      "artistLabel": "Dominic Fike",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/dominic-fike-babydoll-i-can-t-move-on-baby-doll.mp3",
+      "durationSec": 135,
+      "extra": true
+    },
+    {
+      "id": "don-t-cry-original-guns-n-roses",
+      "title": "Guns N' Roses",
+      "artistLabel": "Guns N' Roses",
+      "bandSlug": "guns-n-roses",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/don-t-cry-original-guns-n-roses.mp3",
+      "durationSec": 283,
+      "extra": false
+    },
+    {
+      "id": "dr-dre-the-next-episode-ft-snoop-dogg-kurupt-nate-dogg",
+      "title": "The Next Episode ft. Snoop Dogg, Kurupt, Nate Dogg",
+      "artistLabel": "Dr. Dre",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/dr-dre-the-next-episode-ft-snoop-dogg-kurupt-nate-dogg.mp3",
+      "durationSec": 197,
+      "extra": true
+    },
+    {
+      "id": "eagles-take-it-easy",
+      "title": "Take It Easy",
+      "artistLabel": "Eagles",
+      "bandSlug": "eagles",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/eagles-take-it-easy.mp3",
+      "durationSec": 211,
+      "extra": false
+    },
+    {
+      "id": "elvis-presley-burning-love",
+      "title": "Burning Love",
+      "artistLabel": "Elvis Presley",
+      "bandSlug": "elvis-presley",
+      "genreSlugs": [
+        "rock-n-roll"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/elvis-presley-burning-love.mp3",
+      "durationSec": 178,
+      "extra": false
+    },
+    {
+      "id": "elvis-presley-love-me",
+      "title": "Love Me",
+      "artistLabel": "Elvis Presley",
+      "bandSlug": "elvis-presley",
+      "genreSlugs": [
+        "rock-n-roll"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/elvis-presley-love-me.mp3",
+      "durationSec": 165,
+      "extra": false
+    },
+    {
+      "id": "eric-clapton-cocaine",
+      "title": "Cocaine",
+      "artistLabel": "Eric Clapton",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/eric-clapton-cocaine.mp3",
+      "durationSec": 215,
+      "extra": true
+    },
+    {
+      "id": "eyedress-jealous",
+      "title": "Jealous",
+      "artistLabel": "Eyedress",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/eyedress-jealous.mp3",
+      "durationSec": 123,
+      "extra": true
+    },
+    {
+      "id": "fall-out-boy-centuries",
+      "title": "Centuries",
+      "artistLabel": "Fall Out Boy",
+      "bandSlug": "fall-out-boy",
+      "genreSlugs": [
+        "alternative",
+        "punk"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/fall-out-boy-centuries.mp3",
+      "durationSec": 232,
+      "extra": false
+    },
+    {
+      "id": "fleetwood-mac-go-your-own-way",
+      "title": "Go Your Own Way",
+      "artistLabel": "Fleetwood Mac",
+      "bandSlug": "fleetwood-mac",
+      "genreSlugs": [
+        "blues",
+        "rock-n-roll"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/fleetwood-mac-go-your-own-way.mp3",
+      "durationSec": 218,
+      "extra": false
+    },
+    {
+      "id": "fleetwood-mac-landslide",
+      "title": "Landslide",
+      "artistLabel": "Fleetwood Mac",
+      "bandSlug": "fleetwood-mac",
+      "genreSlugs": [
+        "blues",
+        "rock-n-roll"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/fleetwood-mac-landslide.mp3",
+      "durationSec": 237,
+      "extra": false
+    },
+    {
+      "id": "fleetwood-mac-the-chain-2001-remaster",
+      "title": "The Chain (2001 Remaster)",
+      "artistLabel": "Fleetwood Mac",
+      "bandSlug": "fleetwood-mac",
+      "genreSlugs": [
+        "blues",
+        "rock-n-roll"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/fleetwood-mac-the-chain-2001-remaster.mp3",
+      "durationSec": 269,
+      "extra": false
+    },
+    {
+      "id": "green-day-last-night-on-earth",
+      "title": "last night on earth",
+      "artistLabel": "Green Day",
+      "bandSlug": "green-day",
+      "genreSlugs": [
+        "punk",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/green-day-last-night-on-earth.mp3",
+      "durationSec": 234,
+      "extra": false
+    },
+    {
+      "id": "guns-n-roses-november-rain",
+      "title": "November Rain",
+      "artistLabel": "Guns N' Roses",
+      "bandSlug": "guns-n-roses",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/guns-n-roses-november-rain.mp3",
+      "durationSec": 534,
+      "extra": false
+    },
+    {
+      "id": "guns-n-roses-patience",
+      "title": "Patience",
+      "artistLabel": "Guns N' Roses",
+      "bandSlug": "guns-n-roses",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/guns-n-roses-patience.mp3",
+      "durationSec": 730,
+      "extra": false
+    },
+    {
+      "id": "guns-n-roses-sweet-child-o-mine",
+      "title": "Sweet Child o Mine",
+      "artistLabel": "Guns N' Roses",
+      "bandSlug": "guns-n-roses",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/guns-n-roses-sweet-child-o-mine.mp3",
+      "durationSec": 232,
+      "extra": false
+    },
+    {
+      "id": "guns-n-roses-welcome-to-the-jungle",
+      "title": "Welcome To The Jungle",
+      "artistLabel": "Guns N' Roses",
+      "bandSlug": "guns-n-roses",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/guns-n-roses-welcome-to-the-jungle.mp3",
+      "durationSec": 270,
+      "extra": false
+    },
+    {
+      "id": "gut-empire-of-the-centipede-of-pigs-and-hoes",
+      "title": "Empire of the Centipede of Pigs and Hoes",
+      "artistLabel": "Gut",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/gut-empire-of-the-centipede-of-pigs-and-hoes.mp3",
+      "durationSec": 373,
+      "extra": true
+    },
+    {
+      "id": "imagine-dragons-demons",
+      "title": "Demons",
+      "artistLabel": "Imagine Dragons",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/imagine-dragons-demons.mp3",
+      "durationSec": 183,
+      "extra": true
+    },
+    {
+      "id": "imagine-dragons-enemy-1",
+      "title": "Enemy (1)",
+      "artistLabel": "Imagine Dragons",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/imagine-dragons-enemy-1.mp3",
+      "durationSec": 171,
+      "extra": true
+    },
+    {
+      "id": "jackson-5-i-want-you-back",
+      "title": "I Want You Back",
+      "artistLabel": "Jackson 5",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/jackson-5-i-want-you-back.mp3",
+      "durationSec": 174,
+      "extra": true
+    },
+    {
+      "id": "john-lennon-imagine",
+      "title": "Imagine",
+      "artistLabel": "John Lennon",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/john-lennon-imagine.mp3",
+      "durationSec": 185,
+      "extra": true
+    },
+    {
+      "id": "k-cigarettes-after-sex",
+      "title": "Cigarettes After Sex",
+      "artistLabel": "K.",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/k-cigarettes-after-sex.mp3",
+      "durationSec": 317,
+      "extra": true
+    },
+    {
+      "id": "kanye-west-runaway-ft-pusha-t",
+      "title": "Runaway ft. Pusha T",
+      "artistLabel": "Kanye West",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/kanye-west-runaway-ft-pusha-t.mp3",
+      "durationSec": 278,
+      "extra": true
+    },
+    {
+      "id": "kiss-i-was-made-for-lovin-you",
+      "title": "I Was Made For Lovin' You",
+      "artistLabel": "Kiss",
+      "bandSlug": "kiss",
+      "genreSlugs": [
+        "hard-rock",
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/kiss-i-was-made-for-lovin-you.mp3",
+      "durationSec": 238,
+      "extra": false
+    },
+    {
+      "id": "lady-gaga-bradley-cooper-shallow",
+      "title": "Shallow",
+      "artistLabel": "Lady Gaga & Bradley Cooper",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/lady-gaga-bradley-cooper-shallow.mp3",
+      "durationSec": 217,
+      "extra": true
+    },
+    {
+      "id": "led-zeppelin-immigrant-song",
+      "title": "Immigrant Song",
+      "artistLabel": "Led Zeppelin",
+      "bandSlug": "led-zeppelin",
+      "genreSlugs": [
+        "hard-rock",
+        "blues"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/led-zeppelin-immigrant-song.mp3",
+      "durationSec": 146,
+      "extra": false
+    },
+    {
+      "id": "led-zeppelin-stairway-to-heaven",
+      "title": "Stairway To Heaven",
+      "artistLabel": "Led Zeppelin",
+      "bandSlug": "led-zeppelin",
+      "genreSlugs": [
+        "hard-rock",
+        "blues"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/led-zeppelin-stairway-to-heaven.mp3",
+      "durationSec": 482,
+      "extra": false
+    },
+    {
+      "id": "lynyrd-skynyrd-simple-man",
+      "title": "Simple Man",
+      "artistLabel": "Lynyrd Skynyrd",
+      "bandSlug": "lynyrd-skynyrd",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/lynyrd-skynyrd-simple-man.mp3",
+      "durationSec": 360,
+      "extra": false
+    },
+    {
+      "id": "lynyrd-skynyrd-sweet-home-alabama",
+      "title": "Sweet Home Alabama",
+      "artistLabel": "Lynyrd Skynyrd",
+      "bandSlug": "lynyrd-skynyrd",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/lynyrd-skynyrd-sweet-home-alabama.mp3",
+      "durationSec": 284,
+      "extra": false
+    },
+    {
+      "id": "metallica-fade-to-black",
+      "title": "Fade to Black",
+      "artistLabel": "Metallica",
+      "bandSlug": "metallica",
+      "genreSlugs": [
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/metallica-fade-to-black.mp3",
+      "durationSec": 420,
+      "extra": false
+    },
+    {
+      "id": "metallica-for-whom-the-bell-tolls-hq",
+      "title": "For Whom The Bell Tolls [HQ]",
+      "artistLabel": "Metallica",
+      "bandSlug": "metallica",
+      "genreSlugs": [
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/metallica-for-whom-the-bell-tolls-hq.mp3",
+      "durationSec": 313,
+      "extra": false
+    },
+    {
+      "id": "metallica-master-of-puppets",
+      "title": "Master Of Puppets",
+      "artistLabel": "Metallica",
+      "bandSlug": "metallica",
+      "genreSlugs": [
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/metallica-master-of-puppets.mp3",
+      "durationSec": 515,
+      "extra": false
+    },
+    {
+      "id": "metallica-master-of-puppets-1",
+      "title": "Master Of Puppets (1)",
+      "artistLabel": "Metallica",
+      "bandSlug": "metallica",
+      "genreSlugs": [
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/metallica-master-of-puppets-1.mp3",
+      "durationSec": 515,
+      "extra": false
+    },
+    {
+      "id": "michael-buble-feeling-good",
+      "title": "Feeling Good",
+      "artistLabel": "Michael Bublé",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/michael-buble-feeling-good.mp3",
+      "durationSec": 237,
+      "extra": true
+    },
+    {
+      "id": "my-hero-foo-fighters",
+      "title": "Foo Fighters",
+      "artistLabel": "Foo Fighters",
+      "bandSlug": "foo-fighters",
+      "genreSlugs": [
+        "alternative",
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/my-hero-foo-fighters.mp3",
+      "durationSec": 71,
+      "extra": false
+    },
+    {
+      "id": "nataliehaesthetics-co-za-astrovamps-horror-porn-star",
+      "title": "Astrovamps - Horror Porn Star",
+      "artistLabel": "nataliehaesthetics.co.za",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/nataliehaesthetics-co-za-astrovamps-horror-porn-star.mp3",
+      "durationSec": 234,
+      "extra": true
+    },
+    {
+      "id": "nirvana-in-bloom-mp3-pm",
+      "title": "_-_In_Bloom_(mp3.pm)",
+      "artistLabel": "Nirvana",
+      "bandSlug": "nirvana",
+      "genreSlugs": [
+        "grunge",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/nirvana-in-bloom-mp3-pm.mp3",
+      "durationSec": 218,
+      "extra": false
+    },
+    {
+      "id": "nirvana-come-as-you-are-official-music-video",
+      "title": "Come-As-You-Are-_Official-Music-Video_",
+      "artistLabel": "Nirvana",
+      "bandSlug": "nirvana",
+      "genreSlugs": [
+        "grunge",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/nirvana-come-as-you-are-official-music-video.mp3",
+      "durationSec": 224,
+      "extra": false
+    },
+    {
+      "id": "nirvana-smells-like-teen-spirit",
+      "title": "Smells Like Teen Spirit",
+      "artistLabel": "Nirvana",
+      "bandSlug": "nirvana",
+      "genreSlugs": [
+        "grunge",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/nirvana-smells-like-teen-spirit.mp3",
+      "durationSec": 278,
+      "extra": false
+    },
+    {
+      "id": "non-blondes-what-s-up",
+      "title": "What's Up",
+      "artistLabel": "Non Blondes",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/non-blondes-what-s-up.mp3",
+      "durationSec": 299,
+      "extra": true
+    },
+    {
+      "id": "nothing-else-matters-metallica",
+      "title": "Metallica",
+      "artistLabel": "Metallica",
+      "bandSlug": "metallica",
+      "genreSlugs": [
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/nothing-else-matters-metallica.mp3",
+      "durationSec": 489,
+      "extra": false
+    },
+    {
+      "id": "oasis-dont-look-back-in-anger-4w0alosg",
+      "title": "dont-look-back-in-anger_4W0alOSG",
+      "artistLabel": "Oasis",
+      "bandSlug": "oasis",
+      "genreSlugs": [
+        "britpop",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/oasis-dont-look-back-in-anger-4w0alosg.mp3",
+      "durationSec": 90,
+      "extra": false
+    },
+    {
+      "id": "oasis-force-of-nature",
+      "title": "Force of Nature",
+      "artistLabel": "Oasis",
+      "bandSlug": "oasis",
+      "genreSlugs": [
+        "britpop",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/oasis-force-of-nature.mp3",
+      "durationSec": 300,
+      "extra": false
+    },
+    {
+      "id": "oasis-stop-crying-your-heart-out",
+      "title": "Stop Crying Your Heart Out",
+      "artistLabel": "Oasis",
+      "bandSlug": "oasis",
+      "genreSlugs": [
+        "britpop",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/oasis-stop-crying-your-heart-out.mp3",
+      "durationSec": 302,
+      "extra": false
+    },
+    {
+      "id": "oasis-supersonic-creation-uk-lp",
+      "title": "Supersonic - Creation UK LP",
+      "artistLabel": "Oasis",
+      "bandSlug": "oasis",
+      "genreSlugs": [
+        "britpop",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/oasis-supersonic-creation-uk-lp.mp3",
+      "durationSec": 278,
+      "extra": false
+    },
+    {
+      "id": "oh-pretty-woman-instrumental-roy-orbison",
+      "title": "Roy Orbison",
+      "artistLabel": "Oh, Pretty Woman (Instrumental)",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/oh-pretty-woman-instrumental-roy-orbison.mp3",
+      "durationSec": 177,
+      "extra": true
+    },
+    {
+      "id": "phil-collins-in-the-air-tonight",
+      "title": "In The Air Tonight",
+      "artistLabel": "Phil Collins",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/phil-collins-in-the-air-tonight.mp3",
+      "durationSec": 335,
+      "extra": true
+    },
+    {
+      "id": "photograph-instrumental-ed-sheeran",
+      "title": "Ed Sheeran",
+      "artistLabel": "Photograph (Instrumental)",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/photograph-instrumental-ed-sheeran.mp3",
+      "durationSec": 255,
+      "extra": true
+    },
+    {
+      "id": "pink-floyd-money-2023-remaster",
+      "title": "Money (2023 Remaster)",
+      "artistLabel": "Pink Floyd",
+      "bandSlug": "pink-floyd",
+      "genreSlugs": [
+        "progressive-rock",
+        "psychedelic"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/pink-floyd-money-2023-remaster.mp3",
+      "durationSec": 382,
+      "extra": false
+    },
+    {
+      "id": "pixies-where-is-my-mind",
+      "title": "Where Is My Mind",
+      "artistLabel": "Pixies",
+      "bandSlug": "pixies",
+      "genreSlugs": [
+        "alternative",
+        "indie-rock",
+        "shoegaze"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/pixies-where-is-my-mind.mp3",
+      "durationSec": 230,
+      "extra": false
+    },
+    {
+      "id": "queen-david-bowie-under-pressure",
+      "title": "Under Pressure",
+      "artistLabel": "Queen",
+      "bandSlug": "queen",
+      "genreSlugs": [
+        "hard-rock",
+        "progressive-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/queen-david-bowie-under-pressure.mp3",
+      "durationSec": 237,
+      "extra": false
+    },
+    {
+      "id": "queen-another-one-bites-the-dust",
+      "title": "Another One Bites the Dust",
+      "artistLabel": "Queen",
+      "bandSlug": "queen",
+      "genreSlugs": [
+        "hard-rock",
+        "progressive-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/queen-another-one-bites-the-dust.mp3",
+      "durationSec": 223,
+      "extra": false
+    },
+    {
+      "id": "r-e-m-everybody-hurts",
+      "title": "Everybody Hurts",
+      "artistLabel": "R.E.M.",
+      "bandSlug": "r-e-m",
+      "genreSlugs": [
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/r-e-m-everybody-hurts.mp3",
+      "durationSec": 344,
+      "extra": false
+    },
+    {
+      "id": "radiohead-creep",
+      "title": "Creep",
+      "artistLabel": "Radiohead",
+      "bandSlug": "radiohead",
+      "genreSlugs": [
+        "alternative",
+        "indie-rock",
+        "progressive-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/radiohead-creep.mp3",
+      "durationSec": 237,
+      "extra": false
+    },
+    {
+      "id": "radiohead-fake-plastic-trees",
+      "title": "Fake Plastic Trees",
+      "artistLabel": "Radiohead",
+      "bandSlug": "radiohead",
+      "genreSlugs": [
+        "alternative",
+        "indie-rock",
+        "progressive-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/radiohead-fake-plastic-trees.mp3",
+      "durationSec": 266,
+      "extra": false
+    },
+    {
+      "id": "red-hot-chili-peppers-californication",
+      "title": "Californication",
+      "artistLabel": "Red Hot Chili Peppers",
+      "bandSlug": "red-hot-chili-peppers",
+      "genreSlugs": [
+        "alternative",
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/red-hot-chili-peppers-californication.mp3",
+      "durationSec": 322,
+      "extra": false
+    },
+    {
+      "id": "red-hot-chili-peppers-higher-ground",
+      "title": "Higher Ground",
+      "artistLabel": "Red Hot Chili Peppers",
+      "bandSlug": "red-hot-chili-peppers",
+      "genreSlugs": [
+        "alternative",
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/red-hot-chili-peppers-higher-ground.mp3",
+      "durationSec": 202,
+      "extra": false
+    },
+    {
+      "id": "red-hot-chili-peppers-scar-tissue-highest-quality",
+      "title": "Scar Tissue (Highest Quality)",
+      "artistLabel": "Red Hot Chili Peppers",
+      "bandSlug": "red-hot-chili-peppers",
+      "genreSlugs": [
+        "alternative",
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/red-hot-chili-peppers-scar-tissue-highest-quality.mp3",
+      "durationSec": 218,
+      "extra": false
+    },
+    {
+      "id": "red-hot-chili-peppers-snow-hey-oh-video",
+      "title": "Snow [Hey Oh] [Video]",
+      "artistLabel": "Red Hot Chili Peppers",
+      "bandSlug": "red-hot-chili-peppers",
+      "genreSlugs": [
+        "alternative",
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/red-hot-chili-peppers-snow-hey-oh-video.mp3",
+      "durationSec": 285,
+      "extra": false
+    },
+    {
+      "id": "redbone-come-and-get-your-love",
+      "title": "Come and Get Your Love",
+      "artistLabel": "Redbone",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/redbone-come-and-get-your-love.mp3",
+      "durationSec": 208,
+      "extra": true
+    },
+    {
+      "id": "rod-stewart-maggie-may",
+      "title": "Maggie May",
+      "artistLabel": "Rod Stewart",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/rod-stewart-maggie-may.mp3",
+      "durationSec": 316,
+      "extra": true
+    },
+    {
+      "id": "spotidown-app-dunkelheit-burzum",
+      "title": "Dunkelheit - Burzum",
+      "artistLabel": "SpotiDown.App",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/spotidown-app-dunkelheit-burzum.mp3",
+      "durationSec": 424,
+      "extra": true
+    },
+    {
+      "id": "spotidown-app-transilvanian-hunger-studio-darkthrone",
+      "title": "Transilvanian Hunger - Studio - Darkthrone",
+      "artistLabel": "SpotiDown.App",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/spotidown-app-transilvanian-hunger-studio-darkthrone.mp3",
+      "durationSec": 369,
+      "extra": true
+    },
+    {
+      "id": "status-quo-rockin-all-over-the-world-yw-sjifuygm",
+      "title": "Rockin All Over The World [Yw_sJifUYgM]",
+      "artistLabel": "Status Quo",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/status-quo-rockin-all-over-the-world-yw-sjifuygm.mp3",
+      "durationSec": 221,
+      "extra": true
+    },
+    {
+      "id": "sultan-title-song-sukhvinder-singh",
+      "title": "Title Song (Sukhvinder Singh)",
+      "artistLabel": "Sultan",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/sultan-title-song-sukhvinder-singh.mp3",
+      "durationSec": 280,
+      "extra": true
+    },
+    {
+      "id": "system-of-a-down-chop-suey",
+      "title": "Chop Suey!",
+      "artistLabel": "System of a Down",
+      "bandSlug": "system-of-a-down",
+      "genreSlugs": [
+        "heavy-metal",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/system-of-a-down-chop-suey.mp3",
+      "durationSec": 209,
+      "extra": false
+    },
+    {
+      "id": "talking-heads-psycho-killer",
+      "title": "Psycho Killer",
+      "artistLabel": "Talking Heads",
+      "bandSlug": "talking-heads",
+      "genreSlugs": [
+        "post-punk",
+        "new-wave",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/talking-heads-psycho-killer.mp3",
+      "durationSec": 261,
+      "extra": false
+    },
+    {
+      "id": "tame-impala-the-less-i-know-the-better",
+      "title": "The Less I Know The Better",
+      "artistLabel": "Tame Impala",
+      "bandSlug": "tame-impala",
+      "genreSlugs": [
+        "psychedelic",
+        "indie-rock",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/tame-impala-the-less-i-know-the-better.mp3",
+      "durationSec": 217,
+      "extra": false
+    },
+    {
+      "id": "the-beach-boys-surfin-u-s-a",
+      "title": "Surfin' U.S.A.",
+      "artistLabel": "The Beach Boys",
+      "bandSlug": "the-beach-boys",
+      "genreSlugs": [
+        "rock-n-roll",
+        "psychedelic"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/the-beach-boys-surfin-u-s-a.mp3",
+      "durationSec": 149,
+      "extra": false
+    },
+    {
+      "id": "the-beatles-blackbird",
+      "title": "Blackbird",
+      "artistLabel": "The Beatles",
+      "bandSlug": "the-beatles",
+      "genreSlugs": [
+        "rock-n-roll",
+        "psychedelic"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/the-beatles-blackbird.mp3",
+      "durationSec": 138,
+      "extra": false
+    },
+    {
+      "id": "the-beatles-hard-days-night",
+      "title": "Hard Days Night",
+      "artistLabel": "The Beatles",
+      "bandSlug": "the-beatles",
+      "genreSlugs": [
+        "rock-n-roll",
+        "psychedelic"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/the-beatles-hard-days-night.mp3",
+      "durationSec": 164,
+      "extra": false
+    },
+    {
+      "id": "the-beatles-help-the-beatles",
+      "title": "Help! - The Beatles",
+      "artistLabel": "The Beatles",
+      "bandSlug": "the-beatles",
+      "genreSlugs": [
+        "rock-n-roll",
+        "psychedelic"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/the-beatles-help-the-beatles.mp3",
+      "durationSec": 136,
+      "extra": false
+    },
+    {
+      "id": "the-beatles-here-comes-the-sun",
+      "title": "Here Comes The Sun",
+      "artistLabel": "The Beatles",
+      "bandSlug": "the-beatles",
+      "genreSlugs": [
+        "rock-n-roll",
+        "psychedelic"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/the-beatles-here-comes-the-sun.mp3",
+      "durationSec": 190,
+      "extra": false
+    },
+    {
+      "id": "the-clash-london-callingmp3",
+      "title": "London Callingmp3",
+      "artistLabel": "The Clash",
+      "bandSlug": "the-clash",
+      "genreSlugs": [
+        "punk",
+        "post-punk"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/the-clash-london-callingmp3.mp3",
+      "durationSec": 202,
+      "extra": false
+    },
+    {
+      "id": "the-clash-straight-to-hell",
+      "title": "Straight to Hell",
+      "artistLabel": "The Clash",
+      "bandSlug": "the-clash",
+      "genreSlugs": [
+        "punk",
+        "post-punk"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/the-clash-straight-to-hell.mp3",
+      "durationSec": 332,
+      "extra": false
+    },
+    {
+      "id": "the-cranberries-dreams",
+      "title": "Dreams",
+      "artistLabel": "The Cranberries",
+      "bandSlug": "the-cranberries",
+      "genreSlugs": [
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/the-cranberries-dreams.mp3",
+      "durationSec": 272,
+      "extra": false
+    },
+    {
+      "id": "the-cranberries-linger",
+      "title": "Linger",
+      "artistLabel": "The Cranberries",
+      "bandSlug": "the-cranberries",
+      "genreSlugs": [
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/the-cranberries-linger.mp3",
+      "durationSec": 275,
+      "extra": false
+    },
+    {
+      "id": "the-cure-just-like-heaven-jennifer-connelly-phenomena",
+      "title": "• Just Like Heaven Jennifer Connelly • Phenomena",
+      "artistLabel": "The Cure",
+      "bandSlug": "the-cure",
+      "genreSlugs": [
+        "post-punk",
+        "alternative",
+        "new-wave"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/the-cure-just-like-heaven-jennifer-connelly-phenomena.mp3",
+      "durationSec": 195,
+      "extra": false
+    },
+    {
+      "id": "the-cure-lovesong-instrumental-0",
+      "title": "Lovesong (Instrumental) 0",
+      "artistLabel": "The Cure",
+      "bandSlug": "the-cure",
+      "genreSlugs": [
+        "post-punk",
+        "alternative",
+        "new-wave"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/the-cure-lovesong-instrumental-0.mp3",
+      "durationSec": 210,
+      "extra": false
+    },
+    {
+      "id": "the-police-every-breath-you-take-lyrics-fxozwcdslb0",
+      "title": "Every Breath You Take Lyrics-FXozwCdSLb0",
+      "artistLabel": "The Police",
+      "bandSlug": "the-police",
+      "genreSlugs": [
+        "rock-n-roll",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/the-police-every-breath-you-take-lyrics-fxozwcdslb0.mp3",
+      "durationSec": 228,
+      "extra": false
+    },
+    {
+      "id": "the-police-roxanne-3t1c7gkzrqq-audiotrimmer-com",
+      "title": "Roxanne [3T1c7GkzRQQ]-[AudioTrimmer.com]",
+      "artistLabel": "The Police",
+      "bandSlug": "the-police",
+      "genreSlugs": [
+        "rock-n-roll",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/the-police-roxanne-3t1c7gkzrqq-audiotrimmer-com.mp3",
+      "durationSec": 62,
+      "extra": false
+    },
+    {
+      "id": "the-white-stripes-seven-nation-army",
+      "title": "'Seven Nation Army'",
+      "artistLabel": "The White Stripes",
+      "bandSlug": "the-white-stripes",
+      "genreSlugs": [
+        "indie-rock",
+        "blues",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/the-white-stripes-seven-nation-army.mp3",
+      "durationSec": 239,
+      "extra": false
+    },
+    {
+      "id": "to-live-is-to-die-metallica",
+      "title": "Metallica",
+      "artistLabel": "Metallica",
+      "bandSlug": "metallica",
+      "genreSlugs": [
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/to-live-is-to-die-metallica.mp3",
+      "durationSec": 588,
+      "extra": false
+    },
+    {
+      "id": "unknown-another-brick-in-the-wall-pt",
+      "title": "Another Brick In the Wall_ Pt_",
+      "artistLabel": "Pink Floyd",
+      "bandSlug": "pink-floyd",
+      "genreSlugs": [
+        "progressive-rock",
+        "psychedelic"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-another-brick-in-the-wall-pt.mp3",
+      "durationSec": 74,
+      "extra": false
+    },
+    {
+      "id": "unknown-boys-don-t-cry",
+      "title": "Boys Don't Cry",
+      "artistLabel": "The Cure",
+      "bandSlug": "the-cure",
+      "genreSlugs": [
+        "post-punk",
+        "alternative",
+        "new-wave"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-boys-don-t-cry.mp3",
+      "durationSec": 156,
+      "extra": false
+    },
+    {
+      "id": "unknown-bring-on-the-night-the-police",
+      "title": "Bring On The Night ~ The Police",
+      "artistLabel": "The Police",
+      "bandSlug": "the-police",
+      "genreSlugs": [
+        "rock-n-roll",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-bring-on-the-night-the-police.mp3",
+      "durationSec": 364,
+      "extra": false
+    },
+    {
+      "id": "unknown-creeping-death-metallica",
+      "title": "Creeping Death (METALLICA)",
+      "artistLabel": "Metallica",
+      "bandSlug": "metallica",
+      "genreSlugs": [
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-creeping-death-metallica.mp3",
+      "durationSec": 396,
+      "extra": false
+    },
+    {
+      "id": "unknown-d4vd-romantic-homicide-lyrics-in-the-back-of-my-mind-you-died",
+      "title": "d4vd Romantic Homicide Lyrics In the back of my mind you died",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-d4vd-romantic-homicide-lyrics-in-the-back-of-my-mind-you-died.mp3",
+      "durationSec": 133,
+      "extra": true
+    },
+    {
+      "id": "unknown-d4vd-romantic-homicide-lyrics-in-the-back-of-my-mind-you-died-1",
+      "title": "d4vd Romantic Homicide Lyrics In the back of my mind you died (1)",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-d4vd-romantic-homicide-lyrics-in-the-back-of-my-mind-you-died-1.mp3",
+      "durationSec": 133,
+      "extra": true
+    },
+    {
+      "id": "unknown-don-t-let-me-down",
+      "title": "Don't Let Me Down",
+      "artistLabel": "The Beatles",
+      "bandSlug": "the-beatles",
+      "genreSlugs": [
+        "rock-n-roll",
+        "psychedelic"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-don-t-let-me-down.mp3",
+      "durationSec": 300,
+      "extra": false
+    },
+    {
+      "id": "unknown-get-lucky-daft-punk",
+      "title": "Get Lucky ~ Daft Punk",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-get-lucky-daft-punk.mp3",
+      "durationSec": 469,
+      "extra": true
+    },
+    {
+      "id": "unknown-harvester-of-sorrow-metallica",
+      "title": "Harvester of Sorrow (METALLICA)",
+      "artistLabel": "Metallica",
+      "bandSlug": "metallica",
+      "genreSlugs": [
+        "heavy-metal"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-harvester-of-sorrow-metallica.mp3",
+      "durationSec": 344,
+      "extra": false
+    },
+    {
+      "id": "unknown-imagine-dragons-believer-rus-lyrics-mp3-pm",
+      "title": "Imagine_Dragons_-_Believer_rus_lyrics_(mp3.pm)",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-imagine-dragons-believer-rus-lyrics-mp3-pm.mp3",
+      "durationSec": 204,
+      "extra": true
+    },
+    {
+      "id": "unknown-let-it-be",
+      "title": "Let It Be",
+      "artistLabel": "The Beatles",
+      "bandSlug": "the-beatles",
+      "genreSlugs": [
+        "rock-n-roll",
+        "psychedelic"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-let-it-be.mp3",
+      "durationSec": 243,
+      "extra": false
+    },
+    {
+      "id": "unknown-lynyrdskynyrd-freebird",
+      "title": "LynyrdSkynyrd-FreeBird",
+      "artistLabel": "Lynyrd Skynyrd",
+      "bandSlug": "lynyrd-skynyrd",
+      "genreSlugs": [
+        "hard-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-lynyrdskynyrd-freebird.mp3",
+      "durationSec": 547,
+      "extra": false
+    },
+    {
+      "id": "unknown-numb-4k-upgrade-linkin-park",
+      "title": "Numb [4K UPGRADE] Linkin Park",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-numb-4k-upgrade-linkin-park.mp3",
+      "durationSec": 187,
+      "extra": true
+    },
+    {
+      "id": "unknown-paint-it-black",
+      "title": "Paint It, Black",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-paint-it-black.mp3",
+      "durationSec": 201,
+      "extra": true
+    },
+    {
+      "id": "unknown-people-shit",
+      "title": "people=shit",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-people-shit.mp3",
+      "durationSec": 216,
+      "extra": true
+    },
+    {
+      "id": "unknown-project-666-mastered-with-thunder-at-34pct",
+      "title": "Project 666 (Mastered with Thunder at 34pct)",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-project-666-mastered-with-thunder-at-34pct.mp3",
+      "durationSec": 242,
+      "extra": true
+    },
+    {
+      "id": "unknown-sweater-weather-the-neighbourhood",
+      "title": "Sweater Weather- The Neighbourhood",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-sweater-weather-the-neighbourhood.mp3",
+      "durationSec": 252,
+      "extra": true
+    },
+    {
+      "id": "unknown-the-scratch",
+      "title": "The Scratch",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-the-scratch.mp3",
+      "durationSec": 204,
+      "extra": true
+    },
+    {
+      "id": "unknown-the-unstoppable-storm",
+      "title": "The Unstoppable Storm",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-the-unstoppable-storm.mp3",
+      "durationSec": 250,
+      "extra": true
+    },
+    {
+      "id": "unknown-the-walters-i-love-you-so",
+      "title": "The Walters -- I Love You So",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-the-walters-i-love-you-so.mp3",
+      "durationSec": 160,
+      "extra": true
+    },
+    {
+      "id": "unknown-uranium-rock",
+      "title": "Uranium Rock",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-uranium-rock.mp3",
+      "durationSec": 149,
+      "extra": true
+    },
+    {
+      "id": "unknown-we-will-rock-you",
+      "title": "We Will Rock You",
+      "artistLabel": "Queen",
+      "bandSlug": "queen",
+      "genreSlugs": [
+        "hard-rock",
+        "progressive-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-we-will-rock-you.mp3",
+      "durationSec": 122,
+      "extra": false
+    },
+    {
+      "id": "unknown-we-will-rock-you-by-queen",
+      "title": "We-Will-Rock-You-By-Queen-",
+      "artistLabel": "Queen",
+      "bandSlug": "queen",
+      "genreSlugs": [
+        "hard-rock",
+        "progressive-rock"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-we-will-rock-you-by-queen.mp3",
+      "durationSec": 42,
+      "extra": false
+    },
+    {
+      "id": "unknown-whole-lotta-love",
+      "title": "Whole Lotta Love",
+      "artistLabel": "Led Zeppelin",
+      "bandSlug": "led-zeppelin",
+      "genreSlugs": [
+        "hard-rock",
+        "blues"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-whole-lotta-love.mp3",
+      "durationSec": 320,
+      "extra": false
+    },
+    {
+      "id": "unknown-xxxtentacion-numb-rilds-com",
+      "title": "XXXTENTACION_-_NUMB_(Rilds.com)",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-xxxtentacion-numb-rilds-com.mp3",
+      "durationSec": 186,
+      "extra": true
+    },
+    {
+      "id": "unknown-xxxtentacion-revenge-audio",
+      "title": "xxxtentacion-revenge-audio",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-xxxtentacion-revenge-audio.mp3",
+      "durationSec": 121,
+      "extra": true
+    },
+    {
+      "id": "unknown-you-know-you-re-right-nirvana",
+      "title": "You Know You're Right- Nirvana",
+      "artistLabel": "Nirvana",
+      "bandSlug": "nirvana",
+      "genreSlugs": [
+        "grunge",
+        "alternative"
+      ],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-you-know-you-re-right-nirvana.mp3",
+      "durationSec": 217,
+      "extra": false
+    },
+    {
+      "id": "unknown-you-make-my-dreams-come-true",
+      "title": "You Make My Dreams (Come True)",
+      "artistLabel": "Unknown",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/unknown-you-make-my-dreams-come-true.mp3",
+      "durationSec": 191,
+      "extra": true
+    },
+    {
+      "id": "vandal-moon-pyromania",
+      "title": "Pyromania",
+      "artistLabel": "Vandal Moon",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/vandal-moon-pyromania.mp3",
+      "durationSec": 193,
+      "extra": true
+    },
+    {
+      "id": "xxxtentacion-moonlight",
+      "title": "MOONLIGHT",
+      "artistLabel": "xxxtentacion",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/xxxtentacion-moonlight.mp3",
+      "durationSec": 135,
+      "extra": true
+    },
+    {
+      "id": "xxxtentacion-save-me",
+      "title": "Save Me",
+      "artistLabel": "XXXTENTACION",
+      "bandSlug": null,
+      "genreSlugs": [],
+      "src": "https://cya0nfliktvkaovj.public.blob.vercel-storage.com/audio/xxxtentacion-save-me.mp3",
+      "durationSec": 164,
+      "extra": true
+    }
+  ],
+  "genrePicks": {
+    "hard-rock": [
+      "ac-dc-back-in-black",
+      "ac-dc-hells-bells",
+      "ac-dc-shoot-to-thrill",
+      "ac-dc-thunderstruck",
+      "ac-dc-who-made-who"
+    ],
+    "indie-rock": [
+      "arctic-monkeys-505",
+      "beggin-maneskin",
+      "coldplay-fix-you",
+      "coldplay-yellow",
+      "pixies-where-is-my-mind"
+    ],
+    "alternative": [
+      "arctic-monkeys-505",
+      "beggin-maneskin",
+      "billy-idol-rebel-yell",
+      "bring-me-the-horizon-can-you-feel-my-heart",
+      "coldplay-fix-you"
+    ],
+    "punk": [
+      "billy-idol-rebel-yell",
+      "fall-out-boy-centuries",
+      "green-day-last-night-on-earth",
+      "the-clash-london-callingmp3",
+      "the-clash-straight-to-hell"
+    ],
+    "heavy-metal": [
+      "black-sabbath-iron-man-1970",
+      "black-sabbath-paranoid",
+      "bon-jovi-livin-on-a-prayer",
+      "bring-me-the-horizon-can-you-feel-my-heart",
+      "deep-purple-smoke-on-the-water"
+    ],
+    "psychedelic": [
+      "david-bowie-02-space-oddity",
+      "david-bowie-03-starman",
+      "david-bowie-heroes",
+      "pink-floyd-money-2023-remaster",
+      "tame-impala-the-less-i-know-the-better"
+    ],
+    "rock-n-roll": [
+      "elvis-presley-burning-love",
+      "elvis-presley-love-me",
+      "fleetwood-mac-go-your-own-way",
+      "fleetwood-mac-landslide",
+      "fleetwood-mac-the-chain-2001-remaster"
+    ],
+    "blues": [
+      "fleetwood-mac-go-your-own-way",
+      "fleetwood-mac-landslide",
+      "fleetwood-mac-the-chain-2001-remaster",
+      "led-zeppelin-immigrant-song",
+      "led-zeppelin-stairway-to-heaven"
+    ],
+    "grunge": [
+      "nirvana-in-bloom-mp3-pm",
+      "nirvana-come-as-you-are-official-music-video",
+      "nirvana-smells-like-teen-spirit",
+      "unknown-you-know-you-re-right-nirvana"
+    ],
+    "britpop": [
+      "oasis-dont-look-back-in-anger-4w0alosg",
+      "oasis-force-of-nature",
+      "oasis-stop-crying-your-heart-out",
+      "oasis-supersonic-creation-uk-lp"
+    ],
+    "progressive-rock": [
+      "pink-floyd-money-2023-remaster",
+      "queen-david-bowie-under-pressure",
+      "queen-another-one-bites-the-dust",
+      "radiohead-creep",
+      "radiohead-fake-plastic-trees"
+    ],
+    "shoegaze": [
+      "pixies-where-is-my-mind"
+    ],
+    "post-punk": [
+      "talking-heads-psycho-killer",
+      "the-clash-london-callingmp3",
+      "the-clash-straight-to-hell",
+      "the-cure-just-like-heaven-jennifer-connelly-phenomena",
+      "the-cure-lovesong-instrumental-0"
+    ],
+    "new-wave": [
+      "talking-heads-psycho-killer",
+      "the-cure-just-like-heaven-jennifer-connelly-phenomena",
+      "the-cure-lovesong-instrumental-0",
+      "unknown-boys-don-t-cry"
+    ]
+  },
+  "matched": 77,
+  "extraCount": 70
+}

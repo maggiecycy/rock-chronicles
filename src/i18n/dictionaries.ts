@@ -10,6 +10,7 @@ const en = {
     tropes: "Rock memes",
     lives: "Lives",
     canon: "Canon",
+    listen: "Listen",
     sound: "Sound",
     soundOn: "Sound On",
     soundOffLabel: "Turn sound on",
@@ -84,6 +85,8 @@ const en = {
     pioneers: "Pioneer acts",
     pioneersHint:
       "Acts that opened or crystallized this sound—fused landmarks, not a separate encyclopedia.",
+    listenPicks: "Listen · genre picks",
+    listenPicksHint: "A few mapped previews for this genre—opens the global queue.",
   },
   era: {
     chapter: "Chapter",
@@ -132,6 +135,36 @@ const en = {
     pioneered: "Helped open",
     landmarkHint:
       "Firsts stay on the band page—paired with story, not a separate encyclopedia.",
+    listen: "Listen",
+    listenHint:
+      "Remix / licensed preview clips—not a substitute for official streaming.",
+    playBandQueue: "Play band queue",
+  },
+  player: {
+    play: "Play",
+    pause: "Pause",
+    next: "Next",
+    prev: "Previous",
+    queue: "Queue",
+    closeQueue: "Close",
+    playAll: "Play all",
+    seek: "Seek",
+    close: "Close",
+  },
+  listen: {
+    eyebrow: "Preview library",
+    title: "Listen",
+    intro:
+      "Remix and licensed preview tracks hosted for context while you read. Use the global player; nothing autoplays. Extra covers acts not yet in the chronicle.",
+    inChronicle: "In chronicle",
+    extra: "Extra / unlisted",
+    extraHint:
+      "Artists without a full band page yet—playable here until (or unless) they get a chronicle entry.",
+    searchPlaceholder: "Filter by title or artist…",
+    empty: "No tracks match.",
+    rights:
+      "Preview library (remix / licensed). Prefer official streaming for the catalog masters.",
+    trackCount: "tracks",
   },
   people: {
     eyebrow: "Hub index",
@@ -153,7 +186,7 @@ const en = {
     openSource: "Open on Wikimedia →",
   },
   canon: {
-    eyebrow: "Living skeleton · ~100 acts",
+    eyebrow: "Living skeleton · 100 acts",
     coverage: "Complete pages",
     stubCount: "Stub bios",
     queuedCount: "Queued",
@@ -176,6 +209,10 @@ const en = {
     youtube: "YouTube deep-dives",
     roadmap: "What comes next",
     expansionHint: "Still expanding toward a fuller hundred:",
+    actsCount: "acts on this list",
+    eraRail: "Era rail",
+    eraRailHint: "Drag to scroll · click title for era page",
+    jumpList: "Jump to list",
   },
   peopleGraph: {
     eyebrow: "Derived from Person tenures",
@@ -216,7 +253,7 @@ const en = {
     intro:
       "A short list of hinge concerts and festival moments—linked to bands and key tracks. Atmosphere and context, not a bootleg archive.",
     rightsBanner:
-      "Copyright care: we describe why a night mattered. No full concert video or audio embeds. Use official / licensed sources to watch or listen.",
+      "Copyright care: we describe why a night mattered. Full concert video is not embedded. Short remix/licensed previews may appear in Listen—use official sources for masters.",
     whyEpic: "Why it’s epic",
     bands: "Bands on the bill (in chronicle)",
     keyTracks: "Key tracks / set lore",
@@ -239,6 +276,7 @@ const zh: Dict = {
     tropes: "摇滚梗",
     lives: "现场",
     canon: "名单",
+    listen: "试听",
     sound: "声音",
     soundOn: "声音开",
     soundOffLabel: "打开声音",
@@ -311,6 +349,8 @@ const zh: Dict = {
     genreLabel: "流派",
     pioneers: "开创 / 结晶乐队",
     pioneersHint: "打开或结晶该声音的乐队——landmark 融在此页，不开独立百科。",
+    listenPicks: "试听 · 流派精选",
+    listenPicksHint: "本流派若干已映射试听——点播进入全局队列。",
   },
   era: {
     chapter: "章节",
@@ -357,6 +397,33 @@ const zh: Dict = {
     landmarkDebut: "决定性首曲",
     pioneered: "参与开创",
     landmarkHint: "「第一次」留在乐队页——贴着故事，不开独立百科。",
+    listen: "试听",
+    listenHint: "Remix / 许可试听片段——不能替代正版流媒体。",
+    playBandQueue: "播放本乐队队列",
+  },
+  player: {
+    play: "播放",
+    pause: "暂停",
+    next: "下一首",
+    prev: "上一首",
+    queue: "队列",
+    closeQueue: "关闭",
+    playAll: "全部播放",
+    seek: "进度",
+    close: "关闭",
+  },
+  listen: {
+    eyebrow: "试听曲库",
+    title: "试听",
+    intro:
+      "阅读时的 remix / 许可试听。全局播放器切歌；不自动播放。Extra 收录尚未进编年史的艺人。",
+    inChronicle: "编年史内",
+    extra: "Extra / 未入库",
+    extraHint: "尚无完整乐队页的艺人——可先在此试听，日后再补详情。",
+    searchPlaceholder: "按曲名或艺人筛选…",
+    empty: "没有匹配曲目。",
+    rights: "试听曲库（remix / 许可）。母带请以正版流媒体为准。",
+    trackCount: "首",
   },
   people: {
     eyebrow: "枢纽索引",
@@ -378,7 +445,7 @@ const zh: Dict = {
     openSource: "在 Wikimedia 打开 →",
   },
   canon: {
-    eyebrow: "活骨架 · 约 100 支",
+    eyebrow: "活骨架 · 100 支",
     coverage: "完整长页",
     stubCount: "简介骨架",
     queuedCount: "排队中",
@@ -400,6 +467,10 @@ const zh: Dict = {
     youtube: "YouTube 深挖",
     roadmap: "下一步",
     expansionHint: "仍在朝更完整的一百支扩展：",
+    actsCount: "支在本名单",
+    eraRail: "年代纵轴",
+    eraRailHint: "拖动滚动 · 点标题进年代页",
+    jumpList: "跳到列表",
   },
   peopleGraph: {
     eyebrow: "由 Person tenure 推导",
@@ -440,7 +511,7 @@ const zh: Dict = {
     intro:
       "少量枢纽演唱会与音乐节节点——链到乐队与名曲。要气氛与语境，不要盗版库。",
     rightsBanner:
-      "版权谨慎：我们说明为何某夜重要。不嵌整场影音。观看请走官方 / 正版渠道。",
+      "版权谨慎：说明为何某夜重要，不嵌整场录像。Listen 可能有短 remix/许可试听——母带请走正版。",
     whyEpic: "为何史诗",
     bands: "出场乐队（本站已收录）",
     keyTracks: "名曲 / 场次传说",

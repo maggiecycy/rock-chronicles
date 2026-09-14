@@ -1,28 +1,16 @@
 {
-  "version": 1,
+  "version": 2,
   "title": {
     "en": "100 Acts That Move the Timeline",
     "zh": "100 支推动时间轴的乐队"
   },
   "intro": {
-    "en": "Timeline eras and this canon now share one taxonomy. Genres (punk, metal, grunge…) are sound tags; eras are chronological story buckets. Punk is not filed with thrash; Britpop is not filed with Seattle.",
-    "zh": "时间轴 eras 与本名单现已共用同一套分期。流派（punk、metal、grunge…）是声音标签；年代是叙事时间桶。朋克不再和鞭金塞一格；Britpop 不再和西雅图塞一格。"
+    "en": "",
+    "zh": ""
   },
   "selectionPrinciples": {
-    "en": [
-      "Eras = when an act decisively changed the map (not only formation year).",
-      "Genres = sonic family tags; one band can wear several.",
-      "Punk/post-punk and metal are separate eras—even when years overlap.",
-      "Grunge/US alternative and Britpop are separate eras—parallel 1990s, different arguments.",
-      "Prefer lineage over sales; expand toward ~100 without pretending coverage is complete."
-    ],
-    "zh": [
-      "年代 = 该乐队决定性改写地图的时刻（不只是成立年份）。",
-      "流派 = 声音家族标签；一支乐队可以挂多个。",
-      "朋克/后朋与金属分属不同年代——即使年份重叠。",
-      "Grunge/美替代与 Britpop 分属不同年代——并行的 1990s，不同的争论。",
-      "重谱系轻销量；朝约 100 支扩展，但不假装已经穷尽。"
-    ]
+    "en": [],
+    "zh": []
   },
   "periods": [
     {
@@ -302,6 +290,24 @@
       },
       "bands": [
         {
+          "slug": "lynyrd-skynyrd",
+          "name": "Lynyrd Skynyrd",
+          "formed": 1964,
+          "origin": "Jacksonville, USA",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Free Bird",
+            "year": 1973
+          },
+          "role": {
+            "en": "Triple-guitar Southern hard rock; Free Bird as arena coda template.",
+            "zh": "三吉他南方 hard rock；Free Bird 成为体育场尾奏模板。"
+          }
+        },
+        {
           "slug": "pink-floyd",
           "name": "Pink Floyd",
           "formed": 1965,
@@ -453,6 +459,24 @@
           }
         },
         {
+          "slug": "aerosmith",
+          "name": "Aerosmith",
+          "formed": 1970,
+          "origin": "Boston, USA",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Walk This Way",
+            "year": 1975
+          },
+          "role": {
+            "en": "Boston riff hard rock that later bridges into rap/rock crossover.",
+            "zh": "波士顿 riff hard rock，后来接到说唱/摇滚 crossover。"
+          }
+        },
+        {
           "slug": "queen",
           "name": "Queen",
           "formed": 1970,
@@ -469,6 +493,24 @@
           "role": {
             "en": "Glam/opera ambition with hard-rock muscle.",
             "zh": "华丽/歌剧野心 + 硬摇滚肌肉。"
+          }
+        },
+        {
+          "slug": "eagles",
+          "name": "Eagles",
+          "formed": 1971,
+          "origin": "Los Angeles, USA",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Hotel California",
+            "year": 1976
+          },
+          "role": {
+            "en": "Country-rock harmony scaled to stadium narrative hard rock.",
+            "zh": "乡村摇滚和声扩成体育场叙事 hard rock。"
           }
         },
         {
@@ -508,6 +550,25 @@
           }
         },
         {
+          "slug": "kiss",
+          "name": "Kiss",
+          "formed": 1973,
+          "origin": "New York, USA",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "hard-rock",
+            "heavy-metal"
+          ],
+          "signature": {
+            "title": "Rock and Roll All Nite",
+            "year": 1975
+          },
+          "role": {
+            "en": "Makeup spectacle + chant choruses as hard-rock merchandising machine.",
+            "zh": "妆容景观 + 口号副歌，把 hard rock 做成周边机器。"
+          }
+        },
+        {
           "slug": "rainbow",
           "name": "Rainbow",
           "formed": 1975,
@@ -524,6 +585,24 @@
           "role": {
             "en": "Bridge from Deep Purple to Dio-era metal theatrics.",
             "zh": "从 Deep Purple 通向 Dio 时代金属剧场。"
+          }
+        },
+        {
+          "slug": "dire-straits",
+          "name": "Dire Straits",
+          "formed": 1977,
+          "origin": "Newcastle, UK",
+          "primaryEra": "1970s-prog-hard-rock",
+          "genres": [
+            "hard-rock"
+          ],
+          "signature": {
+            "title": "Sultans of Swing",
+            "year": 1978
+          },
+          "role": {
+            "en": "Mark Knopfler fingerstyle puts pub-rock guitar into FM hard-rock radio.",
+            "zh": "Mark Knopfler 指弹吉他把 pub-rock 吉他送进 FM hard-rock 电台。"
           }
         }
       ]
@@ -707,6 +786,25 @@
           "role": {
             "en": "Post-punk into dancefloor modernity.",
             "zh": "后朋克走进舞池现代性。"
+          }
+        },
+        {
+          "slug": "billy-idol",
+          "name": "Billy Idol",
+          "formed": 1981,
+          "origin": "London, UK",
+          "primaryEra": "punk-postpunk",
+          "genres": [
+            "punk",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Rebel Yell",
+            "year": 1983
+          },
+          "role": {
+            "en": "Generation X punk attitude into MTV hard-edged pop-rock singles.",
+            "zh": "Generation X 朋克姿态进入 MTV 硬边流行摇滚单曲。"
           }
         },
         {
@@ -911,6 +1009,25 @@
           }
         },
         {
+          "slug": "bon-jovi",
+          "name": "Bon Jovi",
+          "formed": 1983,
+          "origin": "New Jersey, USA",
+          "primaryEra": "1980s-metal",
+          "genres": [
+            "hard-rock",
+            "heavy-metal"
+          ],
+          "signature": {
+            "title": "Livin' on a Prayer",
+            "year": 1986
+          },
+          "role": {
+            "en": "Talk-box arena metal-pop; working-class anthem as 80s radio default.",
+            "zh": "Talk box 体育场金属流行；工人阶级颂歌成为 80 年代电台默认。"
+          }
+        },
+        {
           "slug": "megadeth",
           "name": "Megadeth",
           "formed": 1983,
@@ -962,6 +1079,24 @@
         "zh": "独立厂牌与主流电台短暂共用歌单；强弱对比成为默认曲式。"
       },
       "bands": [
+        {
+          "slug": "r-e-m",
+          "name": "R.E.M.",
+          "formed": 1980,
+          "origin": "Athens, USA",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "alternative"
+          ],
+          "signature": {
+            "title": "Losing My Religion",
+            "year": 1991
+          },
+          "role": {
+            "en": "College-rock murmer into mainstream alternative without glam excess.",
+            "zh": "学院摇滚低语进入主流 alternative，不靠华丽过量。"
+          }
+        },
         {
           "slug": "my-bloody-valentine",
           "name": "My Bloody Valentine",
@@ -1059,6 +1194,25 @@
           }
         },
         {
+          "slug": "green-day",
+          "name": "Green Day",
+          "formed": 1987,
+          "origin": "Berkeley, USA",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "punk",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Basket Case",
+            "year": 1994
+          },
+          "role": {
+            "en": "East Bay pop-punk power chords put punk back on mass MTV.",
+            "zh": "东湾 pop-punk 强力和弦把朋克送回大众 MTV。"
+          }
+        },
+        {
           "slug": "nirvana",
           "name": "Nirvana",
           "formed": 1987,
@@ -1132,6 +1286,24 @@
           "role": {
             "en": "Dream-pop shoegaze classic form.",
             "zh": "梦幻流行与经典 Shoegaze 形态。"
+          }
+        },
+        {
+          "slug": "the-cranberries",
+          "name": "The Cranberries",
+          "formed": 1989,
+          "origin": "Limerick, Ireland",
+          "primaryEra": "1990s-grunge-alt",
+          "genres": [
+            "alternative"
+          ],
+          "signature": {
+            "title": "Zombie",
+            "year": 1994
+          },
+          "role": {
+            "en": "O'Riordan yodel + delay guitar; Irish alt into global 90s radio.",
+            "zh": "O'Riordan 约德尔式唱腔 + 延时吉他；爱尔兰 alt 进入全球 90 年代电台。"
           }
         },
         {
@@ -1586,6 +1758,25 @@
           }
         },
         {
+          "slug": "fall-out-boy",
+          "name": "Fall Out Boy",
+          "formed": 2001,
+          "origin": "Chicago, USA",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "alternative",
+            "punk"
+          ],
+          "signature": {
+            "title": "Sugar, We're Goin Down",
+            "year": 2005
+          },
+          "role": {
+            "en": "Midwest emo-punk hooks scale Warped Tour into chart rock.",
+            "zh": "中西部 emo-punk 钩子从 Warped Tour 扩到榜单摇滚。"
+          }
+        },
+        {
           "slug": "the-killers",
           "name": "The Killers",
           "formed": 2001,
@@ -1640,6 +1831,25 @@
           "role": {
             "en": "Dance-punk angular hooks for clubs and charts.",
             "zh": "舞曲朋克棱角钩子——俱乐部与榜单通吃。"
+          }
+        },
+        {
+          "slug": "bring-me-the-horizon",
+          "name": "Bring Me the Horizon",
+          "formed": 2004,
+          "origin": "Sheffield, UK",
+          "primaryEra": "2000s-revival",
+          "genres": [
+            "heavy-metal",
+            "alternative"
+          ],
+          "signature": {
+            "title": "Can You Feel My Heart",
+            "year": 2013
+          },
+          "role": {
+            "en": "Deathcore roots into electronic-metal festival headliner grammar.",
+            "zh": "从 deathcore 根长成电子金属音乐节头牌语法。"
           }
         },
         {
@@ -1792,6 +2002,25 @@
           }
         },
         {
+          "slug": "maneskin",
+          "name": "Måneskin",
+          "formed": 2016,
+          "origin": "Rome, Italy",
+          "primaryEra": "2010s-indie-modern",
+          "genres": [
+            "alternative",
+            "indie-rock"
+          ],
+          "signature": {
+            "title": "I Wanna Be Your Slave",
+            "year": 2021
+          },
+          "role": {
+            "en": "Eurovision glam-rock reboot; guitar band as 2020s chart spectacle.",
+            "zh": "Eurovision 华丽摇滚重启；吉他乐队成为 2020 年代榜单景观。"
+          }
+        },
+        {
           "slug": "fontaines-dc",
           "name": "Fontaines D.C.",
           "formed": 2017,
@@ -1821,7 +2050,6 @@
     "Thin Lizzy",
     "Buddy Holly",
     "Little Richard",
-    "R.E.M.",
     "U2",
     "Talking Heads (deep narrative)",
     "David Bowie (full person+band pages)"

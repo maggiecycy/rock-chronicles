@@ -1,0 +1,297 @@
+{
+  "name": "Aerosmith",
+  "slug": "aerosmith",
+  "formed": 1970,
+  "origin": "Boston, USA",
+  "primaryEra": "1970s-prog-hard-rock",
+  "genres": [
+    "hard-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Boston blues-hard-rock five: Dream On (1973) ballad dynamics and Walk This Way (1975) riff/funk pocket set US hard-rock radio grammar; 1980s Run-DMC crossover and Crazy (1993) extend the catalog into MTV.",
+    "zh": "波士顿蓝调 hard-rock 五人组：Dream On（1973）谣曲动态与 Walk This Way（1975）riff/funk 口袋拍定美国 hard-rock 电台语法；80 年代 Run-DMC 跨界与 Crazy（1993）把目录延到 MTV。"
+  },
+  "members": [
+    {
+      "name": "Steven Tyler",
+      "role": "Vocals",
+      "years": "1970–present"
+    },
+    {
+      "name": "Joe Perry",
+      "role": "Lead Guitar",
+      "years": "1970–1979; 1984–present"
+    },
+    {
+      "name": "Brad Whitford",
+      "role": "Rhythm Guitar",
+      "years": "1971–present"
+    },
+    {
+      "name": "Tom Hamilton",
+      "role": "Bass",
+      "years": "1970–present"
+    },
+    {
+      "name": "Joey Kramer",
+      "role": "Drums",
+      "years": "1970–present"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Dream On",
+      "year": 1973
+    },
+    {
+      "title": "Walk This Way",
+      "year": 1975
+    },
+    {
+      "title": "Sweet Emotion",
+      "year": 1975
+    },
+    {
+      "title": "Crazy",
+      "year": 1993
+    }
+  ],
+  "lyricQuotes": [
+    "Dream on / Dream on / Dream until your dreams come true",
+    "Walk this way / Talk this way"
+  ],
+  "relatedBands": [
+    "led-zeppelin",
+    "van-halen",
+    "guns-n-roses"
+  ],
+  "influenceFrom": [
+    "the-rolling-stones",
+    "led-zeppelin",
+    "chuck-berry"
+  ],
+  "influenced": [
+    "guns-n-roses",
+    "van-halen",
+    "metallica"
+  ],
+  "shortBio": {
+    "en": "Boston Toxic Twins hard-rock; Dream On and Walk This Way as 70s FM pillars, Crazy the MTV ballad return.",
+    "zh": "波士顿 Toxic Twins hard-rock；Dream On 与 Walk This Way 作 70 年代 FM 支柱，Crazy 是 MTV 谣曲回归。"
+  },
+  "body": {
+    "en": "Formed 1970 in Boston. Toys in the Attic (1975) and Rocks (1976) lock Tyler/Perry blues-shout over Whitford/Hamilton/Kramer pocket—Walk This Way’s syncopated riff, Sweet Emotion’s talk-box bass intro. Dream On from the 1973 debut is the piano-to-power-ballad early template.\n\nPerry exits 1979, returns 1984; Permanent Vacation / Pump / Get a Grip (Desmond Child/Diane Warren co-writes, Crazy 1993) rebuild stadium MTV hard-rock. Run-DMC’s 1986 Walk This Way remake cites the riff as hip-hop/hard-rock bridge.",
+    "zh": "1970 年于波士顿组建。Toys in the Attic（1975）与 Rocks（1976）钉住 Tyler/Perry 蓝调喊叫压 Whitford/Hamilton/Kramer 口袋拍——Walk This Way 切分 riff、Sweet Emotion talk-box 贝斯 intro。1973 年首张的 Dream On 是钢琴到 power ballad 早期模板。\n\nPerry 1979 年离队、1984 年回归；Permanent Vacation / Pump / Get a Grip（Desmond Child/Diane Warren 合写，Crazy 1993）重建体育场 MTV hard-rock。Run-DMC 1986 年 Walk This Way 翻唱把该 riff 钉成 hip-hop/hard-rock 桥。"
+  },
+  "scenes": [
+    {
+      "year": 1973,
+      "track": "Dream On",
+      "membersOnStage": [
+        "Steven Tyler",
+        "Joe Perry",
+        "Brad Whitford",
+        "Tom Hamilton",
+        "Joey Kramer"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Piano ballad to stacked-harmony climax; early power-ballad US FM face.",
+        "zh": "钢琴谣曲到叠和声高潮；早期 power ballad 美国 FM 面孔。"
+      }
+    },
+    {
+      "year": 1975,
+      "track": "Walk This Way",
+      "membersOnStage": [
+        "Steven Tyler",
+        "Joe Perry",
+        "Brad Whitford",
+        "Tom Hamilton",
+        "Joey Kramer"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Syncopated riff + Tyler shout; Toys in the Attic hard-rock pocket.",
+        "zh": "切分 riff + Tyler 喊叫；Toys in the Attic hard-rock 口袋拍。"
+      }
+    },
+    {
+      "year": 1993,
+      "track": "Crazy",
+      "membersOnStage": [
+        "Steven Tyler",
+        "Joe Perry",
+        "Brad Whitford",
+        "Tom Hamilton",
+        "Joey Kramer"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Get a Grip power ballad; MTV video-era Aerosmith return marker.",
+        "zh": "Get a Grip power ballad；MTV 影像期 Aerosmith 回归标记。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Blues hard-rock with funk pocket",
+        "zh": "带 funk 口袋拍的蓝调 hard-rock"
+      },
+      "body": {
+        "en": "Aerosmith borrow Stones swagger and Zeppelin volume, then write American riffs with Kramer’s pocket and Perry’s Les Paul bite.\n\nDream On proves ballad dynamics; Walk This Way proves syncopation sells on FM.\n\nPeak craft is Toys in the Attic / Rocks, not only the 90s video cycle.",
+        "zh": "Aerosmith 借 Stones 姿态与 Zeppelin 音量，再用 Kramer 口袋拍与 Perry Les Paul 咬合写美国 riff。\n\nDream On 证明谣曲动态；Walk This Way 证明切分能卖 FM。\n\n巅峰工艺在 Toys in the Attic / Rocks，不只是 90 年代 MV 周期。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Toxic Twins core five",
+        "zh": "Toxic Twins 核心五人"
+      },
+      "body": {
+        "en": "Tyler/Perry/Whitford/Hamilton/Kramer is the durable core. Perry leaves 1979–1984; Jimmy Crespo covers guitar on Rock in a Hard Place.\n\nReunion yields Permanent Vacation onward. Writing often splits Tyler/Perry with outside hitmakers in the MTV era.\n\nStage identity stays Toxic Twins + rhythm section.",
+        "zh": "Tyler/Perry/Whitford/Hamilton/Kramer 是耐久核心。Perry 1979–1984 离队；Jimmy Crespo 在 Rock in a Hard Place 顶吉他。\n\n重聚后从 Permanent Vacation 起。MTV 期写作常拆 Tyler/Perry 与外部热单写手。\n\n舞台身份仍是 Toxic Twins + 节奏组。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "US hard-rock and hip-hop bridge",
+        "zh": "美国 hard-rock 与 hip-hop 桥"
+      },
+      "body": {
+        "en": "Guns N' Roses and 80s US hard-rock cite Aerosmith swagger and riff pocket. Run-DMC remake makes Walk This Way a cross-genre teaching track.\n\nCrazy/I Don’t Want to Miss a Thing show the ballad arm of the same band.\n\nDebt is US FM hard-rock grammar, not British metal school.",
+        "zh": "Guns N' Roses 与 80 年代美国 hard-rock 引用 Aerosmith 姿态与 riff 口袋拍。Run-DMC 翻唱让 Walk This Way 成跨类型教材曲。\n\nCrazy / I Don’t Want to Miss a Thing 展示同一乐队的谣曲臂。\n\n债务在美国 FM hard-rock 语法，非英国金属学派。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Dream On",
+        "zh": "Dream On"
+      },
+      "body": {
+        "en": "Piano ballad to stacked-harmony climax; early power-ballad US FM face.",
+        "zh": "钢琴谣曲到叠和声高潮；早期 power ballad 美国 FM 面孔。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Walk This Way",
+        "zh": "Walk This Way"
+      },
+      "body": {
+        "en": "Syncopated riff + Tyler shout; Toys in the Attic hard-rock pocket.",
+        "zh": "切分 riff + Tyler 喊叫；Toys in the Attic hard-rock 口袋拍。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Crazy",
+        "zh": "Crazy"
+      },
+      "body": {
+        "en": "Get a Grip power ballad; MTV video-era Aerosmith return marker.",
+        "zh": "Get a Grip power ballad；MTV 影像期 Aerosmith 回归标记。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "hard-rock"
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We're a blues band that got loud. The riffs still have to swing.",
+      "speaker": "Joe Perry",
+      "source": "Guitar interview excerpt",
+      "year": 1976
+    },
+    {
+      "text": "Dream On was me at the piano. The band made it hard rock.",
+      "speaker": "Steven Tyler",
+      "source": "Press interview excerpt",
+      "year": 1993
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Toys in the Attic five",
+        "zh": "Toys in the Attic 五人组"
+      },
+      "years": "1971–1979",
+      "peak": true,
+      "members": [
+        {
+          "name": "Steven Tyler",
+          "role": "Vocals"
+        },
+        {
+          "name": "Joe Perry",
+          "role": "Lead Guitar"
+        },
+        {
+          "name": "Brad Whitford",
+          "role": "Rhythm Guitar"
+        },
+        {
+          "name": "Tom Hamilton",
+          "role": "Bass"
+        },
+        {
+          "name": "Joey Kramer",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Dream On / Walk This Way era; Boston blues hard-rock peak.",
+        "zh": "Dream On / Walk This Way 期；波士顿蓝调 hard-rock 巅峰。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Walk This Way",
+      "year": 1975,
+      "note": {
+        "en": "Syncopated riff as US hard-rock and later hip-hop crossover source.",
+        "zh": "切分 riff，作美国 hard-rock 与后来 hip-hop 跨界源曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "hard-rock"
+    ],
+    "note": {
+      "en": "Blues shout + funk pocket riffs on 70s FM hard-rock.",
+      "zh": "蓝调喊叫 + funk 口袋拍 riff，钉在 70 年代 FM hard-rock。"
+    }
+  }
+}

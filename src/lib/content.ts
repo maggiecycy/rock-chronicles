@@ -63,40 +63,74 @@ const dbTrope = memoByKeyAsync(getTropeFromDb);
 const dbAllLives = memoAsync(getAllLivesFromDb);
 const dbLive = memoByKeyAsync(getLiveFromDb);
 
-/** Local/dev: JSON avoids Aiven RTT. Production uses DB when USE_DATABASE=true. Override: CONTENT_SOURCE=json|database */
+/** Prefer JSON unless CONTENT_SOURCE=database. Local/dev always JSON. */
 function preferLocalJson(): boolean {
-  if (process.env.CONTENT_SOURCE === "json") return true;
   if (process.env.CONTENT_SOURCE === "database") return false;
+  if (process.env.CONTENT_SOURCE === "json") return true;
   return process.env.NODE_ENV !== "production";
+}
+
+async function bandFromDbOrJson(slug: string): Promise<Band | undefined> {
+  if (useDatabase()) {
+    try {
+      const row = await dbBand(slug);
+      if (row) return row;
+    } catch {
+      /* fall through to JSON */
+    }
+  }
+  return getBandFromJson(slug);
+}
+
+async function bandsFromDbOrJson(): Promise<Band[]> {
+  if (useDatabase()) {
+    try {
+      const rows = await dbAllBands();
+      if (rows.length > 0) return rows;
+    } catch {
+      /* fall through */
+    }
+  }
+  return getAllBandsFromJson();
 }
 
 export async function getAllEras(): Promise<Era[]> {
   if (preferLocalJson()) return getAllErasFromJson();
-  if (useDatabase()) return dbAllEras();
+  if (useDatabase()) {
+    try {
+      const rows = await dbAllEras();
+      if (rows.length > 0) return rows;
+    } catch {
+      /* fall through */
+    }
+  }
   return getAllErasFromJson();
 }
 
 export async function getEra(slug: string): Promise<Era | undefined> {
   if (preferLocalJson()) return getEraFromJson(slug);
-  if (useDatabase()) return dbEra(slug);
+  if (useDatabase()) {
+    try {
+      const row = await dbEra(slug);
+      if (row) return row;
+    } catch {
+      /* fall through */
+    }
+  }
   return getEraFromJson(slug);
 }
 
 export async function getAllBands(): Promise<Band[]> {
   const bands = preferLocalJson()
     ? getAllBandsFromJson()
-    : useDatabase()
-      ? await dbAllBands()
-      : getAllBandsFromJson();
+    : await bandsFromDbOrJson();
   return bands.map(withBandImage);
 }
 
 export async function getBand(slug: string): Promise<Band | undefined> {
   const band = preferLocalJson()
     ? getBandFromJson(slug)
-    : useDatabase()
-      ? await dbBand(slug)
-      : getBandFromJson(slug);
+    : await bandFromDbOrJson(slug);
   return band ? withBandImage(band) : undefined;
 }
 
@@ -110,19 +144,39 @@ export async function getBandsByEra(eraSlug: string): Promise<Band[]> {
 
 export async function getAllGenres(): Promise<Genre[]> {
   if (preferLocalJson()) return getAllGenresFromJson();
-  if (useDatabase()) return dbAllGenres();
+  if (useDatabase()) {
+    try {
+      const rows = await dbAllGenres();
+      if (rows.length > 0) return rows;
+    } catch {
+      /* fall through */
+    }
+  }
   return getAllGenresFromJson();
 }
 
 export async function getGenre(slug: string): Promise<Genre | undefined> {
   if (preferLocalJson()) return getGenreFromJson(slug);
-  if (useDatabase()) return dbGenre(slug);
+  if (useDatabase()) {
+    try {
+      const row = await dbGenre(slug);
+      if (row) return row;
+    } catch {
+      /* fall through */
+    }
+  }
   return getGenreFromJson(slug);
 }
 
 export async function getGenreLinks(): Promise<GenreLink[]> {
   if (preferLocalJson()) return getGenreLinksFromJson();
-  if (useDatabase()) return dbGenreLinks();
+  if (useDatabase()) {
+    try {
+      return await dbGenreLinks();
+    } catch {
+      /* fall through */
+    }
+  }
   return getGenreLinksFromJson();
 }
 
@@ -147,18 +201,34 @@ export async function getDecisiveBands(): Promise<Band[]> {
 export async function getAllPeople(): Promise<Person[]> {
   const people = preferLocalJson()
     ? getAllPeopleFromJson()
-    : useDatabase()
-      ? await dbAllPeople()
-      : getAllPeopleFromJson();
+    : await (async () => {
+        if (useDatabase()) {
+          try {
+            const rows = await dbAllPeople();
+            if (rows.length > 0) return rows;
+          } catch {
+            /* fall through */
+          }
+        }
+        return getAllPeopleFromJson();
+      })();
   return people.map(withPersonImage);
 }
 
 export async function getPerson(slug: string): Promise<Person | undefined> {
-  const person = preferLocalJson()
-    ? getPersonFromJson(slug)
-    : useDatabase()
-      ? await dbPerson(slug)
-      : getPersonFromJson(slug);
+  let person: Person | undefined;
+  if (preferLocalJson()) {
+    person = getPersonFromJson(slug);
+  } else if (useDatabase()) {
+    try {
+      person = await dbPerson(slug);
+    } catch {
+      person = undefined;
+    }
+    if (!person) person = getPersonFromJson(slug);
+  } else {
+    person = getPersonFromJson(slug);
+  }
   return person ? withPersonImage(person) : undefined;
 }
 

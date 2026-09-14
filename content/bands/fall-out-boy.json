@@ -1,0 +1,289 @@
+{
+  "name": "Fall Out Boy",
+  "slug": "fall-out-boy",
+  "formed": 2001,
+  "origin": "Chicago, USA",
+  "primaryEra": "2000s-revival",
+  "genres": [
+    "alternative",
+    "punk"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Chicago emo/pop-punk four that turned dense lyric couplets and Stump melody into mid-2000s Warped-to-arena: Sugar, We're Goin Down (2005) then Centuries (2014) stadium reboot.",
+    "zh": "芝加哥 emo/pop-punk 四人组：把密歌词对句与 Stump 旋律做成 2000 年代中 Warped 到 arena——Sugar, We're Goin Down（2005），再到 Centuries（2014）体育场重启。"
+  },
+  "members": [
+    {
+      "name": "Patrick Stump",
+      "role": "Vocals, Guitar",
+      "years": "2001–present"
+    },
+    {
+      "name": "Pete Wentz",
+      "role": "Bass, Lyrics, Backing Vocals",
+      "years": "2001–present"
+    },
+    {
+      "name": "Joe Trohman",
+      "role": "Guitar",
+      "years": "2001–present"
+    },
+    {
+      "name": "Andy Hurley",
+      "role": "Drums",
+      "years": "2003–present"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Sugar, We're Goin Down",
+      "year": 2005
+    },
+    {
+      "title": "Centuries",
+      "year": 2014
+    },
+    {
+      "title": "Dance, Dance",
+      "year": 2005
+    },
+    {
+      "title": "Thnks fr th Mmrs",
+      "year": 2007
+    }
+  ],
+  "lyricQuotes": [
+    "We're going down, down in an earlier round / And Sugar, we're going down swinging",
+    "Some legends are told / Some turn to dust or to gold"
+  ],
+  "relatedBands": [
+    "green-day",
+    "the-killers",
+    "linkin-park"
+  ],
+  "influenceFrom": [
+    "green-day",
+    "ramones",
+    "the-smiths"
+  ],
+  "influenced": [
+    "the-killers",
+    "arctic-monkeys"
+  ],
+  "shortBio": {
+    "en": "Chicago emo-punk four; From Under the Cork Tree breakthrough, Centuries as 2010s stadium return.",
+    "zh": "芝加哥 emo-punk 四人；From Under the Cork Tree 突破，Centuries 作 2010 年代体育场回归。"
+  },
+  "body": {
+    "en": "Formed 2001 in Chicago hardcore/emo circles. Take This to Your Grave (2003) then From Under the Cork Tree (2005, Neal Avron): Sugar, We're Goin Down and Dance, Dance—Wentz dense couplets, Stump soul-edged melodic chorus, Trohman/Hurley punch.\n\nInfinity on High (2007) adds Thnks fr th Mmrs. Hiatus ~2009–2013; Save Rock and Roll / American Beauty/American Psycho yield Centuries—chant stadium production over the same four names. Craft is lyric density + pop chorus, not DIY ethics alone.",
+    "zh": "2001 年于芝加哥 hardcore/emo 圈组建。Take This to Your Grave（2003）再到 From Under the Cork Tree（2005，Neal Avron）：Sugar, We're Goin Down 与 Dance, Dance——Wentz 密对句、Stump 带 soul 边的旋律副歌、Trohman/Hurley 冲击。\n\nInfinity on High（2007）加入 Thnks fr th Mmrs。约 2009–2013 停摆；Save Rock and Roll / American Beauty/American Psycho 产出 Centuries——口号体育场制作压同一四人名。工艺是歌词密度 + 流行副歌，非仅 DIY 伦理。"
+  },
+  "scenes": [
+    {
+      "year": 2005,
+      "track": "Sugar, We're Goin Down",
+      "membersOnStage": [
+        "Patrick Stump",
+        "Pete Wentz",
+        "Joe Trohman",
+        "Andy Hurley"
+      ],
+      "genreTags": [
+        "alternative",
+        "punk"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Cork Tree breakthrough; Wentz couplet + Stump chorus hook.",
+        "zh": "Cork Tree 突破；Wentz 对句 + Stump 副歌钩子。"
+      }
+    },
+    {
+      "year": 2005,
+      "track": "Dance, Dance",
+      "membersOnStage": [
+        "Patrick Stump",
+        "Pete Wentz",
+        "Joe Trohman",
+        "Andy Hurley"
+      ],
+      "genreTags": [
+        "alternative",
+        "punk"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Syncopated verse punch; mid-2000s emo-punk radio twin.",
+        "zh": "切分主歌冲击；2000 年代中 emo-punk 电台成对曲。"
+      }
+    },
+    {
+      "year": 2014,
+      "track": "Centuries",
+      "membersOnStage": [
+        "Patrick Stump",
+        "Pete Wentz",
+        "Joe Trohman",
+        "Andy Hurley"
+      ],
+      "genreTags": [
+        "alternative",
+        "punk"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Chant stadium reboot; post-hiatus American Beauty era.",
+        "zh": "口号体育场重启；停摆后 American Beauty 期。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Dense lyric + pop-punk chorus",
+        "zh": "密歌词 + pop-punk 副歌"
+      },
+      "body": {
+        "en": "Wentz writes stacked references and couplets; Stump sings them as R&B-aware pop melodies over Trohman power chords.\n\nSugar, We're Goin Down is the 2005 citation. Centuries later swaps Warped grit for chant arena production.\n\nSame four names, different mix loudness and hook scale.",
+        "zh": "Wentz 写叠引用与对句；Stump 用带 R&B 意识的流行旋律唱出，压 Trohman power chords。\n\nSugar, We're Goin Down 是 2005 引用曲。Centuries 后来把 Warped 砂感换成口号 arena 制作。\n\n同一四人名，不同混音响度与钩子体量。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Stable four since Hurley",
+        "zh": "Hurley 加入后稳定四人"
+      },
+      "body": {
+        "en": "Early drummers rotate; Hurley locks 2003. Stump/Wentz/Trohman/Hurley hold through hiatus and return.\n\nNo classic fracture—brand is the four.\n\nPeak commercial units: Cork Tree 2005 and Centuries 2014.",
+        "zh": "早期鼓手轮换；Hurley 2003 钉住。Stump/Wentz/Trohman/Hurley 撑过停摆与回归。\n\n无经典分裂——品牌即四人。\n\n商业巅峰单位：Cork Tree 2005 与 Centuries 2014。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "punk"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Emo-punk to arena revival bridge",
+        "zh": "Emo-punk 到 arena 复兴桥"
+      },
+      "body": {
+        "en": "Mid-2000s scene peers (MCR, Panic!) share the Warped-to-MTV path; Fall Out Boy lean hardest into pop chorus engineering.\n\nCenturies cited as 2010s emo revival stadium template.\n\nDebt to Green Day melody + hardcore scene energy.",
+        "zh": "2000 年代中同代（MCR、Panic!）共享 Warped 到 MTV 路径；Fall Out Boy 最用力做流行副歌工程。\n\nCenturies 被引为 2010 年代 emo 复兴体育场模板。\n\n债务：Green Day 旋律 + hardcore 场景能量。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Sugar, We're Goin Down",
+        "zh": "Sugar, We're Goin Down"
+      },
+      "body": {
+        "en": "Cork Tree breakthrough; Wentz couplet + Stump chorus hook.",
+        "zh": "Cork Tree 突破；Wentz 对句 + Stump 副歌钩子。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "punk"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Dance, Dance",
+        "zh": "Dance, Dance"
+      },
+      "body": {
+        "en": "Syncopated verse punch; mid-2000s emo-punk radio twin.",
+        "zh": "切分主歌冲击；2000 年代中 emo-punk 电台成对曲。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "punk"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Centuries",
+        "zh": "Centuries"
+      },
+      "body": {
+        "en": "Chant stadium reboot; post-hiatus American Beauty era.",
+        "zh": "口号体育场重启；停摆后 American Beauty 期。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "alternative"
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I write too many words. Patrick makes them singable.",
+      "speaker": "Pete Wentz",
+      "source": "Press interview excerpt",
+      "year": 2005
+    },
+    {
+      "text": "Centuries was us learning the stadium chorus without dropping the band identity.",
+      "speaker": "Patrick Stump",
+      "source": "Studio interview excerpt",
+      "year": 2015
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Cork Tree–Infinity four",
+        "zh": "Cork Tree–Infinity 四人组"
+      },
+      "years": "2003–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Patrick Stump",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Pete Wentz",
+          "role": "Bass, Lyrics"
+        },
+        {
+          "name": "Joe Trohman",
+          "role": "Guitar"
+        },
+        {
+          "name": "Andy Hurley",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Sugar / Centuries; Chicago emo-punk to arena revival.",
+        "zh": "Sugar / Centuries；芝加哥 emo-punk 到 arena 复兴。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Sugar, We're Goin Down",
+      "year": 2005,
+      "note": {
+        "en": "Couplet lyric + melodic chorus as mid-2000s emo-punk mass face.",
+        "zh": "对句歌词 + 旋律副歌，作 2000 年代中 emo-punk 大众面孔。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "punk"
+    ],
+    "note": {
+      "en": "Wentz density + Stump melody; Warped to stadium chant.",
+      "zh": "Wentz 密度 + Stump 旋律；Warped 到体育场口号。"
+    }
+  }
+}

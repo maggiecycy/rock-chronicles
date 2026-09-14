@@ -2,18 +2,17 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useSound } from "@/components/SoundProvider";
 import { useLocale } from "@/i18n/LocaleProvider";
 
 export function MagazineNav() {
   const pathname = usePathname();
-  const { enabled, toggle, activeGenre } = useSound();
   const { locale, setLocale, t } = useLocale();
 
   const links = [
     { href: "/", label: t.nav.cover },
     { href: "/timeline", label: t.nav.timeline },
     { href: "/genres", label: t.nav.genres },
+    { href: "/listen", label: t.nav.listen },
     { href: "/people", label: t.nav.people },
     { href: "/guide", label: t.nav.guide },
     { href: "/canon", label: t.nav.canon },
@@ -86,25 +85,6 @@ export function MagazineNav() {
               {t.nav.langZh}
             </button>
           </div>
-
-          <button
-            type="button"
-            onClick={toggle}
-            aria-pressed={enabled}
-            aria-label={enabled ? t.nav.soundOnLabel : t.nav.soundOffLabel}
-            className={`border-2 px-2 py-1 text-xs font-medium uppercase tracking-wider focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent ${
-              enabled
-                ? "border-accent bg-accent text-paper"
-                : "border-ink text-ink hover:bg-ink hover:text-paper"
-            }`}
-            title={
-              activeGenre
-                ? `Playing: ${activeGenre}`
-                : "Genre loops (procedural, copyright-free)"
-            }
-          >
-            {enabled ? t.nav.soundOn : t.nav.sound}
-          </button>
         </div>
       </nav>
     </header>

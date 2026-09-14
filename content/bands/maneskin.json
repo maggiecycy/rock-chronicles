@@ -1,0 +1,286 @@
+{
+  "name": "Måneskin",
+  "slug": "maneskin",
+  "formed": 2016,
+  "origin": "Rome, Italy",
+  "primaryEra": "2010s-indie-modern",
+  "genres": [
+    "alternative",
+    "indie-rock"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Rome four that took Eurovision and TikTok-era covers into global alt/indie hard-rock revival: Beggin' (cover hit) and I Wanna Be Your Slave (2021) put Italian glam-garage attitude on 2020s streaming rock radio.",
+    "zh": "罗马四人组：把 Eurovision 与 TikTok 期翻唱推进全球 alt/indie hard-rock 复兴——Beggin'（翻唱热单）与 I Wanna Be Your Slave（2021）把意大利 glam-garage 态度钉上 2020 年代流媒体摇滚电台。"
+  },
+  "members": [
+    {
+      "name": "Damiano David",
+      "role": "Vocals",
+      "years": "2016–present"
+    },
+    {
+      "name": "Victoria De Angelis",
+      "role": "Bass",
+      "years": "2016–present"
+    },
+    {
+      "name": "Thomas Raggi",
+      "role": "Guitar",
+      "years": "2016–present"
+    },
+    {
+      "name": "Ethan Torchio",
+      "role": "Drums",
+      "years": "2016–present"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Beggin'",
+      "year": 2017
+    },
+    {
+      "title": "I Wanna Be Your Slave",
+      "year": 2021
+    },
+    {
+      "title": "Zitti e buoni",
+      "year": 2021
+    },
+    {
+      "title": "The Loneliest",
+      "year": 2022
+    }
+  ],
+  "lyricQuotes": [
+    "I wanna be your slave / I wanna be your master",
+    "Put your hands up in the air"
+  ],
+  "relatedBands": [
+    "the-strokes",
+    "arctic-monkeys",
+    "guns-n-roses"
+  ],
+  "influenceFrom": [
+    "the-rolling-stones",
+    "led-zeppelin",
+    "queen"
+  ],
+  "influenced": [],
+  "shortBio": {
+    "en": "Rome glam-garage four; Eurovision Zitti e buoni, Beggin' and Slave as 2020s streaming rock hits.",
+    "zh": "罗马 glam-garage 四人；Eurovision Zitti e buoni，Beggin' 与 Slave 作 2020 年代流媒体摇滚热单。"
+  },
+  "body": {
+    "en": "Formed 2016 in Rome (Monteverde). Teatro d’Ira era and Eurovision 2021 win with Zitti e buoni put the four on continental TV. Beggin' (Four Seasons cover, live-in-studio style) becomes a 2020–21 streaming breakout; Teatro d’Ira - Vol. I yields I Wanna Be Your Slave—glam shout, De Angelis bass-forward mix, Raggi riff.\n\nRush! (2022) adds The Loneliest ballad. Craft is 70s hard-rock/glam attitude through indie-modern production and social-video distribution, not progressive complexity.",
+    "zh": "2016 年于罗马（Monteverde）组建。Teatro d’Ira 期与 2021 Eurovision 凭 Zitti e buoni 夺冠，把四人推上欧洲电视。Beggin'（Four Seasons 翻唱，现场录音室风）成 2020–21 流媒体爆发；Teatro d’Ira - Vol. I 产出 I Wanna Be Your Slave——glam 喊叫、De Angelis 贝斯靠前混音、Raggi riff。\n\nRush!（2022）加入 The Loneliest 谣曲。工艺是 70 年代 hard-rock/glam 态度经 indie-modern 制作与社交视频分发，非 progressive 复杂度。"
+  },
+  "scenes": [
+    {
+      "year": 2017,
+      "track": "Beggin'",
+      "membersOnStage": [
+        "Damiano David",
+        "Victoria De Angelis",
+        "Thomas Raggi",
+        "Ethan Torchio"
+      ],
+      "genreTags": [
+        "alternative",
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Four Seasons cover; streaming-era breakout performance cut.",
+        "zh": "Four Seasons 翻唱；流媒体时代爆发演出版。"
+      }
+    },
+    {
+      "year": 2021,
+      "track": "I Wanna Be Your Slave",
+      "membersOnStage": [
+        "Damiano David",
+        "Victoria De Angelis",
+        "Thomas Raggi",
+        "Ethan Torchio"
+      ],
+      "genreTags": [
+        "alternative",
+        "indie-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Teatro d’Ira glam-riff hit; bass-forward Italian alt hard-rock.",
+        "zh": "Teatro d’Ira glam-riff 热单；贝斯靠前的意大利 alt hard-rock。"
+      }
+    },
+    {
+      "year": 2021,
+      "track": "Zitti e buoni",
+      "membersOnStage": [
+        "Damiano David",
+        "Victoria De Angelis",
+        "Thomas Raggi",
+        "Ethan Torchio"
+      ],
+      "genreTags": [
+        "alternative",
+        "indie-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Eurovision 2021 winner; Italian-language hard-rock TV landmark.",
+        "zh": "Eurovision 2021 冠军；意大利语 hard-rock 电视地标。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Glam-garage via streaming and Eurovision",
+        "zh": "经流媒体与 Eurovision 的 glam-garage"
+      },
+      "body": {
+        "en": "Måneskin write short glam-hard-rock songs with David’s shout vocal and De Angelis bass as mix center—closer to Stones/Zeppelin attitude than indie whisper.\n\nBeggin' shows cover economy in the TikTok window; Slave and Zitti e buoni show original catalog punch.\n\nDistribution path is TV contest + streaming, not 90s college radio.",
+        "zh": "Måneskin 写短 glam-hard-rock，David 喊叫人声、De Angelis 贝斯作混音中心——更近 Stones/Zeppelin 态度，非 indie 耳语。\n\nBeggin' 显示 TikTok 窗口的翻唱经济；Slave 与 Zitti e buoni 显示原创目录冲击。\n\n分发路径是电视赛事 + 流媒体，非 90 年代学院电台。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Stable Rome four since school",
+        "zh": "同学以来稳定罗马四人"
+      },
+      "body": {
+        "en": "David/De Angelis/Raggi/Torchio form as teens and hold. No classic fracture—same four from street busking through Eurovision and Rush!.\n\nWriting credits often shared; stage roles fixed.\n\nPeak global unit is 2021 Teatro d’Ira / Eurovision year.",
+        "zh": "David/De Angelis/Raggi/Torchio 青少年组建并稳住。无经典分裂——从街头到 Eurovision 与 Rush! 仍是四人。\n\n写作常共享；舞台角色固定。\n\n全球巅峰单位是 2021 Teatro d’Ira / Eurovision 年。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "2020s European rock radio face",
+        "zh": "2020 年代欧洲摇滚电台面孔"
+      },
+      "body": {
+        "en": "Cite path: 70s glam/hard-rock vocabulary through Italian language and social video. Peers to Strokes/Arctic Monkeys revival energy with different geography.\n\nInfluenced list still forming; immediate impact is proving rock four-piece can chart in streaming decade.\n\nCraft debt is riff simplicity + visual brand consistency.",
+        "zh": "引用路径：70 年代 glam/hard-rock 语汇经意大利语与社交视频。能量上邻 Strokes/Arctic Monkeys 复兴，地理不同。\n\ninfluenced 名单仍在形成；即时影响是证明摇滚四人组能在流媒体十年上榜。\n\n工艺债务在 riff 简洁 + 视觉品牌一致。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Beggin'",
+        "zh": "Beggin'"
+      },
+      "body": {
+        "en": "Four Seasons cover; streaming-era breakout performance cut.",
+        "zh": "Four Seasons 翻唱；流媒体时代爆发演出版。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "I Wanna Be Your Slave",
+        "zh": "I Wanna Be Your Slave"
+      },
+      "body": {
+        "en": "Teatro d’Ira glam-riff hit; bass-forward Italian alt hard-rock.",
+        "zh": "Teatro d’Ira glam-riff 热单；贝斯靠前的意大利 alt hard-rock。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Zitti e buoni",
+        "zh": "Zitti e buoni"
+      },
+      "body": {
+        "en": "Eurovision 2021 winner; Italian-language hard-rock TV landmark.",
+        "zh": "Eurovision 2021 冠军；意大利语 hard-rock 电视地标。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "indie-rock"
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We play rock and roll. Eurovision was a stage, not a soft-pop compromise.",
+      "speaker": "Damiano David",
+      "source": "Press interview excerpt",
+      "year": 2021
+    },
+    {
+      "text": "The bass has to be loud. That's the Italian rock band we wanted.",
+      "speaker": "Victoria De Angelis",
+      "source": "Bass interview excerpt",
+      "year": 2021
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Eurovision–Teatro d’Ira four",
+        "zh": "Eurovision–Teatro d’Ira 四人组"
+      },
+      "years": "2016–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Damiano David",
+          "role": "Vocals"
+        },
+        {
+          "name": "Victoria De Angelis",
+          "role": "Bass"
+        },
+        {
+          "name": "Thomas Raggi",
+          "role": "Guitar"
+        },
+        {
+          "name": "Ethan Torchio",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Beggin' / Slave / Zitti e buoni; 2020s Italian alt rock peak.",
+        "zh": "Beggin' / Slave / Zitti e buoni；2020 年代意大利 alt rock 巅峰。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "I Wanna Be Your Slave",
+      "year": 2021,
+      "note": {
+        "en": "Glam-riff original as post-Eurovision streaming rock face.",
+        "zh": "Glam-riff 原创，作 Eurovision 后流媒体摇滚面孔。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "indie-rock"
+    ],
+    "note": {
+      "en": "Italian glam-garage four via Eurovision and streaming covers.",
+      "zh": "意大利 glam-garage 四人，经 Eurovision 与流媒体翻唱。"
+    }
+  }
+}

@@ -6,9 +6,11 @@ import { motion, useInView } from "framer-motion";
 import { TagPill } from "@/components/TagPill";
 import { PullQuote } from "@/components/PullQuote";
 import { EntityHeroImage } from "@/components/EntityHeroImage";
+import { TrackList } from "@/components/TrackList";
 import { useSound } from "@/components/SoundProvider";
 import { useLocale } from "@/i18n/LocaleProvider";
 import { loc, type Localized } from "@/i18n/config";
+import { getTracksByBand } from "@/lib/audio";
 import type { Band, Genre, StickyVisual } from "@/lib/types";
 
 interface BandNarrativeProps {
@@ -295,6 +297,7 @@ export function BandNarrative({
 }: BandNarrativeProps) {
   const { locale, t } = useLocale();
   const chapters = band.narrative ?? [];
+  const listenTracks = getTracksByBand(band.slug);
   const { playGenre, enabled } = useSound();
   const [activeIdx, setActiveIdx] = useState(0);
   const scrollerRef = useRef<HTMLDivElement>(null);
@@ -514,8 +517,8 @@ export function BandNarrative({
         </aside>
       </div>
 
-      {/* Mobile sticky strip */}
-      <div className="sticky bottom-0 border-t-2 border-ink bg-paper p-3 lg:hidden">
+      {/* Mobile sticky strip — sit above MiniPlayer */}
+      <div className="sticky bottom-20 border-t-2 border-ink bg-paper p-3 lg:hidden">
         {active && (
           <p className="truncate text-sm font-medium">
             {active.stickyVisual === "scene" && band.scenes?.[active.sceneIndex ?? 0]
@@ -524,6 +527,18 @@ export function BandNarrative({
           </p>
         )}
       </div>
+
+      {/* Listen preview queue */}
+      {listenTracks.length > 0 && (
+        <div className="mx-auto max-w-6xl px-4 py-12 sm:px-6">
+          <TrackList
+            tracks={listenTracks}
+            title={t.band.listen}
+            hint={t.band.listenHint}
+            showArtist={false}
+          />
+        </div>
+      )}
 
       {/* Lineup versions */}
       {(band.lineupVersions?.length ?? 0) > 0 && (

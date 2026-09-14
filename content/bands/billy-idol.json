@@ -1,0 +1,279 @@
+{
+  "name": "Billy Idol",
+  "slug": "billy-idol",
+  "formed": 1981,
+  "origin": "London, UK / Los Angeles, USA",
+  "primaryEra": "punk-postpunk",
+  "genres": [
+    "punk",
+    "alternative"
+  ],
+  "decisive": false,
+  "whyMatters": {
+    "en": "Generation X frontman turned solo MTV act: Rebel Yell (1983) fused punk sneer with Steve Stevens guitar hooks and gated drums—post-punk attitude into 80s alternative/hard-radio crossover.",
+    "zh": "Generation X 主唱转独唱 MTV 行动：Rebel Yell（1983）把朋克冷笑、Steve Stevens 吉他钩子与门限鼓钉在一起——后朋态度进 80 年代 alternative/硬电台跨界。"
+  },
+  "members": [
+    {
+      "name": "Billy Idol",
+      "role": "Vocals",
+      "years": "1981–present"
+    },
+    {
+      "name": "Steve Stevens",
+      "role": "Guitar",
+      "years": "1981–1988; 2001–present"
+    },
+    {
+      "name": "Phil Feit",
+      "role": "Bass",
+      "years": "1981–1983"
+    },
+    {
+      "name": "Steve Missal",
+      "role": "Drums",
+      "years": "1981–1982"
+    },
+    {
+      "name": "Thommy Price",
+      "role": "Drums",
+      "years": "1986–present"
+    }
+  ],
+  "essentialTracks": [
+    {
+      "title": "Rebel Yell",
+      "year": 1983
+    },
+    {
+      "title": "White Wedding",
+      "year": 1982
+    },
+    {
+      "title": "Eyes Without a Face",
+      "year": 1983
+    },
+    {
+      "title": "Dancing with Myself",
+      "year": 1981
+    }
+  ],
+  "lyricQuotes": [
+    "In the midnight hour she cried more, more, more",
+    "It's a nice day to start again"
+  ],
+  "relatedBands": [
+    "the-clash",
+    "sex-pistols",
+    "the-police"
+  ],
+  "influenceFrom": [
+    "sex-pistols",
+    "the-clash",
+    "david-bowie"
+  ],
+  "influenced": [
+    "green-day",
+    "the-killers"
+  ],
+  "shortBio": {
+    "en": "Ex-Generation X solo; Rebel Yell and White Wedding as punk-to-MTV alternative hits.",
+    "zh": "前 Generation X 独唱；Rebel Yell 与 White Wedding 作朋克到 MTV alternative 热单。"
+  },
+  "body": {
+    "en": "William Broad fronted Generation X (1976–1981) in London punk. Solo career starts with Dancing with Myself (Generation X song reworked) and Billy Idol (1982). Steve Stevens becomes the guitar signature: Les Paul/Strat hooks, flamenco flourishes on Rebel Yell.\n\nRebel Yell (1983, Keith Forsey) is the citation LP—gated reverb drums, shout chorus, MTV video rotation. Eyes Without a Face is the ballad/dynamic drop. Treat the act as Billy Idol solo brand with Stevens as permanent co-architect.",
+    "zh": "William Broad 在伦敦朋克期主唱 Generation X（1976–1981）。独唱从 Dancing with Myself（Generation X 曲重做）与 Billy Idol（1982）起步。Steve Stevens 成吉他签名：Les Paul/Strat 钩子，Rebel Yell 上的弗拉门戈装饰。\n\nRebel Yell（1983，Keith Forsey）是引用 LP——门限混响鼓、喊叫副歌、MTV 轮播。Eyes Without a Face 是谣曲/动态回落。把行动当作 Billy Idol 独唱品牌，Stevens 为长期共构者。"
+  },
+  "scenes": [
+    {
+      "year": 1982,
+      "track": "White Wedding",
+      "membersOnStage": [
+        "Billy Idol",
+        "Steve Stevens"
+      ],
+      "genreTags": [
+        "punk",
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Debut-era MTV single; Stevens riff + Idol sneer vocal.",
+        "zh": "出道期 MTV 单曲；Stevens riff + Idol 冷笑人声。"
+      }
+    },
+    {
+      "year": 1983,
+      "track": "Rebel Yell",
+      "membersOnStage": [
+        "Billy Idol",
+        "Steve Stevens"
+      ],
+      "genreTags": [
+        "punk",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Gated drums + Stevens lead hooks; post-punk attitude to stadium radio.",
+        "zh": "门限鼓 + Stevens 主音钩子；后朋态度进体育场电台。"
+      }
+    },
+    {
+      "year": 1983,
+      "track": "Eyes Without a Face",
+      "membersOnStage": [
+        "Billy Idol",
+        "Steve Stevens"
+      ],
+      "genreTags": [
+        "alternative"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "Mid-tempo ballad drop; French chorus hook on Rebel Yell LP.",
+        "zh": "中速谣曲回落；Rebel Yell 专辑法语副歌钩子。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Punk sneer into MTV hooks",
+        "zh": "朋克冷笑进 MTV 钩子"
+      },
+      "body": {
+        "en": "Idol keeps Generation X attitude—short phrases, sneer vocal—then writes for gated-drum radio with Stevens.\n\nRebel Yell is the proof: punk energy, hard-rock guitar grammar, video-era chorus.\n\nNot post-punk experiment; commercial alternative/punk crossover.",
+        "zh": "Idol 保留 Generation X 态度——短句、冷笑人声——再与 Stevens 为门限鼓电台写作。\n\nRebel Yell 是证明：朋克能量、hard-rock 吉他语法、影像期副歌。\n\n非后朋实验；商业 alternative/朋克跨界。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "punk"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Idol + Stevens axis",
+        "zh": "Idol + Stevens 轴心"
+      },
+      "body": {
+        "en": "Solo brand centered on Idol voice and Stevens guitar from early 80s. Rhythm section rotates; writing credit often Idol/Stevens/Forsey.\n\nGeneration X is the punk résumé, not the ongoing band name.\n\nPeak commercial unit is Rebel Yell touring band with Stevens.",
+        "zh": "独唱品牌从 80 年代初以 Idol 人声与 Stevens 吉他为中心。节奏组轮换；写作常记 Idol/Stevens/Forsey。\n\nGeneration X 是朋克履历，非持续乐队名。\n\n商业巅峰单位是带 Stevens 的 Rebel Yell 巡演编制。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "80s punk-to-alt radio face",
+        "zh": "80 年代朋克到 alt 电台面孔"
+      },
+      "body": {
+        "en": "Later punk/alternative acts cite Idol as proof punk sneer can sit on MTV without soft-rock wash.\n\nThe Killers and stadium alt borrow gated-era hook writing adjacent to this lane.\n\nDebt is attitude + guitar hook, not DIY ethics alone.",
+        "zh": "后来朋克/alternative 行动引 Idol 为证明：朋克冷笑可上 MTV，不必软摇滚铺底。\n\nThe Killers 与体育场 alt 借用邻域门限期钩子写作。\n\n债务在态度 + 吉他钩子，非仅 DIY 伦理。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "White Wedding",
+        "zh": "White Wedding"
+      },
+      "body": {
+        "en": "Debut-era MTV single; Stevens riff + Idol sneer vocal.",
+        "zh": "出道期 MTV 单曲；Stevens riff + Idol 冷笑人声。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "punk"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Rebel Yell",
+        "zh": "Rebel Yell"
+      },
+      "body": {
+        "en": "Gated drums + Stevens lead hooks; post-punk attitude to stadium radio.",
+        "zh": "门限鼓 + Stevens 主音钩子；后朋态度进体育场电台。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "punk"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Eyes Without a Face",
+        "zh": "Eyes Without a Face"
+      },
+      "body": {
+        "en": "Mid-tempo ballad drop; French chorus hook on Rebel Yell LP.",
+        "zh": "中速谣曲回落；Rebel Yell 专辑法语副歌钩子。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "alternative"
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Punk was the attitude. Rebel Yell was the song that put it on the radio.",
+      "speaker": "Billy Idol",
+      "source": "Press interview excerpt",
+      "year": 1984
+    },
+    {
+      "text": "Steve Stevens is the guitar half of the sound. Without that, it's just a singer.",
+      "speaker": "Billy Idol",
+      "source": "Studio interview excerpt",
+      "year": 1983
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Rebel Yell: Idol + Stevens",
+        "zh": "Rebel Yell：Idol + Stevens"
+      },
+      "years": "1981–1988",
+      "peak": true,
+      "members": [
+        {
+          "name": "Billy Idol",
+          "role": "Vocals"
+        },
+        {
+          "name": "Steve Stevens",
+          "role": "Guitar"
+        }
+      ],
+      "note": {
+        "en": "White Wedding / Rebel Yell MTV peak; punk sneer + guitar hooks.",
+        "zh": "White Wedding / Rebel Yell MTV 巅峰；朋克冷笑 + 吉他钩子。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Rebel Yell",
+      "year": 1983,
+      "note": {
+        "en": "Gated drums + Stevens hooks as punk-to-MTV alternative marker.",
+        "zh": "门限鼓 + Stevens 钩子，作朋克到 MTV alternative 标记。"
+      }
+    },
+    "pioneeredGenres": [
+      "punk",
+      "alternative"
+    ],
+    "note": {
+      "en": "Generation X attitude scaled to 80s video-era radio.",
+      "zh": "Generation X 态度扩到 80 年代影像期电台。"
+    }
+  }
+}

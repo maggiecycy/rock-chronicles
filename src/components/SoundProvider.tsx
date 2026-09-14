@@ -11,6 +11,10 @@ import {
   type ReactNode,
 } from "react";
 import { getGenreSound } from "@/lib/genreSounds";
+import {
+  registerAmbientStop,
+  requestAmbientStart,
+} from "@/lib/playback-mutex";
 
 interface SoundContextValue {
   enabled: boolean;
@@ -56,9 +60,16 @@ export function SoundProvider({ children }: { children: ReactNode }) {
     setActiveGenre(null);
   }, []);
 
+  useEffect(() => {
+    registerAmbientStop(stop);
+    return () => registerAmbientStop(null);
+  }, [stop]);
+
   const playGenre = useCallback(
     (slug: string, intensity: 1 | 2 | 3 = 2) => {
       if (!enabled) return;
+      // Defer mutex so we never setState another provider during render
+      queueMicrotask(() => requestAmbientStart());
       const profile = getGenreSound(slug);
       const ctx = ensureCtx();
       void ctx.resume();
@@ -116,8 +127,13 @@ export function SoundProvider({ children }: { children: ReactNode }) {
 
   const toggle = useCallback(() => {
     setEnabled((prev) => {
-      if (prev) stop();
-      return !prev;
+      const next = !prev;
+      if (prev) {
+        queueMicrotask(() => stop());
+      } else {
+        queueMicrotask(() => requestAmbientStart());
+      }
+      return next;
     });
   }, [stop]);
 
