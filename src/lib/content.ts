@@ -65,11 +65,15 @@ const dbTrope = memoByKeyAsync(getTropeFromDb);
 const dbAllLives = memoAsync(getAllLivesFromDb);
 const dbLive = memoByKeyAsync(getLiveFromDb);
 
-/** Prefer JSON unless CONTENT_SOURCE=database. Local/dev always JSON. */
+/**
+ * Prefer repo JSON unless CONTENT_SOURCE=database.
+ * Editorial source of truth is content/** — production must not silently
+ * serve a stale MySQL snapshot when JSON was updated in git.
+ */
 function preferLocalJson(): boolean {
   if (process.env.CONTENT_SOURCE === "database") return false;
   if (process.env.CONTENT_SOURCE === "json") return true;
-  return process.env.NODE_ENV !== "production";
+  return true;
 }
 
 async function bandFromDbOrJson(slug: string): Promise<Band | undefined> {
