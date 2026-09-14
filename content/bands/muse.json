@@ -48,7 +48,10 @@
       "year": 2006
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Come ride with me / Through the veins of history",
+    "My circuits blown by my mind"
+  ],
   "relatedBands": [
     "radiohead"
   ],
@@ -202,5 +205,66 @@
       "sceneIndex": 2,
       "soundGenre": "progressive-rock"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We steal from Queen and Rachmaninoff without apology.",
+      "speaker": "Matt Bellamy",
+      "source": "Press interview excerpt",
+      "year": 2006
+    },
+    {
+      "text": "The bass has to be as melodic as the vocal or the song collapses.",
+      "speaker": "Chris Wolstenholme",
+      "source": "Bass interview excerpt",
+      "year": 2009
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Stable trio",
+        "zh": "稳定三人组"
+      },
+      "years": "1994–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Matt Bellamy",
+          "role": "Vocals, Guitar, Keys"
+        },
+        {
+          "name": "Chris Wolstenholme",
+          "role": "Bass"
+        },
+        {
+          "name": "Dominic Howard",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Bellamy multi-instrument lead; Wolstenholme bass as counter-melody.",
+        "zh": "Bellamy 多乐器领衔；Wolstenholme 贝斯作对位旋律。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Knights of Cydonia",
+      "year": 2006,
+      "note": {
+        "en": "Surf-riff + synth fanfare as stadium prog-alt set piece.",
+        "zh": "冲浪 riff + 合成号角，体育场 progressive alt 大件。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "progressive-rock"
+    ],
+    "note": {
+      "en": "Arena progressive with falsetto and pedalboard theater.",
+      "zh": "假声 + 效果器剧场的体育场 progressive。"
+    }
+  }
 }

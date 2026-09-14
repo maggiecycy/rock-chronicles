@@ -58,7 +58,10 @@
       "year": 2018
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Danny Nedelko is a refugee / Danny Nedelko is a hard worker",
+    "I'm scum / I'm scum"
+  ],
   "relatedBands": [
     "joy-division"
   ],
@@ -219,5 +222,74 @@
       "sceneIndex": 2,
       "soundGenre": "post-punk"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Vulnerability is not weakness. It's the point of the song.",
+      "speaker": "Joe Talbot",
+      "source": "Press interview excerpt",
+      "year": 2018
+    },
+    {
+      "text": "We play hard so the soft lines land.",
+      "speaker": "Mark Bowen",
+      "source": "Archive interview excerpt",
+      "year": 2019
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Joy as an Act of Resistance five",
+        "zh": "Joy as an Act… 五人"
+      },
+      "years": "2015–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Joe Talbot",
+          "role": "Vocals"
+        },
+        {
+          "name": "Mark Bowen",
+          "role": "Guitar"
+        },
+        {
+          "name": "Lee Kiernan",
+          "role": "Guitar"
+        },
+        {
+          "name": "Adam Devonshire",
+          "role": "Bass"
+        },
+        {
+          "name": "Jon Beavis",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Bristol post-punk; shouted empathy over locked riffs.",
+        "zh": "布里斯托后朋克；锁死 riff 上的喊叫共情。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Danny Nedelko",
+      "year": 2018,
+      "note": {
+        "en": "Immigrant anthem as Idles’ clearest political single.",
+        "zh": "移民颂歌，Idles 最清晰的政治单曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "post-punk",
+      "punk"
+    ],
+    "note": {
+      "en": "Post-punk with pub-chant economy; rage aimed at soft targets of empathy.",
+      "zh": "带酒吧口号经济的后朋克；怒火对准共情议题。"
+    }
+  }
 }

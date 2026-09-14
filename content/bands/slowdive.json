@@ -59,7 +59,10 @@
       "year": 2017
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Alison / I'm lost in your mind",
+    "When the sun hits / I'll let you know"
+  ],
   "relatedBands": [
     "my-bloody-valentine"
   ],
@@ -222,5 +225,73 @@
       "sceneIndex": 2,
       "soundGenre": "shoegaze"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "The volume of the guitars is the lyric.",
+      "speaker": "Neil Halstead",
+      "source": "Press interview excerpt",
+      "year": 1993
+    },
+    {
+      "text": "Shoegaze was a press word. We were just mixing vocals into the amps.",
+      "speaker": "Rachel Goswell",
+      "source": "Archive interview excerpt",
+      "year": 2014
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Souvlaki five",
+        "zh": "Souvlaki 五人"
+      },
+      "years": "1989–1995",
+      "peak": true,
+      "members": [
+        {
+          "name": "Neil Halstead",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Rachel Goswell",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Christian Savill",
+          "role": "Guitar"
+        },
+        {
+          "name": "Nick Chaplin",
+          "role": "Bass"
+        },
+        {
+          "name": "Simon Scott",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Halstead/Goswell dual vocal; Souvlaki as shoegaze core text.",
+        "zh": "Halstead/Goswell 双人声；Souvlaki 为 shoegaze 核心文本。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Alison",
+      "year": 1993,
+      "note": {
+        "en": "Washed vocal + delay as Slowdive’s clearest single face.",
+        "zh": "冲刷人声 + 延时，Slowdive 最清晰的单曲面孔。"
+      }
+    },
+    "pioneeredGenres": [
+      "shoegaze"
+    ],
+    "note": {
+      "en": "Reading shoegaze: beauty as mix decision, not metaphor.",
+      "zh": "读 shoegaze：美是混音决定，不是隐喻。"
+    }
+  }
 }

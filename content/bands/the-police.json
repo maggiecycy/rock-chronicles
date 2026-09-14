@@ -55,8 +55,15 @@
     {
       "year": 1978,
       "track": "Roxanne",
-      "membersOnStage": ["Sting", "Andy Summers", "Stewart Copeland"],
-      "genreTags": ["alternative", "rock-n-roll"],
+      "membersOnStage": [
+        "Sting",
+        "Andy Summers",
+        "Stewart Copeland"
+      ],
+      "genreTags": [
+        "alternative",
+        "rock-n-roll"
+      ],
       "intensity": 2,
       "note": {
         "en": "Reggae upstroke + white-reggae club tension as debut hit.",
@@ -66,8 +73,14 @@
     {
       "year": 1979,
       "track": "Message in a Bottle",
-      "membersOnStage": ["Sting", "Andy Summers", "Stewart Copeland"],
-      "genreTags": ["alternative"],
+      "membersOnStage": [
+        "Sting",
+        "Andy Summers",
+        "Stewart Copeland"
+      ],
+      "genreTags": [
+        "alternative"
+      ],
       "intensity": 2,
       "note": {
         "en": "Summers delay/chorus figure as trio signature.",
@@ -77,8 +90,15 @@
     {
       "year": 1983,
       "track": "Every Breath You Take",
-      "membersOnStage": ["Sting", "Andy Summers", "Stewart Copeland"],
-      "genreTags": ["alternative", "rock-n-roll"],
+      "membersOnStage": [
+        "Sting",
+        "Andy Summers",
+        "Stewart Copeland"
+      ],
+      "genreTags": [
+        "alternative",
+        "rock-n-roll"
+      ],
       "intensity": 2,
       "note": {
         "en": "Synchronicity ballad; Copeland restraint under stalker lyric.",
@@ -92,15 +112,31 @@
       "speaker": "Stewart Copeland",
       "source": "Press interview excerpt",
       "year": 2007
+    },
+    {
+      "text": "Reggae space made the songs breathe. Punk would have filled every gap.",
+      "speaker": "Sting",
+      "source": "Archive interview excerpt",
+      "year": 1983
     }
   ],
   "lyricQuotes": [
     "Roxanne, you don't have to put on the red light",
     "Every breath you take, every move you make"
   ],
-  "relatedBands": ["the-clash", "talking-heads", "the-cure"],
-  "influenceFrom": ["the-beatles", "the-clash"],
-  "influenced": ["the-killers", "coldplay"],
+  "relatedBands": [
+    "the-clash",
+    "talking-heads",
+    "the-cure"
+  ],
+  "influenceFrom": [
+    "the-beatles",
+    "the-clash"
+  ],
+  "influenced": [
+    "the-killers",
+    "coldplay"
+  ],
   "shortBio": {
     "en": "Sting / Summers / Copeland; Every Breath You Take is the mass ballad.",
     "zh": "Sting / Summers / Copeland；Every Breath You Take 是大众谣曲。"
@@ -201,9 +237,21 @@
       "years": "1977–1986",
       "peak": true,
       "members": [
-        { "name": "Sting", "role": "Vocals, Bass", "personSlug": "sting" },
-        { "name": "Andy Summers", "role": "Guitar", "personSlug": "andy-summers" },
-        { "name": "Stewart Copeland", "role": "Drums", "personSlug": "stewart-copeland" }
+        {
+          "name": "Sting",
+          "role": "Vocals, Bass",
+          "personSlug": "sting"
+        },
+        {
+          "name": "Andy Summers",
+          "role": "Guitar",
+          "personSlug": "andy-summers"
+        },
+        {
+          "name": "Stewart Copeland",
+          "role": "Drums",
+          "personSlug": "stewart-copeland"
+        }
       ],
       "note": {
         "en": "Only studio/live peak cast; reunions replay this silhouette.",
@@ -220,7 +268,9 @@
         "zh": "雷鬼上击 new wave 作为朋克相邻榜单热单。"
       }
     },
-    "pioneeredGenres": ["alternative"],
+    "pioneeredGenres": [
+      "alternative"
+    ],
     "note": {
       "en": "Trio reggae/new-wave grammar that scaled to global ballads.",
       "zh": "可放大到全球谣曲的三人雷鬼/new wave 语法。"

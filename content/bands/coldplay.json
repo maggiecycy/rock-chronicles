@@ -53,7 +53,10 @@
       "year": 2008
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Look at the stars / Look how they shine for you",
+    "Lights will guide you home / And ignite your bones"
+  ],
   "relatedBands": [
     "radiohead",
     "blur"
@@ -212,5 +215,69 @@
       "sceneIndex": 2,
       "soundGenre": "alternative"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We're not cool and we know it. We're just trying to write songs that connect.",
+      "speaker": "Chris Martin",
+      "source": "Press interview excerpt",
+      "year": 2002
+    },
+    {
+      "text": "The piano and the delay guitar are the band's signature, not the wardrobe.",
+      "speaker": "Jonny Buckland",
+      "source": "Studio interview excerpt",
+      "year": 2005
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Parachutes–X&Y four",
+        "zh": "Parachutes–X&Y 四人组"
+      },
+      "years": "1996–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Chris Martin",
+          "role": "Vocals, Piano"
+        },
+        {
+          "name": "Jonny Buckland",
+          "role": "Guitar"
+        },
+        {
+          "name": "Guy Berryman",
+          "role": "Bass"
+        },
+        {
+          "name": "Will Champion",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Stable four; stadium alt-rock built on delay guitar and piano.",
+        "zh": "稳定四人；延时吉他 + 钢琴撑起体育场 alternative。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Yellow",
+      "year": 2000,
+      "note": {
+        "en": "Delay guitar + falsetto as early-2000s UK alt radio face.",
+        "zh": "延时吉他 + 假声，作为 2000 年代初英国 alt 电台面孔。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative"
+    ],
+    "note": {
+      "en": "Piano/delay ballad grammar that later arenas copy at scale.",
+      "zh": "钢琴/延时谣曲语法，后来被体育场规模复制。"
+    }
+  }
 }

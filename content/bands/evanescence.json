@@ -58,7 +58,10 @@
       "year": 2006
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Wake me up inside / Call my name and save me from the dark",
+    "I'm so tired of being here / Suppressed by all my childish fears"
+  ],
   "relatedBands": [
     "nirvana",
     "the-cure"
@@ -219,5 +222,69 @@
       "sceneIndex": 2,
       "soundGenre": "heavy-metal"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "The piano and the scream belong in the same arrangement.",
+      "speaker": "Amy Lee",
+      "source": "Press interview excerpt",
+      "year": 2003
+    },
+    {
+      "text": "Bring Me to Life opened doors we couldn't close.",
+      "speaker": "Ben Moody",
+      "source": "Archive interview excerpt",
+      "year": 2004
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Fallen early lineup",
+        "zh": "Fallen 早期阵容"
+      },
+      "years": "2002–2003",
+      "peak": true,
+      "members": [
+        {
+          "name": "Amy Lee",
+          "role": "Vocals, Piano"
+        },
+        {
+          "name": "Ben Moody",
+          "role": "Guitar"
+        },
+        {
+          "name": "Rocky Gray",
+          "role": "Drums"
+        },
+        {
+          "name": "John LeCompt",
+          "role": "Guitar"
+        }
+      ],
+      "note": {
+        "en": "Moody co-write era; Fallen as mainstream gothic-alt breakthrough.",
+        "zh": "Moody 共写期；Fallen 作为主流哥特 alt 突破。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Bring Me to Life",
+      "year": 2003,
+      "note": {
+        "en": "Piano verse / nu-metal chorus as early-2000s chart hybrid.",
+        "zh": "钢琴主歌 / nu-metal 副歌，2000 年代初榜单混种。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative"
+    ],
+    "note": {
+      "en": "Gothic piano + distorted chorus; radio face of Fallen.",
+      "zh": "哥特钢琴 + 失真副歌；Fallen 的电台面孔。"
+    }
+  }
 }

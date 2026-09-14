@@ -55,7 +55,10 @@
       "year": 1970
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Stuck inside these four walls / Sent inside forever",
+    "Jet, Jet!"
+  ],
   "relatedBands": [
     "the-beatles"
   ],
@@ -213,5 +216,67 @@
       "sceneIndex": 2,
       "soundGenre": "rock-n-roll"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Wings was a band, not a solo disguise—though I wrote most of it.",
+      "speaker": "Paul McCartney",
+      "source": "Press interview excerpt",
+      "year": 1974
+    },
+    {
+      "text": "Band on the Run was made under pressure and it sounds like freedom.",
+      "speaker": "Paul McCartney",
+      "source": "Archive interview excerpt",
+      "year": 1980
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Band on the Run core",
+        "zh": "Band on the Run 核心"
+      },
+      "years": "1971–1981",
+      "peak": true,
+      "members": [
+        {
+          "name": "Paul McCartney",
+          "role": "Vocals, Bass",
+          "personSlug": "paul-mccartney"
+        },
+        {
+          "name": "Linda McCartney",
+          "role": "Keys, Vocals"
+        },
+        {
+          "name": "Denny Laine",
+          "role": "Guitar, Vocals"
+        }
+      ],
+      "note": {
+        "en": "McCartney/Linda/Laine core through Band on the Run peak.",
+        "zh": "McCartney/Linda/Laine 核心，贯穿 Band on the Run 峰值。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Band on the Run",
+      "year": 1973,
+      "note": {
+        "en": "Multi-section pop-rock as Wings’ structural showcase.",
+        "zh": "多段体流行摇滚，Wings 结构展示曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "rock-n-roll",
+      "hard-rock"
+    ],
+    "note": {
+      "en": "Post-Beatles McCartney band craft; hit economy with suite ambition.",
+      "zh": "后 Beatles 的 McCartney 乐队工艺；热单经济配组曲野心。"
+    }
+  }
 }

@@ -276,11 +276,13 @@
         },
         {
           "name": "Cliff Williams",
-          "role": "Bass"
+          "role": "Bass",
+          "personSlug": "cliff-williams"
         },
         {
           "name": "Phil Rudd",
-          "role": "Drums"
+          "role": "Drums",
+          "personSlug": "phil-rudd"
         }
       ],
       "note": {
@@ -314,11 +316,13 @@
         },
         {
           "name": "Cliff Williams",
-          "role": "Bass"
+          "role": "Bass",
+          "personSlug": "cliff-williams"
         },
         {
           "name": "Phil Rudd",
-          "role": "Drums"
+          "role": "Drums",
+          "personSlug": "phil-rudd"
         }
       ],
       "note": {

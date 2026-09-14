@@ -54,7 +54,10 @@
       "year": 2005
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Svefn-g-englar",
+    "Hoppípolla"
+  ],
   "relatedBands": [
     "radiohead"
   ],
@@ -212,5 +215,70 @@
       "sceneIndex": 2,
       "soundGenre": "progressive-rock"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Hopelandic is a way to sing without dictionary meaning.",
+      "speaker": "Jónsi",
+      "source": "Press interview excerpt",
+      "year": 1999
+    },
+    {
+      "text": "The bow on the guitar is just another way to sustain.",
+      "speaker": "Jónsi",
+      "source": "Archive interview excerpt",
+      "year": 2005
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Ágætis byrjun / Takk… core",
+        "zh": "Ágætis byrjun / Takk… 核心"
+      },
+      "years": "1999–2013",
+      "peak": true,
+      "members": [
+        {
+          "name": "Jónsi",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Georg Hólm",
+          "role": "Bass"
+        },
+        {
+          "name": "Orri Páll Dýrason",
+          "role": "Drums"
+        },
+        {
+          "name": "Kjartan Sveinsson",
+          "role": "Keys"
+        }
+      ],
+      "note": {
+        "en": "Falsetto + bowed guitar; Icelandic post-rock cinema sound.",
+        "zh": "假声 + 弓拉吉他；冰岛 post-rock 影像声。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Svefn-g-englar",
+      "year": 1999,
+      "note": {
+        "en": "Bowed guitar + falsetto as Sigur Rós’ breakthrough texture.",
+        "zh": "弓拉吉他 + 假声，Sigur Rós 突破织体。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "progressive-rock"
+    ],
+    "note": {
+      "en": "Post-rock without English lyric pressure; atmosphere as structure.",
+      "zh": "无英语歌词压力的 post-rock；氛围即结构。"
+    }
+  }
 }

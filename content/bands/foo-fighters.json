@@ -60,7 +60,10 @@
       "year": 2005
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Hello / I've waited here for you / Everlong",
+    "Is someone getting the best, the best, the best, the best of you?"
+  ],
   "relatedBands": [
     "nirvana",
     "them-crooked-vultures",
@@ -226,5 +229,75 @@
       "sceneIndex": 2,
       "soundGenre": "hard-rock"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I started the Foos to keep playing after Nirvana. It became a real band.",
+      "speaker": "Dave Grohl",
+      "source": "Press interview excerpt",
+      "year": 1997
+    },
+    {
+      "text": "Taylor made the band swing harder live than the records suggested.",
+      "speaker": "Nate Mendel",
+      "source": "Archive interview excerpt",
+      "year": 2011
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Hawkins peak era",
+        "zh": "Hawkins 巅峰期"
+      },
+      "years": "1997–2022",
+      "peak": true,
+      "members": [
+        {
+          "name": "Dave Grohl",
+          "role": "Vocals, Guitar",
+          "personSlug": "dave-grohl"
+        },
+        {
+          "name": "Nate Mendel",
+          "role": "Bass"
+        },
+        {
+          "name": "Pat Smear",
+          "role": "Guitar",
+          "personSlug": "pat-smear"
+        },
+        {
+          "name": "Taylor Hawkins",
+          "role": "Drums"
+        },
+        {
+          "name": "Chris Shiflett",
+          "role": "Guitar"
+        }
+      ],
+      "note": {
+        "en": "Hawkins drums + Smear/Shiflett guitars; arena alt-rock core.",
+        "zh": "Hawkins 鼓 + Smear/Shiflett 吉他；体育场 alt-rock 核心。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Everlong",
+      "year": 1997,
+      "note": {
+        "en": "Double-tracked vocal + open-chord drive as Foos signature.",
+        "zh": "双轨人声 + 开放和弦推进，作为 Foos 标志曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative"
+    ],
+    "note": {
+      "en": "Post-Nirvana guitar band that outgrew demo origins into stadium craft.",
+      "zh": "Nirvana 之后的吉他乐队，从 demo 长成体育场工艺。"
+    }
+  }
 }

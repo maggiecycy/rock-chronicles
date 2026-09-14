@@ -57,7 +57,10 @@
       "year": 1990
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Raining blood from a lacerated sky",
+    "Auschwitz, the meaning of pain"
+  ],
   "relatedBands": [
     "metallica",
     "megadeth",
@@ -218,5 +221,69 @@
       "sceneIndex": 2,
       "soundGenre": "thrash-metal"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Speed is a weapon. Clarity is the hard part.",
+      "speaker": "Kerry King",
+      "source": "Guitar interview excerpt",
+      "year": 1986
+    },
+    {
+      "text": "Angel of Death is history lesson and assault at once.",
+      "speaker": "Tom Araya",
+      "source": "Press interview excerpt",
+      "year": 1987
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Lombardo classic four",
+        "zh": "Lombardo 经典四人"
+      },
+      "years": "1983–1992; 2006–2013",
+      "peak": true,
+      "members": [
+        {
+          "name": "Tom Araya",
+          "role": "Vocals, Bass"
+        },
+        {
+          "name": "Kerry King",
+          "role": "Guitar"
+        },
+        {
+          "name": "Jeff Hanneman",
+          "role": "Guitar"
+        },
+        {
+          "name": "Dave Lombardo",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Hanneman/King dual guitar; Lombardo double-kick engine.",
+        "zh": "Hanneman/King 双吉他；Lombardo 双踩引擎。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Raining Blood",
+      "year": 1986,
+      "note": {
+        "en": "Intro noise into thrash riff as Reign in Blood summit.",
+        "zh": "噪声前奏进 thrash riff，Reign in Blood 顶点。"
+      }
+    },
+    "pioneeredGenres": [
+      "thrash-metal"
+    ],
+    "note": {
+      "en": "West Coast thrash extremity; short songs, maximum density.",
+      "zh": "西海岸 thrash 极端；短曲、最大密度。"
+    }
+  }
 }

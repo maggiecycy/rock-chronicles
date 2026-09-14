@@ -59,7 +59,10 @@
       "year": 2011
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Mogwai fear Satan",
+    "My father my king"
+  ],
   "relatedBands": [],
   "influenceFrom": [
     "sonic-youth",
@@ -218,5 +221,74 @@
       "sceneIndex": 2,
       "soundGenre": "progressive-rock"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Quiet is a weapon. Loud is the answer.",
+      "speaker": "Stuart Braithwaite",
+      "source": "Press interview excerpt",
+      "year": 1997
+    },
+    {
+      "text": "We named songs like jokes so the music wouldn't have to be funny.",
+      "speaker": "Stuart Braithwaite",
+      "source": "Archive interview · quote wall",
+      "year": 2001
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Classic Glasgow five",
+        "zh": "格拉斯哥经典五人"
+      },
+      "years": "1995–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Stuart Braithwaite",
+          "role": "Guitar"
+        },
+        {
+          "name": "John Cummings",
+          "role": "Guitar"
+        },
+        {
+          "name": "Dominic Aitchison",
+          "role": "Bass"
+        },
+        {
+          "name": "Martin Bulloch",
+          "role": "Drums"
+        },
+        {
+          "name": "Barry Burns",
+          "role": "Keys, Guitar"
+        }
+      ],
+      "note": {
+        "en": "Glasgow post-rock; soft-loud as primary form.",
+        "zh": "格拉斯哥 post-rock；强弱对比即主要曲式。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Mogwai Fear Satan",
+      "year": 1997,
+      "note": {
+        "en": "Long soft-loud arc as UK post-rock citation.",
+        "zh": "长段强弱弧，英国 post-rock 引用曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "progressive-rock"
+    ],
+    "note": {
+      "en": "Instrumental dynamics school; humor in titles, severity in volume.",
+      "zh": "器乐动态课；曲名幽默、音量严厉。"
+    }
+  }
 }

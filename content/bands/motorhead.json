@@ -62,7 +62,10 @@
       "year": 1984
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "The pleasure is to play, makes no difference what you say",
+    "Born to lose / Live to win"
+  ],
   "relatedBands": [
     "judas-priest",
     "metallica",
@@ -225,5 +228,66 @@
   "alsoAppearsIn": [
     "1970s-prog-hard-rock",
     "punk-postpunk"
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We are Motörhead. And we play rock and roll.",
+      "speaker": "Lemmy Kilmister",
+      "source": "Stage / press credo · quote wall",
+      "year": 1980
+    },
+    {
+      "text": "If it has a Motörhead sticker, it goes faster.",
+      "speaker": "Lemmy Kilmister",
+      "source": "Press interview excerpt",
+      "year": 1995
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Classic three: Lemmy / Fast Eddie / Philthy",
+        "zh": "经典三人：Lemmy / Fast Eddie / Philthy"
+      },
+      "years": "1976–1982",
+      "peak": true,
+      "members": [
+        {
+          "name": "Lemmy Kilmister",
+          "role": "Bass, Vocals"
+        },
+        {
+          "name": "Fast Eddie Clarke",
+          "role": "Guitar"
+        },
+        {
+          "name": "Phil Taylor",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Ace of Spades / Overkill era; speed as metal and punk bridge.",
+        "zh": "Ace of Spades / Overkill 期；速度作金属与朋克桥。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Ace of Spades",
+      "year": 1980,
+      "note": {
+        "en": "Gambling riff + Lemmy bark as Motörhead’s permanent ID.",
+        "zh": "赌博 riff + Lemmy 吼叫，Motörhead 永久身份标识。"
+      }
+    },
+    "pioneeredGenres": [
+      "heavy-metal",
+      "hard-rock"
+    ],
+    "note": {
+      "en": "Bass-as-rhythm guitar; volume as ideology.",
+      "zh": "贝斯当节奏吉他；音量即意识形态。"
+    }
+  }
 }

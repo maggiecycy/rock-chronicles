@@ -53,7 +53,10 @@
       "year": 2001
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "I cry when angels deserve to die",
+    "More, give me more / Give me more"
+  ],
   "relatedBands": [
     "linkin-park",
     "tool",
@@ -214,5 +217,70 @@
       "sceneIndex": 2,
       "soundGenre": "heavy-metal"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Odd time and odd politics belong in the same verse.",
+      "speaker": "Serj Tankian",
+      "source": "Press interview excerpt",
+      "year": 2001
+    },
+    {
+      "text": "We jump styles inside a song because boredom is the enemy.",
+      "speaker": "Daron Malakian",
+      "source": "Guitar interview excerpt",
+      "year": 2002
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Toxicity classic four",
+        "zh": "Toxicity 经典四人"
+      },
+      "years": "1997–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Serj Tankian",
+          "role": "Vocals"
+        },
+        {
+          "name": "Daron Malakian",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "Shavo Odadjian",
+          "role": "Bass"
+        },
+        {
+          "name": "John Dolmayan",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Armenian-American alt-metal; stop-start riffs + dual vocal.",
+        "zh": "亚美尼亚裔美式 alt-metal；断续 riff + 双人声。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Chop Suey!",
+      "year": 2001,
+      "note": {
+        "en": "Tempo flip + screamed bridge as Toxicity’s radio shock.",
+        "zh": "速度翻转 + 嘶吼桥段，Toxicity 的电台冲击。"
+      }
+    },
+    "pioneeredGenres": [
+      "heavy-metal",
+      "alternative"
+    ],
+    "note": {
+      "en": "Nu-adjacent metal with folk/odd-meter DNA; politics in plain speech.",
+      "zh": "邻 nu-metal 的金属，带民谣/奇数拍 DNA；政治用直白说话。"
+    }
+  }
 }

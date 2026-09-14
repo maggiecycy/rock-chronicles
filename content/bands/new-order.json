@@ -51,7 +51,10 @@
       "year": 1987
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "How does it feel / To treat me like you do",
+    "Every time I see you falling / I get down on my knees and pray"
+  ],
   "relatedBands": [
     "joy-division",
     "depeche-mode"
@@ -214,5 +217,72 @@
       "sceneIndex": 2,
       "soundGenre": "new-wave"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "After Joy Division we had to dance or die.",
+      "speaker": "Bernard Sumner",
+      "source": "Press interview excerpt",
+      "year": 1983
+    },
+    {
+      "text": "Blue Monday was a machine we barely understood—and it worked.",
+      "speaker": "Stephen Morris",
+      "source": "Archive interview excerpt",
+      "year": 1988
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Classic four with Gilbert",
+        "zh": "含 Gilbert 的经典四人"
+      },
+      "years": "1980–2001",
+      "peak": true,
+      "members": [
+        {
+          "name": "Bernard Sumner",
+          "role": "Vocals, Guitar",
+          "personSlug": "bernard-sumner"
+        },
+        {
+          "name": "Peter Hook",
+          "role": "Bass",
+          "personSlug": "peter-hook"
+        },
+        {
+          "name": "Stephen Morris",
+          "role": "Drums"
+        },
+        {
+          "name": "Gillian Gilbert",
+          "role": "Keys"
+        }
+      ],
+      "note": {
+        "en": "Gilbert keys lock Factory dance-rock; Hook high bass lines.",
+        "zh": "Gilbert 键盘锁定 Factory 舞曲摇滚；Hook 高音贝斯线。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Blue Monday",
+      "year": 1983,
+      "note": {
+        "en": "Sequencer + Hook bass as post-punk into club citation.",
+        "zh": "音序器 + Hook 贝斯，后朋克进入俱乐部的引用点。"
+      }
+    },
+    "pioneeredGenres": [
+      "new-wave",
+      "post-punk"
+    ],
+    "note": {
+      "en": "Joy Division aftermath as dancefloor architecture.",
+      "zh": "Joy Division 余波变成舞池建筑。"
+    }
+  }
 }

@@ -58,7 +58,10 @@
       "year": 1995
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "I wanna live with common people like you",
+    "Oh it's a miracle / Let it happen but not to me"
+  ],
   "relatedBands": [
     "blur",
     "oasis"
@@ -220,5 +223,77 @@
       "sceneIndex": 2,
       "soundGenre": "britpop"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Common People is a class song disguised as a disco single.",
+      "speaker": "Jarvis Cocker",
+      "source": "Press interview excerpt",
+      "year": 1995
+    },
+    {
+      "text": "We spent years being unfashionable. Then fashion caught up.",
+      "speaker": "Candida Doyle",
+      "source": "Archive interview excerpt",
+      "year": 1996
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Different Class peak",
+        "zh": "Different Class 巅峰"
+      },
+      "years": "1994–1997",
+      "peak": true,
+      "members": [
+        {
+          "name": "Jarvis Cocker",
+          "role": "Vocals"
+        },
+        {
+          "name": "Candida Doyle",
+          "role": "Keys"
+        },
+        {
+          "name": "Steve Mackey",
+          "role": "Bass"
+        },
+        {
+          "name": "Mark Webber",
+          "role": "Guitar"
+        },
+        {
+          "name": "Nick Banks",
+          "role": "Drums"
+        },
+        {
+          "name": "Russell Senior",
+          "role": "Guitar, Violin"
+        }
+      ],
+      "note": {
+        "en": "Cocker narration + Doyle keys; Britpop’s observational wing.",
+        "zh": "Cocker 叙事 + Doyle 键盘；Britpop 观察派。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Common People",
+      "year": 1995,
+      "note": {
+        "en": "Class satire over motorik pulse as Britpop counter-anthem.",
+        "zh": "阶级讽刺压在 motorik 脉冲上，Britpop 反颂歌。"
+      }
+    },
+    "pioneeredGenres": [
+      "britpop"
+    ],
+    "note": {
+      "en": "Sheffield art-school Britpop; lyric as social report.",
+      "zh": "谢菲尔德艺术学校 Britpop；歌词当社会报道。"
+    }
+  }
 }

@@ -47,7 +47,10 @@
       "year": 2009
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "New fang, new fang / Got it in my mouth",
+    "Mind eraser, no chaser"
+  ],
   "relatedBands": [
     "foo-fighters",
     "led-zeppelin",
@@ -207,5 +210,69 @@
       "sceneIndex": 2,
       "soundGenre": "hard-rock"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "It's three people who already know how to finish each other's riffs.",
+      "speaker": "Josh Homme",
+      "source": "Press interview excerpt",
+      "year": 2009
+    },
+    {
+      "text": "John Paul Jones made the low end feel like arrangement, not just bass.",
+      "speaker": "Dave Grohl",
+      "source": "Archive interview excerpt",
+      "year": 2010
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Supergroup trio",
+        "zh": "超级组合三人"
+      },
+      "years": "2009–2010",
+      "peak": true,
+      "members": [
+        {
+          "name": "Josh Homme",
+          "role": "Vocals, Guitar",
+          "personSlug": "josh-homme"
+        },
+        {
+          "name": "John Paul Jones",
+          "role": "Bass, Keys",
+          "personSlug": "john-paul-jones"
+        },
+        {
+          "name": "Dave Grohl",
+          "role": "Drums",
+          "personSlug": "dave-grohl"
+        }
+      ],
+      "note": {
+        "en": "Homme/Jones/Grohl one-album hard-rock summit.",
+        "zh": "Homme/Jones/Grohl 一张专的 hard-rock 高峰。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "New Fang",
+      "year": 2009,
+      "note": {
+        "en": "Stop-start riff as Vultures’ debut single stamp.",
+        "zh": "断续 riff，Vultures 出道单曲戳记。"
+      }
+    },
+    "pioneeredGenres": [
+      "hard-rock",
+      "alternative"
+    ],
+    "note": {
+      "en": "Desert rock meets Zeppelin arranging instincts.",
+      "zh": "沙漠摇滚遇上 Zeppelin 编曲本能。"
+    }
+  }
 }

@@ -53,7 +53,10 @@
       "year": 1999
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Fuck you, I won't do what you tell me",
+    "Weapons not food, not homes, not shoes / Not need, just feed the war cannibal animal"
+  ],
   "relatedBands": [
     "tool",
     "linkin-park",
@@ -216,5 +219,70 @@
       "sceneIndex": 2,
       "soundGenre": "alternative"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "The guitar is a DJ. The riff is a breakbeat.",
+      "speaker": "Tom Morello",
+      "source": "Guitar interview excerpt",
+      "year": 1992
+    },
+    {
+      "text": "Anger is a fuel. Organization is the engine.",
+      "speaker": "Zack de la Rocha",
+      "source": "Press interview excerpt",
+      "year": 1996
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Classic four",
+        "zh": "经典四人组"
+      },
+      "years": "1991–2000",
+      "peak": true,
+      "members": [
+        {
+          "name": "Zack de la Rocha",
+          "role": "Vocals"
+        },
+        {
+          "name": "Tom Morello",
+          "role": "Guitar"
+        },
+        {
+          "name": "Tim Commerford",
+          "role": "Bass"
+        },
+        {
+          "name": "Brad Wilk",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Morello FX as turntablism; de la Rocha as political lead.",
+        "zh": "Morello 效果器当唱盘；de la Rocha 政治主唱。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Killing in the Name",
+      "year": 1992,
+      "note": {
+        "en": "Build-to-shout structure as protest-rock teaching track.",
+        "zh": "堆叠到怒吼的结构，抗议摇滚教学曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "hard-rock"
+    ],
+    "note": {
+      "en": "Rap-metal without DJ; politics as lyric default.",
+      "zh": "无 DJ 的 rap-metal；政治作歌词默认。"
+    }
+  }
 }

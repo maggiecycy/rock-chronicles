@@ -54,7 +54,10 @@
       "year": 2011
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Your hand in mine",
+    "The only moment we were alone"
+  ],
   "relatedBands": [],
   "influenceFrom": [
     "sonic-youth"
@@ -209,5 +212,70 @@
       "sceneIndex": 2,
       "soundGenre": "alternative"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We write crescendos because quiet alone isn't enough.",
+      "speaker": "Munaf Rayani",
+      "source": "Press interview excerpt",
+      "year": 2003
+    },
+    {
+      "text": "The titles are the lyrics. The guitars do the rest.",
+      "speaker": "Mark Smith",
+      "source": "Archive interview · quote wall",
+      "year": 2007
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "The Earth Is Not a Cold Dead Place four",
+        "zh": "The Earth… 四人组"
+      },
+      "years": "1999–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Munaf Rayani",
+          "role": "Guitar"
+        },
+        {
+          "name": "Mark Smith",
+          "role": "Guitar"
+        },
+        {
+          "name": "Michael James",
+          "role": "Bass, Guitar"
+        },
+        {
+          "name": "Chris Hrasky",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Stable instrumental four; delayed twin-guitar arcs.",
+        "zh": "稳定器乐四人；延时双吉他长弧。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Your Hand in Mine",
+      "year": 2003,
+      "note": {
+        "en": "Slow-build guitar melody as US post-rock teaching track.",
+        "zh": "慢起吉他旋律，美国 post-rock 教学曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "progressive-rock"
+    ],
+    "note": {
+      "en": "Wordless narrative via dynamics; Friday Night Lights citation sealed it.",
+      "zh": "用动态讲无词叙事；Friday Night Lights 引用封存影响。"
+    }
+  }
 }

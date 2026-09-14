@@ -92,10 +92,17 @@
       "speaker": "Pete Townshend",
       "source": "Interview excerpt",
       "year": 1970
+    },
+    {
+      "text": "Keith played the drums like a lead instrument. We arranged around that.",
+      "speaker": "Pete Townshend",
+      "source": "Archive interview excerpt",
+      "year": 1971
     }
   ],
   "lyricQuotes": [
-    "I hope I die before I get old"
+    "I hope I die before I get old",
+    "People try to put us d-down / Just because we get around"
   ],
   "relatedBands": [
     "the-beatles",
@@ -204,5 +211,38 @@
       "en": "Power-chord violence + rock-opera ambition in one band DNA.",
       "zh": "强力和弦暴力与摇滚歌剧野心同体。"
     }
-  }
+  },
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Classic four",
+        "zh": "经典四人组"
+      },
+      "years": "1964–1978",
+      "peak": true,
+      "members": [
+        {
+          "name": "Roger Daltrey",
+          "role": "Vocals"
+        },
+        {
+          "name": "Pete Townshend",
+          "role": "Guitar"
+        },
+        {
+          "name": "John Entwistle",
+          "role": "Bass"
+        },
+        {
+          "name": "Keith Moon",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Townshend windmill + Moon lead drums; Entwistle as melodic bass.",
+        "zh": "Townshend 风车 + Moon 主奏式鼓；Entwistle 旋律贝斯。"
+      }
+    }
+  ]
 }

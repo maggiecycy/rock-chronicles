@@ -62,7 +62,10 @@
       "year": 1979
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "I'm a man on the silver mountain",
+    "Look into the purple sky / Where the horses ride"
+  ],
   "relatedBands": [
     "deep-purple",
     "black-sabbath"
@@ -225,5 +228,76 @@
       "sceneIndex": 2,
       "soundGenre": "heavy-metal"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Dio brought mythology. I brought the riffs.",
+      "speaker": "Ritchie Blackmore",
+      "source": "Press interview excerpt",
+      "year": 1976
+    },
+    {
+      "text": "Stargazer was the ceiling of what that lineup could do.",
+      "speaker": "Ronnie James Dio",
+      "source": "Archive interview excerpt",
+      "year": 1986
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Dio / Blackmore / Powell era",
+        "zh": "Dio / Blackmore / Powell 时期"
+      },
+      "years": "1975–1979",
+      "peak": true,
+      "members": [
+        {
+          "name": "Ritchie Blackmore",
+          "role": "Guitar",
+          "personSlug": "ritchie-blackmore"
+        },
+        {
+          "name": "Ronnie James Dio",
+          "role": "Vocals",
+          "personSlug": "ronnie-james-dio"
+        },
+        {
+          "name": "Cozy Powell",
+          "role": "Drums"
+        },
+        {
+          "name": "Jimmy Bain",
+          "role": "Bass"
+        },
+        {
+          "name": "Tony Carey",
+          "role": "Keys"
+        }
+      ],
+      "note": {
+        "en": "Rising / Long Live Rock 'n' Roll mythic hard rock.",
+        "zh": "Rising / Long Live Rock 'n' Roll 神话 hard rock。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Man on the Silver Mountain",
+      "year": 1975,
+      "note": {
+        "en": "Open-chord anthem as Rainbow’s early signature.",
+        "zh": "开放和弦颂歌，Rainbow 早期标志。"
+      }
+    },
+    "pioneeredGenres": [
+      "heavy-metal",
+      "hard-rock"
+    ],
+    "note": {
+      "en": "Deep Purple exit into fantasy-metal with Dio’s range.",
+      "zh": "离开 Deep Purple 进入幻想金属，靠 Dio 音域。"
+    }
+  }
 }

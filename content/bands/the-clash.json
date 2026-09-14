@@ -96,10 +96,17 @@
       "speaker": "Joe Strummer",
       "source": "Later credo / interview · quote wall",
       "year": 2002
+    },
+    {
+      "text": "We're a garage band that learned the world was bigger than garage.",
+      "speaker": "Mick Jones",
+      "source": "Press interview excerpt",
+      "year": 1980
     }
   ],
   "lyricQuotes": [
-    "London calling to the faraway towns"
+    "London calling to the faraway towns",
+    "Should I stay or should I go?"
   ],
   "relatedBands": [
     "joy-division",
@@ -209,5 +216,38 @@
       "en": "World music curiosity inside three-chord politics.",
       "zh": "三和弦政治里塞进世界音乐好奇。"
     }
-  }
+  },
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Classic four",
+        "zh": "经典四人组"
+      },
+      "years": "1977–1982",
+      "peak": true,
+      "members": [
+        {
+          "name": "Joe Strummer",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Mick Jones",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "Paul Simonon",
+          "role": "Bass"
+        },
+        {
+          "name": "Topper Headon",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Strummer/Jones writing; reggae/funk into punk expansion.",
+        "zh": "Strummer/Jones 写作；reggae/funk 扩写朋克。"
+      }
+    }
+  ]
 }

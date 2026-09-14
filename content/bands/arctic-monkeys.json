@@ -230,5 +230,38 @@
       "en": "Internet word-of-mouth becomes a chart machine.",
       "zh": "网络口碑变成榜单机器。"
     }
-  }
+  },
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Whatever People Say / AM four",
+        "zh": "Whatever People Say / AM 四人"
+      },
+      "years": "2002–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Alex Turner",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Jamie Cook",
+          "role": "Guitar"
+        },
+        {
+          "name": "Nick O'Malley",
+          "role": "Bass"
+        },
+        {
+          "name": "Matt Helders",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Sheffield indie to desert-rock polish; O’Malley locked after early churn.",
+        "zh": "谢菲尔德 indie 到沙漠摇滚抛光；早期更替后 O’Malley 锁定。"
+      }
+    }
+  ]
 }

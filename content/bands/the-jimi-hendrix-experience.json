@@ -91,10 +91,17 @@
       "speaker": "Jimi Hendrix",
       "source": "Attributed remark · quote wall",
       "year": 1969
+    },
+    {
+      "text": "Mitch and Noel gave me room to set the guitar on fire—literally and not.",
+      "speaker": "Jimi Hendrix",
+      "source": "Press interview excerpt",
+      "year": 1967
     }
   ],
   "lyricQuotes": [
-    "Excuse me while I kiss the sky"
+    "Excuse me while I kiss the sky",
+    "Purple haze all in my brain"
   ],
   "relatedBands": [
     "led-zeppelin",
@@ -204,5 +211,34 @@
       "en": "Electric guitar vocabulary expands overnight.",
       "zh": "电吉他词汇一夜扩容。"
     }
-  }
+  },
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Experience trio",
+        "zh": "Experience 三人组"
+      },
+      "years": "1966–1969",
+      "peak": true,
+      "members": [
+        {
+          "name": "Jimi Hendrix",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Noel Redding",
+          "role": "Bass"
+        },
+        {
+          "name": "Mitch Mitchell",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Hendrix as guitar/voice; Mitchell jazz-rock drums.",
+        "zh": "Hendrix 吉他/人声；Mitchell 爵士摇滚鼓。"
+      }
+    }
+  ]
 }

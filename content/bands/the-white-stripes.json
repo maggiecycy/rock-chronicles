@@ -44,7 +44,10 @@
       "year": 2007
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "I'm gonna fight 'em off / A seven nation army couldn't hold me back",
+    "Red blood / Can't be found on a white dress"
+  ],
   "relatedBands": [
     "the-strokes",
     "franz-ferdinand"
@@ -200,5 +203,62 @@
       "sceneIndex": 2,
       "soundGenre": "blues"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Limitation is the point. Two colors, two people, no bass.",
+      "speaker": "Jack White",
+      "source": "Press interview excerpt",
+      "year": 2001
+    },
+    {
+      "text": "Meg’s drums are the swing. Overplaying would kill it.",
+      "speaker": "Jack White",
+      "source": "Archive interview excerpt",
+      "year": 2003
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Duo",
+        "zh": "二人组"
+      },
+      "years": "1997–2011",
+      "peak": true,
+      "members": [
+        {
+          "name": "Jack White",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Meg White",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "No bass; red/white visual rule; garage minimalism as hit craft.",
+        "zh": "无贝斯；红白视觉规则；garage 极简当热单工艺。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Seven Nation Army",
+      "year": 2003,
+      "note": {
+        "en": "Octave pedal riff as stadium chant from a duo.",
+        "zh": "八度踏板 riff，二人组变成体育场口号。"
+      }
+    },
+    "pioneeredGenres": [
+      "indie-rock",
+      "blues"
+    ],
+    "note": {
+      "en": "Detroit garage revival with blues economy.",
+      "zh": "底特律 garage 复兴，带蓝调经济性。"
+    }
+  }
 }

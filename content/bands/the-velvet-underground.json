@@ -58,7 +58,10 @@
       "year": 1970
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Heroin, be the death of me / Heroin, it's my wife and it's my life",
+    "Severin, Severin / Speak so slightly"
+  ],
   "relatedBands": [
     "the-doors",
     "david-bowie",
@@ -224,5 +227,70 @@
       "sceneIndex": 2,
       "soundGenre": "alternative"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We were the band that sold records that other bands bought.",
+      "speaker": "Lou Reed",
+      "source": "Press interview excerpt · quote wall",
+      "year": 1987
+    },
+    {
+      "text": "The drone is the harmony. Everything else is commentary.",
+      "speaker": "John Cale",
+      "source": "Archive interview excerpt",
+      "year": 1990
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Banana album four + Nico era",
+        "zh": "香蕉专辑四人 + Nico 期"
+      },
+      "years": "1965–1968",
+      "peak": true,
+      "members": [
+        {
+          "name": "Lou Reed",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "John Cale",
+          "role": "Viola, Bass, Keys"
+        },
+        {
+          "name": "Sterling Morrison",
+          "role": "Guitar"
+        },
+        {
+          "name": "Moe Tucker",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Cale drone/viola era; Warhol orbit, street lyric realism.",
+        "zh": "Cale 持续音/中提琴期；Warhol 轨道，街头写实歌词。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Heroin",
+      "year": 1967,
+      "note": {
+        "en": "Accelerating drone form as art-rock / proto-punk teaching piece.",
+        "zh": "加速持续音曲式，art-rock / proto-punk 教学曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "post-punk"
+    ],
+    "note": {
+      "en": "NYC art-rock before punk vocabulary existed.",
+      "zh": "朋克词汇出现前的纽约 art-rock。"
+    }
+  }
 }

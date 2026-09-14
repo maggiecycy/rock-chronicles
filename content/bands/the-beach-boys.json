@@ -58,7 +58,10 @@
       "year": 1963
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "God only knows what I'd be without you",
+    "Wouldn't it be nice if we were older"
+  ],
   "relatedBands": [
     "the-beatles",
     "the-who"
@@ -222,5 +225,74 @@
       "sceneIndex": 2,
       "soundGenre": "psychedelic"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I wanted to write a teenage symphony to God.",
+      "speaker": "Brian Wilson",
+      "source": "Archive interview · quote wall",
+      "year": 1966
+    },
+    {
+      "text": "Good Vibrations was modular. We built it in pieces.",
+      "speaker": "Brian Wilson",
+      "source": "Studio interview excerpt",
+      "year": 1976
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Pet Sounds / Smile Brian-led",
+        "zh": "Pet Sounds / Smile Brian 主导"
+      },
+      "years": "1965–1967",
+      "peak": true,
+      "members": [
+        {
+          "name": "Brian Wilson",
+          "role": "Vocals, Bass, Production"
+        },
+        {
+          "name": "Mike Love",
+          "role": "Vocals"
+        },
+        {
+          "name": "Carl Wilson",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Dennis Wilson",
+          "role": "Vocals, Drums"
+        },
+        {
+          "name": "Al Jardine",
+          "role": "Vocals, Guitar"
+        }
+      ],
+      "note": {
+        "en": "Brian studio auteur era; harmonic ceilings for pop.",
+        "zh": "Brian 录音室作者期；流行和声天花板。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Good Vibrations",
+      "year": 1966,
+      "note": {
+        "en": "Modular sections + electro-theremin as pop studio summit.",
+        "zh": "模块段落 + electro-theremin，流行录音室顶点。"
+      }
+    },
+    "pioneeredGenres": [
+      "rock-n-roll",
+      "psychedelic"
+    ],
+    "note": {
+      "en": "California harmony pop into psychedelic studio craft.",
+      "zh": "加州和声流行进入迷幻录音室工艺。"
+    }
+  }
 }

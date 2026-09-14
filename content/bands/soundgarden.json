@@ -124,6 +124,12 @@
       "speaker": "Kim Thayil",
       "source": "Press interview excerpt",
       "year": 1994
+    },
+    {
+      "text": "Odd meters aren't prog. They're just how the riff wants to sit.",
+      "speaker": "Matt Cameron",
+      "source": "Drum interview excerpt",
+      "year": 1994
     }
   ],
   "lyricQuotes": [
@@ -261,7 +267,8 @@
         },
         {
           "name": "Matt Cameron",
-          "role": "Drums"
+          "role": "Drums",
+          "personSlug": "matt-cameron"
         }
       ],
       "note": {

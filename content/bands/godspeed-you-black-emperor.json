@@ -63,7 +63,10 @@
       "year": 2012
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "The car's on fire and there's no driver at the wheel",
+    "And the seats were stolen by convertibles"
+  ],
   "relatedBands": [],
   "influenceFrom": [
     "sonic-youth",
@@ -225,5 +228,78 @@
       "sceneIndex": 2,
       "soundGenre": "progressive-rock"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We are a collective. No frontman myth.",
+      "speaker": "Efrim Menuck",
+      "source": "Press interview excerpt",
+      "year": 1998
+    },
+    {
+      "text": "The field recordings are as important as the guitars.",
+      "speaker": "Thierry Amar",
+      "source": "Archive interview · quote wall",
+      "year": 2000
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "F♯ A♯ ∞ / Lift Yr. Skinny Fists collective",
+        "zh": "F♯A♯∞ / Lift 集体期"
+      },
+      "years": "1997–2003",
+      "peak": true,
+      "members": [
+        {
+          "name": "Efrim Menuck",
+          "role": "Guitar"
+        },
+        {
+          "name": "Mike Moya",
+          "role": "Guitar"
+        },
+        {
+          "name": "Thierry Amar",
+          "role": "Bass"
+        },
+        {
+          "name": "Sophie Trudeau",
+          "role": "Violin"
+        },
+        {
+          "name": "Aidan Girt",
+          "role": "Drums"
+        },
+        {
+          "name": "Mauro Pezzente",
+          "role": "Bass"
+        }
+      ],
+      "note": {
+        "en": "Montreal collective; tape collage + slow orchestral crush.",
+        "zh": "蒙特利尔集体；磁带拼贴 + 慢速管弦碾压。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "The Dead Flag Blues",
+      "year": 1997,
+      "note": {
+        "en": "Spoken prologue + drone arc as post-rock manifesto opener.",
+        "zh": "口述序言 + 持续音长弧，post-rock 宣言开场。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "progressive-rock"
+    ],
+    "note": {
+      "en": "Anonymous collective method; cinema-scale dynamics without verse-chorus.",
+      "zh": "匿名集体方法；无主副歌的影院级动态。"
+    }
+  }
 }

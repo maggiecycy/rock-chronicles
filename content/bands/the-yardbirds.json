@@ -62,7 +62,10 @@
       "year": 1966
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "For your love / I'd give the moon and the stars above",
+    "Shapes of things before my eyes / Just teach me to despise"
+  ],
   "relatedBands": [
     "cream",
     "led-zeppelin",
@@ -228,5 +231,74 @@
       "sceneIndex": 2,
       "soundGenre": "psychedelic"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "The rave-ups were arranged chaos. That was the lesson.",
+      "speaker": "Jeff Beck",
+      "source": "Press interview excerpt",
+      "year": 1966
+    },
+    {
+      "text": "Shapes of Things was feedback as composition.",
+      "speaker": "Jeff Beck",
+      "source": "Guitar interview excerpt",
+      "year": 1967
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Jeff Beck peak",
+        "zh": "Jeff Beck 巅峰期"
+      },
+      "years": "1965–1966",
+      "peak": true,
+      "members": [
+        {
+          "name": "Keith Relf",
+          "role": "Vocals, Harmonica"
+        },
+        {
+          "name": "Jeff Beck",
+          "role": "Guitar"
+        },
+        {
+          "name": "Chris Dreja",
+          "role": "Guitar, Bass"
+        },
+        {
+          "name": "Jim McCarty",
+          "role": "Drums"
+        },
+        {
+          "name": "Paul Samwell-Smith",
+          "role": "Bass"
+        }
+      ],
+      "note": {
+        "en": "Beck between Clapton and Page; fuzz and feedback as pop singles.",
+        "zh": "Beck 介于 Clapton 与 Page；fuzz 与反馈当作流行单曲。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Shapes of Things",
+      "year": 1966,
+      "note": {
+        "en": "Feedback solo as psychedelic guitar pop citation.",
+        "zh": "反馈独奏，迷幻吉他流行引用点。"
+      }
+    },
+    "pioneeredGenres": [
+      "blues",
+      "rock-n-roll"
+    ],
+    "note": {
+      "en": "Blues-rock finishing school for Clapton/Beck/Page lineage.",
+      "zh": "Clapton/Beck/Page 谱系的蓝调摇滚进修学校。"
+    }
+  }
 }

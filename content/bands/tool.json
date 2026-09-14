@@ -57,7 +57,10 @@
       "year": 2019
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "I know the pieces fit / 'Cause I watched them fall away",
+    "Black then white are all I see / In my infancy"
+  ],
   "relatedBands": [
     "nine-inch-nails",
     "rage-against-the-machine",
@@ -219,5 +222,70 @@
       "sceneIndex": 2,
       "soundGenre": "progressive-rock"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "The odd times aren't math homework. They're grooves that lean.",
+      "speaker": "Danny Carey",
+      "source": "Drum interview excerpt",
+      "year": 2001
+    },
+    {
+      "text": "We leave space. That silence is part of the riff.",
+      "speaker": "Adam Jones",
+      "source": "Guitar interview excerpt",
+      "year": 2001
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Chancellor classic four",
+        "zh": "Chancellor 经典四人"
+      },
+      "years": "1995–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Maynard James Keenan",
+          "role": "Vocals"
+        },
+        {
+          "name": "Adam Jones",
+          "role": "Guitar"
+        },
+        {
+          "name": "Justin Chancellor",
+          "role": "Bass"
+        },
+        {
+          "name": "Danny Carey",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Chancellor replaces Keenan-era early bass; Lateralus peak form.",
+        "zh": "Chancellor 接替早期贝斯；Lateralus 峰值形态。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Schism",
+      "year": 2001,
+      "note": {
+        "en": "5/8–7/8 bass figure as progressive-metal radio anomaly.",
+        "zh": "5/8–7/8 贝斯型，progressive metal 电台异数。"
+      }
+    },
+    "pioneeredGenres": [
+      "progressive-rock",
+      "alternative"
+    ],
+    "note": {
+      "en": "Art-metal with video and polyrhythm as equal pillars.",
+      "zh": "艺术金属；影像与复节奏同等支柱。"
+    }
+  }
 }

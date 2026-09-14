@@ -72,10 +72,17 @@
       "speaker": "Chuck Berry",
       "source": "Interview excerpt",
       "year": 1987
+    },
+    {
+      "text": "If you can play the duck walk and the double-stops, you've got the show.",
+      "speaker": "Chuck Berry",
+      "source": "Archive interview · quote wall",
+      "year": 1972
     }
   ],
   "lyricQuotes": [
-    "Go, Johnny, go"
+    "Go, Johnny, go",
+    "Hail, hail rock and roll / Deliver me from the days of old"
   ],
   "relatedBands": [
     "elvis-presley",
@@ -182,5 +189,38 @@
       "en": "Duck-walk riffs made rock portable and teachable.",
       "zh": "鸭步 riff 让摇滚变得可携带、可传授。"
     }
-  }
+  },
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Chuck + classic rock and roll band",
+        "zh": "Chuck + 经典摇滚乐队"
+      },
+      "years": "1955–1965",
+      "peak": true,
+      "members": [
+        {
+          "name": "Chuck Berry",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Johnnie Johnson",
+          "role": "Piano"
+        },
+        {
+          "name": "Willie Dixon",
+          "role": "Bass"
+        },
+        {
+          "name": "Ebby Hardy",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Berry as front + Chicago session rhythm; double-stop guitar school.",
+        "zh": "Berry 前台 + 芝加哥录音室节奏段；双音吉他课。"
+      }
+    }
+  ]
 }

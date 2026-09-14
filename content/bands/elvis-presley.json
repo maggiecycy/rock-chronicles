@@ -70,10 +70,17 @@
       "speaker": "Elvis Presley",
       "source": "Widely cited remark · quote wall",
       "year": 1957
+    },
+    {
+      "text": "Rhythm is something you either have or don't have.",
+      "speaker": "Elvis Presley",
+      "source": "Press interview excerpt",
+      "year": 1956
     }
   ],
   "lyricQuotes": [
-    "You ain't nothin' but a hound dog"
+    "You ain't nothin' but a hound dog",
+    "Wise men say / Only fools rush in"
   ],
   "relatedBands": [
     "chuck-berry",
@@ -179,5 +186,38 @@
       "en": "Not the inventor of the sound—but the mass-media ignition.",
       "zh": "未必发明音色，却点燃了大众媒介。"
     }
-  }
+  },
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Sun / early RCA + TCB orbit",
+        "zh": "Sun / 早期 RCA + TCB 轨道"
+      },
+      "years": "1954–1958",
+      "peak": true,
+      "members": [
+        {
+          "name": "Elvis Presley",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Scotty Moore",
+          "role": "Guitar"
+        },
+        {
+          "name": "Bill Black",
+          "role": "Bass"
+        },
+        {
+          "name": "D.J. Fontana",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Moore/Black/Fontana as rockabilly engine behind the voice.",
+        "zh": "Moore/Black/Fontana 作人声背后的 rockabilly 引擎。"
+      }
+    }
+  ]
 }

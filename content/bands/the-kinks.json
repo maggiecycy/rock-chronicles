@@ -53,7 +53,10 @@
       "year": 1970
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Girl, you really got me going / You got me so I don't know what I'm doing",
+    "Dirty old river, must you keep rolling / Flowing into the night"
+  ],
   "relatedBands": [
     "the-who",
     "the-beatles"
@@ -214,5 +217,70 @@
       "sceneIndex": 2,
       "soundGenre": "rock-n-roll"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "You Really Got Me was distortion as a song idea, not an effect.",
+      "speaker": "Dave Davies",
+      "source": "Guitar interview excerpt",
+      "year": 1964
+    },
+    {
+      "text": "English life is enough material. You don't need mythology.",
+      "speaker": "Ray Davies",
+      "source": "Press interview excerpt",
+      "year": 1967
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Davies brothers classic",
+        "zh": "Davies 兄弟经典期"
+      },
+      "years": "1964–1968",
+      "peak": true,
+      "members": [
+        {
+          "name": "Ray Davies",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Dave Davies",
+          "role": "Guitar"
+        },
+        {
+          "name": "Pete Quaife",
+          "role": "Bass"
+        },
+        {
+          "name": "Mick Avory",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Power-chord invention into village-green English songwriting.",
+        "zh": "Power chord 发明走进村绿英伦写歌。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "You Really Got Me",
+      "year": 1964,
+      "note": {
+        "en": "Slashed amp riff as hard-rock proto-citation.",
+        "zh": "划破音箱的 riff，hard-rock 原型引用。"
+      }
+    },
+    "pioneeredGenres": [
+      "rock-n-roll",
+      "hard-rock"
+    ],
+    "note": {
+      "en": "British Invasion power chords into observational English rock.",
+      "zh": "英伦入侵 power chord 走进观察式英伦摇滚。"
+    }
+  }
 }

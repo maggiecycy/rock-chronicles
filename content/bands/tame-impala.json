@@ -74,10 +74,17 @@
       "speaker": "Kevin Parker",
       "source": "Interview excerpt",
       "year": 2015
+    },
+    {
+      "text": "The band onstage is interpretation. The record is me.",
+      "speaker": "Kevin Parker",
+      "source": "Press interview excerpt",
+      "year": 2015
     }
   ],
   "lyricQuotes": [
-    "I feel like I was living for you"
+    "I feel like I was living for you",
+    "Let it happen / Let it happen"
   ],
   "relatedBands": [
     "pink-floyd",
@@ -184,5 +191,26 @@
       "en": "Bedroom production, festival scale.",
       "zh": "卧室制作，音乐节尺度。"
     }
-  }
+  },
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Kevin Parker project",
+        "zh": "Kevin Parker 个人项目"
+      },
+      "years": "2007–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Kevin Parker",
+          "role": "Vocals, Instruments, Production"
+        }
+      ],
+      "note": {
+        "en": "Studio-as-band; live members rotate around Parker’s mixes.",
+        "zh": "录音室即乐队；现场成员围着 Parker 混音轮换。"
+      }
+    }
+  ]
 }

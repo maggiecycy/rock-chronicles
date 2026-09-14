@@ -58,7 +58,10 @@
       "year": 2005
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "I want to fuck you like an animal",
+    "I hurt myself today / To see if I still feel"
+  ],
   "relatedBands": [
     "depeche-mode",
     "tool",
@@ -215,5 +218,58 @@
       "sceneIndex": 2,
       "soundGenre": "alternative"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Nine Inch Nails is me in a room with machines until it hurts.",
+      "speaker": "Trent Reznor",
+      "source": "Press interview excerpt",
+      "year": 1994
+    },
+    {
+      "text": "The live band is interpretation. The record is the score.",
+      "speaker": "Trent Reznor",
+      "source": "Studio interview excerpt",
+      "year": 1999
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Downward Spiral studio / self",
+        "zh": "Downward Spiral 录音室/本人"
+      },
+      "years": "1988–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Trent Reznor",
+          "role": "Vocals, Instruments, Production"
+        }
+      ],
+      "note": {
+        "en": "Reznor as primary author; live band rotates around the catalog.",
+        "zh": "Reznor 为主要作者；现场乐队围着目录轮换。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Closer",
+      "year": 1994,
+      "note": {
+        "en": "Kick-drum loop + censored hook as industrial crossover.",
+        "zh": "底鼓 loop + 被审查的钩子，工业出圈曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "hard-rock"
+    ],
+    "note": {
+      "en": "Industrial pop craft; self-as-band authorship model.",
+      "zh": "工业流行工艺；本人即乐队的作者模型。"
+    }
+  }
 }

@@ -63,7 +63,10 @@
       "year": 2000
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "I tried so hard and got so far / But in the end it doesn't even matter",
+    "I've become so numb / I can't feel you there"
+  ],
   "relatedBands": [
     "system-of-a-down",
     "deftones",
@@ -231,5 +234,78 @@
       "sceneIndex": 2,
       "soundGenre": "alternative"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Mike writes the architecture. I scream the fracture.",
+      "speaker": "Chester Bennington",
+      "source": "Press interview excerpt",
+      "year": 2001
+    },
+    {
+      "text": "Nu-metal was a lane. We treated it as a studio problem.",
+      "speaker": "Mike Shinoda",
+      "source": "Studio interview excerpt",
+      "year": 2003
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Hybrid Theory / Meteora six",
+        "zh": "Hybrid Theory / Meteora 六人"
+      },
+      "years": "1999–2017",
+      "peak": true,
+      "members": [
+        {
+          "name": "Chester Bennington",
+          "role": "Vocals"
+        },
+        {
+          "name": "Mike Shinoda",
+          "role": "Vocals, Samples"
+        },
+        {
+          "name": "Brad Delson",
+          "role": "Guitar"
+        },
+        {
+          "name": "Rob Bourdon",
+          "role": "Drums"
+        },
+        {
+          "name": "Joe Hahn",
+          "role": "Turntables"
+        },
+        {
+          "name": "Dave Farrell",
+          "role": "Bass"
+        }
+      ],
+      "note": {
+        "en": "Bennington/Shinoda dual vocal; Hahn scratch as texture.",
+        "zh": "Bennington/Shinoda 双人声；Hahn 刮擦作织体。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "In the End",
+      "year": 2000,
+      "note": {
+        "en": "Piano loop + rap/sung trade as Hybrid Theory teaching single.",
+        "zh": "钢琴 loop + 说唱/唱腔交替，Hybrid Theory 教学单曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "heavy-metal"
+    ],
+    "note": {
+      "en": "Rap-rock polish with pop chorus economy; early-2000s chart metal.",
+      "zh": "带流行副歌经济的 rap-rock 抛光；2000 年代初榜单金属。"
+    }
+  }
 }

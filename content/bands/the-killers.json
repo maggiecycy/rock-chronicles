@@ -53,7 +53,10 @@
       "year": 2008
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "It started out with a kiss / How did it end up like this?",
+    "I got soul but I'm not a soldier"
+  ],
   "relatedBands": [
     "the-strokes",
     "interpol"
@@ -214,5 +217,70 @@
       "sceneIndex": 2,
       "soundGenre": "alternative"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Mr. Brightside is jealousy with a synth hook.",
+      "speaker": "Brandon Flowers",
+      "source": "Press interview excerpt",
+      "year": 2004
+    },
+    {
+      "text": "We wanted New Wave volume with Springsteen melodrama.",
+      "speaker": "Brandon Flowers",
+      "source": "Archive interview excerpt",
+      "year": 2006
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Hot Fuss original four",
+        "zh": "Hot Fuss 原班四人"
+      },
+      "years": "2001–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Brandon Flowers",
+          "role": "Vocals, Keys"
+        },
+        {
+          "name": "Dave Keuning",
+          "role": "Guitar"
+        },
+        {
+          "name": "Mark Stoermer",
+          "role": "Bass"
+        },
+        {
+          "name": "Ronnie Vannucci Jr.",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Las Vegas new-wave revival; Keuning riff era.",
+        "zh": "拉斯维加斯新浪潮复兴；Keuning riff 期。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Mr. Brightside",
+      "year": 2004,
+      "note": {
+        "en": "Open-hat drive + jealousy lyric as 2000s indie radio permanent.",
+        "zh": "开踩镲推进 + 嫉妒歌词，2000 年代 indie 电台常驻。"
+      }
+    },
+    "pioneeredGenres": [
+      "indie-rock",
+      "alternative"
+    ],
+    "note": {
+      "en": "Synth-led indie into arena; Flowers as dramatic front.",
+      "zh": "合成器 indie 进体育场；Flowers 作戏剧前台。"
+    }
+  }
 }

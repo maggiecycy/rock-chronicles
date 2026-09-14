@@ -53,7 +53,10 @@
       "year": 2008
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "I lay my love on you",
+    "You know that I could use somebody"
+  ],
   "relatedBands": [
     "the-strokes",
     "arctic-monkeys"
@@ -211,5 +214,70 @@
       "sceneIndex": 2,
       "soundGenre": "indie-rock"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We started Southern and ended up on stadium radio.",
+      "speaker": "Caleb Followill",
+      "source": "Press interview excerpt",
+      "year": 2008
+    },
+    {
+      "text": "Sex on Fire was the song that changed the rooms we played.",
+      "speaker": "Nathan Followill",
+      "source": "Archive interview excerpt",
+      "year": 2009
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Followill four",
+        "zh": "Followill 四人组"
+      },
+      "years": "1999–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Caleb Followill",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Nathan Followill",
+          "role": "Drums"
+        },
+        {
+          "name": "Jared Followill",
+          "role": "Bass"
+        },
+        {
+          "name": "Matthew Followill",
+          "role": "Guitar"
+        }
+      ],
+      "note": {
+        "en": "Family four; Only by the Night as mainstream peak.",
+        "zh": "家族四人；Only by the Night 为主流峰值。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Sex on Fire",
+      "year": 2008,
+      "note": {
+        "en": "Open-chord hook as late-2000s alt-radio anthem.",
+        "zh": "开放和弦钩子，2000 年代末 alt 电台颂歌。"
+      }
+    },
+    "pioneeredGenres": [
+      "indie-rock",
+      "alternative"
+    ],
+    "note": {
+      "en": "Southern indie to arena alt; family band as brand.",
+      "zh": "南方 indie 到体育场 alt；家族乐队即品牌。"
+    }
+  }
 }

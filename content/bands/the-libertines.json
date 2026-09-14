@@ -53,7 +53,10 @@
       "year": 2002
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "There are fewer more distressing sights than that / Of an Englishman in a baseball cap",
+    "Don't look back into the sun"
+  ],
   "relatedBands": [
     "the-strokes",
     "arctic-monkeys"
@@ -215,5 +218,70 @@
       "sceneIndex": 2,
       "soundGenre": "indie-rock"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We were a gang that happened to write songs.",
+      "speaker": "Pete Doherty",
+      "source": "Press interview excerpt",
+      "year": 2003
+    },
+    {
+      "text": "Carl kept the tunes standing when everything else fell over.",
+      "speaker": "John Hassall",
+      "source": "Archive interview excerpt",
+      "year": 2004
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Original four",
+        "zh": "原班四人"
+      },
+      "years": "1997–2004",
+      "peak": true,
+      "members": [
+        {
+          "name": "Pete Doherty",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Carl Barât",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "John Hassall",
+          "role": "Bass"
+        },
+        {
+          "name": "Gary Powell",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Barât/Doherty dual front; UK garage-indie chaos as method.",
+        "zh": "Barât/Doherty 双前台；英国 garage-indie 混乱即方法。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Time for Heroes",
+      "year": 2002,
+      "note": {
+        "en": "Sloppy-tight riff as Libertines’ early manifesto single.",
+        "zh": "松紧并存的 riff，Libertines 早期宣言单曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "indie-rock",
+      "punk"
+    ],
+    "note": {
+      "en": "Post-Strokes UK answer: romance, mess, dual vocals.",
+      "zh": "Strokes 之后的英国回应：浪漫、狼狈、双人声。"
+    }
+  }
 }

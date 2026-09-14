@@ -53,7 +53,10 @@
       "year": 1992
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "I'm the man in the box / Buried in my shit",
+    "Into the flood again / Same old trip it was back then"
+  ],
   "relatedBands": [
     "soundgarden",
     "pearl-jam",
@@ -217,5 +220,70 @@
       "sceneIndex": 2,
       "soundGenre": "grunge"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We never set out to be a grunge band. We were just a rock band from Seattle.",
+      "speaker": "Jerry Cantrell",
+      "source": "Press interview excerpt",
+      "year": 1992
+    },
+    {
+      "text": "I was using drugs to hide from life, and music was my way out.",
+      "speaker": "Layne Staley",
+      "source": "Archive interview · quote wall",
+      "year": 1996
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Dirt / Facelift classic four",
+        "zh": "Dirt / Facelift 经典四人"
+      },
+      "years": "1987–1993",
+      "peak": true,
+      "members": [
+        {
+          "name": "Jerry Cantrell",
+          "role": "Guitar, Vocals",
+          "personSlug": "jerry-cantrell"
+        },
+        {
+          "name": "Layne Staley",
+          "role": "Vocals"
+        },
+        {
+          "name": "Mike Starr",
+          "role": "Bass"
+        },
+        {
+          "name": "Sean Kinney",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Cantrell riffs + Staley harmony; Starr era through Dirt.",
+        "zh": "Cantrell riff + Staley 和声；Starr 时代贯穿 Dirt。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Man in the Box",
+      "year": 1990,
+      "note": {
+        "en": "Talk-box hook and dropped-tuned grind as AiC radio entry.",
+        "zh": "Talk-box 钩子与降调碾压，AiC 电台入口。"
+      }
+    },
+    "pioneeredGenres": [
+      "grunge"
+    ],
+    "note": {
+      "en": "Seattle metal-leaning grunge; harmony vocals over sludge riffs.",
+      "zh": "偏金属的西雅图 grunge；淤泥 riff 上的和声人声。"
+    }
+  }
 }

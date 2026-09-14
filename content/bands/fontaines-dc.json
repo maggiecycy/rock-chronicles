@@ -100,10 +100,17 @@
       "speaker": "Grian Chatten",
       "source": "Interview paraphrase",
       "year": 2020
+    },
+    {
+      "text": "The poems have to survive the volume.",
+      "speaker": "Grian Chatten",
+      "source": "Press interview excerpt",
+      "year": 2022
     }
   ],
   "lyricQuotes": [
-    "I was started in the better land"
+    "I was started in the better land",
+    "A hero's death / Is only for the brave"
   ],
   "relatedBands": [
     "joy-division",
@@ -211,5 +218,42 @@
       "en": "Proof the post-punk wire still carries current.",
       "zh": "证明 post-punk 的线仍有电流。"
     }
-  }
+  },
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Dogrel / A Hero's Death five",
+        "zh": "Dogrel / A Hero's Death 五人"
+      },
+      "years": "2017–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Grian Chatten",
+          "role": "Vocals"
+        },
+        {
+          "name": "Carlos O'Connell",
+          "role": "Guitar"
+        },
+        {
+          "name": "Conor Curley",
+          "role": "Guitar"
+        },
+        {
+          "name": "Conor Deegan III",
+          "role": "Bass"
+        },
+        {
+          "name": "Tom Coll",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Dublin post-punk; Chatten baritone over locked twin guitars.",
+        "zh": "都柏林后朋克；Chatten 男中音压在锁死双吉他上。"
+      }
+    }
+  ]
 }

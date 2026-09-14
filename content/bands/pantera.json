@@ -57,7 +57,10 @@
       "year": 1994
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Can't you see I'm easily bothered by the way",
+    "Out of my way / Out of my day"
+  ],
   "relatedBands": [
     "metallica",
     "slayer",
@@ -219,5 +222,70 @@
       "sceneIndex": 2,
       "soundGenre": "heavy-metal"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We tuned down and hit harder. That was the whole thesis.",
+      "speaker": "Dimebag Darrell",
+      "source": "Guitar interview excerpt",
+      "year": 1992
+    },
+    {
+      "text": "Walk is a groove, not a thrash race.",
+      "speaker": "Phil Anselmo",
+      "source": "Press interview excerpt",
+      "year": 1993
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Cowboys / Vulgar classic four",
+        "zh": "Cowboys / Vulgar 经典四人"
+      },
+      "years": "1987–2003",
+      "peak": true,
+      "members": [
+        {
+          "name": "Phil Anselmo",
+          "role": "Vocals"
+        },
+        {
+          "name": "Dimebag Darrell",
+          "role": "Guitar"
+        },
+        {
+          "name": "Rex Brown",
+          "role": "Bass"
+        },
+        {
+          "name": "Vinnie Paul",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Abbott brothers rhythm + Anselmo bark; groove metal template.",
+        "zh": "Abbott 兄弟节奏段 + Anselmo 吼；groove metal 模板。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Walk",
+      "year": 1992,
+      "note": {
+        "en": "Mid-tempo groove riff as Pantera’s teaching track.",
+        "zh": "中速 groove riff，Pantera 教学曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "thrash-metal",
+      "heavy-metal"
+    ],
+    "note": {
+      "en": "Thrash speed discarded for swing weight; Southern metal reset.",
+      "zh": "丢掉 thrash 竞速换摇摆重量；南方金属重置。"
+    }
+  }
 }

@@ -50,7 +50,10 @@
       "year": 1967
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "It's getting near dawn / When lights close their tired eyes",
+    "In the white room with black curtains near the station"
+  ],
   "relatedBands": [
     "the-yardbirds",
     "led-zeppelin",
@@ -210,5 +213,67 @@
       "sceneIndex": 2,
       "soundGenre": "blues"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "It was three virtuosos trying not to step on each other—and often failing gloriously.",
+      "speaker": "Eric Clapton",
+      "source": "Archive interview excerpt",
+      "year": 1990
+    },
+    {
+      "text": "We were a blues band that got too loud and too long.",
+      "speaker": "Jack Bruce",
+      "source": "Press interview excerpt",
+      "year": 2005
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Classic power trio",
+        "zh": "经典三人组"
+      },
+      "years": "1966–1968",
+      "peak": true,
+      "members": [
+        {
+          "name": "Eric Clapton",
+          "role": "Guitar",
+          "personSlug": "eric-clapton"
+        },
+        {
+          "name": "Jack Bruce",
+          "role": "Bass, Vocals"
+        },
+        {
+          "name": "Ginger Baker",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Clapton/Bruce/Baker: blues volume + improvisation as hard-rock template.",
+        "zh": "Clapton/Bruce/Baker：蓝调音量 + 即兴，硬摇滚模板。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Sunshine of Your Love",
+      "year": 1967,
+      "note": {
+        "en": "Descending riff + Baker tom pattern as power-trio citation.",
+        "zh": "下行 riff + Baker 通鼓型，作为 power trio 引用曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "blues",
+      "hard-rock"
+    ],
+    "note": {
+      "en": "Short-lived trio; long shadow on heavy blues and jam rock.",
+      "zh": "短命三人组；对重金属蓝调与 jam rock 阴影很长。"
+    }
+  }
 }

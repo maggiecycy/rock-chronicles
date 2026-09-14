@@ -53,7 +53,10 @@
       "year": 1994
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "I wanna be adored",
+    "The past was yours / But the future's mine"
+  ],
   "relatedBands": [
     "oasis",
     "blur"
@@ -215,5 +218,70 @@
       "sceneIndex": 2,
       "soundGenre": "hard-rock"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We wanted to be the best band since The Beatles—and say it out loud.",
+      "speaker": "Ian Brown",
+      "source": "Press interview excerpt",
+      "year": 1989
+    },
+    {
+      "text": "The drums have to swing like dance music or it isn't Madchester.",
+      "speaker": "Reni",
+      "source": "Archive interview excerpt",
+      "year": 1990
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Classic four",
+        "zh": "经典四人组"
+      },
+      "years": "1984–1996",
+      "peak": true,
+      "members": [
+        {
+          "name": "Ian Brown",
+          "role": "Vocals"
+        },
+        {
+          "name": "John Squire",
+          "role": "Guitar"
+        },
+        {
+          "name": "Mani",
+          "role": "Bass"
+        },
+        {
+          "name": "Reni",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Squire jangle + Reni swing; debut album as Madchester peak text.",
+        "zh": "Squire 铃响吉他 + Reni 摇摆；首专即 Madchester 峰值文本。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "I Wanna Be Adored",
+      "year": 1989,
+      "note": {
+        "en": "Bass-led opener as Stone Roses identity stamp.",
+        "zh": "贝斯领衔开场，Stone Roses 身份戳记。"
+      }
+    },
+    "pioneeredGenres": [
+      "indie-rock",
+      "alternative"
+    ],
+    "note": {
+      "en": "Baggy jeans indie into dance-rock; confidence as lyric posture.",
+      "zh": "宽松牛仔裤 indie 进舞曲摇滚；自信作歌词姿态。"
+    }
+  }
 }

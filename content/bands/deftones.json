@@ -58,7 +58,10 @@
       "year": 1997
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "I dig through the ditches / And burn through the witches",
+    "I felt this coming from miles away"
+  ],
   "relatedBands": [
     "tool",
     "linkin-park",
@@ -222,5 +225,74 @@
       "sceneIndex": 2,
       "soundGenre": "alternative"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We're not nu-metal. We just got filed next to it.",
+      "speaker": "Chino Moreno",
+      "source": "Press interview excerpt",
+      "year": 2000
+    },
+    {
+      "text": "The heavy parts and the pretty parts have to live in the same song.",
+      "speaker": "Stephen Carpenter",
+      "source": "Guitar interview excerpt",
+      "year": 2003
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "White Pony era",
+        "zh": "White Pony 时期"
+      },
+      "years": "1999–2008",
+      "peak": true,
+      "members": [
+        {
+          "name": "Chino Moreno",
+          "role": "Vocals"
+        },
+        {
+          "name": "Stephen Carpenter",
+          "role": "Guitar"
+        },
+        {
+          "name": "Abe Cunningham",
+          "role": "Drums"
+        },
+        {
+          "name": "Chi Cheng",
+          "role": "Bass"
+        },
+        {
+          "name": "Frank Delgado",
+          "role": "Turntables, Samples"
+        }
+      ],
+      "note": {
+        "en": "Cheng bass era; Delgado textures locked on White Pony.",
+        "zh": "Cheng 贝斯时代；Delgado 织体在 White Pony 锁定。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Change (In the House of Flies)",
+      "year": 2000,
+      "note": {
+        "en": "Whisper-to-crush dynamic as Deftones crossover single.",
+        "zh": "耳语到碾压的动态，作为 Deftones 出圈单曲。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "heavy-metal"
+    ],
+    "note": {
+      "en": "Alternative metal with shoegaze hush; not rap-rock default.",
+      "zh": "带 shoegaze 低语的 alternative metal；不是 rap-rock 默认。"
+    }
+  }
 }

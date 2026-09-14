@@ -60,7 +60,10 @@
       "year": 2017
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "We get some rules to follow / That and this, these and those",
+    "I want something good to die for / To make it beautiful to live"
+  ],
   "relatedBands": [
     "them-crooked-vultures",
     "foo-fighters"
@@ -221,5 +224,72 @@
       "sceneIndex": 2,
       "soundGenre": "hard-rock"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "The riff has to hypnotize before it rocks.",
+      "speaker": "Josh Homme",
+      "source": "Press interview excerpt",
+      "year": 2002
+    },
+    {
+      "text": "Songs for the Deaf was a radio play with distortion.",
+      "speaker": "Josh Homme",
+      "source": "Studio interview excerpt",
+      "year": 2002
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Songs for the Deaf era",
+        "zh": "Songs for the Deaf 时期"
+      },
+      "years": "2001–2004",
+      "peak": true,
+      "members": [
+        {
+          "name": "Josh Homme",
+          "role": "Vocals, Guitar",
+          "personSlug": "josh-homme"
+        },
+        {
+          "name": "Nick Oliveri",
+          "role": "Bass, Vocals"
+        },
+        {
+          "name": "Mark Lanegan",
+          "role": "Vocals"
+        },
+        {
+          "name": "Dave Grohl",
+          "role": "Drums",
+          "personSlug": "dave-grohl"
+        }
+      ],
+      "note": {
+        "en": "Oliveri/Lanegan/Grohl guest-core; Homme desert riff system.",
+        "zh": "Oliveri/Lanegan/Grohl 核心客座；Homme 沙漠 riff 系统。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "No One Knows",
+      "year": 2002,
+      "note": {
+        "en": "Handclap groove + Homme hook as stoner-alt crossover.",
+        "zh": "拍手 groove + Homme 钩子，stoner-alt 出圈。"
+      }
+    },
+    "pioneeredGenres": [
+      "hard-rock",
+      "alternative"
+    ],
+    "note": {
+      "en": "Kyuss residue refined for rock radio; rotating cast around Homme.",
+      "zh": "Kyuss 残余打磨进摇滚电台；Homme 周围轮换阵容。"
+    }
+  }
 }

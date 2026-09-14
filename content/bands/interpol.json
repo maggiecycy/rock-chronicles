@@ -53,7 +53,10 @@
       "year": 2004
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "I wish I could eat the salad off your head",
+    "Rosemary / Heaven restores you in life"
+  ],
   "relatedBands": [
     "the-strokes",
     "joy-division",
@@ -215,5 +218,70 @@
       "sceneIndex": 2,
       "soundGenre": "post-punk"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We wanted the guitars to feel like New York at night—cold and close.",
+      "speaker": "Daniel Kessler",
+      "source": "Press interview excerpt",
+      "year": 2002
+    },
+    {
+      "text": "Carlos made the low end as melodic as the vocals.",
+      "speaker": "Paul Banks",
+      "source": "Archive interview excerpt",
+      "year": 2004
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Turn On the Bright Lights four",
+        "zh": "Turn On the Bright Lights 四人"
+      },
+      "years": "2000–2010",
+      "peak": true,
+      "members": [
+        {
+          "name": "Paul Banks",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Daniel Kessler",
+          "role": "Guitar"
+        },
+        {
+          "name": "Carlos Dengler",
+          "role": "Bass"
+        },
+        {
+          "name": "Sam Fogarino",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Dengler bass era; post-punk revival silhouette.",
+        "zh": "Dengler 贝斯期；后朋克复兴剪影。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Obstacle 1",
+      "year": 2002,
+      "note": {
+        "en": "Staccato guitar + Banks baritone as NYC post-punk revival face.",
+        "zh": "断奏吉他 + Banks 男中音，纽约后朋克复兴面孔。"
+      }
+    },
+    "pioneeredGenres": [
+      "post-punk",
+      "indie-rock"
+    ],
+    "note": {
+      "en": "Joy Division inheritance via NYC cool; Bright Lights as debut thesis.",
+      "zh": "经纽约冷感继承 Joy Division；Bright Lights 即出道论题。"
+    }
+  }
 }

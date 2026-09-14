@@ -53,7 +53,10 @@
       "year": 1984
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Your own personal Jesus / Someone to hear your prayers",
+    "All I ever wanted / All I ever needed / Is here in my arms"
+  ],
   "relatedBands": [
     "new-order",
     "the-cure",
@@ -218,5 +221,70 @@
       "sceneIndex": 2,
       "soundGenre": "post-punk"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "I write the songs; Dave sings the pain.",
+      "speaker": "Martin Gore",
+      "source": "Press interview excerpt",
+      "year": 1990
+    },
+    {
+      "text": "The machines are cold. The voice has to be human.",
+      "speaker": "Dave Gahan",
+      "source": "Archive interview · quote wall",
+      "year": 1993
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Wilder peak four",
+        "zh": "Wilder 巅峰四人"
+      },
+      "years": "1982–1995",
+      "peak": true,
+      "members": [
+        {
+          "name": "Dave Gahan",
+          "role": "Vocals"
+        },
+        {
+          "name": "Martin Gore",
+          "role": "Songwriting, Keys, Guitar"
+        },
+        {
+          "name": "Andy Fletcher",
+          "role": "Keys"
+        },
+        {
+          "name": "Alan Wilder",
+          "role": "Keys, Production"
+        }
+      ],
+      "note": {
+        "en": "Wilder arrangement era through Violator / Songs of Faith and Devotion.",
+        "zh": "Wilder 编曲期，贯穿 Violator / Songs of Faith and Devotion。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Personal Jesus",
+      "year": 1989,
+      "note": {
+        "en": "Blues-guitar sample + industrial pulse as Violator gateway.",
+        "zh": "蓝调吉他采样 + 工业脉冲，Violator 入口。"
+      }
+    },
+    "pioneeredGenres": [
+      "new-wave",
+      "post-punk"
+    ],
+    "note": {
+      "en": "Synth-pop into darker arena electronics; Gore/Gahan split of labor.",
+      "zh": "Synth-pop 走进更暗的体育场电子；Gore/Gahan 分工明确。"
+    }
+  }
 }

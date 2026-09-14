@@ -53,7 +53,10 @@
       "year": 1997
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Cause it's a bittersweet symphony, this life",
+    "The drugs don't work / They just make you worse"
+  ],
   "relatedBands": [
     "oasis",
     "radiohead"
@@ -212,5 +215,74 @@
       "sceneIndex": 2,
       "soundGenre": "britpop"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Bitter Sweet Symphony is a loop we fought over—and a song people never forgot.",
+      "speaker": "Richard Ashcroft",
+      "source": "Press interview excerpt",
+      "year": 1997
+    },
+    {
+      "text": "Nick’s guitar is the weather system. I just walk through it.",
+      "speaker": "Richard Ashcroft",
+      "source": "Archive interview excerpt",
+      "year": 1998
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Urban Hymns five",
+        "zh": "Urban Hymns 五人"
+      },
+      "years": "1996–1999",
+      "peak": true,
+      "members": [
+        {
+          "name": "Richard Ashcroft",
+          "role": "Vocals"
+        },
+        {
+          "name": "Nick McCabe",
+          "role": "Guitar"
+        },
+        {
+          "name": "Simon Jones",
+          "role": "Bass"
+        },
+        {
+          "name": "Peter Salisbury",
+          "role": "Drums"
+        },
+        {
+          "name": "Simon Tong",
+          "role": "Guitar, Keys"
+        }
+      ],
+      "note": {
+        "en": "McCabe wash + Ashcroft baritone; Britpop’s psychedelic wing.",
+        "zh": "McCabe 冲刷 + Ashcroft 男中音；Britpop 迷幻翼。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Bitter Sweet Symphony",
+      "year": 1997,
+      "note": {
+        "en": "Orchestral loop + strut vocal as late-Britpop monument.",
+        "zh": "管弦 loop + 踱步人声，晚期 Britpop 纪念碑。"
+      }
+    },
+    "pioneeredGenres": [
+      "britpop",
+      "alternative"
+    ],
+    "note": {
+      "en": "Sample litigation aside: the arrangement still teaches scale.",
+      "zh": "采样官司另说：编曲仍在教规模感。"
+    }
+  }
 }

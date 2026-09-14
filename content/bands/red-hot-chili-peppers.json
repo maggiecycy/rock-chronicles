@@ -53,7 +53,10 @@
       "year": 1999
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Under the bridge downtown / Is where I drew some blood",
+    "Give it away, give it away, give it away now"
+  ],
   "relatedBands": [
     "foo-fighters",
     "muse"
@@ -215,5 +218,70 @@
       "sceneIndex": 2,
       "soundGenre": "alternative"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Frusciante made us a song band again, not just a funk circus.",
+      "speaker": "Anthony Kiedis",
+      "source": "Press interview excerpt",
+      "year": 1991
+    },
+    {
+      "text": "The bass is the melody until the vocal arrives.",
+      "speaker": "Flea",
+      "source": "Bass interview excerpt",
+      "year": 1992
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Blood Sugar / Californication four",
+        "zh": "Blood Sugar / Californication 四人"
+      },
+      "years": "1989–1992; 1998–2009",
+      "peak": true,
+      "members": [
+        {
+          "name": "Anthony Kiedis",
+          "role": "Vocals"
+        },
+        {
+          "name": "Flea",
+          "role": "Bass"
+        },
+        {
+          "name": "John Frusciante",
+          "role": "Guitar"
+        },
+        {
+          "name": "Chad Smith",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Frusciante peak guitar; funk verses into melodic choruses.",
+        "zh": "Frusciante 巅峰吉他；funk 主歌进旋律副歌。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Under the Bridge",
+      "year": 1991,
+      "note": {
+        "en": "Clean arpeggio ballad as Chili Peppers’ mainstream key.",
+        "zh": "干净分解和弦谣曲，Chili Peppers 主流钥匙。"
+      }
+    },
+    "pioneeredGenres": [
+      "alternative",
+      "hard-rock"
+    ],
+    "note": {
+      "en": "Funk-punk to alt-radio; Frusciante as harmonic center.",
+      "zh": "Funk-punk 进 alt 电台；Frusciante 为和声中心。"
+    }
+  }
 }

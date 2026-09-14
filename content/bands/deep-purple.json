@@ -309,7 +309,8 @@
         },
         {
           "name": "Roger Glover",
-          "role": "Bass"
+          "role": "Bass",
+          "personSlug": "roger-glover"
         },
         {
           "name": "Ian Paice",

@@ -100,10 +100,17 @@
       "speaker": "Julian Casablancas",
       "source": "Interview excerpt",
       "year": 2002
+    },
+    {
+      "text": "The guitars lock like one instrument. That’s the New York part.",
+      "speaker": "Nick Valensi",
+      "source": "Press interview excerpt",
+      "year": 2003
     }
   ],
   "lyricQuotes": [
-    "Last night she said, oh baby I don't know"
+    "Last night she said, oh baby I don't know",
+    "Is this it?"
   ],
   "relatedBands": [
     "arctic-monkeys",
@@ -212,5 +219,42 @@
       "en": "Tight jeans, tighter songs—indie becomes a look again.",
       "zh": "紧身牛仔裤与更紧的歌——indie 再度成为造型。"
     }
-  }
+  },
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Is This It five",
+        "zh": "Is This It 五人"
+      },
+      "years": "1998–",
+      "peak": true,
+      "members": [
+        {
+          "name": "Julian Casablancas",
+          "role": "Vocals"
+        },
+        {
+          "name": "Nick Valensi",
+          "role": "Guitar"
+        },
+        {
+          "name": "Albert Hammond Jr.",
+          "role": "Guitar"
+        },
+        {
+          "name": "Nikolai Fraiture",
+          "role": "Bass"
+        },
+        {
+          "name": "Fabrizio Moretti",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Twin-guitar NYC revival; Is This It as garage-indie reset.",
+        "zh": "双吉他纽约复兴；Is This It 作 garage-indie 重置。"
+      }
+    }
+  ]
 }

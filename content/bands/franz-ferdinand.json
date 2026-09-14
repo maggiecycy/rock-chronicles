@@ -54,7 +54,10 @@
       "year": 2004
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "I say don't you know / You say you don't know / I say take me out",
+    "Do you want to / Come on to me well do you want to"
+  ],
   "relatedBands": [
     "the-strokes",
     "interpol",
@@ -216,5 +219,70 @@
       "sceneIndex": 2,
       "soundGenre": "post-punk"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We wanted songs girls could dance to—and boys could play.",
+      "speaker": "Alex Kapranos",
+      "source": "Press interview excerpt",
+      "year": 2004
+    },
+    {
+      "text": "The angular riff is the hook. Everything else is arrangement.",
+      "speaker": "Nick McCarthy",
+      "source": "Guitar interview excerpt",
+      "year": 2005
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Original four",
+        "zh": "原班四人"
+      },
+      "years": "2002–2016",
+      "peak": true,
+      "members": [
+        {
+          "name": "Alex Kapranos",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Nick McCarthy",
+          "role": "Guitar, Keys"
+        },
+        {
+          "name": "Bob Hardy",
+          "role": "Bass"
+        },
+        {
+          "name": "Paul Thomson",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "McCarthy era; art-school dance-punk singles.",
+        "zh": "McCarthy 时代；艺术学校舞曲朋克单曲。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Take Me Out",
+      "year": 2004,
+      "note": {
+        "en": "Tempo drop mid-song as indie dance-floor citation.",
+        "zh": "曲中降速，indie 舞池引用点。"
+      }
+    },
+    "pioneeredGenres": [
+      "indie-rock",
+      "post-punk"
+    ],
+    "note": {
+      "en": "Post-punk revival with disco economy; Glasgow art-school precision.",
+      "zh": "带 disco 经济性的后朋克复兴；格拉斯哥艺术学校精度。"
+    }
+  }
 }

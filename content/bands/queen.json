@@ -259,11 +259,13 @@
         },
         {
           "name": "Roger Taylor",
-          "role": "Drums"
+          "role": "Drums",
+          "personSlug": "roger-taylor"
         },
         {
           "name": "John Deacon",
-          "role": "Bass"
+          "role": "Bass",
+          "personSlug": "john-deacon"
         }
       ],
       "note": {
@@ -286,7 +288,8 @@
         },
         {
           "name": "Roger Taylor",
-          "role": "Drums"
+          "role": "Drums",
+          "personSlug": "roger-taylor"
         }
       ],
       "note": {

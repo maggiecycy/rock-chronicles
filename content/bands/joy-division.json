@@ -91,10 +91,17 @@
       "speaker": "Ian Curtis",
       "source": "Letter / interview material",
       "year": 1979
+    },
+    {
+      "text": "The space between the notes was the atmosphere.",
+      "speaker": "Bernard Sumner",
+      "source": "Press interview excerpt",
+      "year": 1988
     }
   ],
   "lyricQuotes": [
-    "Love will tear us apart again"
+    "Love will tear us apart again",
+    "She's lost control again"
   ],
   "relatedBands": [
     "the-clash",
@@ -202,5 +209,40 @@
       "en": "Space, bass, and restraint become a whole aesthetic.",
       "zh": "空间、贝斯与克制自成美学。"
     }
-  }
+  },
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Classic four",
+        "zh": "经典四人组"
+      },
+      "years": "1976–1980",
+      "peak": true,
+      "members": [
+        {
+          "name": "Ian Curtis",
+          "role": "Vocals"
+        },
+        {
+          "name": "Bernard Sumner",
+          "role": "Guitar",
+          "personSlug": "bernard-sumner"
+        },
+        {
+          "name": "Peter Hook",
+          "role": "Bass",
+          "personSlug": "peter-hook"
+        },
+        {
+          "name": "Stephen Morris",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Hook high bass + Morris machine drums; Curtis as baritone center.",
+        "zh": "Hook 高音贝斯 + Morris 机械鼓；Curtis 男中音中心。"
+      }
+    }
+  ]
 }

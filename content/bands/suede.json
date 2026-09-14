@@ -58,7 +58,10 @@
       "year": 1996
     }
   ],
-  "lyricQuotes": [],
+  "lyricQuotes": [
+    "Animal nitrate / Like she said you get used to anything",
+    "It's the beautiful ones / That make you feel so small"
+  ],
   "relatedBands": [
     "blur",
     "oasis"
@@ -219,5 +222,70 @@
       "sceneIndex": 2,
       "soundGenre": "britpop"
     }
-  ]
+  ],
+  "interviewQuotes": [
+    {
+      "text": "We were glam without the nostalgia costume.",
+      "speaker": "Brett Anderson",
+      "source": "Press interview excerpt",
+      "year": 1993
+    },
+    {
+      "text": "Bernard’s guitar was the drama. My voice was the script.",
+      "speaker": "Brett Anderson",
+      "source": "Archive interview excerpt",
+      "year": 1994
+    }
+  ],
+  "lineupVersions": [
+    {
+      "id": "peak",
+      "label": {
+        "en": "Butler peak four",
+        "zh": "Butler 巅峰四人"
+      },
+      "years": "1989–1994",
+      "peak": true,
+      "members": [
+        {
+          "name": "Brett Anderson",
+          "role": "Vocals"
+        },
+        {
+          "name": "Bernard Butler",
+          "role": "Guitar"
+        },
+        {
+          "name": "Mat Osman",
+          "role": "Bass"
+        },
+        {
+          "name": "Simon Gilbert",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Butler guitar era; Dog Man Star as art-glam peak.",
+        "zh": "Butler 吉他期；Dog Man Star 为艺术 glam 峰值。"
+      }
+    }
+  ],
+  "landmark": {
+    "debutTrack": {
+      "title": "Animal Nitrate",
+      "year": 1993,
+      "note": {
+        "en": "Twisted glam riff as Britpop’s pre-Oasis art wing.",
+        "zh": "扭曲 glam riff，Britpop 在 Oasis 之前的艺术翼。"
+      }
+    },
+    "pioneeredGenres": [
+      "britpop",
+      "alternative"
+    ],
+    "note": {
+      "en": "London glam revival into Britpop; Butler/Anderson tension as fuel.",
+      "zh": "伦敦 glam 复兴进 Britpop；Butler/Anderson 张力作燃料。"
+    }
+  }
 }
