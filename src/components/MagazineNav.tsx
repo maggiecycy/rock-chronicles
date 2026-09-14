@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { SiteSearch } from "@/components/SiteSearch";
 import { useLocale } from "@/i18n/LocaleProvider";
 
 export function MagazineNav() {
@@ -30,8 +31,8 @@ export function MagazineNav() {
         >
           Rock Chronicles
         </Link>
-        <div className="flex items-center gap-1 sm:gap-2">
-          <ul className="flex items-center gap-1 sm:gap-2">
+        <div className="flex flex-wrap items-center justify-end gap-1 sm:gap-2">
+          <ul className="flex flex-wrap items-center gap-1 sm:gap-2">
             {links.map((link) => {
               const active =
                 link.href === "/"
@@ -55,8 +56,10 @@ export function MagazineNav() {
             })}
           </ul>
 
+          <SiteSearch />
+
           <div
-            className="ml-1 flex border-2 border-ink"
+            className="flex border-2 border-ink"
             role="group"
             aria-label={t.nav.langLabel}
           >

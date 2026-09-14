@@ -1,0 +1,40 @@
+{
+  "name": "James Hetfield",
+  "slug": "james-hetfield",
+  "born": 1963,
+  "origin": "Downey, California, USA",
+  "roles": [
+    "Vocals",
+    "Rhythm Guitar",
+    "Songwriting"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Metallica vocals/rhythm-guitar pillar; downpicked riff engine and barked verse as thrash mass grammar.",
+    "zh": "Metallica 人声/节奏吉他支柱；下拨 riff 引擎与吼叫主歌即 thrash 大众语法。"
+  },
+  "whyHub": {
+    "en": "Rhythm guitar + lead voice fused: Hetfield’s right hand is the band’s tempo and identity across bassists and eras.",
+    "zh": "节奏吉他与主唱合一：Hetfield 右手是跨贝斯手与时代的速度与身份。"
+  },
+  "body": {
+    "en": "Born 1963. Co-founds Metallica with Ulrich; Kill ’Em All → Master of Puppets locks downpicking, palm mute, and gallop figures as thrash default. Cliff Burton then Newsted then Trujillo change the low end; Hetfield/Ulrich writing core stays.\n\nBlack Album (1991) scales the same right-hand attack to radio hard rock. Hub is continuity of rhythm-guitar leadership, not a revolving frontman brand.",
+    "zh": "1963 年生。与 Ulrich 共创 Metallica；Kill ’Em All → Master of Puppets 把下拨、掌闷与 gallop 定为 thrash 默认。Cliff Burton、Newsted、Trujillo 换低频；Hetfield/Ulrich 写作核不变。\n\nBlack Album（1991）把同一右手攻击扩到电台硬摇滚。枢纽是节奏吉他领导权的连续，而非轮换主唱品牌。"
+  },
+  "tenures": [
+    {
+      "bandName": "Metallica",
+      "bandSlug": "metallica",
+      "role": "Vocals, Rhythm Guitar",
+      "from": 1981,
+      "to": "present",
+      "note": {
+        "en": "Founding vocals/rhythm guitar through thrash peak and stadium era.",
+        "zh": "创始人声/节奏吉他，贯穿 thrash 巅峰与体育场时代。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "dave-mustaine"
+  ]
+}

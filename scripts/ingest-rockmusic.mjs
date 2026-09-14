@@ -170,18 +170,46 @@ function cleanSuffixes(name) {
 }
 
 /**
- * Parse "Artist - Title" or "NN. Artist - Title" style filenames.
+ * Parse "Artist - Title" or "Title - Artist" (when right side is a known act).
  */
-function parseFilename(file) {
+function parseFilename(file, knownArtists) {
   let base = cleanSuffixes(path.basename(file));
   base = base.replace(/^\s*-\s*/, "").replace(/^[\d.\s_-]+/, "").trim();
+
+  // "A ~ B" covers
+  const tilde = base.match(/^(.+?)\s*[~～]\s*(.+?)(?:\s*\(cover\))?$/i);
+  if (tilde) {
+    return { artist: tilde[2].trim(), title: tilde[1].trim() };
+  }
 
   // "Artist - Title"
   const dash = base.match(/^(.+?)\s+[-–—]\s+(.+)$/);
   if (dash) {
-    return { artist: dash[1].trim(), title: dash[2].trim() };
+    let left = dash[1].trim();
+    let right = dash[2].trim();
+    // Title - Artist when right side matches a known band/artist
+    const rightKey = right.toLowerCase().replace(/^the\s+/, "");
+    const leftKey = left.toLowerCase().replace(/^the\s+/, "");
+    if (
+      knownArtists &&
+      (knownArtists.has(right.toLowerCase()) ||
+        knownArtists.has(rightKey) ||
+        knownArtists.has(`the ${rightKey}`)) &&
+      !(
+        knownArtists.has(left.toLowerCase()) ||
+        knownArtists.has(leftKey) ||
+        knownArtists.has(`the ${leftKey}`)
+      )
+    ) {
+      return { artist: right, title: left };
+    }
+    // "(TITLE) (ARTIST)" trailing parentheses artist
+    const parenArtist = right.match(/^(.+?)\s*\(([^)]+)\)\s*$/);
+    if (parenArtist && knownArtists?.has(parenArtist[2].toLowerCase())) {
+      return { artist: parenArtist[2].trim(), title: parenArtist[1].trim() };
+    }
+    return { artist: left, title: right };
   }
-  // "NN Artist - Title" already stripped numbers sometimes leaves "Artist Title"
   return { artist: null, title: base };
 }
 
@@ -273,6 +301,10 @@ function main() {
   }
 
   const { bySlug, byName } = loadBands();
+  const knownArtists = new Set([
+    ...byName.keys(),
+    ...Object.keys(ARTIST_ALIASES),
+  ]);
   const files = fs
     .readdirSync(sourceDir)
     .filter((f) => /\.(mp3|m4a)$/i.test(f))
@@ -290,7 +322,7 @@ function main() {
       continue;
     }
 
-    const parsed = parseFilename(file);
+    const parsed = parseFilename(file, knownArtists);
     let artist = parsed.artist;
     let title = parsed.title;
 

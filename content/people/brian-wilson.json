@@ -1,0 +1,50 @@
+{
+  "name": "Brian Wilson",
+  "slug": "brian-wilson",
+  "born": 1942,
+  "origin": "Hawthorne, California, USA",
+  "roles": [
+    "Vocals",
+    "Bass",
+    "Keys",
+    "Production",
+    "Songwriting"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Beach Boys songwriter/producer; Pet Sounds studio-as-instrument pillar.",
+    "zh": "Beach Boys 写手/制作；Pet Sounds 以工作室为乐器的支柱。"
+  },
+  "whyHub": {
+    "en": "Band face and studio author: Pet Sounds (1966) reframes pop production while he steps back from touring.",
+    "zh": "乐队面孔与工作室作者：Pet Sounds（1966）重写流行制作，同时他退出巡演。"
+  },
+  "body": {
+    "en": "Born 1942, Hawthorne. Writes early Beach Boys surf/car hits, then Pet Sounds with the Wrecking Crew—modular bass, stacked vocals, found percussion. Stops full touring mid-60s to live in the studio; Smile sessions stall, later revisited.\n\nHub: production method is the chronicle object as much as the band logo. Late solo Smile (2004) closes the unfinished 60s file.",
+    "zh": "1942 年生于霍桑。早写 Beach Boys 冲浪/汽车热曲，后以 Wrecking Crew 做 Pet Sounds——模块化贝斯、堆叠和声、现成打击乐。60 年代中退出全职巡演进棚；Smile 录音搁浅，后重访。\n\n枢纽：制作方法与乐队 logo 同为编年对象。2004 独唱 Smile 合上未完成的 60 年代档案。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Beach Boys",
+      "bandSlug": "the-beach-boys",
+      "role": "Vocals, Bass, Keys, Production",
+      "from": 1961,
+      "to": 1972,
+      "note": {
+        "en": "Primary writer/producer through Pet Sounds; sporadic later appearances.",
+        "zh": "至 Pet Sounds 的主笔/制作；其后偶有露面。"
+      }
+    },
+    {
+      "bandName": "Brian Wilson (solo)",
+      "role": "Vocals, Production",
+      "from": 1988,
+      "to": 2025,
+      "note": {
+        "en": "Solo LPs including completed Smile (2004).",
+        "zh": "独唱专集，含完成版 Smile（2004）。"
+      }
+    }
+  ],
+  "relatedPeople": []
+}

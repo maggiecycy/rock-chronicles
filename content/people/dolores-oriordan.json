@@ -1,0 +1,49 @@
+{
+  "name": "Dolores O'Riordan",
+  "slug": "dolores-oriordan",
+  "born": 1971,
+  "origin": "Limerick, Ireland",
+  "roles": [
+    "Vocals",
+    "Guitar",
+    "Songwriting"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "The Cranberries vocals; yodel-tinged alto and Irish indie-pop hooks on 90s alt radio.",
+    "zh": "The Cranberries 人声；带 yodel 色彩的中音与 90 年代 alt 电台上的爱尔兰 indie-pop 钩子。"
+  },
+  "whyHub": {
+    "en": "Voice = band identity: Linger / Zombie-era mass recognition sits on O’Riordan’s delivery, not a guitar brand.",
+    "zh": "人声 = 乐队身份：Linger / Zombie 时期大众辨识落在 O’Riordan 吐字，而非吉他品牌。"
+  },
+  "body": {
+    "en": "Born 1971, Limerick. Joins The Cranberries 1990. Everybody Else Is Doing It… and No Need to Argue put Linger and Zombie on 90s alt/MTV—soft arpeggio verses against louder chorus grind on Zombie. Band pauses 2003–09; reunions continue until her death 2018.\n\nHub: Irish alt-pop’s international face is a vocal method; Hogan brothers’ guitar frame supports it.",
+    "zh": "1971 年生于利默里克。1990 加入 The Cranberries。Everybody Else Is Doing It… 与 No Need to Argue 把 Linger、Zombie 送上 90 年代 alt/MTV——Zombie 上柔和分解主歌对更响副歌碾压。2003–09 乐队间歇；重聚至 2018 她去世。\n\n枢纽：爱尔兰 alt-pop 的国际面孔是一种人声方法；Hogan 兄弟吉他框架支撑它。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Cranberries",
+      "bandSlug": "the-cranberries",
+      "role": "Vocals, Guitar",
+      "from": 1990,
+      "to": 2003,
+      "note": {
+        "en": "Peak 90s alt radio tenure.",
+        "zh": "90 年代 alt 电台巅峰任期。"
+      }
+    },
+    {
+      "bandName": "The Cranberries",
+      "bandSlug": "the-cranberries",
+      "role": "Vocals, Guitar",
+      "from": 2009,
+      "to": 2018,
+      "note": {
+        "en": "Reunion until death.",
+        "zh": "重聚至去世。"
+      }
+    }
+  ],
+  "relatedPeople": []
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Mark Knopfler",
+  "slug": "mark-knopfler",
+  "born": 1949,
+  "origin": "Glasgow, Scotland (raised Newcastle, England)",
+  "roles": [
+    "Guitar",
+    "Vocals",
+    "Songwriting"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Dire Straits guitar/vocals pillar; pickless fingerstyle on Strat/Tele as the band’s identity.",
+    "zh": "Dire Straits 吉他/人声支柱；Strat/Tele 上的无拨片 fingerstyle 即乐队身份。"
+  },
+  "whyHub": {
+    "en": "Writer–player–producer in one: fingerstyle lead and narrative verse define Dire Straits across pub-rock to Brothers in Arms scale.",
+    "zh": "写手–演奏–制作合一：fingerstyle 主音与叙事主歌定义 Dire Straits，从 pub-rock 到 Brothers in Arms 体量。"
+  },
+  "body": {
+    "en": "Born 1949. Forms Dire Straits 1977 with David Knopfler, Illsley, Withers. Debut (1978) and Sultans of Swing cite clean Fender tone and Dorian lead lines over a tight pocket—no fuzz wall.\n\nMaking Movies (1980) and Brothers in Arms (1985) scale the same craft to MTV/stadium. After 1995 band rest, solo and soundtrack work continue the fingerstyle method.\n\nHub value: one guitar grammar carries the logo; lineup and production change around it.",
+    "zh": "1949 年生。1977 与 David Knopfler、Illsley、Withers 组建 Dire Straits。首专（1978）与 Sultans of Swing 引用干净 Fender 音色与 Dorian 主音线、紧 pocket——无 fuzz 墙。\n\nMaking Movies（1980）与 Brothers in Arms（1985）把同一手艺扩到 MTV/体育场。1995 乐队休止后，独唱与配乐延续 fingerstyle。\n\n枢纽价值：一种吉他语法扛起 logo；阵容与制作围着它变。"
+  },
+  "tenures": [
+    {
+      "bandName": "Dire Straits",
+      "bandSlug": "dire-straits",
+      "role": "Vocals, Lead Guitar",
+      "from": 1977,
+      "to": 1995,
+      "note": {
+        "en": "Sole lead voice and primary writer through Brothers in Arms era.",
+        "zh": "至 Brothers in Arms 时期的唯一主唱与主笔。"
+      }
+    },
+    {
+      "bandName": "Mark Knopfler (solo)",
+      "role": "Vocals, Guitar",
+      "from": 1996,
+      "to": "present",
+      "note": {
+        "en": "Solo albums and film scores; same fingerstyle grammar.",
+        "zh": "独唱专集与电影配乐；同一 fingerstyle 语法。"
+      }
+    }
+  ],
+  "relatedPeople": []
+}

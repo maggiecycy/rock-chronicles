@@ -27,7 +27,7 @@ export function PersonProfile({
   return (
     <main className="mx-auto max-w-3xl px-4 py-10 sm:px-6 sm:py-14">
       <p className="text-xs font-medium uppercase tracking-[0.25em] text-accent">
-        {t.people.hub}
+        {person.hub ? t.people.hub : t.people.profile}
         {person.born ? ` · ${person.born}` : ""}
       </p>
       <h1 className="font-display mt-3 text-4xl font-semibold tracking-tight sm:text-5xl">
@@ -44,13 +44,19 @@ export function PersonProfile({
       )}
 
       <section className="mt-10 border-2 border-ink p-5 sm:p-6">
-        <h2 className="text-xs font-medium uppercase tracking-wider text-muted">
-          {t.people.whyHub}
-        </h2>
-        <p className="font-display mt-3 text-2xl leading-snug font-semibold">
-          {loc(person.whyHub, locale)}
-        </p>
-        <p className="mt-4 leading-relaxed text-ink-soft">
+        {person.whyHub && (
+          <>
+            <h2 className="text-xs font-medium uppercase tracking-wider text-muted">
+              {t.people.whyHub}
+            </h2>
+            <p className="font-display mt-3 text-2xl leading-snug font-semibold">
+              {loc(person.whyHub, locale)}
+            </p>
+          </>
+        )}
+        <p
+          className={`leading-relaxed text-ink-soft ${person.whyHub ? "mt-4" : ""}`}
+        >
           {loc(person.body, locale)}
         </p>
       </section>

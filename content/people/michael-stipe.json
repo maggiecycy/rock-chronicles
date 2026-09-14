@@ -1,0 +1,37 @@
+{
+  "name": "Michael Stipe",
+  "slug": "michael-stipe",
+  "born": 1960,
+  "origin": "Decatur, Georgia, USA",
+  "roles": [
+    "Vocals",
+    "Lyrics"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "R.E.M. vocals; mumbled early college-rock delivery scaled to Out of Time / Automatic mass-alt clarity.",
+    "zh": "R.E.M. 人声；早期含混 college-rock 吐字，扩到 Out of Time / Automatic 大众 alternative 清晰度。"
+  },
+  "whyHub": {
+    "en": "Voice as college-rock then mass-alt face: Buck’s jangle and Stipe’s opaque-to-clear lyric arc define the band.",
+    "zh": "人声即 college-rock 再到大众 alt 的面孔：Buck 的 jangle 与 Stipe 从含混到清晰的歌词弧线定义乐队。"
+  },
+  "body": {
+    "en": "Born 1960. Forms R.E.M. 1980 in Athens with Buck, Mills, Berry. Murmur (1983) cites arpeggiated Rickenbacker under mumbled verse. Document → Out of Time / Automatic for the People (1991–92) open the lyric delivery for radio (Losing My Religion, Everybody Hurts). Berry exits 1997; trio continues to 2011.\n\nHub: vocal identity across indie credibility and Warner-era scale—not a guitarist hub.",
+    "zh": "1960 年生。1980 在 Athens 与 Buck、Mills、Berry 组建 R.E.M.。Murmur（1983）引用分解 Rickenbacker 衬含混主歌。Document → Out of Time / Automatic for the People（1991–92）为人声打开电台清晰度（Losing My Religion、Everybody Hurts）。Berry 1997 离队；三人组续至 2011。\n\n枢纽：跨 indie 信誉与华纳体量的人声身份——非吉他手枢纽。"
+  },
+  "tenures": [
+    {
+      "bandName": "R.E.M.",
+      "bandSlug": "r-e-m",
+      "role": "Vocals",
+      "from": 1980,
+      "to": 2011,
+      "note": {
+        "en": "Founding vocals through college-rock and mass-alt eras; band ends 2011.",
+        "zh": "创始人声，贯穿 college-rock 与大众 alt；乐队 2011 结束。"
+      }
+    }
+  ],
+  "relatedPeople": []
+}

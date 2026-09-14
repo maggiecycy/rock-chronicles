@@ -17,7 +17,8 @@
     {
       "name": "Trent Reznor",
       "role": "Vocals, Guitar, Keys, Production",
-      "years": "1988–present"
+      "years": "1988–present",
+      "personSlug": "trent-reznor"
     },
     {
       "name": "Atticus Ross",
@@ -245,7 +246,8 @@
       "members": [
         {
           "name": "Trent Reznor",
-          "role": "Vocals, Instruments, Production"
+          "role": "Vocals, Instruments, Production",
+          "personSlug": "trent-reznor"
         }
       ],
       "note": {

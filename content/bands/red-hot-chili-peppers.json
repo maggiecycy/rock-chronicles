@@ -22,7 +22,8 @@
     {
       "name": "Flea",
       "role": "Bass",
-      "years": "1983–present"
+      "years": "1983–present",
+      "personSlug": "flea"
     },
     {
       "name": "John Frusciante",
@@ -249,7 +250,8 @@
         },
         {
           "name": "Flea",
-          "role": "Bass"
+          "role": "Bass",
+          "personSlug": "flea"
         },
         {
           "name": "John Frusciante",

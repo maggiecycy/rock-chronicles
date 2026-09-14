@@ -22,7 +22,8 @@
     {
       "name": "Tom Morello",
       "role": "Guitar",
-      "years": "1991–present"
+      "years": "1991–present",
+      "personSlug": "tom-morello"
     },
     {
       "name": "Tim Commerford",
@@ -250,7 +251,8 @@
         },
         {
           "name": "Tom Morello",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "tom-morello"
         },
         {
           "name": "Tim Commerford",

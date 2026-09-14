@@ -43,7 +43,7 @@ const TYPE_STROKE: Record<GenreLink["type"], string> = {
 export function GenreNetwork({ genres, links }: GenreNetworkProps) {
   const [selected, setSelected] = useState<string | null>(null);
   const titleId = useId();
-  const { playGenre, stop, enabled } = useSound();
+  const { playGenre, stop } = useSound();
   const { locale, t } = useLocale();
 
   const genreMap = useMemo(
@@ -237,9 +237,6 @@ export function GenreNetwork({ genres, links }: GenreNetworkProps) {
             <h2 className="font-display mt-2 text-xl font-semibold">
               {t.genres.pickNode}
             </h2>
-            <p className="mt-3 text-sm leading-relaxed text-ink-soft">
-              {enabled ? t.genres.pickHintOn : t.genres.pickHintOff}
-            </p>
           </>
         )}
       </aside>

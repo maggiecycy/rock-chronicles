@@ -1,0 +1,63 @@
+{
+  "name": "Geezer Butler",
+  "slug": "geezer-butler",
+  "born": 1949,
+  "origin": "Birmingham, England",
+  "roles": [
+    "Bass",
+    "Lyrics"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Black Sabbath bassist and primary lyricist; occult/war themes under Iommi riffs.",
+    "zh": "Black Sabbath 贝斯手与主作词；Iommi riff 下的玄学/战争主题。"
+  },
+  "whyHub": {
+    "en": "Bass + words as one job: low end locks the riff while lyrics name the Sabbath worldview.",
+    "zh": "贝斯 + 歌词合一：低频锁住 riff，歌词命名 Sabbath 世界观。"
+  },
+  "body": {
+    "en": "Born 1949, Birmingham. In the Ozzy-era four, Butler’s bass doubles and answers Iommi’s riffs; he writes most early lyrics (Paranoid, War Pigs, Black Sabbath). Leaves and returns across 80s–90s lineup churn; reunions keep him on the founding axis with Iommi.\n\nHub value: metal’s early lyric frame sits with the bass chair, not a separate poet.",
+    "zh": "1949 年生于伯明翰。在 Ozzy 时期四人组，Butler 贝斯加倍/应答 Iommi riff；早期歌词多出其手（Paranoid、War Pigs、Black Sabbath）。80–90 年代阵容动荡中离队又归队；重聚时仍与 Iommi 同处创始轴。\n\n枢纽价值：早期金属歌词框架落在贝斯席，而非另设诗人。"
+  },
+  "tenures": [
+    {
+      "bandName": "Black Sabbath",
+      "bandSlug": "black-sabbath",
+      "role": "Bass, Lyrics",
+      "from": 1968,
+      "to": 1979,
+      "note": {
+        "en": "Founding Ozzy-era bass/lyrics.",
+        "zh": "创始 Ozzy 时期贝斯/作词。"
+      }
+    },
+    {
+      "bandName": "Black Sabbath",
+      "bandSlug": "black-sabbath",
+      "role": "Bass",
+      "from": 1980,
+      "to": 1994,
+      "note": {
+        "en": "Returns across Dio and later 80s–90s chapters; intermittent exits.",
+        "zh": "Dio 与后续 80–90 年代章节回归；有间歇离队。"
+      }
+    },
+    {
+      "bandName": "Black Sabbath",
+      "bandSlug": "black-sabbath",
+      "role": "Bass",
+      "from": 1997,
+      "to": 2017,
+      "note": {
+        "en": "Reunion / late chapters with Iommi.",
+        "zh": "与 Iommi 的重聚与后期章节。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "tony-iommi",
+    "ozzy-osbourne",
+    "ronnie-james-dio"
+  ]
+}

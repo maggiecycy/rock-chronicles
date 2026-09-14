@@ -1,0 +1,48 @@
+{
+  "name": "Tom Morello",
+  "slug": "tom-morello",
+  "born": 1964,
+  "origin": "New York, USA (raised Libertyville, Illinois)",
+  "roles": [
+    "Guitar"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Rage Against the Machine guitar; toggle/kill-switch and FX as DJ-like leads over hard-rock riffs.",
+    "zh": "Rage Against the Machine 吉他；拨杆/kill-switch 与效果器当作类 DJ 主音，压在硬摇滚 riff 上。"
+  },
+  "whyHub": {
+    "en": "RATM → Audioslave: same guitar vocabulary under de la Rocha politics then Cornell vocals.",
+    "zh": "RATM → Audioslave：同一吉他词汇，先服务 de la Rocha 政治辞，再服务 Cornell 人声。"
+  },
+  "body": {
+    "en": "Born 1964. In RATM, riffs sit in Drop D hard-rock shapes while leads imitate turntable scratches via Whammy, kill switch, and toggle. Evil Empire / Battle of Los Angeles era is the citation peak. After RATM pause, Audioslave (2001–07) with Cornell keeps the guitar method in radio hard rock.\n\nHub: technique travels across logos; politics and singers change around the pedalboard.",
+    "zh": "1964 年生。在 RATM，riff 落在 Drop D 硬摇滚形状，主音用 Whammy、kill switch、拨杆模仿唱盘刮擦。Evil Empire / Battle of Los Angeles 时期是引用巅峰。RATM 间歇后，与 Cornell 的 Audioslave（2001–07）把同一吉他方法放进电台硬摇滚。\n\n枢纽：技术跨 logo 流动；政治与主唱围着效果器板变。"
+  },
+  "tenures": [
+    {
+      "bandName": "Rage Against the Machine",
+      "bandSlug": "rage-against-the-machine",
+      "role": "Guitar",
+      "from": 1991,
+      "to": "present",
+      "note": {
+        "en": "Founding guitar; hiatuses and reunions included.",
+        "zh": "创始吉他；含间歇与重聚。"
+      }
+    },
+    {
+      "bandName": "Audioslave",
+      "role": "Guitar",
+      "from": 2001,
+      "to": 2007,
+      "note": {
+        "en": "With Chris Cornell; band page not in chronicle.",
+        "zh": "与 Chris Cornell；乐队页尚未入编年史。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "chris-cornell"
+  ]
+}

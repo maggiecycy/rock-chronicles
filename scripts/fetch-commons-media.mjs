@@ -370,10 +370,10 @@ const CURATED = {
       altEn: "Alice in Chains live, 2010",
     },
     coldplay: {
-      file: "Coldplay@Birmingham_120922 (39).jpg",
-      license: "CC BY-SA 2.0",
+      file: "Coldplay (55208440).jpeg",
+      license: "CC BY 2.0",
       credit: "Photographer via Wikimedia Commons",
-      altEn: "Coldplay live in Birmingham",
+      altEn: "Coldplay live",
     },
     deftones: {
       file: "Deftones live brixton academy 2007.jpg",
@@ -400,10 +400,10 @@ const CURATED = {
       altEn: "Explosions in the Sky live",
     },
     "franz-ferdinand": {
-      file: "Franz Ferdinand - Rock am Ring 2014.jpg",
-      license: "CC BY-SA 3.0",
+      file: "Alex Kapranos.jpg",
+      license: "CC BY-SA 2.0",
       credit: "Photographer via Wikimedia Commons",
-      altEn: "Franz Ferdinand at Rock am Ring, 2014",
+      altEn: "Alex Kapranos of Franz Ferdinand",
     },
     "godspeed-you-black-emperor": {
       file: "Godspeed You Black Emperor! - London Nov 20003.jpg",
@@ -556,22 +556,22 @@ const CURATED = {
       altEn: "Lynyrd Skynyrd publicity photograph, 1977",
     },
     eagles: {
-      file: "Eagles (band).jpg",
-      license: "Public domain",
-      credit: "Asylum Records press photo",
-      altEn: "Eagles band publicity photograph",
+      file: "The Eagles in Berlin.JPG",
+      license: "CC BY-SA 3.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "The Eagles in Berlin",
     },
     aerosmith: {
-      file: "Aerosmith 1975 publicity photo.jpg",
-      license: "Public domain",
-      credit: "Columbia Records press photo",
-      altEn: "Aerosmith publicity photograph, mid-1970s",
+      file: "Aerosmith July 16 2014.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Aerosmith live, July 16 2014",
     },
     kiss: {
-      file: "Kiss (band).jpg",
-      license: "Public domain",
-      credit: "Casablanca Records press photo",
-      altEn: "Kiss in makeup, classic lineup publicity photo",
+      file: "KissStockholm1.JPG",
+      license: "CC BY-SA 3.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Kiss live in Stockholm",
     },
     "billy-idol": {
       file: "Billy Idol.jpg",
@@ -586,16 +586,16 @@ const CURATED = {
       altEn: "Bon Jovi",
     },
     "r-e-m": {
-      file: "R.E.M. (5283461913).jpg",
-      license: "CC BY 2.0",
-      credit: "Photographer via Wikimedia Commons",
-      altEn: "R.E.M. performing live",
-    },
-    "the-cranberries": {
-      file: "The Cranberries.jpg",
+      file: "R.E.M. collage.jpg",
       license: "CC BY-SA 2.0",
       credit: "Photographer via Wikimedia Commons",
-      altEn: "The Cranberries",
+      altEn: "R.E.M. collage",
+    },
+    "the-cranberries": {
+      file: "Cranberries-Australia-2010.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "The Cranberries, Australia 2010",
     },
     "green-day": {
       file: "Green Day.jpg",
@@ -604,16 +604,16 @@ const CURATED = {
       altEn: "Green Day",
     },
     "fall-out-boy": {
-      file: "Fall Out Boy.jpg",
-      license: "CC BY-SA 2.0",
+      file: "Fall Out Boy Rock am Ring 2014 (1).JPG",
+      license: "CC BY-SA 3.0",
       credit: "Photographer via Wikimedia Commons",
-      altEn: "Fall Out Boy",
+      altEn: "Fall Out Boy at Rock am Ring 2014",
     },
     "bring-me-the-horizon": {
-      file: "Bring Me the Horizon 2016.jpg",
+      file: "Bring Me the Horizon-Haltestelle Woodstock-2016.jpg",
       license: "CC BY-SA 4.0",
       credit: "Photographer via Wikimedia Commons",
-      altEn: "Bring Me the Horizon, 2016",
+      altEn: "Bring Me the Horizon, Haltestelle Woodstock 2016",
     },
     maneskin: {
       file: "Måneskin 2021.jpg",
@@ -719,6 +719,186 @@ const CURATED = {
       credit: "Photographer via Wikimedia Commons",
       altEn: "Thom Yorke",
     },
+    "tony-iommi": {
+      file: "Tony Iommi (3538744187).jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Tony Iommi",
+    },
+    slash: {
+      file: "Slash, Guitarist of Guns N' Roses in 2017.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Slash, 2017",
+    },
+    "freddie-mercury": {
+      file: "Freddie Mercury - Montreux 03.jpg",
+      license: "CC BY-SA 3.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Freddie Mercury in Montreux",
+    },
+    "angus-young": {
+      file: "Angus Young Tacoma.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Angus Young in Tacoma",
+    },
+    "lemmy-kilmister": {
+      file: "Lemmy Kilmister.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Lemmy Kilmister",
+    },
+    "james-hetfield": {
+      file: "James Hetfield 2017.jpg",
+      license: "CC BY-SA 4.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "James Hetfield, 2017",
+    },
+    "stevie-nicks": {
+      file: "Stevie Nicks (1977).JPG",
+      license: "Public domain",
+      credit: "Press photograph",
+      altEn: "Stevie Nicks, 1977",
+    },
+    flea: {
+      file: "2016 Red Hot Chili Peppers - Michael Flea Balzary (cropped).jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Flea, 2016",
+    },
+    "brian-may": {
+      file: "Brian May (2007).jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Brian May, 2007",
+    },
+    "joe-strummer": {
+      file: "Joe Strummer Live by Joe Kerrigan.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Joe Strummer live",
+    },
+    "jim-morrison": {
+      file: "Jim Morrison 1969.JPG",
+      license: "Public domain",
+      credit: "Press photograph",
+      altEn: "Jim Morrison, 1969",
+    },
+    sting: {
+      file: "Sting (The Police) (4934544201).jpg",
+      license: "CC BY 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Sting",
+    },
+    "robert-smith": {
+      file: "Robert Smith - The Cure - Roskilde Festival 2012 - Orange Stage.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Robert Smith at Roskilde 2012",
+    },
+    "mark-knopfler": {
+      file: "Mark Knopfler.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Mark Knopfler",
+    },
+    "bruce-dickinson": {
+      file: "Bruce Dickinson.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Bruce Dickinson",
+    },
+    "david-bowie": {
+      file: "David Bowie 1974.JPG",
+      license: "Public domain",
+      credit: "Press photograph",
+      altEn: "David Bowie, 1974",
+    },
+    "eddie-van-halen": {
+      file: "Eddie Van Halen (Cropped).jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Eddie Van Halen",
+    },
+    "axl-rose": {
+      file: "Axl Rose sings in London 2022.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Axl Rose, London 2022",
+    },
+    "tom-morello": {
+      file: "Tom Morello - RATM - Big Day Out.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Tom Morello",
+    },
+    "lou-reed": {
+      file: "Lou Reed 1966(cropped).jpg",
+      license: "Public domain",
+      credit: "Press photograph",
+      altEn: "Lou Reed, 1966",
+    },
+    "billie-joe-armstrong": {
+      file: "Billie Joe Armstrong in 2009.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Billie Joe Armstrong, 2009",
+    },
+    "michael-stipe": {
+      file: "Michael Stipe by David Shankbone.jpg",
+      license: "CC BY 3.0",
+      credit: "David Shankbone",
+      altEn: "Michael Stipe",
+    },
+    "jack-white": {
+      file: "Jack & Meg, The White Stripes.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Jack White with The White Stripes",
+    },
+    "brian-wilson": {
+      file: "Brian Wilson (7314673472) (tall).jpg",
+      license: "CC BY 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Brian Wilson",
+    },
+    "john-lydon": {
+      file: "John lydon live 27 10 2013 photo 13.JPG",
+      license: "CC BY-SA 3.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "John Lydon, 2013",
+    },
+    "chris-cornell": {
+      file: "Chris Cornell Soundgarden (253661679).jpeg",
+      license: "CC BY 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Chris Cornell",
+    },
+    "eddie-vedder": {
+      file: "Eddie Vedder, Pearl Jam, BST Hyde Park 2022.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Eddie Vedder, Hyde Park 2022",
+    },
+    "kim-gordon": {
+      file: "Kim bw (471470885).jpg",
+      license: "CC BY 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Kim Gordon",
+    },
+    "trent-reznor": {
+      file: "Trent Reznor Lollapalooza 1991.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Trent Reznor, Lollapalooza 1991",
+    },
+    "dolores-oriordan": {
+      file: "Dolores O'riordan of the Cranberries (7050195855).jpg",
+      license: "CC BY 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Dolores O'Riordan",
+    },
   },
 };
 
@@ -823,8 +1003,16 @@ function processKind(kind) {
     try {
       download(filePathUrl(meta.file), dest);
       const size = existsSync(dest) ? readFileSync(dest).length : 0;
-      if (size < 5000) {
-        console.log(`TOO-SMALL (${size}b)`);
+      const head = existsSync(dest)
+        ? readFileSync(dest).subarray(0, 32).toString("utf8")
+        : "";
+      if (size < 5000 || head.includes("<!DOCTYPE") || head.includes("<html")) {
+        console.log(`BAD-FILE (${size}b, likely HTML error page)`);
+        try {
+          execFileSync("rm", ["-f", dest]);
+        } catch {
+          /* ignore */
+        }
         missing.push(`${kind}/${slug}`);
         continue;
       }

@@ -17,7 +17,8 @@
     {
       "name": "Ray Davies",
       "role": "Vocals, Rhythm Guitar",
-      "years": "1963–1996"
+      "years": "1963–1996",
+      "personSlug": "ray-davies"
     },
     {
       "name": "Dave Davies",
@@ -244,7 +245,8 @@
       "members": [
         {
           "name": "Ray Davies",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "ray-davies"
         },
         {
           "name": "Dave Davies",

@@ -1,0 +1,41 @@
+{
+  "name": "Tony Iommi",
+  "slug": "tony-iommi",
+  "born": 1948,
+  "origin": "Birmingham, England",
+  "roles": [
+    "Guitar",
+    "Songwriting"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Black Sabbath guitarist; downtuned power-chord riff grammar that metal later treats as default.",
+    "zh": "Black Sabbath 吉他手；降调 power-chord riff 语法，后被金属当作默认。"
+  },
+  "whyHub": {
+    "en": "Constant across Ozzy, Dio, and reunion Sabbath: finger injury → lighter strings → heavy riff as institutional spine.",
+    "zh": "贯穿 Ozzy、Dio 与重聚 Sabbath 的常量：手指伤 → 更细弦 → 重 riff 作为制度脊梁。"
+  },
+  "body": {
+    "en": "Born 1948, Birmingham. Industrial accident cost fingertips; lighter gauge and downtuning feed Paranoid-era riffs (Iron Man, War Pigs). Ozzy-era Sabbath (1970–78) sets the citation albums; Dio-era Heaven and Hell (1980) keeps Iommi’s riff center under a different singer.\n\nHub is continuity: vocalists and eras change; the guitar method does not. Late reunions still cite the same tritone/power-chord vocabulary.",
+    "zh": "1948 年生于伯明翰。工业事故伤指尖；更细弦与降调喂出 Paranoid 时期 riff（Iron Man、War Pigs）。Ozzy 时期 Sabbath（1970–78）是引用专集；Dio 时期 Heaven and Hell（1980）在换主唱下仍以 Iommi riff 为中心。\n\n枢纽是连续性：主唱与时代变，吉他方法不变。后期重聚仍引用同一三全音/power-chord 词汇。"
+  },
+  "tenures": [
+    {
+      "bandName": "Black Sabbath",
+      "bandSlug": "black-sabbath",
+      "role": "Guitar",
+      "from": 1968,
+      "to": 2017,
+      "note": {
+        "en": "Founding guitar through Ozzy, Dio, and late reunion eras.",
+        "zh": "创始吉他，贯穿 Ozzy、Dio 与后期重聚。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "ozzy-osbourne",
+    "geezer-butler",
+    "ronnie-james-dio"
+  ]
+}

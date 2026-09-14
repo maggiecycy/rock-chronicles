@@ -17,7 +17,8 @@
     {
       "name": "Billie Joe Armstrong",
       "role": "Vocals, Guitar",
-      "years": "1987–present"
+      "years": "1987–present",
+      "personSlug": "billie-joe-armstrong"
     },
     {
       "name": "Mike Dirnt",
@@ -245,7 +246,8 @@
       "members": [
         {
           "name": "Billie Joe Armstrong",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "billie-joe-armstrong"
         },
         {
           "name": "Mike Dirnt",

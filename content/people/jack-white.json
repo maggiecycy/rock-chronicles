@@ -1,0 +1,65 @@
+{
+  "name": "Jack White",
+  "slug": "jack-white",
+  "born": 1975,
+  "origin": "Detroit, Michigan, USA",
+  "roles": [
+    "Vocals",
+    "Guitar",
+    "Piano",
+    "Production"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "White Stripes vocals/guitar; garage-blues minimalism. Later Raconteurs, Dead Weather, solo.",
+    "zh": "White Stripes 人声/吉他；车库布鲁斯极简。后有 Raconteurs、Dead Weather、独唱。"
+  },
+  "whyHub": {
+    "en": "Two-piece peak → multi-project hub: same raw amp/slide vocabulary across logos and Third Man Records.",
+    "zh": "二人组巅峰 → 多项目枢纽：同一毛边音箱/滑棒词汇跨 logo，并落在 Third Man Records。"
+  },
+  "body": {
+    "en": "Born 1975, Detroit. White Stripes with Meg White (1997–2011): red/white/black visual, sparse drums, overdriven guitar—Elephant / Seven Nation Army as mass citations. After the duo ends: The Raconteurs, The Dead Weather, solo LPs, and Third Man as label/pressing plant.\n\nHub: garage method as portable brand; White Stripes tenure is the peak citation.",
+    "zh": "1975 年生于底特律。与 Meg White 的 White Stripes（1997–2011）：红白黑视觉、稀疏鼓、过载吉他——Elephant / Seven Nation Army 为大众引用。二人组结束后：The Raconteurs、The Dead Weather、独唱专集，以及 Third Man 厂牌/压片。\n\n枢纽：车库方法作为可携带品牌；White Stripes 任期是峰值引用。"
+  },
+  "tenures": [
+    {
+      "bandName": "The White Stripes",
+      "bandSlug": "the-white-stripes",
+      "role": "Vocals, Guitar, Piano",
+      "from": 1997,
+      "to": 2011,
+      "note": {
+        "en": "Duo peak; Seven Nation Army mass citation.",
+        "zh": "二人组巅峰；Seven Nation Army 大众引用。"
+      }
+    },
+    {
+      "bandName": "The Raconteurs",
+      "role": "Vocals, Guitar",
+      "from": 2005,
+      "to": "present",
+      "note": {
+        "en": "Side project; band page not in chronicle.",
+        "zh": "支线项目；乐队页尚未入编年史。"
+      }
+    },
+    {
+      "bandName": "The Dead Weather",
+      "role": "Drums, Vocals",
+      "from": 2009,
+      "to": "present",
+      "note": {
+        "en": "Role swap to drums; project not in chronicle.",
+        "zh": "角色换成鼓；项目未入编年史。"
+      }
+    },
+    {
+      "bandName": "Jack White (solo)",
+      "role": "Vocals, Guitar",
+      "from": 2012,
+      "to": "present"
+    }
+  ],
+  "relatedPeople": []
+}

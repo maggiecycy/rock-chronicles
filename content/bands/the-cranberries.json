@@ -16,7 +16,8 @@
     {
       "name": "Dolores O'Riordan",
       "role": "Vocals, Guitar",
-      "years": "1990–2003; 2009–2018"
+      "years": "1990–2003; 2009–2018",
+      "personSlug": "dolores-oriordan"
     },
     {
       "name": "Noel Hogan",
@@ -243,7 +244,8 @@
       "members": [
         {
           "name": "Dolores O'Riordan",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "dolores-oriordan"
         },
         {
           "name": "Noel Hogan",

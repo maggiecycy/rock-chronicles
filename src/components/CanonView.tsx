@@ -7,12 +7,6 @@ import type { HundredBandsCanon } from "@/lib/canon";
 import type { BandShipStatus } from "@/lib/band-status";
 import { CanonEraTimeline } from "@/components/CanonEraTimeline";
 
-const statusStyle: Record<BandShipStatus, string> = {
-  complete: "border-accent text-accent",
-  stub: "border-ink/40 text-ink-soft",
-  missing: "border-ink/30 text-muted",
-};
-
 export function CanonView({
   canon,
   statusBySlug,
@@ -27,14 +21,6 @@ export function CanonView({
   };
 }) {
   const { locale, t } = useLocale();
-  const futures =
-    locale === "zh" ? canon.futureFeatures.zh : canon.futureFeatures.en;
-
-  const statusLabel = (status: BandShipStatus) => {
-    if (status === "complete") return t.canon.complete;
-    if (status === "stub") return t.canon.stub;
-    return t.canon.queued;
-  };
 
   const totalBands = canon.periods.reduce((n, p) => n + p.bands.length, 0);
 
@@ -50,7 +36,6 @@ export function CanonView({
         {totalBands} {t.canon.actsCount}
       </p>
 
-      {/* Mobile era jump strip */}
       <nav
         className="mt-6 flex gap-2 overflow-x-auto border-2 border-ink p-2 lg:hidden"
         aria-label={t.canon.eraRail}
@@ -77,9 +62,6 @@ export function CanonView({
             .slice()
             .sort((a, b) => a.order - b.order)
             .map((period) => {
-              const completeCount = period.bands.filter(
-                (b) => statusBySlug[b.slug] === "complete",
-              ).length;
               const genreSet = [
                 ...new Set(period.bands.flatMap((b) => b.genres)),
               ].slice(0, 6);
@@ -89,42 +71,37 @@ export function CanonView({
                   id={`canon-period-${period.id}`}
                   className="scroll-mt-28"
                 >
-                  <div className="flex flex-wrap items-baseline justify-between gap-2 border-b-2 border-ink pb-3">
-                    <div>
-                      <p className="text-xs uppercase tracking-wider text-muted">
-                        {period.years}
-                        {" · "}
-                        <Link
-                          href={`/eras/${period.eraSlug}`}
-                          className="underline-offset-2 hover:underline"
-                        >
-                          {t.canon.openEra}
-                        </Link>
-                      </p>
-                      <h2 className="font-display mt-1 text-2xl font-semibold sm:text-3xl">
-                        {loc(period.name, locale)}
-                      </h2>
-                      <p className="mt-2 max-w-2xl text-sm text-ink-soft">
-                        {loc(period.summary, locale)}
-                      </p>
-                      {genreSet.length > 0 && (
-                        <ul className="mt-3 flex flex-wrap gap-2">
-                          {genreSet.map((g) => (
-                            <li key={g}>
-                              <Link
-                                href={`/genres/${g}`}
-                                className="border border-ink px-2 py-0.5 text-[10px] font-medium uppercase tracking-wider hover:bg-ink hover:text-paper"
-                              >
-                                {g}
-                              </Link>
-                            </li>
-                          ))}
-                        </ul>
-                      )}
-                    </div>
+                  <div className="border-b-2 border-ink pb-3">
                     <p className="text-xs uppercase tracking-wider text-muted">
-                      {completeCount}/{period.bands.length} {t.canon.onSite}
+                      {period.years}
+                      {" · "}
+                      <Link
+                        href={`/eras/${period.eraSlug}`}
+                        className="underline-offset-2 hover:underline"
+                      >
+                        {t.canon.openEra}
+                      </Link>
                     </p>
+                    <h2 className="font-display mt-1 text-2xl font-semibold sm:text-3xl">
+                      {loc(period.name, locale)}
+                    </h2>
+                    <p className="mt-2 max-w-2xl text-sm text-ink-soft">
+                      {loc(period.summary, locale)}
+                    </p>
+                    {genreSet.length > 0 && (
+                      <ul className="mt-3 flex flex-wrap gap-2">
+                        {genreSet.map((g) => (
+                          <li key={g}>
+                            <Link
+                              href={`/genres/${g}`}
+                              className="border border-ink px-2 py-0.5 text-[10px] font-medium uppercase tracking-wider hover:bg-ink hover:text-paper"
+                            >
+                              {g}
+                            </Link>
+                          </li>
+                        ))}
+                      </ul>
+                    )}
                   </div>
                   <ul className="mt-4 divide-y divide-ink/15 border-2 border-ink">
                     {period.bands.map((band) => {
@@ -136,25 +113,18 @@ export function CanonView({
                           className="flex flex-col gap-2 px-4 py-4 sm:flex-row sm:items-start sm:justify-between"
                         >
                           <div className="min-w-0">
-                            <div className="flex flex-wrap items-center gap-2">
-                              {hasPage ? (
-                                <Link
-                                  href={`/bands/${band.slug}`}
-                                  className="font-display text-lg font-semibold underline-offset-2 hover:underline"
-                                >
-                                  {band.name}
-                                </Link>
-                              ) : (
-                                <span className="font-display text-lg font-semibold text-muted">
-                                  {band.name}
-                                </span>
-                              )}
-                              <span
-                                className={`border px-1.5 py-0.5 text-[10px] font-medium uppercase tracking-wider ${statusStyle[status]}`}
+                            {hasPage ? (
+                              <Link
+                                href={`/bands/${band.slug}`}
+                                className="font-display text-lg font-semibold underline-offset-2 hover:underline"
                               >
-                                {statusLabel(status)}
+                                {band.name}
+                              </Link>
+                            ) : (
+                              <span className="font-display text-lg font-semibold text-muted">
+                                {band.name}
                               </span>
-                            </div>
+                            )}
                             <p className="mt-1 text-sm text-ink-soft">
                               {loc(band.role, locale)}
                             </p>
@@ -226,17 +196,6 @@ export function CanonView({
                 </ul>
               </div>
             ))}
-          </section>
-
-          <section className="mt-16 border-2 border-ink p-5 sm:p-6">
-            <h2 className="font-display text-2xl font-semibold">
-              {t.canon.roadmap}
-            </h2>
-            <ul className="mt-4 list-disc space-y-2 pl-5 text-ink-soft">
-              {futures.map((f) => (
-                <li key={f}>{f}</li>
-              ))}
-            </ul>
           </section>
         </div>
       </div>

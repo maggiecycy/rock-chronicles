@@ -25,9 +25,6 @@ export function TimelineView({
         <h1 className="font-display mt-2 text-4xl font-semibold tracking-tight sm:text-5xl">
           {t.timeline.title}
         </h1>
-        <p className="mt-4 max-w-2xl text-base leading-relaxed text-ink-soft sm:text-lg">
-          {t.timeline.intro}
-        </p>
       </header>
 
       <div className="mt-10 border-y-2 border-ink bg-paper-deep/25 py-8">

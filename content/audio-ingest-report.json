@@ -1,0 +1,14 @@
+{
+  "skipped": [
+    {
+      "file": "Nirvana, Led Zeppelin, Bon Jovi, Aerosmith, U2, ACDC - Classic Rock Songs 70s 80s 90s Full Album.mp3",
+      "reason": "junk_pattern"
+    },
+    {
+      "file": "dl_u5CVsCnxyXg-50b678db3df95443a9f35948529c54c9304.mp3",
+      "reason": "junk_pattern"
+    }
+  ],
+  "matched": 62,
+  "extra": 85
+}

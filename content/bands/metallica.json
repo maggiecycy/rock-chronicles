@@ -15,7 +15,8 @@
     {
       "name": "James Hetfield",
       "role": "Vocals, Guitar",
-      "years": "1982–1986"
+      "years": "1982–1986",
+      "personSlug": "james-hetfield"
     },
     {
       "name": "Lars Ulrich",
@@ -215,7 +216,8 @@
       "members": [
         {
           "name": "James Hetfield",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "james-hetfield"
         },
         {
           "name": "Lars Ulrich",
@@ -245,7 +247,8 @@
       "members": [
         {
           "name": "James Hetfield",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "james-hetfield"
         },
         {
           "name": "Lars Ulrich",

@@ -1,0 +1,40 @@
+{
+  "name": "Ian Curtis",
+  "slug": "ian-curtis",
+  "born": 1956,
+  "origin": "Manchester, England",
+  "roles": [
+    "Vocals",
+    "Lyrics"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Joy Division vocalist; baritone delivery and epilepsy-era stage intensity, 1976–80 only.",
+    "zh": "Joy Division 主唱；男中音吐字与癫痫时期舞台强度，仅 1976–80。"
+  },
+  "whyHub": {
+    "en": "Short tragic tenure that freezes the Joy Division catalog; surviving members become New Order without him.",
+    "zh": "短暂悲剧任期冻结 Joy Division 目录；其余成员在无他的情况下成为 New Order。"
+  },
+  "body": {
+    "en": "Born 1956. Fronts Joy Division with Sumner, Hook, Morris. Unknown Pleasures (1979) and Closer (1980) cite dry Martin Hannett production under Curtis’s baritone and lyric freeze-frames. Dies May 1980; band ends. Sumner/Hook/Morris form New Order.\n\nHub is negative space: the person page marks the cut between post-punk peak and the dance-leaning sequel.",
+    "zh": "1956 年生。与 Sumner、Hook、Morris 组成 Joy Division。Unknown Pleasures（1979）与 Closer（1980）引用 Martin Hannett 干制作，衬 Curtis 男中音与歌词定格。1980 年 5 月去世；乐队终止。Sumner/Hook/Morris 组建 New Order。\n\n枢纽是负空间：人物页标出后朋克巅峰与偏舞续篇之间的切断。"
+  },
+  "tenures": [
+    {
+      "bandName": "Joy Division",
+      "bandSlug": "joy-division",
+      "role": "Vocals",
+      "from": 1976,
+      "to": 1980,
+      "note": {
+        "en": "Only tenure; ends with death before New Order.",
+        "zh": "唯一任期；去世于 New Order 之前。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "bernard-sumner",
+    "peter-hook"
+  ]
+}

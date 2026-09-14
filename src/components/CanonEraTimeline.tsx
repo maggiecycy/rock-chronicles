@@ -14,9 +14,9 @@ export function CanonEraTimeline({ periods }: { periods: CanonPeriod[] }) {
   const sorted = periods.slice().sort((a, b) => a.order - b.order);
 
   return (
-    <aside className="sticky top-24 hidden max-h-[calc(100dvh-8rem)] w-44 shrink-0 overflow-y-auto border-2 border-ink bg-paper lg:block">
+    <aside className="sticky top-24 hidden max-h-[calc(100dvh-8rem)] w-44 shrink-0 overflow-y-auto bg-paper lg:block">
       <div
-        className="cursor-grab touch-none select-none border-b border-ink/20 px-3 py-2 active:cursor-grabbing"
+        className="cursor-grab touch-none select-none px-1 py-2 active:cursor-grabbing"
         onPointerDown={(e) => {
           (e.currentTarget as HTMLElement).setPointerCapture(e.pointerId);
           dragRef.current = { y: e.clientY, scroll: window.scrollY };

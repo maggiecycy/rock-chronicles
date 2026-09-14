@@ -1,0 +1,36 @@
+{
+  "name": "Flea",
+  "slug": "flea",
+  "born": 1962,
+  "origin": "Melbourne, Australia (raised Los Angeles, USA)",
+  "roles": [
+    "Bass"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Red Hot Chili Peppers bass; slap/pop funk-punk low end as the band’s constant engine.",
+    "zh": "Red Hot Chili Peppers 贝斯；slap/pop funk-punk 低频即乐队恒定引擎。"
+  },
+  "whyHub": {
+    "en": "Bass as logo: guitarists rotate (Slovak, Navarro, Frusciante eras); Flea’s pocket and slap attack stay.",
+    "zh": "贝斯即 logo：吉他手轮换（Slovak、Navarro、Frusciante 时期）；Flea 的 pocket 与 slap 攻击不变。"
+  },
+  "body": {
+    "en": "Born 1962. Co-founds RHCP with Kiedis. Early records hitch punk tempo to funk slap; Blood Sugar Sex Magik (1991) with Frusciante is the mass citation. Navarro mid-90s, Frusciante returns, later Josh Klinghoffer, Frusciante again—bass chair does not rebrand.\n\nHub: institutional continuity through guitar churn; melodic high-register bass lines as character.",
+    "zh": "1962 年生。与 Kiedis 共创 RHCP。早期专集把朋克速度挂上 funk slap；与 Frusciante 的 Blood Sugar Sex Magik（1991）是大众引用。90 年代中 Navarro、Frusciante 回归、后 Josh Klinghoffer、再 Frusciante——贝斯席不换品牌。\n\n枢纽：吉他动荡中的制度连续；高音区旋律贝斯线即角色。"
+  },
+  "tenures": [
+    {
+      "bandName": "Red Hot Chili Peppers",
+      "bandSlug": "red-hot-chili-peppers",
+      "role": "Bass",
+      "from": 1983,
+      "to": "present",
+      "note": {
+        "en": "Founding bass through every major guitar era.",
+        "zh": "创始贝斯，贯穿各主要吉他时代。"
+      }
+    }
+  ],
+  "relatedPeople": []
+}

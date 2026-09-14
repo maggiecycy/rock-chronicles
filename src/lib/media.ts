@@ -10,7 +10,8 @@ type MediaIndex = {
 let cached: MediaIndex | null = null;
 
 function loadMediaIndex(): MediaIndex {
-  if (cached) return cached;
+  // Always re-read in development so new Commons downloads show without restart.
+  if (cached && process.env.NODE_ENV === "production") return cached;
   const path = join(process.cwd(), "content/media-index.json");
   try {
     cached = JSON.parse(readFileSync(path, "utf8")) as MediaIndex;

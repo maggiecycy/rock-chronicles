@@ -1,0 +1,47 @@
+{
+  "name": "Lemmy Kilmister",
+  "slug": "lemmy-kilmister",
+  "born": 1945,
+  "origin": "Stoke-on-Trent, England",
+  "roles": [
+    "Bass",
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Motörhead bass/vocals; Rickenbacker-through-Marshall roar. Earlier Hawkwind tenure.",
+    "zh": "Motörhead 贝斯/人声；Rickenbacker 过 Marshall 的轰鸣。此前有 Hawkwind 任期。"
+  },
+  "whyHub": {
+    "en": "Hawkwind → Motörhead: bass-as-rhythm-guitar and speed-metal adjacency invented as one person’s volume policy.",
+    "zh": "Hawkwind → Motörhead：把贝斯当节奏吉他、以及与速度金属的邻接，写成一个人的音量政策。"
+  },
+  "body": {
+    "en": "Born 1945. Plays bass in Hawkwind early 70s (Silver Machine era adjacent); fired 1975, forms Motörhead the same year. Ace of Spades (1980) is the citation: overdriven Rickenbacker, barked vocals, rock-and-roll speed without glam polish.\n\nDies 2015 still touring the Motörhead logo. Hub: one bass/voice method bridges space-rock exit and metal/punk crossover.",
+    "zh": "1945 年生。70 年代初在 Hawkwind 弹贝斯（Silver Machine 时期邻近）；1975 被撤，同年组建 Motörhead。Ace of Spades（1980）是引用点：过载 Rickenbacker、吼叫人声、无 glam 抛光的摇滚速度。\n\n2015 年仍带着 Motörhead logo 巡演中去世。枢纽：一种贝斯/嗓音方法桥接太空摇滚离队与金属/朋克交叉。"
+  },
+  "tenures": [
+    {
+      "bandName": "Hawkwind",
+      "role": "Bass, Vocals",
+      "from": 1971,
+      "to": 1975,
+      "note": {
+        "en": "Pre-Motörhead space-rock bass; band page not in chronicle.",
+        "zh": "Motörhead 之前的太空摇滚贝斯；乐队页尚未入编年史。"
+      }
+    },
+    {
+      "bandName": "Motörhead",
+      "bandSlug": "motorhead",
+      "role": "Vocals, Bass",
+      "from": 1975,
+      "to": 2015,
+      "note": {
+        "en": "Founding bass/vocals until death; Ace of Spades peak citation.",
+        "zh": "创始贝斯/人声至去世；Ace of Spades 峰值引用。"
+      }
+    }
+  ],
+  "relatedPeople": []
+}

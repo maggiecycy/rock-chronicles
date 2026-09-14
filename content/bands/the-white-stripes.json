@@ -18,7 +18,8 @@
     {
       "name": "Jack White",
       "role": "Vocals, Guitar, Piano",
-      "years": "1997–2011"
+      "years": "1997–2011",
+      "personSlug": "jack-white"
     },
     {
       "name": "Meg White",
@@ -230,7 +231,8 @@
       "members": [
         {
           "name": "Jack White",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "jack-white"
         },
         {
           "name": "Meg White",

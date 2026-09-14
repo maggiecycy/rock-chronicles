@@ -1,0 +1,40 @@
+{
+  "name": "Trent Reznor",
+  "slug": "trent-reznor",
+  "born": 1965,
+  "origin": "New Castle, Pennsylvania, USA",
+  "roles": [
+    "Vocals",
+    "Guitar",
+    "Keys",
+    "Production",
+    "Songwriting"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Nine Inch Nails as industrial hub: one-person studio project scaled to touring band.",
+    "zh": "Nine Inch Nails 作为工业枢纽：一人棚内项目扩成巡演乐队。"
+  },
+  "whyHub": {
+    "en": "Person = project brand: Reznor writes/produces NIN; live lineup is expandable labor around the studio author.",
+    "zh": "人物 = 项目品牌：Reznor 写作/制作 NIN；现场阵容是工作室作者周围的可扩展劳动力。"
+  },
+  "body": {
+    "en": "Born 1965. Pretty Hate Machine (1989) and The Downward Spiral (1994) cite sequenced industrial rock, distorted vocals, and sample-heavy arrangement. NIN is legally/brand-wise Reznor’s vehicle; Atticus Ross later joins as co-writer/producer and film-score partner.\n\nHub: industrial rock’s mass US face is a solo authorship model wearing a band name.",
+    "zh": "1965 年生。Pretty Hate Machine（1989）与 The Downward Spiral（1994）引用音序工业摇滚、失真人声与采样密集编曲。NIN 在法律/品牌上是 Reznor 载具；后 Atticus Ross 成为合写/制作与电影配乐搭档。\n\n枢纽：美国大众工业摇滚面孔是套着乐队名的独唱作者模型。"
+  },
+  "tenures": [
+    {
+      "bandName": "Nine Inch Nails",
+      "bandSlug": "nine-inch-nails",
+      "role": "Vocals, Multi-instrument, Production",
+      "from": 1988,
+      "to": "present",
+      "note": {
+        "en": "Founder and primary author; touring members rotate.",
+        "zh": "创始人与主作者；巡演成员轮换。"
+      }
+    }
+  ],
+  "relatedPeople": []
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Ray Davies",
+  "slug": "ray-davies",
+  "born": 1944,
+  "origin": "Muswell Hill, London, England",
+  "roles": [
+    "Vocals",
+    "Rhythm Guitar",
+    "Songwriting"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "The Kinks songwriter/vocals pillar; British social vignette and power-chord You Really Got Me origin.",
+    "zh": "The Kinks 写手/人声支柱；英国社会速写与 You Really Got Me 的 power-chord 源头。"
+  },
+  "whyHub": {
+    "en": "Primary writer across Kinks decades: riff singles and village-green narrative from one chair.",
+    "zh": "跨 Kinks 数十年的主笔：riff 单曲与乡村绿地叙事出自同一席位。"
+  },
+  "body": {
+    "en": "Born 1944, London. Forms The Kinks with brother Dave. You Really Got Me (1964) cites Dave’s sliced amp distortion and Ray’s hook writing—proto hard-rock riff on UK charts. Mid-late 60s shift to character songs (Waterloo Sunset, Village Green).\n\nHub: songwriter continuity through lineup and US-ban eras; Dave’s lead guitar is the other half of the sound, Ray owns the catalog spine.",
+    "zh": "1944 年生于伦敦。与弟 Dave 组建 The Kinks。You Really Got Me（1964）引用 Dave 的划破音箱失真与 Ray 的钩子写作——英国榜上的原硬摇滚 riff。60 年代中后期转向人物歌（Waterloo Sunset、Village Green）。\n\n枢纽：跨阵容与赴美禁令年代的写手连续；Dave 主音吉他是声音另一半，Ray 拥有目录脊梁。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Kinks",
+      "bandSlug": "the-kinks",
+      "role": "Vocals, Rhythm Guitar",
+      "from": 1963,
+      "to": 1996,
+      "note": {
+        "en": "Founding songwriter/vocals through classic and later Kinks eras.",
+        "zh": "创始写手/人声，贯穿经典与后期 Kinks。"
+      }
+    },
+    {
+      "bandName": "Ray Davies (solo)",
+      "role": "Vocals, Songwriting",
+      "from": 1985,
+      "to": "present",
+      "note": {
+        "en": "Solo and theatre-adjacent writing outside full Kinks activity.",
+        "zh": "Kinks 全建制活动之外的独唱与剧场向写作。"
+      }
+    }
+  ],
+  "relatedPeople": []
+}

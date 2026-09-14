@@ -1,0 +1,52 @@
+{
+  "name": "John Cale",
+  "slug": "john-cale",
+  "born": 1942,
+  "origin": "Garnant, Wales",
+  "roles": [
+    "Viola",
+    "Bass",
+    "Keys",
+    "Production",
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Velvet Underground viola/bass/arrangement; later producer/arranger for other artists’ breakthrough LPs.",
+    "zh": "Velvet Underground 中提琴/贝斯/编曲；后为他人突破专集担任制作/编曲。"
+  },
+  "whyHub": {
+    "en": "VU drone/harmony architect who becomes a mobile producer: method travels off the band logo.",
+    "zh": "VU 持续音/和声架构者，后成为可移动制作人：方法离开乐队 logo 流动。"
+  },
+  "body": {
+    "en": "Born 1942, Wales. In early VU, viola drones, piano clusters, and arrangement tension sit beside Reed’s songs (Venus in Furs, Heroin). Leaves 1968 after White Light/White Heat pressure. Solo and production work follows—Nico, The Stooges (as producer credit lore), and later indie/art acts cite his arranging ear.\n\nHub: first-principles VU noise/harmony, then institutional role as producer outside the band.",
+    "zh": "1942 年生于威尔士。早期 VU 中，中提琴持续音、钢琴音簇与编曲张力并列 Reed 歌曲（Venus in Furs、Heroin）。White Light/White Heat 压力后 1968 离队。随后独唱与制作——Nico、The Stooges（制作信誉传说）及后期 indie/艺术乐队引用其编曲耳朵。\n\n枢纽：VU 噪声/和声第一性原理，后转为乐队外的制作制度角色。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Velvet Underground",
+      "bandSlug": "the-velvet-underground",
+      "role": "Viola, Bass, Vocals, Arrangement",
+      "from": 1964,
+      "to": 1968,
+      "note": {
+        "en": "Founding arrangement/drone era with Reed.",
+        "zh": "与 Reed 的创始编曲/持续音时期。"
+      }
+    },
+    {
+      "bandName": "John Cale (solo / production)",
+      "role": "Production, Vocals, Multi-instrument",
+      "from": 1968,
+      "to": "present",
+      "note": {
+        "en": "Solo LPs and producer/arranger credits across scenes.",
+        "zh": "独唱专集与跨场景制作/编曲署名。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "lou-reed"
+  ]
+}

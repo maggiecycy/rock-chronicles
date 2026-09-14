@@ -17,7 +17,8 @@
     {
       "name": "Brian Wilson",
       "role": "Bass, Keys, Vocals, Production",
-      "years": "1961–1972; sporadic later"
+      "years": "1961–1972; sporadic later",
+      "personSlug": "brian-wilson"
     },
     {
       "name": "Carl Wilson",
@@ -252,7 +253,8 @@
       "members": [
         {
           "name": "Brian Wilson",
-          "role": "Vocals, Bass, Production"
+          "role": "Vocals, Bass, Production",
+          "personSlug": "brian-wilson"
         },
         {
           "name": "Mike Love",

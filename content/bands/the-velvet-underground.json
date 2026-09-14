@@ -17,12 +17,14 @@
     {
       "name": "Lou Reed",
       "role": "Vocals, Guitar",
-      "years": "1964–1973; 1990; 1992–1993"
+      "years": "1964–1973; 1990; 1992–1993",
+      "personSlug": "lou-reed"
     },
     {
       "name": "John Cale",
       "role": "Bass, Viola, Vocals",
-      "years": "1964–1968"
+      "years": "1964–1968",
+      "personSlug": "john-cale"
     },
     {
       "name": "Sterling Morrison",
@@ -254,11 +256,13 @@
       "members": [
         {
           "name": "Lou Reed",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "lou-reed"
         },
         {
           "name": "John Cale",
-          "role": "Viola, Bass, Keys"
+          "role": "Viola, Bass, Keys",
+          "personSlug": "john-cale"
         },
         {
           "name": "Sterling Morrison",

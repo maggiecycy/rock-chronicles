@@ -1,0 +1,51 @@
+{
+  "name": "Lou Reed",
+  "slug": "lou-reed",
+  "born": 1942,
+  "origin": "Brooklyn, New York, USA",
+  "roles": [
+    "Vocals",
+    "Guitar",
+    "Songwriting"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Velvet Underground vocals/guitar; deadpan street reportage. Major solo run after 1970.",
+    "zh": "Velvet Underground 人声/吉他；冷面街头纪实。1970 后有重要独唱生涯。"
+  },
+  "whyHub": {
+    "en": "VU → solo: same flat affect and guitar economy, from Warhol-era art-rock to Transformer/Berlin-scale authorship.",
+    "zh": "VU → 独唱：同一平面语气与吉他经济，从 Warhol 时期 art-rock 到 Transformer/Berlin 体量的作者身份。"
+  },
+  "body": {
+    "en": "Born 1942, Brooklyn. Co-leads The Velvet Underground with Cale (then without): Banana album, White Light/White Heat, Loaded. Leaves 1970. Solo Transformer (1972, Bowie/Ronson) and Berlin (1973) establish a parallel catalog; later Metal Machine Music and New York keep the reportage voice.\n\nHub: VU tenure is the seed citation; solo decades prove the songwriter travels without the band logo.",
+    "zh": "1942 年生于布鲁克林。与 Cale（其后无 Cale）共领 The Velvet Underground：香蕉专、White Light/White Heat、Loaded。1970 离队。独唱 Transformer（1972，Bowie/Ronson）与 Berlin（1973）建立平行目录；后 Metal Machine Music、New York 保持纪实嗓音。\n\n枢纽：VU 任期是种子引用；独唱数十年证明写手可离开乐队 logo 流动。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Velvet Underground",
+      "bandSlug": "the-velvet-underground",
+      "role": "Vocals, Guitar",
+      "from": 1964,
+      "to": 1970,
+      "note": {
+        "en": "Founding vocals/guitar; brief 90s reunions later.",
+        "zh": "创始人声/吉他；90 年代有短暂重聚。"
+      }
+    },
+    {
+      "bandName": "Lou Reed (solo)",
+      "role": "Vocals, Guitar",
+      "from": 1970,
+      "to": 2013,
+      "note": {
+        "en": "Transformer onward; parallel to VU legacy.",
+        "zh": "自 Transformer 起；与 VU 遗产并行。"
+      }
+    }
+  ],
+  "relatedPeople": [
+    "john-cale",
+    "david-bowie"
+  ]
+}

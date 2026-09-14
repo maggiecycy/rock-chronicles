@@ -15,7 +15,8 @@
     {
       "name": "Ian Curtis",
       "role": "Vocals",
-      "years": "1976–1980"
+      "years": "1976–1980",
+      "personSlug": "ian-curtis"
     },
     {
       "name": "Bernard Sumner",
@@ -222,7 +223,8 @@
       "members": [
         {
           "name": "Ian Curtis",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "ian-curtis"
         },
         {
           "name": "Bernard Sumner",

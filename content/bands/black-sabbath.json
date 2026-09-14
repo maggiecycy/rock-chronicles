@@ -25,12 +25,14 @@
     {
       "name": "Tony Iommi",
       "role": "Guitar",
-      "years": "1968–1979"
+      "years": "1968–1979",
+      "personSlug": "tony-iommi"
     },
     {
       "name": "Geezer Butler",
       "role": "Bass",
-      "years": "1968–1979"
+      "years": "1968–1979",
+      "personSlug": "geezer-butler"
     },
     {
       "name": "Bill Ward",
@@ -229,11 +231,13 @@
         },
         {
           "name": "Tony Iommi",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "tony-iommi"
         },
         {
           "name": "Geezer Butler",
-          "role": "Bass"
+          "role": "Bass",
+          "personSlug": "geezer-butler"
         },
         {
           "name": "Bill Ward",
@@ -259,11 +263,13 @@
         },
         {
           "name": "Tony Iommi",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "tony-iommi"
         },
         {
           "name": "Geezer Butler",
-          "role": "Bass"
+          "role": "Bass",
+          "personSlug": "geezer-butler"
         },
         {
           "name": "Bill Ward / Vinny Appice",

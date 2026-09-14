@@ -16,7 +16,8 @@
     {
       "name": "Michael Stipe",
       "role": "Vocals",
-      "years": "1980–2011"
+      "years": "1980–2011",
+      "personSlug": "michael-stipe"
     },
     {
       "name": "Peter Buck",
@@ -244,7 +245,8 @@
       "members": [
         {
           "name": "Michael Stipe",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "michael-stipe"
         },
         {
           "name": "Peter Buck",

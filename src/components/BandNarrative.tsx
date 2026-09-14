@@ -442,17 +442,8 @@ export function BandNarrative({
                   {loc(band.landmark.note, locale)}
                 </p>
               )}
-              <p className="mt-3 text-xs text-muted">{t.band.landmarkHint}</p>
             </div>
           )}
-          <div className="mt-10 flex flex-wrap items-center gap-4 text-xs uppercase tracking-wider text-muted">
-            <span>{t.band.scrollOrKeys}</span>
-            <span aria-hidden>↓</span>
-            <span>{t.band.or}</span>
-            <span className="border border-ink px-2 py-1">↑</span>
-            <span className="border border-ink px-2 py-1">↓</span>
-            <span>{enabled ? t.band.soundFollows : t.band.soundOff}</span>
-          </div>
         </div>
       </header>
 
@@ -547,9 +538,6 @@ export function BandNarrative({
             <h2 className="font-display text-3xl font-semibold">
               {t.band.lineupVersions}
             </h2>
-            <p className="mt-2 max-w-2xl text-sm text-muted">
-              {t.band.lineupVersionsHint}
-            </p>
             <ul className="mt-8 grid gap-4 lg:grid-cols-2">
               {band.lineupVersions!.map((v) => (
                 <li key={v.id} className="border-2 border-ink p-5">
@@ -605,9 +593,6 @@ export function BandNarrative({
             <h2 className="font-display text-3xl font-semibold">
               {t.band.quoteWall}
             </h2>
-            <p className="mt-2 max-w-xl text-sm text-muted">
-              {t.band.quoteWallHint}
-            </p>
             <ul className="mt-8 grid gap-4 sm:grid-cols-2">
               {band.interviewQuotes!.map((q) => (
                 <li key={q.text} className="border-2 border-ink p-5">
@@ -630,7 +615,6 @@ export function BandNarrative({
             <h2 className="font-display text-3xl font-semibold">
               {t.band.compositionTable}
             </h2>
-            <p className="mt-2 text-sm text-muted">{t.band.compositionHint}</p>
             <div className="mt-6 overflow-x-auto border-2 border-ink">
               <table className="w-full min-w-[40rem] text-left text-sm">
                 <thead className="border-b-2 border-ink bg-paper-deep/50 text-xs uppercase tracking-wider">

@@ -19,7 +19,8 @@
     {
       "name": "Joe Strummer",
       "role": "Vocals, Guitar",
-      "years": "1976–1986"
+      "years": "1976–1986",
+      "personSlug": "joe-strummer"
     },
     {
       "name": "Mick Jones",
@@ -229,7 +230,8 @@
       "members": [
         {
           "name": "Joe Strummer",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "joe-strummer"
         },
         {
           "name": "Mick Jones",

@@ -2159,15 +2159,7 @@
     ]
   },
   "futureFeatures": {
-    "en": [
-      "Richer genre evolution graph (already started on /genres).",
-      "Optional official audio embeds where licensing allows.",
-      "Fan lists / Blend links as community layer—after the canon is solid."
-    ],
-    "zh": [
-      "更密的流派演化图（/genres 已起步）。",
-      "在版权允许时嵌入官方试听。",
-      "乐迷歌单 / Blend 社群层——等名单骨架扎实后再做。"
-    ]
+    "en": [],
+    "zh": []
   }
 }

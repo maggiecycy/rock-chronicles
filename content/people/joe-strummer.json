@@ -1,0 +1,48 @@
+{
+  "name": "Joe Strummer",
+  "slug": "joe-strummer",
+  "born": 1952,
+  "origin": "Ankara, Turkey (raised London, England)",
+  "roles": [
+    "Vocals",
+    "Guitar",
+    "Songwriting"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "The Clash vocals/guitar; punk urgency plus reggae/rockabilly range on London Calling–era records.",
+    "zh": "The Clash 人声/吉他；朋克紧迫感加上 London Calling 时期的 reggae/rockabilly 幅度。"
+  },
+  "whyHub": {
+    "en": "Frontman as curator of styles: political bark and genre tourism held in one Clash catalog.",
+    "zh": "主唱即风格策展：政治嘶吼与类型游历收在同一 Clash 目录。"
+  },
+  "body": {
+    "en": "Born 1952. Joins The Clash 1976 with Jones, Simonon; Headon locks drums later. White Riot–era singles are UK punk citations; London Calling (1979) and Sandinista! expand into dub, soul, and rockabilly without dropping the barked vocal.\n\nJones exits 1983; band ends mid-80s. Later Mescaleros work continues the songwriter role outside the Clash logo. Hub: vocal personality as the constant across style jumps.",
+    "zh": "1952 年生。1976 与 Jones、Simonon 加入 The Clash；其后 Headon 锁定鼓。White Riot 时期单曲是英国朋克引用；London Calling（1979）与 Sandinista! 扩入 dub、soul、rockabilly，吼叫人声不丢。\n\nJones 1983 离队；乐队 80 年代中解散。后 Mescaleros 在 Clash logo 外延续写手角色。枢纽：风格跳跃中人声个性是常量。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Clash",
+      "bandSlug": "the-clash",
+      "role": "Vocals, Guitar",
+      "from": 1976,
+      "to": 1986,
+      "note": {
+        "en": "Founding vocals/guitar through London Calling peak.",
+        "zh": "创始人声/吉他，贯穿 London Calling 巅峰。"
+      }
+    },
+    {
+      "bandName": "The Mescaleros",
+      "role": "Vocals, Guitar",
+      "from": 1999,
+      "to": 2002,
+      "note": {
+        "en": "Late songwriter vehicle; project not yet in chronicle.",
+        "zh": "后期写手载体；项目尚未入编年史。"
+      }
+    }
+  ],
+  "relatedPeople": []
+}

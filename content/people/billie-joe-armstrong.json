@@ -1,0 +1,38 @@
+{
+  "name": "Billie Joe Armstrong",
+  "slug": "billie-joe-armstrong",
+  "born": 1972,
+  "origin": "Oakland, California, USA",
+  "roles": [
+    "Vocals",
+    "Guitar",
+    "Songwriting"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Green Day vocals/guitar; East Bay power-chord pop-punk scaled from Kerplunk DIY to Dookie/American Idiot mass.",
+    "zh": "Green Day 人声/吉他；东湾 power-chord 流行朋克，从 Kerplunk DIY 扩到 Dookie/American Idiot 大众体量。"
+  },
+  "whyHub": {
+    "en": "Writer–frontman constant: three-chord melody and nasal lead define Green Day across punk club and concept-stadium eras.",
+    "zh": "写手–主唱常量：三和弦旋律与鼻音主唱定义 Green Day，贯穿朋克俱乐部与概念体育场时代。"
+  },
+  "body": {
+    "en": "Born 1972. Forms Green Day with Dirnt; Tré Cool locks drums 1990. Dookie (1994) puts Basket Case–style hooks beside grunge on MTV. American Idiot (2004) proves punk concept-album stadium scale without abandoning power-chord verse/chorus.\n\nHub: vocal/guitar authorship stays fixed while production loudness and stage size change.",
+    "zh": "1972 年生。与 Dirnt 组建 Green Day；1990 Tré Cool 锁定鼓。Dookie（1994）把 Basket Case 式钩子放进 MTV，与 grunge 并列。American Idiot（2004）证明朋克概念专集可达体育场，且不丢 power-chord 主副歌。\n\n枢纽：人声/吉他作者权固定，制作响度与舞台体量变。"
+  },
+  "tenures": [
+    {
+      "bandName": "Green Day",
+      "bandSlug": "green-day",
+      "role": "Vocals, Guitar",
+      "from": 1987,
+      "to": "present",
+      "note": {
+        "en": "Founding vocals/guitar through Dookie and American Idiot eras.",
+        "zh": "创始人声/吉他，贯穿 Dookie 与 American Idiot 时代。"
+      }
+    }
+  ],
+  "relatedPeople": []
+}

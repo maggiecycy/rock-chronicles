@@ -17,7 +17,8 @@
     {
       "name": "Lemmy Kilmister",
       "role": "Vocals, Bass",
-      "years": "1975–2015"
+      "years": "1975–2015",
+      "personSlug": "lemmy-kilmister"
     },
     {
       "name": "Fast Eddie Clarke",
@@ -255,7 +256,8 @@
       "members": [
         {
           "name": "Lemmy Kilmister",
-          "role": "Bass, Vocals"
+          "role": "Bass, Vocals",
+          "personSlug": "lemmy-kilmister"
         },
         {
           "name": "Fast Eddie Clarke",

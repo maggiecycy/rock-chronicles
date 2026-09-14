@@ -184,10 +184,7 @@ export function TimelineRail({ eras, bandsByEra }: TimelineRailProps) {
     <div className="relative">
       <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
         <div>
-          <p className="text-xs font-medium uppercase tracking-[0.2em] text-muted">
-            {t.timeline.freeScroll}
-          </p>
-          <p className="font-display mt-1 text-2xl font-semibold">{activeNav}</p>
+          <p className="font-display text-2xl font-semibold">{activeNav}</p>
         </div>
         <div className="flex gap-2">
           <button

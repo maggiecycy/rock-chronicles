@@ -22,9 +22,6 @@ export function GenresView({
         <h1 className="font-display mt-2 text-4xl font-semibold tracking-tight sm:text-5xl">
           {t.genres.title}
         </h1>
-        <p className="mt-4 text-base leading-relaxed text-ink-soft sm:text-lg">
-          {t.genres.intro}
-        </p>
       </header>
       <GenreNetwork genres={genres} links={links} />
     </main>
