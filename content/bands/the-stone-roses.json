@@ -10,26 +10,210 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Manchester band that fused indie guitar with dance grooves before Britpop’s chart boom; The Stone Roses (1989) and Fools Gold are the documents.",
-    "zh": "曼彻斯特乐队：在 Britpop 榜单热潮前把 indie 吉他与舞曲 groove 融合；同名专辑（1989）与 Fools Gold 是文献。"
+    "en": "Manchester band that fused indie jangle with dance grooves on The Stone Roses (1989, John Leckie); Fools Gold’s extended 12\" form predates Britpop’s chart boom and feeds Oasis’s guitar ambition.",
+    "zh": "曼彻斯特乐队：在 The Stone Roses（1989，John Leckie）把 indie jangle 与舞曲 groove 融合；Fools Gold 延长 12\" 形态早于 Britpop 榜单热潮，喂养 Oasis 吉他野心。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Ian Brown",
+      "role": "Vocals",
+      "years": "1983–1996; 2011–2017"
+    },
+    {
+      "name": "John Squire",
+      "role": "Guitar",
+      "years": "1983–1996"
+    },
+    {
+      "name": "Mani",
+      "role": "Bass",
+      "years": "1987–1996; 2011–2017"
+    },
+    {
+      "name": "Reni",
+      "role": "Drums",
+      "years": "1983–1995"
+    }
+  ],
   "essentialTracks": [
+    {
+      "title": "I Wanna Be Adored",
+      "year": 1989
+    },
+    {
+      "title": "She Bangs the Drums",
+      "year": 1989
+    },
     {
       "title": "Fools Gold",
       "year": 1989
+    },
+    {
+      "title": "Love Spreads",
+      "year": 1994
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "oasis",
+    "blur"
+  ],
+  "influenceFrom": [
+    "the-beatles",
+    "the-smiths"
+  ],
+  "influenced": [
+    "oasis",
+    "blur"
+  ],
   "shortBio": {
-    "en": "Madchester guitar-dance; Fools Gold is the extended groove single.",
-    "zh": "Madchester 吉他—舞曲；Fools Gold 是延长 groove 单曲。"
+    "en": "Madchester guitar-dance four; Fools Gold is the extended groove single, 1989 debut the Britpop preface.",
+    "zh": "Madchester 吉他—舞曲四人组；Fools Gold 是延长 groove 单曲，1989 首专是 Britpop 前言。"
   },
   "body": {
-    "en": "Formed 1983. Debut album with John Leckie production set Ian Brown’s slack vocal, John Squire’s wah/jangle leads, Mani’s bass, Reni’s funk drums—baggy culture’s guitar wing.\n\nFools Gold (1989) is the listed track (long 12\" form). Second Coming delays and internal conflict limited the catalog; influence on Oasis and Britpop guitar bands is still cited.",
-    "zh": "1983 年组建。John Leckie 制作的首专定型 Ian Brown 松弛人声、John Squire 的 wah/jangle 主音、Mani 贝斯、Reni 的 funk 鼓——baggy 文化的吉他翼。\n\nFools Gold（1989）是列出曲目（长 12 寸形态）。Second Coming 延期与内部冲突限制了目录；对 Oasis 与 Britpop 吉他乐队的影响仍常被引用。"
-  }
+    "en": "Formed 1983 in Manchester. John Leckie’s production on The Stone Roses (1989) set Ian Brown’s flat vocal, John Squire’s wah/jangle leads, Mani’s melodic bass, and Reni’s funk drums—the guitar wing of baggy culture.\n\nFools Gold (1989) is the cited 12\" groove. Second Coming (1994) arrived after legal delays and Reni’s exit; catalog is short but Oasis and Britpop guitar bands still cite the debut as template.",
+    "zh": "1983 年于曼彻斯特组建。John Leckie 制作的 The Stone Roses（1989）定型 Ian Brown 平人声、John Squire wah/jangle 主音、Mani 旋律贝斯与 Reni funk 鼓——baggy 文化的吉他翼。\n\nFools Gold（1989）是被引用的 12\" groove。Second Coming（1994）在法律拖延与 Reni 离队后到来；目录虽短，Oasis 与 Britpop 吉他乐队仍引首专为模板。"
+  },
+  "scenes": [
+    {
+      "year": 1989,
+      "track": "I Wanna Be Adored",
+      "membersOnStage": [
+        "Ian Brown",
+        "John Squire",
+        "Mani",
+        "Reni"
+      ],
+      "genreTags": [
+        "indie-rock",
+        "psychedelic"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Reverse-gated intro into Squire wah/jangle; Leckie debut album opener.",
+        "zh": "反向门限前奏接 Squire wah/jangle；Leckie 制作首专开场。"
+      }
+    },
+    {
+      "year": 1989,
+      "track": "Fools Gold",
+      "membersOnStage": [
+        "Ian Brown",
+        "John Squire",
+        "Mani",
+        "Reni"
+      ],
+      "genreTags": [
+        "indie-rock",
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Nine-minute 12\" groove; Mani bass loop, Reni funk hi-hats, Brown slack vocal.",
+        "zh": "九分钟 12\" groove；Mani 贝斯循环、Reni funk 踩镲、Brown 松弛人声。"
+      }
+    },
+    {
+      "year": 1994,
+      "track": "Love Spreads",
+      "membersOnStage": [
+        "Ian Brown",
+        "John Squire",
+        "Mani",
+        "Reni"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Second Coming lead single; heavier Squire riff, delayed five-year follow-up.",
+        "zh": "Second Coming 主打；更重的 Squire riff，延迟五年的续作。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Guitar-dance fusion before Britpop charts",
+        "zh": "Britpop 榜单前的吉他—舞曲融合"
+      },
+      "body": {
+        "en": "The 1989 debut merges indie jangle with dance-floor length—Fools Gold runs on bass/drum loop, not verse-chorus radio logic. She Bangs the Drums adds tambourine-driven mid-tempo lift.\n\nMadchester fact: guitar band borrowing club groove mechanics.",
+        "zh": "1989 首专合并 indie jangle 与舞池时长——Fools Gold 靠贝斯/鼓循环，非主副歌电台逻辑。She Bangs the Drums 加入铃鼓驱动中速抬升。\n\nMadchester 事实：吉他乐队借用 club groove 机制。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Classic four and Second Coming fracture",
+        "zh": "经典四人组与 Second Coming 分裂"
+      },
+      "body": {
+        "en": "Peak silhouette: Brown vocal, Squire guitar, Mani bass, Reni drums. Reni exits mid-1990s sessions; Second Coming ships heavier, Zeppelin-leaning riffs without the debut’s dance length.\n\n2011–2017 reunion restores the four names on festival stages.",
+        "zh": "峰值剪影：Brown 人声、Squire 吉他、Mani 贝斯、Reni 鼓。Reni 在 1990 年代中期录音期间离队；Second Coming 交出更重、偏 Zeppelin 的 riff，失去首专舞曲时长。\n\n2011–2017 重聚在音乐节恢复四人名。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Debut template for Oasis and Britpop guitar",
+        "zh": "Oasis 与 Britpop 吉他的首专模板"
+      },
+      "body": {
+        "en": "Oasis and Blur both cite the 1989 album’s confidence and Squire’s guitar color as Manchester/London ambition fuel. Short catalog, long shadow.\n\nFools Gold proves UK guitar bands could hold club-length form on vinyl.",
+        "zh": "Oasis 与 Blur 均引用 1989 专辑的自信与 Squire 吉他色彩作为曼彻斯特/伦敦野心燃料。目录短，影子长。\n\nFools Gold 证明英国吉他乐队可在黑胶上维持 club 长度形态。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "I Wanna Be Adored",
+        "zh": "I Wanna Be Adored"
+      },
+      "body": {
+        "en": "Reverse-gated intro into Squire wah/jangle; Leckie debut album opener.",
+        "zh": "反向门限前奏接 Squire wah/jangle；Leckie 制作首专开场。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Fools Gold",
+        "zh": "Fools Gold"
+      },
+      "body": {
+        "en": "Nine-minute 12\" groove; Mani bass loop, Reni funk hi-hats, Brown slack vocal.",
+        "zh": "九分钟 12\" groove；Mani 贝斯循环、Reni funk 踩镲、Brown 松弛人声。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Love Spreads",
+        "zh": "Love Spreads"
+      },
+      "body": {
+        "en": "Second Coming lead single; heavier Squire riff, delayed five-year follow-up.",
+        "zh": "Second Coming 主打；更重的 Squire riff，延迟五年的续作。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "hard-rock"
+    }
+  ]
 }

@@ -10,26 +10,214 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Little Rock–origin act that fused goth-piano hooks with nu-metal guitars; Fallen (2003) dominated early-2000s rock radio.",
-    "zh": "小石城起家：哥特钢琴钩子叠 nu-metal 吉他；Fallen（2003）占领 2000 年代初摇滚电台。"
+    "en": "Little Rock act that fused goth-piano hooks with nu-metal guitars on Fallen (2003); Bring Me to Life dominated early-2000s rock radio.",
+    "zh": "小石城乐队：Fallen（2003）把哥特钢琴钩子与 nu-metal 吉他融合；Bring Me to Life 占领 2000 年代初摇滚电台。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Amy Lee",
+      "role": "Vocals, Piano",
+      "years": "1995–present"
+    },
+    {
+      "name": "Ben Moody",
+      "role": "Guitar",
+      "years": "1995–2003"
+    },
+    {
+      "name": "Rocky Gray",
+      "role": "Drums",
+      "years": "1997–2007"
+    },
+    {
+      "name": "John LeCompt",
+      "role": "Guitar",
+      "years": "1997–2007"
+    },
+    {
+      "name": "Will Boyd",
+      "role": "Bass",
+      "years": "1997–2006"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Bring Me to Life",
       "year": 2003
+    },
+    {
+      "title": "My Immortal",
+      "year": 2003
+    },
+    {
+      "title": "Going Under",
+      "year": 2003
+    },
+    {
+      "title": "Call Me When You're Sober",
+      "year": 2006
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
+  "relatedBands": [
+    "nirvana",
+    "the-cure"
+  ],
+  "influenceFrom": [
+    "the-cure",
+    "nirvana"
+  ],
   "influenced": [],
   "shortBio": {
-    "en": "Amy Lee–fronted goth/nu-metal crossover; Bring Me to Life is the chart spike.",
-    "zh": "Amy Lee 领衔的哥特/nu-metal 跨界；Bring Me to Life 是榜单峰值。"
+    "en": "Amy Lee–fronted goth/nu-metal crossover; Bring Me to Life is the 2003 chart spike.",
+    "zh": "Amy Lee 领衔哥特/nu-metal 跨界；Bring Me to Life 是 2003 榜单峰值。"
   },
   "body": {
-    "en": "Formed mid-1990s in Arkansas; Fallen (2003) is the commercial record that matters here—Ben Moody–era guitars, string/choir arrangements, Lee’s mezzo lead.\n\nBring Me to Life (2003) with Paul McCoy’s guest vocal is the nu-metal radio handshake. The page tracks how early-2000s rock radio absorbed goth-pop melody without leaving the heavy playlist.",
-    "zh": "1990 年代中期于阿肯色组建；Fallen（2003）是此处关键的商业唱片——Ben Moody 时期吉他、弦乐/合唱编曲、Lee 的女中音主唱。\n\n与 Paul McCoy 客串的 Bring Me to Life（2003）是 nu-metal 电台握手礼。本页追踪 2000 年代初摇滚电台如何在不离开重型播放列表的前提下吸收哥特流行旋律。"
-  }
+    "en": "Formed mid-1990s in Little Rock, Arkansas. Fallen (2003) is the commercial record: Ben Moody–era guitars, string/choir arrangements, Lee’s mezzo lead and piano hooks.\n\nBring Me to Life (2003) with Paul McCoy’s guest vocal is the nu-metal radio handshake. The band tracks how early-2000s rock radio absorbed goth-pop melody without leaving the heavy playlist.",
+    "zh": "1990 年代中期于阿肯色小石城组建。Fallen（2003）是关键商业唱片：Ben Moody 时期吉他、弦乐/合唱编曲、Lee 女中音主唱与钢琴钩子。\n\n与 Paul McCoy 客串的 Bring Me to Life（2003）是 nu-metal 电台握手礼。乐队记录 2000 年代初摇滚电台如何在不离开重型列表的前提下吸收哥特流行旋律。"
+  },
+  "scenes": [
+    {
+      "year": 2003,
+      "track": "Bring Me to Life",
+      "membersOnStage": [
+        "Amy Lee",
+        "Ben Moody",
+        "Rocky Gray",
+        "John LeCompt",
+        "Will Boyd"
+      ],
+      "genreTags": [
+        "alternative",
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Piano intro into down-tuned Riff—Paul McCoy guest rap on record, Lee mezzo lead.",
+        "zh": "钢琴 intro 接降调 Riff——录音室 Paul McCoy 客串 rap，Lee 女中音主唱。"
+      }
+    },
+    {
+      "year": 2003,
+      "track": "My Immortal",
+      "membersOnStage": [
+        "Amy Lee",
+        "Ben Moody",
+        "Rocky Gray",
+        "John LeCompt",
+        "Will Boyd"
+      ],
+      "genreTags": [
+        "alternative"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "Ballad piano and string arrangement—goth-pop melody on rock playlist.",
+        "zh": "谣曲钢琴与弦乐编曲——哥特流行旋律进摇滚播放列表。"
+      }
+    },
+    {
+      "year": 2003,
+      "track": "Going Under",
+      "membersOnStage": [
+        "Amy Lee",
+        "Ben Moody",
+        "Rocky Gray",
+        "John LeCompt",
+        "Will Boyd"
+      ],
+      "genreTags": [
+        "heavy-metal",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Chugging 失真 guitar and Lee belt—Fallen-era live set anchor.",
+        "zh": "切分 失真 吉他与 Lee  belting——Fallen 时期现场组曲锚点。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Goth piano meets nu-metal radio",
+        "zh": "哥特钢琴遇上 nu-metal 电台"
+      },
+      "body": {
+        "en": "Evanescence matter for merging Amy Lee’s classical-piano goth hooks with down-tuned guitar and arena production on Fallen (2003).\n\nBring Me to Life’s piano-to-Riff switch and guest rap verse opened rock radio to crossover formatting.\n\nMy Immortal proves ballad strings could sit on the same album as chugging 失真.\n\nFallen sold multi-platinum—goth-pop melody as mass rock product.",
+        "zh": "Evanescence 要紧处是 Amy Lee 古典钢琴哥特钩子与降调吉他和体育场制作在 Fallen（2003）上的合并。\n\nBring Me to Life 的钢琴接 Riff 切换与客串 rap 主歌打开摇滚电台跨界格式。\n\nMy Immortal 证明谣曲弦乐可与切分 失真 同专并存。\n\nFallen 多白金——哥特流行旋律作大众摇滚产品。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Fallen-era five-piece",
+        "zh": "Fallen 时期五人组"
+      },
+      "body": {
+        "en": "1995–2003 core story: Lee and Moody as writers; Gray, LeCompt, Boyd as live band for Fallen cycle.\n\nMoody exits October 2003—Lee becomes sole creative anchor through lineup churn.\n\nThe Open Door (2006) continues piano/goth metal with new guitar personnel.\n\nLee’s vocal range and piano intro remain constant across roster changes.",
+        "zh": "1995–2003 核心叙事：Lee 与 Moody 写作；Gray、LeCompt、Boyd 为 Fallen 周期现场班底。\n\nMoody 2003 年 10 月离队——Lee 成唯一创作锚点经阵容流动。\n\nThe Open Door（2006）以新吉他人员延续钢琴/哥特金属。\n\nLee 音域与钢琴 intro 经阵容变动保持恒定。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "2000s rock radio goth crossover",
+        "zh": "2000 年代摇滚电台哥特跨界"
+      },
+      "body": {
+        "en": "Evanescence opened a lane for female-fronted goth-rock on US rock radio alongside nu-metal peers.\n\nThe Cure’s melodic gloom and Nirvana’s dynamic shifts are audible ancestors; execution is more cinematic and string-heavy.\n\nBring Me to Life and My Immortal remain licensing and cover-song staples.\n\nLater symphonic rock records extend the brand but Fallen is the citation document.",
+        "zh": "Evanescence 为女主唱哥特摇滚在美国摇滚电台开出车道，与 nu-metal 同辈并行。\n\nThe Cure 旋律暗色与 Nirvana 动态切换是可闻祖先；执行更电影化、弦乐更重。\n\nBring Me to Life 与 My Immortal 仍是授权与翻唱常备。\n\n后期交响摇滚延伸品牌，Fallen 是引用文献。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Bring Me to Life",
+        "zh": "Bring Me to Life"
+      },
+      "body": {
+        "en": "Piano intro into down-tuned Riff—Paul McCoy guest rap on record, Lee mezzo lead.",
+        "zh": "钢琴 intro 接降调 Riff——录音室 Paul McCoy 客串 rap，Lee 女中音主唱。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "My Immortal",
+        "zh": "My Immortal"
+      },
+      "body": {
+        "en": "Ballad piano and string arrangement—goth-pop melody on rock playlist.",
+        "zh": "谣曲钢琴与弦乐编曲——哥特流行旋律进摇滚播放列表。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Going Under",
+        "zh": "Going Under"
+      },
+      "body": {
+        "en": "Chugging 失真 guitar and Lee belt—Fallen-era live set anchor.",
+        "zh": "切分 失真 吉他与 Lee  belting——Fallen 时期现场组曲锚点。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "heavy-metal"
+    }
+  ]
 }

@@ -10,26 +10,210 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "NYC post-punk revival four-piece; Turn on the Bright Lights (2002) restored Joy Division–echo bass and reverb guitar as early-2000s indie default.",
-    "zh": "纽约后朋克复兴四人组；Turn on the Bright Lights（2002）把 Joy Division 回声式贝斯与混响吉他恢复成 2000 年代初 indie 默认。"
+    "en": "NYC four-piece whose Turn on the Bright Lights (2002) restored Joy Division–echo bass, reverb guitar, and black-suit gloom as early-2000s indie default.",
+    "zh": "纽约四人组：Turn on the Bright Lights（2002）把 Joy Division 回声贝斯、混响吉他与黑西装暗色恢复成 2000 年代初 indie 默认。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Paul Banks",
+      "role": "Vocals, Bass",
+      "years": "1997–present"
+    },
+    {
+      "name": "Daniel Kessler",
+      "role": "Guitar",
+      "years": "1997–present"
+    },
+    {
+      "name": "Carlos D",
+      "role": "Bass",
+      "years": "1997–2010"
+    },
+    {
+      "name": "Sam Fogarino",
+      "role": "Drums",
+      "years": "2000–present"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Obstacle 1",
       "year": 2002
+    },
+    {
+      "title": "Evil",
+      "year": 2004
+    },
+    {
+      "title": "NYC",
+      "year": 2002
+    },
+    {
+      "title": "Slow Hands",
+      "year": 2004
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "the-strokes",
+    "joy-division",
+    "the-cure"
+  ],
+  "influenceFrom": [
+    "joy-division",
+    "the-cure"
+  ],
+  "influenced": [
+    "arctic-monkeys"
+  ],
   "shortBio": {
-    "en": "Paul Banks / Carlos Dengler–era gloom rock; Obstacle 1 is the debut-era single.",
-    "zh": "Paul Banks / Carlos Dengler 时期暗色摇滚；Obstacle 1 是出道期单曲。"
+    "en": "Banks/Kessler/Dengler post-punk revival; Obstacle 1 is the debut-era single.",
+    "zh": "Banks/Kessler/Dengler 后朋复兴；Obstacle 1 是出道期单曲。"
   },
   "body": {
-    "en": "Formed 1997. Bright Lights and Antics (2004) defined a look and mix: black suits, delayed dual guitars, high-register bass, dry vocal.\n\nObstacle 1 (2002) is the structural sample—tight verse, open chorus, Dengler’s melodic bass. They sit with The Strokes/Yeah Yeah Yeahs on the NYC revival map but aim colder and more mid-tempo than garage peers.",
-    "zh": "1997 年组建。Bright Lights 与 Antics（2004）定义外形与混音：黑西装、双延时吉他、高音域贝斯、干人声。\n\nObstacle 1（2002）是结构样本——紧主歌、开副歌、Dengler 的旋律贝斯。与 The Strokes/Yeah Yeah Yeahs 同在纽约复兴地图，但比 garage 同伴更冷、更中速。"
-  }
+    "en": "Formed 1997 in New York. Turn on the Bright Lights (2002) and Antics (2004) defined a look and mix: black suits, delayed interlocking guitars, Carlos D’s high-register bass, Banks’s restrained vocal.\n\nObstacle 1 (2002) is the structural sample—tight verse, open chorus, melodic bass as hook. They share the NYC revival map with The Strokes but run colder, slower, and more Joy Division–coded than garage peers.",
+    "zh": "1997 年于纽约组建。Turn on the Bright Lights（2002）与 Antics（2004）定义外形与混音：黑西装、延时交织吉他、Carlos D 高音域贝斯、Banks 克制人声。\n\nObstacle 1（2002）是结构样本——紧主歌、开副歌、旋律贝斯作钩子。与 The Strokes 共享纽约复兴地图，但比 garage 同伴更冷、更慢、更 Joy Division 编码。"
+  },
+  "scenes": [
+    {
+      "year": 2002,
+      "track": "Obstacle 1",
+      "membersOnStage": [
+        "Paul Banks",
+        "Daniel Kessler",
+        "Carlos D",
+        "Sam Fogarino"
+      ],
+      "genreTags": [
+        "post-punk",
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Tight verse, open chorus—Dengler bass melody as post-punk hook.",
+        "zh": "紧主歌、开副歌——Dengler 贝斯旋律作后朋钩子。"
+      }
+    },
+    {
+      "year": 2004,
+      "track": "Evil",
+      "membersOnStage": [
+        "Paul Banks",
+        "Daniel Kessler",
+        "Carlos D",
+        "Sam Fogarino"
+      ],
+      "genreTags": [
+        "post-punk",
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Antics single: organ undercurrent and mid-tempo swagger for second-album radio.",
+        "zh": "Antics 单曲：风琴底流与中速 swagger，服务二专电台。"
+      }
+    },
+    {
+      "year": 2002,
+      "track": "NYC",
+      "membersOnStage": [
+        "Paul Banks",
+        "Daniel Kessler",
+        "Carlos D",
+        "Sam Fogarino"
+      ],
+      "genreTags": [
+        "post-punk",
+        "indie-rock"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "Delay-heavy dual guitars, dry vocal—debut album mood piece.",
+        "zh": "大量延时双吉他、干人声——首专氛围曲。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Joy Division echo as NYC indie uniform",
+        "zh": "Joy Division 回声作 NYC indie 制服"
+      },
+      "body": {
+        "en": "Interpol matter for restoring post-punk bass prominence and reverb guitar as 2000s indie grammar—not garage speed but mid-tempo gloom.\n\nTurn on the Bright Lights (2002, Matador) arrived beside The Strokes but traded swagger for restraint.\n\nBanks’s baritone and Kessler’s arpeggiated delay define the sonic ID.\n\nVisual branding (suits, B&W press) is part of the citation package.",
+        "zh": "Interpol 要紧处是把后朋贝斯 prominence 与混响吉他恢复为 2000 年代 indie 语法——非 garage 速度而是中速暗色。\n\nTurn on the Bright Lights（2002，Matador）与 The Strokes 同期但用克制换 swagger。\n\nBanks 男中音与 Kessler 琶音延时定义声音 ID。\n\n视觉品牌（西装、黑白媒体）是引用包的一部分。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Classic four through Antics",
+        "zh": "Antics 前经典四人"
+      },
+      "body": {
+        "en": "1997–2010 defining lineup: Banks, Kessler, Carlos D, Fogarino—dual guitar/bass division with no keyboard player on stage.\n\nAntics (2004) adds organ textures in studio while keeping the same four names live.\n\nCarlos D’s 2010 exit shifts bass duties; later records explore wider dynamics but the Bright Lights/Antics pair is the citation core.\n\nFogarino’s dry, forward kit keeps songs mid-tempo without ballad drift.",
+        "zh": "1997–2010 定义阵容：Banks、Kessler、Carlos D、Fogarino——双吉他/贝斯分工，台上无键盘。\n\nAntics（2004）录音室加风琴质感，现场仍四人名。\n\nCarlos D 2010 年离队改变贝斯分工；后期唱片探索更宽动态，Bright Lights/Antics 双专仍是引用核心。\n\nFogarino 干、靠前的鼓组让歌曲保持中速而不漂成谣曲。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Post-punk revival template for 2000s indie",
+        "zh": "2000 年代 indie 的后朋复兴模板"
+      },
+      "body": {
+        "en": "Interpol’s bass-forward mix and delay guitar stack became a default for gloom-rock revival bands through the 2000s.\n\nJoy Division and The Cure are named ancestors; Interpol translates them for Matador-era indie radio.\n\nUK acts including Arctic Monkeys share chart infrastructure but Interpol’s direct lineage is post-punk arrangement.\n\nCitation peak is 2002–04—two albums, high density.",
+        "zh": "Interpol 贝斯前置混音与延时吉他堆叠成 2000 年代暗色摇滚复兴乐队默认。\n\nJoy Division 与 The Cure 是点名祖先；Interpol 为 Matador 时代 indie 电台翻译它们。\n\n含 Arctic Monkeys 的英国乐队共享榜基建，但 Interpol 直接血脉是后朋编曲。\n\n引用峰值 2002–04——两张专辑，高密度。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Obstacle 1",
+        "zh": "Obstacle 1"
+      },
+      "body": {
+        "en": "Tight verse, open chorus—Dengler bass melody as post-punk hook.",
+        "zh": "紧主歌、开副歌——Dengler 贝斯旋律作后朋钩子。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Evil",
+        "zh": "Evil"
+      },
+      "body": {
+        "en": "Antics single: organ undercurrent and mid-tempo swagger for second-album radio.",
+        "zh": "Antics 单曲：风琴底流与中速 swagger，服务二专电台。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "NYC",
+        "zh": "NYC"
+      },
+      "body": {
+        "en": "Delay-heavy dual guitars, dry vocal—debut album mood piece.",
+        "zh": "大量延时双吉他、干人声——首专氛围曲。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "post-punk"
+    }
+  ]
 }

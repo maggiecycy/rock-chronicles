@@ -6,30 +6,221 @@
   "primaryEra": "1990s-grunge-alt",
   "genres": [
     "indie-rock",
-    "alternative"
+    "alternative",
+    "shoegaze"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Reading shoegaze/dream-pop band; Souvlaki (1993) fixed gentle vocals inside thick guitar fog as the softer Creation-era pole opposite MBV’s abrasion.",
-    "zh": "雷丁 shoegaze/dream-pop；Souvlaki（1993）把轻人声放进厚吉他雾，作为 Creation 时期相对 MBV 摩擦感的柔软一极。"
+    "en": "Reading shoegaze band whose Souvlaki (1993) fixed gentle dual vocals inside thick guitar fog—the softer Creation-era pole opposite MBV’s abrasion.",
+    "zh": "雷丁 shoegaze 乐队；Souvlaki（1993）把轻柔双声部放进厚吉他雾——Creation 时期相对 MBV 摩擦感的柔软一极。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Neil Halstead",
+      "role": "Vocals, Guitar",
+      "years": "1989–present"
+    },
+    {
+      "name": "Rachel Goswell",
+      "role": "Vocals, Guitar",
+      "years": "1989–present"
+    },
+    {
+      "name": "Nick Chaplin",
+      "role": "Bass",
+      "years": "1989–1995"
+    },
+    {
+      "name": "Simon Scott",
+      "role": "Drums",
+      "years": "1990–1995"
+    },
+    {
+      "name": "Christian Savill",
+      "role": "Guitar",
+      "years": "1990–1995"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Alison",
       "year": 1993
+    },
+    {
+      "title": "When the Sun Hits",
+      "year": 1993
+    },
+    {
+      "title": "Machine Gun",
+      "year": 1995
+    },
+    {
+      "title": "Sugar for the Pill",
+      "year": 2017
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "my-bloody-valentine"
+  ],
+  "influenceFrom": [
+    "my-bloody-valentine",
+    "sonic-youth"
+  ],
+  "influenced": [
+    "radiohead"
+  ],
   "shortBio": {
-    "en": "Neil Halstead / Rachel Goswell shoegaze; Alison is the Souvlaki entry.",
-    "zh": "Neil Halstead / Rachel Goswell 的 shoegaze；Alison 是 Souvlaki 入口。"
+    "en": "Halstead/Goswell shoegaze; Alison is the Souvlaki entry.",
+    "zh": "Halstead/Goswell shoegaze；Alison 是 Souvlaki 入口。"
   },
   "body": {
-    "en": "Formed 1989. Just for a Day and Souvlaki (with some Brian Eno input) use delay/reverb stacks, whispered dual vocals, and mid-tempo drums rather than noise assault.\n\nAlison (1993) is the listed track. 2010s reunion albums confirmed a lasting template for dream-pop revival bands citing UK shoegaze.",
-    "zh": "1989 年组建。Just for a Day 与 Souvlaki（含部分 Brian Eno 参与）用延时/混响堆叠、低语双人声与中速鼓，而非噪声突击。\n\nAlison（1993）是列出曲目。2010 年代重组专辑坐实了英国 shoegaze 被 dream-pop 复兴乐队持续引用的模板。"
-  }
+    "en": "Formed 1989 in Reading. Just for a Day and Souvlaki (with some Brian Eno input) use delay/reverb stacks, whispered dual vocals, and mid-tempo drums rather than noise assault.\n\nAlison (1993) and When the Sun Hits (1993) are the citation pair. 2010s reunion albums confirmed a lasting template for dream-pop revival bands citing UK shoegaze.",
+    "zh": "1989 年于雷丁组建。Just for a Day 与 Souvlaki（含部分 Brian Eno 参与）用延时/混响堆叠、低语双人声与中速鼓，而非噪声突击。\n\nAlison（1993）与 When the Sun Hits（1993）是引用双曲。2010 年代重组专辑坐实英国 shoegaze 被 dream-pop 复兴乐队持续引用的模板。"
+  },
+  "scenes": [
+    {
+      "year": 1993,
+      "track": "Alison",
+      "membersOnStage": [
+        "Neil Halstead",
+        "Rachel Goswell",
+        "Nick Chaplin",
+        "Simon Scott",
+        "Christian Savill"
+      ],
+      "genreTags": [
+        "shoegaze",
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Whispered dual vocals over delay-washed Riff—Souvlaki entry track.",
+        "zh": "低语双声部叠延时 Riff——Souvlaki 入口曲。"
+      }
+    },
+    {
+      "year": 1993,
+      "track": "When the Sun Hits",
+      "membersOnStage": [
+        "Neil Halstead",
+        "Rachel Goswell",
+        "Nick Chaplin",
+        "Simon Scott",
+        "Christian Savill"
+      ],
+      "genreTags": [
+        "shoegaze",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Volume swell and 延音 wall—Creation-era shoegaze peak dynamics.",
+        "zh": "音量 swell 与 延音 墙——Creation 时期 shoegaze 峰值动态。"
+      }
+    },
+    {
+      "year": 1995,
+      "track": "Machine Gun",
+      "membersOnStage": [
+        "Neil Halstead",
+        "Rachel Goswell",
+        "Nick Chaplin",
+        "Simon Scott",
+        "Christian Savill"
+      ],
+      "genreTags": [
+        "shoegaze",
+        "indie-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Pygmalion-era loop and drum-machine drift—softer blur before hiatus.",
+        "zh": "Pygmalion 时期 loop 与鼓机漂移—— hiatus 前更软模糊。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Soft shoegaze pole beside MBV",
+        "zh": "MBV 旁的柔软 shoegaze 一极"
+      },
+      "body": {
+        "en": "Slowdive matter as the melodic, vocal-forward shoegaze counterweight to My Bloody Valentine’s abrasive Loveless wall.\n\nSouvlaki (1993, Creation) uses delay/reverb 延音 stacks with Halstead/Goswell whisper vocals.\n\nAlison is the gentle entry; When the Sun Hits shows full volume swell.\n\nThey prove shoegaze could be mid-tempo and song-shaped, not only noise assault.",
+        "zh": "Slowdive 要紧处是相对 My Bloody Valentine Loveless 墙的旋律、人声前置 shoegaze 配重。\n\nSouvlaki（1993，Creation）用延时/混响 延音 堆叠配 Halstead/Goswell 低语人声。\n\nAlison 是柔和入口；When the Sun Hits 展示全音量 swell。\n\n证明 shoegaze 可中速、有歌曲形，非仅噪声突击。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "shoegaze"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Classic five through Pygmalion",
+        "zh": "Pygmalion 前经典五人"
+      },
+      "body": {
+        "en": "1989–1995 core: Halstead, Goswell, Chaplin, Scott, Savill—dual vocalist/guitarists with Chaplin bass anchor.\n\nSouvlaki sessions include Brian Eno co-writing input on select tracks.\n\nPygmalion (1995) shifts toward drum machines and ambient loops before 1995 breakup.\n\n2014 reunion restores Halstead/Goswell with new rhythm section; Sugar for the Pill (2017) updates the blur template.",
+        "zh": "1989–1995 核心：Halstead、Goswell、Chaplin、Scott、Savill——双主唱/吉他手，Chaplin 贝斯锚。\n\nSouvlaki 录音含 Brian Eno 部分曲目共写。\n\nPygmalion（1995）转向鼓机与 ambient loop，1995 年解散前。\n\n2014 重组恢复 Halstead/Goswell 加新节奏组；Sugar for the Pill（2017）更新模糊模板。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "shoegaze"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Dream-pop and indie citation chain",
+        "zh": "Dream-pop 与 indie 引用链"
+      },
+      "body": {
+        "en": "Slowdive’s Souvlaki template—延音 guitar fog plus audible melody—feeds 2010s dream-pop and shoegaze revival acts.\n\nMy Bloody Valentine and Sonic Youth are direct ancestors; Slowdive softens the attack.\n\nRadiohead’s mid-90s textural interest shares the same UK indie infrastructure.\n\nReunion records prove the method outlasted Creation’s original run.",
+        "zh": "Slowdive Souvlaki 模板——延音 吉他雾加可闻旋律——喂养 2010 年代 dream-pop 与 shoegaze 复兴。\n\nMy Bloody Valentine 与 Sonic Youth 是直接祖先；Slowdive 软化攻击。\n\nRadiohead 1990 年代中期质感兴趣共享同一英国 indie 基建。\n\n重组唱片证明方法比 Creation 原运行更长寿。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "shoegaze"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Alison",
+        "zh": "Alison"
+      },
+      "body": {
+        "en": "Whispered dual vocals over delay-washed Riff—Souvlaki entry track.",
+        "zh": "低语双声部叠延时 Riff——Souvlaki 入口曲。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "shoegaze"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "When the Sun Hits",
+        "zh": "When the Sun Hits"
+      },
+      "body": {
+        "en": "Volume swell and 延音 wall—Creation-era shoegaze peak dynamics.",
+        "zh": "音量 swell 与 延音 墙——Creation 时期 shoegaze 峰值动态。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "shoegaze"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Machine Gun",
+        "zh": "Machine Gun"
+      },
+      "body": {
+        "en": "Pygmalion-era loop and drum-machine drift—softer blur before hiatus.",
+        "zh": "Pygmalion 时期 loop 与鼓机漂移—— hiatus 前更软模糊。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "shoegaze"
+    }
+  ]
 }

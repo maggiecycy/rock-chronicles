@@ -10,26 +10,210 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "London garage-punk band; Up the Bracket (2002) and the Doherty–Barât partnership became mid-2000s UK indie’s chaos document.",
-    "zh": "伦敦车库朋克；Up the Bracket（2002）与 Doherty–Barât 搭档成为 2000 年代中期英国 indie 的混乱文献。"
+    "en": "London garage-punk four whose Up the Bracket (2002, Mick Jones) and dual-vocal Doherty–Barât partnership mapped post-Strokes UK indie chaos onto Rough Trade 45s.",
+    "zh": "伦敦车库朋克四人组：Up the Bracket（2002，Mick Jones）与 Doherty–Barât 双人声搭档，把后 Strokes 英国 indie 混乱写进 Rough Trade 45。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Carl Barât",
+      "role": "Vocals, Guitar",
+      "years": "1997–present"
+    },
+    {
+      "name": "Pete Doherty",
+      "role": "Vocals, Guitar",
+      "years": "1997–2004; 2007–2015"
+    },
+    {
+      "name": "John Hassall",
+      "role": "Bass",
+      "years": "1999–present"
+    },
+    {
+      "name": "Gary Powell",
+      "role": "Drums",
+      "years": "2000–present"
+    }
+  ],
   "essentialTracks": [
+    {
+      "title": "What a Waster",
+      "year": 2002
+    },
+    {
+      "title": "Don't Look Back into the Sun",
+      "year": 2003
+    },
     {
       "title": "Can't Stand Me Now",
       "year": 2004
+    },
+    {
+      "title": "Time for Heroes",
+      "year": 2002
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "the-strokes",
+    "arctic-monkeys"
+  ],
+  "influenceFrom": [
+    "the-clash",
+    "the-strokes"
+  ],
+  "influenced": [
+    "arctic-monkeys",
+    "franz-ferdinand"
+  ],
   "shortBio": {
-    "en": "UK indie/garage; Can’t Stand Me Now is the dual-vocal single.",
-    "zh": "英国 indie/garage；Can’t Stand Me Now 是双人声单曲。"
+    "en": "Barât / Doherty garage-punk; Mick Jones production, Can't Stand Me Now the dual-vocal split document.",
+    "zh": "Barât / Doherty 车库朋克；Mick Jones 制作，Can't Stand Me Now 是双人声分裂文献。"
   },
   "body": {
-    "en": "Formed 1997. Early Rough Trade releases and Mick Jones production put raw dual vocals, loose drums, and music-hall lyric references on the post-Strokes UK map.\n\nCan’t Stand Me Now (2004) is the listed track. Career interruptions and tabloid coverage are part of the public record; musically they export urgency and song craft over polish.",
-    "zh": "1997 年组建。早期 Rough Trade 发行与 Mick Jones 制作把毛糙双人声、松鼓组与音乐厅式歌词指涉放上后 Strokes 英国地图。\n\nCan’t Stand Me Now（2004）是列出曲目。事业中断与小报报道属公开记录；音乐上输出的是紧迫感与歌曲工艺，而非抛光。"
-  }
+    "en": "Formed 1997 in London. Early Rough Trade releases and Mick Jones’s production on Up the Bracket (2002) put raw dual vocals, loose drums, and music-hall lyric references on the post-Strokes UK map.\n\nThe Libertines (2004) delivered Can't Stand Me Now—call-response vocals charting the Doherty–Barât fracture. Tabloid coverage is public record; musically they export urgency and song craft over polish.",
+    "zh": "1997 年于伦敦组建。早期 Rough Trade 发行与 Mick Jones 在 Up the Bracket（2002）的制作，把毛糙双人声、松鼓组与音乐厅式歌词指涉放上后 Strokes 英国地图。\n\nThe Libertines（2004）交出 Can't Stand Me Now——呼叫—回应人声记录 Doherty–Barât 分裂。小报报道属公开记录；音乐上输出紧迫感与歌曲工艺，而非抛光。"
+  },
+  "scenes": [
+    {
+      "year": 2002,
+      "track": "What a Waster",
+      "membersOnStage": [
+        "Carl Barât",
+        "Pete Doherty",
+        "John Hassall",
+        "Gary Powell"
+      ],
+      "genreTags": [
+        "punk",
+        "indie-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Up the Bracket opener; BBC ban, loose dual vocals, Jones production.",
+        "zh": "Up the Bracket 开场；BBC 禁播、松双人声、Jones 制作。"
+      }
+    },
+    {
+      "year": 2003,
+      "track": "Don't Look Back into the Sun",
+      "membersOnStage": [
+        "Carl Barât",
+        "Pete Doherty",
+        "John Hassall",
+        "Gary Powell"
+      ],
+      "genreTags": [
+        "indie-rock",
+        "punk"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Single between albums; chiming Barât/Doherty guitar unison.",
+        "zh": "专辑间单曲；Barât/Doherty 吉他齐奏 jangle。"
+      }
+    },
+    {
+      "year": 2004,
+      "track": "Can't Stand Me Now",
+      "membersOnStage": [
+        "Carl Barât",
+        "Pete Doherty",
+        "John Hassall",
+        "Gary Powell"
+      ],
+      "genreTags": [
+        "indie-rock",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Self-titled album lead; call-response dual vocal documents internal split.",
+        "zh": "同名专辑主打；呼叫—回应双人声记录内部分裂。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Garage urgency after The Strokes",
+        "zh": "The Strokes 之后的车库紧迫感"
+      },
+      "body": {
+        "en": "Up the Bracket keeps Clash-era speed with 2000s indie slack—What a Waster’s BBC controversy is chart/media fact. Dual frontmen trade lines without harmonized polish.\n\nSong craft under chaos: Time for Heroes, Don't Look Back into the Sun as tight 45s.",
+        "zh": "Up the Bracket 保留 Clash 时代速度配 2000 年代 indie 松弛——What a Waster 的 BBC 争议是榜单/媒体事实。双主唱交换句子，无和谐抛光。\n\n混乱下的歌曲工艺：Time for Heroes、Don't Look Back into the Sun 作为紧致 45。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "punk"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Classic four and Doherty absences",
+        "zh": "经典四人与 Doherty 缺席"
+      },
+      "body": {
+        "en": "Peak unit: Barât and Doherty guitars/vocals, Hassall bass, Powell drums. Doherty’s absences and 2004 split interrupt the run; reunions restore the four-piece for festivals.\n\nMick Jones production credit marks the Clash lineage on tape.",
+        "zh": "峰值单元：Barât 与 Doherty 吉他/人声、Hassall 贝斯、Powell 鼓。Doherty 缺席与 2004 分裂打断进程；重聚在音乐节恢复四人组。\n\nMick Jones 制作署名标记 Clash 血统在磁带里。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "London indie chaos into Arctic Monkeys",
+        "zh": "伦敦 indie 混乱进入 Arctic Monkeys"
+      },
+      "body": {
+        "en": "The Libertines export loose dual-vocal garage and lyric locality that Arctic Monkeys and Franz Ferdinand inherit in the 2000s UK revival wave.\n\nClash production DNA plus Strokes timing—document, not stadium polish.",
+        "zh": "The Libertines 输出松双人声车库与歌词地方法，Arctic Monkeys 与 Franz Ferdinand 在 2000 年代英国复兴波继承。\n\nClash 制作 DNA 加 Strokes 时机——文献，非体育场抛光。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "What a Waster",
+        "zh": "What a Waster"
+      },
+      "body": {
+        "en": "Up the Bracket opener; BBC ban, loose dual vocals, Jones production.",
+        "zh": "Up the Bracket 开场；BBC 禁播、松双人声、Jones 制作。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "punk"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Don't Look Back into the Sun",
+        "zh": "Don't Look Back into the Sun"
+      },
+      "body": {
+        "en": "Single between albums; chiming Barât/Doherty guitar unison.",
+        "zh": "专辑间单曲；Barât/Doherty 吉他齐奏 jangle。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Can't Stand Me Now",
+        "zh": "Can't Stand Me Now"
+      },
+      "body": {
+        "en": "Self-titled album lead; call-response dual vocal documents internal split.",
+        "zh": "同名专辑主打；呼叫—回应双人声记录内部分裂。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "indie-rock"
+    }
+  ]
 }

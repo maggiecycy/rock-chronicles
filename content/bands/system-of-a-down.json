@@ -10,26 +10,209 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "LA Armenian-American metal band; Toxicity (2001) put odd meters, shouted politics, and abrupt dynamic cuts on nu-metal radio.",
-    "zh": "洛杉矶亚美裔金属乐队；Toxicity（2001）把奇数拍、喊叫政治与突然动态切磋送上 nu-metal 电台。"
+    "en": "LA Armenian-American four-piece; Toxicity (2001) put odd meters, shouted politics, and abrupt dynamic cuts on nu-metal radio without hip-hop beds.",
+    "zh": "洛杉矶亚美裔四人组；Toxicity（2001）把奇数拍、喊叫政治与突然动态切磋送上 nu-metal 电台，且无 hip-hop 铺底。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Serj Tankian",
+      "role": "Vocals, Keys",
+      "years": "1994–present"
+    },
+    {
+      "name": "Daron Malakian",
+      "role": "Guitar, Vocals",
+      "years": "1994–present"
+    },
+    {
+      "name": "Shavo Odadjian",
+      "role": "Bass",
+      "years": "1994–present"
+    },
+    {
+      "name": "John Dolmayan",
+      "role": "Drums",
+      "years": "1994–present"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Chop Suey!",
       "year": 2001
+    },
+    {
+      "title": "Toxicity",
+      "year": 2001
+    },
+    {
+      "title": "B.Y.O.B.",
+      "year": 2005
+    },
+    {
+      "title": "Aerials",
+      "year": 2001
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
+  "relatedBands": [
+    "linkin-park",
+    "tool",
+    "slayer"
+  ],
+  "influenceFrom": [
+    "slayer",
+    "metallica",
+    "black-sabbath"
+  ],
   "influenced": [],
   "shortBio": {
-    "en": "Tankian / Malakian alt-metal; Chop Suey! is the structural spike.",
-    "zh": "Tankian / Malakian 的 alt-metal；Chop Suey! 是结构尖峰。"
+    "en": "Tankian / Malakian alt-metal; Chop Suey! is the 2001 structural spike.",
+    "zh": "Tankian / Malakian 的 alt-metal；Chop Suey! 是 2001 结构尖峰。"
   },
   "body": {
-    "en": "Formed 1994. Self-titled debut and Toxicity fused Serj Tankian’s theatrical vocal, Daron Malakian’s riff cuts, odd-time drums, and Middle Eastern melodic ornaments.\n\nChop Suey! (2001) is the citation—tempo and intensity change mid-song without a bridge cliché. They sit beside Linkin Park on early-2000s charts with less hip-hop and more prog abruptness.",
-    "zh": "1994 年组建。同名首专与 Toxicity 融合 Serj Tankian 戏剧人声、Daron Malakian 的 riff 切割、奇数拍鼓与中东旋律装饰。\n\nChop Suey!（2001）是引用——曲中速度与强度切换，不靠俗套桥段。与 Linkin Park 同在 2000 年代初榜单，更少 hip-hop、更多 prog 式突然性。"
-  }
+    "en": "Formed 1994 in LA. Self-titled debut and Toxicity fuse Tankian's theatrical vocal, Malakian's riff cuts, odd-time drums, and Middle Eastern melodic ornaments.\n\nChop Suey! (2001) is the citation—tempo and intensity change mid-song without a bridge cliché. They share early-2000s charts with Linkin Park but keep less hip-hop and more prog abruptness.",
+    "zh": "1994 年于 LA 组建。同名首专与 Toxicity 融合 Tankian 戏剧人声、Malakian riff 切割、奇数拍鼓与中东旋律装饰。\n\nChop Suey!（2001）是引用——曲中速度与强度切换，不靠俗套桥段。与 Linkin Park 共享 2000 年代初榜单，更少 hip-hop、更多 prog 式突然性。"
+  },
+  "scenes": [
+    {
+      "year": 2001,
+      "track": "Chop Suey!",
+      "membersOnStage": [
+        "Serj Tankian",
+        "Daron Malakian",
+        "Shavo Odadjian",
+        "John Dolmayan"
+      ],
+      "genreTags": [
+        "heavy-metal",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Tempo flip mid-song; dual vocal without rap verse.",
+        "zh": "曲中速度翻转；双人声但无 rap 主歌。"
+      }
+    },
+    {
+      "year": 2001,
+      "track": "Toxicity",
+      "membersOnStage": [
+        "Serj Tankian",
+        "Daron Malakian",
+        "Shavo Odadjian",
+        "John Dolmayan"
+      ],
+      "genreTags": [
+        "heavy-metal",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Odd-meter main riff; title track anchors the album on rock radio.",
+        "zh": "奇数拍主 riff；标题曲把专辑钉在摇滚电台。"
+      }
+    },
+    {
+      "year": 2005,
+      "track": "B.Y.O.B.",
+      "membersOnStage": [
+        "Serj Tankian",
+        "Daron Malakian",
+        "Shavo Odadjian",
+        "John Dolmayan"
+      ],
+      "genreTags": [
+        "heavy-metal",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Mezmerize lead single; dance-punk jump and political chant.",
+        "zh": "Mezmerize 主打； dance-punk 跳感与政治 chant。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Odd meters and mid-song cuts",
+        "zh": "奇数拍与曲中硬切"
+      },
+      "body": {
+        "en": "Toxicity (2001) lands SOAD on MTV and rock radio beside Linkin Park. Chop Suey! flips tempo and vocal register halfway; Aerials slows to a melodic chorus with Middle Eastern scale color.\n\nMalakian's staccato riffs and Tankian's operatic shout define the four-piece—no DJ chair required.",
+        "zh": "Toxicity（2001）把 SOAD 送上 MTV 与摇滚电台，与 Linkin Park 并列。Chop Suey! 半途翻转速度与声区；Aerials 慢下来进旋律副歌，带中东音阶色彩。\n\nMalakian 断奏 riff 与 Tankian 歌剧式喊叫定义四人组——无需 DJ 席。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "lineup",
+      "title": {
+        "en": "Unchanged four since 1994",
+        "zh": "1994 起未变的四人组"
+      },
+      "body": {
+        "en": "Tankian, Malakian, Odadjian, and Dolmayan are the only lineup on all five studio albums. Malakian shares vocal duty on later records; Tankian remains the primary face.\n\nHiatus gaps (2006–10, 2017–) split touring from recording; catalog peak is the 2001–05 four-piece.",
+        "zh": "Tankian、Malakian、Odadjian、Dolmayan 是五张 studio 专辑的唯一阵容。Malakian 后期分担人声；Tankian 仍是主面孔。\n\n hiatus 空档（2006–10、2017–）切开巡演与录音；目录峰值是 2001–05 四人组。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Prog abruptness in nu-metal charts",
+        "zh": "Nu-metal 榜单里的 prog 突然性"
+      },
+      "body": {
+        "en": "Slayer and Metallica sit in the thrash weight; Black Sabbath in the down-tuned chug. Tool shares festival bills; Linkin Park shares radio but stays hook-linear.\n\nInfluence is the mid-song structural cut—later alt-metal copies tempo flips more than Armenian lyrical themes.",
+        "zh": "Slayer 与 Metallica 在 thrash 重量里；Black Sabbath 在降调 chug 里。Tool 共享音乐节账单；Linkin Park 共享电台但更 hook 线性。\n\n影响是曲中结构硬切——后期 alt-metal 多抄速度翻转，少抄亚美尼亚歌词主题。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Chop Suey!",
+        "zh": "Chop Suey!"
+      },
+      "body": {
+        "en": "Tempo flip mid-song; dual vocal without rap verse.",
+        "zh": "曲中速度翻转；双人声但无 rap 主歌。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Toxicity",
+        "zh": "Toxicity"
+      },
+      "body": {
+        "en": "Odd-meter main riff; title track anchors the album on rock radio.",
+        "zh": "奇数拍主 riff；标题曲把专辑钉在摇滚电台。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "B.Y.O.B.",
+        "zh": "B.Y.O.B."
+      },
+      "body": {
+        "en": "Mezmerize lead single; dance-punk jump and political chant.",
+        "zh": "Mezmerize 主打； dance-punk 跳感与政治 chant。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "heavy-metal"
+    }
+  ]
 }

@@ -6,30 +6,217 @@
   "primaryEra": "2010s-indie-modern",
   "genres": [
     "alternative",
-    "indie-rock"
+    "indie-rock",
+    "progressive-rock"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Glasgow post-rock band; Young Team (1997) and later scores made quiet-loud instrumental dynamics a UK festival and film language.",
-    "zh": "格拉斯哥 post-rock；Young Team（1997）与后期配乐把强弱器乐动态做成英国音乐节与电影语言。"
+    "en": "Glasgow post-rock band whose Young Team (1997) and later scores made quiet-loud instrumental dynamics a UK festival and film language.",
+    "zh": "格拉斯哥 post-rock 乐队；Young Team（1997）与后期配乐把强弱器乐动态做成英国音乐节与电影语言。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Stuart Braithwaite",
+      "role": "Guitar",
+      "years": "1995–present"
+    },
+    {
+      "name": "John Cummings",
+      "role": "Guitar",
+      "years": "1995–2015"
+    },
+    {
+      "name": "Dominic Aitchison",
+      "role": "Bass",
+      "years": "1995–present"
+    },
+    {
+      "name": "Martin Bulloch",
+      "role": "Drums",
+      "years": "1995–2016"
+    },
+    {
+      "name": "Barry Burns",
+      "role": "Keyboards, Guitar",
+      "years": "1998–present"
+    }
+  ],
   "essentialTracks": [
+    {
+      "title": "Mogwai Fear Satan",
+      "year": 1997
+    },
     {
       "title": "Auto Rock",
       "year": 2006
+    },
+    {
+      "title": "Take Me Somewhere Nice",
+      "year": 2001
+    },
+    {
+      "title": "Rano Pano",
+      "year": 2011
     }
   ],
   "lyricQuotes": [],
   "relatedBands": [],
-  "influenceFrom": [],
+  "influenceFrom": [
+    "sonic-youth",
+    "my-bloody-valentine"
+  ],
   "influenced": [],
   "shortBio": {
     "en": "Scottish crescendo rock; Auto Rock shows piano-led build without vocals.",
     "zh": "苏格兰渐强摇滚；Auto Rock 展示无人声的钢琴导向推进。"
   },
   "body": {
-    "en": "Formed 1995. Early Chemikal Underground/Matador-era records used volume as structure—long clean passages, sudden distortion walls, occasional spoken samples.\n\nAuto Rock (2006, from Mr Beast) is a compact example of piano motif into full-band swell. They parallel Explosions in the Sky/Godspeed with a drier Scottish indie infrastructure and more soundtrack commissions.",
-    "zh": "1995 年组建。早期 Chemikal Underground/Matador 时期唱片把音量当结构——长段干净段落、突然的失真墙、偶尔口语采样。\n\nAuto Rock（2006，出自 Mr Beast）是钢琴动机推进到全乐队膨胀的紧凑例子。与 Explosions in the Sky/Godspeed 平行，苏格兰 indie 基建更干，影视委托更多。"
-  }
+    "en": "Formed 1995 in Glasgow. Early Chemikal Underground/Matador records use volume as structure—long clean passages, sudden 失真 walls, occasional spoken samples.\n\nAuto Rock (2006, from Mr Beast) is a compact piano-to-swell example. They parallel Explosions in the Sky/Godspeed with drier Scottish indie infrastructure and heavy soundtrack commissions.",
+    "zh": "1995 年于格拉斯哥组建。早期 Chemikal Underground/Matador 唱片把音量当结构——长段干净段落、 sudden 失真 墙、偶尔口语采样。\n\nAuto Rock（2006，出自 Mr Beast）是钢琴到 swell 的紧凑例子。与 Explosions in the Sky/Godspeed 平行，苏格兰 indie 基建更干，影视委托更多。"
+  },
+  "scenes": [
+    {
+      "year": 1997,
+      "track": "Mogwai Fear Satan",
+      "membersOnStage": [
+        "Stuart Braithwaite",
+        "John Cummings",
+        "Dominic Aitchison",
+        "Martin Bulloch",
+        "Barry Burns"
+      ],
+      "genreTags": [
+        "progressive-rock",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "16-minute clean-to-失真 arc—Young Team crescendo blueprint.",
+        "zh": "16 分钟干净到 失真 弧线——Young Team crescendo 蓝图。"
+      }
+    },
+    {
+      "year": 2006,
+      "track": "Auto Rock",
+      "membersOnStage": [
+        "Stuart Braithwaite",
+        "John Cummings",
+        "Dominic Aitchison",
+        "Martin Bulloch",
+        "Barry Burns"
+      ],
+      "genreTags": [
+        "alternative",
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Piano motif into full-band swell—Mr Beast compact post-rock.",
+        "zh": "钢琴动机推进全乐队 swell——Mr Beast 紧凑 post-rock。"
+      }
+    },
+    {
+      "year": 2001,
+      "track": "Take Me Somewhere Nice",
+      "membersOnStage": [
+        "Stuart Braithwaite",
+        "John Cummings",
+        "Dominic Aitchison",
+        "Martin Bulloch",
+        "Barry Burns"
+      ],
+      "genreTags": [
+        "progressive-rock",
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Acoustic opening into 延音 guitar layers—Rock Action dynamic range.",
+        "zh": "原声开场接 延音 吉他层——Rock Action 动态幅度。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Volume as song structure",
+        "zh": "音量作歌曲结构"
+      },
+      "body": {
+        "en": "Mogwai matter for codifying quiet-loud instrumental post-rock as UK indie product—no vocals, crescendo as hook.\n\nYoung Team (1997, Chemikal) opens with Mogwai Fear Satan’s 16-minute arc.\n\nGlasgow scene ties to Chemikal Underground peers; Matador US release spreads the template.\n\nLater Zidane/French Dispatch scores extend the same dynamic grammar to film.",
+        "zh": "Mogwai 要紧处是把强弱器乐 post-rock 定码为英国 indie 产品——无人声，crescendo 作钩子。\n\nYoung Team（1997，Chemikal）以 Mogwai Fear Satan 16 分钟弧线开场。\n\n格拉斯哥场景连 Chemikal Underground 同辈；Matador 美国发行传播模板。\n\n后期 Zidane/French Dispatch 配乐把同一动态语法延伸到电影。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Classic five through Hardcore Will Never Die",
+        "zh": "Hardcore Will Never Die 前经典五人"
+      },
+      "body": {
+        "en": "1995–2016 core: Braithwaite, Cummings, Aitchison, Bulloch, Burns—dual guitar plus keys for harmonic lift.\n\nCummings exits 2015; Bulloch steps back 2016—later tours use expanded or reduced lineups.\n\nBarry Burns adds piano and synth lines that define Auto Rock and later records.\n\nLive shows are LOUD—volume shifts are the performance, not background.",
+        "zh": "1995–2016 核心：Braithwaite、Cummings、Aitchison、Bulloch、Burns——双吉他加键盘抬和声。\n\nCummings 2015 年离队；Bulloch 2016 年退——后期巡演用扩展或缩减编制。\n\nBarry Burns 加钢琴与合成器线定义 Auto Rock 与后期唱片。\n\n现场很响——音量切换是演出本身，非背景。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Post-rock festival and soundtrack lane",
+        "zh": "Post-rock 音乐节与配乐车道"
+      },
+      "body": {
+        "en": "Mogwai’s crescendo template influenced US and European instrumental bands through 2000s festivals.\n\nSonic Youth’s tunings and MBV’s 延音 are guitar ancestors; Mogwai simplifies to volume arcs.\n\nExplosions in the Sky and Godspeed share the map but Mogwai keeps Chemikal indie dryness.\n\nSoundtrack work normalizes post-rock outside rock clubs.",
+        "zh": "Mogwai crescendo 模板经 2000 年代音乐节影响欧美器乐乐队。\n\nSonic Youth 定弦与 MBV 延音 是吉他祖先；Mogwai 简化为音量弧线。\n\nExplosions in the Sky 与 Godspeed 共享地图，Mogwai 保持 Chemikal indie 干度。\n\n配乐工作把 post-rock 正常化到摇滚俱乐部外。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Mogwai Fear Satan",
+        "zh": "Mogwai Fear Satan"
+      },
+      "body": {
+        "en": "16-minute clean-to-失真 arc—Young Team crescendo blueprint.",
+        "zh": "16 分钟干净到 失真 弧线——Young Team crescendo 蓝图。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Auto Rock",
+        "zh": "Auto Rock"
+      },
+      "body": {
+        "en": "Piano motif into full-band swell—Mr Beast compact post-rock.",
+        "zh": "钢琴动机推进全乐队 swell——Mr Beast 紧凑 post-rock。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Take Me Somewhere Nice",
+        "zh": "Take Me Somewhere Nice"
+      },
+      "body": {
+        "en": "Acoustic opening into 延音 guitar layers—Rock Action dynamic range.",
+        "zh": "原声开场接 延音 吉他层——Rock Action 动态幅度。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "progressive-rock"
+    }
+  ]
 }

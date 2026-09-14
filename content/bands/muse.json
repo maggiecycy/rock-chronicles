@@ -10,26 +10,197 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Teignmouth trio that scaled prog/alt riffs, falsetto leads, and classical pastiche into 2000s arena rock; Black Holes and Absolution–era peak.",
-    "zh": "廷茅斯三人组：把 prog/alt riff、假声主唱与古典拼贴扩成 2000 年代体育场摇滚；Black Holes 与 Absolution 时期为峰。"
+    "en": "Teignmouth trio that scaled prog/alt riffs, arp synths, and Matt Bellamy’s falsetto into 2000s arena rock—Absolution (2003) and Black Holes and Revelations (2006) are the UK stadium template beside Radiohead’s experimental fork.",
+    "zh": "廷茅斯三人组：把 prog/alt riff、arp 合成器与 Matt Bellamy 假声扩成 2000 年代体育场摇滚——Absolution（2003）与 Black Holes and Revelations（2006）是英国体育场模板，与 Radiohead 实验分叉并列。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Matt Bellamy",
+      "role": "Vocals, Guitar, Keyboards",
+      "years": "1994–present"
+    },
+    {
+      "name": "Chris Wolstenholme",
+      "role": "Bass, Vocals",
+      "years": "1994–present"
+    },
+    {
+      "name": "Dominic Howard",
+      "role": "Drums",
+      "years": "1994–present"
+    }
+  ],
   "essentialTracks": [
+    {
+      "title": "Plug In Baby",
+      "year": 2001
+    },
+    {
+      "title": "Time Is Running Out",
+      "year": 2003
+    },
+    {
+      "title": "Hysteria",
+      "year": 2003
+    },
     {
       "title": "Knights of Cydonia",
       "year": 2006
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
+  "relatedBands": [
+    "radiohead"
+  ],
+  "influenceFrom": [
+    "radiohead"
+  ],
   "influenced": [],
   "shortBio": {
-    "en": "Matt Bellamy–led arena alternative; Knights of Cydonia is the maximal single.",
-    "zh": "Matt Bellamy 领衔的体育场 alternative；Knights of Cydonia 是最大化单曲。"
+    "en": "Matt Bellamy trio; compressed guitars, arp synths, falsetto leads—Knights of Cydonia the Morricone arena single.",
+    "zh": "Matt Bellamy 三人组；压缩吉他、arp 合成器、假声主音——Knights of Cydonia 是 Morricone 体育场单曲。"
   },
   "body": {
-    "en": "Formed 1994. Origin of Symmetry (2001) and Absolution (2003) built the template—heavily compressed guitars, arp synths, operatic falsetto, conspiracy/sci-fi lyric frames.\n\nKnights of Cydonia (2006) stacks Morricone pastiche and stadium riff. They occupy the UK arena lane beside Radiohead’s experimental path: same generation, louder crowd-chant design.",
-    "zh": "1994 年组建。Origin of Symmetry（2001）与 Absolution（2003）建立模板——高压缩吉他、琶音合成器、歌剧式假声、阴谋/科幻歌词框架。\n\nKnights of Cydonia（2006）堆叠 Morricone 拼贴与体育场 riff。与 Radiohead 的实验路径同代，占据英国体育场车道，更强调集体口号设计。"
-  }
+    "en": "Formed 1994 in Teignmouth. Origin of Symmetry (2001) and Absolution (2003) built the template—heavily compressed guitars, arp synths, operatic falsetto, conspiracy/sci-fi lyric frames. Rich Costey mixes push mid-range punch.\n\nBlack Holes and Revelations (2006) added Morricone western pastiche on Knights of Cydonia. Same UK generation as Radiohead, opposite lane: crowd-chant stadium design over experimental retreat.",
+    "zh": "1994 年于廷茅斯组建。Origin of Symmetry（2001）与 Absolution（2003）建立模板——高压缩吉他、arp 合成器、歌剧式假声、阴谋/科幻歌词框架。Rich Costey 混音推中频冲击。\n\nBlack Holes and Revelations（2006）在 Knights of Cydonia 加入 Morricone 西部拼贴。与 Radiohead 同代，相反车道：集体口号体育场设计，而非实验撤退。"
+  },
+  "scenes": [
+    {
+      "year": 2001,
+      "track": "Plug In Baby",
+      "membersOnStage": [
+        "Matt Bellamy",
+        "Chris Wolstenholme",
+        "Dominic Howard"
+      ],
+      "genreTags": [
+        "alternative",
+        "progressive-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Origin of Symmetry single; fuzz riff, Bellamy tap/shred intro.",
+        "zh": "Origin of Symmetry 单曲；fuzz riff、Bellamy 点弦/速弹前奏。"
+      }
+    },
+    {
+      "year": 2003,
+      "track": "Hysteria",
+      "membersOnStage": [
+        "Matt Bellamy",
+        "Chris Wolstenholme",
+        "Dominic Howard"
+      ],
+      "genreTags": [
+        "alternative",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Wolstenholme bass line as hook; Absolution compressed arena mix.",
+        "zh": "Wolstenholme 贝斯线作钩子；Absolution 压缩体育场混音。"
+      }
+    },
+    {
+      "year": 2006,
+      "track": "Knights of Cydonia",
+      "membersOnStage": [
+        "Matt Bellamy",
+        "Chris Wolstenholme",
+        "Dominic Howard"
+      ],
+      "genreTags": [
+        "progressive-rock",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Morricone pastiche, multi-section single; Black Holes maximal peak.",
+        "zh": "Morricone 拼贴、多段单曲；Black Holes 最大化峰值。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Prog-riff arena rock at maximum compression",
+        "zh": "最大压缩下的 prog-riff 体育场摇滚"
+      },
+      "body": {
+        "en": "Plug In Baby and Hysteria show the method: fuzz/tap guitar, Wolstenholme bass as melody, Howard’s four-on-floor drive. Bellamy falsetto carries sci-fi/conspiracy frames.\n\nAbsolution is the UK alt arena grammar—loud, mid-forward, chant-ready.",
+        "zh": "Plug In Baby 与 Hysteria 展示方法：fuzz/点弦吉他、Wolstenholme 贝斯作旋律、Howard 四拍驱动。Bellamy 假声承载科幻/阴谋框架。\n\nAbsolution 是英国 alt 体育场语法——大声、中频前置、口号就绪。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Fixed trio since 1994",
+        "zh": "1994 年至今固定三人组"
+      },
+      "body": {
+        "en": "Bellamy handles guitar, keys, and primary vocals; Wolstenholme bass/vocals; Howard drums. No permanent fourth member—live keyboards and guitar techs fill stage width.\n\nSame three names from bedroom demos to Wembley.",
+        "zh": "Bellamy 负责吉他、键盘与主唱；Wolstenholme 贝斯/和声；Howard 鼓。无固定第四成员——现场键盘与吉他 tech 撑舞台宽度。\n\n从卧室 demo 到 Wembley 仍是三个名字。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Stadium lane beside Radiohead",
+        "zh": "Radiohead 旁的体育场车道"
+      },
+      "body": {
+        "en": "Radiohead moved toward experimental/electronic retreat; Muse doubled down on riff, synth arp, and falsetto arena scale. Knights of Cydonia is the citation for maximal UK alt rock in 2006.\n\nQueen and Rush pastiche as deliberate production choice, not hidden influence.",
+        "zh": "Radiohead 走向实验/电子撤退；Muse 加倍 riff、合成器 arp 与假声体育场体量。Knights of Cydonia 是 2006 年英国 alt 最大化摇滚引用。\n\nQueen 与 Rush 拼贴是刻意制作选择，非隐藏影响。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Plug In Baby",
+        "zh": "Plug In Baby"
+      },
+      "body": {
+        "en": "Origin of Symmetry single; fuzz riff, Bellamy tap/shred intro.",
+        "zh": "Origin of Symmetry 单曲；fuzz riff、Bellamy 点弦/速弹前奏。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Hysteria",
+        "zh": "Hysteria"
+      },
+      "body": {
+        "en": "Wolstenholme bass line as hook; Absolution compressed arena mix.",
+        "zh": "Wolstenholme 贝斯线作钩子；Absolution 压缩体育场混音。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Knights of Cydonia",
+        "zh": "Knights of Cydonia"
+      },
+      "body": {
+        "en": "Morricone pastiche, multi-section single; Black Holes maximal peak.",
+        "zh": "Morricone 拼贴、多段单曲；Black Holes 最大化峰值。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "progressive-rock"
+    }
+  ]
 }

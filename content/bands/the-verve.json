@@ -10,26 +10,207 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Wigan band that put string loops and Richard Ashcroft’s vocal on late-Britpop stadium scale; Urban Hymns (1997) is the mass record.",
-    "zh": "威根乐队：把弦乐循环与 Richard Ashcroft 人声推上后 Britpop 体育场体量；Urban Hymns（1997）是大众唱片。"
+    "en": "Wigan band that put string loops, Nick McCabe’s guitar wash, and Richard Ashcroft’s baritone on late-Britpop stadium scale—Urban Hymns (1997) and Bitter Sweet Symphony are the melancholic chart peak (and sampling-rights case study).",
+    "zh": "威根乐队：把弦乐循环、Nick McCabe 吉他铺底与 Richard Ashcroft 男中音推上后 Britpop 体育场体量——Urban Hymns（1997）与 Bitter Sweet Symphony 是忧郁榜单峰值（亦是采样版权案例）。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Richard Ashcroft",
+      "role": "Vocals, Guitar",
+      "years": "1990–1999; 2007–2008"
+    },
+    {
+      "name": "Nick McCabe",
+      "role": "Guitar",
+      "years": "1990–1995; 1997–1999; 2007–2008"
+    },
+    {
+      "name": "Simon Jones",
+      "role": "Bass",
+      "years": "1990–1999; 2007–2008"
+    },
+    {
+      "name": "Peter Salisbury",
+      "role": "Drums",
+      "years": "1990–1999; 2007–2008"
+    }
+  ],
   "essentialTracks": [
     {
+      "title": "Slide Away",
+      "year": 1993
+    },
+    {
       "title": "Bitter Sweet Symphony",
+      "year": 1997
+    },
+    {
+      "title": "The Drugs Don't Work",
+      "year": 1997
+    },
+    {
+      "title": "Lucky Man",
       "year": 1997
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
+  "relatedBands": [
+    "oasis",
+    "radiohead"
+  ],
+  "influenceFrom": [
+    "the-beatles",
+    "the-rolling-stones"
+  ],
   "influenced": [],
   "shortBio": {
-    "en": "Britpop-era psych-rock; Bitter Sweet Symphony is the sample-era hit.",
-    "zh": "Britpop 时期迷幻摇滚；Bitter Sweet Symphony 是采样时代热单。"
+    "en": "Ashcroft / McCabe psych-Britpop; Urban Hymns the 1997 peak, Bitter Sweet Symphony the sample-era hit.",
+    "zh": "Ashcroft / McCabe 迷幻 Britpop；Urban Hymns 是 1997 峰值，Bitter Sweet Symphony 是采样时代热单。"
   },
   "body": {
-    "en": "Formed 1990. A Northern Soul and early EPs built space-rock length; Urban Hymns after a breakup/reunion delivered the chart peak with Nick McCabe’s guitar wash and orchestral samples.\n\nBitter Sweet Symphony (1997) is the essential track (and rights-dispute case study). They close Britpop’s commercial arc with melancholic, mid-tempo maximalism.",
-    "zh": "1990 年组建。A Northern Soul 与早期 EP 建立太空摇滚时长；解散/重组后的 Urban Hymns 以 Nick McCabe 吉他铺底与管弦采样交出榜单高峰。\n\nBitter Sweet Symphony（1997）是必听（也是版权纠纷案例）。以忧郁中速的最大化制作收束 Britpop 商业弧线。"
-  }
+    "en": "Formed 1990 in Wigan. A Storm in Heaven (1993) and A Northern Soul (1995) built space-rock length with McCabe’s tremolo wash. Split/reunion delivered Urban Hymns (1997)—orchestral samples, mid-tempo maximalism, Ashcroft’s baritone upfront.\n\nBitter Sweet Symphony (1997) is the essential track and ABKCO sampling dispute document. The Drugs Don't Work and Lucky Man closed Britpop’s commercial arc with melancholic balladry.",
+    "zh": "1990 年于威根组建。A Storm in Heaven（1993）与 A Northern Soul（1995）以 McCabe tremolo 铺底建立 space-rock 时长。分裂/重组后交出 Urban Hymns（1997）——管弦采样、中速最大化、Ashcroft 男中音前置。\n\nBitter Sweet Symphony（1997）是必听与 ABKCO 采样纠纷文献。The Drugs Don't Work 与 Lucky Man 以忧郁抒情收束 Britpop 商业弧线。"
+  },
+  "scenes": [
+    {
+      "year": 1993,
+      "track": "Slide Away",
+      "membersOnStage": [
+        "Richard Ashcroft",
+        "Nick McCabe",
+        "Simon Jones",
+        "Peter Salisbury"
+      ],
+      "genreTags": [
+        "psychedelic",
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "A Storm in Heaven epics; McCabe tremolo wash, long-form space rock.",
+        "zh": "A Storm in Heaven 史诗；McCabe tremolo 铺底、长篇 space rock。"
+      }
+    },
+    {
+      "year": 1997,
+      "track": "Bitter Sweet Symphony",
+      "membersOnStage": [
+        "Richard Ashcroft",
+        "Nick McCabe",
+        "Simon Jones",
+        "Peter Salisbury"
+      ],
+      "genreTags": [
+        "britpop",
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Andrew Loog Oldham string sample; ABKCO rights dispute, UK No. 2.",
+        "zh": "Andrew Loog Oldham 弦乐采样；ABKCO 版权纠纷，英国榜第 2。"
+      }
+    },
+    {
+      "year": 1997,
+      "track": "The Drugs Don't Work",
+      "membersOnStage": [
+        "Richard Ashcroft",
+        "Nick McCabe",
+        "Simon Jones",
+        "Peter Salisbury"
+      ],
+      "genreTags": [
+        "britpop",
+        "alternative"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "Piano ballad on Urban Hymns; Ashcroft mortality lyric, UK No. 1.",
+        "zh": "Urban Hymns 钢琴抒情；Ashcroft 死亡主题歌词，英国榜第 1。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Space rock to orchestral Britpop peak",
+        "zh": "Space rock 到管弦 Britpop 峰值"
+      },
+      "body": {
+        "en": "Early catalog runs long—Slide Away, A Northern Soul epics with McCabe’s wet guitar. Urban Hymns compresses the same melancholy into radio length with string loops and piano ballads.\n\nBitter Sweet Symphony’s Oldham sample is production fact and legal footnote.",
+        "zh": "早期目录偏长——Slide Away、A Northern Soul 史诗配 McCabe 湿吉他。Urban Hymns 把同一忧郁压进电台长度，加弦乐循环与钢琴抒情。\n\nBitter Sweet Symphony 的 Oldham 采样是制作事实与法律脚注。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "McCabe exit and Urban Hymns reunion",
+        "zh": "McCabe 离队与 Urban Hymns 重组"
+      },
+      "body": {
+        "en": "Classic four: Ashcroft vocal, McCabe guitar wash, Jones bass, Salisbury drums. McCabe leaves 1995; returns for Urban Hymns sessions after Ashcroft/Jones/Salisbury trio gap.\n\n2007–2008 brief reunion restores the four names before final split.",
+        "zh": "经典四人：Ashcroft 人声、McCabe 吉他铺底、Jones 贝斯、Salisbury 鼓。McCabe 1995 年离队；Ashcroft/Jones/Salisbury 三人空窗后为 Urban Hymns 回归。\n\n2007–2008 短暂重聚恢复四人名后最终分裂。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Melancholic Britpop close and Coldplay ballad debt",
+        "zh": "忧郁 Britpop 收束与 Coldplay 抒情债"
+      },
+      "body": {
+        "en": "Urban Hymns closes Britpop’s 1997 commercial peak with mid-tempo strings and mortality lyrics—not Oasis laddish anthems. Coldplay’s early piano ballad lane cites this Ashcroft/McCabe template.\n\nBitter Sweet Symphony remains a sampling-rights textbook alongside chart history.",
+        "zh": "Urban Hymns 以中速弦乐与死亡主题歌词收束 Britpop 1997 商业峰值——非 Oasis 兄弟颂歌。Coldplay 早期钢琴抒情车道引用此 Ashcroft/McCabe 模板。\n\nBitter Sweet Symphony 仍是采样版权教科书，并列榜单史。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Slide Away",
+        "zh": "Slide Away"
+      },
+      "body": {
+        "en": "A Storm in Heaven epics; McCabe tremolo wash, long-form space rock.",
+        "zh": "A Storm in Heaven 史诗；McCabe tremolo 铺底、长篇 space rock。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "psychedelic"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Bitter Sweet Symphony",
+        "zh": "Bitter Sweet Symphony"
+      },
+      "body": {
+        "en": "Andrew Loog Oldham string sample; ABKCO rights dispute, UK No. 2.",
+        "zh": "Andrew Loog Oldham 弦乐采样；ABKCO 版权纠纷，英国榜第 2。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "The Drugs Don't Work",
+        "zh": "The Drugs Don't Work"
+      },
+      "body": {
+        "en": "Piano ballad on Urban Hymns; Ashcroft mortality lyric, UK No. 1.",
+        "zh": "Urban Hymns 钢琴抒情；Ashcroft 死亡主题歌词，英国榜第 1。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "britpop"
+    }
+  ]
 }

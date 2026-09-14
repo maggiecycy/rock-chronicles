@@ -6,30 +6,215 @@
   "primaryEra": "2000s-revival",
   "genres": [
     "indie-rock",
+    "post-punk",
     "alternative"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Glasgow art-rock four-piece that put angular dance-punk guitars on mid-2000s indie charts; Take Me Out (2004) is the structural hook lesson.",
-    "zh": "格拉斯哥 art-rock 四人组：把棱角 dance-punk 吉他送上 2000 年代中期 indie 榜；Take Me Out（2004）是结构钩子教材。"
+    "en": "Glasgow four-piece whose Franz Ferdinand (2004) put angular post-punk riffing and disco bass on UK/US indie charts; Take Me Out’s mid-song tempo switch is a production textbook.",
+    "zh": "格拉斯哥四人组：Franz Ferdinand（2004）把棱角后朋 riff 与迪斯科贝斯送上英美 indie 榜；Take Me Out 曲中变速是制作教材。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Alex Kapranos",
+      "role": "Vocals, Guitar",
+      "years": "2002–present"
+    },
+    {
+      "name": "Nick McCarthy",
+      "role": "Guitar, Keyboards",
+      "years": "2002–2017"
+    },
+    {
+      "name": "Bob Hardy",
+      "role": "Bass",
+      "years": "2002–present"
+    },
+    {
+      "name": "Paul Thomson",
+      "role": "Drums",
+      "years": "2002–present"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Take Me Out",
       "year": 2004
+    },
+    {
+      "title": "Do You Want To",
+      "year": 2005
+    },
+    {
+      "title": "This Fire",
+      "year": 2003
+    },
+    {
+      "title": "Michael",
+      "year": 2004
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "the-strokes",
+    "interpol",
+    "arctic-monkeys"
+  ],
+  "influenceFrom": [
+    "talking-heads",
+    "joy-division"
+  ],
+  "influenced": [
+    "arctic-monkeys"
+  ],
   "shortBio": {
-    "en": "Post-punk revival dance-rock; Take Me Out’s mid-song tempo drop became a club/indie staple.",
-    "zh": "后朋克复兴期的舞曲摇滚；Take Me Out 的曲中速度降落成为俱乐部/indie 常备。"
+    "en": "Glasgow post-punk revival; Take Me Out is the tempo-switch single.",
+    "zh": "格拉斯哥后朋复兴；Take Me Out 是变速单曲。"
   },
   "body": {
-    "en": "Formed 2002. Debut Franz Ferdinand (2004) and You Could Have It So Much Better married wire-tight rhythm guitar to disco bass figures and Alex Kapranos’s deadpan vocal.\n\nTake Me Out (2004) splits verse and chorus tempos on purpose—teaching arrangement as drama without prog length. They sit with Interpol/Strokes-era revival but aim at dance floors more than NYC cool.",
-    "zh": "2002 年组建。首专 Franz Ferdinand（2004）与 You Could Have It So Much Better 把绷紧节奏吉他焊上迪斯科低音型与 Alex Kapranos 的冷脸人声。\n\nTake Me Out（2004）故意拆开主副歌速度——用编曲制造戏剧，却不走 prog 时长。与 Interpol/Strokes 同期复兴为邻，但更瞄准舞池而非纽约酷感。"
-  }
+    "en": "Formed 2002 in Glasgow. Debut Franz Ferdinand (2004) and You Could Have It So Much Better (2005) pair Kapranos’s dry vocal with McCarthy’s choppy rhythm guitar, Hardy’s melodic bass, and Thomson’s tight hi-hat work.\n\nTake Me Out (2004) splits verse and chorus tempos on purpose—dance-floor post-punk without prog length. They sit beside Interpol and The Strokes on the 2000s revival map but aim at movement and disco bass figures more than NYC garage cool.",
+    "zh": "2002 年于格拉斯哥组建。首专 Franz Ferdinand（2004）与 You Could Have It So Much Better（2005）把 Kapranos 干人声、McCarthy 碎节奏吉他、Hardy 旋律贝斯与 Thomson 紧 hi-hat 焊在一起。\n\nTake Me Out（2004）故意拆开主副歌速度——舞池后朋而不走 prog 时长。与 Interpol、The Strokes 同在 2000 年代复兴地图，但更瞄准律动与迪斯科贝斯型，而非纽约 garage 酷感。"
+  },
+  "scenes": [
+    {
+      "year": 2004,
+      "track": "Take Me Out",
+      "membersOnStage": [
+        "Alex Kapranos",
+        "Nick McCarthy",
+        "Bob Hardy",
+        "Paul Thomson"
+      ],
+      "genreTags": [
+        "post-punk",
+        "indie-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Verse at half tempo, chorus full sprint—dance-punk arrangement as hook.",
+        "zh": "主歌半速、副歌全速——dance-punk 编曲即钩子。"
+      }
+    },
+    {
+      "year": 2005,
+      "track": "Do You Want To",
+      "membersOnStage": [
+        "Alex Kapranos",
+        "Nick McCarthy",
+        "Bob Hardy",
+        "Paul Thomson"
+      ],
+      "genreTags": [
+        "indie-rock",
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Staccato guitar stabs and four-on-the-floor kick for second-album radio.",
+        "zh": "断奏吉他刺击与四拍底鼓，服务二专电台。"
+      }
+    },
+    {
+      "year": 2003,
+      "track": "This Fire",
+      "membersOnStage": [
+        "Alex Kapranos",
+        "Nick McCarthy",
+        "Bob Hardy",
+        "Paul Thomson"
+      ],
+      "genreTags": [
+        "post-punk",
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Early Darts of Pleasure EP cut—wire-tight rhythm section before debut polish.",
+        "zh": "早期 Darts of Pleasure EP 曲——首专抛光前的绷紧节奏组。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Glasgow dance-punk on indie charts",
+        "zh": "格拉斯哥 dance-punk 上 indie 榜"
+      },
+      "body": {
+        "en": "Franz Ferdinand matter as a UK post-punk revival export that actually moved bodies: short songs, dry production, rhythm guitar as lead voice.\n\nDebut Franz Ferdinand (2004, Domino) landed during the Strokes/Interpol wave but pushed disco bass and tempo tricks.\n\nTake Me Out’s half-time verse into full-speed chorus is the cited arrangement move.\n\nKapranos’s conversational vocal keeps the band readable on radio without losing art-school edge.",
+        "zh": "Franz Ferdinand 要紧处是英国后朋复兴出口里真能带动身体：短歌、干制作、节奏吉他当主声部。\n\n首专 Franz Ferdinand（2004，Domino）落在 Strokes/Interpol 浪潮中，但推迪斯科贝斯与变速花招。\n\nTake Me Out 半速主歌接全速副歌是被引用的编曲动作。\n\nKapranos 对话式人声让乐队在电台上可读而不丢艺术学校棱角。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Classic four-piece, McCarthy era",
+        "zh": "经典四人组，McCarthy 时期"
+      },
+      "body": {
+        "en": "2002–2017 core: Kapranos, McCarthy, Hardy, Thomson—no second singer, dual guitar/key duties on McCarthy.\n\nYou Could Have It So Much Better (2005) keeps the same engine with bigger choruses; Do You Want To adds staccato riff stacking.\n\nRight Thoughts, Right Words, Right Action (2013) later swaps some dance-punk for new-wave synth touches without changing the four names on stage.\n\nMcCarthy’s 2017 exit ends the defining visual and guitar voicing of the first decade.",
+        "zh": "2002–2017 核心：Kapranos、McCarthy、Hardy、Thomson——无双主唱，McCarthy 兼吉他与键盘。\n\nYou Could Have It So Much Better（2005）同一引擎、更大副歌；Do You Want To 加断奏 riff 堆叠。\n\nRight Thoughts, Right Words, Right Action（2013）后期换部分 dance-punk 为新 wave 合成器点缀，台上四人名不变。\n\nMcCarthy 2017 年离队结束第一个十年的定义性外形与吉他声部。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Revival chart path to Arctic Monkeys",
+        "zh": "复兴榜路径至 Arctic Monkeys"
+      },
+      "body": {
+        "en": "Franz Ferdinand’s 2004–05 chart run proved UK post-punk revival could sell beyond NYC—Talking Heads/Joy Division echoes with dance-floor tempo.\n\nLater indie acts cite Take Me Out’s arrangement switch and Hardy’s melodic bass as entry points.\n\nArctic Monkeys’ early UK hype shares the same Domino/indie-chart infrastructure.\n\nInfluence is structural—tempo, bass, dry vocal—not costume revival.",
+        "zh": "Franz Ferdinand 2004–05 榜跑证明英国后朋复兴可卖过纽约——Talking Heads/Joy Division 回声加舞池速度。\n\n后期 indie 引用 Take Me Out 编曲切换与 Hardy 旋律贝斯作入口。\n\nArctic Monkeys 早期英国炒作共享同一 Domino/indie 榜基建。\n\n影响在结构——速度、贝斯、干人声——非戏服复兴。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Take Me Out",
+        "zh": "Take Me Out"
+      },
+      "body": {
+        "en": "Verse at half tempo, chorus full sprint—dance-punk arrangement as hook.",
+        "zh": "主歌半速、副歌全速——dance-punk 编曲即钩子。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Do You Want To",
+        "zh": "Do You Want To"
+      },
+      "body": {
+        "en": "Staccato guitar stabs and four-on-the-floor kick for second-album radio.",
+        "zh": "断奏吉他刺击与四拍底鼓，服务二专电台。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "This Fire",
+        "zh": "This Fire"
+      },
+      "body": {
+        "en": "Early Darts of Pleasure EP cut—wire-tight rhythm section before debut polish.",
+        "zh": "早期 Darts of Pleasure EP 曲——首专抛光前的绷紧节奏组。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "post-punk"
+    }
+  ]
 }

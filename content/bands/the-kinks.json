@@ -10,26 +10,209 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "London band whose early singles pioneered distorted power-chord rock; You Really Got Me (1964) is a hard-rock / garage root citation.",
-    "zh": "伦敦乐队：早期单曲开创失真强力和弦摇滚；You Really Got Me（1964）是 hard-rock / garage 根源引用。"
+    "en": "London Invasion band whose 1964 Pye singles used sliced-speaker distortion and two-chord riffs; later Ray Davies songwriting (Waterloo Sunset, Lola) turned English observational detail into rock grammar.",
+    "zh": "伦敦 Invasion 乐队：1964 年 Pye 单曲用划破扬声器的失真与两和弦 riff；后期 Ray Davies 写作（Waterloo Sunset、Lola）把英式观察细节写进摇滚语法。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Ray Davies",
+      "role": "Vocals, Rhythm Guitar",
+      "years": "1963–1996"
+    },
+    {
+      "name": "Dave Davies",
+      "role": "Lead Guitar, Vocals",
+      "years": "1963–1996"
+    },
+    {
+      "name": "Pete Quaife",
+      "role": "Bass",
+      "years": "1963–1969"
+    },
+    {
+      "name": "Mick Avory",
+      "role": "Drums",
+      "years": "1964–1984"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "You Really Got Me",
       "year": 1964
+    },
+    {
+      "title": "All Day and All of the Night",
+      "year": 1964
+    },
+    {
+      "title": "Waterloo Sunset",
+      "year": 1967
+    },
+    {
+      "title": "Lola",
+      "year": 1970
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "the-who",
+    "the-beatles"
+  ],
+  "influenceFrom": [
+    "the-rolling-stones",
+    "the-beatles"
+  ],
+  "influenced": [
+    "blur",
+    "oasis"
+  ],
   "shortBio": {
-    "en": "Davies brothers rock’n’roll; You Really Got Me is the riff prototype.",
-    "zh": "Davies 兄弟的摇滚；You Really Got Me 是 riff 原型。"
+    "en": "Davies brothers Invasion rock; You Really Got Me is the distortion riff prototype, Ray Davies the English character writer.",
+    "zh": "Davies 兄弟的 Invasion 摇滚；You Really Got Me 是失真 riff 原型，Ray Davies 是英式角色写作核心。"
   },
   "body": {
-    "en": "Formed 1963. Mid-1960s Pye singles (You Really Got Me, All Day and All of the Night) used sliced-speaker distortion and Ray Davies’s songwriting; later Village Green–era work turned toward English observational pop.\n\nYou Really Got Me (1964) is the essential track here—two-chord riff, Dave Davies’s guitar grind. Cited by Van Halen and countless garage/hard-rock bands as a distortion template.",
-    "zh": "1963 年组建。1960 年代中期 Pye 单曲（You Really Got Me、All Day and All of the Night）使用划破扬声器的失真与 Ray Davies 写作；后期 Village Green 时期转向英式观察流行。\n\nYou Really Got Me（1964）是此处必听——两和弦 riff、Dave Davies 的吉他碾磨。被 Van Halen 与大量 garage/hard-rock 乐队引为失真模板。"
-  }
+    "en": "Formed 1963 in London. Early Pye singles (You Really Got Me, All Day and All of the Night) used Dave Davies’s sliced-speaker grind and Ray’s two-chord hooks—cited by Van Halen and garage/hard-rock catalogs as a distortion template.\n\nMid-period Ray Davies albums (Face to Face, Something Else, The Kinks Are the Village Green Preservation Society) shifted to English observational pop. Lola (1970) kept narrative songwriting on US/UK charts after the Invasion peak.",
+    "zh": "1963 年于伦敦组建。早期 Pye 单曲（You Really Got Me、All Day and All of the Night）用 Dave Davies 划破扬声器的碾磨与 Ray 的两和弦钩子——被 Van Halen 与 garage/hard-rock 目录引为失真模板。\n\n中期 Ray Davies 专辑（Face to Face、Something Else、The Kinks Are the Village Green Preservation Society）转向英式观察流行。Lola（1970）在 Invasion 高峰后仍把叙事写作送上英美榜。"
+  },
+  "scenes": [
+    {
+      "year": 1964,
+      "track": "You Really Got Me",
+      "membersOnStage": [
+        "Ray Davies",
+        "Dave Davies",
+        "Pete Quaife",
+        "Mick Avory"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "rock-n-roll"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Dave Davies sliced amp speaker; two-chord power-chord riff on Pye 45.",
+        "zh": "Dave Davies 划破音箱；Pye 45 上的两和弦强力和弦 riff。"
+      }
+    },
+    {
+      "year": 1967,
+      "track": "Waterloo Sunset",
+      "membersOnStage": [
+        "Ray Davies",
+        "Dave Davies",
+        "Pete Quaife",
+        "Mick Avory"
+      ],
+      "genreTags": [
+        "rock-n-roll",
+        "psychedelic"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "Ray’s observational lyric over clean arpeggios; Village Green era pivot.",
+        "zh": "Ray 观察式歌词配干净琶音；Village Green 时期转向。"
+      }
+    },
+    {
+      "year": 1970,
+      "track": "Lola",
+      "membersOnStage": [
+        "Ray Davies",
+        "Dave Davies",
+        "Mick Avory"
+      ],
+      "genreTags": [
+        "rock-n-roll",
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Acoustic intro into electric chorus; narrative gender detail on RCA single.",
+        "zh": "原声前奏接电声副歌；RCA 单曲上的叙事性别细节。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Distortion singles to English character albums",
+        "zh": "失真单曲到英式角色专辑"
+      },
+      "body": {
+        "en": "You Really Got Me (1964) is the hard-rock citation: power chords, amp abuse, minimal verse-chorus. Ray Davies then built a parallel lane—Waterloo Sunset’s clean detail, Village Green’s domestic English frames.\n\nSame band, two methods: riff violence vs observational songwriting.",
+        "zh": "You Really Got Me（1964）是 hard-rock 引用：强力和弦、音箱虐待、极简主副歌。Ray Davies 另开一条线——Waterloo Sunset 的干净细节、Village Green 的英式日常框架。\n\n同一支乐队，两种方法：riff 暴力 vs 观察式写作。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Classic four through Quaife exit",
+        "zh": "经典四人组至 Quaife 离队"
+      },
+      "body": {
+        "en": "Peak Invasion silhouette: Ray vocals/rhythm, Dave lead grind, Quaife bass, Avory drums. Quaife exits 1969; Avory stays through the 1970s chart singles.\n\nLater lineups rotate bass and second guitar; Davies brothers remain the fixed axis until the 1990s.",
+        "zh": "Invasion 峰值剪影：Ray 人声/节奏、Dave 主音碾磨、Quaife 贝斯、Avory 鼓。Quaife 1969 年离队；Avory 贯穿 1970 年代榜单单曲。\n\n后期阵容轮换贝斯与第二吉他；Davies 兄弟仍是 1990 年代前的固定轴。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Riff template and Britpop character debt",
+        "zh": "Riff 模板与 Britpop 角色债"
+      },
+      "body": {
+        "en": "Garage and hard-rock acts cite You Really Got Me’s distortion method. Blur and Oasis inherit Ray Davies’s English character writing and mid-tempo chord moves more than the early grind alone.\n\nThe Kinks sit on both the power-chord family tree and the observational Britpop lyric line.",
+        "zh": "Garage 与 hard-rock 引用 You Really Got Me 的失真方法。Blur 与 Oasis 继承 Ray Davies 的英式角色写作与中速和弦进行，不止早期碾磨。\n\nThe Kinks 同时站在强力和弦谱系与观察式 Britpop 歌词线上。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "You Really Got Me",
+        "zh": "You Really Got Me"
+      },
+      "body": {
+        "en": "Dave Davies sliced amp speaker; two-chord power-chord riff on Pye 45.",
+        "zh": "Dave Davies 划破音箱；Pye 45 上的两和弦强力和弦 riff。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Waterloo Sunset",
+        "zh": "Waterloo Sunset"
+      },
+      "body": {
+        "en": "Ray’s observational lyric over clean arpeggios; Village Green era pivot.",
+        "zh": "Ray 观察式歌词配干净琶音；Village Green 时期转向。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Lola",
+        "zh": "Lola"
+      },
+      "body": {
+        "en": "Acoustic intro into electric chorus; narrative gender detail on RCA single.",
+        "zh": "原声前奏接电声副歌；RCA 单曲上的叙事性别细节。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "rock-n-roll"
+    }
+  ]
 }

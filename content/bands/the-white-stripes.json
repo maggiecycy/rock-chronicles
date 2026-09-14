@@ -11,26 +11,194 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Detroit duo that stripped blues-garage to guitar/drums/vocal; Elephant (2003) and Seven Nation Army made minimal lineup a global riff brand.",
-    "zh": "底特律双人组：把蓝调车库压成吉他/鼓/人声；Elephant（2003）与 Seven Nation Army 让最小编制成为全球 riff 品牌。"
+    "en": "Detroit duo that reduced rock to guitar, drums, and vocal—Elephant (2003, Toe Rag/Liam Watson) and Seven Nation Army’s octave-pedal riff became early-2000s garage-revival proof without bass.",
+    "zh": "底特律双人组：把摇滚压成吉他、鼓、人声——Elephant（2003，Toe Rag/Liam Watson）与 Seven Nation Army 的八度效果器 riff 成为 2000 年代初无贝斯车库复兴证据。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Jack White",
+      "role": "Vocals, Guitar, Piano",
+      "years": "1997–2011"
+    },
+    {
+      "name": "Meg White",
+      "role": "Drums, Vocals",
+      "years": "1997–2011"
+    }
+  ],
   "essentialTracks": [
+    {
+      "title": "Fell in Love with a Girl",
+      "year": 2001
+    },
     {
       "title": "Seven Nation Army",
       "year": 2003
+    },
+    {
+      "title": "The Hardest Button to Button",
+      "year": 2003
+    },
+    {
+      "title": "Icky Thump",
+      "year": 2007
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "the-strokes",
+    "franz-ferdinand"
+  ],
+  "influenceFrom": [
+    "the-rolling-stones",
+    "the-beatles"
+  ],
+  "influenced": [
+    "arctic-monkeys",
+    "the-strokes"
+  ],
   "shortBio": {
-    "en": "Jack / Meg White blues-garage; Seven Nation Army is the stadium chant riff.",
-    "zh": "Jack / Meg White 的蓝调车库；Seven Nation Army 是体育场口号 riff。"
+    "en": "Jack / Meg White Detroit duo; red-white-black minimalism, Toe Rag lo-fi, Seven Nation Army the global riff chant.",
+    "zh": "Jack / Meg White 底特律双人组；红白黑极简、Toe Rag lo-fi，Seven Nation Army 是全球 riff 口号。"
   },
   "body": {
-    "en": "Formed 1997. Early Sympathy for the Record Industry releases and White Blood Cells kept recording raw; Elephant (Liam Watson / Toe Rag) hit mainstream without adding bass.\n\nSeven Nation Army (2003) is the listed riff—octave pedal illusion of bass. Proof that early-2000s rock radio still answered to garage reduction, not only nu-metal density.",
-    "zh": "1997 年组建。早期 Sympathy for the Record Industry 发行与 White Blood Cells 保持毛糙录音；Elephant（Liam Watson / Toe Rag）打进主流且不加贝斯。\n\nSeven Nation Army（2003）是列出 riff——八度效果器制造的假贝斯。证明 2000 年代初摇滚电台仍回应车库减法，而非只有 nu-metal 密度。"
-  }
+    "en": "Formed 1997 in Detroit. Sympathy for the Record Industry releases and White Blood Cells (2001) kept recording raw—no bass, Meg’s floor-tom-heavy drums, Jack’s blues bends and fuzz.\n\nElephant (2003) hit mainstream via Seven Nation Army’s octave-pedal riff and Toe Rag’s vintage compression. Icky Thump (2007) added bagpipes and Nashville punch while keeping the two-piece rule.",
+    "zh": "1997 年于底特律组建。Sympathy for the Record Industry 发行与 White Blood Cells（2001）保持毛糙录音——无贝斯、Meg 的地鼓重击、Jack 的蓝调推弦与 fuzz。\n\nElephant（2003）借 Seven Nation Army 的八度效果器 riff 与 Toe Rag 复古压缩打进主流。Icky Thump（2007）加入风笛与纳什维尔冲击，仍守二人组规则。"
+  },
+  "scenes": [
+    {
+      "year": 2001,
+      "track": "Fell in Love with a Girl",
+      "membersOnStage": [
+        "Jack White",
+        "Meg White"
+      ],
+      "genreTags": [
+        "indie-rock",
+        "punk"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Michel Gondry Lego video; 1:50 blast, White Blood Cells raw mix.",
+        "zh": "Michel Gondry 乐高 MV；1:50 爆发，White Blood Cells 毛糙混音。"
+      }
+    },
+    {
+      "year": 2003,
+      "track": "Seven Nation Army",
+      "membersOnStage": [
+        "Jack White",
+        "Meg White"
+      ],
+      "genreTags": [
+        "alternative",
+        "blues"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Digitech Whammy octave line mimics bass; stadium chant hook on Elephant.",
+        "zh": "Digitech Whammy 八度线模拟贝斯；Elephant 上的体育场口号钩子。"
+      }
+    },
+    {
+      "year": 2007,
+      "track": "Icky Thump",
+      "membersOnStage": [
+        "Jack White",
+        "Meg White"
+      ],
+      "genreTags": [
+        "blues",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Bagpipes intro into blues stomp; Nashville-recorded maximal duo peak.",
+        "zh": "风笛前奏接蓝调 stomp；纳什维尔录制的双人组峰值。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Garage reduction as mainstream argument",
+        "zh": "车库减法作为主流论证"
+      },
+      "body": {
+        "en": "The White Stripes prove early-2000s rock radio still answered to blues-garage subtraction—not only nu-metal density. Guitar, drums, vocal; no bass by design.\n\nSeven Nation Army’s Whammy line is the technical fact: one guitarist simulates bass on a global chant.",
+        "zh": "The White Stripes 证明 2000 年代初摇滚电台仍回应蓝调车库减法——不只有 nu-metal 密度。吉他、鼓、人声；刻意无贝斯。\n\nSeven Nation Army 的 Whammy 线是技术事实：一名吉他手在全球口号上模拟贝斯。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "blues"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Fixed duo, no substitutions",
+        "zh": "固定双人组，无替补"
+      },
+      "body": {
+        "en": "Jack White handles all harmonic content—riffs, leads, piano overdubs. Meg White’s straight-ahead drum patterns anchor tempo without flash fills.\n\nNo lineup versions in the session sense: the brand is the two-person constraint from 1997 to 2011.",
+        "zh": "Jack White 承担全部和声内容——riff、主音、钢琴叠录。Meg White 的直鼓型定 tempo，无炫技 fill。\n\n录音意义上无阵容版本：品牌就是 1997–2011 的双人限制。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Post-Strokes garage and arena riff export",
+        "zh": "后 Strokes 车库与体育场 riff 出口"
+      },
+      "body": {
+        "en": "Alongside The Strokes, they reopened 2000s indie to raw guitar reduction. Seven Nation Army crossed into sports chants—riff as public-domain hook.\n\nArctic Monkeys and later UK indie cite the lo-fi duo proof against polished Britpop hangover.",
+        "zh": "与 The Strokes 并列，他们为 2000 年代 indie 重开毛糙吉他减法。Seven Nation Army 进入体育口号——riff 成为公共领域钩子。\n\nArctic Monkeys 与后来英国 indie 引用 lo-fi 双人组证据，对抛光 Britpop 余波。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Fell in Love with a Girl",
+        "zh": "Fell in Love with a Girl"
+      },
+      "body": {
+        "en": "Michel Gondry Lego video; 1:50 blast, White Blood Cells raw mix.",
+        "zh": "Michel Gondry 乐高 MV；1:50 爆发，White Blood Cells 毛糙混音。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Seven Nation Army",
+        "zh": "Seven Nation Army"
+      },
+      "body": {
+        "en": "Digitech Whammy octave line mimics bass; stadium chant hook on Elephant.",
+        "zh": "Digitech Whammy 八度线模拟贝斯；Elephant 上的体育场口号钩子。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Icky Thump",
+        "zh": "Icky Thump"
+      },
+      "body": {
+        "en": "Bagpipes intro into blues stomp; Nashville-recorded maximal duo peak.",
+        "zh": "风笛前奏接蓝调 stomp；纳什维尔录制的双人组峰值。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "blues"
+    }
+  ]
 }

@@ -363,6 +363,186 @@ const CURATED = {
       credit: "Lugnuts",
       altEn: "Tool live in Birmingham, 2022",
     },
+    "alice-in-chains": {
+      file: "Alice in Chains Live 2010.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "cb2vi3",
+      altEn: "Alice in Chains live, 2010",
+    },
+    coldplay: {
+      file: "Coldplay@Birmingham_120922 (39).jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Coldplay live in Birmingham",
+    },
+    deftones: {
+      file: "Deftones live brixton academy 2007.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Deftones live at Brixton Academy, 2007",
+    },
+    "depeche-mode": {
+      file: "Depeche Mode in 2006.jpg",
+      license: "CC BY-SA 4.0",
+      credit: "Ro hie",
+      altEn: "Depeche Mode, 2006",
+    },
+    evanescence: {
+      file: "Evanescence - Rock am Ring 2023-7536.jpg",
+      license: "CC BY-SA 4.0",
+      credit: "Andreas Lawen, Fotandi",
+      altEn: "Evanescence at Rock am Ring, 2023",
+    },
+    "explosions-in-the-sky": {
+      file: "Explosions In The Sky Live.jpg",
+      license: "CC BY-SA 3.0",
+      credit: "Getonjolly",
+      altEn: "Explosions in the Sky live",
+    },
+    "franz-ferdinand": {
+      file: "Franz Ferdinand - Rock am Ring 2014.jpg",
+      license: "CC BY-SA 3.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Franz Ferdinand at Rock am Ring, 2014",
+    },
+    "godspeed-you-black-emperor": {
+      file: "Godspeed You Black Emperor! - London Nov 20003.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Godspeed You! Black Emperor in London",
+    },
+    idles: {
+      file: "Idles - Southside Festival 2022 - IMG 5495 - 3.jpg",
+      license: "CC BY-SA 4.0",
+      credit: "Mr. Rossi",
+      altEn: "Idles at Southside Festival, 2022",
+    },
+    interpol: {
+      file: "Interpol (NYC) Sziget 2011 (2).JPG",
+      license: "CC BY-SA 3.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Interpol at Sziget, 2011",
+    },
+    "kings-of-leon": {
+      file: "Kings of Leon live at Toads Place.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Kings of Leon live at Toad's Place",
+    },
+    "linkin-park": {
+      file: "Linkin Park - Live at O2 Arena (September 24, 2024).jpg",
+      license: "CC BY-SA 4.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Linkin Park live at O2 Arena, 2024",
+    },
+    mogwai: {
+      file: "Mogwai (band) live RFH 2014.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Mogwai live at Royal Festival Hall, 2014",
+    },
+    muse: {
+      file: "Muse - Glastonbury 2016.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Muse at Glastonbury, 2016",
+    },
+    "nine-inch-nails": {
+      file: "Nine Inch Nails Coachella 01.jpg",
+      license: "CC BY 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Nine Inch Nails at Coachella",
+    },
+    pulp: {
+      file: "Pulp performing at Isle of Wight Festival 2011.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Pulp at Isle of Wight Festival, 2011",
+    },
+    "rage-against-the-machine": {
+      file: "RATM Coachella 2007.jpg",
+      license: "CC BY 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Rage Against the Machine at Coachella, 2007",
+    },
+    "red-hot-chili-peppers": {
+      file: "Rhcp-live-pinkpop05.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Red Hot Chili Peppers at Pinkpop",
+    },
+    "sigur-ros": {
+      file: "Sigur Rós 2013.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Sigur Rós, 2013",
+    },
+    slowdive: {
+      file: "Slowdive at Crystal Ballroom, 2014.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Slowdive at Crystal Ballroom, 2014",
+    },
+    suede: {
+      file: "Suede at Ally Pally Nov 2021 (51675232258).jpg",
+      license: "CC BY 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Suede at Alexandra Palace, 2021",
+    },
+    "system-of-a-down": {
+      file: "System of a Down, Download Festival 2005 (2).JPG",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "System of a Down at Download Festival, 2005",
+    },
+    "the-beach-boys": {
+      file: "The Beach Boys reunion 2012.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "The Beach Boys reunion, 2012",
+    },
+    "the-killers": {
+      file: "The Killers in Sydney.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "The Killers in Sydney",
+    },
+    "the-kinks": {
+      file: "Kinks 1969.JPG",
+      license: "Public domain",
+      credit: "Press photograph",
+      altEn: "The Kinks, 1969",
+    },
+    "the-libertines": {
+      file: "The Libertines at HMV Forum (11).jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "The Libertines at HMV Forum",
+    },
+    "the-stone-roses": {
+      file: "The Stone Roses In Dublin.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "The Stone Roses in Dublin",
+    },
+    "the-velvet-underground": {
+      file: "Velvet Underground & Nico publicity photo.jpg",
+      license: "Public domain",
+      credit: "Publicity photograph",
+      altEn: "The Velvet Underground & Nico publicity photo",
+    },
+    "the-verve": {
+      file: "The Verve 1.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Eduardo",
+      altEn: "The Verve",
+    },
+    "the-white-stripes": {
+      file: "Meg & Jack, The White Stripes.jpg",
+      license: "CC BY-SA 2.0",
+      credit: "Photographer via Wikimedia Commons",
+      altEn: "Meg and Jack White of The White Stripes",
+    },
   },
   people: {
     "bernard-sumner": {
@@ -484,6 +664,8 @@ function download(url, dest) {
       "-4",
       "-sS",
       "-L",
+      "-x",
+      "http://127.0.0.1:7890",
       "-A",
       UA,
       "--connect-timeout",
@@ -581,7 +763,7 @@ function processKind(kind) {
       console.log(`FAIL ${err.message || err}`);
       missing.push(`${kind}/${slug}`);
     }
-    sleep(8);
+    sleep(3);
   }
   return missing;
 }

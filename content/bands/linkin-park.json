@@ -10,26 +10,226 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Agoura Hills six-piece that made rap-rock/nu-metal the default millennial rock radio format via Hybrid Theory (2000).",
-    "zh": "阿古拉山六人组：借 Hybrid Theory（2000）把 rap-rock/nu-metal 做成千禧一代摇滚电台默认格式。"
+    "en": "Agoura Hills six-piece that made rap-rock/nu-metal the default millennial rock radio format via Hybrid Theory (2000) and Meteora (2003).",
+    "zh": "阿古拉山六人组：借 Hybrid Theory（2000）与 Meteora（2003）把 rap-rock/nu-metal 做成千禧一代摇滚电台默认格式。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Chester Bennington",
+      "role": "Vocals",
+      "years": "1999–2017"
+    },
+    {
+      "name": "Mike Shinoda",
+      "role": "Vocals, Rap, Keys, Guitar",
+      "years": "1996–present"
+    },
+    {
+      "name": "Brad Delson",
+      "role": "Guitar",
+      "years": "1996–present"
+    },
+    {
+      "name": "Rob Bourdon",
+      "role": "Drums",
+      "years": "1996–present"
+    },
+    {
+      "name": "Dave Farrell",
+      "role": "Bass",
+      "years": "1996–present"
+    },
+    {
+      "name": "Joe Hahn",
+      "role": "Turntables, Samples",
+      "years": "1996–present"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "In the End",
       "year": 2000
+    },
+    {
+      "title": "One Step Closer",
+      "year": 2000
+    },
+    {
+      "title": "Numb",
+      "year": 2003
+    },
+    {
+      "title": "Crawling",
+      "year": 2000
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "system-of-a-down",
+    "deftones",
+    "evanescence"
+  ],
+  "influenceFrom": [
+    "rage-against-the-machine",
+    "deftones",
+    "nine-inch-nails"
+  ],
+  "influenced": [
+    "evanescence"
+  ],
   "shortBio": {
-    "en": "Chester Bennington / Mike Shinoda dual-vocal nu-metal; In the End is the global hook.",
-    "zh": "Chester Bennington / Mike Shinoda 双人声 nu-metal；In the End 是全球钩子。"
+    "en": "Bennington / Shinoda dual-vocal nu-metal; Hybrid Theory is the 2000 radio template.",
+    "zh": "Bennington / Shinoda 双人声 nu-metal；Hybrid Theory 是 2000 电台模板。"
   },
   "body": {
-    "en": "Formed 1996 (earlier name Xero). Hybrid Theory and Meteora fused DJ/sample beds, downtuned guitars, Shinoda’s rap verses, Bennington’s melodic chorus.\n\nIn the End (2000) is the structural template taught to a decade of bands. Later catalogs add electronic and concept-album turns; the chronicle weight is how 2000–03 rock radio sounded in malls and MTV.",
-    "zh": "1996 年组建（曾用名 Xero）。Hybrid Theory 与 Meteora 融合 DJ/采样铺底、降调吉他、Shinoda 的 rap 主歌、Bennington 的旋律副歌。\n\nIn the End（2000）是教给整整十年乐队的结构模板。后期目录加入电子与概念专集转向；编年分量是 2000–03 商场与 MTV 上的摇滚电台声景。"
-  }
+    "en": "Formed 1996 as Xero in Agoura Hills. Hybrid Theory and Meteora fuse DJ/sample beds, downtuned guitars, Shinoda's rap verses, Bennington's melodic chorus.\n\nIn the End (2000) is the structural template for a decade of bands. Later catalogs add electronic and concept turns; chronicle weight is how 2000–03 rock radio sounded in malls and on MTV.",
+    "zh": "1996 年于阿古拉山以 Xero 组建。Hybrid Theory 与 Meteora 融合 DJ/采样铺底、降调吉他、Shinoda rap 主歌、Bennington 旋律副歌。\n\nIn the End（2000）是整整十年乐队的结构模板。后期目录加入电子与概念转向；编年分量是 2000–03 商场与 MTV 上的摇滚电台声景。"
+  },
+  "scenes": [
+    {
+      "year": 2000,
+      "track": "One Step Closer",
+      "membersOnStage": [
+        "Chester Bennington",
+        "Mike Shinoda",
+        "Brad Delson",
+        "Rob Bourdon",
+        "Dave Farrell",
+        "Joe Hahn"
+      ],
+      "genreTags": [
+        "alternative",
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Hybrid Theory debut; DJ scratches and downtuned chug on rock radio.",
+        "zh": "Hybrid Theory 首波；DJ 刮碟与降调 chug 上摇滚电台。"
+      }
+    },
+    {
+      "year": 2000,
+      "track": "In the End",
+      "membersOnStage": [
+        "Chester Bennington",
+        "Mike Shinoda",
+        "Brad Delson",
+        "Rob Bourdon",
+        "Dave Farrell",
+        "Joe Hahn"
+      ],
+      "genreTags": [
+        "alternative",
+        "heavy-metal"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Piano loop plus rap verse and melodic chorus; mall-rock template.",
+        "zh": "钢琴 loop 加 rap 主歌与旋律副歌；商场摇滚模板。"
+      }
+    },
+    {
+      "year": 2003,
+      "track": "Numb",
+      "membersOnStage": [
+        "Chester Bennington",
+        "Mike Shinoda",
+        "Brad Delson",
+        "Rob Bourdon",
+        "Dave Farrell",
+        "Joe Hahn"
+      ],
+      "genreTags": [
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Meteora; sustained notes and dual-vocal stack on MTV.",
+        "zh": "Meteora；延音与双人声堆叠上 MTV。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Rap verse, sung chorus, DJ bed",
+        "zh": "Rap 主歌、唱副歌、DJ 铺底"
+      },
+      "body": {
+        "en": "Hybrid Theory (2000) sells 10M+ US with a fixed formula: Shinoda rap verse, Bennington melodic hook, Hahn's scratches, Delson's detuned power chords.\n\nIn the End and Crawling share one cycle—proof that nu-metal can lead with piano and melody, not only chug.",
+        "zh": "Hybrid Theory（2000）以固定公式卖过千万：Shinoda rap 主歌、Bennington 旋律 hook、Hahn 刮碟、Delson 降调 power chord。\n\nIn the End 与 Crawling 同属一周期——证明 nu-metal 可以钢琴与旋律先行，不只 chug。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "lineup",
+      "title": {
+        "en": "Classic six through Hybrid Theory/Meteora",
+        "zh": "Hybrid Theory/Meteora 经典六人组"
+      },
+      "body": {
+        "en": "Bennington joins 1999; the six—Bennington, Shinoda, Delson, Bourdon, Farrell, Hahn—record Hybrid Theory and Meteora. Shinoda is writer/producer hub; Hahn is the explicit DJ chair.\n\nPost-2017 lineup changes follow Bennington's death; catalog peak remains the 2000–03 six-piece.",
+        "zh": "Bennington 1999 加入；六人——Bennington、Shinoda、Delson、Bourdon、Farrell、Hahn——录 Hybrid Theory 与 Meteora。Shinoda 是写作/制作枢纽；Hahn 是明确 DJ 席。\n\n2017 后阵容随 Bennington 离世变动；目录峰值仍是 2000–03 六人组。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Millennial rock radio default",
+        "zh": "千禧一代摇滚电台默认"
+      },
+      "body": {
+        "en": "Rage Against the Machine supplies the rap-over-riff idea; Deftones and NIN supply texture; Evanescence shares the dual-vocal goth-adjacent slot on 2000s charts.\n\nInfluence is structural—verse/chorus/DJ layout copied across 2000s alt-metal more than any single riff.",
+        "zh": "Rage Against the Machine 提供 riff 上 rap 概念；Deftones 与 NIN 提供纹理；Evanescence 在 2000 年代榜单共享双人声近 goth 槽位。\n\n影响在结构——2000 年代 alt-metal 多抄主歌/副歌/DJ 布局，少抄单一 riff。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "One Step Closer",
+        "zh": "One Step Closer"
+      },
+      "body": {
+        "en": "Hybrid Theory debut; DJ scratches and downtuned chug on rock radio.",
+        "zh": "Hybrid Theory 首波；DJ 刮碟与降调 chug 上摇滚电台。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "In the End",
+        "zh": "In the End"
+      },
+      "body": {
+        "en": "Piano loop plus rap verse and melodic chorus; mall-rock template.",
+        "zh": "钢琴 loop 加 rap 主歌与旋律副歌；商场摇滚模板。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Numb",
+        "zh": "Numb"
+      },
+      "body": {
+        "en": "Meteora; sustained notes and dual-vocal stack on MTV.",
+        "zh": "Meteora；延音与双人声堆叠上 MTV。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "alternative"
+    }
+  ]
 }

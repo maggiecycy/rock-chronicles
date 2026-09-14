@@ -10,26 +10,215 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Sheffield Britpop band that treated class and sex as narrative detail; Different Class (1995) and Common People are the document.",
-    "zh": "谢菲尔德 Britpop：把阶级与性写成叙事细节；Different Class（1995）与 Common People 是文献。"
+    "en": "Sheffield band that spent a decade underground before Different Class (1995) put Jarvis Cocker’s class-satire and glam-tinged arrangements on UK charts beside Oasis and Blur.",
+    "zh": "谢菲尔德乐队：地下十年后 Different Class（1995）把 Jarvis Cocker 的阶级讽刺与偏 glam 编曲送上英国榜，与 Oasis、Blur 并列。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Jarvis Cocker",
+      "role": "Vocals, Guitar",
+      "years": "1978–2002"
+    },
+    {
+      "name": "Russell Senior",
+      "role": "Guitar, Violin",
+      "years": "1983–1997"
+    },
+    {
+      "name": "Candida Doyle",
+      "role": "Keyboards",
+      "years": "1983–2002"
+    },
+    {
+      "name": "Steve Mackey",
+      "role": "Bass",
+      "years": "1987–2002"
+    },
+    {
+      "name": "Nick Banks",
+      "role": "Drums",
+      "years": "1991–2002"
+    }
+  ],
   "essentialTracks": [
     {
+      "title": "Babies",
+      "year": 1992
+    },
+    {
       "title": "Common People",
+      "year": 1995
+    },
+    {
+      "title": "Disco 2000",
+      "year": 1995
+    },
+    {
+      "title": "Mis-Shapes",
       "year": 1995
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "blur",
+    "oasis"
+  ],
+  "influenceFrom": [
+    "the-smiths",
+    "the-cure"
+  ],
+  "influenced": [
+    "arctic-monkeys"
+  ],
   "shortBio": {
-    "en": "Jarvis Cocker–led Britpop; Common People is the class-satire single.",
-    "zh": "Jarvis Cocker 领衔的 Britpop；Common People 是阶级讽刺单曲。"
+    "en": "Jarvis Cocker Sheffield Britpop; Common People is the class-satire single, Different Class the chart document.",
+    "zh": "Jarvis Cocker 的谢菲尔德 Britpop；Common People 是阶级讽刺单曲，Different Class 是榜单文献。"
   },
   "body": {
-    "en": "Formed 1978; commercial peak is mid-1990s after His ’n’ Hers. Different Class put Cocker’s spoken-sung delivery and glam-tinged arrangements on UK charts beside Oasis/Blur.\n\nCommon People (1995) is the structural and lyrical reference—verse reportage into chant chorus. They matter as Britpop’s literary/observational pole against laddish stadium rock.",
-    "zh": "1978 年组建；商业高峰在 His ’n’ Hers 之后的 1990 年代中期。Different Class 把 Cocker 的说唱式演唱与偏 glam 编曲送上英国榜，与 Oasis/Blur 并列。\n\nCommon People（1995）是结构与歌词参照——主歌报道推进到口号副歌。他们是 Britpop 里文学/观察一极，对位兄弟会式体育场摇滚。"
-  }
+    "en": "Formed 1978; commercial peak arrived mid-1990s after His ’n’ Hers (1994). Jarvis Cocker’s spoken-sung delivery, Russell Senior’s violin/guitar color, and Steve Mackey’s bass locked a literary Britpop pole against laddish stadium rock.\n\nDifferent Class (1995) delivered Common People, Disco 2000, and Mis-Shapes—observational lyrics with glam keyboard lifts. They matter as Sheffield’s narrative counterweight to Manchester anthem bands.",
+    "zh": "1978 年组建；商业高峰在 His ’n’ Hers（1994）之后的 1990 年代中期。Jarvis Cocker 的说唱式演唱、Russell Senior 的小提琴/吉他色彩与 Steve Mackey 贝斯锁定文学 Britpop 一极，对位兄弟会式体育场摇滚。\n\nDifferent Class（1995）交出 Common People、Disco 2000 与 Mis-Shapes——观察式歌词配 glam 键盘抬升。他们是谢菲尔德叙事对曼彻斯特颂歌乐队的配重。"
+  },
+  "scenes": [
+    {
+      "year": 1992,
+      "track": "Babies",
+      "membersOnStage": [
+        "Jarvis Cocker",
+        "Russell Senior",
+        "Candida Doyle",
+        "Steve Mackey"
+      ],
+      "genreTags": [
+        "indie-rock",
+        "britpop"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "His ’n’ Hers single; spoken narrative over keyboard swell.",
+        "zh": "His ’n’ Hers 单曲；键盘铺底下的口语叙事。"
+      }
+    },
+    {
+      "year": 1995,
+      "track": "Common People",
+      "membersOnStage": [
+        "Jarvis Cocker",
+        "Russell Senior",
+        "Candida Doyle",
+        "Steve Mackey",
+        "Nick Banks"
+      ],
+      "genreTags": [
+        "britpop",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Verse reportage into chant chorus; class-tourism lyric on Different Class.",
+        "zh": "主歌报道推进到口号副歌；Different Class 上的阶级观光歌词。"
+      }
+    },
+    {
+      "year": 1995,
+      "track": "Disco 2000",
+      "membersOnStage": [
+        "Jarvis Cocker",
+        "Candida Doyle",
+        "Steve Mackey",
+        "Nick Banks"
+      ],
+      "genreTags": [
+        "britpop",
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Jarvis name-checks Deborah; keyboard-led mid-tempo Britpop radio.",
+        "zh": "Jarvis 点名 Deborah；键盘主导的中速 Britpop 电台曲。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Literary Britpop vs laddish stadium",
+        "zh": "文学 Britpop 对兄弟会体育场"
+      },
+      "body": {
+        "en": "Common People (1995) is verse reportage into a chant chorus—class tourism as pop structure, not sloganeering. Jarvis’s body language and lyric detail define a satirical Britpop lane.\n\nDifferent Class sits beside Oasis/Blur as the observational, Sheffield-document side.",
+        "zh": "Common People（1995）是主歌报道推进到口号副歌——阶级观光作为流行结构，非口号堆砌。Jarvis 的肢体与歌词细节定义讽刺 Britpop 车道。\n\nDifferent Class 与 Oasis/Blur 并列，是观察式、谢菲尔德文献面。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Senior era to Mackey/Banks core",
+        "zh": "Senior 时期到 Mackey/Banks 核心"
+      },
+      "body": {
+        "en": "Russell Senior adds violin and angular guitar through Different Class; exits 1997 before This Is Hardcore. Mackey and Doyle’s keyboard/bass bed stays the harmonic frame.\n\nNick Banks (drums, 1991+) completes the peak five-piece silhouette.",
+        "zh": "Russell Senior 在 Different Class 前加入小提琴与棱角吉他；1997 年 This Is Hardcore 前离队。Mackey 与 Doyle 的键盘/贝斯床仍是和声框架。\n\nNick Banks（1991+ 鼓）完成峰值五人剪影。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Class narrative into later UK indie",
+        "zh": "阶级叙事进入后来英国 indie"
+      },
+      "body": {
+        "en": "Pulp export observational lyric habits—character names, social detail, spoken verses—that Arctic Monkeys later cite in Sheffield continuity.\n\nThey are the Britpop pole that kept glam keyboards and satire over football-chant consensus.",
+        "zh": "Pulp 输出观察式歌词习惯——角色名、社会细节、口语主歌——Arctic Monkeys 后来在谢菲尔德延续线上引用。\n\n他们是保留 glam 键盘与讽刺、而非足球口号共识的 Britpop 一极。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Babies",
+        "zh": "Babies"
+      },
+      "body": {
+        "en": "His ’n’ Hers single; spoken narrative over keyboard swell.",
+        "zh": "His ’n’ Hers 单曲；键盘铺底下的口语叙事。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Common People",
+        "zh": "Common People"
+      },
+      "body": {
+        "en": "Verse reportage into chant chorus; class-tourism lyric on Different Class.",
+        "zh": "主歌报道推进到口号副歌；Different Class 上的阶级观光歌词。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Disco 2000",
+        "zh": "Disco 2000"
+      },
+      "body": {
+        "en": "Jarvis name-checks Deborah; keyboard-led mid-tempo Britpop radio.",
+        "zh": "Jarvis 点名 Deborah；键盘主导的中速 Britpop 电台曲。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "britpop"
+    }
+  ]
 }

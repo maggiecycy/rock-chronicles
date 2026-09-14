@@ -10,26 +10,214 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "London band often cited at Britpop’s start; Suede (1993) and Dog Man Star put glam guitar and dramatic vocal ahead of laddish peer pressure.",
-    "zh": "常被算作 Britpop 起点的伦敦乐队；Suede（1993）与 Dog Man Star 把 glam 吉他与戏剧人声放在兄弟会同侪压力之前。"
+    "en": "London band often dated to Britpop’s opening: debut Suede (1993) and Bernard Butler’s guitar drama on Dog Man Star (1994) put androgynous glam before Oasis stadium consensus.",
+    "zh": "常被算作 Britpop 开局的伦敦乐队：首专 Suede（1993）与 Bernard Butler 在 Dog Man Star（1994）的吉他戏剧，把中性 glam 放在 Oasis 体育场共识之前。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Brett Anderson",
+      "role": "Vocals",
+      "years": "1989–present"
+    },
+    {
+      "name": "Bernard Butler",
+      "role": "Guitar",
+      "years": "1989–1994"
+    },
+    {
+      "name": "Richard Oakes",
+      "role": "Guitar",
+      "years": "1994–present"
+    },
+    {
+      "name": "Mat Osman",
+      "role": "Bass",
+      "years": "1989–present"
+    },
+    {
+      "name": "Simon Gilbert",
+      "role": "Drums",
+      "years": "1989–2003"
+    }
+  ],
   "essentialTracks": [
+    {
+      "title": "Animal Nitrate",
+      "year": 1993
+    },
+    {
+      "title": "The Drowners",
+      "year": 1992
+    },
+    {
+      "title": "Stay Together",
+      "year": 1994
+    },
     {
       "title": "Beautiful Ones",
       "year": 1996
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "blur",
+    "oasis"
+  ],
+  "influenceFrom": [
+    "the-smiths",
+    "the-cure"
+  ],
+  "influenced": [
+    "franz-ferdinand"
+  ],
   "shortBio": {
-    "en": "Brett Anderson / Bernard Butler glam-Britpop; Beautiful Ones is a later single peak.",
-    "zh": "Brett Anderson / Bernard Butler 的 glam-Britpop；Beautiful Ones 是后期单曲高峰。"
+    "en": "Brett Anderson / Bernard Butler glam-Britpop; Dog Man Star drama, Coming Up pop singles with Oakes.",
+    "zh": "Brett Anderson / Bernard Butler 的 glam-Britpop；Dog Man Star 戏剧，Oakes 时期 Coming Up 流行单曲。"
   },
   "body": {
-    "en": "Formed 1989. Debut Suede and Bernard Butler’s exit into Dog Man Star define early drama; Coming Up (1996) with Richard Oakes returned sharper pop singles.\n\nBeautiful Ones (1996) is the track listed. They matter as Britpop’s androgynous/glam opening move before Oasis’s stadium consensus.",
-    "zh": "1989 年组建。首专 Suede 与 Bernard Butler 离队后的 Dog Man Star 定义早期戏剧；Richard Oakes 加入的 Coming Up（1996）回到更锐利的流行单曲。\n\nBeautiful Ones（1996）是列出曲目。意义是 Britpop 中性/glam 开局，早于 Oasis 的体育场共识。"
-  }
+    "en": "Formed 1989 in London. Debut Suede (1993) won the Mercury Prize race with Brett Anderson’s androgynous vocal and Bernard Butler’s wah-heavy guitar. Dog Man Star (1994) pushed orchestral glam before Butler’s departure.\n\nComing Up (1996) with Richard Oakes returned sharper chart singles—Beautiful Ones, Trash. They open Britpop’s glam/art-school lane before Manchester anthem dominance.",
+    "zh": "1989 年于伦敦组建。首专 Suede（1993）以 Brett Anderson 中性人声与 Bernard Butler wah 重吉他在 Mercury 奖赛道上胜出。Dog Man Star（1994）在 Butler 离队前推进管弦 glam。\n\nRichard Oakes 加入后的 Coming Up（1996）回到更锐榜单单曲——Beautiful Ones、Trash。他们在曼彻斯特颂歌主导前打开 Britpop 的 glam/艺术学院车道。"
+  },
+  "scenes": [
+    {
+      "year": 1993,
+      "track": "Animal Nitrate",
+      "membersOnStage": [
+        "Brett Anderson",
+        "Bernard Butler",
+        "Mat Osman",
+        "Simon Gilbert"
+      ],
+      "genreTags": [
+        "britpop",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Butler wah/distortion peaks; Brett’s falsetto over glam chord stabs.",
+        "zh": "Butler wah/失真峰值；Brett 假声压在 glam 和弦刺上。"
+      }
+    },
+    {
+      "year": 1994,
+      "track": "Stay Together",
+      "membersOnStage": [
+        "Brett Anderson",
+        "Bernard Butler",
+        "Mat Osman",
+        "Simon Gilbert"
+      ],
+      "genreTags": [
+        "britpop",
+        "psychedelic"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Dog Man Star epic; Butler exit follows this cycle.",
+        "zh": "Dog Man Star 史诗；Butler 在此周期后离队。"
+      }
+    },
+    {
+      "year": 1996,
+      "track": "Beautiful Ones",
+      "membersOnStage": [
+        "Brett Anderson",
+        "Richard Oakes",
+        "Mat Osman",
+        "Simon Gilbert"
+      ],
+      "genreTags": [
+        "britpop",
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Coming Up pop pivot; Oakes replaces Butler on sharper singles.",
+        "zh": "Coming Up 流行转向；Oakes 接替 Butler 写更锐单曲。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Glam Britpop before stadium Oasis",
+        "zh": "体育场 Oasis 之前的 glam Britpop"
+      },
+      "body": {
+        "en": "Animal Nitrate and The Drowners frame Suede’s method: Brett’s dramatic falsetto, Butler’s distortion/wah, Mat Osman’s melodic bass. Androgynous image as chart fact in 1993.\n\nDog Man Star escalates length and orchestration—the art-glam document before Britpop’s laddish turn.",
+        "zh": "Animal Nitrate 与 The Drowners 框定 Suede 方法：Brett 戏剧假声、Butler 失真/wah、Mat Osman 旋律贝斯。1993 年中性形象作为榜单事实。\n\nDog Man Star 拉长时长与配器——Britpop 兄弟化转向前的 art-glam 文献。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Butler era vs Oakes pop pivot",
+        "zh": "Butler 时期 vs Oakes 流行转向"
+      },
+      "body": {
+        "en": "Bernard Butler (1989–1994) defines the guitar drama on debut and Dog Man Star. Richard Oakes joins 1994; Coming Up trades epics for three-minute pop hooks.\n\nOsman/Gilbert rhythm section bridges both eras.",
+        "zh": "Bernard Butler（1989–1994）定义首专与 Dog Man Star 的吉他戏剧。Richard Oakes 1994 年加入；Coming Up 用三分钟流行钩子换掉史诗。\n\nOsman/Gilbert  rhythm section 连接两个时期。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Glam guitar into post-punk revival indie",
+        "zh": "Glam 吉他进入后朋克复兴 indie"
+      },
+      "body": {
+        "en": "Franz Ferdinand and later UK indie cite Suede’s androgynous frontman + angular guitar pairing. They sit upstream of 2000s art-school guitar revival.\n\nInfluence line runs through glam drama, not Oasis chord anthems.",
+        "zh": "Franz Ferdinand 与后来英国 indie 引用 Suede 的中性主唱 + 棱角吉他配对。他们站在 2000 年代艺术学院吉他复兴上游。\n\n影响线走 glam 戏剧，而非 Oasis 和弦颂歌。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Animal Nitrate",
+        "zh": "Animal Nitrate"
+      },
+      "body": {
+        "en": "Butler wah/distortion peaks; Brett’s falsetto over glam chord stabs.",
+        "zh": "Butler wah/失真峰值；Brett 假声压在 glam 和弦刺上。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Stay Together",
+        "zh": "Stay Together"
+      },
+      "body": {
+        "en": "Dog Man Star epic; Butler exit follows this cycle.",
+        "zh": "Dog Man Star 史诗；Butler 在此周期后离队。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "britpop"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Beautiful Ones",
+        "zh": "Beautiful Ones"
+      },
+      "body": {
+        "en": "Coming Up pop pivot; Oakes replaces Butler on sharper singles.",
+        "zh": "Coming Up 流行转向；Oakes 接替 Butler 写更锐单曲。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "britpop"
+    }
+  ]
 }

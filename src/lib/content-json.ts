@@ -19,7 +19,7 @@ function readJsonDir<T>(dir: string): T[] {
   if (!fs.existsSync(full)) return [];
   return fs
     .readdirSync(full)
-    .filter((f) => f.endsWith(".json"))
+    .filter((f) => f.endsWith(".json") && !f.startsWith("_"))
     .map((f) =>
       JSON.parse(fs.readFileSync(path.join(full, f), "utf8")) as T,
     );

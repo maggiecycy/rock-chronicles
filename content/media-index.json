@@ -569,6 +569,306 @@
       "credit": "Lugnuts",
       "license": "CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tool_live_Birmingham_2022.jpg"
+    },
+    "alice-in-chains": {
+      "src": "/media/bands/alice-in-chains.jpg",
+      "alt": {
+        "en": "Alice in Chains live, 2010",
+        "zh": "Alice In Chains（Wikimedia Commons）"
+      },
+      "credit": "cb2vi3",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_in_Chains_Live_2010.jpg"
+    },
+    "coldplay": {
+      "src": "/media/bands/coldplay.jpg",
+      "alt": {
+        "en": "Coldplay live in Birmingham",
+        "zh": "Coldplay（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coldplay@Birmingham_120922_(39).jpg"
+    },
+    "deftones": {
+      "src": "/media/bands/deftones.jpg",
+      "alt": {
+        "en": "Deftones live at Brixton Academy, 2007",
+        "zh": "Deftones（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deftones_live_brixton_academy_2007.jpg"
+    },
+    "depeche-mode": {
+      "src": "/media/bands/depeche-mode.jpg",
+      "alt": {
+        "en": "Depeche Mode, 2006",
+        "zh": "Depeche Mode（Wikimedia Commons）"
+      },
+      "credit": "Ro hie",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Depeche_Mode_in_2006.jpg"
+    },
+    "evanescence": {
+      "src": "/media/bands/evanescence.jpg",
+      "alt": {
+        "en": "Evanescence at Rock am Ring, 2023",
+        "zh": "Evanescence（Wikimedia Commons）"
+      },
+      "credit": "Andreas Lawen, Fotandi",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evanescence_-_Rock_am_Ring_2023-7536.jpg"
+    },
+    "explosions-in-the-sky": {
+      "src": "/media/bands/explosions-in-the-sky.jpg",
+      "alt": {
+        "en": "Explosions in the Sky live",
+        "zh": "Explosions In The Sky（Wikimedia Commons）"
+      },
+      "credit": "Getonjolly",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Explosions_In_The_Sky_Live.jpg"
+    },
+    "franz-ferdinand": {
+      "src": "/media/bands/franz-ferdinand.jpg",
+      "alt": {
+        "en": "Franz Ferdinand at Rock am Ring, 2014",
+        "zh": "Franz Ferdinand（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Franz_Ferdinand_-_Rock_am_Ring_2014.jpg"
+    },
+    "godspeed-you-black-emperor": {
+      "src": "/media/bands/godspeed-you-black-emperor.jpg",
+      "alt": {
+        "en": "Godspeed You! Black Emperor in London",
+        "zh": "Godspeed You Black Emperor（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Godspeed_You_Black_Emperor!_-_London_Nov_20003.jpg"
+    },
+    "idles": {
+      "src": "/media/bands/idles.jpg",
+      "alt": {
+        "en": "Idles at Southside Festival, 2022",
+        "zh": "Idles（Wikimedia Commons）"
+      },
+      "credit": "Mr. Rossi",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Idles_-_Southside_Festival_2022_-_IMG_5495_-_3.jpg"
+    },
+    "interpol": {
+      "src": "/media/bands/interpol.jpg",
+      "alt": {
+        "en": "Interpol at Sziget, 2011",
+        "zh": "Interpol（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interpol_(NYC)_Sziget_2011_(2).JPG"
+    },
+    "kings-of-leon": {
+      "src": "/media/bands/kings-of-leon.jpg",
+      "alt": {
+        "en": "Kings of Leon live at Toad's Place",
+        "zh": "Kings Of Leon（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kings_of_Leon_live_at_Toads_Place.jpg"
+    },
+    "linkin-park": {
+      "src": "/media/bands/linkin-park.jpg",
+      "alt": {
+        "en": "Linkin Park live at O2 Arena, 2024",
+        "zh": "Linkin Park（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Linkin_Park_-_Live_at_O2_Arena_(September_24,_2024).jpg"
+    },
+    "mogwai": {
+      "src": "/media/bands/mogwai.jpg",
+      "alt": {
+        "en": "Mogwai live at Royal Festival Hall, 2014",
+        "zh": "Mogwai（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mogwai_(band)_live_RFH_2014.jpg"
+    },
+    "muse": {
+      "src": "/media/bands/muse.jpg",
+      "alt": {
+        "en": "Muse at Glastonbury, 2016",
+        "zh": "Muse（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muse_-_Glastonbury_2016.jpg"
+    },
+    "nine-inch-nails": {
+      "src": "/media/bands/nine-inch-nails.jpg",
+      "alt": {
+        "en": "Nine Inch Nails at Coachella",
+        "zh": "Nine Inch Nails（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nine_Inch_Nails_Coachella_01.jpg"
+    },
+    "pulp": {
+      "src": "/media/bands/pulp.jpg",
+      "alt": {
+        "en": "Pulp at Isle of Wight Festival, 2011",
+        "zh": "Pulp（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pulp_performing_at_Isle_of_Wight_Festival_2011.jpg"
+    },
+    "rage-against-the-machine": {
+      "src": "/media/bands/rage-against-the-machine.jpg",
+      "alt": {
+        "en": "Rage Against the Machine at Coachella, 2007",
+        "zh": "Rage Against The Machine（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RATM_Coachella_2007.jpg"
+    },
+    "red-hot-chili-peppers": {
+      "src": "/media/bands/red-hot-chili-peppers.jpg",
+      "alt": {
+        "en": "Red Hot Chili Peppers at Pinkpop",
+        "zh": "Red Hot Chili Peppers（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhcp-live-pinkpop05.jpg"
+    },
+    "sigur-ros": {
+      "src": "/media/bands/sigur-ros.jpg",
+      "alt": {
+        "en": "Sigur Rós, 2013",
+        "zh": "Sigur Ros（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sigur_Rós_2013.jpg"
+    },
+    "slowdive": {
+      "src": "/media/bands/slowdive.jpg",
+      "alt": {
+        "en": "Slowdive at Crystal Ballroom, 2014",
+        "zh": "Slowdive（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slowdive_at_Crystal_Ballroom,_2014.jpg"
+    },
+    "suede": {
+      "src": "/media/bands/suede.jpg",
+      "alt": {
+        "en": "Suede at Alexandra Palace, 2021",
+        "zh": "Suede（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suede_at_Ally_Pally_Nov_2021_(51675232258).jpg"
+    },
+    "system-of-a-down": {
+      "src": "/media/bands/system-of-a-down.jpg",
+      "alt": {
+        "en": "System of a Down at Download Festival, 2005",
+        "zh": "System Of A Down（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:System_of_a_Down,_Download_Festival_2005_(2).JPG"
+    },
+    "the-beach-boys": {
+      "src": "/media/bands/the-beach-boys.jpg",
+      "alt": {
+        "en": "The Beach Boys reunion, 2012",
+        "zh": "The Beach Boys（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Beach_Boys_reunion_2012.jpg"
+    },
+    "the-killers": {
+      "src": "/media/bands/the-killers.jpg",
+      "alt": {
+        "en": "The Killers in Sydney",
+        "zh": "The Killers（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Killers_in_Sydney.jpg"
+    },
+    "the-kinks": {
+      "src": "/media/bands/the-kinks.jpg",
+      "alt": {
+        "en": "The Kinks, 1969",
+        "zh": "The Kinks（Wikimedia Commons）"
+      },
+      "credit": "Press photograph",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kinks_1969.JPG"
+    },
+    "the-libertines": {
+      "src": "/media/bands/the-libertines.jpg",
+      "alt": {
+        "en": "The Libertines at HMV Forum",
+        "zh": "The Libertines（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Libertines_at_HMV_Forum_(11).jpg"
+    },
+    "the-stone-roses": {
+      "src": "/media/bands/the-stone-roses.jpg",
+      "alt": {
+        "en": "The Stone Roses in Dublin",
+        "zh": "The Stone Roses（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Stone_Roses_In_Dublin.jpg"
+    },
+    "the-velvet-underground": {
+      "src": "/media/bands/the-velvet-underground.jpg",
+      "alt": {
+        "en": "The Velvet Underground & Nico publicity photo",
+        "zh": "The Velvet Underground（Wikimedia Commons）"
+      },
+      "credit": "Publicity photograph",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Velvet_Underground_&_Nico_publicity_photo.jpg"
+    },
+    "the-verve": {
+      "src": "/media/bands/the-verve.jpg",
+      "alt": {
+        "en": "The Verve",
+        "zh": "The Verve（Wikimedia Commons）"
+      },
+      "credit": "Eduardo",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Verve_1.jpg"
+    },
+    "the-white-stripes": {
+      "src": "/media/bands/the-white-stripes.jpg",
+      "alt": {
+        "en": "Meg and Jack White of The White Stripes",
+        "zh": "The White Stripes（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meg_&_Jack,_The_White_Stripes.jpg"
     }
   },
   "people": {

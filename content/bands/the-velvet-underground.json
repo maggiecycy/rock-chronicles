@@ -10,26 +10,219 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "NYC band with Warhol association; The Velvet Underground & Nico (1967) delayed-influence blueprint for punk, noise, and indie’s drone/dissonance.",
+    "en": "NYC band with Warhol association; The Velvet Underground & Nico (1967) is the delayed-influence blueprint for punk, noise, and indie drone/dissonance.",
     "zh": "与 Warhol 关联的纽约乐队；The Velvet Underground & Nico（1967）是朋克、噪声与 indie 持续音/不协和的延迟影响蓝图。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Lou Reed",
+      "role": "Vocals, Guitar",
+      "years": "1964–1973; 1990; 1992–1993"
+    },
+    {
+      "name": "John Cale",
+      "role": "Bass, Viola, Vocals",
+      "years": "1964–1968"
+    },
+    {
+      "name": "Sterling Morrison",
+      "role": "Guitar, Bass",
+      "years": "1964–1971"
+    },
+    {
+      "name": "Maureen Tucker",
+      "role": "Drums",
+      "years": "1965–1972; 1992–1993"
+    },
+    {
+      "name": "Nico",
+      "role": "Vocals",
+      "years": "1966–1967"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Heroin",
       "year": 1967
+    },
+    {
+      "title": "Venus in Furs",
+      "year": 1967
+    },
+    {
+      "title": "White Light/White Heat",
+      "year": 1968
+    },
+    {
+      "title": "Sweet Jane",
+      "year": 1970
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "the-doors",
+    "david-bowie",
+    "talking-heads"
+  ],
+  "influenceFrom": [
+    "the-beatles",
+    "the-doors"
+  ],
+  "influenced": [
+    "pixies",
+    "sonic-youth",
+    "the-smiths",
+    "joy-division"
+  ],
   "shortBio": {
-    "en": "Reed / Cale avant-rock; Heroin is the early drone-narrative piece.",
-    "zh": "Reed / Cale 的前卫摇滚；Heroin 是早期持续音叙事曲。"
+    "en": "Reed / Cale avant-rock; Heroin is the 1967 drone-narrative document.",
+    "zh": "Reed / Cale 前卫摇滚；Heroin 是 1967 持续音叙事文献。"
   },
   "body": {
-    "en": "Formed 1964. Debut with Nico, White Light/White Heat, and later Reed-led albums used viola drone, feedback, deadpan lyric, and minimal chord vamps outside AM-psych fashion.\n\nHeroin (1967) is the listed track. Commercial failure at release; citation density in punk/post-punk/indie histories is the measure of impact.",
-    "zh": "1964 年组建。与 Nico 的首专、White Light/White Heat 及后期 Reed 主导专辑：中提琴持续音、反馈、冷脸歌词、极少和弦反复，落在 AM 迷幻时尚之外。\n\nHeroin（1967）是列出曲目。发行时商业失败；朋克/后朋克/indie 史中的引用密度才是影响尺度。"
-  }
+    "en": "Formed 1964 in NYC. Debut with Nico, White Light/White Heat, and later Reed-led albums used viola drone, feedback, deadpan lyric, and minimal chord vamps outside AM-psych fashion.\n\nHeroin (1967) is the listed track. Commercial failure at release; citation density in punk/post-punk/indie histories is the measure of impact.",
+    "zh": "1964 年于 NYC 组建。与 Nico 的首专、White Light/White Heat 及后期 Reed 主导专辑：中提琴持续音、反馈、冷脸歌词、极少和弦反复，落在 AM 迷幻时尚之外。\n\nHeroin（1967）是列出曲目。发行时商业失败；朋克/后朋克/indie 史中的引用密度才是影响尺度。"
+  },
+  "scenes": [
+    {
+      "year": 1967,
+      "track": "Heroin",
+      "membersOnStage": [
+        "Lou Reed",
+        "John Cale",
+        "Sterling Morrison",
+        "Maureen Tucker"
+      ],
+      "genreTags": [
+        "alternative",
+        "post-punk"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Two-chord vamp plus viola drone; deadpan lyric outside AM psych.",
+        "zh": "两和弦 vamp 加中提琴持续音；冷脸歌词落在 AM 迷幻之外。"
+      }
+    },
+    {
+      "year": 1967,
+      "track": "Venus in Furs",
+      "membersOnStage": [
+        "Lou Reed",
+        "John Cale",
+        "Sterling Morrison",
+        "Maureen Tucker",
+        "Nico"
+      ],
+      "genreTags": [
+        "alternative",
+        "post-punk"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Cale viola scrape and Reed monotone; debut-era Factory sound.",
+        "zh": "Cale 中提琴刮擦与 Reed 单调念白；首专 Factory 声。"
+      }
+    },
+    {
+      "year": 1968,
+      "track": "Sister Ray",
+      "membersOnStage": [
+        "Lou Reed",
+        "John Cale",
+        "Sterling Morrison",
+        "Maureen Tucker"
+      ],
+      "genreTags": [
+        "alternative",
+        "psychedelic"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "17-minute feedback jam; White Light/White Heat noise peak.",
+        "zh": "17 分钟反馈 jam；White Light/White Heat 噪声高峰。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Drone and dissonance before punk",
+        "zh": "朋克之前的持续音与不协和"
+      },
+      "body": {
+        "en": "The 1967 debut with Nico documents two-chord vamps, Cale's viola drone, and Reed's flat vocal—Heroin and Venus in Furs sit outside Summer of Love polish.\n\nWhite Light/White Heat (1968) pushes feedback and Sister Ray's long-form noise. Warhol Factory association is media context; the tapes are the musical fact.",
+        "zh": "1967 年与 Nico 的首专记录两和弦 vamp、Cale 中提琴持续音、Reed 平声念白——Heroin 与 Venus in Furs 落在 Love 之夏抛光之外。\n\nWhite Light/White Heat（1968）推反馈与 Sister Ray 长形式噪声。Warhol Factory 关联是媒介语境；磁带才是音乐事实。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "lineup",
+      "title": {
+        "en": "Reed/Cale peak vs post-Cale Reed",
+        "zh": "Reed/Cale 峰值 vs Cale 离队后 Reed"
+      },
+      "body": {
+        "en": "Peak citation: Reed, Cale, Morrison, Tucker on the 1967–68 run. Cale exits 1968; Loaded (1970) adds Sweet Jane and cleaner rock mix.\n\nNico guested vocals on the debut only; Tucker’s floor-tom style and minimal kit are part of the early silhouette.",
+        "zh": "引用峰值：Reed、Cale、Morrison、Tucker 的 1967–68 周期。Cale 1968 离队；Loaded（1970）加入 Sweet Jane 与更干净 rock 混音。\n\nNico 仅在首专客座人声；Tucker 地鼓式打法与极简鼓组是早期剪影的一部分。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Delayed citation in punk and indie",
+        "zh": "朋克与 indie 里的延迟引用"
+      },
+      "body": {
+        "en": "Pixies and Sonic Youth cite the noise-to-melody ratio; Joy Division and The Smiths cite the deadpan and minor-key minimalism. Talking Heads share the NYC art-school orbit.\n\nInfluence is bibliographic—1970s sales were low; 1980s–90s reissues fixed the canon.",
+        "zh": "Pixies 与 Sonic Youth 引用噪声/旋律比；Joy Division 与 The Smiths 引用冷脸与小调极简。Talking Heads 共享 NYC 艺术院校轨道。\n\n影响是文献性的——1970 年代销量低；1980–90 年代再版固定了 canon。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "post-punk"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Heroin",
+        "zh": "Heroin"
+      },
+      "body": {
+        "en": "Two-chord vamp plus viola drone; deadpan lyric outside AM psych.",
+        "zh": "两和弦 vamp 加中提琴持续音；冷脸歌词落在 AM 迷幻之外。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Venus in Furs",
+        "zh": "Venus in Furs"
+      },
+      "body": {
+        "en": "Cale viola scrape and Reed monotone; debut-era Factory sound.",
+        "zh": "Cale 中提琴刮擦与 Reed 单调念白；首专 Factory 声。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Sister Ray",
+        "zh": "Sister Ray"
+      },
+      "body": {
+        "en": "17-minute feedback jam; White Light/White Heat noise peak.",
+        "zh": "17 分钟反馈 jam；White Light/White Heat 噪声高峰。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "alternative"
+    }
+  ]
 }

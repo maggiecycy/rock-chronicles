@@ -5,31 +5,222 @@
   "origin": "California, USA",
   "primaryEra": "1960s-british-invasion",
   "genres": [
-    "psychedelic",
-    "rock-n-roll"
+    "rock-n-roll",
+    "psychedelic"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "California group that turned studio harmony and modular arrangement into rock’s production frontier; Pet Sounds (1966) and Good Vibrations are the hinge.",
-    "zh": "加州组合：把录音室和声与模块化编曲推成摇滚制作前沿；Pet Sounds（1966）与 Good Vibrations 是铰链。"
+    "en": "California group that turned studio harmony and modular arrangement into rock's production frontier; Pet Sounds (1966) and Good Vibrations are the documented hinge.",
+    "zh": "加州组合：把录音室和声与模块化编曲推成摇滚制作前沿；Pet Sounds（1966）与 Good Vibrations 是有文献可查的铰链。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Brian Wilson",
+      "role": "Bass, Keys, Vocals, Production",
+      "years": "1961–1972; sporadic later"
+    },
+    {
+      "name": "Carl Wilson",
+      "role": "Guitar, Vocals",
+      "years": "1961–1997"
+    },
+    {
+      "name": "Dennis Wilson",
+      "role": "Drums, Vocals",
+      "years": "1961–1983"
+    },
+    {
+      "name": "Mike Love",
+      "role": "Vocals",
+      "years": "1961–present"
+    },
+    {
+      "name": "Al Jardine",
+      "role": "Guitar, Vocals",
+      "years": "1961–1962; 1963–present"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Good Vibrations",
       "year": 1966
+    },
+    {
+      "title": "Wouldn't It Be Nice",
+      "year": 1966
+    },
+    {
+      "title": "God Only Knows",
+      "year": 1966
+    },
+    {
+      "title": "Surfin' U.S.A.",
+      "year": 1963
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "the-beatles",
+    "the-who"
+  ],
+  "influenceFrom": [
+    "chuck-berry",
+    "the-beatles"
+  ],
+  "influenced": [
+    "the-beatles",
+    "pink-floyd"
+  ],
   "shortBio": {
-    "en": "Brian Wilson–era studio pop; Good Vibrations is the modular single.",
-    "zh": "Brian Wilson 时期录音室流行；Good Vibrations 是模块化单曲。"
+    "en": "Brian Wilson studio pop; Pet Sounds and Good Vibrations are the modular peak.",
+    "zh": "Brian Wilson 录音室流行；Pet Sounds 与 Good Vibrations 是模块化高峰。"
   },
   "body": {
-    "en": "Formed 1961. Early surf hits precede the studio peak: Pet Sounds and the Smile sessions treated the studio as instrument—theremin, bicycle bells, stacked vocals, sectional recording.\n\nGood Vibrations (1966) is the essential track here. Influence on Beatles’ late-60s studio work and later indie psych is documentary, not metaphor.",
-    "zh": "1961 年组建。早期冲浪热单之后是录音室高峰：Pet Sounds 与 Smile 录音把录音室当乐器——theremin、自行车铃、堆叠人声、分段录音。\n\nGood Vibrations（1966）是此处必听。对 Beatles 60 年代末录音室工作与后来 indie 迷幻的影响有文献可查，而非比喻。"
-  }
+    "en": "Formed 1961 in California. Early surf hits precede the studio peak: Pet Sounds and the Smile sessions treated the studio as instrument—theremin, bicycle bells, stacked vocals, sectional recording.\n\nGood Vibrations (1966) is the essential track. Documented influence on Beatles' late-60s studio work and later indie psych is the measure, not sales metaphor.",
+    "zh": "1961 年于加州组建。早期冲浪热单之后是录音室高峰：Pet Sounds 与 Smile 录音把录音室当乐器——theremin、自行车铃、堆叠人声、分段录音。\n\nGood Vibrations（1966）是必听曲。对 Beatles 60 年代末录音室工作与后来 indie 迷幻的可查影响，才是尺度，而非销量比喻。"
+  },
+  "scenes": [
+    {
+      "year": 1963,
+      "track": "Surfin' U.S.A.",
+      "membersOnStage": [
+        "Brian Wilson",
+        "Carl Wilson",
+        "Dennis Wilson",
+        "Mike Love",
+        "Al Jardine"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Early surf-rock; Chuck Berry riff rewrite on stack vocals.",
+        "zh": "早期 surf-rock；Chuck Berry riff 改写加堆叠人声。"
+      }
+    },
+    {
+      "year": 1966,
+      "track": "God Only Knows",
+      "membersOnStage": [
+        "Brian Wilson",
+        "Carl Wilson",
+        "Dennis Wilson",
+        "Mike Love",
+        "Al Jardine"
+      ],
+      "genreTags": [
+        "psychedelic",
+        "rock-n-roll"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "Pet Sounds; layered vocals and French horn in modular studio take.",
+        "zh": "Pet Sounds；多层人声与法国号，模块化录音室 take。"
+      }
+    },
+    {
+      "year": 1966,
+      "track": "Good Vibrations",
+      "membersOnStage": [
+        "Brian Wilson",
+        "Carl Wilson",
+        "Dennis Wilson",
+        "Mike Love",
+        "Al Jardine"
+      ],
+      "genreTags": [
+        "psychedelic",
+        "rock-n-roll"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Modular single; theremin hook and sectional edits as production method.",
+        "zh": "模块化单曲；theremin hook 与分段剪辑作为制作方法。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Studio as instrument on Pet Sounds",
+        "zh": "Pet Sounds：录音室即乐器"
+      },
+      "body": {
+        "en": "Pet Sounds (1966) moves from surf singles to modular arrangement: Wouldn't It Be Nice, God Only Knows, stacked Wilson vocals, session players beside the band.\n\nGood Vibrations assembles sections recorded across studios—theremin lead, cello, vocal overlays. Brian Wilson's production is the cited object.",
+        "zh": "Pet Sounds（1966）从 surf 单曲转向模块化编曲：Wouldn't It Be Nice、God Only Knows、Wilson 堆叠人声、乐队外的 session 乐手。\n\nGood Vibrations 跨录音室组装段落——theremin 主奏、大提琴、人声叠层。Brian Wilson 的制作是被引对象。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "psychedelic"
+    },
+    {
+      "id": "lineup",
+      "title": {
+        "en": "Wilson brothers plus Love/Jardine",
+        "zh": "Wilson 兄弟加 Love/Jardine"
+      },
+      "body": {
+        "en": "Brian, Carl, and Dennis Wilson are the core; Mike Love and Al Jardine share lead vocals on tour and record. Brian retreats from live stage after 1964; studio peak is 1965–67.\n\nSmile sessions fracture the timeline; Pet Sounds and Good Vibrations remain the citation peak before Brian's withdrawal.",
+        "zh": "Brian、Carl、Dennis Wilson 是核心；Mike Love 与 Al Jardine 分担巡演与录音主唱。Brian 1964 后退出现场；录音室峰值在 1965–67。\n\nSmile 录音撕裂时间线；Pet Sounds 与 Good Vibrations 仍是 Brian 退出前的引用峰值。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Harmony production in late-60s rock",
+        "zh": "60 年代末摇滚里的和声制作"
+      },
+      "body": {
+        "en": "The Beatles' Revolver and Sgt. Pepper sessions document cross-influence with Pet Sounds. Pink Floyd's studio psych inherits the sectional method.\n\nChuck Berry riffs sit in early surf singles; the durable export is stacked vocal arrangement and modular editing—not beach imagery alone.",
+        "zh": "Beatles 的 Revolver 与 Sgt. Pepper 录音室文献记录与 Pet Sounds 的交叉影响。Pink Floyd 录音室 psych 继承分段方法。\n\nChuck Berry riff 在早期 surf 单曲里； durable 输出是堆叠和声编排与模块化剪辑——不只海滩意象。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "psychedelic"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Surfin' U.S.A.",
+        "zh": "Surfin' U.S.A."
+      },
+      "body": {
+        "en": "Early surf-rock; Chuck Berry riff rewrite on stack vocals.",
+        "zh": "早期 surf-rock；Chuck Berry riff 改写加堆叠人声。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "God Only Knows",
+        "zh": "God Only Knows"
+      },
+      "body": {
+        "en": "Pet Sounds; layered vocals and French horn in modular studio take.",
+        "zh": "Pet Sounds；多层人声与法国号，模块化录音室 take。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "psychedelic"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Good Vibrations",
+        "zh": "Good Vibrations"
+      },
+      "body": {
+        "en": "Modular single; theremin hook and sectional edits as production method.",
+        "zh": "模块化单曲；theremin hook 与分段剪辑作为制作方法。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "psychedelic"
+    }
+  ]
 }

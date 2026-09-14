@@ -13,23 +13,209 @@
     "en": "Seattle four-piece that put twin-harmony vocals over down-tuned hard-rock riffs; Facelift (1990) and Dirt (1992) sit on the metal side of grunge radio.",
     "zh": "西雅图四人组：双人声和谐叠在降调 hard-rock riff 上；Facelift（1990）与 Dirt（1992）站在 grunge 电台里更偏 metal 的一侧。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Layne Staley",
+      "role": "Vocals",
+      "years": "1987–2002"
+    },
+    {
+      "name": "Jerry Cantrell",
+      "role": "Guitar, Vocals",
+      "years": "1987–present"
+    },
+    {
+      "name": "Mike Starr",
+      "role": "Bass",
+      "years": "1987–1993"
+    },
+    {
+      "name": "Sean Kinney",
+      "role": "Drums",
+      "years": "1987–present"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Man in the Box",
       "year": 1990
+    },
+    {
+      "title": "Would?",
+      "year": 1992
+    },
+    {
+      "title": "Rooster",
+      "year": 1992
+    },
+    {
+      "title": "Them Bones",
+      "year": 1992
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "soundgarden",
+    "pearl-jam",
+    "nirvana"
+  ],
+  "influenceFrom": [
+    "black-sabbath",
+    "led-zeppelin",
+    "van-halen"
+  ],
+  "influenced": [
+    "tool",
+    "deftones"
+  ],
   "shortBio": {
-    "en": "Grunge/metal border band known for Layne Staley–Jerry Cantrell harmony and Dirt-era riffs.",
-    "zh": "Grunge/metal 交界乐队：以 Layne Staley 与 Jerry Cantrell 的和声及 Dirt 时期 riff 著称。"
+    "en": "Staley / Cantrell harmony grunge-metal; Dirt is the down-tuned radio peak.",
+    "zh": "Staley / Cantrell 和声 grunge-metal；Dirt 是降调电台高峰。"
   },
   "body": {
-    "en": "Formed in Seattle in 1987. Early singles and Facelift brought them onto US rock radio; Dirt (1992) fixed the template—sludgy guitar, close vocal thirds, addiction-era lyrics.\n\nMan in the Box (1990) remains the entry point. They sit beside Soundgarden and Pearl Jam on the Seattle map but keep a clearer metal lineage via Cantrell’s riff writing.",
-    "zh": "1987 年于西雅图组建。早期单曲与 Facelift 打进美国摇滚电台；Dirt（1992）定型：淤泥感吉他、贴近的三度人声、成瘾题材歌词。\n\nMan in the Box（1990）仍是入口。地图上与 Soundgarden、Pearl Jam 同属西雅图，但 Cantrell 的 riff 写作更贴近 metal 谱系。"
-  }
+    "en": "Formed 1987 in Seattle. Facelift brought talk-box riffs and close vocal thirds to US rock radio; Dirt (1992) fixed the sludgy template—Cantrell's drop-D riffs, Staley's tenor, addiction-era lyrics.\n\nMan in the Box (1990) remains the entry. They share the Seattle map with Soundgarden and Pearl Jam but keep a clearer metal lineage via Cantrell's riff writing.",
+    "zh": "1987 年于西雅图组建。Facelift 把 talk-box riff 与贴近三度和声送上美国摇滚电台；Dirt（1992）定型 sludge 模板——Cantrell drop-D riff、Staley 男高音、成瘾题材歌词。\n\nMan in the Box（1990）仍是入口。与 Soundgarden、Pearl Jam 同属西雅图地图，但 Cantrell riff 写作更贴近 metal 谱系。"
+  },
+  "scenes": [
+    {
+      "year": 1990,
+      "track": "Man in the Box",
+      "membersOnStage": [
+        "Layne Staley",
+        "Jerry Cantrell",
+        "Mike Starr",
+        "Sean Kinney"
+      ],
+      "genreTags": [
+        "grunge",
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Facelift MTV spike; talk-box riff and Staley/Cantrell harmony.",
+        "zh": "Facelift MTV 尖峰；talk-box riff 与 Staley/Cantrell 和声。"
+      }
+    },
+    {
+      "year": 1992,
+      "track": "Rooster",
+      "membersOnStage": [
+        "Layne Staley",
+        "Jerry Cantrell",
+        "Mike Inez",
+        "Sean Kinney"
+      ],
+      "genreTags": [
+        "grunge",
+        "heavy-metal"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Dirt slow grind; Cantrell-led vocal and Vietnam lyric.",
+        "zh": "Dirt 慢速碾磨；Cantrell 领唱与越战歌词。"
+      }
+    },
+    {
+      "year": 1992,
+      "track": "Them Bones",
+      "membersOnStage": [
+        "Layne Staley",
+        "Jerry Cantrell",
+        "Mike Inez",
+        "Sean Kinney"
+      ],
+      "genreTags": [
+        "grunge",
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Odd-meter riff; metal rhythm on grunge playlist.",
+        "zh": "奇数拍 riff；grunge 播放列表上的 metal 节奏。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Harmony vocals on metal-side grunge",
+        "zh": "Metal 侧 grunge 上的和声人声"
+      },
+      "body": {
+        "en": "Facelift (1990) puts Alice in Chains on MTV beside Nirvana and Pearl Jam. Cantrell and Staley's stacked thirds differ from Cobain's lone melody; talk-box and drop-D riffs mark the metal edge.\n\nDirt (1992) consolidates: Rooster, Them Bones, Would?—slow grind and odd meters on the same album cycle.",
+        "zh": "Facelift（1990）把 Alice in Chains 送上 MTV，与 Nirvana、Pearl Jam 并列。Cantrell 与 Staley 叠三度不同于 Cobain 单线旋律；talk-box 与 drop-D riff 标记 metal 边缘。\n\nDirt（1992） Consolidate：Rooster、Them Bones、Would?——慢 grind 与奇数拍同处一专辑周期。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "lineup",
+      "title": {
+        "en": "Staley era vs DuVall return",
+        "zh": "Staley 时期 vs DuVall 回归"
+      },
+      "body": {
+        "en": "Peak four: Staley, Cantrell, Kinney, Starr on Facelift; Mike Inez replaces Starr for Dirt and Jar of Flies. Staley's last recordings taper mid-1990s; William DuVall joins for 2006 reunion shows.\n\nCatalog citation peak is Staley/Cantrell harmony on Dirt—DuVall chapter extends touring, not the first citation.",
+        "zh": "巅峰四人：Staley、Cantrell、Kinney、Starr 录 Facelift；Mike Inez 替 Starr 录 Dirt 与 Jar of Flies。Staley 最后录音收束于 1990 年代中；William DuVall 2006 重聚演出加入。\n\n目录引用峰值是 Dirt 上 Staley/Cantrell 和声——DuVall 章节延长巡演，非首引层。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "heavy-metal"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Twin-vocal sludge in 1990s metal and alt",
+        "zh": "1990 年代 metal 与 alt 里的双声和 sludge"
+      },
+      "body": {
+        "en": "Black Sabbath and Led Zeppelin sit in Cantrell's riff DNA; Van Halen harmonics echo in Facelift leads. Tool and Deftones inherit the down-tuned weight and dynamic patience.\n\nInfluence is the harmony-over-sludge model—later bands copy the vocal stack more than the Seattle flannel costume.",
+        "zh": "Black Sabbath 与 Led Zeppelin 在 Cantrell riff DNA 里；Van Halen 泛音在 Facelift 主音中有回响。Tool 与 Deftones 继承降调重量与动态耐心。\n\n影响是和声叠 sludge 模型——后期乐队多抄人声堆叠，少抄西雅图法兰绒戏服。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Man in the Box",
+        "zh": "Man in the Box"
+      },
+      "body": {
+        "en": "Facelift MTV spike; talk-box riff and Staley/Cantrell harmony.",
+        "zh": "Facelift MTV 尖峰；talk-box riff 与 Staley/Cantrell 和声。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Rooster",
+        "zh": "Rooster"
+      },
+      "body": {
+        "en": "Dirt slow grind; Cantrell-led vocal and Vietnam lyric.",
+        "zh": "Dirt 慢速碾磨；Cantrell 领唱与越战歌词。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "grunge"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Them Bones",
+        "zh": "Them Bones"
+      },
+      "body": {
+        "en": "Odd-meter riff; metal rhythm on grunge playlist.",
+        "zh": "奇数拍 riff；grunge 播放列表上的 metal 节奏。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "grunge"
+    }
+  ]
 }

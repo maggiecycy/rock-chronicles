@@ -10,26 +10,209 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Las Vegas new-wave revival band; Hot Fuss (2004) put synth hooks and Springsteen-scale choruses on 2000s indie/alt radio.",
-    "zh": "拉斯维加斯新浪潮复兴；Hot Fuss（2004）把合成器钩子与 Springsteen 体量副歌送上 2000 年代 indie/alt 电台。"
+    "en": "Las Vegas four whose Hot Fuss (2004) stacked synth hooks, delayed guitar, and Brandon Flowers’s baritone into post-Strokes new-wave revival—Mr. Brightside became permanent alt-radio infrastructure.",
+    "zh": "拉斯维加斯四人组：Hot Fuss（2004）堆叠合成器钩子、延时吉他与 Brandon Flowers 男中音，构成后 Strokes 新浪潮复兴——Mr. Brightside 成为永久 alt 电台基础设施。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Brandon Flowers",
+      "role": "Vocals, Keyboards",
+      "years": "2001–present"
+    },
+    {
+      "name": "Dave Keuning",
+      "role": "Guitar",
+      "years": "2001–present"
+    },
+    {
+      "name": "Mark Stoermer",
+      "role": "Bass",
+      "years": "2002–2016; 2020–present"
+    },
+    {
+      "name": "Ronnie Vannucci Jr.",
+      "role": "Drums",
+      "years": "2002–present"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Mr. Brightside",
       "year": 2003
+    },
+    {
+      "title": "Somebody Told Me",
+      "year": 2004
+    },
+    {
+      "title": "When You Were Young",
+      "year": 2006
+    },
+    {
+      "title": "Human",
+      "year": 2008
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "the-strokes",
+    "interpol"
+  ],
+  "influenceFrom": [
+    "the-strokes",
+    "joy-division"
+  ],
+  "influenced": [
+    "arctic-monkeys"
+  ],
   "shortBio": {
-    "en": "Brandon Flowers–led stadium indie; Mr. Brightside is the durable single.",
-    "zh": "Brandon Flowers 领衔的体育场 indie；Mr. Brightside 是长寿单曲。"
+    "en": "Brandon Flowers Las Vegas new-wave revival; Mr. Brightside the durable alt single, Hot Fuss the synth-guitar template.",
+    "zh": "Brandon Flowers 拉斯维加斯新浪潮复兴；Mr. Brightside 是长寿 alt 单曲，Hot Fuss 是合成器—吉他模板。"
   },
   "body": {
-    "en": "Formed 2001. Hot Fuss and Sam’s Town established Flowers’s baritone, Dave Keuning’s delayed guitar, synth leads, and anthemic choruses aimed at arenas from the start.\n\nMr. Brightside (2003) is the permanent radio object. They continue the post-Strokes indie boom into explicit stadium design without garage rawness.",
-    "zh": "2001 年组建。Hot Fuss 与 Sam’s Town 确立 Flowers 男中音、Dave Keuning 延时吉他、合成器主音，以及从一开始就瞄准体育场的副歌。\n\nMr. Brightside（2003）是永久电台对象。把后 Strokes 的 indie 热潮推进到明确的体育场设计，不保留车库毛边。"
-  }
+    "en": "Formed 2001 in Las Vegas. Hot Fuss (2004) established Flowers’s baritone, Dave Keuning’s delayed guitar, synth leads, and anthemic choruses aimed at arenas from the start. Alan Moulder/Flood mixes kept brightness on radio.\n\nSam's Town (2006) shifted toward heartland rock scale—When You Were Young. Mr. Brightside (2003) remains the permanent chart object, re-entering UK Top 40 annually.",
+    "zh": "2001 年于拉斯维加斯组建。Hot Fuss（2004）确立 Flowers 男中音、Dave Keuning 延时吉他、合成器主音与从一开始就瞄准体育场的副歌。Alan Moulder/Flood 混音保持电台亮度。\n\nSam's Town（2006）转向 heartland rock 体量——When You Were Young。Mr. Brightside（2003）仍是永久榜单对象，年年重进英国 Top 40。"
+  },
+  "scenes": [
+    {
+      "year": 2003,
+      "track": "Mr. Brightside",
+      "membersOnStage": [
+        "Brandon Flowers",
+        "Dave Keuning",
+        "Mark Stoermer",
+        "Ronnie Vannucci Jr."
+      ],
+      "genreTags": [
+        "new-wave",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Keuning delayed arpeggios, Flowers jealousy lyric; endless UK/US rechart.",
+        "zh": "Keuning 延时琶音、Flowers 嫉妒歌词；英美 endless 再上榜。"
+      }
+    },
+    {
+      "year": 2004,
+      "track": "Somebody Told Me",
+      "membersOnStage": [
+        "Brandon Flowers",
+        "Dave Keuning",
+        "Mark Stoermer",
+        "Ronnie Vannucci Jr."
+      ],
+      "genreTags": [
+        "new-wave",
+        "indie-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Hot Fuss single; staccato synth bass hook, dance-floor tempo.",
+        "zh": "Hot Fuss 单曲；断奏合成器贝斯钩子、舞池 tempo。"
+      }
+    },
+    {
+      "year": 2006,
+      "track": "When You Were Young",
+      "membersOnStage": [
+        "Brandon Flowers",
+        "Dave Keuning",
+        "Mark Stoermer",
+        "Ronnie Vannucci Jr."
+      ],
+      "genreTags": [
+        "alternative",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Sam's Town lead; Springsteen-scale chorus, arena ambition stated.",
+        "zh": "Sam's Town 主打；Springsteen 体量副歌，明确体育场野心。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "New-wave revival into arena design",
+        "zh": "新浪潮复兴到体育场设计"
+      },
+      "body": {
+        "en": "Hot Fuss borrows 1980s synth/new-wave hooks without garage rawness—Somebody Told Me’s staccato bass, Mr. Brightside’s delayed guitar loop. Flowers writes jealousy narratives at dance tempo.\n\nSam's Town states Springsteen-scale chorus ambition explicitly.",
+        "zh": "Hot Fuss 借用 1980 年代合成器/新浪潮钩子，无车库毛边——Somebody Told Me 的断奏贝斯、Mr. Brightside 的延时吉他循环。Flowers 在 dance tempo 写嫉妒叙事。\n\nSam's Town 明确声明 Springsteen 体量副歌野心。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "new-wave"
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Classic four from Hot Fuss onward",
+        "zh": "Hot Fuss 起的经典四人组"
+      },
+      "body": {
+        "en": "Flowers/Keuning founding pair; Stoermer and Vannucci join 2002 for the Hot Fuss sessions. Stoermer hiatus 2016–2020; core trio recorded Wonderful Wonderful.\n\nLive silhouette stays four-piece rock with synth triggers.",
+        "zh": "Flowers/Keuning 创始双人；Stoermer 与 Vannucci 2002 年加入 Hot Fuss 录音。Stoermer 2016–2020  hiatus；核心三人组录 Wonderful Wonderful。\n\n现场剪影仍是带合成器触发的四人摇滚。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Mr. Brightside as alt-radio infrastructure",
+        "zh": "Mr. Brightside 作为 alt 电台基础设施"
+      },
+      "body": {
+        "en": "Post-Strokes indie boom needed a Vegas stadium counterweight—synth plus guitar, not Brooklyn lo-fi. Mr. Brightside’s endless rechart proves hook durability over trend cycles.\n\nInterpol’s dark new-wave and Killers’ bright new-wave share 2000s revival timing.",
+        "zh": "后 Strokes indie 热潮需要拉斯维加斯体育场配重——合成器加吉他，非布鲁克林 lo-fi。Mr. Brightside 无尽再上榜证明钩子耐久超过潮流周期。\n\nInterpol 的暗新浪潮与 Killers 的亮新浪潮共享 2000 年代复兴时机。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Mr. Brightside",
+        "zh": "Mr. Brightside"
+      },
+      "body": {
+        "en": "Keuning delayed arpeggios, Flowers jealousy lyric; endless UK/US rechart.",
+        "zh": "Keuning 延时琶音、Flowers 嫉妒歌词；英美 endless 再上榜。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "new-wave"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Somebody Told Me",
+        "zh": "Somebody Told Me"
+      },
+      "body": {
+        "en": "Hot Fuss single; staccato synth bass hook, dance-floor tempo.",
+        "zh": "Hot Fuss 单曲；断奏合成器贝斯钩子、舞池 tempo。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "new-wave"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "When You Were Young",
+        "zh": "When You Were Young"
+      },
+      "body": {
+        "en": "Sam's Town lead; Springsteen-scale chorus, arena ambition stated.",
+        "zh": "Sam's Town 主打；Springsteen 体量副歌，明确体育场野心。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "alternative"
+    }
+  ]
 }

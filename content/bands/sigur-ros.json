@@ -6,30 +6,211 @@
   "primaryEra": "2010s-indie-modern",
   "genres": [
     "alternative",
-    "indie-rock"
+    "indie-rock",
+    "progressive-rock"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Reykjavík band that put bowed guitar, falsetto, and invented-language vocals into post-rock/ambient crossover; Takk… (2005) widened the audience.",
-    "zh": "雷克雅未克乐队：把弓奏吉他、假声与自造语言人声送进 post-rock/ambient 跨界；Takk…（2005）扩大听众。"
+    "en": "Reykjavík band that put bowed guitar, falsetto, and Hopelandic vocals into post-rock crossover; Takk… (2005) and Hoppípolla widened the audience.",
+    "zh": "雷克雅未克乐队：把弓奏吉他、假声与 Hopelandic 人声送进 post-rock 跨界；Takk…（2005）与 Hoppípolla 扩大听众。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Jónsi",
+      "role": "Vocals, Guitar",
+      "years": "1994–present"
+    },
+    {
+      "name": "Georg Hólmar",
+      "role": "Bass",
+      "years": "1994–present"
+    },
+    {
+      "name": "Orri Páll Dýrason",
+      "role": "Drums",
+      "years": "1999–2019"
+    },
+    {
+      "name": "Kjartan Sveinsson",
+      "role": "Keyboards",
+      "years": "1998–2012"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Hoppípolla",
       "year": 2005
+    },
+    {
+      "title": "Svefn-g-englar",
+      "year": 1999
+    },
+    {
+      "title": "Starálfur",
+      "year": 1999
+    },
+    {
+      "title": "Glósóli",
+      "year": 2005
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
+  "relatedBands": [
+    "radiohead"
+  ],
+  "influenceFrom": [
+    "my-bloody-valentine",
+    "radiohead"
+  ],
   "influenced": [],
   "shortBio": {
-    "en": "Icelandic post-rock/dream pop; Hoppípolla is the accessible single.",
-    "zh": "冰岛 post-rock/dream pop；Hoppípolla 是易入口单曲。"
+    "en": "Icelandic post-rock; Hoppípolla is the accessible Takk… single.",
+    "zh": "冰岛 post-rock；Hoppípolla 是易入口 Takk… 单曲。"
   },
   "body": {
-    "en": "Formed 1994. Ágætis byrjun (1999) and ( ) established Jónsi’s falsetto, reverb-drenched guitars, and orchestral builds; Takk… added clearer melodic singles.\n\nHoppípolla (2005) is the chart/licensing entry. They sit with Mogwai/Godspeed on the post-rock map but keep song-shaped hooks and vocal melody as primary carriers.",
-    "zh": "1994 年组建。Ágætis byrjun（1999）与 ( ) 确立 Jónsi 假声、混响吉他与管弦渐强；Takk… 加入更清晰的旋律单曲。\n\nHoppípolla（2005）是榜单/授权入口。与 Mogwai/Godspeed 同在 post-rock 地图，但以歌曲形钩子与人声旋律为主要载体。"
-  }
+    "en": "Formed 1994 in Reykjavík. Ágætis byrjun (1999) and ( ) established Jónsi’s falsetto, bowed guitar, and orchestral builds; Takk… (2005) added clearer melodic singles.\n\nHoppípolla (2005) is the chart/licensing entry. They sit with Mogwai/Godspeed on the instrumental crescendo map but keep vocal melody and Hopelandic language as primary carriers.",
+    "zh": "1994 年于雷克雅未克组建。Ágætis byrjun（1999）与 ( ) 确立 Jónsi 假声、弓奏吉他与管弦渐强；Takk…（2005）加入更清晰的旋律单曲。\n\nHoppípolla（2005）是榜单/授权入口。与 Mogwai/Godspeed 同在器乐 crescendo 地图，但以人声旋律与 Hopelandic 语言为主要载体。"
+  },
+  "scenes": [
+    {
+      "year": 2005,
+      "track": "Hoppípolla",
+      "membersOnStage": [
+        "Jónsi",
+        "Georg Hólmar",
+        "Orri Páll Dýrason",
+        "Kjartan Sveinsson"
+      ],
+      "genreTags": [
+        "alternative",
+        "progressive-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Brass and piano hook—Takk… single for chart and licensing entry.",
+        "zh": "铜管与钢琴钩子——Takk… 榜单与授权入口单曲。"
+      }
+    },
+    {
+      "year": 1999,
+      "track": "Svefn-g-englar",
+      "membersOnStage": [
+        "Jónsi",
+        "Georg Hólmar",
+        "Orri Páll Dýrason",
+        "Kjartan Sveinsson"
+      ],
+      "genreTags": [
+        "progressive-rock",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Bow-played guitar and 延音 swell—Ágætis byrjun post-rock grammar.",
+        "zh": "弓奏吉他与 延音 swell——Ágætis byrjun post-rock 语法。"
+      }
+    },
+    {
+      "year": 2005,
+      "track": "Glósóli",
+      "membersOnStage": [
+        "Jónsi",
+        "Georg Hólmar",
+        "Orri Páll Dýrason",
+        "Kjartan Sveinsson"
+      ],
+      "genreTags": [
+        "progressive-rock",
+        "indie-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Slow build to full-band crescendo—Takk… live set centerpiece.",
+        "zh": "慢建到全乐队 crescendo——Takk… 现场组曲核心。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Icelandic falsetto post-rock",
+        "zh": "冰岛假声 post-rock"
+      },
+      "body": {
+        "en": "Sigur Rós matter for merging bowed guitar, reverb-drenched 延音, and Jónsi’s falsetto into post-rock that still reads as song.\n\nÁgætis byrjun (1999) and ( ) (2002) use Hopelandic/non-lexical vocals as texture.\n\nTakk… (2005) adds brass and clearer hooks—Hoppípolla becomes licensing staple.\n\nThey widen post-rock beyond wordless crescendo bands.",
+        "zh": "Sigur Rós 要紧处是把弓奏吉他、混响 延音 与 Jónsi 假声合并成仍可读作歌曲的 post-rock。\n\nÁgætis byrjun（1999）与 ( )（2002）用 Hopelandic/非词汇人声作质感。\n\nTakk…（2005）加铜管与更清晰钩子——Hoppípolla 成授权常备。\n\n把 post-rock 扩至非仅无人声 crescendo 乐队。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Classic quartet through Takk…",
+        "zh": "Takk… 前经典四人组"
+      },
+      "body": {
+        "en": "1994–2012 core live unit: Jónsi, Georg Hólmar, Orri, Kjartan—bow guitar, bass, drums, keys/ brass arrangements.\n\nKjartan’s departure 2012 reduces on-stage keyboard/brass; later tours use expanded ensembles.\n\nJónsi’s bow technique and falsetto remain the constant sonic ID across roster tweaks.\n\nIcelandic studio conditions and long reverb tails are part of the production document.",
+        "zh": "1994–2012 核心现场单元：Jónsi、Georg Hólmar、Orri、Kjartan——弓吉他、贝斯、鼓、键盘/铜管编配。\n\nKjartan 2012 年离队减少台上键盘/铜管；后期巡演用扩展编制。\n\nJónsi 弓技法与假声经阵容微调保持恒定声音 ID。\n\n冰岛录音条件与长混响尾是制作文献的一部分。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Vocal post-rock for film and charts",
+        "zh": "影视与榜单的人声 post-rock"
+      },
+      "body": {
+        "en": "Sigur Rós proved post-rock could carry melody and language—not only Mogwai-style instrumentals.\n\nMy Bloody Valentine’s textural guitar and Radiohead’s ambient turns are audible ancestors.\n\nHoppípolla and Svefn-g-englar remain sync-licensing references.\n\nLater records split critical reception but Takk…/Ágætis era is the citation core.",
+        "zh": "Sigur Rós 证明 post-rock 可承载旋律与语言——非仅 Mogwai 式器乐。\n\nMy Bloody Valentine 质感吉他与 Radiohead ambient 转向是可闻祖先。\n\nHoppípolla 与 Svefn-g-englar 仍是同步授权引用。\n\n后期唱片评论分裂，Takk…/Ágætis 时期是引用核心。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Hoppípolla",
+        "zh": "Hoppípolla"
+      },
+      "body": {
+        "en": "Brass and piano hook—Takk… single for chart and licensing entry.",
+        "zh": "铜管与钢琴钩子——Takk… 榜单与授权入口单曲。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Svefn-g-englar",
+        "zh": "Svefn-g-englar"
+      },
+      "body": {
+        "en": "Bow-played guitar and 延音 swell—Ágætis byrjun post-rock grammar.",
+        "zh": "弓奏吉他与 延音 swell——Ágætis byrjun post-rock 语法。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Glósóli",
+        "zh": "Glósóli"
+      },
+      "body": {
+        "en": "Slow build to full-band crescendo—Takk… live set centerpiece.",
+        "zh": "慢建到全乐队 crescendo——Takk… 现场组曲核心。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "progressive-rock"
+    }
+  ]
 }

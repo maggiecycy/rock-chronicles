@@ -10,26 +10,211 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "LA four-piece that fused rap vocals with hard-rock/funk riffs; Rage Against the Machine (1992) made political slogan rock a mainstream format.",
-    "zh": "洛杉矶四人组：rap 人声焊 hard-rock/funk riff；同名专辑（1992）让政治口号摇滚成为主流格式。"
+    "en": "LA four-piece that fused rap cadence with hard-rock/funk riffs; Rage Against the Machine (1992) made political slogan rock a mainstream radio format.",
+    "zh": "洛杉矶四人组：rap 腔调焊 hard-rock/funk riff；同名专辑（1992）让政治口号摇滚成为主流电台格式。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Zack de la Rocha",
+      "role": "Vocals",
+      "years": "1991–2000; 2007–2011; 2019–present"
+    },
+    {
+      "name": "Tom Morello",
+      "role": "Guitar",
+      "years": "1991–present"
+    },
+    {
+      "name": "Tim Commerford",
+      "role": "Bass",
+      "years": "1991–present"
+    },
+    {
+      "name": "Brad Wilk",
+      "role": "Drums",
+      "years": "1991–present"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Killing in the Name",
       "year": 1992
+    },
+    {
+      "title": "Bullet in the Head",
+      "year": 1992
+    },
+    {
+      "title": "Bulls on Parade",
+      "year": 1996
+    },
+    {
+      "title": "Guerrilla Radio",
+      "year": 1999
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
-  "influenced": [],
+  "relatedBands": [
+    "tool",
+    "linkin-park",
+    "system-of-a-down"
+  ],
+  "influenceFrom": [
+    "black-sabbath",
+    "led-zeppelin",
+    "the-clash"
+  ],
+  "influenced": [
+    "linkin-park"
+  ],
   "shortBio": {
-    "en": "Zack de la Rocha / Tom Morello rap-metal; Killing in the Name is the entry riot.",
-    "zh": "Zack de la Rocha / Tom Morello 的 rap-metal；Killing in the Name 是入口暴动曲。"
+    "en": "de la Rocha / Morello rap-rock four-piece; Killing in the Name is the 1992 entry riot.",
+    "zh": "de la Rocha / Morello 的 rap-rock 四人组；Killing in the Name 是 1992 入口暴动曲。"
   },
   "body": {
-    "en": "Formed 1991. Debut album and Evil Empire paired de la Rocha’s cadence with Morello’s effects-as-solos, Tim Commerford’s funk bass, Brad Wilk’s dry drums—no samples required for the “DJ” textures.\n\nKilling in the Name (1992) is the citation track. They sit at the 1990s intersection of metal radio and protest lyric without nu-metal’s later pop polish.",
-    "zh": "1991 年组建。首专与 Evil Empire 把 de la Rocha 的节奏腔与 Morello 的效果器当独奏、Tim Commerford 的 funk 贝斯、Brad Wilk 的干鼓组配在一起——「DJ」质感无需采样。\n\nKilling in the Name（1992）是引用曲。位于 1990 年代金属电台与抗议歌词交汇处，尚未有后期 nu-metal 的流行抛光。"
-  }
+    "en": "Formed 1991 in LA. Debut album and Evil Empire pair de la Rocha's cadence with Morello's effects-as-solos, Commerford's funk bass, Wilk's dry drums—DJ textures without a sampler.\n\nKilling in the Name (1992) is the citation track. They sit at the 1990s intersection of metal radio and protest lyric, before nu-metal's later pop polish.",
+    "zh": "1991 年于 LA 组建。首专与 Evil Empire 把 de la Rocha 的节奏腔与 Morello 效果器当独奏、Commerford funk 贝斯、Wilk 干鼓组配在一起——「DJ」质感无需采样器。\n\nKilling in the Name（1992）是引用曲。位于 1990 年代金属电台与抗议歌词交汇处，早于 nu-metal 后期流行抛光。"
+  },
+  "scenes": [
+    {
+      "year": 1992,
+      "track": "Killing in the Name",
+      "membersOnStage": [
+        "Zack de la Rocha",
+        "Tom Morello",
+        "Tim Commerford",
+        "Brad Wilk"
+      ],
+      "genreTags": [
+        "alternative",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Dry funk riff and shouted refrain; no samples, full-band riot.",
+        "zh": "干 funk riff 与喊叫副歌；无采样，全乐队暴动。"
+      }
+    },
+    {
+      "year": 1996,
+      "track": "Bulls on Parade",
+      "membersOnStage": [
+        "Zack de la Rocha",
+        "Tom Morello",
+        "Tim Commerford",
+        "Brad Wilk"
+      ],
+      "genreTags": [
+        "alternative",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Morello wah-as-solo; Commerford's octave bass on Evil Empire cycle.",
+        "zh": "Morello 用 wah 当独奏；Evil Empire 周期里 Commerford 八度贝斯。"
+      }
+    },
+    {
+      "year": 1999,
+      "track": "Guerrilla Radio",
+      "membersOnStage": [
+        "Zack de la Rocha",
+        "Tom Morello",
+        "Tim Commerford",
+        "Brad Wilk"
+      ],
+      "genreTags": [
+        "alternative",
+        "punk"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "The Battle of Los Angeles; tight verse-chorus without nu-metal gloss.",
+        "zh": "The Battle of Los Angeles；紧凑主副歌，无 nu-metal 抛光。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Rap cadence over hard-rock riffs",
+        "zh": "Hard-rock riff 上的 rap 腔调"
+      },
+      "body": {
+        "en": "The 1992 debut locks a four-piece template: de la Rocha shouts in meter, Morello treats the whammy and kill switch as lead voice, Commerford's funk bass fills the low end.\n\nKilling in the Name and Bulls on Parade prove protest lyric can ride MTV without hip-hop backing tracks.",
+        "zh": "1992 首专锁定四人模板：de la Rocha 按拍喊唱，Morello 把 whammy 与 kill switch 当主声部，Commerford funk 贝斯填满低频。\n\nKilling in the Name 与 Bulls on Parade 证明抗议歌词可上 MTV，无需 hip-hop 伴奏。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "lineup",
+      "title": {
+        "en": "Stable four since 1991",
+        "zh": "1991 起稳定的四人组"
+      },
+      "body": {
+        "en": "de la Rocha, Morello, Commerford, and Wilk are the only lineup the catalog cites. Vocal absences (2000–2007) split the timeline; Audioslave is Morello/Commerford/Wilk with Chris Cornell—a parallel chapter.\n\nPeak citation remains the original four on the 1992–99 album run.",
+        "zh": "de la Rocha、Morello、Commerford、Wilk 是目录唯一引用的阵容。人声缺席（2000–2007）切开时间线；Audioslave 是 Morello/Commerford/Wilk 加 Chris Cornell——平行章节。\n\n引用峰值仍是 1992–99 专辑周期的原四人组。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Rap-rock template before nu-metal polish",
+        "zh": "nu-metal 抛光前的 rap-rock 模板"
+      },
+      "body": {
+        "en": "Linkin Park inherits the verse-rap/chorus-sing split but adds DJ beds and pop hooks. Tool shares the political-metal audience on 1990s festival bills.\n\nMorello's guitar-as-DJ method is the durable export—bands copy the effect-chain solos more than the slogans.",
+        "zh": "Linkin Park 继承 rap 主歌/唱副歌分工，但加入 DJ 铺底与 pop hook。Tool 在 1990 年代音乐节与 RATM 共享政治 metal 听众。\n\nMorello 吉他当 DJ 的方法是 durable 输出——乐队多抄效果链独奏，少抄口号本身。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Killing in the Name",
+        "zh": "Killing in the Name"
+      },
+      "body": {
+        "en": "Dry funk riff and shouted refrain; no samples, full-band riot.",
+        "zh": "干 funk riff 与喊叫副歌；无采样，全乐队暴动。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Bulls on Parade",
+        "zh": "Bulls on Parade"
+      },
+      "body": {
+        "en": "Morello wah-as-solo; Commerford's octave bass on Evil Empire cycle.",
+        "zh": "Morello 用 wah 当独奏；Evil Empire 周期里 Commerford 八度贝斯。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Guerrilla Radio",
+        "zh": "Guerrilla Radio"
+      },
+      "body": {
+        "en": "The Battle of Los Angeles; tight verse-chorus without nu-metal gloss.",
+        "zh": "The Battle of Los Angeles；紧凑主副歌，无 nu-metal 抛光。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "alternative"
+    }
+  ]
 }

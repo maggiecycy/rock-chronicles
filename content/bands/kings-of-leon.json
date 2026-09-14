@@ -10,26 +10,206 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Nashville Followill family band that moved from garage Southern rock to arena alt-radio with Only by the Night (2008).",
-    "zh": "纳什维尔 Followill 家族乐队：从车库南方摇滚转到 Only by the Night（2008）的体育场 alternative 电台。"
+    "en": "Nashville Followill family band that moved from raw Southern garage rock to arena alt-radio with Only by the Night (2008); Sex on Fire is the crossover spike.",
+    "zh": "纳什维尔 Followill 家族乐队：从毛糙南方 garage 摇滚转到 Only by the Night（2008）的体育场 alternative 电台；Sex on Fire 是跨界峰值。"
   },
-  "members": [],
+  "members": [
+    {
+      "name": "Caleb Followill",
+      "role": "Vocals, Rhythm Guitar",
+      "years": "1999–present"
+    },
+    {
+      "name": "Jared Followill",
+      "role": "Bass",
+      "years": "1999–present"
+    },
+    {
+      "name": "Nathan Followill",
+      "role": "Drums",
+      "years": "1999–present"
+    },
+    {
+      "name": "Matthew Followill",
+      "role": "Lead Guitar",
+      "years": "2000–present"
+    }
+  ],
   "essentialTracks": [
     {
       "title": "Sex on Fire",
       "year": 2008
+    },
+    {
+      "title": "Use Somebody",
+      "year": 2008
+    },
+    {
+      "title": "Molly's Chambers",
+      "year": 2003
+    },
+    {
+      "title": "Closer",
+      "year": 2008
     }
   ],
   "lyricQuotes": [],
-  "relatedBands": [],
-  "influenceFrom": [],
+  "relatedBands": [
+    "the-strokes",
+    "arctic-monkeys"
+  ],
+  "influenceFrom": [
+    "pixies"
+  ],
   "influenced": [],
   "shortBio": {
-    "en": "US indie/alt rock; Sex on Fire and Use Somebody are the late-2000s crossover singles.",
-    "zh": "美国 indie/alt rock；Sex on Fire 与 Use Somebody 是 2000 年代末跨界单曲。"
+    "en": "Followill family alt-rock; Sex on Fire and Use Somebody are the 2008 crossover pair.",
+    "zh": "Followill 家族 alt-rock；Sex on Fire 与 Use Somebody 是 2008 跨界双曲。"
   },
   "body": {
-    "en": "Formed 1999. Early albums (Youth & Young Manhood, Aha Shake Heartbreak) pushed rawer riffs and Caleb Followill’s strained vocal; Because of the Times expanded dynamics.\n\nSex on Fire (2008) is the chart object. They matter here as a US path into the same stadium-indie space Coldplay/Killers occupied in the UK/US charts—Southern rock DNA under delay-guitar polish.",
-    "zh": "1999 年组建。早期专辑（Youth & Young Manhood、Aha Shake Heartbreak）更毛糙的 riff 与 Caleb Followill 绷紧人声；Because of the Times 扩展动态。\n\nSex on Fire（2008）是榜单对象。此处意义是美国路径进入 Coldplay/Killers 占据的体育场 indie 空间——延时吉他抛光下仍有南方摇滚 DNA。"
-  }
+    "en": "Formed 1999 in Nashville—three brothers plus cousin Matthew on lead guitar. Early albums (Youth & Young Manhood, Aha Shake Heartbreak) pushed rawer riffs and Caleb’s strained vocal; Because of the Times (2007) expanded delay and dynamics.\n\nSex on Fire (2008) and Use Somebody (2008) are the chart objects. They matter as a US path into stadium indie—Southern rock DNA under polished alt-radio production.",
+    "zh": "1999 年于纳什维尔组建——三兄弟加堂兄 Matthew 任 lead 吉他。早期专辑（Youth & Young Manhood、Aha Shake Heartbreak）推更毛糙 riff 与 Caleb 绷紧人声；Because of the Times（2007）扩展延时与动态。\n\nSex on Fire（2008）与 Use Somebody（2008）是榜单对象。意义是美国路径进入体育场 indie——抛光 alt 电台制作下仍有南方摇滚 DNA。"
+  },
+  "scenes": [
+    {
+      "year": 2008,
+      "track": "Sex on Fire",
+      "membersOnStage": [
+        "Caleb Followill",
+        "Jared Followill",
+        "Nathan Followill",
+        "Matthew Followill"
+      ],
+      "genreTags": [
+        "alternative",
+        "indie-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Delay-washed lead riff and strained Caleb vocal—Only by the Night arena template.",
+        "zh": "延时 lead riff 与 Caleb 绷紧人声——Only by the Night 体育场模板。"
+      }
+    },
+    {
+      "year": 2008,
+      "track": "Use Somebody",
+      "membersOnStage": [
+        "Caleb Followill",
+        "Jared Followill",
+        "Nathan Followill",
+        "Matthew Followill"
+      ],
+      "genreTags": [
+        "alternative",
+        "indie-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Piano-led ballad with U2-scale reverb—global rock radio second wave.",
+        "zh": "钢琴主导谣曲配 U2 级混响——全球摇滚电台第二波。"
+      }
+    },
+    {
+      "year": 2003,
+      "track": "Molly's Chambers",
+      "membersOnStage": [
+        "Caleb Followill",
+        "Jared Followill",
+        "Nathan Followill",
+        "Matthew Followill"
+      ],
+      "genreTags": [
+        "indie-rock",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Early Youth & Young Manhood cut—garage Riff and raw vocal before arena polish.",
+        "zh": "早期 Youth & Young Manhood 曲——体育场抛光前的 garage Riff 与毛人声。"
+      }
+    }
+  ],
+  "narrative": [
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Southern garage to arena alt-rock",
+        "zh": "南方 garage 到体育场 alt-rock"
+      },
+      "body": {
+        "en": "Kings of Leon matter as a family-band arc from rough indie garage to global rock radio—same four Followills, different production budget.\n\nYouth & Young Manhood (2003) and Aha Shake Heartbreak (2004) document Strokes-era rawness with Nashville/Southern rock undertow.\n\nOnly by the Night (2008) is the commercial pivot: delay guitars, big room reverb, singalong choruses.\n\nSex on Fire’s lead riff and Caleb’s falsetto strain are the cited crossover moves.",
+        "zh": "Kings of Leon 要紧处是家族乐队弧线：从毛糙 indie garage 到全球摇滚电台——同一批 Followill，不同制作预算。\n\nYouth & Young Manhood（2003）与 Aha Shake Heartbreak（2004）记录 Strokes 时代毛糙感加纳什维尔/南方摇滚潜流。\n\nOnly by the Night（2008）是商业拐点：延时吉他、大空间混响、合唱副歌。\n\nSex on Fire 的 lead riff 与 Caleb 假声绷紧是被引用的跨界动作。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "indie-rock"
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "Followill four-piece lock",
+        "zh": "Followill 四人组锁死"
+      },
+      "body": {
+        "en": "1999–present core unchanged: Caleb (vocals/rhythm), Jared (bass), Nathan (drums), Matthew (lead guitar, joined 2000).\n\nNo singer swap across the catalog—arc is production and songwriting maturity, not personnel churn.\n\nEarly live sets ran short, loud, and garage; post-2008 tours scale delay and arena PA.\n\nMatthew’s lead lines grow from blues bends to U2-style dotted-eighth delay figures.",
+        "zh": "1999 至今核心未变：Caleb（人声/节奏）、Jared（贝斯）、Nathan（鼓）、Matthew（lead 吉他，2000 年加入）。\n\n目录无换主唱——弧线是制作与写作成熟，非人员流动。\n\n早期现场短、响、garage；2008 后巡演放大延时与体育场 PA。\n\nMatthew 的 lead 线从蓝调推弦长到 U2 式附点八分延时音型。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "US stadium indie after UK revival",
+        "zh": "英国复兴后的美国体育场 indie"
+      },
+      "body": {
+        "en": "Kings of Leon show a US parallel to 2000s UK indie stadium acts—Pixies-style dynamic shifts filtered through Southern rock vocal strain.\n\nOnly by the Night’s chart run opened US alt-radio to family-band guitar rock alongside Coldplay-scale ballads.\n\nLater records split critical and commercial reception but 2008 remains the citation year.\n\nInfluence is radio format and production gloss more than riff invention.",
+        "zh": "Kings of Leon 展示 2000 年代英国 indie 体育场乐队在美国的平行线——Pixies 式动态切换经南方摇滚人声绷紧过滤。\n\nOnly by the Night 榜跑让美国 alt 电台同时接纳家族乐队吉他摇滚与 Coldplay 级谣曲。\n\n后期唱片评论与商业分裂，2008 仍是引用年。\n\n影响在电台格式与制作光泽，多于 riff 发明。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-0",
+      "title": {
+        "en": "Sex on Fire",
+        "zh": "Sex on Fire"
+      },
+      "body": {
+        "en": "Delay-washed lead riff and strained Caleb vocal—Only by the Night arena template.",
+        "zh": "延时 lead riff 与 Caleb 绷紧人声——Only by the Night 体育场模板。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 0,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-1",
+      "title": {
+        "en": "Use Somebody",
+        "zh": "Use Somebody"
+      },
+      "body": {
+        "en": "Piano-led ballad with U2-scale reverb—global rock radio second wave.",
+        "zh": "钢琴主导谣曲配 U2 级混响——全球摇滚电台第二波。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "scene-2",
+      "title": {
+        "en": "Molly's Chambers",
+        "zh": "Molly's Chambers"
+      },
+      "body": {
+        "en": "Early Youth & Young Manhood cut—garage Riff and raw vocal before arena polish.",
+        "zh": "早期 Youth & Young Manhood 曲——体育场抛光前的 garage Riff 与毛人声。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "indie-rock"
+    }
+  ]
 }
