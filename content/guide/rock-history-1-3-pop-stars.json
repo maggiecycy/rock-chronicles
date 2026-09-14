@@ -1,0 +1,39 @@
+{
+  "slug": "rock-history-1-3-pop-stars",
+  "order": 103,
+  "parentSlug": "how-to-read-rock-history",
+  "kind": "article",
+  "sectionLabel": "1.3",
+  "title": {
+    "en": "Pop stars before 1955",
+    "zh": "1955 年前的流行乐明星"
+  },
+  "summary": {
+    "en": "Crosby, big bands, singing groups, Sinatra and early-50s followers.",
+    "zh": "Crosby、大乐团、歌唱组合、Sinatra 与 50 年代初跟风者。"
+  },
+  "body": {
+    "en": "Bing Crosby was a defining mainstream voice and an early microphone craftsman. Pre-mic singers needed projection over bands; with a mic you could croon close. Crosby’s public face was safe “favorite uncle.” Radio host, film regular, chart force: *I've Got a Pocketful of Dreams* (1938), *Only Forever* (1940), *Swinging On a Star* (1944), *White Christmas* topping in 1942 and again in 1945.\n\nBig bands carried the dance floors: Paul Whiteman early; Benny Goodman, the Dorseys, Glenn Miller; Black bands under Duke Ellington and Count Basie in a segregated circuit. Instrumentals could be the point—Glenn Miller’s *String of Pearls* (1942) is a clean listen-in. Singing groups mattered too: Andrews Sisters (horn-section-like vocals; *Bei Mir Bist Du Schön*, *Shoo-Shoo Baby*, *Rum and Coca-Cola*; Crosby duets like *Don't Fence Me In*) and the Mills Brothers (Black gospel-rooted quartet with massive white crossover—*Paper Doll*, *You Always Hurt the One You Love*).\n\nIn the big-band 1940s, singers often entered as spice around charts, the reverse of later rock staging. From 1945–55 Frank Sinatra became the solo template: band singer for Harry James and Tommy Dorsey, then a 1943 solo break that looked crazy until bobby-soxers screamed the way later crowds would for Elvis or the Beatles. He credited horn players for breath and phrasing. Key sides include *Nancy (with the Laughing Face)* (1945), *All of Me*, *I've Got a Crush on You* (1948). Followers: Johnnie Ray (*Cry*), Tony Bennett (*Rags to Riches*), Eddie Fisher (*Oh! My Pa-Pa*), Patti Page (*Tennessee Waltz*), Les Paul & Mary Ford (*How High the Moon*).\n\nRoster to keep: Crosby, Andrews Sisters, Mills Brothers, Sinatra, those early-50s pop names, and the big bands. Next: Les Paul and the gear that outlived the style.",
+    "zh": "20 世纪上半叶最成功、影响最大的艺人之一是 Bing Crosby。他是第一批真正会用麦克风的歌手。麦克风以前，嗓音要够穿透才能压过乐队；麦克风之后可以浅吟，形成亲近、浪漫的声线。Crosby 的公众形象是「人人爱的大叔」：高尔夫、烟斗、针织衫，不危险。他多年主持全国广播，常上电影，40–50 年代热单包括 *I've Got a Pocketful of Dreams*（1938）、*Only Forever*（1940）、*Swinging On a Star*（1944），*White Christmas* 在 1942 与 1945 都上过榜首。至少到二战前，他是主流流行乐的门面。\n\n贯穿爵士史的大乐团（big bands）也是主流现场的核心：Paul Whiteman 早期重要；Benny Goodman、Tommy Dorsey、Jimmy Dorsey、Glenn Miller；非裔圈有 Duke Ellington、Count Basie。隔离制度下白人和黑人乐队分场少重合。想听大乐团器乐巅峰，可找 Glenn Miller Orchestra 1942 年的 *String of Pearls*。\n\n歌唱组合也很关键。Andrews Sisters 的和声借鉴大乐团管乐编排，作品包括填词版 *In the Mood*，以及 *Bei Mir bist du Schoen*（1938）、*Shoo Shoo Baby*（1943）、*Rum and Coca Cola*（1945），常与 Crosby 合作（如 *Don't Fence Me In*）。Mills Brothers 四位非裔歌手却有大量白人听众——这就是 crossover：按肤色预期归 R&B，实际打进主流。热单如 *Paper Doll*（1943）、*You Always Hurt The One You Love*（1944）。\n\n40 年代大乐团盛行时，器乐才是重点，歌手常是点缀——和后来摇滚「主唱站 C 位」相反。1945–1955 最重要的独唱明星大概是 Frank Sinatra：先在 Harry James、Tommy Dorsey 乐团伴唱，1943 年单飞。当时有人觉得歌手脱离大乐团活不下去。与 Crosby「大叔」不同，Sinatra 引发 Bobby soxer：尖叫、晕倒，早于 Elvis / Beatles 的青少年偶像狂热。他常说发声技巧学自乐手的气息与乐句。代表作有 *Nancy (with the Laughing Face)*（1945）、*All of Me*、*I've Got a Crush on You*（1948）。跟风者包括 Johnnie Ray（*Cry*，1951）、Tony Bennett（*Rags to Riches*，1953）、Eddie Fisher（*Oh My Papa*，1954）、Patti Page（*Tennessee Waltz*，1950）、Les Paul and Mary Ford（*How High The Moon*，1951）。\n\n名单小结：Bing Crosby、Andrews Sisters、Mills Brothers、Frank Sinatra、Johnnie Ray、Tony Bennett、Eddie Fisher、Patti Page、Les Paul and Mary Ford，以及各路大乐团。下一节专门讲 Les Paul 与录音科技。\n\n（注：big band 通常指 1930s–50s 演奏改编爵士的大编制乐队，约 10–25 人，含萨克斯、小号、长号与节奏组；按谱演奏，即兴只在编曲指定时出现。）"
+  },
+  "relatedBandSlugs": [
+    "elvis-presley",
+    "chuck-berry",
+    "the-beatles",
+    "the-rolling-stones",
+    "the-beach-boys",
+    "the-who",
+    "the-kinks",
+    "pink-floyd",
+    "led-zeppelin",
+    "black-sabbath"
+  ],
+  "relatedGenreSlugs": [
+    "blues",
+    "rock-n-roll",
+    "psychedelic",
+    "hard-rock",
+    "progressive-rock",
+    "punk"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "rock-history-1-1-industry",
+  "order": 101,
+  "parentSlug": "how-to-read-rock-history",
+  "kind": "article",
+  "sectionLabel": "1.1",
+  "title": {
+    "en": "Music industry in the first half of the 20th century",
+    "zh": "20 世纪上半叶的音乐产业"
+  },
+  "summary": {
+    "en": "Song over version: publishers, sheet music, songwriter vs performer.",
+    "zh": "歌曲重于版本：发行商、乐谱、写歌人与表演者分工。"
+  },
+  "body": {
+    "en": "Before rock and roll, American pop treated the song as the product. Writers and performers were separate jobs; hit status lived in the tune more than in one canonical recording.\n\nTreat ~1955 as a convenient “year zero,” not a sacred date. Most historians describe rock as a hybrid of three pre-1955 markets: Mainstream Pop, Country & Western, and Rhythm & Blues. They differed in sound and audience—middle-class white pop buyers, urban Black R&B listeners, rural Southern white C&W listeners—so the industries stayed separate. We walk them in that order.\n\nMainstream Pop ran on publishers: hire writers, issue songs, push them to radio, and—above all—sell sheet music. From the late 19th century through the early 20th, parlor pianos made home performance normal; stores kept pianos and demonstrators so buyers could hear a chart before purchasing the chart. Records mattered more from the 1930s–40s (you finally heard Bing Crosby or Judy Garland as specific voices), but sheet music remained the core commodity. Rock performance did not live on sheet music the same way; that helped it crack the old market.\n\nSongwriter ≠ performer. Gershwin, Porter, and the American Songbook tradition prove you could write without cutting your own hits. Performers stamped style onto shared repertoire—Sinatra, Elvis, or Liza Minnelli could each own *New York, New York* without writing it. Covers already existed; the word only got sharp later, when stars sold authorship as identity. Mid-1960s singer-songwriters reverse the older division of labor.\n\nBottom line for this lesson: the song is the unit. Next: how songs reach ears.",
+    "zh": "摇滚乐诞生前的美国流行乐坛，歌曲创作者与表演者各司其职。真正重要的是歌曲本身，而非不同的演唱版本。\n\n先把目光放到摇滚乐诞生之年（约 1955）以前。把 1955 当摇滚元年只是方便的切点——课程越往后你会越清楚，很难钉死一个精确日期。但要理解摇滚怎么破局，得先看它出生前的产业样貌。\n\n多数学者认为，摇滚乐是 1955 年前三种主要风格的杂交：主流流行乐（Mainstream Pop）、乡村与西部音乐（Country and Western）、节奏布鲁斯（R&B）。三者差异不只在声音，也在受众：主流流行乐主要面向中产白人；R&B 是市区非裔美国人的市场；乡村与西部则多是南方农耕白人。市场相互独立，曲风也不同，所以分开讲：先主流流行乐，再乡村与西部，最后 R&B。\n\n主流流行乐这边，关键点是：歌曲本身比某个具体演唱版本更重要。产业的基本动作是写歌、发行歌、让尽量多人唱。这和后来摇滚——尤其 60 年代以后「听的是 Beatles 那个版本」——非常不一样。谁会想听别人唱的《Sgt. Pepper》？Beatles 官方版出来后，别的版本几乎没人追。但在 1955 年前，曲子才是商品。\n\n所以产业由音乐发行商驱动：找人写歌，替作者发行，把录好的歌送电台；更核心的销售方式是卖乐谱（sheet music）。19 世纪下半叶到 20 世纪上半叶，出版商主营就是乐谱，逻辑是让买家回家自己弹。那时客厅钢琴像今天的音响或电视，家里多人会弹很常见。商店常备钢琴和驻场钢琴师，买乐谱前可以先听预览。录音带从三四十年代起越来越重要，能听到 Judy Garland、Bing Crosby 这类特定嗓音，但乐谱仍是主流商品。摇滚演奏并不那么依赖乐谱——这也是它能撬动旧市场的原因之一。\n\n同时，songwriter 与 performer 是两种职业。George Gershwin、Ira Gershwin、Cole Porter 写的是《American Songbook》里那些结构精巧的歌；他们不必自己进棚唱。表演者的工作是把个人演绎叠上去：同一首歌可以有不同风格、不同听众。到 60 年代中期以后，很多明星开始唱自己写的歌，「翻唱（cover）」才变成一个刺眼的概念。1955 年前几乎人人都在唱别人写的歌，cover 说不上稀奇。\n\n一句话：歌曲才是关键，版本次之。下一节要问：这些歌怎么进到听众耳朵里？"
+  },
+  "relatedBandSlugs": [
+    "elvis-presley",
+    "chuck-berry",
+    "the-beatles",
+    "the-rolling-stones",
+    "the-beach-boys",
+    "the-who",
+    "the-kinks",
+    "pink-floyd",
+    "led-zeppelin",
+    "black-sabbath"
+  ],
+  "relatedGenreSlugs": [
+    "blues",
+    "rock-n-roll",
+    "psychedelic",
+    "hard-rock",
+    "progressive-rock",
+    "punk"
+  ]
+}

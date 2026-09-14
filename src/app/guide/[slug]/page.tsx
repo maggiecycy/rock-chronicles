@@ -2,11 +2,13 @@ import { notFound } from "next/navigation";
 import {
   getAllGuides,
   getGuide,
+  getGuideChildren,
   getAllTropes,
   resolveBandNames,
   getAllGenres,
 } from "@/lib/content";
 import { GuideArticleView } from "@/components/GuideArticleView";
+import { GuideTocView } from "@/components/GuideTocView";
 import type { Genre, Trope } from "@/lib/types";
 
 interface PageProps {
@@ -33,10 +35,20 @@ export default async function GuideArticlePage({ params }: PageProps) {
   const article = await getGuide(slug);
   if (!article) notFound();
 
-  const [bands, allGenres, allTropes] = await Promise.all([
+  const isToc =
+    article.kind === "toc" ||
+    (Array.isArray(article.outline) && article.outline.length > 0);
+
+  if (isToc) {
+    const sections = await getGuideChildren(article.slug);
+    return <GuideTocView article={article} sections={sections} />;
+  }
+
+  const [bands, allGenres, allTropes, parent] = await Promise.all([
     resolveBandNames(article.relatedBandSlugs ?? []),
     getAllGenres(),
     getAllTropes(),
+    article.parentSlug ? getGuide(article.parentSlug) : Promise.resolve(undefined),
   ]);
   const genreMap = new Map(allGenres.map((g) => [g.slug, g]));
   const genres = (article.relatedGenreSlugs ?? [])
@@ -53,6 +65,7 @@ export default async function GuideArticlePage({ params }: PageProps) {
       bands={bands}
       genres={genres}
       tropes={tropes}
+      parent={parent}
     />
   );
 }

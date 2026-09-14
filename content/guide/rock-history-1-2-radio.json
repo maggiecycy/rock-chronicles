@@ -1,0 +1,39 @@
+{
+  "slug": "rock-history-1-2-radio",
+  "order": 102,
+  "parentSlug": "how-to-read-rock-history",
+  "kind": "article",
+  "sectionLabel": "1.2",
+  "title": {
+    "en": "Radio: from regional audiences to a national audience",
+    "zh": "无线电广播，从区域性听众到全国性听众"
+  },
+  "summary": {
+    "en": "Networks and super stations build a shared national pop audience.",
+    "zh": "广播网与超级电台把流行乐做成全国听众。"
+  },
+  "body": {
+    "en": "Sinatra and Crosby wrote little or nothing; nobody called that “inauthentic.” That was the job map.\n\nAround 1900 the U.S. was more regional. News traveled slowly; local folk, country, and blues dialects stayed audible—Chicago vs Memphis vs St. Louis blues, for example. Radio compressed distance into a national entertainment culture. Marconi’s 1895 demos led through military and maritime use; the Titanic’s wireless traffic (David Sarnoff among the operators in New York) advertised real-time reach. By the 1920s stations clustered around cities; by the late 1920s networks (NBC, CBS) wired affiliates so one show could air coast to coast. Nighttime “super stations” raised power and covered hundreds of miles. Shared playlists shrank regional taste gaps.\n\nProgramming mixed soaps (*Guiding Light*), sitcoms (*Amos ’n’ Andy*—wildly popular then, indefensible now), adventure (*Lone Ranger*, *Superman*), variety (Crosby), and lots of music. Publishers’ best promo was getting a song on the air so listeners bought sheet music. Film also built national audiences (*The Wizard of Oz*), but dedicated title songs were debated—publishers wanted catalog that outlived a movie’s run.\n\nAfter WWII Sarnoff poured RCA R&D into television. As attention moved to TV, leftover radio plant and slots would be reused—especially by local R&B and country formats, later in this chapter.",
+    "zh": "继续主流流行乐。1955 年前，Frank Sinatra、Bing Crosby 几乎不写歌，也没人因此觉得他们「不真诚」——那就是分工。\n\n既然发行商主导，就要问渠道。约 1900 年的美国比今天更区域化：南北、西南、西海岸、工业北方风土不同；没有即时全国新闻网，电报也慢。闭塞保住了地方文化：芝加哥布鲁斯、孟菲斯布鲁斯、圣路易斯布鲁斯，听得出来。民谣、乡村、布鲁斯都带城市或地区标签。\n\n无线电广播推动了全国性娱乐文化。Marconi 1895 年展示无线传声；军事与航海先用上。1912 年泰坦尼克号沉没时，纽约的 David Sarnoff 记录了无线电报——他后来成为 RCA 与 NBC 的关键人物。1920 年代大城市出现电台，20 年代末广播网兴起：NBC、CBS 用电缆串起附属电台（affiliates），同一节目可全国同步。夜间「超级电台」功率加大，信号能跨数百英里。地区差异被压缩，流行音乐第一次真正有了全国听众。\n\n电台播什么？肥皂剧（《Guiding Light》）、情景喜剧（《Amos and Andy》，今天看极政治不正确）、探险（《Lone Ranger》《Superman》）、综艺（Bing Crosby 那类），以及大量音乐。发行商最有效的促销是把歌送电台：听众听了去杂货店买乐谱回家弹。电影也在造全国受众（《绿野仙踪》），但专门电影插曲有争议——发行商更想要能长期收版税的歌，而不是跟电影一起过气。\n\n二战后 Sarnoff 把 RCA 研发重心砸向电视。电视起来后，广播网留下的设备与时段会改用途——后面讲 R&B、乡村时会接上。下一节先问：1955 年前主流流行乐听起来是谁？"
+  },
+  "relatedBandSlugs": [
+    "elvis-presley",
+    "chuck-berry",
+    "the-beatles",
+    "the-rolling-stones",
+    "the-beach-boys",
+    "the-who",
+    "the-kinks",
+    "pink-floyd",
+    "led-zeppelin",
+    "black-sabbath"
+  ],
+  "relatedGenreSlugs": [
+    "blues",
+    "rock-n-roll",
+    "psychedelic",
+    "hard-rock",
+    "progressive-rock",
+    "punk"
+  ]
+}

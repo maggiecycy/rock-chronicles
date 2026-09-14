@@ -16,9 +16,24 @@ export function GuideIndex({ articles }: { articles: GuideArticle[] }) {
       <h1 className="font-display mt-2 text-4xl font-semibold tracking-tight sm:text-5xl">
         {t.guide.title}
       </h1>
-      <p className="mt-4 max-w-2xl text-base leading-relaxed text-ink-soft sm:text-lg">
-        {t.guide.intro}
-      </p>
+
+      <section className="mt-8 border-2 border-ink p-5 sm:p-6">
+        <p className="text-xs font-medium uppercase tracking-[0.25em] text-accent">
+          {t.daily.eyebrow}
+        </p>
+        <h2 className="font-display mt-2 text-2xl font-semibold sm:text-3xl">
+          {t.daily.cardTitle}
+        </h2>
+        {t.daily.cardHint ? (
+          <p className="mt-2 max-w-2xl text-sm text-ink-soft">{t.daily.cardHint}</p>
+        ) : null}
+        <Link
+          href="/guide/daily"
+          className="mt-4 inline-block border-2 border-accent bg-accent px-4 py-2 text-xs font-medium uppercase tracking-wider text-paper"
+        >
+          {t.daily.openList} →
+        </Link>
+      </section>
 
       <ul className="mt-10 space-y-3">
         {articles.map((article, i) => (

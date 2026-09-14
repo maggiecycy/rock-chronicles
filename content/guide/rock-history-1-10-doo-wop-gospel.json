@@ -1,0 +1,39 @@
+{
+  "slug": "rock-history-1-10-doo-wop-gospel",
+  "order": 110,
+  "parentSlug": "how-to-read-rock-history",
+  "kind": "article",
+  "sectionLabel": "1.10",
+  "title": {
+    "en": "Doo-wop and gospel",
+    "zh": "Doo-wop 和 Gospel（福音音乐）"
+  },
+  "summary": {
+    "en": "Street vocal groups and church roots of R&B singing.",
+    "zh": "街区人声组合与 R&B 的教堂根。"
+  },
+  "body": {
+    "en": "Two vocal schools feed 1945–55 R&B and get under-credited: doo-wop and gospel.\n\nDoo-wop grows from postwar neighborhood a cappella crews—mostly young Black men—sparring block to block in cities like New York and Baltimore. Indies scoop groups, add band charts, test one killer tune. Upside: many get a shot. Downside: one-song careers. Nonsense syllables name the style (*Sh-Boom* by the Chords, 1954; *In the Still of the Night* by the Five Satins, 1956). Hooks own the sock-hop slow dance; even wild men keep a few sides.\n\nGospel supplies call-and-response and melisma for secular R&B. A moral binary—church vs club—stresses singers who cross. Ray Charles’s *I Got a Woman* (1954) retools gospel material as a secular hit; some church-aware listeners flinch. Charles refuses the split.",
+    "zh": "1945–1955，两种常被低估却喂养了 R&B 的人声传统：Doo-wop 与 Gospel。\n\nDoo-wop 从战后城市街区阿卡贝拉组合长出来，多为黑人男性：同社区组团、跨街区「唱着较劲」，纽约、巴尔的摩等形成文化。制作人把组合推进棚，加乐队编曲，快速试市场。优点是机会多；缺点是多数组合把压箱底那一首花光后难出第二、第三张热单——昙花一现是常态。名字来自背景和声里的无意义音节：The Chords 的 *Sh-Boom*（1954）、The Five Satins 的 *In the Still of the Night*（1956）。副歌好记，慢舞与 sock hop 里极常用；连 Jerry Lee Lewis、Little Richard 也会收几张。\n\nGospel 是 R&B 独唱与和声的教堂根：call and response、装饰音。当时存在「上帝之声 vs 俱乐部恶魔之声」的道德冲突，很多歌手在两边拉扯。Ray Charles 1954 的 *I Got a Woman* 把福音材料改成世俗热歌，知情的黑人社区有人震惊；对他来说音乐不必被这条线劈开。"
+  },
+  "relatedBandSlugs": [
+    "elvis-presley",
+    "chuck-berry",
+    "the-beatles",
+    "the-rolling-stones",
+    "the-beach-boys",
+    "the-who",
+    "the-kinks",
+    "pink-floyd",
+    "led-zeppelin",
+    "black-sabbath"
+  ],
+  "relatedGenreSlugs": [
+    "blues",
+    "rock-n-roll",
+    "psychedelic",
+    "hard-rock",
+    "progressive-rock",
+    "punk"
+  ]
+}

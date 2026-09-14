@@ -1,0 +1,39 @@
+{
+  "slug": "rock-history-1-11-hokum",
+  "order": 111,
+  "parentSlug": "how-to-read-rock-history",
+  "kind": "article",
+  "sectionLabel": "1.11",
+  "title": {
+    "en": "Hokum blues and sexual lyric codes",
+    "zh": "Hokum Blues 和涉及「性」的歌词"
+  },
+  "summary": {
+    "en": "Innuendo, cover sanitizing, and race in the marketplace.",
+    "zh": "双关隐喻、翻唱洗词，以及市场里的种族因素。"
+  },
+  "body": {
+    "en": "What scared white parents about R&B was often hokum: adult innuendo about sex via puns, not kids’ content. Hokum is not “Black-only”—Jimmie Rodgers’s *Pistol Packing Papa* (1930) sits in the same joke family—but racist panic mapped Black male singers singing sex onto myths about white daughters.\n\nTitles could be blunt (*Sixty-Minute Man*, *Work With Me Annie*). When whites covered R&B chart hits for the pop board, sex often became dancing. Big Joe Turner’s *Shake, Rattle and Roll* cleaned up by Bill Haley left many listeners missing the original metaphors. Black artists experienced lyric scrubbing as unequal access. Race is already wired into the birth of rock’s marketplace. Next chapter: 1955–59, when the break actually happens.",
+    "zh": "白人听众觉得 R&B「危险」的一点，是它与 Hokum Blues 的关系：用双关和隐喻谈性，打成人玩笑，不是给青少年写的。Hokum 不是黑人独有——Jimmie Rodgers 1930 的 *Pistol Packing Papa* 也是例子——但种族刻板印象让「黑人男声唱性」被放大成对白人女儿的威胁叙事。\n\n歌名有时直白：*Sixty-Minute Man*、*Work With Me Annie*、*Annie Had a Baby*。当 Hokum 上 R&B 榜、白人艺人要翻进主流榜时，常把性改成跳舞等「干净」词。Big Joe Turner 的 *Shake, Rattle and Roll* 被 Bill Haley and His Comets 翻红后，许多白人听众听不懂原词里的隐喻。黑人艺人感到被改词与被挡在同等曝光之外——种族因素从摇滚诞生期就缠着市场。下一章进入 1955–1959：摇滚真正破局。"
+  },
+  "relatedBandSlugs": [
+    "elvis-presley",
+    "chuck-berry",
+    "the-beatles",
+    "the-rolling-stones",
+    "the-beach-boys",
+    "the-who",
+    "the-kinks",
+    "pink-floyd",
+    "led-zeppelin",
+    "black-sabbath"
+  ],
+  "relatedGenreSlugs": [
+    "blues",
+    "rock-n-roll",
+    "psychedelic",
+    "hard-rock",
+    "progressive-rock",
+    "punk"
+  ]
+}

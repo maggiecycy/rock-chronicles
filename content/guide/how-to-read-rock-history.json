@@ -1,27 +1,581 @@
 {
   "slug": "how-to-read-rock-history",
   "order": 2,
+  "kind": "toc",
   "title": {
-    "en": "How to read rock history",
-    "zh": "怎么读摇滚史"
+    "en": "Reading rock history",
+    "zh": "了解摇滚史"
   },
   "summary": {
-    "en": "You do not need the full encyclopedia. Pick one song, find its year, then add one neighboring act.",
-    "zh": "不必通读百科。先定一首歌、查年份，再加一支相邻乐队。"
+    "en": "Chapter map (Covach arc). Open Chapter 1 sections below; later chapters stay stubs until notes arrive.",
+    "zh": "章节目录（Covach 课弧）。第一章各节可点开阅读；后续章节先占位，等讲义再补。"
   },
   "body": {
-    "en": "Rock history looks like a warehouse of albums. In practice it works more like reply chains: each scene answers the last one.\n\nBlues first. Rock & roll puts it on radio. Britain sends it back louder in the mid-60s. The 70s split into stadium hard rock, prog complexity, and three-chord punk. The 80s harden metal and post-punk. The 90s put grunge and Britpop on the same decade with different agendas. Indie keeps claiming small-room values while playing large festivals.\n\nDo not memorize that paragraph. Use it as a map. Timeline is chronological browsing. Genre Map is for when someone says \"post-punk\" and you want the family tree. People pages track the same musician under different logos.\n\nRule for newcomers: do not start from \"I should know everything.\" Start from one song you already care about. Open that era. Add one related band. Stop when you want. The archive will still be there.",
-    "zh": "摇滚史看起来像专辑仓库。实际更像回复链：每个场景都在回答上一个。\n\n先是 Blues。Rock & roll 上电台。60 年代中期英国把它更大声寄回来。70 年代拆成体育馆硬摇滚、前卫复杂结构，和三和弦朋克。80 年代金属与后朋克定型。90 年代 grunge 与 Britpop 同年代、不同议程。Indie 一边自称小场美学，一边站在大型音乐节上。\n\n这段不用背，当地图用。Timeline 按年代刷。Genre Map 是有人说「后朋」时查谱系用的。People 页追踪同一人换 logo 的路径。\n\n新人规矩：别从「我应该全懂」开始。从一首你已经在意的歌入手。打开那个年代。加一支相关乐队。想停就停。档案还在。"
+    "zh": "怎么用这一页\n\n这是摇滚史课程目录页。结构按 John Covach（University of Rochester）课弧：先产业与电台，再 1955–59 rock & roll，60 年代初的「摇滚之冬 / 灵乐之春」，英伦入侵，美国的回应，Motown 与南部灵魂乐，迷幻，然后进入 70 年代「摇滚怪兽」。\n\n第一章各小节已可点开阅读。后面章节先列目录占位，讲义到了再补正文。出现人名时，本站有对应年代 / 乐队页就跳过去。无聊就跳——后面引用前面时再回来。",
+    "en": "How to use this page\n\nThis is the rock-history syllabus map, following John Covach’s University of Rochester arc: industry and radio first, then 1955–59 rock & roll, the early-60s “winter,” British Invasion, U.S. replies, Motown / southern soul, psychedelia, then the 1970s “monster” years.\n\nChapter 1 sections are open for reading. Later chapters stay as stubs until lecture notes land. When a name appears, jump to the matching era or band page if we have it. Skip ahead when bored—come back when a later section cites an earlier one."
   },
+  "outline": [
+    {
+      "heading": {
+        "en": "Chapter 2 · Birth and first boom (1955–1959)",
+        "zh": "第二章 · 诞生与首次繁荣（1955–1959）"
+      },
+      "items": [
+        {
+          "label": "2.1",
+          "title": {
+            "en": "Rise of 1950s youth culture",
+            "zh": "20 世纪 50 年代青少年文化的兴起"
+          }
+        },
+        {
+          "label": "2.2",
+          "title": {
+            "en": "Radio and records",
+            "zh": "电台与唱片"
+          }
+        },
+        {
+          "label": "2.3",
+          "title": {
+            "en": "Crossovers and covers",
+            "zh": "Crossovers（跨界）与 Covers（翻唱）"
+          }
+        },
+        {
+          "label": "2.4",
+          "title": {
+            "en": "First rock musicians to cross over",
+            "zh": "首批实现 crossover 的摇滚乐人"
+          }
+        },
+        {
+          "label": "2.5",
+          "title": {
+            "en": "Rise of Elvis Presley",
+            "zh": "Elvis Presley 的崛起"
+          }
+        },
+        {
+          "label": "2.6",
+          "title": {
+            "en": "Sam Phillips sells Elvis’s contract",
+            "zh": "Sam Phillips 出售 Elvis 的合同"
+          }
+        },
+        {
+          "label": "2.7",
+          "title": {
+            "en": "Rockabilly in Elvis’s shadow",
+            "zh": "Elvis 光辉下的 Rockabilly"
+          }
+        },
+        {
+          "label": "2.8",
+          "title": {
+            "en": "The day the music died",
+            "zh": "音乐死亡之日"
+          }
+        }
+      ]
+    },
+    {
+      "heading": {
+        "en": "Chapter 3 · Winter of rock, spring of soul (1959–1963)",
+        "zh": "第三章 · 摇滚之冬，灵乐之春（1959–1963）"
+      },
+      "items": [
+        {
+          "label": "3.1",
+          "title": {
+            "en": "Audience and market: hunting the next Elvis",
+            "zh": "受众与市场：寻找下一个猫王"
+          }
+        },
+        {
+          "label": "3.2",
+          "title": {
+            "en": "Brill Building pop songwriting",
+            "zh": "Brill Building 的流行音乐创作模式"
+          }
+        },
+        {
+          "label": "3.3",
+          "title": {
+            "en": "Teen idols",
+            "zh": "青少年偶像（Teen Idols）"
+          }
+        },
+        {
+          "label": "3.4",
+          "title": {
+            "en": "Producers",
+            "zh": "制作人（Producers）"
+          }
+        },
+        {
+          "label": "3.5",
+          "title": {
+            "en": "Sweet soul",
+            "zh": "Sweet Soul"
+          }
+        },
+        {
+          "label": "3.6",
+          "title": {
+            "en": "Visual and tactile stimuli",
+            "zh": "视觉与触觉刺激"
+          }
+        },
+        {
+          "label": "3.7",
+          "title": {
+            "en": "Folk revival",
+            "zh": "Folk Revival（民谣复兴）"
+          }
+        },
+        {
+          "label": "3.8",
+          "title": {
+            "en": "Rockabilly popsters",
+            "zh": "Rockabilly Popsters"
+          }
+        },
+        {
+          "label": "3.9",
+          "title": {
+            "en": "Surf music",
+            "zh": "Surf Music（冲浪音乐）"
+          }
+        }
+      ]
+    },
+    {
+      "heading": {
+        "en": "Chapter 4 · The Beatles and the British Invasion (1964–1966)",
+        "zh": "第四章 · The Beatles 与英伦入侵（1964–1966）"
+      },
+      "items": [
+        {
+          "label": "4.1",
+          "title": {
+            "en": "Introduction",
+            "zh": "绪论"
+          }
+        },
+        {
+          "label": "4.2",
+          "title": {
+            "en": "Britain and America in the early 1960s",
+            "zh": "60 年代早期的英美"
+          }
+        },
+        {
+          "label": "4.3",
+          "title": {
+            "en": "Rise of the Beatles",
+            "zh": "The Beatles 的崛起"
+          }
+        },
+        {
+          "label": "4.4",
+          "title": {
+            "en": "Beatles as students of American pop",
+            "zh": "作为美式流行乐学生的 Beatles"
+          }
+        },
+        {
+          "label": "4.5",
+          "title": {
+            "en": "Beatles from craftsmen to artists",
+            "zh": "从匠人到艺术家的 Beatles"
+          }
+        },
+        {
+          "label": "4.6",
+          "title": {
+            "en": "Blues in Britain",
+            "zh": "Blues 在英国"
+          }
+        },
+        {
+          "label": "4.7",
+          "title": {
+            "en": "Arrival of the Rolling Stones",
+            "zh": "The Rolling Stones 的出现"
+          }
+        },
+        {
+          "label": "4.8",
+          "title": {
+            "en": "Rolling Stones in the U.S.",
+            "zh": "The Rolling Stones 在美国"
+          }
+        },
+        {
+          "label": "4.9",
+          "title": {
+            "en": "Other British bands",
+            "zh": "其他英国乐队"
+          }
+        },
+        {
+          "label": "4.10",
+          "title": {
+            "en": "The Kinks and the Who",
+            "zh": "the Kinks 与 the Who"
+          }
+        }
+      ]
+    },
+    {
+      "heading": {
+        "en": "Chapter 5 · America’s reply (1965–1967)",
+        "zh": "第五章 · 美国的回应（1965–1967）"
+      },
+      "items": [
+        {
+          "label": "5.1",
+          "title": {
+            "en": "Bob Dylan and a new generation of songwriters",
+            "zh": "Bob Dylan，美国新一代歌曲创作者"
+          }
+        },
+        {
+          "label": "5.2",
+          "title": {
+            "en": "Dylan goes electric",
+            "zh": "Bob Dylan 使用电声乐器"
+          }
+        },
+        {
+          "label": "5.3",
+          "title": {
+            "en": "The Byrds and folk-rock",
+            "zh": "The Byrds 与民谣摇滚"
+          }
+        },
+        {
+          "label": "5.4",
+          "title": {
+            "en": "Phil Spector’s lasting production legacy",
+            "zh": "Phil Spector 的光辉遗产"
+          }
+        },
+        {
+          "label": "5.5",
+          "title": {
+            "en": "Meanwhile, back on the East Coast",
+            "zh": "与此同时，回到东海岸"
+          }
+        },
+        {
+          "label": "5.6",
+          "title": {
+            "en": "Garage bands",
+            "zh": "车库乐队（Garage Bands）"
+          }
+        },
+        {
+          "label": "5.7",
+          "title": {
+            "en": "TV rock",
+            "zh": "电视摇滚（TV Rock）"
+          }
+        }
+      ]
+    },
+    {
+      "heading": {
+        "en": "Chapter 6 · Motown pop and southern soul (1960–1969)",
+        "zh": "第六章 · Motown 流行乐与南部灵魂乐（1960–1969）"
+      },
+      "items": [
+        {
+          "label": "6.1",
+          "title": {
+            "en": "Preface",
+            "zh": "序言"
+          }
+        },
+        {
+          "label": "6.2",
+          "title": {
+            "en": "Hitsville U.S.A.: Motown",
+            "zh": "美国热单镇：Motown"
+          }
+        },
+        {
+          "label": "6.3",
+          "title": {
+            "en": "Motown artists",
+            "zh": "Motown 的艺人"
+          }
+        },
+        {
+          "label": "6.4",
+          "title": {
+            "en": "Stax and southern soul",
+            "zh": "美国灵魂乐镇 Stax 和南方灵魂乐"
+          }
+        },
+        {
+          "label": "6.5",
+          "title": {
+            "en": "Stax artists",
+            "zh": "Stax 的艺人"
+          }
+        },
+        {
+          "label": "6.6",
+          "title": {
+            "en": "Motown, Stax, the Invasion, and America’s reply",
+            "zh": "Motown，Stax，英伦入侵和美国的回应"
+          }
+        },
+        {
+          "label": "6.7",
+          "title": {
+            "en": "James Brown",
+            "zh": "James Brown"
+          }
+        }
+      ]
+    },
+    {
+      "heading": {
+        "en": "Chapter 7 · Psychedelic wave (1966–1969)",
+        "zh": "第七章 · 迷幻风潮（1966–1969）"
+      },
+      "items": [
+        {
+          "label": "7.1",
+          "title": {
+            "en": "LSD, music, and “tripping”",
+            "zh": "LSD，音乐，以及「神游」"
+          }
+        },
+        {
+          "label": "7.2",
+          "title": {
+            "en": "Origins of hippie aesthetics",
+            "zh": "嬉皮美学的起源"
+          }
+        },
+        {
+          "label": "7.3",
+          "title": {
+            "en": "Beatles and Beach Boys pushing formal borders",
+            "zh": "尝试拓宽音乐边界的 Beatles 与 Beach Boys"
+          }
+        },
+        {
+          "label": "7.4",
+          "title": {
+            "en": "San Francisco psychedelic subculture",
+            "zh": "旧金山迷幻之亚文化"
+          }
+        },
+        {
+          "label": "7.5",
+          "title": {
+            "en": "Key San Francisco bands",
+            "zh": "旧金山迷幻之重要乐队"
+          }
+        },
+        {
+          "label": "7.6",
+          "title": {
+            "en": "London psychedelia and the underground",
+            "zh": "伦敦迷幻和地下迷幻文化"
+          }
+        },
+        {
+          "label": "7.7",
+          "title": {
+            "en": "London psychedelia’s mainstream stars",
+            "zh": "伦敦迷幻之主流明星"
+          }
+        },
+        {
+          "label": "7.8",
+          "title": {
+            "en": "Psychedelia in Los Angeles and elsewhere",
+            "zh": "洛杉矶及其他地方的迷幻音乐"
+          }
+        },
+        {
+          "label": "7.9",
+          "title": {
+            "en": "Hippie nation",
+            "zh": "嬉皮国度"
+          }
+        }
+      ]
+    },
+    {
+      "heading": {
+        "en": "Chapter 8 · Growing the rock monster (1970–1977)",
+        "zh": "第八章 · 摇滚怪兽的成长（1970–1977）"
+      },
+      "items": [
+        {
+          "label": "8.1",
+          "title": {
+            "en": "Overview of the 1970s",
+            "zh": "对 1970 年代的概述"
+          }
+        },
+        {
+          "label": "8.2",
+          "title": {
+            "en": "British blues-rock",
+            "zh": "英国布鲁斯摇滚"
+          }
+        }
+      ]
+    },
+    {
+      "heading": {
+        "en": "Appendix · Further reading",
+        "zh": "附录 · 其他补充推荐阅读书籍"
+      },
+      "items": [
+        {
+          "label": "1",
+          "title": {
+            "en": "Rock Chronicles — ed. David Roberts",
+            "zh": "《摇滚编年史 Rock Chronicles》美 David Roberts 主编"
+          },
+          "summary": {
+            "en": "If you only pick one band book, start here. ~250 influential acts: short histories, lineups/changes, key albums, classic photos, A–Z for lookup. Narrow and shallow—great bands exceed 250, and the cut-off misses later acts—but still solid for tracing who did what when.",
+            "zh": "如果只能选一本乐队书，首选这本。收录摇滚史以来最有影响力的 250 余支乐队，简明写历史、成员与变更、代表作，并配经典历史照片；字母序方便翻查。覆盖偏窄、内容偏浅——优秀乐队远不止 250，每支都够写几百万字——且出版较早，近年乐队未收。作资料书查发展脉络仍很好用。"
+          }
+        },
+        {
+          "label": "2",
+          "title": {
+            "en": "1001 Albums You Must Hear Before You Die — ed. Robert Dimery",
+            "zh": "《有生之年非听不可的1001张唱片》美 Robert Dimery 主编"
+          },
+          "summary": {
+            "en": "Chronological checklist of 1001 albums from the 1950s into the 21st century—not rock-only: jazz, pop, folk, hip-hop too. Each entry: artist, producer, year, label, key tracks, short take. Useful for hunting records and sketching how popular music moved. Newest English runs to 2018; the Chinese import (Central Compilation Press) is still the 8th edition (2005 update).",
+            "zh": "唱片名录：主编精选自 50 年代到 21 世纪的 1001 张经典，按时间排。不只摇滚，也有爵士、流行、民谣、嘻哈等——按图索骥听片之外，也能大概看欧美流行乐坛走势。每条写演唱者、制作人、发行年、厂牌、经典曲与初步评价。英文最新 2018 年版国内尚未引进；中央编译出版社引进至今只有第 8 版（2005 年更新），有点遗憾。"
+          }
+        },
+        {
+          "label": "3",
+          "title": {
+            "en": "Rock Connections — ed. Bruno MacDonald",
+            "zh": "《摇滚谱系 Rock Connections：摇滚乐完全历程》英 Bruno MacDonald 主编"
+          },
+          "summary": {
+            "en": "Less dense than the two above; stronger on how styles and bands connect—people, scenes, inheritance. Plenty of lesser-known anecdotes; more fun to read for lineage than for encyclopedia entries.",
+            "zh": "比前两本更侧重风格与乐队之间的联系。内容丰富度略逊，但胜在用人与人、人与历史的关系，写出摇滚如何发展、风格如何传承影响。夹不少不为人知的小故事，读起来更有趣味。"
+          }
+        },
+        {
+          "label": "4",
+          "title": {
+            "en": "Rock: Rock's Past and Present — Kevin J. H. Dettmar",
+            "zh": "《摇滚：摇滚的前世今生》美 Kevin J. H. Dettmar 著"
+          },
+          "summary": {
+            "en": "Another rock survey, written by a professor—deeper cultural discussion and the author’s own thinking alongside the timeline. Downside: non-color printing leaves many photos muddy.",
+            "zh": "同为摇滚通史。作者是教授，探讨与文化研究更深入，也更有人文气息；记史之外写了不少自己的思考。缺点是非彩色印刷，很多照片看起来模模糊糊。"
+          }
+        },
+        {
+          "label": "5",
+          "title": {
+            "en": "The Greatest Albums You'll Never Hear — ed. Bruno MacDonald",
+            "zh": "《无法发行的60张唱片》美 Bruno MacDonald 编著"
+          },
+          "summary": {
+            "en": "Odd angle: albums you will never hear. Less a listening guide than music gossip—why they stayed unreleased: creative collapse, feuds, label and market choices. Genuinely fun to read.",
+            "zh": "角度奇特：介绍的那些唱片，你永远听不到。与其说是推荐指南，不如说是独辟蹊径的音乐八卦——为何不能发行？创作状态、爱恨情仇、厂牌与市场的选择。读来还挺有趣。"
+          }
+        },
+        {
+          "label": "6",
+          "title": {
+            "en": "Guitar Family Trees — Terry Burrows",
+            "zh": "《吉他族谱 Guitar Family Trees》美 Terry Burrows 著"
+          },
+          "summary": {
+            "en": "Treasure shelf for guitar fans: famous guitars and makers, players’ instruments, tone traits, and tracks that show each model’s voice.",
+            "zh": "吉他爱好者的宝藏书：著名吉他与厂商历史，名手所用琴、音色特点，以及该型号音色的代表曲目。"
+          }
+        },
+        {
+          "label": "7",
+          "title": {
+            "en": "How Music Works — David Byrne",
+            "zh": "《制造音乐 How Music Works》美 David Byrne 著"
+          },
+          "summary": {
+            "en": "After the history arc, how music gets made—ideas, writing, stage, recording, tech, market, managers and labels—told from Byrne’s own grind from obscurity to the front. Broad and clear for fans, not deep theory.",
+            "zh": "了解摇滚历程之后，再看制作怎么走。作者凭亲身经历写灵感、编写、演出、录制、技术、市场，乃至经纪人与厂牌，也写自己乐队如何从默默无闻学创作走到台前。深入浅出、面面俱到，但不是深理论，更像面向爱好者的科普。"
+          }
+        },
+        {
+          "label": "8",
+          "title": {
+            "en": "摇滚中国 — Sun Yi",
+            "zh": "《摇滚中国》孙伊 著"
+          },
+          "summary": {
+            "en": "Still no compact Chinese Rock Chronicles for domestic acts. This is closer, but remains a cultural study of mainland rock and intellectual currents—not a work catalog. Worth it for reform-era economic and cultural shock on Chinese music and youth, and a partial map of Chinese rock.",
+            "zh": "其实想找一本像《摇滚编年史》那样针对国内的简明资料集，可惜市面上还缺。这本相对接近，但仍是文化研究专著：主线是国内摇滚与文化思潮的关系，不是作品梳理。仍很值得推荐——可以看到改革开放后巨大的经济与文化冲击如何落到中国音乐与年轻人身上，从而窥见中国摇滚的部分面貌。"
+          }
+        },
+        {
+          "label": "9",
+          "title": {
+            "en": "把青春唱完 1990–1999 — Gao Yuan",
+            "zh": "《把青春唱完 1990–1999》高原 著"
+          },
+          "summary": {
+            "en": "A photo book. Sparse text; the camera records Chinese rock on and off stage across that decade—players’ youth, and a slice of our own.",
+            "zh": "摄影集。文字不多，摄影师用镜头真实记录这十年中国摇滚台前幕后——能看到乐手们的青春，也能看到我们自己的青春。"
+          }
+        },
+        {
+          "label": "10",
+          "title": {
+            "en": "摇滚梦寻 — Xue Ji",
+            "zh": "《摇滚梦寻》雪季 著"
+          },
+          "summary": {
+            "en": "Early Chinese rock interview book—Cui Jian, Tang Dynasty, Black Panther, Compass, and peers. Honest and serious; does not dodge the historical backdrop. The most grounded group portrait of that first wave.",
+            "zh": "早年初版的中国摇滚采访录，崔健、唐朝、黑豹、指南针……非常诚实严肃，面对历史背景也不刻意回避。中国早期摇滚群像最真实的记录，对后来人仍有启发。"
+          }
+        }
+      ]
+    }
+  ],
+  "relatedBandSlugs": [
+    "elvis-presley",
+    "chuck-berry",
+    "the-beatles",
+    "the-rolling-stones",
+    "the-beach-boys",
+    "the-who",
+    "the-kinks",
+    "pink-floyd",
+    "led-zeppelin",
+    "black-sabbath"
+  ],
   "relatedGenreSlugs": [
     "blues",
     "rock-n-roll",
-    "punk",
-    "grunge"
+    "psychedelic",
+    "hard-rock",
+    "progressive-rock",
+    "punk"
   ],
-  "relatedTropeSlugs": [
-    "creative-differences",
-    "classic-lineup",
-    "mustaine-never-forgets"
-  ]
+  "sectionsHeading": {
+    "en": "Chapter 1 · The night before",
+    "zh": "第一章 · 前夜"
+  }
 }

@@ -1,0 +1,39 @@
+{
+  "slug": "rock-history-1-6-nashville",
+  "order": 106,
+  "parentSlug": "how-to-read-rock-history",
+  "kind": "article",
+  "sectionLabel": "1.6",
+  "title": {
+    "en": "The rise of Nashville",
+    "zh": "纳什维尔的崛起"
+  },
+  "summary": {
+    "en": "Opry, Acuff-Rose, Hank Williams, bluegrass.",
+    "zh": "Opry、Acuff-Rose、Hank Williams、蓝草。"
+  },
+  "body": {
+    "en": "How do country and western become one city industry? Radio again—but not the daytime network middlebrow diet. Super stations mattered: power rules after sundown let WSM’s *Grand Ole Opry* and WLS’s *National Barn Dance* cover half a continent without a full network pipe. Barn Dance hit NBC in 1933; Opry followed in 1939. Career geography: get on the Opry.\n\nMusicians, publishers, studios, and instrument shops clustered in Nashville because the show did. Opry stage personas often played exaggerated “country” caricature (Minnie Pearl’s price-tag hat; Grandpa Jones in old-man drag on banjo)—performance of ruralness more than documentary.\n\nWWII mixed Northern and Southern troops; Roy Acuff became a military favorite (even turning up in enemy taunts). Veterans carried the sound north after 1945.\n\nAcuff-Rose (Roy Acuff + New York transplant Fred Rose) imported publishing discipline; catalog wins like Patti Page’s *Tennessee Waltz* (1950) funded expansion. Among 1946 signings: Hank Williams—dominant C&W voice of 1945–55, Nashville-made, dead by 1953 after a short run. First treated as a writer (Molly O'Day cut early songs); 1947’s *Move It On Over* is his own artist break; 1948 Louisiana Hayride precedes the Elvis path through Hayride/Opry. *Your Cheatin' Heart*, *Cold, Cold Heart*, *Hey Good Lookin'*, *I Saw the Light* map hurt, swagger, and church language.\n\nBluegrass crystallizes here: Bill Monroe & the Bluegrass Boys invent a style that sounds antique but dates after 1945—acoustic, often drumless, mandolin/banjo/guitar/fiddle, frequently one mic. Earl Scruggs’s banjo becomes the brand; Flatt & Scruggs spin off. Start with *Blue Moon of Kentucky* (1947)—Elvis cuts it at Sun in 1954.",
+    "zh": "乡村与西部怎么合成「一个城市的产业」？切入点仍是电台——但方式不同于主流流行。主流电台默认播主流流行或古典；乡村与西部、R&B 被认为不适合「正规」大网日播。真正关键的是超级电台：日落前后功率规则让部分台夜间覆盖数百英里。纳什维尔 WSM 的 *Grand Ole Opry*、芝加哥 WLS 的 *National Barn Dance*，不用广播网也能全国听。Barn Dance 1933 年上 NBC（30 分钟）；1939 年 NBC 也开始播 Opry。想在乡村/西部出头，几乎必须上 Opry。\n\n人涌进纳什维尔：录音棚、发行、琴行、经纪跟着来。Opry 塑造的「乡村人」形象往往是夸张的乡土漫画：Minnie Pearl 帽子上挂着价签；Grandpa Jones 戴假发假胡子扮暴躁班卓老头——角色大于本色，但有效。\n\n二战把南北人塞进同一通铺，北方兵第一次密集听到乡村，Roy Acuff 甚至成了美军最受欢迎歌手之一（神风特攻队口号里也曾点名他）。战后退伍兵把口味带回北方城市。\n\n1945 后纳什维尔成为中心，很大程度因为 Opry。Acuff-Rose 出版公司（Roy Acuff + 从纽约迁来的 Fred Rose）引入纽约式发行规矩；*Tennessee Waltz*（Patti Page，1950）版权在他们手里。1946 他们签下的词曲作者里有 Hank Williams：1945–1955 最重要的乡村/西部歌手之一，在纳什维尔打响，却英年早逝（首专约 1947，1953 去世）。公司起初把他当写手，Molly O'Day 先唱他的出版作品；1947 才有真正「自己的歌」*Move It On Over*；1948 上 Louisiana Hayride（Elvis 后来也走过 Hayride 与 Opry）。听 *Your Cheatin' Heart*、*Cold, Cold Heart*、*Hey Good Lookin'*、*I Saw the Light*，能感到受伤情歌、自信玩笑与教堂传统。\n\n蓝草（bluegrass）也在这时期成形：Bill Monroe & Bluegrass Boys 基本可视为创建者——听起来「很古老」，实际是 1945 后产物：原声、无鼓、曼陀林/班卓/木吉他/提琴，常共用一只麦。Earl Scruggs 的班卓成为标志；后与 Lester Flatt 另组 Flatt and Scruggs。入门可听 Bluegrass Boys 1947 的 *Blue Moon of Kentucky*——Elvis 1954 在 Sun 的早期作品也翻了它。"
+  },
+  "relatedBandSlugs": [
+    "elvis-presley",
+    "chuck-berry",
+    "the-beatles",
+    "the-rolling-stones",
+    "the-beach-boys",
+    "the-who",
+    "the-kinks",
+    "pink-floyd",
+    "led-zeppelin",
+    "black-sabbath"
+  ],
+  "relatedGenreSlugs": [
+    "blues",
+    "rock-n-roll",
+    "psychedelic",
+    "hard-rock",
+    "progressive-rock",
+    "punk"
+  ]
+}

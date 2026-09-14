@@ -52,12 +52,12 @@ export function HeroReveal() {
           sizes="100vw"
           className="object-cover object-[center_18%]"
         />
-        {/* Left almost fully masked; collage only reads clearly on the right half */}
+        {/* Left paper veil: opaque enough for title contrast, still lets cover peek through */}
         <div
           className="absolute inset-0"
           style={{
             background:
-              "linear-gradient(to right, var(--paper) 0%, var(--paper) 36%, color-mix(in srgb, var(--paper) 55%, transparent) 48%, transparent 64%)",
+              "linear-gradient(to right, color-mix(in srgb, var(--paper) 88%, transparent) 0%, color-mix(in srgb, var(--paper) 72%, transparent) 34%, color-mix(in srgb, var(--paper) 38%, transparent) 56%, transparent 76%)",
           }}
         />
       </div>
@@ -65,7 +65,7 @@ export function HeroReveal() {
       <button
         type="button"
         className="absolute top-0 right-0 z-[5] h-full w-1/2 cursor-default border-0 bg-transparent"
-        aria-label={revealed ? t.home.hoverHintHide : t.home.hoverHintShow}
+        aria-label={t.home.brand}
         tabIndex={-1}
         onFocus={() => setRevealed(true)}
         onBlur={() => setRevealed(false)}
@@ -80,9 +80,6 @@ export function HeroReveal() {
           <br />
           {t.home.titleLine2}
         </h1>
-        <p className="mt-6 max-w-md text-lg leading-relaxed text-ink-soft sm:text-xl">
-          {t.home.tagline}
-        </p>
         <div className="mt-10 flex flex-wrap gap-3">
           <Link
             href="/guide"
@@ -103,12 +100,6 @@ export function HeroReveal() {
             {t.home.genreMap}
           </Link>
         </div>
-        <p className="mt-10 max-w-xs text-xs tracking-wide text-muted">
-          {revealed ? t.home.hoverHintHide : t.home.hoverHintShow}
-        </p>
-        <p className="mt-6 text-xs uppercase tracking-[0.2em] text-muted">
-          {t.home.scroll}
-        </p>
       </div>
     </section>
   );

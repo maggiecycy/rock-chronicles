@@ -1,0 +1,1213 @@
+{
+  "version": 1,
+  "title": {
+    "en": "One band a day",
+    "zh": "每天认识一支乐队"
+  },
+  "intro": {
+    "en": "Day 0–99 follows the 100-act canon order. Notes and links fill in as you go—empty for now.",
+    "zh": "Day 0–99 按「100 支推动时间轴的乐队」顺序。笔记与链接随读随补——目前只列名单。"
+  },
+  "days": [
+    {
+      "day": 0,
+      "bandSlug": "elvis-presley",
+      "name": "Elvis Presley",
+      "eraSlug": "1950s-roots",
+      "signature": {
+        "title": "That's All Right",
+        "year": 1954
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 1,
+      "bandSlug": "chuck-berry",
+      "name": "Chuck Berry",
+      "eraSlug": "1950s-roots",
+      "signature": {
+        "title": "Johnny B. Goode",
+        "year": 1958
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 2,
+      "bandSlug": "the-beatles",
+      "name": "The Beatles",
+      "eraSlug": "1960s-british-invasion",
+      "signature": {
+        "title": "A Day in the Life",
+        "year": 1967
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 3,
+      "bandSlug": "the-beach-boys",
+      "name": "The Beach Boys",
+      "eraSlug": "1960s-british-invasion",
+      "signature": {
+        "title": "Good Vibrations",
+        "year": 1966
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 4,
+      "bandSlug": "the-rolling-stones",
+      "name": "The Rolling Stones",
+      "eraSlug": "1960s-british-invasion",
+      "signature": {
+        "title": "(I Can't Get No) Satisfaction",
+        "year": 1965
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 5,
+      "bandSlug": "the-kinks",
+      "name": "The Kinks",
+      "eraSlug": "1960s-british-invasion",
+      "signature": {
+        "title": "You Really Got Me",
+        "year": 1964
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 6,
+      "bandSlug": "the-yardbirds",
+      "name": "The Yardbirds",
+      "eraSlug": "1960s-british-invasion",
+      "signature": {
+        "title": "The Yardbirds",
+        "year": 1963
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 7,
+      "bandSlug": "the-velvet-underground",
+      "name": "The Velvet Underground",
+      "eraSlug": "1960s-british-invasion",
+      "signature": {
+        "title": "Heroin",
+        "year": 1967
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 8,
+      "bandSlug": "the-who",
+      "name": "The Who",
+      "eraSlug": "1960s-british-invasion",
+      "signature": {
+        "title": "Baba O'Riley",
+        "year": 1971
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 9,
+      "bandSlug": "the-doors",
+      "name": "The Doors",
+      "eraSlug": "1960s-british-invasion",
+      "signature": {
+        "title": "Light My Fire",
+        "year": 1967
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 10,
+      "bandSlug": "cream",
+      "name": "Cream",
+      "eraSlug": "1960s-british-invasion",
+      "signature": {
+        "title": "Sunshine of Your Love",
+        "year": 1967
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 11,
+      "bandSlug": "the-jimi-hendrix-experience",
+      "name": "The Jimi Hendrix Experience",
+      "eraSlug": "1960s-british-invasion",
+      "signature": {
+        "title": "Purple Haze",
+        "year": 1967
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 12,
+      "bandSlug": "lynyrd-skynyrd",
+      "name": "Lynyrd Skynyrd",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Free Bird",
+        "year": 1973
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 13,
+      "bandSlug": "pink-floyd",
+      "name": "Pink Floyd",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Comfortably Numb",
+        "year": 1979
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 14,
+      "bandSlug": "fleetwood-mac",
+      "name": "Fleetwood Mac",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Go Your Own Way",
+        "year": 1977
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 15,
+      "bandSlug": "black-sabbath",
+      "name": "Black Sabbath",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Paranoid",
+        "year": 1970
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 16,
+      "bandSlug": "deep-purple",
+      "name": "Deep Purple",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Smoke on the Water",
+        "year": 1972
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 17,
+      "bandSlug": "king-crimson",
+      "name": "King Crimson",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "21st Century Schizoid Man",
+        "year": 1969
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 18,
+      "bandSlug": "led-zeppelin",
+      "name": "Led Zeppelin",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Stairway to Heaven",
+        "year": 1971
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 19,
+      "bandSlug": "rush",
+      "name": "Rush",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Tom Sawyer",
+        "year": 1981
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 20,
+      "bandSlug": "david-bowie",
+      "name": "David Bowie",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Space Oddity",
+        "year": 1969
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 21,
+      "bandSlug": "aerosmith",
+      "name": "Aerosmith",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Walk This Way",
+        "year": 1975
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 22,
+      "bandSlug": "queen",
+      "name": "Queen",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Bohemian Rhapsody",
+        "year": 1975
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 23,
+      "bandSlug": "eagles",
+      "name": "Eagles",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Hotel California",
+        "year": 1976
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 24,
+      "bandSlug": "wings",
+      "name": "Wings",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Band on the Run",
+        "year": 1973
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 25,
+      "bandSlug": "ac-dc",
+      "name": "AC/DC",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Back in Black",
+        "year": 1980
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 26,
+      "bandSlug": "kiss",
+      "name": "Kiss",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Rock and Roll All Nite",
+        "year": 1975
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 27,
+      "bandSlug": "rainbow",
+      "name": "Rainbow",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Stargazer",
+        "year": 1976
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 28,
+      "bandSlug": "dire-straits",
+      "name": "Dire Straits",
+      "eraSlug": "1970s-prog-hard-rock",
+      "signature": {
+        "title": "Sultans of Swing",
+        "year": 1978
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 29,
+      "bandSlug": "ramones",
+      "name": "Ramones",
+      "eraSlug": "punk-postpunk",
+      "signature": {
+        "title": "Blitzkrieg Bop",
+        "year": 1976
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 30,
+      "bandSlug": "sex-pistols",
+      "name": "Sex Pistols",
+      "eraSlug": "punk-postpunk",
+      "signature": {
+        "title": "Anarchy in the U.K.",
+        "year": 1976
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 31,
+      "bandSlug": "talking-heads",
+      "name": "Talking Heads",
+      "eraSlug": "punk-postpunk",
+      "signature": {
+        "title": "Once in a Lifetime",
+        "year": 1980
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 32,
+      "bandSlug": "joy-division",
+      "name": "Joy Division",
+      "eraSlug": "punk-postpunk",
+      "signature": {
+        "title": "Love Will Tear Us Apart",
+        "year": 1980
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 33,
+      "bandSlug": "the-clash",
+      "name": "The Clash",
+      "eraSlug": "punk-postpunk",
+      "signature": {
+        "title": "London Calling",
+        "year": 1979
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 34,
+      "bandSlug": "the-police",
+      "name": "The Police",
+      "eraSlug": "punk-postpunk",
+      "signature": {
+        "title": "Every Breath You Take",
+        "year": 1983
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 35,
+      "bandSlug": "the-cure",
+      "name": "The Cure",
+      "eraSlug": "punk-postpunk",
+      "signature": {
+        "title": "Just Like Heaven",
+        "year": 1987
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 36,
+      "bandSlug": "depeche-mode",
+      "name": "Depeche Mode",
+      "eraSlug": "punk-postpunk",
+      "signature": {
+        "title": "Enjoy the Silence",
+        "year": 1990
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 37,
+      "bandSlug": "new-order",
+      "name": "New Order",
+      "eraSlug": "punk-postpunk",
+      "signature": {
+        "title": "Blue Monday",
+        "year": 1983
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 38,
+      "bandSlug": "billy-idol",
+      "name": "Billy Idol",
+      "eraSlug": "punk-postpunk",
+      "signature": {
+        "title": "Rebel Yell",
+        "year": 1983
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 39,
+      "bandSlug": "sonic-youth",
+      "name": "Sonic Youth",
+      "eraSlug": "punk-postpunk",
+      "signature": {
+        "title": "Teen Age Riot",
+        "year": 1988
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 40,
+      "bandSlug": "the-smiths",
+      "name": "The Smiths",
+      "eraSlug": "punk-postpunk",
+      "signature": {
+        "title": "There Is a Light That Never Goes Out",
+        "year": 1986
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 41,
+      "bandSlug": "pixies",
+      "name": "Pixies",
+      "eraSlug": "punk-postpunk",
+      "signature": {
+        "title": "Where Is My Mind?",
+        "year": 1988
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 42,
+      "bandSlug": "judas-priest",
+      "name": "Judas Priest",
+      "eraSlug": "1980s-metal",
+      "signature": {
+        "title": "Painkiller",
+        "year": 1990
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 43,
+      "bandSlug": "van-halen",
+      "name": "Van Halen",
+      "eraSlug": "1980s-metal",
+      "signature": {
+        "title": "Eruption",
+        "year": 1978
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 44,
+      "bandSlug": "iron-maiden",
+      "name": "Iron Maiden",
+      "eraSlug": "1980s-metal",
+      "signature": {
+        "title": "The Trooper",
+        "year": 1983
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 45,
+      "bandSlug": "motorhead",
+      "name": "Motörhead",
+      "eraSlug": "1980s-metal",
+      "signature": {
+        "title": "Ace of Spades",
+        "year": 1980
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 46,
+      "bandSlug": "metallica",
+      "name": "Metallica",
+      "eraSlug": "1980s-metal",
+      "signature": {
+        "title": "Master of Puppets",
+        "year": 1986
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 47,
+      "bandSlug": "pantera",
+      "name": "Pantera",
+      "eraSlug": "1980s-metal",
+      "signature": {
+        "title": "Walk",
+        "year": 1992
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 48,
+      "bandSlug": "slayer",
+      "name": "Slayer",
+      "eraSlug": "1980s-metal",
+      "signature": {
+        "title": "Raining Blood",
+        "year": 1986
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 49,
+      "bandSlug": "bon-jovi",
+      "name": "Bon Jovi",
+      "eraSlug": "1980s-metal",
+      "signature": {
+        "title": "Livin' on a Prayer",
+        "year": 1986
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 50,
+      "bandSlug": "megadeth",
+      "name": "Megadeth",
+      "eraSlug": "1980s-metal",
+      "signature": {
+        "title": "Holy Wars... The Punishment Due",
+        "year": 1990
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 51,
+      "bandSlug": "guns-n-roses",
+      "name": "Guns N' Roses",
+      "eraSlug": "1980s-metal",
+      "signature": {
+        "title": "Sweet Child O' Mine",
+        "year": 1987
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 52,
+      "bandSlug": "r-e-m",
+      "name": "R.E.M.",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Losing My Religion",
+        "year": 1991
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 53,
+      "bandSlug": "my-bloody-valentine",
+      "name": "My Bloody Valentine",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Only Shallow",
+        "year": 1991
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 54,
+      "bandSlug": "red-hot-chili-peppers",
+      "name": "Red Hot Chili Peppers",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Californication",
+        "year": 1999
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 55,
+      "bandSlug": "soundgarden",
+      "name": "Soundgarden",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Black Hole Sun",
+        "year": 1994
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 56,
+      "bandSlug": "radiohead",
+      "name": "Radiohead",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Paranoid Android",
+        "year": 1997
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 57,
+      "bandSlug": "alice-in-chains",
+      "name": "Alice in Chains",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Man in the Box",
+        "year": 1990
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 58,
+      "bandSlug": "green-day",
+      "name": "Green Day",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Basket Case",
+        "year": 1994
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 59,
+      "bandSlug": "nirvana",
+      "name": "Nirvana",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Smells Like Teen Spirit",
+        "year": 1991
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 60,
+      "bandSlug": "nine-inch-nails",
+      "name": "Nine Inch Nails",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Closer",
+        "year": 1994
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 61,
+      "bandSlug": "smashing-pumpkins",
+      "name": "The Smashing Pumpkins",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "1979",
+        "year": 1996
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 62,
+      "bandSlug": "slowdive",
+      "name": "Slowdive",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Alison",
+        "year": 1993
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 63,
+      "bandSlug": "the-cranberries",
+      "name": "The Cranberries",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Zombie",
+        "year": 1994
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 64,
+      "bandSlug": "pearl-jam",
+      "name": "Pearl Jam",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Alive",
+        "year": 1991
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 65,
+      "bandSlug": "tool",
+      "name": "Tool",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Schism",
+        "year": 2001
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 66,
+      "bandSlug": "rage-against-the-machine",
+      "name": "Rage Against the Machine",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Killing in the Name",
+        "year": 1992
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 67,
+      "bandSlug": "foo-fighters",
+      "name": "Foo Fighters",
+      "eraSlug": "1990s-grunge-alt",
+      "signature": {
+        "title": "Everlong",
+        "year": 1997
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 68,
+      "bandSlug": "pulp",
+      "name": "Pulp",
+      "eraSlug": "1990s-britpop",
+      "signature": {
+        "title": "Common People",
+        "year": 1995
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 69,
+      "bandSlug": "the-stone-roses",
+      "name": "The Stone Roses",
+      "eraSlug": "1990s-britpop",
+      "signature": {
+        "title": "Fools Gold",
+        "year": 1989
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 70,
+      "bandSlug": "blur",
+      "name": "Blur",
+      "eraSlug": "1990s-britpop",
+      "signature": {
+        "title": "Song 2",
+        "year": 1997
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 71,
+      "bandSlug": "suede",
+      "name": "Suede",
+      "eraSlug": "1990s-britpop",
+      "signature": {
+        "title": "Beautiful Ones",
+        "year": 1996
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 72,
+      "bandSlug": "the-verve",
+      "name": "The Verve",
+      "eraSlug": "1990s-britpop",
+      "signature": {
+        "title": "Bitter Sweet Symphony",
+        "year": 1997
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 73,
+      "bandSlug": "oasis",
+      "name": "Oasis",
+      "eraSlug": "1990s-britpop",
+      "signature": {
+        "title": "Wonderwall",
+        "year": 1995
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 74,
+      "bandSlug": "deftones",
+      "name": "Deftones",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "Change (In the House of Flies)",
+        "year": 2000
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 75,
+      "bandSlug": "muse",
+      "name": "Muse",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "Knights of Cydonia",
+        "year": 2006
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 76,
+      "bandSlug": "system-of-a-down",
+      "name": "System of a Down",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "Chop Suey!",
+        "year": 2001
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 77,
+      "bandSlug": "evanescence",
+      "name": "Evanescence",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "Bring Me to Life",
+        "year": 2003
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 78,
+      "bandSlug": "coldplay",
+      "name": "Coldplay",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "Yellow",
+        "year": 2000
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 79,
+      "bandSlug": "linkin-park",
+      "name": "Linkin Park",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "In the End",
+        "year": 2000
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 80,
+      "bandSlug": "queens-of-the-stone-age",
+      "name": "Queens of the Stone Age",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "No One Knows",
+        "year": 2002
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 81,
+      "bandSlug": "interpol",
+      "name": "Interpol",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "Obstacle 1",
+        "year": 2002
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 82,
+      "bandSlug": "the-libertines",
+      "name": "The Libertines",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "Can't Stand Me Now",
+        "year": 2004
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 83,
+      "bandSlug": "the-white-stripes",
+      "name": "The White Stripes",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "Seven Nation Army",
+        "year": 2003
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 84,
+      "bandSlug": "the-strokes",
+      "name": "The Strokes",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "Last Nite",
+        "year": 2001
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 85,
+      "bandSlug": "kings-of-leon",
+      "name": "Kings of Leon",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "Sex on Fire",
+        "year": 2008
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 86,
+      "bandSlug": "fall-out-boy",
+      "name": "Fall Out Boy",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "Sugar, We're Goin Down",
+        "year": 2005
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 87,
+      "bandSlug": "the-killers",
+      "name": "The Killers",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "Mr. Brightside",
+        "year": 2003
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 88,
+      "bandSlug": "arctic-monkeys",
+      "name": "Arctic Monkeys",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "I Bet You Look Good on the Dancefloor",
+        "year": 2005
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 89,
+      "bandSlug": "franz-ferdinand",
+      "name": "Franz Ferdinand",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "Take Me Out",
+        "year": 2004
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 90,
+      "bandSlug": "bring-me-the-horizon",
+      "name": "Bring Me the Horizon",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "Can You Feel My Heart",
+        "year": 2013
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 91,
+      "bandSlug": "them-crooked-vultures",
+      "name": "Them Crooked Vultures",
+      "eraSlug": "2000s-revival",
+      "signature": {
+        "title": "New Fang",
+        "year": 2009
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 92,
+      "bandSlug": "godspeed-you-black-emperor",
+      "name": "Godspeed You! Black Emperor",
+      "eraSlug": "2010s-indie-modern",
+      "signature": {
+        "title": "East Hastings",
+        "year": 1998
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 93,
+      "bandSlug": "sigur-ros",
+      "name": "Sigur Rós",
+      "eraSlug": "2010s-indie-modern",
+      "signature": {
+        "title": "Hoppípolla",
+        "year": 2005
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 94,
+      "bandSlug": "mogwai",
+      "name": "Mogwai",
+      "eraSlug": "2010s-indie-modern",
+      "signature": {
+        "title": "Auto Rock",
+        "year": 2006
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 95,
+      "bandSlug": "explosions-in-the-sky",
+      "name": "Explosions in the Sky",
+      "eraSlug": "2010s-indie-modern",
+      "signature": {
+        "title": "Your Hand in Mine",
+        "year": 2003
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 96,
+      "bandSlug": "tame-impala",
+      "name": "Tame Impala",
+      "eraSlug": "2010s-indie-modern",
+      "signature": {
+        "title": "The Less I Know the Better",
+        "year": 2015
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 97,
+      "bandSlug": "idles",
+      "name": "IDLES",
+      "eraSlug": "2010s-indie-modern",
+      "signature": {
+        "title": "Never Fight a Man With a Perm",
+        "year": 2018
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 98,
+      "bandSlug": "maneskin",
+      "name": "Måneskin",
+      "eraSlug": "2010s-indie-modern",
+      "signature": {
+        "title": "I Wanna Be Your Slave",
+        "year": 2021
+      },
+      "note": null,
+      "links": []
+    },
+    {
+      "day": 99,
+      "bandSlug": "fontaines-dc",
+      "name": "Fontaines D.C.",
+      "eraSlug": "2010s-indie-modern",
+      "signature": {
+        "title": "Boys in the Better Land",
+        "year": 2019
+      },
+      "note": null,
+      "links": []
+    }
+  ]
+}

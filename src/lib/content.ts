@@ -32,6 +32,8 @@ import {
   getAllErasFromJson,
   getAllGenresFromJson,
   getAllGuidesFromJson,
+  getGuideChildrenFromJson,
+  getTopLevelGuidesFromJson,
   getAllLivesFromJson,
   getAllPeopleFromJson,
   getAllTropesFromJson,
@@ -260,6 +262,35 @@ export async function getAllGuides(): Promise<GuideArticle[]> {
     }
   }
   return getAllGuidesFromJson();
+}
+
+/** Guides shown on /guide — excludes child sections. */
+export async function getTopLevelGuides(): Promise<GuideArticle[]> {
+  if (preferLocalJson()) return getTopLevelGuidesFromJson();
+  if (useDatabase()) {
+    try {
+      const rows = await dbAllGuides();
+      if (rows.length > 0) {
+        return rows
+          .filter((g) => !g.parentSlug)
+          .sort((a, b) => a.order - b.order);
+      }
+    } catch {
+      /* fall through */
+    }
+  }
+  return getTopLevelGuidesFromJson();
+}
+
+export async function getGuideChildren(
+  parentSlug: string,
+): Promise<GuideArticle[]> {
+  if (preferLocalJson()) return getGuideChildrenFromJson(parentSlug);
+  // DB path: filter in memory until schema grows parentSlug
+  const all = await getAllGuides();
+  return all
+    .filter((g) => g.parentSlug === parentSlug)
+    .sort((a, b) => a.order - b.order);
 }
 
 export async function getGuide(

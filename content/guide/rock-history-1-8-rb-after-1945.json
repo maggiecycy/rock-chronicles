@@ -1,0 +1,39 @@
+{
+  "slug": "rock-history-1-8-rb-after-1945",
+  "order": 108,
+  "parentSlug": "how-to-read-rock-history",
+  "kind": "article",
+  "sectionLabel": "1.8",
+  "title": {
+    "en": "R&B after 1945",
+    "zh": "1945 年后的 R&B"
+  },
+  "summary": {
+    "en": "Migration, indie labels: Chess, Atlantic, Sun, Specialty, Imperial, Dot.",
+    "zh": "北迁与独立厂牌：Chess、Atlantic、Sun、Specialty、Imperial、Dot。"
+  },
+  "body": {
+    "en": "1945–55 Black migration into Northern industrial cities, still under segregation, concentrates audiences. Indie labels open where the listeners are. TV steals network radio attention; local stations hunt local advertisers—and Black communities become a clear buy, so R&B blocks fill the schedule.\n\nChess (Chicago, 1947): Chicago electric blues—Muddy Waters, Howlin’ Wolf, Bo Diddley; also Chuck Berry. Small shop, rough-edged sonics Britain later fetishizes. Atlantic (New York, 1948): arranged, studio-musician, hi-fi R&B under Ahmet Ertegun; Tom Dowd engineers early multitrack polish—Ruth Brown, Ray Charles, Joe Turner, the Drifters. Sun (Memphis, Sam Phillips): mostly Black sessions before Elvis; *Rocket 88* (1951) recorded for Phillips, issued on Chess; Elvis sold to RCA; later Jerry Lee Lewis, Carl Perkins, Johnny Cash, Roy Orbison. Specialty (Art Rupe) houses Little Richard; Imperial (Lew Chudd) issues Fats Domino (cut in New Orleans with Dave Bartholomew); Dot (Randy Wood) pushes Pat Boone’s cleaned-up crossover covers of R&B hits.\n\nMajors nationalize pop; indies own regional R&B until rock sales force the majors to notice.",
+    "zh": "1945–1955，南方黑人北迁进入芝加哥、底特律、巴尔的摩、纽约等工厂城市；隔离仍严，社区聚居反而给 R&B 市场加温。独立厂牌（indie labels）在这些城市冒出来：有人群就有唱片需求。同时听众注意力向电视转移，广播网时段空出来，地方台改打本地广告——黑人社区成为明确客户，R&B 节目找到生存缝。\n\n重要厂牌：\n\nChess（芝加哥，1947，Phil & Leonard Chess）：Chicago Electric Blues——Muddy Waters、Howlin' Wolf、Bo Diddley；也发 Chuck Berry。声音偏「原始/粗糙」，后来英国布鲁斯爱的就是这味。小团队、老板亲自跑店铺货，做不大反而是常态。\n\nAtlantic（纽约，1948，Ahmet Ertegun & Herb Abramson）：更「主流」的编曲与棚乐手，追求干净录音；工程师 Tom Dowd 是关键人物，很早用上八轨。旗下 Ruth Brown、Ray Charles、Joe Turner、The Drifters 等。\n\nSun（孟菲斯，Sam Phillips）：1953 前后从录音棚生意做起，早期几乎只录黑人音乐；1951 的 *Rocket 88*（Jackie Brenston / Ike Turner）在 Sun 录、卖给 Chess 发行。后签 Elvis，再把合约卖给 RCA；50 年代后期还有 Jerry Lee Lewis、Carl Perkins、Johnny Cash、Roy Orbison。\n\nSpecialty（洛杉矶，Art Rupe，1945）：Little Richard 的主要东家。Imperial（Lew Chudd，1947）：Fats Domino（多在新奥尔良由 Dave Bartholomew 制作）。Dot（Randy Wood，1951）：Pat Boone——常被认为「白人干净版」，也灌了大量 R&B 热歌的翻唱市场。\n\n大厂牌能全国铺货，独立厂牌基本区域性。大厂盯着主流流行，把 R&B 缝留给独立厂；等摇滚起来独立厂大卖，大厂才回头抢。"
+  },
+  "relatedBandSlugs": [
+    "elvis-presley",
+    "chuck-berry",
+    "the-beatles",
+    "the-rolling-stones",
+    "the-beach-boys",
+    "the-who",
+    "the-kinks",
+    "pink-floyd",
+    "led-zeppelin",
+    "black-sabbath"
+  ],
+  "relatedGenreSlugs": [
+    "blues",
+    "rock-n-roll",
+    "psychedelic",
+    "hard-rock",
+    "progressive-rock",
+    "punk"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "rock-history-1-4-les-paul",
+  "order": 104,
+  "parentSlug": "how-to-read-rock-history",
+  "kind": "article",
+  "sectionLabel": "1.4",
+  "title": {
+    "en": "Les Paul and the impact of technology",
+    "zh": "Les Paul 以及科技的影响"
+  },
+  "summary": {
+    "en": "Overdubbing, tape, and solid-body electric guitar.",
+    "zh": "叠录、磁带录音与实心电吉他。"
+  },
+  "body": {
+    "en": "Les Paul is a person before he is a Gibson model: top jazz/pop guitarist, Crosby sideman, then a duo with Mary Ford. They built songs by overdubbing on dual-disc cutters—bounce track A while adding part two to disc B, stacking guitars and vocals until two people sounded like a section.\n\nHe also bet early on tape. German wartime magnetic tape existed partly so Hitler’s speeches could air without putting him in a bombable studio; Allied seizure revealed the fidelity. Les Paul pushed Crosby toward Ampex investment; Crosby got rich and gifted Les an early eight-track—“the octopus.” Multitrack rock waiting until the late 1960s does not erase the fact that he was already stacking parts in the early 1950s.\n\nSolid-body electric guitar has many fathers; Les Paul is one of the early serious builders and later Gibson’s partner on the Les Paul line. Overdubbing, tape, and solid-body electrics are the durable rock tools here. His records are not rock records; Jimmy Page’s generation still learned from him.",
+    "zh": "Les Paul 不只是 Gibson 琴型名，也是人：40 年代到摇滚前夜，他是爵士/流行顶尖吉他手之一，给 Crosby 弹过，也有自己的乐队，后与妻子 Mary Ford 组双人组合。\n\n他们用叠录（overdub）：双唱盘刻录机先把音轨刻到 A，回放 A 同时加第二轨刻到 B，如此叠加无数层吉他与人声——两个人就能做出厚编排。Les Paul 也预见到磁带录音会改写产业。磁带由德国人在二战中发展，用来高保真重放希特勒演讲，避免本人上电台被定位轰炸。盟军缴获设备后才发现其保真度。Les Paul 说服 Crosby 投资 Ampex，Crosby 后来大赚，并送给 Les Paul 早期八轨机——他叫它「八爪章鱼」。八轨进摇滚主流要到 60 年代末，但他 50 年代初就在用。\n\n实心电吉他（solid body electric guitar）常被说成 Les Paul「发明」——不完全准确，但他是早期关键研发者之一，后与 Gibson 合作，Les Paul 琴型成为标志。\n\n叠录、磁带、实心电吉他，都长远影响了摇滚。他本人的音乐不是摇滚，但 Jimmy Page 等一代吉他手是他的听众；他开发的技术吃了后面几十年。"
+  },
+  "relatedBandSlugs": [
+    "elvis-presley",
+    "chuck-berry",
+    "the-beatles",
+    "the-rolling-stones",
+    "the-beach-boys",
+    "the-who",
+    "the-kinks",
+    "pink-floyd",
+    "led-zeppelin",
+    "black-sabbath"
+  ],
+  "relatedGenreSlugs": [
+    "blues",
+    "rock-n-roll",
+    "psychedelic",
+    "hard-rock",
+    "progressive-rock",
+    "punk"
+  ]
+}

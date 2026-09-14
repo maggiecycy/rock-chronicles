@@ -1,0 +1,39 @@
+{
+  "slug": "rock-history-1-7-rb-before-1945",
+  "order": 107,
+  "parentSlug": "how-to-read-rock-history",
+  "kind": "article",
+  "sectionLabel": "1.7",
+  "title": {
+    "en": "R&B before 1945",
+    "zh": "1945 年前的 R&B"
+  },
+  "summary": {
+    "en": "Race records, Bessie Smith, Robert Johnson, jump blues.",
+    "zh": "Race Records、Bessie Smith、Robert Johnson、Jump Blues。"
+  },
+  "body": {
+    "en": "R&B names a market first: Black makers, Black primary buyers—with wide musical range underneath. Post-1945 charts make the split obvious: pop is the big board; C&W and R&B are specialty boards. Older trade labels (Hillbilly, Race) were racist in wording; the industry used them as jukebox/retail weather reports, not fan magazines.\n\nW.C. Handy sold blues as sheet music before WWI (*Memphis Blues*, *St. Louis Blues*). 1920s race records crown Bessie Smith—*Down Hearted Blues* (1923) moves a million, polished rather than purely “raw Delta.” Field trips then surface rural/Delta players; Robert Johnson (dead 1938) is the mythic solo guitar case—*Cross Road Blues* is the rock-history required listen (Cream/Clapton later). The crossroads-soul bargain is folklore; the guitar vocabulary is not.\n\n1940s Jump Blues shrinks big-band brass into small combos. Louis Jordan & His Tympany Five crossover hard: *Caldonia* (1945), *Choo Choo Ch'Boogie* (1946) land on both R&B and pop charts.",
+    "zh": "R&B（Rhythm and Blues）首先是市场分类：创作者与受众主要是非裔美国人。音乐性相对有共性，但范畴比名字宽。1945 后榜单会更醒目：主流最大，乡村/西部与 R&B 是小众分榜。早期称谓很糙——乡村曾叫 Hillbilly Records，R&B 曾叫 Race Records——带种族主义味道。产业用分榜服务点唱机店、唱片店、电台进货，不是给粉丝写乐评。\n\n一战前 W.C. Handy 靠 *Memphis Blues*、*St. Louis Blues* 等乐谱赚到钱。最早布鲁斯唱片在 20 年代，巨星 Bessie Smith：*Down Hearted Blues*（1923）销量过百万，唱法精致，不是人们刻板印象里完全「粗糙 Delta」。随后有人下乡找 Rural / Delta Blues，最传奇的是 Robert Johnson（1938 英年早逝）：一人吉他、松散拍子、表现力强；摇滚听众至少该知道 *Cross Road Blues*（Cream / Clapton 60 年代末翻唱）。十字路口卖魂换技术的故事是神话，但有助于理解他被神化的方式。\n\n40 年代 Jump Blues 兴起：大乐队编制缩成小号编制，Louis Jordan & His Tympany Five 是佼佼者，*Caldonia*（1945）、*Choo Choo Ch'Boogie*（1946）同时打进 R&B 与主流榜——又一次 crossover。"
+  },
+  "relatedBandSlugs": [
+    "elvis-presley",
+    "chuck-berry",
+    "the-beatles",
+    "the-rolling-stones",
+    "the-beach-boys",
+    "the-who",
+    "the-kinks",
+    "pink-floyd",
+    "led-zeppelin",
+    "black-sabbath"
+  ],
+  "relatedGenreSlugs": [
+    "blues",
+    "rock-n-roll",
+    "psychedelic",
+    "hard-rock",
+    "progressive-rock",
+    "punk"
+  ]
+}

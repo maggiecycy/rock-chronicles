@@ -1,4 +1,4 @@
-import { getAllGuides } from "@/lib/content";
+import { getTopLevelGuides } from "@/lib/content";
 import { GuideIndex } from "@/components/GuideIndex";
 
 export const metadata = {
@@ -6,6 +6,6 @@ export const metadata = {
 };
 
 export default async function GuidePage() {
-  const articles = await getAllGuides();
+  const articles = await getTopLevelGuides();
   return <GuideIndex articles={articles} />;
 }

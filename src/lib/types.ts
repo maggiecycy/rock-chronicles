@@ -57,7 +57,7 @@ export interface Person {
   roles: string[];
   hub: boolean;
   shortBio: Localized;
-  whyHub: Localized;
+  whyHub?: Localized;
   body: Localized;
   tenures: PersonTenure[];
   relatedPeople?: string[];
@@ -189,12 +189,39 @@ export interface Trope {
   examples: TropeExample[];
 }
 
+export interface GuideOutlineItem {
+  label: string;
+  title: Localized;
+  /** Optional blurb (e.g. further-reading notes on a TOC page) */
+  summary?: Localized;
+  /** When set, links to that guide slug; omit for stub / not written yet */
+  slug?: string;
+}
+
+export interface GuideOutlineChapter {
+  heading: Localized;
+  items: GuideOutlineItem[];
+}
+
 export interface GuideArticle {
   slug: string;
   order: number;
   title: Localized;
   summary: Localized;
   body: Localized;
+  /**
+   * Parent syllabus slug. Child sections are hidden from /guide index
+   * and listed on the parent TOC page.
+   */
+  parentSlug?: string;
+  /** toc = directory page; article = lecture (default); stub = placeholder */
+  kind?: "toc" | "article" | "stub";
+  /** Display label like "1.1" on TOC rows */
+  sectionLabel?: string;
+  /** Heading above live child section links on a TOC page */
+  sectionsHeading?: Localized;
+  /** Extra chapters/sections listed on a TOC page (often stubs) */
+  outline?: GuideOutlineChapter[];
   relatedBandSlugs?: string[];
   relatedGenreSlugs?: string[];
   relatedTropeSlugs?: string[];

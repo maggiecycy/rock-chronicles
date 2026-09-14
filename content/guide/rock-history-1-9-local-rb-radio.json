@@ -1,0 +1,39 @@
+{
+  "slug": "rock-history-1-9-local-rb-radio",
+  "order": 109,
+  "parentSlug": "how-to-read-rock-history",
+  "kind": "article",
+  "sectionLabel": "1.9",
+  "title": {
+    "en": "Local R&B radio in the 1950s",
+    "zh": "20 世纪 50 年代的地方 R&B 电台"
+  },
+  "summary": {
+    "en": "Black-oriented radio, Alan Freed, white teen eavesdroppers.",
+    "zh": "面向黑人社区的电台、Alan Freed、偷听的白人少年。"
+  },
+  "body": {
+    "en": "Indie distribution is a car trunk; major distribution is a network. Before 1955 they can coexist. Local R&B radio is the pressure valve.\n\nStations court urban Black listeners with music plus ads for places that will actually serve them under Jim Crow—commercial, but also a map of safe commerce. Key outlets: WDIA Memphis (Rufus Thomas, B.B. King as DJs), WHBQ’s Dewey Phillips (early Elvis *That's All Right* airplay), WLAC Nashville, WGST Atlanta, KFVD Los Angeles (Hunter Hancock).\n\nAlan Freed’s 1951 Cleveland show already sits in a national field of R&B DJs. Some Black listeners assumed the voice was Black—Freed was white—proof that the color line was leakier than the rhetoric. In New York on WINS the show morphs from Moon Dog to Rock and Roll Party (name fight with street performer Moon Dog); Freed claims the phrase. Whatever the etymology, the NYC platform scales it.\n\nPortable and car radios let white teens eavesdrop without entering Black clubs or shops. When Freed packages “all-Black” package shows and finds white kids filling seats, the secret audience is visible. That teenage listenership is load-bearing for rock’s 1955 crossover.",
+    "zh": "独立厂牌靠卡车送货，辐射有限；主流厂有全国销售网。1955 年前两者尚能共存，摇滚崛起后格局变了。先把地方 R&B 电台讲透。\n\n电台发现城市非裔是庞大消费群体：节目帮广告商找到「黑人能进的店与场」——在隔离社会里，这客观上也有信息服务功能。重要电台/DJ：孟菲斯 WDIA（Rufus Thomas、B.B. King 做过 DJ）、WHBQ（Dewey Phillips——Elvis *That's All Right* 最早广播推手之一）、纳什维尔 WLAC（Gene Nobles、John R.、Hoss Allen）、亚特兰大 WGST（「Daddy」Sears）、洛杉矶 KFVD（Hunter Hancock）。\n\nAlan Freed 1951 年在克利夫兰 WJW 开播时，全国已有白人/黑人 DJ 在播黑人音乐。有听众以为电波里的 Freed 是黑人，见面才发现是白人——肤色界线比刻板印象模糊。Freed 后来到纽约 WINS，节目从 Moon Dog Show 改名 Rock and Roll Party（因 Moon Dog 名字纠纷），并宣称发明了 rock and roll 一词；真假另说，但纽约平台放大了这个标签。\n\n关键转折：便携与车载收音机让白人青少年也能偷听这些台。他们进不了某些俱乐部或黑区唱片店，但能拧旋钮。Freed 办「全黑人艺人」巡演时，台下却坐满白人少年——电台以为服务黑人，实际也在培养未来的摇滚听众。这对 1955 年摇滚进主流至关重要。"
+  },
+  "relatedBandSlugs": [
+    "elvis-presley",
+    "chuck-berry",
+    "the-beatles",
+    "the-rolling-stones",
+    "the-beach-boys",
+    "the-who",
+    "the-kinks",
+    "pink-floyd",
+    "led-zeppelin",
+    "black-sabbath"
+  ],
+  "relatedGenreSlugs": [
+    "blues",
+    "rock-n-roll",
+    "psychedelic",
+    "hard-rock",
+    "progressive-rock",
+    "punk"
+  ]
+}

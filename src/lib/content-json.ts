@@ -86,8 +86,19 @@ export function getAllGuidesFromJson(): GuideArticle[] {
   return readJsonDir<GuideArticle>("guide").sort((a, b) => a.order - b.order);
 }
 
+/** Top-level guides only (no parentSlug) — for /guide index. */
+export function getTopLevelGuidesFromJson(): GuideArticle[] {
+  return getAllGuidesFromJson().filter((g) => !g.parentSlug);
+}
+
 export function getGuideFromJson(slug: string): GuideArticle | undefined {
   return getAllGuidesFromJson().find((g) => g.slug === slug);
+}
+
+export function getGuideChildrenFromJson(parentSlug: string): GuideArticle[] {
+  return getAllGuidesFromJson()
+    .filter((g) => g.parentSlug === parentSlug)
+    .sort((a, b) => a.order - b.order);
 }
 
 export function getAllTropesFromJson(): Trope[] {
