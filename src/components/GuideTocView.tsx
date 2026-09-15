@@ -3,7 +3,21 @@
 import Link from "next/link";
 import { useLocale } from "@/i18n/LocaleProvider";
 import { loc } from "@/i18n/config";
-import type { GuideArticle } from "@/lib/types";
+import type { GuideArticle, GuideOutlineChapter } from "@/lib/types";
+
+function chapterNum(label: string | undefined): number | null {
+  if (!label) return null;
+  const m = /^(\d+)\./.exec(label.trim());
+  return m ? Number(m[1]) : null;
+}
+
+function outlineChapterNum(chapter: GuideOutlineChapter): number | null {
+  for (const item of chapter.items) {
+    const n = chapterNum(item.label);
+    if (n != null) return n;
+  }
+  return null;
+}
 
 export function GuideTocView({
   article,
@@ -16,6 +30,31 @@ export function GuideTocView({
   const intro = loc(article.body, locale)
     .split("\n\n")
     .filter((p) => p.trim().length > 0);
+
+  const byChapter = new Map<number, GuideArticle[]>();
+  for (const child of sections) {
+    const n = chapterNum(child.sectionLabel);
+    if (n == null) continue;
+    const list = byChapter.get(n) ?? [];
+    list.push(child);
+    byChapter.set(n, list);
+  }
+  for (const list of byChapter.values()) {
+    list.sort((a, b) => a.order - b.order);
+  }
+
+  const liveChapterNums = new Set(byChapter.keys());
+
+  const chapterHeading = (n: number): string => {
+    if (n === 1) {
+      return loc(article.sectionsHeading, locale) || t.guide.availableSections;
+    }
+    const fromOutline = (article.outline ?? []).find(
+      (ch) => outlineChapterNum(ch) === n,
+    );
+    if (fromOutline) return loc(fromOutline.heading, locale);
+    return `${t.guide.section} ${n}`;
+  };
 
   return (
     <main className="mx-auto max-w-3xl px-4 py-10 sm:px-6 sm:py-14">
@@ -39,44 +78,54 @@ export function GuideTocView({
         </div>
       )}
 
-      {sections.length > 0 && (
-        <section className="mt-12">
-          <h2 className="font-display text-2xl font-semibold">
-            {loc(article.sectionsHeading, locale) || t.guide.availableSections}
-          </h2>
-          <ul className="mt-4 divide-y-2 divide-ink border-2 border-ink">
-            {sections.map((child) => (
-              <li key={child.slug}>
-                <Link
-                  href={`/guide/${child.slug}`}
-                  className="flex gap-4 px-4 py-4 transition-colors hover:bg-ink hover:text-paper"
-                >
-                  <span className="shrink-0 text-xs font-medium uppercase tracking-wider opacity-70">
-                    {child.sectionLabel ?? ""}
-                  </span>
-                  <span className="min-w-0 flex-1">
-                    <span className="font-display text-lg font-semibold">
-                      {loc(child.title, locale)}
-                    </span>
-                    {loc(child.summary, locale) && (
-                      <span className="mt-1 block text-sm opacity-80">
-                        {loc(child.summary, locale)}
+      {[...byChapter.keys()]
+        .sort((a, b) => a - b)
+        .map((n) => {
+          const kids = byChapter.get(n) ?? [];
+          return (
+            <section key={`live-${n}`} className="mt-12">
+              <h2 className="font-display text-2xl font-semibold text-ink">
+                {chapterHeading(n)}
+              </h2>
+              <ul className="mt-4 divide-y-2 divide-ink border-2 border-ink">
+                {kids.map((child) => (
+                  <li key={child.slug}>
+                    <Link
+                      href={`/guide/${child.slug}`}
+                      className="flex gap-4 px-4 py-4 transition-colors hover:bg-ink hover:text-paper"
+                    >
+                      <span className="shrink-0 text-xs font-medium uppercase tracking-wider opacity-70">
+                        {child.sectionLabel ?? ""}
                       </span>
-                    )}
-                  </span>
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </section>
-      )}
+                      <span className="min-w-0 flex-1">
+                        <span className="font-display text-lg font-semibold">
+                          {loc(child.title, locale)}
+                        </span>
+                        {loc(child.summary, locale) ? (
+                          <span className="mt-1 block text-sm opacity-80">
+                            {loc(child.summary, locale)}
+                          </span>
+                        ) : null}
+                      </span>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          );
+        })}
 
       {(article.outline ?? []).map((chapter, ci) => {
+        const n = outlineChapterNum(chapter);
+        // Already rendered as live section links above
+        if (n != null && liveChapterNums.has(n)) return null;
+
         const isReadingList = chapter.items.some((item) =>
           Boolean(loc(item.summary, locale)),
         );
+
         return (
-          <section key={ci} className="mt-12">
+          <section key={`outline-${ci}`} className="mt-12">
             <h2 className="font-display text-2xl font-semibold text-ink">
               {loc(chapter.heading, locale)}
             </h2>
@@ -90,12 +139,15 @@ export function GuideTocView({
               {chapter.items.map((item, ii) => {
                 const blurb = loc(item.summary, locale);
                 const isNote = blurb.length > 0;
+                const linked =
+                  item.slug ||
+                  sections.find((s) => s.sectionLabel === item.label)?.slug;
 
-                if (item.slug) {
+                if (linked) {
                   return (
                     <li key={`${item.label}-${ii}`}>
                       <Link
-                        href={`/guide/${item.slug}`}
+                        href={`/guide/${linked}`}
                         className="flex gap-4 px-4 py-3 text-ink transition-colors hover:bg-ink hover:text-paper"
                       >
                         <span className="shrink-0 text-xs font-medium uppercase tracking-wider text-ink-soft">

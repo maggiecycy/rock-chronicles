@@ -1,0 +1,25 @@
+{
+  "slug": "rock-history-2-6-sam-phillips-sells-elvis",
+  "order": 206,
+  "parentSlug": "how-to-read-rock-history",
+  "kind": "article",
+  "sectionLabel": "2.6",
+  "title": {
+    "en": "Sam Phillips sells Elvis’s contract",
+    "zh": "Sam Phillips 出售 Elvis 的合同"
+  },
+  "summary": {
+    "en": "Why Sun sold Elvis to RCA.",
+    "zh": "为什么 Sun 把 Elvis 卖给 RCA。"
+  },
+  "body": {
+    "zh": "为什么Sun Records的Sam Phillips，会把Elvis Presley的合同卖给RCA呢？\n\n我们需要了解音乐产业的运作方式。假如你有一个Elvis Presley这样冉冉升起的巨星，怎么会把他的合同卖了呢？毕竟这个人成功了的话，你就会赚很多钱并壮大自己的公司。而实际情况却有点讽刺性，当时的环境对于独立厂牌而言，获得成功反而会招致危险，为什么呢？如果一个唱片即将大卖，你就得花钱印更多的唱片，这些花费包括印刷费、包装费、组装及运输费，你必须先垫付这些钱。而经营唱片店或点唱机的人，要等挣到钱后才会支付给你，有时要几个月之后。作为小型独立厂牌，资本有限，为了印刷这些唱片你需要倾尽所有。尽管唱片可能会大卖，但这对你而言并非好事。因为你要等六到八周才赚到钱，期间你的财政却冻结了，除非你手头钱多得花不完，显然这不是独立厂牌的特点。这种投资与回报的时间差，在当时会完全毁掉一个独立厂牌。所以当Elvis Presley的合同该续约时，Sam Phillips便趁着合同还值钱就卖给RCA，但是他也不确定该不该卖。根据他的描述，他提出了35000美元的天价，他觉得对方绝对不会接受，这就像在赶对方走，对方只可能敬而远之。但出人意料的是，他们居然接受了这笔交易。他开始考虑到底要不要成交，这是一种“一鸟在手，两鸟在林”的情况。他犹豫要不要接受报价，然后用来投资公司，发展新的艺人。当时的Sun Records旗下还有Johnny Cash、Roy Orbison、Jerry Lee Lewis和Carl Perkins。可能他觉得如果用这笔钱来投资自己的产业的话，兴许一切都会更好，从而弥补失去Elvis Presley的代价，这也成了Sam Phillips决定卖掉Elvis Presley合同的原因之一。",
+    "en": "Why does Sam Phillips sell a rising Elvis contract? For independents, a smash can be a trap.\n\nHits mean paying printers, packagers, and shippers up front; shops and jukebox operators may pay months later. Thin capital freezes in the six-to-eight-week gap—enough to kill a small label. At renewal, Phillips asks a scare-price ~$35,000; RCA accepts.\n\nCash in hand vs two in the bush: fund the rest of Sun—Johnny Cash, Roy Orbison, Jerry Lee Lewis, Carl Perkins—instead of betting the company’s float on one star’s reorder cycle. Selling is rational (and ironic) indie accounting under hit-driven cash flow."
+  },
+  "relatedBandSlugs": [
+    "elvis-presley"
+  ],
+  "relatedGenreSlugs": [
+    "rock-n-roll"
+  ]
+}
