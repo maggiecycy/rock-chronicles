@@ -10,7 +10,36 @@
     "psychedelic"
   ],
   "decisive": false,
+  "whyMatters": {
+    "en": "London R&B band formed in 1963. They replaced the Rolling Stones as Crawdaddy Club residents; lead guitarists were successively Eric Clapton (then Bluesbreakers/Cream), Jeff Beck (distortion experiments later cited by Gilmour and Slash), and Jimmy Page (New Yardbirds → Led Zeppelin).",
+    "zh": "伦敦 R&B 乐队，1963 年成立。接替 Rolling Stones 担任 Crawdaddy Club 驻场；主音吉他手依次为 Eric Clapton（后去 Bluesbreakers／Cream）、Jeff Beck（失真实验后被 Gilmour、Slash 引用）、Jimmy Page（New Yardbirds → Led Zeppelin）。"
+  },
   "members": [
+    {
+      "name": "Keith Relf",
+      "role": "Vocals, Harmonica",
+      "years": "1963–1968"
+    },
+    {
+      "name": "Paul Samwell-Smith",
+      "role": "Bass",
+      "years": "1963–1966"
+    },
+    {
+      "name": "Chris Dreja",
+      "role": "Guitar, Bass",
+      "years": "1963–1968"
+    },
+    {
+      "name": "Jim McCarty",
+      "role": "Drums",
+      "years": "1963–1968"
+    },
+    {
+      "name": "Anthony Topham",
+      "role": "Guitar",
+      "years": "1963"
+    },
     {
       "name": "Eric Clapton",
       "role": "Guitar",
@@ -24,24 +53,9 @@
     },
     {
       "name": "Jimmy Page",
-      "role": "Guitar, Bass",
+      "role": "Bass, Guitar",
       "years": "1966–1968",
       "personSlug": "jimmy-page"
-    },
-    {
-      "name": "Keith Relf",
-      "role": "Vocals, Harmonica",
-      "years": "1963–1968"
-    },
-    {
-      "name": "Chris Dreja",
-      "role": "Bass, Guitar",
-      "years": "1963–1968"
-    },
-    {
-      "name": "Jim McCarty",
-      "role": "Drums",
-      "years": "1963–1968"
     }
   ],
   "essentialTracks": [
@@ -60,6 +74,10 @@
     {
       "title": "Over Under Sideways Down",
       "year": 1966
+    },
+    {
+      "title": "Happenings Ten Years Time Ago",
+      "year": 1966
     }
   ],
   "lyricQuotes": [
@@ -69,7 +87,9 @@
   "relatedBands": [
     "cream",
     "led-zeppelin",
-    "the-rolling-stones"
+    "the-rolling-stones",
+    "pink-floyd",
+    "guns-n-roses"
   ],
   "influenceFrom": [
     "chuck-berry",
@@ -77,19 +97,17 @@
   ],
   "influenced": [
     "cream",
-    "led-zeppelin"
+    "led-zeppelin",
+    "pink-floyd",
+    "guns-n-roses"
   ],
   "shortBio": {
-    "en": "London R&B, 1963–68. Guitarists in sequence: Clapton, Beck, then Page. For Your Love, Heart Full of Soul, and Shapes of Things are the main singles.",
-    "zh": "伦敦 R&B，1963–68。吉他手依次为 Clapton、Beck、Page。主要单曲包括 For Your Love、Heart Full of Soul、Shapes of Things。"
+    "en": "London R&B, 1963–68. Guitarists in order: Topham, Clapton, Beck, Page. For Your Love, Heart Full of Soul, Shapes of Things; Page’s post-band dates became Led Zeppelin.",
+    "zh": "伦敦 R&B，1963–68。吉他手顺序：Topham、Clapton、Beck、Page。代表单曲 For Your Love、Heart Full of Soul、Shapes of Things；Page 解散后场次变为 Led Zeppelin。"
   },
   "body": {
-    "en": "The Yardbirds formed in London in 1963 as an R&B group around the Crawdaddy Club circuit. Keith Relf sang; Jim McCarty played drums. Early sets leaned on Chicago blues covers and extended live rave-ups.\n\nEric Clapton left in March 1965 after For Your Love. Jeff Beck then recorded Heart Full of Soul and Shapes of Things. Jimmy Page joined in 1966, first on bass then lead guitar. The band dissolved in 1968; Page formed Led Zeppelin from remaining tour dates. Clapton had already joined Cream in 1966.",
-    "zh": "The Yardbirds 于 1963 年在伦敦成立，起步于 Crawdaddy Club 一带的 R&B 演出。Keith Relf 主唱，Jim McCarty 打鼓。早期曲目以芝加哥蓝调翻唱与延长现场 rave-up 为主。\n\nEric Clapton 在 For Your Love 之后于 1965 年 3 月离队。Jeff Beck 随后录制 Heart Full of Soul 与 Shapes of Things。Jimmy Page 于 1966 年加入，先弹贝斯再转主音吉他。乐队 1968 年解散；Page 从未完成的巡演场次中组建 Led Zeppelin。Clapton 已于 1966 年加入 Cream。"
-  },
-  "whyMatters": {
-    "en": "London R&B band formed in 1963. Successive lead guitarists were Eric Clapton, Jeff Beck, and Jimmy Page—Clapton went to Cream; Page later formed Led Zeppelin.",
-    "zh": "伦敦 R&B 乐队，1963 年成立。主音吉他手先后为 Eric Clapton、Jeff Beck、Jimmy Page——Clapton 去往 Cream；Page 后来组建 Led Zeppelin。"
+    "en": "The Yardbirds formed in London in 1963. In September that year, while the Rolling Stones toured with Bo Diddley, the Yardbirds took over as house band at the Crawdaddy Club in Richmond, Surrey. Keith Relf sang; Paul Samwell-Smith, Chris Dreja, and Jim McCarty completed the early core. Anthony Topham was the first guitarist; 18-year-old Eric Clapton joined the next month.\n\nColumbia signed the band. The blues-standard single Good Morning Little Schoolgirl charted modestly in 1964. For Your Love (May 1965) was a UK/US hit with a more pop arrangement; blues purist Clapton left for John Mayall’s Bluesbreakers (and later Cream). Jeff Beck replaced him for the band’s strongest commercial and creative stretch—Heart Full of Soul, Shapes of Things, Evil Hearted You, and the album Yardbirds (1966; US title Over Under Sideways Down). Beck’s distortion experiments were later cited as influences on Dave Gilmour and Slash.\n\nJimmy Page joined; the Beck–Page dual-lead lineup often turned live sets into contests. After a failed late-1966 US tour, Beck was fired. Their only dual-lead single was Happenings Ten Years Time Ago. The band broke up in July 1968. Page fulfilled Scandinavian dates as the New Yardbirds; that group became Led Zeppelin. Beck then cut Hi Ho Silver Lining (1967), Beck’s Bolero, and Truth (1968) with the Jeff Beck Group.",
+    "zh": "The Yardbirds 于 1963 年在伦敦成立。同年 9 月，Rolling Stones 与 Bo Diddley 巡演期间，Yardbirds 接替他们担任萨里里士满 Crawdaddy Club 驻场。Keith Relf 主唱；Paul Samwell-Smith、Chris Dreja、Jim McCarty 构成早期核心。Anthony Topham 是首位吉他手；次月 18 岁的 Eric Clapton 加入。\n\n与哥伦比亚签约后，布鲁斯标准曲单曲 Good Morning Little Schoolgirl 于 1964 年小火。For Your Love（1965 年 5 月）以更偏流行的编曲成为英美热单；布鲁斯纯粹主义者 Clapton 离队加入 John Mayall 的 Bluesbreakers（后去 Cream）。Jeff Beck 接任，迎来商业与创作高峰——Heart Full of Soul、Shapes of Things、Evil Hearted You，以及专辑 Yardbirds（1966；美版名 Over Under Sideways Down）。Beck 的扭曲音实验后被 Dave Gilmour、Slash 引用。\n\nJimmy Page 加入；Beck–Page 双主音现场常变成两人竞赛。1966 年底美国巡演失利后 Beck 被解雇。双主音时期仅录单曲 Happenings Ten Years Time Ago。乐队 1968 年 7 月解散。Page 以 New Yardbirds 名义完成斯堪的纳维亚合约场次，随后变为 Led Zeppelin。Beck 其后推出 Hi Ho Silver Lining（1967）、Beck’s Bolero，以及与 Jeff Beck Group 的 Truth（1968）。"
   },
   "scenes": [
     {
@@ -99,6 +117,7 @@
         "Eric Clapton",
         "Keith Relf",
         "Chris Dreja",
+        "Paul Samwell-Smith",
         "Jim McCarty"
       ],
       "genreTags": [
@@ -106,8 +125,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Graham Gouldman song; harpsichord pop arrangement. Clapton left soon after.",
-        "zh": "Graham Gouldman 作品；羽管键琴流行编曲。Clapton 不久后离队。"
+        "en": "May 1965 UK/US hit; pop direction. Clapton left for Bluesbreakers soon after.",
+        "zh": "1965 年 5 月英美热单；偏流行方向。Clapton 不久后离队加入 Bluesbreakers。"
       }
     },
     {
@@ -117,6 +136,7 @@
         "Jeff Beck",
         "Keith Relf",
         "Chris Dreja",
+        "Paul Samwell-Smith",
         "Jim McCarty"
       ],
       "genreTags": [
@@ -125,8 +145,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Beck-era single. Fuzz guitar on a minor-key riff in place of a planned sitar part.",
-        "zh": "Beck 时期单曲。原计划用 sitar，实际以 fuzz 吉他弹小调 riff。"
+        "en": "Beck-era single from the band’s strongest commercial stretch.",
+        "zh": "Beck 时期单曲；出自乐队商业与创作高峰段。"
       }
     },
     {
@@ -136,6 +156,7 @@
         "Jeff Beck",
         "Keith Relf",
         "Chris Dreja",
+        "Paul Samwell-Smith",
         "Jim McCarty"
       ],
       "genreTags": [
@@ -144,50 +165,113 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "About 2:30. Feedback swells in the solo; lyric addresses war and social change.",
-        "zh": "时长约 2:30。独奏含反馈延音；歌词涉及战争与社会变化。"
+        "en": "Beck-era psychedelic pop classic; distortion/feedback approach later cited by Gilmour and Slash.",
+        "zh": "Beck 时期迷幻流行经典；扭曲音／反馈写法后被 Gilmour、Slash 引用。"
+      }
+    },
+    {
+      "year": 1966,
+      "track": "Happenings Ten Years Time Ago",
+      "membersOnStage": [
+        "Jeff Beck",
+        "Jimmy Page",
+        "Keith Relf",
+        "Chris Dreja",
+        "Jim McCarty"
+      ],
+      "genreTags": [
+        "psychedelic",
+        "rock-n-roll"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Only Beck–Page dual-lead single before Beck was fired after a failed US tour.",
+        "zh": "Beck–Page 双主音唯一单曲；美国巡演失利后 Beck 被解雇。"
       }
     }
   ],
   "narrative": [
     {
-      "id": "thesis",
+      "id": "crawdaddy",
       "title": {
-        "en": "Clapton years",
-        "zh": "Clapton 时期"
+        "en": "Crawdaddy and Clapton",
+        "zh": "Crawdaddy 与 Clapton"
       },
       "body": {
-        "en": "The Yardbirds began as a Crawdaddy Club R&B unit covering Chicago blues. Clapton’s reputation grew on extended live rave-ups.\n\nFor Your Love (1965) added harpsichord and a pop arrangement. Clapton left in March 1965, objecting to the commercial direction.\n\nJeff Beck took the guitar seat.",
-        "zh": "Yardbirds 起步于 Crawdaddy Club 的 R&B 演出，翻唱芝加哥蓝调。Clapton 的名声建立在延长现场 rave-up 上。\n\nFor Your Love（1965）加入羽管键琴与流行编曲。Clapton 于 1965 年 3 月离队，不满商业化方向。\n\nJeff Beck 接任吉他席位。"
-      },
-      "stickyVisual": "thesis",
-      "soundGenre": "rock-n-roll"
-    },
-    {
-      "id": "lineup-versions",
-      "title": {
-        "en": "Beck: fuzz and feedback",
-        "zh": "Beck：fuzz 与反馈"
-      },
-      "body": {
-        "en": "Jeff Beck replaced Clapton in mid-1965. Heart Full of Soul used fuzz guitar where a sitar part had been planned. Shapes of Things added controlled feedback in the solo.\n\nRoger the Engineer (1966; US title Over Under Sideways Down) is the main Beck-era album—Indian-scale figures, reverse tape, and rave-up endings.\n\nBeck left after friction on a US tour. Page, already in the band, moved to lead guitar.",
-        "zh": "Jeff Beck 于 1965 年中接替 Clapton。Heart Full of Soul 原计划用 sitar，实际以 fuzz 吉他完成。Shapes of Things 在独奏中加入可控反馈。\n\nRoger the Engineer（1966；美版名 Over Under Sideways Down）是 Beck 时期主要专辑——印度音阶音型、反向磁带与 rave-up 收尾。\n\nBeck 在美国巡演摩擦后离队。已在队的 Page 转任主音吉他。"
+        "en": "In September 1963, while the Rolling Stones toured with Bo Diddley, the Yardbirds took the Crawdaddy Club residency in Richmond. Anthony Topham was first on guitar; Eric Clapton joined at 18 the next month.\n\nGood Morning Little Schoolgirl (1964) was a modest blues-standard hit. For Your Love (May 1965) moved toward pop and became a UK/US breakthrough. Clapton left for John Mayall’s Bluesbreakers, later Cream.",
+        "zh": "1963 年 9 月，Rolling Stones 与 Bo Diddley 巡演时，Yardbirds 接任里士满 Crawdaddy Club 驻场。Anthony Topham 先弹吉他；次月 18 岁的 Eric Clapton 加入。\n\nGood Morning Little Schoolgirl（1964）是布鲁斯标准曲小热。For Your Love（1965 年 5 月）偏流行，成为英美突破。Clapton 离队加入 John Mayall 的 Bluesbreakers，后去 Cream。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "blues",
+      "stickyImage": {
+        "src": "/media/bands/the-yardbirds-for-your-love-ad-1965.jpg",
+        "alt": {
+          "en": "For Your Love advertisement, 1965 — Relf, Clapton, McCarty, Dreja, Samwell-Smith",
+          "zh": "For Your Love 广告，1965——Relf、Clapton、McCarty、Dreja、Samwell-Smith"
+        },
+        "credit": "Cash Box advertisement, 24 April 1965",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Yardbirds_on_ad_1965.jpg"
+      }
     },
     {
-      "id": "legacy",
+      "id": "beck-era",
       "title": {
-        "en": "Page and the end of the band",
-        "zh": "Page 与乐队结束"
+        "en": "Beck: distortion and hits",
+        "zh": "Beck：失真与热单"
       },
       "body": {
-        "en": "Jimmy Page joined first on bass, then took lead after Beck left. Dual-lead work with Chris Dreja on guitar preceded the final quartet.\n\nLittle Games (1967) was a commercial studio album; live sets still used extended blues jams and early forms of what became Dazed and Confused.\n\nThe band dissolved in 1968. Page kept tour commitments and formed Led Zeppelin from those remaining dates.",
-        "zh": "Jimmy Page 先入队弹贝斯，Beck 离队后转主音。与 Chris Dreja 的双主音实验之后定型为四人组。\n\nLittle Games（1967）是偏商业的录音室专辑；现场仍含延长蓝调 jam，以及后来成为 Dazed and Confused 的早期形态。\n\n乐队 1968 年解散。Page 保留巡演义务，并从这些未完成场次中组建 Led Zeppelin。"
+        "en": "Jeff Beck replaced Clapton for the band’s strongest commercial and creative period: Heart Full of Soul, Shapes of Things, Evil Hearted You, and Yardbirds (1966; US Over Under Sideways Down).\n\nBeck’s distortion experiments were later cited as influences on Dave Gilmour and Slash.",
+        "zh": "Jeff Beck 接替 Clapton，迎来商业与创作高峰：Heart Full of Soul、Shapes of Things、Evil Hearted You，以及 Yardbirds（1966；美版 Over Under Sideways Down）。\n\nBeck 的扭曲音实验后被 Dave Gilmour、Slash 引用。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "psychedelic",
+      "stickyImage": {
+        "src": "/media/bands/the-yardbirds-beck-1965.jpg",
+        "alt": {
+          "en": "The Yardbirds in 1965 — Beck, Samwell-Smith, Relf, Dreja, McCarty",
+          "zh": "The Yardbirds，1965——Beck、Samwell-Smith、Relf、Dreja、McCarty"
+        },
+        "credit": "Promotional photograph, 1965",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Yardbirds_in_1965_(true_monochrome).jpg"
+      }
+    },
+    {
+      "id": "page-zeppelin",
+      "title": {
+        "en": "Page, dual lead, New Yardbirds",
+        "zh": "Page、双主音、New Yardbirds"
+      },
+      "body": {
+        "en": "Jimmy Page joined; Beck–Page dual-lead live sets often became contests. After a failed late-1966 US tour, Beck was fired. Their only dual-lead single was Happenings Ten Years Time Ago.\n\nThe band dissolved in July 1968. Page completed Scandinavian dates as the New Yardbirds; that lineup became Led Zeppelin.",
+        "zh": "Jimmy Page 加入；Beck–Page 双主音现场常变成竞赛。1966 年底美国巡演失利后 Beck 被解雇。双主音唯一单曲是 Happenings Ten Years Time Ago。\n\n乐队 1968 年 7 月解散。Page 以 New Yardbirds 完成斯堪的纳维亚场次，该编制变为 Led Zeppelin。"
       },
       "stickyVisual": "influence",
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/the-yardbirds-beck-page-1966.jpg",
+        "alt": {
+          "en": "The Yardbirds in 1966 with Jeff Beck and Jimmy Page",
+          "zh": "The Yardbirds 1966 年阵容，含 Jeff Beck 与 Jimmy Page"
+        },
+        "credit": "Promotional photograph, 1966",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Yardbirds_in_1966_with_Jeff_Beck_and_Jimmy_Page.jpg"
+      }
+    },
+    {
+      "id": "beck-after",
+      "title": {
+        "en": "Beck after the band",
+        "zh": "Beck 离队之后"
+      },
+      "body": {
+        "en": "Beck cut the pop single Hi Ho Silver Lining (1967) and the instrumental Beck’s Bolero. With the Jeff Beck Group he recorded Truth (1968), an early heavy-rock landmark, before that band dissolved.\n\nLater solo work ranged across Memphis soul (Rough and Ready, 1972), jazz-rock (Blow by Blow, 1975), and rockabilly (Crazy Legs, 1993). He entered the Rock and Roll Hall of Fame as a solo artist in 2009.",
+        "zh": "Beck 推出流行单曲 Hi Ho Silver Lining（1967）与器乐 Beck’s Bolero。与 Jeff Beck Group 录制 Truth（1968）——早期重型摇滚代表——后该团解散。\n\n此后个人作品跨越 Memphis soul（Rough and Ready，1972）、爵士摇滚（Blow by Blow，1975）与 rockabilly（Crazy Legs，1993）。2009 年以独唱身份入选摇滚名人堂。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "hard-rock"
     },
     {
       "id": "scene-0",
@@ -196,26 +280,12 @@
         "zh": "For Your Love"
       },
       "body": {
-        "en": "1965 single written by Graham Gouldman. Harpsichord and pop arrangement. Clapton left the band shortly afterward.",
-        "zh": "1965 年单曲，Graham Gouldman 作曲。羽管键琴与流行编曲。Clapton 不久后离队。"
+        "en": "May 1965 breakthrough single. Pop arrangement; Clapton left for Bluesbreakers afterward.",
+        "zh": "1965 年 5 月突破单曲。偏流行编曲；Clapton 随后离队加入 Bluesbreakers。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
       "soundGenre": "rock-n-roll"
-    },
-    {
-      "id": "scene-1",
-      "title": {
-        "en": "Heart Full of Soul",
-        "zh": "Heart Full of Soul"
-      },
-      "body": {
-        "en": "Beck-era 1965 single. A sitar part was tried in session; the released version uses fuzz guitar on a minor-key riff.",
-        "zh": "Beck 时期 1965 年单曲。录音时试过 sitar；发行版用 fuzz 吉他弹小调 riff。"
-      },
-      "stickyVisual": "scene",
-      "sceneIndex": 1,
-      "soundGenre": "blues"
     },
     {
       "id": "scene-2",
@@ -224,8 +294,8 @@
         "zh": "Shapes of Things"
       },
       "body": {
-        "en": "1966 single, about two and a half minutes. Beck’s solo uses feedback swells. The lyric addresses war and social change.",
-        "zh": "1966 年单曲，约两分半。Beck 独奏含反馈延音。歌词涉及战争与社会变化。"
+        "en": "1966 Beck-era single. Distortion and feedback approach from this period later linked to Gilmour and Slash in the book’s account.",
+        "zh": "1966 年 Beck 时期单曲。书中记这一时期的扭曲音／反馈写法后与 Gilmour、Slash 相连。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -248,10 +318,45 @@
   ],
   "lineupVersions": [
     {
+      "id": "clapton",
+      "label": {
+        "en": "Clapton / Crawdaddy",
+        "zh": "Clapton／Crawdaddy"
+      },
+      "years": "1963–1965",
+      "members": [
+        {
+          "name": "Keith Relf",
+          "role": "Vocals, Harmonica"
+        },
+        {
+          "name": "Eric Clapton",
+          "role": "Guitar",
+          "personSlug": "eric-clapton"
+        },
+        {
+          "name": "Chris Dreja",
+          "role": "Guitar"
+        },
+        {
+          "name": "Paul Samwell-Smith",
+          "role": "Bass"
+        },
+        {
+          "name": "Jim McCarty",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Crawdaddy residency after the Stones; through For Your Love.",
+        "zh": "接替 Stones 的 Crawdaddy 驻场；至 For Your Love。"
+      }
+    },
+    {
       "id": "peak",
       "label": {
         "en": "Jeff Beck peak",
-        "zh": "Jeff Beck 巅峰期"
+        "zh": "Jeff Beck 高峰"
       },
       "years": "1965–1966",
       "peak": true,
@@ -278,8 +383,39 @@
         }
       ],
       "note": {
-        "en": "Beck between Clapton and Page. Includes Heart Full of Soul, Shapes of Things, and Roger the Engineer.",
-        "zh": "Beck 介于 Clapton 与 Page 之间。包括 Heart Full of Soul、Shapes of Things 与 Roger the Engineer。"
+        "en": "Heart Full of Soul, Shapes of Things, Yardbirds / Over Under Sideways Down.",
+        "zh": "含 Heart Full of Soul、Shapes of Things、Yardbirds／Over Under Sideways Down。"
+      }
+    },
+    {
+      "id": "page",
+      "label": {
+        "en": "Page / New Yardbirds exit",
+        "zh": "Page／New Yardbirds 出口"
+      },
+      "years": "1966–1968",
+      "members": [
+        {
+          "name": "Keith Relf",
+          "role": "Vocals, Harmonica"
+        },
+        {
+          "name": "Jimmy Page",
+          "role": "Guitar",
+          "personSlug": "jimmy-page"
+        },
+        {
+          "name": "Chris Dreja",
+          "role": "Bass, Guitar"
+        },
+        {
+          "name": "Jim McCarty",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "After Beck; Scandinavian dates as New Yardbirds became Led Zeppelin.",
+        "zh": "Beck 离队后；以 New Yardbirds 完成的北欧场次变为 Led Zeppelin。"
       }
     }
   ],
@@ -288,17 +424,18 @@
       "title": "Shapes of Things",
       "year": 1966,
       "note": {
-        "en": "Beck-era single; feedback in the solo on a short pop form.",
-        "zh": "Beck 时期单曲；短流行曲式上的反馈独奏。"
+        "en": "Beck-era single; distortion/feedback on a short pop form.",
+        "zh": "Beck 时期单曲；短流行曲式上的扭曲音／反馈。"
       }
     },
     "pioneeredGenres": [
       "blues",
-      "rock-n-roll"
+      "rock-n-roll",
+      "psychedelic"
     ],
     "note": {
-      "en": "R&B club band whose guitarists later led Cream and Led Zeppelin.",
-      "zh": "R&B 俱乐部乐队；吉他手后来分别进入 Cream 与 Led Zeppelin。"
+      "en": "R&B club band whose guitarists led to Cream and Led Zeppelin.",
+      "zh": "R&B 俱乐部乐队；吉他手分别通向 Cream 与 Led Zeppelin。"
     }
   }
 }

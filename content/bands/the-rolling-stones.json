@@ -11,19 +11,19 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "London blues-rock band formed in 1962. Keith Richards’s riff writing, Mick Jagger’s vocals, and Charlie Watts’s drumming run from 1960s singles through the late-60s/early-70s albums and long-term touring.",
-    "zh": "伦敦蓝调摇滚乐队，1962 年成立。Keith Richards 的 riff 写作、Mick Jagger 的人声与 Charlie Watts 的鼓，从 1960 年代单曲贯穿 60 末/70 初专辑与长期巡演。"
+    "en": "London blues-rock band formed in 1962. Jagger/Richards writing, early Brian Jones multi-instrument parts, then Mick Taylor and Ronnie Wood eras; Satisfaction through the 1968–72 albums and long touring.",
+    "zh": "伦敦蓝调摇滚乐队，1962 年成立。Jagger/Richards 写作，早期 Brian Jones 多乐器声部，其后 Mick Taylor 与 Ronnie Wood 时期；从 Satisfaction 贯穿 1968–72 专辑与长期巡演。"
   },
   "members": [
     {
       "name": "Mick Jagger",
       "role": "Vocals",
-      "years": "1963–2021"
+      "years": "1962–present"
     },
     {
       "name": "Keith Richards",
       "role": "Guitar",
-      "years": "1963–2021"
+      "years": "1962–present"
     },
     {
       "name": "Charlie Watts",
@@ -33,21 +33,96 @@
     {
       "name": "Ronnie Wood",
       "role": "Guitar",
-      "years": "1963–2021"
+      "years": "1975–present"
+    },
+    {
+      "name": "Brian Jones",
+      "role": "Guitar, Multi-instrument",
+      "years": "1962–1969"
+    },
+    {
+      "name": "Bill Wyman",
+      "role": "Bass",
+      "years": "1962–1993"
+    },
+    {
+      "name": "Mick Taylor",
+      "role": "Guitar",
+      "years": "1969–1974"
+    },
+    {
+      "name": "Ian Stewart",
+      "role": "Piano",
+      "years": "1962–1963 (official); studio/road through 1985"
+    },
+    {
+      "name": "Dick Taylor",
+      "role": "Bass",
+      "years": "1962–1963"
+    },
+    {
+      "name": "Mick Avory",
+      "role": "Drums (rehearsals / first gig)",
+      "years": "1962"
+    },
+    {
+      "name": "Darryl Jones",
+      "role": "Bass",
+      "years": "1993–present"
     }
   ],
   "essentialTracks": [
     {
-      "title": "(I Can't Get No) Satisfaction",
-      "year": 1965
+      "title": "Come On",
+      "year": 1963,
+      "note": {
+        "en": "Early Decca single; Chuck Berry cover.",
+        "zh": "早期 Decca 单曲；Chuck Berry 翻唱。"
+      }
     },
     {
-      "title": "Gimme Shelter",
-      "year": 1969
+      "title": "I Wanna Be Your Man",
+      "year": 1963,
+      "note": {
+        "en": "Written by Lennon–McCartney for the Stones.",
+        "zh": "由 Lennon–McCartney 为 Stones 所写。"
+      }
+    },
+    {
+      "title": "(I Can't Get No) Satisfaction",
+      "year": 1965,
+      "note": {
+        "en": "Richards fuzz riff (Gibson Maestro FZ-1); US and UK #1.",
+        "zh": "Richards fuzz riff（Gibson Maestro FZ-1）；英美榜冠军。"
+      }
+    },
+    {
+      "title": "Jumpin' Jack Flash",
+      "year": 1968,
+      "note": {
+        "en": "Hard-rock single ahead of Beggars Banquet.",
+        "zh": "《Beggars Banquet》前的硬摇滚单曲。"
+      }
     },
     {
       "title": "Sympathy for the Devil",
       "year": 1968
+    },
+    {
+      "title": "Gimme Shelter",
+      "year": 1969,
+      "note": {
+        "en": "Let It Bleed; Merry Clayton guest vocal.",
+        "zh": "出自《Let It Bleed》；客串人声 Merry Clayton。"
+      }
+    },
+    {
+      "title": "Miss You",
+      "year": 1978,
+      "note": {
+        "en": "US #1 from Some Girls.",
+        "zh": "出自《Some Girls》的美国榜冠军。"
+      }
     }
   ],
   "scenes": [
@@ -57,6 +132,8 @@
       "membersOnStage": [
         "Mick Jagger",
         "Keith Richards",
+        "Brian Jones",
+        "Bill Wyman",
         "Charlie Watts"
       ],
       "genreTags": [
@@ -65,8 +142,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Richards fuzz riff (Gibson Maestro FZ-1); US and UK #1 in 1965.",
-        "zh": "Richards 的 fuzz riff（Gibson Maestro FZ-1）；1965 年英美榜冠军。"
+        "en": "Richards fuzz riff (Gibson Maestro FZ-1); US and UK #1. By late 1966 the band had six UK #1 singles; Out of Our Heads was their first US album #1 (1965).",
+        "zh": "Richards 的 fuzz riff（Gibson Maestro FZ-1）；英美榜冠军。至 1966 年末已有六首英国冠军单曲；《Out of Our Heads》（1965）为首张美专辑榜冠军。"
       }
     },
     {
@@ -75,6 +152,8 @@
       "membersOnStage": [
         "Mick Jagger",
         "Keith Richards",
+        "Brian Jones",
+        "Bill Wyman",
         "Charlie Watts"
       ],
       "genreTags": [
@@ -82,8 +161,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "From Beggars Banquet; samba-style percussion and call-and-response vocals.",
-        "zh": "出自《Beggars Banquet》；桑巴式打击乐与呼应人声。"
+        "en": "From Beggars Banquet; samba-style percussion and call-and-response vocals. Followed Their Satanic Majesties Request (1967), which tried a Sgt. Pepper–adjacent psychedelic approach.",
+        "zh": "出自《Beggars Banquet》；桑巴式打击乐与呼应人声。前一张《Their Satanic Majesties Request》（1967）曾尝试贴近《Sgt. Pepper》的迷幻做法。"
       }
     },
     {
@@ -92,6 +171,8 @@
       "membersOnStage": [
         "Mick Jagger",
         "Keith Richards",
+        "Mick Taylor",
+        "Bill Wyman",
         "Charlie Watts"
       ],
       "genreTags": [
@@ -100,8 +181,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "From Let It Bleed; Merry Clayton on guest vocals.",
-        "zh": "出自《Let It Bleed》；客串人声为 Merry Clayton。"
+        "en": "From Let It Bleed; Merry Clayton on guest vocals. Brian Jones’s last album appearance; Mick Taylor (ex–John Mayall’s Bluesbreakers) took over guitar.",
+        "zh": "出自《Let It Bleed》；客串人声 Merry Clayton。Brian Jones 最后出现的专辑；吉他由前 John Mayall’s Bluesbreakers 的 Mick Taylor 接替。"
       }
     }
   ],
@@ -111,6 +192,12 @@
       "speaker": "Mick Jagger",
       "source": "Song / interview crossover · quote wall",
       "year": 1974
+    },
+    {
+      "text": "The Rolling Stones are a different kind of band—not for special musical ability alone, but for a style and attitude of their own.",
+      "speaker": "Mick Taylor",
+      "source": "On joining the band · book excerpt",
+      "year": 1969
     },
     {
       "text": "The music is the most important thing.",
@@ -125,20 +212,24 @@
   ],
   "relatedBands": [
     "the-beatles",
+    "the-kinks",
     "led-zeppelin"
   ],
-  "influenceFrom": [],
+  "influenceFrom": [
+    "chuck-berry",
+    "the-beatles"
+  ],
   "influenced": [
     "led-zeppelin",
     "arctic-monkeys"
   ],
   "shortBio": {
-    "en": "London blues-rock, 1962–. Jagger/Richards writing; Satisfaction and the 1968–72 albums are core references.",
-    "zh": "伦敦蓝调摇滚，1962 年至今。Jagger/Richards 写作；《Satisfaction》与 1968–72 专辑是主要参照。"
+    "en": "London blues-rock, 1962–. Early Dick Taylor / Ian Stewart / Mick Avory rehearsals; Jones–Wyman–Watts core; Taylor then Wood on guitar.",
+    "zh": "伦敦蓝调摇滚，1962 年至今。早期含 Dick Taylor、Ian Stewart、Mick Avory 排练；Jones–Wyman–Watts 核心；其后吉他为 Taylor 再换 Wood。"
   },
   "body": {
-    "en": "The Rolling Stones formed in London in 1962. Early sets mixed Chicago blues and R&B covers with original songs. (I Can’t Get No) Satisfaction (1965) made Richards’s fuzz riff a chart lead.\n\nBeggars Banquet (1968), Let It Bleed (1969), Sticky Fingers (1971), and Exile on Main St. (1972) are the main late-60s/early-70s studio run. Open-G guitar parts, Watts’s pocket, and Jagger’s vocal delivery are the clearest identifiers across those records and later tours.",
-    "zh": "The Rolling Stones 于 1962 年在伦敦成立。早期曲目混合芝加哥蓝调、R&B 翻唱与原创歌。《(I Can’t Get No) Satisfaction》（1965）以 Richards 的 fuzz riff 打进排行榜前列。\n\n《Beggars Banquet》（1968）、《Let It Bleed》（1969）、《Sticky Fingers》（1971）与《Exile on Main St.》（1972）是 60 末/70 初的主要录音室阶段。开放 G 调吉他声部、Watts 的口袋感与 Jagger 的演唱方式，是这些唱片及后来巡演中最易辨认的元素。"
+    "en": "The Rolling Stones formed in London in 1962 around Mick Jagger, Keith Richards, and Brian Jones, with bassist Dick Taylor and pianist Ian Stewart. Taylor left by 1963 (later led The Pretty Things). Bill Wyman and Charlie Watts locked the rhythm section. Watts replaced Mick Avory, who had rehearsed with the band and Tony Chapman and played the 12 July 1962 debut; Avory later became The Kinks’ drummer. The name came from Muddy Waters’s Rollin’ Stone. Before the Decca debut album, Come On (Chuck Berry), I Wanna Be Your Man (Lennon–McCartney), and Not Fade Away (Buddy Holly) were hit singles. Stewart was kept as road manager/studio pianist rather than an official stage member.\n\nBy late 1966 they had six UK #1 singles; Satisfaction and Out of Our Heads led the US. Their Satanic Majesties Request (1967) tried a Sgt. Pepper–adjacent psychedelic approach. Jumpin’ Jack Flash and Beggars Banquet (1968) reset toward harder blues-rock; Let It Bleed (1969) was Jones’s last album before his death; Mick Taylor (ex–John Mayall’s Bluesbreakers) joined. Sticky Fingers (1971) began an eight-album US #1 studio run; Exile on Main St. (1972) is the usual peak citation. Taylor left in 1975; Ronnie Wood (ex-Faces) took the second guitar seat after Black and Blue auditions. Some Girls (1978) and Tattoo You (1981) led stadium-scale touring. Wyman left in 1993; Darryl Jones took bass. Later landmarks include Voodoo Lounge (1994), Bridges to Babylon (1997), A Bigger Bang (2005), and the 2010 Exile remaster returning to UK #1.",
+    "zh": "The Rolling Stones 于 1962 年在伦敦成立，核心为 Mick Jagger、Keith Richards 与 Brian Jones，另有贝斯手 Dick Taylor 与钢琴手 Ian Stewart。Taylor 于 1963 年前离队（后组建 The Pretty Things）。Bill Wyman 与 Charlie Watts 固定节奏组。Watts 接替 Mick Avory——Avory 曾与乐队及 Tony Chapman 排练，并参加 1962 年 7 月 12 日首演，后任 The Kinks 鼓手。队名取自 Muddy Waters 的 Rollin’ Stone。Decca 首专之前，Come On（Chuck Berry）、I Wanna Be Your Man（Lennon–McCartney）与 Not Fade Away（Buddy Holly）已是热门单曲。Stewart 被保留为巡演管理员/录音室钢琴，而非正式舞台编制。\n\n至 1966 年末已有六首英国冠军单曲；Satisfaction 与《Out of Our Heads》打开美国市场。《Their Satanic Majesties Request》（1967）尝试贴近《Sgt. Pepper》的迷幻做法。Jumpin’ Jack Flash 与《Beggars Banquet》（1968）回到更硬的蓝调摇滚；《Let It Bleed》（1969）是 Jones 去世前最后一张专辑，吉他由前 John Mayall’s Bluesbreakers 的 Mick Taylor 接替。《Sticky Fingers》（1971）开启连续八张美录音室专辑冠军；《Exile on Main St.》（1972）是常见高峰引用。Taylor 于 1975 年离队；Ronnie Wood（前 Faces）在《Black and Blue》试音后就任第二吉他。《Some Girls》（1978）与《Tattoo You》（1981）带动体育场巡演规模。Wyman 于 1993 年离队，贝斯由 Darryl Jones 接替。其后还有《Voodoo Lounge》（1994）、《Bridges to Babylon》（1997）、《A Bigger Bang》（2005），以及 2010 年《Exile》重制重回英国榜冠军。"
   },
   "narrative": [
     {
@@ -152,7 +243,53 @@
         "zh": "Stones 的歌曲常从吉他 riff 起笔，再叠 groove 与人声。Richards 的节奏/主音声部与开放 G 调，在许多中期作品里是核心。\n\nWatts 维持稳定、偏摇摆的脉冲。贝斯与第二吉他随时期变化，但 Jagger–Richards–Watts 核心维持了数十年。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "blues"
+      "soundGenre": "blues",
+      "stickyImage": {
+        "src": "/media/bands/the-rolling-stones-1965.jpg",
+        "alt": {
+          "en": "The Rolling Stones in a 1965 Billboard trade ad (London Records)",
+          "zh": "The Rolling Stones 1965 年 Billboard 广告照（London Records）"
+        },
+        "credit": "London Records / Billboard",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rolling_Stones_1965.jpg"
+      }
+    },
+    {
+      "id": "formation",
+      "title": {
+        "en": "Formation, Avory, and Decca singles",
+        "zh": "组建、Avory 与 Decca 单曲"
+      },
+      "body": {
+        "en": "Jagger, Richards, and Jones started with Dick Taylor (bass) and Ian Stewart (piano). Taylor left for The Pretty Things. Mick Avory rehearsed and played the 12 July 1962 debut with Tony Chapman, then left; he later drummed for The Kinks. Charlie Watts and Bill Wyman completed the classic early rhythm section.\n\nBefore the debut album: Come On (Chuck Berry), I Wanna Be Your Man (written by Lennon–McCartney), and Not Fade Away (Buddy Holly). Stewart stayed as road manager and studio pianist.",
+        "zh": "Jagger、Richards、Jones 起步时有 Dick Taylor（贝斯）与 Ian Stewart（钢琴）。Taylor 离队组建 The Pretty Things。Mick Avory 参与排练，并与 Tony Chapman 一起参加 1962 年 7 月 12 日首演，随后离开；他后来任 The Kinks 鼓手。Charlie Watts 与 Bill Wyman 凑成早期经典节奏组。\n\n首专之前：Come On（Chuck Berry）、I Wanna Be Your Man（Lennon–McCartney 所写）、Not Fade Away（Buddy Holly）。Stewart 留下做巡演管理与录音室钢琴。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "blues",
+      "stickyImage": {
+        "src": "/media/bands/the-rolling-stones-fornebu-1965.jpg",
+        "alt": {
+          "en": "The Rolling Stones arrive at Fornebu Airport, Oslo, June 1965",
+          "zh": "The Rolling Stones 抵达奥斯陆 Fornebu 机场，1965 年 6 月"
+        },
+        "credit": "Øderud / National Archives of Norway",
+        "license": "No known copyright restrictions",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Rolling_Stones_p%C3%A5_Fornebu,_1965.jpg"
+      }
+    },
+    {
+      "id": "beatles-kinks",
+      "title": {
+        "en": "Shared facts with Beatles and Kinks",
+        "zh": "与 Beatles、Kinks 的交叉事实"
+      },
+      "body": {
+        "en": "I Wanna Be Your Man was written by Paul McCartney and John Lennon for the Stones—one of the first hit singles before the debut album.\n\nMick Avory’s short Stones rehearsal/debut link precedes his long tenure as The Kinks’ drummer. Their Satanic Majesties Request (1967) explicitly chased a Sgt. Pepper–style psychedelic album frame, then the band returned to harder blues-rock on Beggars Banquet.",
+        "zh": "I Wanna Be Your Man 由 Paul McCartney 与 John Lennon 为 Stones 所写——首专前的热门单曲之一。\n\nMick Avory 短暂参与 Stones 排练/首演后，长期担任 The Kinks 鼓手。《Their Satanic Majesties Request》（1967）明确追赶《Sgt. Pepper》式迷幻专辑框架，随后在《Beggars Banquet》回到更硬的蓝调摇滚。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "rock-n-roll"
     },
     {
       "id": "lineup-versions",
@@ -161,11 +298,21 @@
         "zh": "Jones、Taylor、Wood"
       },
       "body": {
-        "en": "Brian Jones played multi-instrument parts on early-to-mid-1960s records. Mick Taylor was on guitar for much of the late-60s/early-70s peak albums.\n\nRonnie Wood joined in the mid-1970s and remained for the long touring period. Charlie Watts stayed on drums until his death in 2021.",
-        "zh": "Brian Jones 在 1960 年代早中期唱片上负责多乐器声部。Mick Taylor 在 60 末/70 初多数高峰专辑中担任吉他。\n\nRonnie Wood 于 1970 年代中期加入，并留在长期巡演阶段。Charlie Watts 担任鼓手至 2021 年去世。"
+        "en": "Brian Jones played multi-instrument parts on early-to-mid-1960s records and drowned in 1969. Mick Taylor, from John Mayall’s Bluesbreakers, covered late-60s/early-70s peak albums and Get Yer Ya-Ya’s Out! (1970).\n\nTaylor left in 1975. Harvey Mandel and Wayne Perkins played on Black and Blue; Ronnie Wood (ex-Faces) took the seat and stayed for the long touring period. Charlie Watts remained on drums until 2021.",
+        "zh": "Brian Jones 在 1960 年代早中期唱片上负责多乐器声部，1969 年溺水身亡。来自 John Mayall’s Bluesbreakers 的 Mick Taylor 覆盖 60 末/70 初高峰专辑与现场《Get Yer Ya-Ya’s Out!》（1970）。\n\nTaylor 于 1975 年离队。Harvey Mandel 与 Wayne Perkins 参与《Black and Blue》；最终由前 Faces 的 Ronnie Wood 就任并留在长期巡演阶段。Charlie Watts 司鼓至 2021 年。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/the-rolling-stones-finland-1965.jpg",
+        "alt": {
+          "en": "Keith Richards, Bill Wyman, and Charlie Watts at Turku Airport, 25 June 1965",
+          "zh": "Keith Richards、Bill Wyman 与 Charlie Watts 在图尔库机场，1965 年 6 月 25 日"
+        },
+        "credit": "V. K. Hietanen",
+        "license": "CC BY 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rolling-Stones-1965-Finland.jpg"
+      }
     },
     {
       "id": "satisfaction",
@@ -174,8 +321,8 @@
         "zh": "《(I Can't Get No) Satisfaction》"
       },
       "body": {
-        "en": "Released in 1965. The main hook uses a Gibson Maestro FZ-1 fuzz on Richards’s guitar line. Jagger’s vocal is built around a repeating complaint lyric.\n\nThe single reached #1 in the US and UK and became one of the band’s earliest mass-radio identifiers.",
-        "zh": "1965 年发行。主钩子使用 Gibson Maestro FZ-1 fuzz 处理 Richards 的吉他线。Jagger 的人声围绕重复的抱怨式歌词。\n\n单曲登上英美榜冠军，成为乐队最早的大众电台识别曲之一。"
+        "en": "Released in 1965. The main hook uses a Gibson Maestro FZ-1 fuzz on Richards’s guitar line. Jagger’s vocal is built around a repeating complaint lyric.\n\nThe single reached #1 in the US and UK. Out of Our Heads was the first US album #1 the same year.",
+        "zh": "1965 年发行。主钩子使用 Gibson Maestro FZ-1 fuzz 处理 Richards 的吉他线。Jagger 的人声围绕重复的抱怨式歌词。\n\n单曲登上英美榜冠军。同年《Out of Our Heads》成为首张美专辑榜冠军。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -188,11 +335,24 @@
         "zh": "《Gimme Shelter》"
       },
       "body": {
-        "en": "Opening track on Let It Bleed (1969). Richards’s guitar riff leads; Merry Clayton sings the guest vocal part; Watts and Bill Wyman lock the rhythm section.\n\nThe arrangement stays in blues-rock form with stronger dynamic contrast than the mid-60s singles.",
-        "zh": "《Let It Bleed》（1969）开场曲。Richards 的吉他 riff 主导；Merry Clayton 唱客串人声；Watts 与 Bill Wyman 锁定节奏组。\n\n编曲仍在蓝调摇滚形式内，动态对比强于 60 年代中期单曲。"
+        "en": "Opening track on Let It Bleed (1969). Richards’s guitar riff leads; Merry Clayton sings the guest vocal part; Watts and Bill Wyman lock the rhythm section.\n\nMick Taylor was already in the guitar seat after Jones. The arrangement stays in blues-rock form with stronger dynamic contrast than the mid-60s singles.",
+        "zh": "《Let It Bleed》（1969）开场曲。Richards 的吉他 riff 主导；Merry Clayton 唱客串人声；Watts 与 Bill Wyman 锁定节奏组。\n\nJones 之后吉他已由 Mick Taylor 担任。编曲仍在蓝调摇滚形式内，动态对比强于 60 年代中期单曲。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "exile-touring",
+      "title": {
+        "en": "Sticky Fingers to stadium tours",
+        "zh": "从 Sticky Fingers 到体育场巡演"
+      },
+      "body": {
+        "en": "Sticky Fingers (1971) opened eight consecutive US #1 studio albums. Exile on Main St. (1972) is the usual citation for the peak studio run; Goats Head Soup and It’s Only Rock ’n Roll followed with Angie and the title track.\n\nSome Girls (1978) with Miss You and Tattoo You (1981) set later stadium-tour scale. After 1980, ticket sales often outpaced album sales. Wyman left in 1993; Darryl Jones took bass on Voodoo Lounge (1994), which returned them to UK album #1.",
+        "zh": "《Sticky Fingers》（1971）开启连续八张美录音室专辑冠军。《Exile on Main St.》（1972）是高峰录音室阶段的常见引用；随后《Goats Head Soup》与《It’s Only Rock ’n Roll》含 Angie 与同名单曲。\n\n《Some Girls》（1978，含 Miss You）与《Tattoo You》（1981）确立后来的体育场巡演规模。1980 年后门票收入常超过专辑销量。Wyman 于 1993 年离队；Darryl Jones 在《Voodoo Lounge》（1994）接任贝斯，专辑重回英国榜冠军。"
+      },
+      "stickyVisual": "scene",
       "soundGenre": "hard-rock"
     },
     {
@@ -202,8 +362,8 @@
         "zh": "Jagger、Richards 与节奏组"
       },
       "body": {
-        "en": "Jagger and Richards write as the Glimmer Twins pairing. Watts’s drumming sits slightly behind or around the beat in a jazz-informed pocket.\n\nSecond guitar and bass roles change with Jones, Taylor, Wood, and other players; session takes document the balance more clearly than press labels.",
-        "zh": "Jagger 与 Richards 以 Glimmer Twins 搭档写作。Watts 的鼓点常略靠拍后或绕拍，带爵士影响的口袋感。\n\n第二吉他与贝斯角色随 Jones、Taylor、Wood 等人变化；录音 take 比媒体标签更能说明声部平衡。"
+        "en": "Jagger and Richards write as the Glimmer Twins pairing. Watts’s drumming sits slightly behind or around the beat in a jazz-informed pocket.\n\nSecond guitar and bass roles change with Jones, Taylor, Wood, Wyman, and Darryl Jones; session players such as Billy Preston, Nicky Hopkins, and Chuck Leavell appear across later records and tours.",
+        "zh": "Jagger 与 Richards 以 Glimmer Twins 搭档写作。Watts 的鼓点常略靠拍后或绕拍，带爵士影响的口袋感。\n\n第二吉他与贝斯角色随 Jones、Taylor、Wood、Wyman 与 Darryl Jones 变化；Billy Preston、Nicky Hopkins、Chuck Leavell 等也出现在后期唱片与巡演中。"
       },
       "stickyVisual": "members",
       "soundGenre": "rock-n-roll"
@@ -224,12 +384,84 @@
   ],
   "lineupVersions": [
     {
-      "id": "classic-watts",
+      "id": "early-rehearsal",
       "label": {
-        "en": "Jagger–Richards–Watts core",
-        "zh": "Jagger–Richards–Watts 核心"
+        "en": "1962 formation",
+        "zh": "1962 年组建"
       },
-      "years": "1963–2021",
+      "years": "1962–1963",
+      "members": [
+        {
+          "name": "Mick Jagger",
+          "role": "Vocals"
+        },
+        {
+          "name": "Keith Richards",
+          "role": "Guitar"
+        },
+        {
+          "name": "Brian Jones",
+          "role": "Guitar"
+        },
+        {
+          "name": "Dick Taylor",
+          "role": "Bass"
+        },
+        {
+          "name": "Ian Stewart",
+          "role": "Piano"
+        },
+        {
+          "name": "Mick Avory",
+          "role": "Drums (rehearsals / debut)"
+        }
+      ],
+      "note": {
+        "en": "Taylor left for The Pretty Things. Avory rehearsed and played the July 1962 debut, then left for The Kinks. Stewart was kept off the official stage lineup.",
+        "zh": "Taylor 离队组建 The Pretty Things。Avory 参与排练与 1962 年 7 月首演后离开，后入 The Kinks。Stewart 未进入正式舞台编制。"
+      }
+    },
+    {
+      "id": "jones-era",
+      "label": {
+        "en": "Jones–Wyman–Watts",
+        "zh": "Jones–Wyman–Watts"
+      },
+      "years": "1963–1969",
+      "members": [
+        {
+          "name": "Mick Jagger",
+          "role": "Vocals"
+        },
+        {
+          "name": "Keith Richards",
+          "role": "Guitar"
+        },
+        {
+          "name": "Brian Jones",
+          "role": "Guitar, Multi-instrument"
+        },
+        {
+          "name": "Bill Wyman",
+          "role": "Bass"
+        },
+        {
+          "name": "Charlie Watts",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Decca singles through Beggars Banquet and Let It Bleed. Jones died in 1969.",
+        "zh": "从 Decca 单曲到《Beggars Banquet》与《Let It Bleed》。Jones 于 1969 年去世。"
+      }
+    },
+    {
+      "id": "taylor-peak",
+      "label": {
+        "en": "Mick Taylor peak",
+        "zh": "Mick Taylor 高峰"
+      },
+      "years": "1969–1974",
       "peak": true,
       "members": [
         {
@@ -241,17 +473,55 @@
           "role": "Guitar"
         },
         {
+          "name": "Mick Taylor",
+          "role": "Guitar"
+        },
+        {
+          "name": "Bill Wyman",
+          "role": "Bass"
+        },
+        {
           "name": "Charlie Watts",
           "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Let It Bleed through It’s Only Rock ’n Roll; Sticky Fingers and Exile on Main St. in this window.",
+        "zh": "从《Let It Bleed》到《It’s Only Rock ’n Roll》；含《Sticky Fingers》与《Exile on Main St.》。"
+      }
+    },
+    {
+      "id": "wood-era",
+      "label": {
+        "en": "Ronnie Wood era",
+        "zh": "Ronnie Wood 时期"
+      },
+      "years": "1975–present",
+      "members": [
+        {
+          "name": "Mick Jagger",
+          "role": "Vocals"
+        },
+        {
+          "name": "Keith Richards",
+          "role": "Guitar"
         },
         {
           "name": "Ronnie Wood",
           "role": "Guitar"
+        },
+        {
+          "name": "Charlie Watts",
+          "role": "Drums"
+        },
+        {
+          "name": "Darryl Jones",
+          "role": "Bass"
         }
       ],
       "note": {
-        "en": "Long-running core with Watts on drums; Wood on second guitar from the mid-1970s.",
-        "zh": "以 Watts 司鼓的长期核心；Wood 自 1970 年代中期起任第二吉他。"
+        "en": "Wood from 1975. Wyman left in 1993; Jones on bass thereafter. Watts died in 2021.",
+        "zh": "Wood 自 1975 年起。Wyman 于 1993 年离队，此后贝斯为 Jones。Watts 于 2021 年去世。"
       }
     }
   ],
@@ -269,8 +539,8 @@
       "blues"
     ],
     "note": {
-      "en": "Blues-based riff writing sustained from 1960s singles through Exile-era albums and touring.",
-      "zh": "以蓝调为基础的 riff 写作，从 1960 年代单曲延续到 Exile 时期专辑与巡演。"
+      "en": "Blues-based riff writing from 1960s singles through Exile-era albums and stadium touring.",
+      "zh": "以蓝调为基础的 riff 写作，从 1960 年代单曲延续到 Exile 时期专辑与体育场巡演。"
     }
   }
 }

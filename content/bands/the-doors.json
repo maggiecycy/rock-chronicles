@@ -13,8 +13,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Los Angeles four-piece formed in 1965. No bassist onstage—Ray Manzarek covered bass on keyboards. The Doors (1967) put organ-led blues-psych and Jim Morrison’s baritone on AM and FM radio.",
-    "zh": "洛杉矶四人组，1965 年成立。台上无贝斯手——Ray Manzarek 用键盘补贝斯。同名首专（1967）把风琴主导的蓝调迷幻与 Jim Morrison 男中音送上 AM/FM。"
+    "en": "Los Angeles four-piece, 1965–1971. No bassist onstage—Ray Manzarek covered bass on Vox Continental and Fender Rhodes pedals. Six studio albums with Jim Morrison; Light My Fire and L.A. Woman are the main radio anchors.",
+    "zh": "洛杉矶四人组，1965–1971。台上无贝斯手——Ray Manzarek 用 Vox Continental 与 Fender Rhodes 踏板补贝斯。与 Jim Morrison 共六张录音室专辑；电台锚点为 Light My Fire 与 L.A. Woman。"
   },
   "members": [
     {
@@ -50,6 +50,18 @@
       "year": 1967
     },
     {
+      "title": "The End",
+      "year": 1967
+    },
+    {
+      "title": "Hello, I Love You",
+      "year": 1968
+    },
+    {
+      "title": "Roadhouse Blues",
+      "year": 1970
+    },
+    {
       "title": "Riders on the Storm",
       "year": 1971
     },
@@ -74,13 +86,31 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Krieger composition. Organ and flamenco-leaning guitar solos on the LP; shorter AM radio edit.",
-        "zh": "Krieger 作曲。LP 上有风琴与偏弗拉门戈吉他独奏；AM 电台剪辑更短。"
+        "en": "Krieger composition; LP cut over seven minutes with organ and guitar solos. Shortened edit hit Billboard Hot 100 in April 1967.",
+        "zh": "Krieger 作曲；LP 版逾七分钟，含风琴与吉他独奏。精简版于 1967 年 4 月登上 Billboard Hot 100。"
       }
     },
     {
       "year": 1967,
-      "track": "Break On Through (To the Other Side)",
+      "track": "The End",
+      "membersOnStage": [
+        "Jim Morrison",
+        "Ray Manzarek",
+        "Robby Krieger",
+        "John Densmore"
+      ],
+      "genreTags": [
+        "psychedelic"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Long closer on the debut. After Morrison’s Whisky a Go Go performance of the song, the club barred the band.",
+        "zh": "首专长篇收尾曲。Morrison 在 Whisky a Go Go 演唱此曲后，俱乐部禁止乐队再演。"
+      }
+    },
+    {
+      "year": 1968,
+      "track": "Hello, I Love You",
       "membersOnStage": [
         "Jim Morrison",
         "Ray Manzarek",
@@ -92,8 +122,26 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Opener on the 1967 debut. Jazz-leaning drums under Morrison’s baritone.",
-        "zh": "1967 首专开场曲。偏爵士鼓点衬 Morrison 男中音。"
+        "en": "US #1 from Waiting for the Sun. Often compared to The Kinks’ All Day and All of the Night.",
+        "zh": "出自 Waiting for the Sun，美国榜冠军。常被拿来与 The Kinks 的 All Day and All of the Night 比较。"
+      }
+    },
+    {
+      "year": 1970,
+      "track": "Roadhouse Blues",
+      "membersOnStage": [
+        "Jim Morrison",
+        "Ray Manzarek",
+        "Robby Krieger",
+        "John Densmore"
+      ],
+      "genreTags": [
+        "blues"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "From Morrison Hotel. Blues-leaning return after Soft Parade’s strings and horns.",
+        "zh": "出自 Morrison Hotel。在 Soft Parade 的弦乐与铜管之后，回到更偏蓝调的写法。"
       }
     },
     {
@@ -111,8 +159,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "From L.A. Woman. Fender Rhodes and rain sound effects; late-period blues.",
-        "zh": "出自 L.A. Woman。Fender Rhodes 与雨声效果；晚期蓝调。"
+        "en": "From L.A. Woman. Electric piano, rain effects; late-period quieter vocal.",
+        "zh": "出自 L.A. Woman。电钢琴、雨声效果；晚期更安静的人声。"
       }
     }
   ],
@@ -132,17 +180,20 @@
   ],
   "lyricQuotes": [
     "You know that it would be untrue / You know that I would be a liar",
-    "Riders on the storm"
+    "Riders on the storm",
+    "This is the end, beautiful friend"
   ],
   "relatedBands": [
     "the-rolling-stones",
+    "the-kinks",
     "the-velvet-underground",
     "pink-floyd",
     "the-jimi-hendrix-experience"
   ],
   "influenceFrom": [
     "the-rolling-stones",
-    "elvis-presley"
+    "elvis-presley",
+    "the-kinks"
   ],
   "influenced": [
     "the-cure",
@@ -153,48 +204,78 @@
     "zh": "Morrison–Manzarek 风琴蓝调迷幻，洛杉矶，1965–71。主要热单为 Light My Fire；台上无贝斯手。"
   },
   "body": {
-    "en": "The Doors formed in Los Angeles in 1965. Jim Morrison sang; Ray Manzarek played keyboards and covered bass with his left hand and pedals; Robby Krieger played guitar; John Densmore played drums.\n\nThe debut album The Doors (1967) included Break On Through and Light My Fire. Later albums include Strange Days, Waiting for the Sun, and L.A. Woman (1971). Morrison died in Paris in July 1971. The remaining three recorded briefly without him, then stopped.",
-    "zh": "The Doors 于 1965 年在洛杉矶成立。Jim Morrison 主唱；Ray Manzarek 弹键盘，并以左手与踏板补贝斯；Robby Krieger 弹吉他；John Densmore 打鼓。\n\n首专 The Doors（1967）收录 Break On Through 与 Light My Fire。后续专辑包括 Strange Days、Waiting for the Sun 与 L.A. Woman（1971）。Morrison 于 1971 年 7 月在巴黎去世。其余三人短暂继续录音后停止。"
+    "en": "The Doors formed in Los Angeles in 1965. Early club sets were mostly covers. Jim Morrison sang; Ray Manzarek played Vox Continental and covered bass with Fender Rhodes pedals; Robby Krieger played guitar (flamenco, blues, hard-rock touches); John Densmore played jazz-leaning drums.\n\nElektra signed the band in August 1966. The Doors (1967) opened with Break On Through and closed with The End; Light My Fire—Krieger’s tune, cut for AM—reached the Hot 100 in April 1967. Strange Days followed the same year. After Morrison’s Whisky a Go Go performance of The End, the club barred them. He was also arrested in New Haven, Connecticut, after confronting police onstage.\n\nWaiting for the Sun (1968) yielded Hello, I Love You, a US #1 often compared to The Kinks’ All Day and All of the Night, plus The Unknown Soldier and Five to One. Soft Parade (1969) added strings and horns; Touch Me returned them to the US Top 3. Morrison Hotel (1970) leaned blues and funk (Roadhouse Blues, Peace Frog). L.A. Woman (1971) mixed blues covers, boogie, the title track, and Riders on the Storm.\n\nMorrison left for Paris with Pamela Courson before the album’s April 1971 release and died there on 3 July 1971. The remaining three recorded Other Voices and Full Circle (1971–72), then An American Prayer (1978) set to his poetry. Coppola used The End in Apocalypse Now (1979); Oliver Stone’s The Doors (1991) revived the catalog again.",
+    "zh": "The Doors 于 1965 年在洛杉矶成立。早期俱乐部演出以翻唱为主。Jim Morrison 主唱；Ray Manzarek 弹 Vox Continental，并用 Fender Rhodes 踏板补贝斯；Robby Krieger 弹吉他（含弗拉门戈、蓝调与硬摇滚触感）；John Densmore 打偏爵士的鼓。\n\n1966 年 8 月与 Elektra 签约。首专 The Doors（1967）以 Break On Through 开场、The End 收尾；Krieger 作曲的 Light My Fire 经 AM 精简后于 1967 年 4 月登上 Hot 100。同年发行 Strange Days。Morrison 在 Whisky a Go Go 演唱 The End 后，俱乐部禁止乐队再演；他在康涅狄格州纽黑文台上与警方对峙后被捕。\n\nWaiting for the Sun（1968）有美国冠军 Hello, I Love You（常被比作 The Kinks 的 All Day and All of the Night），以及 The Unknown Soldier、Five to One。Soft Parade（1969）加入弦乐与铜管；Touch Me 回到美国前 3。Morrison Hotel（1970）偏蓝调与放克（Roadhouse Blues、Peace Frog）。L.A. Woman（1971）含蓝调翻唱、布吉、同名曲与 Riders on the Storm。\n\n专辑 1971 年 4 月发行前，Morrison 与 Pamela Courson 前往巴黎，于 7 月 3 日去世。其余三人录制 Other Voices、Full Circle（1971–72），以及诗文专辑 An American Prayer（1978）。Coppola 在《现代启示录》（1979）使用 The End；Oliver Stone 电影 The Doors（1991）再次带动目录。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Organ bass and baritone front",
-        "zh": "风琴贝斯与男中音前站"
+        "en": "Vox Continental and bass pedals",
+        "zh": "Vox Continental 与贝斯踏板"
       },
       "body": {
-        "en": "The band had no bassist onstage. Manzarek used Fender Rhodes bass pedals and Vox Continental (or similar) for the low end. Krieger wrote several of the hits. Morrison sang in a baritone range and used spoken passages.\n\nThe sound stayed blues-rooted within Los Angeles psychedelic rock, with room for organ and guitar solos.",
-        "zh": "台上无贝斯手。Manzarek 用 Fender Rhodes 贝斯踏板与 Vox Continental（或同类）补低频。Krieger 写过多首热单。Morrison 以男中音演唱，并使用说白段落。\n\n声音仍扎根蓝调，属于洛杉矶迷幻摇滚，编曲给风琴与吉他独奏留空。"
+        "en": "The band had no bassist onstage. Manzarek’s Vox Continental and Fender Rhodes bass pedals carried the low end while his right hand played organ leads—the most recognizable part of the live sound.\n\nDensmore’s drums leaned jazz. Krieger mixed flamenco, blues, and harder rock; slide shows up clearly on Moonlight Drive. Morrison sang baritone, from loud projection to sharper blues color, and wrote lyrics from reading (existentialism, French symbolism, Beat writing) as well as LSD-era imagery.",
+        "zh": "台上无贝斯手。Manzarek 的 Vox Continental 与 Fender Rhodes 贝斯踏板负责低频，右手弹风琴主奏——这是现场最易辨认的声音。\n\nDensmore 的鼓偏爵士。Krieger 混合弗拉门戈、蓝调与更硬的摇滚；Moonlight Drive 上有明显滑音。Morrison 以男中音演唱，可从洪亮转为更尖的蓝调音色；歌词来自阅读（存在主义、法国象征主义、垮掉的一代）与 LSD 时期意象。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "psychedelic"
+      "soundGenre": "psychedelic",
+      "stickyImage": {
+        "src": "/media/bands/the-doors-manzarek-1968.jpg",
+        "alt": {
+          "en": "Ray Manzarek on Danish television, 17 September 1968",
+          "zh": "Ray Manzarek 于丹麦电视演出，1968 年 9 月 17 日"
+        },
+        "credit": "Jan Persson / Polfoto",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ray_Manzarek_1968.jpg"
+      }
     },
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Classic four until Morrison’s death",
-        "zh": "经典四人至 Morrison 去世"
+        "en": "Classic four until 1971",
+        "zh": "经典四人至 1971"
       },
       "body": {
-        "en": "The studio and live peak lineup was Morrison, Manzarek, Krieger, and Densmore from 1965 to 1971.\n\nAlbums after Morrison’s death, recorded by the remaining three, are a short footnote. The main catalog ends with L.A. Woman.",
-        "zh": "1965–71 的录音与现场巅峰阵容为 Morrison、Manzarek、Krieger、Densmore。\n\nMorrison 去世后由其余三人录制的专辑是短暂脚注。主要目录止于 L.A. Woman。"
+        "en": "Studio and live peak lineup was Morrison, Manzarek, Krieger, and Densmore from 1965 to 1971—six albums with Morrison.\n\nAfter his death the three remaining members recorded Other Voices and Full Circle with Manzarek and Krieger on vocals. An American Prayer (1978) set Morrison’s poetry to new music. Later Manzarek–Krieger tours with other singers are a separate chapter from the Morrison catalog.",
+        "zh": "1965–71 录音与现场巅峰阵容为 Morrison、Manzarek、Krieger、Densmore——与 Morrison 共六张专辑。\n\n他去世后其余三人录制 Other Voices 与 Full Circle，由 Manzarek、Krieger 主唱。An American Prayer（1978）为 Morrison 诗文配乐。后来的 Manzarek–Krieger 巡演（其他主唱）与 Morrison 时期目录分开看。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "psychedelic"
+      "soundGenre": "psychedelic",
+      "stickyImage": {
+        "src": "/media/bands/the-doors-1966-promo.jpg",
+        "alt": {
+          "en": "The Doors promotional photo, New York, November 1966 (used on Light My Fire sleeve)",
+          "zh": "The Doors 宣传照，纽约，1966 年 11 月（用于 Light My Fire 单曲封面）"
+        },
+        "credit": "Joel Brodsky; Agency for the Performing Arts",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Doors_1968.JPG"
+      }
     },
     {
-      "id": "members",
+      "id": "whisky-newhaven",
       "title": {
-        "en": "Roles in the four-piece",
-        "zh": "四人组分工"
+        "en": "Whisky ban and New Haven arrest",
+        "zh": "Whisky 禁演与纽黑文被捕"
       },
       "body": {
-        "en": "Morrison handled vocals and much of the lyric writing. Manzarek split keyboard parts between bass lines and organ leads. Krieger used fingerstyle and slide; Densmore brought jazz and Latin accents on the kit.\n\nArrangements often left space for extended organ or guitar solos, as on the album cut of Light My Fire.",
-        "zh": "Morrison 负责人声与大量歌词。Manzarek 在贝斯线与风琴主奏之间分工。Krieger 使用指弹与滑音；Densmore 在鼓组上带爵士与拉丁点缀。\n\n编曲常给延长的风琴或吉他独奏留空，如 Light My Fire 专辑版。"
+        "en": "At Hollywood’s Whisky a Go Go, Morrison’s performance of The End led the club to bar the band from further shows.\n\nIn New Haven, Connecticut, he confronted police onstage and was arrested. Those incidents sit beside the radio hits as part of how the group was covered in the late 1960s.",
+        "zh": "在好莱坞 Whisky a Go Go，Morrison 演唱 The End 的方式导致俱乐部禁止乐队再演。\n\n在康涅狄格州纽黑文，他在台上与警方对峙后被捕。这些事件与电台热单一并构成 1960 年代末媒体对乐队的报道。"
       },
-      "stickyVisual": "members",
-      "soundGenre": "blues"
+      "stickyVisual": "influence",
+      "soundGenre": "psychedelic",
+      "stickyImage": {
+        "src": "/media/bands/the-doors-morrison-copenhagen-1968.jpg",
+        "alt": {
+          "en": "Jim Morrison performing in Copenhagen, 1968",
+          "zh": "Jim Morrison 于哥本哈根演出，1968"
+        },
+        "credit": "Jan Persson / Polfoto",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jim_Morrison_in_1968.jpg"
+      }
     },
     {
       "id": "light-my-fire",
@@ -203,36 +284,50 @@
         "zh": "Light My Fire"
       },
       "body": {
-        "en": "Written by Robby Krieger. The LP version includes long organ and guitar solos; the AM radio edit cuts the middle section.\n\nIt was a 1967 crossover hit and the band’s widest early exposure on US radio.",
-        "zh": "Robby Krieger 作曲。LP 版含长风琴与吉他独奏；AM 电台剪辑砍掉中段。\n\n1967 年跨界热单，是乐队早期在美国电台最广的曝光。"
+        "en": "Written mainly by Krieger. The album cut runs past seven minutes with organ and guitar solos; the AM edit cuts the middle.\n\nIt was the band’s widest early US radio exposure in 1967, from the debut The Doors.",
+        "zh": "主要由 Krieger 作曲。专辑版逾七分钟，含风琴与吉他独奏；AM 剪辑砍掉中段。\n\n1967 年它是乐队早期在美国电台最广的曝光，出自首专 The Doors。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
       "soundGenre": "psychedelic"
     },
     {
-      "id": "riders",
+      "id": "hello-kinks",
       "title": {
-        "en": "Riders on the Storm",
-        "zh": "Riders on the Storm"
+        "en": "Hello, I Love You and the Kinks comparison",
+        "zh": "Hello, I Love You 与 Kinks 比较"
       },
       "body": {
-        "en": "From the L.A. Woman sessions (1971). Electric piano, rain sound effects, and a quieter vocal delivery than the early carnival-leaning hits.\n\nOne of the last major studio tracks before Morrison’s death.",
-        "zh": "出自 L.A. Woman 录音（1971）。电钢琴、雨声效果，人声比早期偏热闹的热单更安静。\n\nMorrison 去世前最后的重要录音室曲目之一。"
+        "en": "Waiting for the Sun (1968) was a difficult Morrison-era session, but Hello, I Love You reached US #1.\n\nListeners and writers have long noted its resemblance to The Kinks’ All Day and All of the Night. The same album also holds The Unknown Soldier and Five to One.",
+        "zh": "Waiting for the Sun（1968）录音不顺，但 Hello, I Love You 拿到美国榜冠军。\n\n乐评与听众长期指出它与 The Kinks 的 All Day and All of the Night 相似。同专还有 The Unknown Soldier 与 Five to One。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
+      "soundGenre": "psychedelic"
+    },
+    {
+      "id": "la-woman",
+      "title": {
+        "en": "Morrison Hotel to L.A. Woman",
+        "zh": "从 Morrison Hotel 到 L.A. Woman"
+      },
+      "body": {
+        "en": "Morrison Hotel (1970) moved toward blues and funk—Roadhouse Blues, Peace Frog—after Soft Parade’s orchestration. Absolutely Live the same year documented the band as a strong live act.\n\nL.A. Woman (1971) kept that momentum: Crawling King Snake (John Lee Hooker), boogie on The WASP, the title track, and Riders on the Storm with prominent Manzarek keyboards. Morrison’s voice grew raspier from smoking; he left for Paris before the April release and died in July.",
+        "zh": "Morrison Hotel（1970）在 Soft Parade 的管弦编配之后转向蓝调与放克——Roadhouse Blues、Peace Frog。同年 Absolutely Live 记录了乐队作为强现场单位的一面。\n\nL.A. Woman（1971）延续势头：Crawling King Snake（John Lee Hooker）、The WASP 的布吉、同名曲，以及突出 Manzarek 键盘的 Riders on the Storm。Morrison 因吸烟音色更沙；4 月发行前去巴黎，7 月去世。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 4,
       "soundGenre": "blues"
     },
     {
       "id": "legacy",
       "title": {
-        "en": "Later influence",
-        "zh": "后期影响"
+        "en": "After 1971",
+        "zh": "1971 之后"
       },
       "body": {
-        "en": "Post-punk and goth acts have drawn on Morrison’s baritone delivery and spoken breaks. The keyboard-as-bass live setup remains uncommon in rock.\n\nThe active peak was short (1967–71); the radio catalog stayed in rotation afterward.",
-        "zh": "后朋克与哥特乐队常借鉴 Morrison 的男中音与说白。现场以键盘当贝斯的编制在摇滚中仍不常见。\n\n活跃巅峰较短（1967–71）；之后电台曲目仍长期轮播。"
+        "en": "The End appeared in Apocalypse Now (1979). Hopkins and Sugarman’s No One Here Gets Out Alive (1980) and Stone’s film (1991) fed later catalog sales. Alive, She Cried (1983) did solid live-compilation business.\n\nPost-punk and goth acts often cite Morrison’s baritone and spoken breaks. The keyboard-as-bass live setup remains uncommon in rock.",
+        "zh": "The End 出现在《现代启示录》（1979）。Hopkins 与 Sugarman 的《此地无人生还》（1980）与 Stone 电影（1991）带动后期目录销量。Alive, She Cried（1983）现场合辑销量不错。\n\n后朋克与哥特乐队常引用 Morrison 的男中音与说白。现场以键盘当贝斯的编制在摇滚中仍不常见。"
       },
       "stickyVisual": "influence",
       "soundGenre": "psychedelic"
@@ -255,7 +350,7 @@
         },
         {
           "name": "Ray Manzarek",
-          "role": "Keyboards",
+          "role": "Keyboards, Bass Pedals",
           "personSlug": "ray-manzarek"
         },
         {
@@ -268,8 +363,35 @@
         }
       ],
       "note": {
-        "en": "Morrison-era studio and live lineup through L.A. Woman.",
-        "zh": "Morrison 时期录音与现场阵容，至 L.A. Woman。"
+        "en": "Morrison-era studio and live lineup through L.A. Woman. Manzarek: Vox Continental + Fender Rhodes bass pedals.",
+        "zh": "Morrison 时期录音与现场阵容，至 L.A. Woman。Manzarek：Vox Continental + Fender Rhodes 贝斯踏板。"
+      }
+    },
+    {
+      "id": "post-morrison",
+      "label": {
+        "en": "Post-Morrison trio",
+        "zh": "Morrison 之后三人"
+      },
+      "years": "1971–1973",
+      "members": [
+        {
+          "name": "Ray Manzarek",
+          "role": "Keyboards, Vocals",
+          "personSlug": "ray-manzarek"
+        },
+        {
+          "name": "Robby Krieger",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "John Densmore",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Other Voices and Full Circle; Manzarek and Krieger shared lead vocals.",
+        "zh": "Other Voices 与 Full Circle；Manzarek 与 Krieger 分担主唱。"
       }
     }
   ],
@@ -278,8 +400,8 @@
       "title": "Light My Fire",
       "year": 1967,
       "note": {
-        "en": "Organ and guitar solo hit that put the band on AM radio.",
-        "zh": "风琴与吉他独奏热单，把乐队送上 AM 电台。"
+        "en": "Krieger tune; organ/guitar solo LP cut and AM edit that put the band on US radio.",
+        "zh": "Krieger 曲；风琴/吉他独奏 LP 版与 AM 剪辑，把乐队送上美国电台。"
       }
     },
     "pioneeredGenres": [
@@ -287,8 +409,8 @@
       "blues"
     ],
     "note": {
-      "en": "Bass-less organ setup plus baritone blues-psych song forms.",
-      "zh": "无贝斯风琴编制 + 男中音蓝调迷幻曲式。"
+      "en": "Bass-less Vox/Rhodes setup plus baritone blues-psych song forms, Los Angeles 1967–71.",
+      "zh": "无贝斯 Vox/Rhodes 编制 + 男中音蓝调迷幻曲式，洛杉矶 1967–71。"
     }
   }
 }

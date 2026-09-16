@@ -12,9 +12,10 @@
     "hard-rock",
     "blues"
   ],
+  "decisive": true,
   "whyMatters": {
-    "en": "London-based trio, 1966–1969. Hendrix used feedback, wah, and studio guitar effects as lead tools on Are You Experienced, Axis: Bold as Love, and Electric Ladyland.",
-    "zh": "伦敦基地三人组，1966–1969。Hendrix 在《Are You Experienced》《Axis: Bold as Love》《Electric Ladyland》上，把反馈、wah 与录音室吉他效果当作主音声部工具。"
+    "en": "London-based trio, 1966–1969. Hendrix used feedback, wah, and studio guitar effects as lead tools on Are You Experienced, Axis: Bold as Love, and Electric Ladyland. Monterey and Woodstock are the main filmed live documents.",
+    "zh": "伦敦基地三人组，1966–1969。Hendrix 在《Are You Experienced》《Axis: Bold as Love》《Electric Ladyland》上，把反馈、wah 与录音室吉他效果当作主音声部工具。Monterey 与 Woodstock 是主要影像现场文献。"
   },
   "members": [
     {
@@ -31,19 +32,46 @@
       "name": "Mitch Mitchell",
       "role": "Drums",
       "years": "1966–1969"
+    },
+    {
+      "name": "Billy Cox",
+      "role": "Bass",
+      "years": "1969–1970"
+    },
+    {
+      "name": "Buddy Miles",
+      "role": "Drums, Vocals",
+      "years": "1969–1970"
+    },
+    {
+      "name": "Larry Lee",
+      "role": "Guitar",
+      "years": "1969"
     }
   ],
   "essentialTracks": [
+    {
+      "title": "Hey Joe",
+      "year": 1967
+    },
     {
       "title": "Purple Haze",
       "year": 1967
     },
     {
-      "title": "Voodoo Child (Slight Return)",
-      "year": 1968
+      "title": "Foxy Lady",
+      "year": 1967
+    },
+    {
+      "title": "Little Wing",
+      "year": 1967
     },
     {
       "title": "All Along the Watchtower",
+      "year": 1968
+    },
+    {
+      "title": "Voodoo Child (Slight Return)",
       "year": 1968
     }
   ],
@@ -62,8 +90,44 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "1967 single; tritone riff, fuzz/octave colors, Mitchell fills.",
-        "zh": "1967 单曲；三全音 riff、fuzz/八度色彩、Mitchell 加花。"
+        "en": "1967 single; tritone riff, fuzz/octave colors, Mitchell fills. UK Top 3; later US chart entry.",
+        "zh": "1967 单曲；三全音 riff、fuzz/八度色彩、Mitchell 加花。英国前 3；随后进入美国榜。"
+      }
+    },
+    {
+      "year": 1967,
+      "track": "Foxy Lady",
+      "membersOnStage": [
+        "Jimi Hendrix",
+        "Noel Redding",
+        "Mitch Mitchell"
+      ],
+      "genreTags": [
+        "psychedelic",
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "From Are You Experienced. Book notes Hendrix playing it while opening for The Monkees—crowd pushed back after eight shows.",
+        "zh": "出自 Are You Experienced。书中写 Hendrix 为 The Monkees 暖场时唱此曲——八场后因观众抗议而中止。"
+      }
+    },
+    {
+      "year": 1968,
+      "track": "All Along the Watchtower",
+      "membersOnStage": [
+        "Jimi Hendrix",
+        "Noel Redding",
+        "Mitch Mitchell"
+      ],
+      "genreTags": [
+        "psychedelic",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Bob Dylan cover; US Top 10. Layered studio guitars on Electric Ladyland–era sessions.",
+        "zh": "Bob Dylan 翻唱；美国前 10。Electric Ladyland 时期多层录音室吉他。"
       }
     },
     {
@@ -80,8 +144,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "From Electric Ladyland; wah-led blues-rock riff track.",
-        "zh": "出自《Electric Ladyland》；以 wah 主导的蓝调摇滚 riff 曲。"
+        "en": "From Electric Ladyland; wah-led blues-rock riff. UK #1 single two months after Hendrix’s death.",
+        "zh": "出自 Electric Ladyland；以 wah 主导的蓝调摇滚 riff。Hendrix 去世两月后英国单曲榜冠军。"
       }
     }
   ],
@@ -93,10 +157,10 @@
       "year": 1969
     },
     {
-      "text": "Mitch and Noel gave me room to set the guitar on fire—literally and not.",
-      "speaker": "Jimi Hendrix",
-      "source": "Press interview excerpt",
-      "year": 1967
+      "text": "What he did was miraculous.",
+      "speaker": "Pete Townshend",
+      "source": "Quoted in Rock Chronicles on Hendrix",
+      "year": 1970
     }
   ],
   "lyricQuotes": [
@@ -104,6 +168,8 @@
     "Purple haze all in my brain"
   ],
   "relatedBands": [
+    "cream",
+    "the-who",
     "led-zeppelin",
     "pink-floyd",
     "chuck-berry"
@@ -116,27 +182,59 @@
     "black-sabbath"
   ],
   "shortBio": {
-    "en": "London trio, 1966–1969. Hendrix, Redding, Mitchell; Purple Haze and Electric Ladyland are core references.",
-    "zh": "伦敦三人组，1966–1969。Hendrix、Redding、Mitchell；《Purple Haze》与《Electric Ladyland》是主要参照。"
+    "en": "London trio, 1966–1969. Hendrix, Redding, Mitchell; Purple Haze and Electric Ladyland are core references. Later Band of Gypsys with Cox and Miles.",
+    "zh": "伦敦三人组，1966–1969。Hendrix、Redding、Mitchell；《Purple Haze》与《Electric Ladyland》是主要参照。后期 Band of Gypsys 为 Cox 与 Miles。"
   },
-  "decisive": true,
   "body": {
-    "en": "The Jimi Hendrix Experience formed in London in 1966 with manager/producer Chas Chandler. Early singles and Are You Experienced (1967) set a psychedelic blues-rock sound; Axis: Bold as Love and Electric Ladyland (1968) added denser studio layering.\n\nPurple Haze (1967) shows original riff writing with effects. All Along the Watchtower (1968), a Bob Dylan song, was rebuilt with layered guitars. Monterey (1967) and Woodstock (1969) performances are widely circulated film and audio documents. The trio period ended in 1969.",
-    "zh": "The Jimi Hendrix Experience 于 1966 年在伦敦成立，经理/制作人为 Chas Chandler。早期单曲与《Are You Experienced》（1967）定下迷幻蓝调摇滚；《Axis: Bold as Love》与《Electric Ladyland》（1968）增加更密的录音室分层。\n\n《Purple Haze》（1967）展示带效果的原创 riff 写作。《All Along the Watchtower》（1968）翻唱 Bob Dylan，用多层吉他重建。Monterey（1967）与 Woodstock（1969）演出有广泛流传的影像与录音。三人组时期于 1969 年结束。"
+    "en": "Johnny Allen Hendrix was born in Seattle. After US Army discharge (1962) he toured the chitlin’ circuit with Little Richard, Ike & Tina Turner, and The Isley Brothers. In New York with Jimmy James & the Blue Flames, Animals bassist Chas Chandler brought him to London. He changed the spelling to Jimi on the way; in 1966 he recruited Noel Redding (bass) and Mitch Mitchell (drums) as The Jimi Hendrix Experience.\n\nTrack Records issued Hey Joe (UK #6, early 1967). UK tours with The Walker Brothers drew criticism for guitar burning and stage sexuality. Purple Haze and Are You Experienced both hit UK Top 3 (Fire, Foxy Lady, Manic Depression, 3rd Stone from the Sun on the LP). After ten months away he returned for Monterey Pop with The Who and Grateful Dead; he also opened eight Monkees US dates before protests ended the support slot.\n\nAxis: Bold as Love (1967) reached Top 5 on both sides (Little Wing, Castles Made of Sand). Electric Ladyland (1968) was a US #1; Smash Hits carried All Along the Watchtower (Dylan cover, US Top 10). Last Experience show with Redding: Denver, June 1969. Woodstock closed with Gypsy Sun & Rainbows (Larry Lee, Billy Cox, Juma Sultan, Jerry Velez plus Mitchell), then Band of Gypsys (Hendrix, Cox, Buddy Miles) and the live Band of Gypsys album.\n\nIsle of Wight, August 1970; death in London, 18 September 1970, aged 27 (barbiturates and alcohol; asphyxia). Voodoo Child hit UK #1 two months later. The Cry of Love (1971) reached Top 3 in the US and UK.",
+    "zh": "Johnny Allen Hendrix 生于西雅图。1962 年退伍后在 chitlin’ circuit 与 Little Richard、Ike & Tina Turner、The Isley Brothers 巡演。在纽约 Jimmy James & the Blue Flames 时期，The Animals 贝斯手 Chas Chandler 把他带到伦敦。赴英途中改名为 Jimi；1966 年招募 Noel Redding（贝斯）与 Mitch Mitchell（鼓），组成 The Jimi Hendrix Experience。\n\nTrack 发行 Hey Joe（1967 年初英国第 6）。与 The Walker Brothers 的英国巡演因焚琴与舞台尺度受批评。Purple Haze 与 Are You Experienced 均进英国前 3（LP 含 Fire、Foxy Lady、Manic Depression、3rd Stone from the Sun）。离开美国十个月后，他与 The Who、Grateful Dead 同台 Monterey；并为 The Monkees 美国巡演暖场八场后因抗议中止。\n\nAxis: Bold as Love（1967）两岸前 5（Little Wing、Castles Made of Sand）。Electric Ladyland（1968）美国冠军；Smash Hits 含 All Along the Watchtower（Dylan 翻唱，美国前 10）。与 Redding 的最后一场 Experience：1969 年 6 月丹佛。Woodstock 压轴阵容为 Gypsy Sun & Rainbows（Larry Lee、Billy Cox、Juma Sultan、Jerry Velez 加 Mitchell），随后 Band of Gypsys（Hendrix、Cox、Buddy Miles）与同名现场专辑。\n\n1970 年 8 月怀特岛；9 月 18 日在伦敦去世，年 27（安眠药与酒精；窒息）。两月后 Voodoo Child 英国冠军。The Cry of Love（1971）英美前 3。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Core sound",
-        "zh": "核心声音"
+        "en": "From chitlin’ circuit to London trio",
+        "zh": "从 chitlin’ circuit 到伦敦三人组"
       },
       "body": {
-        "en": "Hendrix treats amp feedback, wah, fuzz, and studio mixing as part of the lead guitar line, alongside blues phrasing and bends.\n\nThe trio format leaves space: Mitchell’s jazz-influenced drums and Redding’s bass support without dense chord stacks.",
-        "zh": "Hendrix 把音箱反馈、wah、fuzz 与录音室混音当作主音吉他线的一部分，与蓝调乐句和推弦并用。\n\n三人编制留出空间：Mitchell 带爵士影响的鼓与 Redding 的贝斯支撑，不堆厚和弦。"
+        "en": "Hendrix treats amp feedback, wah, fuzz, and studio mixing as part of the lead guitar line, alongside blues phrasing and bends.\n\nChandler’s London move and the Redding–Mitchell trio left space: Mitchell’s jazz-influenced drums and Redding’s bass support without dense chord stacks. Early Track singles and Are You Experienced set the template.",
+        "zh": "Hendrix 把音箱反馈、wah、fuzz 与录音室混音当作主音吉他线的一部分，与蓝调乐句和推弦并用。\n\nChandler 的伦敦安排与 Redding–Mitchell 三人编制留出空间：Mitchell 偏爵士的鼓与 Redding 的贝斯支撑，不堆厚和弦。早期 Track 单曲与 Are You Experienced 定下模板。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "psychedelic"
+      "soundGenre": "psychedelic",
+      "stickyImage": {
+        "src": "/media/bands/the-jimi-hendrix-experience-1968-promo.jpg",
+        "alt": {
+          "en": "The Jimi Hendrix Experience promotional photo, 1968",
+          "zh": "The Jimi Hendrix Experience 宣传照，1968"
+        },
+        "credit": "Warner/Reprise Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jimi_Hendrix_experience_1968.jpg"
+      }
+    },
+    {
+      "id": "monterey-monkees",
+      "title": {
+        "en": "Monterey and The Monkees",
+        "zh": "Monterey 与 The Monkees"
+      },
+      "body": {
+        "en": "After ten months in Europe, Hendrix returned for Monterey Pop with The Who and Grateful Dead—widely circulated film of the guitar-burning set.\n\nThe Experience also opened for The Monkees on a US tour. Micky Dolenz later described Hendrix playing Foxy Lady while the crowd cheered for The Monkees; after eight shows the support slot ended under protest.",
+        "zh": "在欧洲十个月后，Hendrix 与 The Who、Grateful Dead 同台 Monterey——焚琴现场影像流传很广。\n\nExperience 也为 The Monkees 美国巡演暖场。Micky Dolenz 后来描述 Hendrix 演 Foxy Lady 时年轻人却在为 Monkees 欢呼；八场后因抗议中止暖场。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "psychedelic",
+      "stickyImage": {
+        "src": "/media/bands/the-jimi-hendrix-hoepla-1967.jpg",
+        "alt": {
+          "en": "Jimi Hendrix on Dutch TV program Hoepla, 1967",
+          "zh": "Jimi Hendrix 在荷兰电视节目 Hoepla，1967"
+        },
+        "credit": "See Commons file page",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:HendrixHoepla1967-2.jpg"
+      }
     },
     {
       "id": "scene-0",
@@ -145,52 +243,61 @@
         "zh": "《Purple Haze》"
       },
       "body": {
-        "en": "Released as a single in 1967 and included on Are You Experienced. The opening uses a tritone interval riff; fuzz and octave colors sit on the guitar track; Mitchell adds fills around the vocal.\n\nRuntime stays in pop-single length while the guitar part carries most of the arrangement identity.",
-        "zh": "1967 年作为单曲发行，并收入《Are You Experienced》。开场使用三全音音程 riff；吉他轨带 fuzz 与八度色彩；Mitchell 在人声周围加花。\n\n时长仍在流行单曲范围，编曲识别主要靠吉他声部。"
+        "en": "Released as a single in 1967 and included on Are You Experienced. Opening tritone riff; fuzz and octave colors on the guitar; Mitchell fills around the vocal.\n\nUK Top 3 with the album; later the track that first put Hendrix on the US charts after The Wind Cried Mary and Burning of the Midnight Lamp had already been UK hits.",
+        "zh": "1967 年作为单曲发行，并收入 Are You Experienced。开场三全音 riff；吉他轨带 fuzz 与八度色彩；Mitchell 在人声周围加花。\n\n与专辑同进英国前 3；在 The Wind Cried Mary、Burning of the Midnight Lamp 已是英国热单之后，此曲首次把他送上美国榜。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
       "soundGenre": "psychedelic"
     },
     {
-      "id": "scene-1",
+      "id": "electric-ladyland",
       "title": {
-        "en": "Voodoo Child (Slight Return)",
-        "zh": "《Voodoo Child (Slight Return)》"
+        "en": "Electric Ladyland and Watchtower",
+        "zh": "Electric Ladyland 与 Watchtower"
       },
       "body": {
-        "en": "From Electric Ladyland (1968). Wah-pedal articulation leads a blues-rock riff; Mitchell and Redding keep a tight trio pulse underneath.\n\nAll Along the Watchtower, also from that album period, rebuilds Dylan’s song with layered studio guitars and a clear dynamic curve.",
-        "zh": "出自《Electric Ladyland》（1968）。Wah 踏板奏法主导蓝调摇滚 riff；Mitchell 与 Redding 在下方维持紧凑的三人脉冲。\n\n同属该专辑时期的《All Along the Watchtower》用多层录音室吉他与清楚的动态曲线重建 Dylan 原曲。"
+        "en": "Electric Ladyland (1968) reached UK #6 and US #1 (US sleeve changed from a nude group cover to a less contested psychedelic design). Smash Hits carried All Along the Watchtower—Dylan rebuilt with layered guitars, US Top 10.\n\nVoodoo Child (Slight Return) is the wah-led riff track from the same album period; it hit UK #1 after Hendrix’s death.",
+        "zh": "Electric Ladyland（1968）英国第 6、美国冠军（美国封面从裸体群像改为争议较小的迷幻设计）。Smash Hits 含 All Along the Watchtower——用多层吉他重建 Dylan，美国前 10。\n\n同属该专辑时期的 Voodoo Child (Slight Return) 是 wah 主导的 riff 曲；Hendrix 去世后成为英国冠军。"
       },
       "stickyVisual": "scene",
-      "sceneIndex": 1,
+      "sceneIndex": 2,
       "soundGenre": "blues"
     },
     {
-      "id": "dna",
+      "id": "band-of-gypsys",
       "title": {
-        "en": "Guitar technique after Hendrix",
-        "zh": "Hendrix 之后的吉他技法"
+        "en": "After the Experience: Woodstock and Band of Gypsys",
+        "zh": "Experience 之后：Woodstock 与 Band of Gypsys"
       },
       "body": {
-        "en": "Later hard-rock and metal lead players often cite feedback, wah, and controlled amp noise as melodic tools, not only as accidents.\n\nJimmy Page and many post-1960s guitarists reference Hendrix’s touch and effect choices alongside blues speed and phrasing.",
-        "zh": "后来的 hard rock 与金属主音常引用反馈、wah 与可控的音箱噪声作为旋律手段，而不只是意外。\n\nJimmy Page 与许多 1960 年代后的吉他手，会同时提到 Hendrix 的触感、效果选择与蓝调速度/句式。"
+        "en": "Last Hendrix–Redding–Mitchell show: Denver, June 1969. Redding formed Fat Mattress; Mitchell stayed for Woodstock with Gypsy Sun & Rainbows—Larry Lee (guitar), Billy Cox (bass), Juma Sultan and Jerry Velez (percussion).\n\nThat lineup fed Band of Gypsys: Hendrix, Cox, and Buddy Miles, documented on the live Band of Gypsys album (1970).",
+        "zh": "Hendrix–Redding–Mitchell 最后一场：1969 年 6 月丹佛。Redding 组建 Fat Mattress；Mitchell 继续参加 Woodstock，阵容为 Gypsy Sun & Rainbows——Larry Lee（吉他）、Billy Cox（贝斯）、Juma Sultan 与 Jerry Velez（打击乐）。\n\n其后演变为 Band of Gypsys：Hendrix、Cox、Buddy Miles，现场专辑 Band of Gypsys（1970）。"
       },
-      "stickyVisual": "dna",
-      "soundGenre": "psychedelic"
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/the-jimi-hendrix-1967-cropped.jpg",
+        "alt": {
+          "en": "Jimi Hendrix, 1967",
+          "zh": "Jimi Hendrix，1967"
+        },
+        "credit": "See Commons file page",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jimi_Hendrix_(1967)_(cropped).jpg"
+      }
     },
     {
-      "id": "quote",
+      "id": "legacy",
       "title": {
-        "en": "On sound and stage",
-        "zh": "关于声音与舞台"
+        "en": "1970 and after",
+        "zh": "1970 与之后"
       },
       "body": {
-        "en": "Interview lines about wanting new sounds line up with the recorded experiments—fuzz, wah, studio overdubs, and live amp volume.\n\nGear and session detail are more useful than vague praise for describing the Experience records.",
-        "zh": "关于想要新声音的访谈句，与录音实验一致——fuzz、wah、录音室叠加与现场音箱音量。\n\n描述 Experience 唱片时，设备与录音细节比空泛赞词更有用。"
+        "en": "Isle of Wight, August 1970 (David Gilmour among those involved in the mix, per the book). Death in London, 18 September 1970. The Cry of Love (1971) reached Top 3 in the US and UK; later archive sets include Valleys of Neptune (2010).\n\nLater hard-rock and metal leads often treat feedback, wah, and controlled amp noise as melodic tools. Pete Townshend’s line in the book: what Hendrix did was miraculous.",
+        "zh": "1970 年 8 月怀特岛（书中写 Pink Floyd 的 David Gilmour 参与混音）。9 月 18 日于伦敦去世。The Cry of Love（1971）英美前 3；后来档案专辑包括 Valleys of Neptune（2010）。\n\n后来的 hard rock 与金属主音常把反馈、wah 与可控音箱噪声当作旋律手段。书中 Pete Townshend：他所做的都是奇迹。"
       },
-      "stickyVisual": "quote",
-      "quoteIndex": 0,
+      "stickyVisual": "dna",
       "soundGenre": "psychedelic"
     }
   ],
@@ -208,8 +315,8 @@
       "hard-rock"
     ],
     "note": {
-      "en": "Feedback, wah, and studio guitar effects used as lead vocabulary in a power trio.",
-      "zh": "在 power trio 编制中，把反馈、wah 与录音室吉他效果用作主音语汇。"
+      "en": "Feedback, wah, and studio guitar effects used as lead vocabulary in a power trio; Monterey and Woodstock as filmed peaks.",
+      "zh": "在 power trio 编制中把反馈、wah 与录音室吉他效果用作主音语汇；Monterey 与 Woodstock 为影像高峰。"
     }
   },
   "lineupVersions": [
@@ -236,8 +343,64 @@
         }
       ],
       "note": {
-        "en": "Hendrix guitar/vocals; Redding bass; Mitchell drums, 1966–1969.",
-        "zh": "Hendrix 吉他/人声；Redding 贝斯；Mitchell 鼓，1966–1969。"
+        "en": "Hendrix guitar/vocals; Redding bass; Mitchell drums through Denver, June 1969.",
+        "zh": "Hendrix 吉他/人声；Redding 贝斯；Mitchell 鼓，至 1969 年 6 月丹佛。"
+      }
+    },
+    {
+      "id": "gypsy-sun",
+      "label": {
+        "en": "Gypsy Sun & Rainbows (Woodstock)",
+        "zh": "Gypsy Sun & Rainbows（Woodstock）"
+      },
+      "years": "1969",
+      "members": [
+        {
+          "name": "Jimi Hendrix",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Mitch Mitchell",
+          "role": "Drums"
+        },
+        {
+          "name": "Billy Cox",
+          "role": "Bass"
+        },
+        {
+          "name": "Larry Lee",
+          "role": "Guitar"
+        }
+      ],
+      "note": {
+        "en": "Woodstock closing set; percussionists Juma Sultan and Jerry Velez also on that stage.",
+        "zh": "Woodstock 压轴；打击乐手 Juma Sultan、Jerry Velez 同台。"
+      }
+    },
+    {
+      "id": "band-of-gypsys",
+      "label": {
+        "en": "Band of Gypsys",
+        "zh": "Band of Gypsys"
+      },
+      "years": "1969–1970",
+      "members": [
+        {
+          "name": "Jimi Hendrix",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Billy Cox",
+          "role": "Bass"
+        },
+        {
+          "name": "Buddy Miles",
+          "role": "Drums, Vocals"
+        }
+      ],
+      "note": {
+        "en": "Live album Band of Gypsys (1970).",
+        "zh": "现场专辑 Band of Gypsys（1970）。"
       }
     }
   ]

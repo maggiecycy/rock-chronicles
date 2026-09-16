@@ -10,8 +10,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "London band formed in 1963. Early Pye singles used Dave Davies’s sliced-speaker distortion and two-chord riffs; later Ray Davies albums focused on English observational songwriting.",
-    "zh": "伦敦乐队，1963 年成立。早期 Pye 单曲用 Dave Davies 划破扬声器的失真与两和弦 riff；后期 Ray Davies 专辑转向英式观察式写歌。"
+    "en": "London band formed in 1963 with the Davies brothers, Pete Quaife, and Mick Avory (from the Rolling Stones orbit). Early Pye singles You Really Got Me and All Day and All of the Night used power-chord riffs later cited in hard rock; Ray Davies’s mid-60s albums shifted to English observational writing.",
+    "zh": "伦敦乐队，1963 年由 Davies 兄弟、Pete Quaife 与来自 Rolling Stones 圈子的 Mick Avory 组成。早期 Pye 单曲 You Really Got Me、All Day and All of the Night 的强力和弦 riff 后被 hard rock 引用；Ray Davies 在 60 年代中期专辑转向英式观察式写歌。"
   },
   "members": [
     {
@@ -28,12 +28,42 @@
     {
       "name": "Pete Quaife",
       "role": "Bass",
-      "years": "1963–1969"
+      "years": "1963–1966; 1966–1969"
     },
     {
       "name": "Mick Avory",
       "role": "Drums",
-      "years": "1964–1984"
+      "years": "1963–1989"
+    },
+    {
+      "name": "John Dalton",
+      "role": "Bass",
+      "years": "1966; 1969–1976; 1978"
+    },
+    {
+      "name": "John Gosling",
+      "role": "Keyboards",
+      "years": "1970–1978"
+    },
+    {
+      "name": "Jim Rodford",
+      "role": "Bass",
+      "years": "1978–1996"
+    },
+    {
+      "name": "Ian Gibbons",
+      "role": "Keyboards",
+      "years": "1979–1989; 1992–1996"
+    },
+    {
+      "name": "Bob Henrit",
+      "role": "Drums",
+      "years": "1989–1996"
+    },
+    {
+      "name": "Mark Haley",
+      "role": "Keyboards",
+      "years": "1989–1993"
     }
   ],
   "essentialTracks": [
@@ -46,6 +76,14 @@
       "year": 1964
     },
     {
+      "title": "Tired of Waiting for You",
+      "year": 1965
+    },
+    {
+      "title": "Sunny Afternoon",
+      "year": 1966
+    },
+    {
       "title": "Waterloo Sunset",
       "year": 1967
     },
@@ -56,11 +94,15 @@
   ],
   "lyricQuotes": [
     "Girl, you really got me going / You got me so I don't know what I'm doing",
-    "Dirty old river, must you keep rolling / Flowing into the night"
+    "Dirty old river, must you keep rolling / Flowing into the night",
+    "Lola, Lo-lo-lo-lo Lola"
   ],
   "relatedBands": [
     "the-who",
-    "the-beatles"
+    "the-beatles",
+    "the-rolling-stones",
+    "blur",
+    "oasis"
   ],
   "influenceFrom": [
     "the-rolling-stones",
@@ -68,15 +110,17 @@
   ],
   "influenced": [
     "blur",
-    "oasis"
+    "oasis",
+    "green-day",
+    "van-halen"
   ],
   "shortBio": {
-    "en": "Davies brothers, London, 1963–. You Really Got Me and All Day and All of the Night are the early riff singles; Waterloo Sunset and Lola mark the later songwriting period.",
-    "zh": "Davies 兄弟，伦敦，1963 年起。早期 riff 单曲以 You Really Got Me、All Day and All of the Night 为代表；后期写歌以 Waterloo Sunset、Lola 为参照。"
+    "en": "Davies brothers, London, 1963–1996. Early Pye riff singles; Village Green and Lola mark the songwriting stretch; US Arista albums revived the charts in the late 1970s.",
+    "zh": "Davies 兄弟，伦敦，1963–1996。早期 Pye riff 单曲；Village Green 与 Lola 标记写歌阶段；70 年代末 Arista 时期专辑在美国榜回升。"
   },
   "body": {
-    "en": "The Kinks formed in London in 1963. Ray Davies sang and wrote; Dave Davies played lead guitar. Early Pye singles You Really Got Me and All Day and All of the Night (both 1964) used power chords and a sliced-speaker guitar sound.\n\nFrom Face to Face (1966) through The Kinks Are the Village Green Preservation Society (1968), Ray Davies wrote shorter, more observational songs about English places and characters. Waterloo Sunset (1967) and Lola (1970, RCA) are the best-known tracks from that stretch. Pete Quaife left in 1969; Mick Avory stayed into the 1980s.",
-    "zh": "The Kinks 于 1963 年在伦敦成立。Ray Davies 主唱并写歌，Dave Davies 弹主音吉他。早期 Pye 单曲 You Really Got Me 与 All Day and All of the Night（均 1964）使用强力和弦，以及划破扬声器后的失真吉他音色。\n\n从 Face to Face（1966）到 The Kinks Are the Village Green Preservation Society（1968），Ray Davies 转向更短、更偏观察的英式人物与地点写作。Waterloo Sunset（1967）与 Lola（1970，RCA）是这一时期最知名的作品。Pete Quaife 于 1969 年离队；Mick Avory 留至 1980 年代。"
+    "en": "The Kinks formed in London in 1963. Ray and Dave Davies had played as the Ray Davies Quartet and The Ravens with schoolmate Pete Quaife on bass; that year they joined Mick Avory—from the Rolling Stones orbit—and signed to Pye.\n\nAfter two failed singles, You Really Got Me (1964) reached UK #1 and US #7 on a plain guitar riff later cited as an early hard-rock model. All Day and All of the Night and Tired of Waiting for You followed; Sunny Afternoon and Waterloo Sunset were further UK hits written by Ray. Face to Face (1966) and Something Else by The Kinks (1967) kept the UK album run going. Internal friction and management issues kept the band off US tours for about four years.\n\nQuaife left for three months in 1966 (John Dalton filled in) and left permanently by Arthur (Or the Decline and Fall of the British Empire) (1969). Lola and Apeman on Lola Versus Powerman and the Moneygoround Part One (1970) returned the band to the US Top 40; US radio often substituted “cherry cola” for “Coca-Cola” on Lola. Under RCA, UK chart singles nearly stopped; Celluloid Heroes on Everybody’s in Show-Biz (1972) is among Ray’s best-known later songs. Arista albums Sleepwalker through State of Confusion (1977–1983) reached the US Top 20; Come Dancing was the first major hit in a decade. Avory left in 1989 (Bob Henrit replaced him). Phobia (1993) included Hatred (A Duet); the band dissolved in 1996. Paul Weller, Noel Gallagher, and Damon Albarn have cited Ray; he received an OBE in 2004.",
+    "zh": "The Kinks 于 1963 年在伦敦成立。Ray 与 Dave Davies 曾以 Ray Davies Quartet、The Ravens 之名与同学 Pete Quaife（贝斯）组队；同年加入来自 Rolling Stones 圈子的 Mick Avory，并与 Pye 签约。\n\n两张单曲失利后，You Really Got Me（1964）凭质朴吉他连复段登上英国榜首、美国第 7，后被视为早期 hard rock 范例。随后有 All Day and All of the Night、Tired of Waiting for You；Sunny Afternoon 与 Waterloo Sunset 亦为 Ray 所写的英国热单。Face to Face（1966）、Something Else by The Kinks（1967）继续领跑国内专辑榜。内讧与管理问题使乐队约四年未赴美巡演。\n\n1966 年 Quaife 退出三个月（John Dalton 顶替），至 Arthur (Or the Decline and Fall of the British Empire)（1969）永久离队。Lola Versus Powerman and the Moneygoround Part One（1970）上的 Lola、Apeman 重回美国前 40；电台播 Lola 时常以 “cherry cola” 替代 “Coca-Cola”。RCA 时期国内几乎无上榜单曲；Everybody’s in Show-Biz（1972）中的 Celluloid Heroes 是 Ray 后期知名作品。Arista 旗下 Sleepwalker 至 State of Confusion（1977–1983）进入美国前 20；Come Dancing 是十年内首支大热。Avory 1989 年离队（Bob Henrit 接替）。Phobia（1993）含 Hatred (A Duet)；乐队 1996 年解散。Paul Weller、Noel Gallagher、Damon Albarn 曾称 Ray 为灵感来源；他于 2004 年获 OBE。"
   },
   "scenes": [
     {
@@ -94,8 +138,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Pye 45. Dave Davies sliced the amp speaker; two-chord power-chord riff.",
-        "zh": "Pye 45。Dave Davies 划破音箱扬声器；两和弦强力和弦 riff。"
+        "en": "Third Pye single; UK #1, US #7. Plain guitar riff later treated as an early hard-rock model.",
+        "zh": "Pye 第三张单曲；英榜首、美第 7。质朴吉他连复段后被当作早期 hard rock 范例。"
       }
     },
     {
@@ -113,8 +157,8 @@
       ],
       "intensity": 1,
       "note": {
-        "en": "From the Village Green period; clean arpeggios under Ray Davies’s lyric about Waterloo Bridge.",
-        "zh": "Village Green 时期；干净琶音配合 Ray Davies 写 Waterloo Bridge 的歌词。"
+        "en": "UK hit written by Ray Davies; English place lyric around Waterloo.",
+        "zh": "Ray Davies 所写英国热单；以 Waterloo 一带为场景的英式地点歌词。"
       }
     },
     {
@@ -123,6 +167,7 @@
       "membersOnStage": [
         "Ray Davies",
         "Dave Davies",
+        "John Dalton",
         "Mick Avory"
       ],
       "genreTags": [
@@ -131,47 +176,137 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "RCA single. Acoustic intro into electric chorus; narrative lyric.",
-        "zh": "RCA 单曲。原声前奏接电声副歌；叙事歌词。"
+        "en": "From Lola Versus Powerman…; US Top 40 return. US radio often used “cherry cola” for “Coca-Cola.”",
+        "zh": "出自 Lola Versus Powerman…；重回美国前 40。美国电台常以 “cherry cola” 替代 “Coca-Cola”。"
+      }
+    },
+    {
+      "year": 1983,
+      "track": "Come Dancing",
+      "membersOnStage": [
+        "Ray Davies",
+        "Dave Davies",
+        "Jim Rodford",
+        "Mick Avory",
+        "Ian Gibbons"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "From State of Confusion; first major hit in about ten years.",
+        "zh": "出自 State of Confusion；约十年内首支大热单曲。"
       }
     }
   ],
   "narrative": [
     {
-      "id": "thesis",
+      "id": "formation",
       "title": {
-        "en": "Early singles and later albums",
-        "zh": "早期单曲与后期专辑"
+        "en": "From Ravens to Pye",
+        "zh": "从 Ravens 到 Pye"
       },
       "body": {
-        "en": "You Really Got Me (1964) is built on a two-chord power-chord riff and Dave Davies’s distorted guitar. All Day and All of the Night used a similar approach the same year.\n\nBy Waterloo Sunset (1967) and Village Green Preservation Society (1968), Ray Davies’s writing centered on English places, characters, and mid-tempo chord songs rather than riff-led singles alone.",
-        "zh": "You Really Got Me（1964）建立在两和弦强力和弦 riff 与 Dave Davies 的失真吉他上。同年的 All Day and All of the Night 写法相近。\n\n到 Waterloo Sunset（1967）与 Village Green Preservation Society（1968），Ray Davies 的写作转向英式地点、人物与中速和弦歌曲，不再只靠 riff 单曲。"
+        "en": "Ray and Dave Davies received guitars as teenagers and formed the Ray Davies Quartet. Schoolmate Pete Quaife joined on bass; the name became The Ravens. In 1963 they formed The Kinks with Mick Avory—linked to the Rolling Stones orbit—and signed to Pye.\n\nTwo early singles failed. The third, You Really Got Me (1964), reached UK #1 and US #7.",
+        "zh": "Ray 与 Dave Davies 少年时得到吉他，组建 Ray Davies Quartet。同学 Pete Quaife 加入贝斯后改名 The Ravens。1963 年与来自 Rolling Stones 圈子的 Mick Avory 组成 The Kinks，并与 Pye 签约。\n\n前两张单曲失利。第三张 You Really Got Me（1964）登上英国榜首、美国第 7。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/the-kinks-honolulu-1965.jpg",
+        "alt": {
+          "en": "The Kinks at Honolulu Airport, 5 July 1965",
+          "zh": "The Kinks 于檀香山机场，1965 年 7 月 5 日"
+        },
+        "credit": "Pan American Airways / The Honolulu Advertiser",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Kinks,_Honolulu,_1965.jpg"
+      }
+    },
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Early riff singles",
+        "zh": "早期 riff 单曲"
+      },
+      "body": {
+        "en": "You Really Got Me is built on a short, plain guitar riff. All Day and All of the Night used a similar approach the same year. Tired of Waiting for You also topped the UK chart; Green Day later covered it.\n\nThese Pye 45s are the band’s main early hard-rock reference points—power chords and a distorted lead tone rather than long solos.",
+        "zh": "You Really Got Me 建立在短而质朴的吉他连复段上。同年的 All Day and All of the Night 写法相近。Tired of Waiting for You 亦登英国榜首；Green Day 后来翻唱过。\n\n这些 Pye 单曲是乐队早期 hard rock 的主要参照——强力和弦与失真主音，而非长独奏。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "hard-rock"
     },
     {
-      "id": "lineupVersions",
+      "id": "english-albums",
       "title": {
-        "en": "Classic four through Quaife’s exit",
-        "zh": "经典四人组至 Quaife 离队"
+        "en": "English albums and US ban",
+        "zh": "英式专辑与美国禁巡"
       },
       "body": {
-        "en": "The best-known early lineup was Ray Davies (vocals, rhythm), Dave Davies (lead guitar), Pete Quaife (bass), and Mick Avory (drums).\n\nQuaife left in 1969. Avory remained through the 1970s chart singles. Later lineups changed bass and second guitar; the Davies brothers stayed until the mid-1990s.",
-        "zh": "最知名的早期阵容是 Ray Davies（人声、节奏吉他）、Dave Davies（主音吉他）、Pete Quaife（贝斯）与 Mick Avory（鼓）。\n\nQuaife 于 1969 年离队。Avory 贯穿 1970 年代榜单单曲。后期贝斯与第二吉他有过轮换；Davies 兄弟留至 1990 年代中期。"
+        "en": "From Kinda Kinks and The Kinks Kontroversy (both 1965) through Face to Face (1966) and Something Else (1967), Ray Davies wrote UK hits including Sunny Afternoon and Waterloo Sunset.\n\nFriction—especially between the Davies brothers—and management problems kept the band off US tours for about four years. From then on, albums often did better in the US than at home.",
+        "zh": "从 Kinda Kinks、The Kinks Kontroversy（均 1965）到 Face to Face（1966）、Something Else（1967），Ray Davies 写出 Sunny Afternoon、Waterloo Sunset 等英国热单。\n\n内讧——尤其是 Davies 兄弟——与管理问题使乐队约四年未赴美巡演。此后专辑在美国往往比国内更受欢迎。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/the-kinks-1969.jpg",
+        "alt": {
+          "en": "The Kinks promotional photo, 1969 — Dave Davies, Ray Davies, John Dalton, Mick Avory",
+          "zh": "The Kinks 1969 年宣传照——Dave Davies、Ray Davies、John Dalton、Mick Avory"
+        },
+        "credit": "Promotional photograph (Then Now and Inbetween, 1969)",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kinks_1969.JPG"
+      }
+    },
+    {
+      "id": "lineupVersions",
+      "title": {
+        "en": "Quaife, Dalton, Gosling",
+        "zh": "Quaife、Dalton、Gosling"
+      },
+      "body": {
+        "en": "In 1966 Quaife left for three months; John Dalton covered bass. Ray also briefly left for under a week in 1967. Dave’s solo single Death of a Clown (written with Ray) charted in the UK that year.\n\nVillage Green Preservation Society (1968) and Arthur (1969) were more conceptual and less commercially successful. Dalton first appeared officially on Arthur; Quaife left for good. John Gosling joined on keyboards around the Lola period (1970–1978).",
+        "zh": "1966 年 Quaife 退出三个月，由 John Dalton 顶替贝斯。1967 年 Ray 也曾离队不到一周。同年 Dave 个人单曲 Death of a Clown（与 Ray 合作）进入英国榜。\n\nVillage Green Preservation Society（1968）与 Arthur（1969）更偏概念，商业成绩不如从前。Dalton 在 Arthur 首次正式出现；Quaife 永久离队。John Gosling 约在 Lola 时期加入键盘（1970–1978）。"
       },
       "stickyVisual": "lineupVersions",
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/the-kinks-playbill-1971.jpg",
+        "alt": {
+          "en": "The Kinks, c. 1970 — John Gosling, Dave Davies, Mick Avory, John Dalton, Ray Davies",
+          "zh": "The Kinks，约 1970——John Gosling、Dave Davies、Mick Avory、John Dalton、Ray Davies"
+        },
+        "credit": "Promotional photograph (US Playbill, 1971)",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kinks_Playbill_1971_Touched.jpg"
+      }
+    },
+    {
+      "id": "lola-arista",
+      "title": {
+        "en": "Lola through Arista",
+        "zh": "从 Lola 到 Arista"
+      },
+      "body": {
+        "en": "Lola Versus Powerman… (1970) returned the band to the US Top 40 via Lola and Apeman. Apeman was their last UK Top 10 single. Under RCA, the only notable UK chart entry was Supersonic Rocket Ship; Celluloid Heroes stood out on Everybody’s in Show-Biz (1972).\n\nArista albums Sleepwalker (1977), Misfits (1978), Low Budget (1979), One for the Road (1980), Give the People What They Want (1981), and State of Confusion (1983) reached the US Top 20. Come Dancing was the first big hit in a decade.",
+        "zh": "Lola Versus Powerman…（1970）凭 Lola、Apeman 重回美国前 40。Apeman 是乐队最后一支英国前 10 单曲。RCA 时期国内几乎只有 Supersonic Rocket Ship 上榜；Everybody’s in Show-Biz（1972）中的 Celluloid Heroes 突出。\n\nArista 专辑 Sleepwalker（1977）、Misfits（1978）、Low Budget（1979）、One for the Road（1980）、Give the People What They Want（1981）、State of Confusion（1983）进入美国前 20。Come Dancing 是十年内首支大热。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
       "soundGenre": "rock-n-roll"
     },
     {
       "id": "influence",
       "title": {
-        "en": "Later hard rock and Britpop",
-        "zh": "后来的硬摇滚与 Britpop"
+        "en": "Later citations",
+        "zh": "后期引用"
       },
       "body": {
-        "en": "Garage and hard-rock bands have cited the distortion and power-chord method on You Really Got Me. Van Halen covered the song in 1978.\n\nBlur and Oasis have pointed to Ray Davies’s English character writing and mid-tempo chord songs from the later 1960s albums.",
-        "zh": "Garage 与 hard-rock 乐队常提到 You Really Got Me 上的失真与强力和弦写法。Van Halen 于 1978 年翻唱该曲。\n\nBlur 与 Oasis 曾提到 Ray Davies 在 1960 年代后期专辑里的英式人物写作与中速和弦歌曲。"
+        "en": "Avory left in 1989; Bob Henrit took drums. Think Visual (1986) and UK Jive (1989) underperformed. Phobia (1993) included Hatred (A Duet); the band ended in 1996.\n\nPaul Weller, Noel Gallagher, and Damon Albarn have cited Ray Davies. He received an OBE in 2004 and an Ivor Novello outstanding contribution award. See My Friends (2012) reworked older songs with guests including Bruce Springsteen and members of Metallica, Pixies, and The Smashing Pumpkins.",
+        "zh": "Avory 于 1989 年离队，由 Bob Henrit 接鼓。Think Visual（1986）、UK Jive（1989）成绩有限。Phobia（1993）含 Hatred (A Duet)；乐队 1996 年解散。\n\nPaul Weller、Noel Gallagher、Damon Albarn 曾称 Ray Davies 为灵感来源。他于 2004 年获 OBE，并获 Ivor Novello 英国音乐杰出贡献奖。See My Friends（2012）重制旧曲，嘉宾包括 Bruce Springsteen，以及 Metallica、Pixies、The Smashing Pumpkins 成员等。"
       },
       "stickyVisual": "influence",
       "soundGenre": "britpop"
@@ -183,40 +318,12 @@
         "zh": "You Really Got Me"
       },
       "body": {
-        "en": "Released on Pye in 1964. Dave Davies cut the amp speaker cone to get the distorted tone. The song uses a short two-chord riff and a simple verse/chorus shape.",
-        "zh": "1964 年由 Pye 发行。Dave Davies 划破音箱扬声器纸盆以获得失真音色。歌曲使用短两和弦 riff 与简单的主副歌结构。"
+        "en": "1964 Pye single. UK #1, US #7. Short power-chord riff; often named as an early hard-rock reference.",
+        "zh": "1964 年 Pye 单曲。英榜首、美第 7。短强力和弦 riff；常被列为早期 hard rock 参照。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
       "soundGenre": "hard-rock"
-    },
-    {
-      "id": "scene-1",
-      "title": {
-        "en": "Waterloo Sunset",
-        "zh": "Waterloo Sunset"
-      },
-      "body": {
-        "en": "1967 single from the period around Something Else and Village Green. Clean guitar arpeggios under a lyric about the Thames and Waterloo Bridge.",
-        "zh": "1967 年单曲，出自 Something Else 与 Village Green 前后。干净吉他琶音，歌词写泰晤士河与 Waterloo Bridge。"
-      },
-      "stickyVisual": "scene",
-      "sceneIndex": 1,
-      "soundGenre": "rock-n-roll"
-    },
-    {
-      "id": "scene-2",
-      "title": {
-        "en": "Lola",
-        "zh": "Lola"
-      },
-      "body": {
-        "en": "1970 RCA single. Acoustic guitar intro moves into an electric chorus. The lyric is a first-person narrative set in a club.",
-        "zh": "1970 年 RCA 单曲。原声吉他前奏进入电声副歌。歌词是第一人称叙事，场景设在俱乐部。"
-      },
-      "stickyVisual": "scene",
-      "sceneIndex": 2,
-      "soundGenre": "rock-n-roll"
     }
   ],
   "interviewQuotes": [
@@ -237,8 +344,8 @@
     {
       "id": "peak",
       "label": {
-        "en": "Davies brothers classic",
-        "zh": "Davies 兄弟经典期"
+        "en": "Classic four",
+        "zh": "经典四人组"
       },
       "years": "1964–1968",
       "peak": true,
@@ -262,8 +369,78 @@
         }
       ],
       "note": {
-        "en": "Covers the early Pye riff singles through Village Green Preservation Society.",
-        "zh": "覆盖早期 Pye riff 单曲至 Village Green Preservation Society。"
+        "en": "Pye riff singles through Village Green Preservation Society.",
+        "zh": "Pye riff 单曲至 Village Green Preservation Society。"
+      }
+    },
+    {
+      "id": "lola-era",
+      "label": {
+        "en": "Lola / Dalton–Gosling",
+        "zh": "Lola／Dalton–Gosling"
+      },
+      "years": "1969–1976",
+      "members": [
+        {
+          "name": "Ray Davies",
+          "role": "Vocals, Guitar",
+          "personSlug": "ray-davies"
+        },
+        {
+          "name": "Dave Davies",
+          "role": "Guitar"
+        },
+        {
+          "name": "John Dalton",
+          "role": "Bass"
+        },
+        {
+          "name": "Mick Avory",
+          "role": "Drums"
+        },
+        {
+          "name": "John Gosling",
+          "role": "Keyboards"
+        }
+      ],
+      "note": {
+        "en": "Arthur through the RCA years; Gosling from about 1970.",
+        "zh": "Arthur 至 RCA 时期；Gosling 约自 1970 年起。"
+      }
+    },
+    {
+      "id": "arista",
+      "label": {
+        "en": "Arista years",
+        "zh": "Arista 时期"
+      },
+      "years": "1978–1989",
+      "members": [
+        {
+          "name": "Ray Davies",
+          "role": "Vocals, Guitar",
+          "personSlug": "ray-davies"
+        },
+        {
+          "name": "Dave Davies",
+          "role": "Guitar"
+        },
+        {
+          "name": "Jim Rodford",
+          "role": "Bass"
+        },
+        {
+          "name": "Mick Avory",
+          "role": "Drums"
+        },
+        {
+          "name": "Ian Gibbons",
+          "role": "Keyboards"
+        }
+      ],
+      "note": {
+        "en": "US Top 20 run including Low Budget and Come Dancing; Avory until 1989.",
+        "zh": "美国前 20 时期，含 Low Budget 与 Come Dancing；Avory 至 1989。"
       }
     }
   ],
@@ -272,8 +449,8 @@
       "title": "You Really Got Me",
       "year": 1964,
       "note": {
-        "en": "Pye single with sliced-speaker distortion and a two-chord riff.",
-        "zh": "Pye 单曲：划破扬声器失真与两和弦 riff。"
+        "en": "Pye single; UK #1. Plain guitar riff later cited in hard rock.",
+        "zh": "Pye 单曲；英榜首。质朴吉他连复段后被 hard rock 引用。"
       }
     },
     "pioneeredGenres": [

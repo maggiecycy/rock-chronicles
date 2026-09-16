@@ -10,51 +10,106 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "Liverpool four-piece, active 1960–1970. Early British Invasion singles, then album-length writing and multitrack studio work with George Martin at EMI/Abbey Road.",
-    "zh": "利物浦四人组，活跃于 1960–1970。早期 British Invasion 单曲之后，转向专辑尺度写作，并在 EMI/Abbey Road 与 George Martin 合作多轨录音。"
+    "en": "Liverpool band, 1960–1970. From Quarrymen/Hamburg and Cavern club dates through Parlophone singles, Ed Sullivan, and Abbey Road multitrack albums with George Martin.",
+    "zh": "利物浦乐队，1960–1970。从 Quarrymen、汉堡与 Cavern 驻唱，到 Parlophone 单曲、Ed Sullivan，再到与 George Martin 在 Abbey Road 的多轨专辑。"
   },
   "members": [
     {
       "name": "John Lennon",
       "role": "Vocals, Guitar",
-      "years": "1962–1970"
+      "years": "1960–1970"
     },
     {
       "name": "Paul McCartney",
-      "role": "Vocals, Bass",
-      "years": "1962–1970"
+      "role": "Vocals, Bass, Guitar",
+      "years": "1960–1970",
+      "personSlug": "paul-mccartney"
     },
     {
       "name": "George Harrison",
       "role": "Guitar, Vocals",
-      "years": "1962–1970"
+      "years": "1960–1970"
     },
     {
       "name": "Ringo Starr",
       "role": "Drums, Vocals",
       "years": "1962–1970"
+    },
+    {
+      "name": "Pete Best",
+      "role": "Drums",
+      "years": "1960–1962"
+    },
+    {
+      "name": "Stuart Sutcliffe",
+      "role": "Bass",
+      "years": "1960–1961"
     }
   ],
   "essentialTracks": [
     {
+      "title": "Love Me Do",
+      "year": 1962,
+      "note": {
+        "en": "Debut Parlophone single; UK chart peak #17.",
+        "zh": "Parlophone 处女单曲；英国榜最高第 17 名。"
+      }
+    },
+    {
       "title": "I Want to Hold Your Hand",
       "year": 1963,
       "note": {
-        "en": "US breakthrough single, 1963–64.",
-        "zh": "打进美国市场的突破单曲，1963–64。"
+        "en": "First US Billboard Hot 100 #1 (1 February 1964).",
+        "zh": "首支美国 Billboard Hot 100 冠军（1964 年 2 月 1 日）。"
+      }
+    },
+    {
+      "title": "Yesterday",
+      "year": 1965,
+      "note": {
+        "en": "McCartney song from Help!; string arrangement.",
+        "zh": "出自《Help!》的 McCartney 作品；含弦乐编曲。"
+      }
+    },
+    {
+      "title": "Tomorrow Never Knows",
+      "year": 1966,
+      "note": {
+        "en": "Revolver track; tape loops and studio processing.",
+        "zh": "出自《Revolver》；磁带循环与录音室处理。"
       }
     },
     {
       "title": "A Day in the Life",
       "year": 1967,
       "note": {
-        "en": "Sgt. Pepper track; orchestral overdub and tape edits.",
-        "zh": "出自《Sgt. Pepper》；管弦叠加与磁带剪辑。"
+        "en": "Sgt. Pepper; orchestral rise and final piano chord.",
+        "zh": "出自《Sgt. Pepper》；管弦爬升与末尾钢琴和弦。"
       }
     },
     {
       "title": "While My Guitar Gently Weeps",
-      "year": 1968
+      "year": 1968,
+      "note": {
+        "en": "White Album; Eric Clapton on lead guitar.",
+        "zh": "白专；主音吉他为 Eric Clapton。"
+      }
+    },
+    {
+      "title": "Hey Jude",
+      "year": 1968,
+      "note": {
+        "en": "Seven-minute single; Revolution on the B-side.",
+        "zh": "约七分钟单曲；B 面为 Revolution。"
+      }
+    },
+    {
+      "title": "Come Together",
+      "year": 1969,
+      "note": {
+        "en": "Abbey Road opener; Lennon vocal.",
+        "zh": "《Abbey Road》开场；Lennon 主唱。"
+      }
     }
   ],
   "scenes": [
@@ -72,8 +127,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Capitol US single; Billboard Hot 100 #1 in early 1964.",
-        "zh": "Capitol 美国单曲；1964 年初登上 Billboard Hot 100 冠军。"
+        "en": "Capitol US single; Billboard Hot 100 #1 on 1 February 1964. Eight days later, Ed Sullivan Show debut reached about 73 million viewers. By 4 April 1964, four of the Billboard Hot 100 top five were Beatles songs.",
+        "zh": "Capitol 美国单曲；1964 年 2 月 1 日 Billboard Hot 100 冠军。八天后首次登上 Ed Sullivan Show，约 7300 万人收看。至 1964 年 4 月 4 日，Billboard Hot 100 前五名中有四首是 Beatles。"
       }
     },
     {
@@ -91,8 +146,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "From Sgt. Pepper; Lennon/McCartney sections joined by orchestral rise and final piano chord.",
-        "zh": "出自《Sgt. Pepper》；Lennon/McCartney 段落由管弦爬升与末尾钢琴和弦衔接。"
+        "en": "From Sgt. Pepper. Lennon and McCartney sections join via orchestral build and a sustained final piano chord. Producer George Martin later said Beach Boys studio work fed into this period; Beach Boys’ Pet Sounds had already answered Rubber Soul.",
+        "zh": "出自《Sgt. Pepper》。Lennon 与 McCartney 段落由管弦爬升和末尾延音钢琴和弦衔接。制作人 George Martin 后来说 Beach Boys 的录音室做法影响了这一时期；Beach Boys 的 Pet Sounds 此前已回应过《Rubber Soul》。"
       }
     },
     {
@@ -109,8 +164,26 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Harrison song from the White Album; Eric Clapton on lead guitar.",
-        "zh": "出自白专的 Harrison 作品；主音吉他为 Eric Clapton。"
+        "en": "Harrison song on the White Album; Eric Clapton on lead guitar. Written around the Rishikesh period, when Lennon was photographed talking with Beach Boys’ Mike Love.",
+        "zh": "白专上的 Harrison 作品；主音吉他为 Eric Clapton。创作于瑞诗凯诗前后；同期照片中 Lennon 正与 Beach Boys 的 Mike Love 交谈。"
+      }
+    },
+    {
+      "year": 1969,
+      "track": "Come Together",
+      "membersOnStage": [
+        "John Lennon",
+        "Paul McCartney",
+        "George Harrison",
+        "Ringo Starr"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Abbey Road opener. Abbey Road (1969) was recorded after Let It Be sessions but released first; includes Harrison’s Something and Here Comes the Sun.",
+        "zh": "《Abbey Road》开场曲。《Abbey Road》（1969）录于《Let It Be》之后却先发行；含 Harrison 的 Something 与 Here Comes the Sun。"
       }
     }
   ],
@@ -122,10 +195,16 @@
       "year": 1966
     },
     {
-      "text": "We didn't invent anything. We just took what was there and made it our own.",
-      "speaker": "Paul McCartney",
-      "source": "Documentary interview excerpt",
-      "year": 1995
+      "text": "When they came along, the whole of America just became one letter — B — for The Beatles.",
+      "speaker": "Dave Grohl",
+      "source": "On The Beatles · book interview excerpt",
+      "year": 1991
+    },
+    {
+      "text": "They opened the curtains, put on a brilliant show, then closed the curtains themselves.",
+      "speaker": "Krist Novoselic",
+      "source": "On The Beatles · book interview excerpt",
+      "year": 1991
     }
   ],
   "lyricQuotes": [
@@ -134,20 +213,25 @@
   ],
   "relatedBands": [
     "the-rolling-stones",
+    "the-beach-boys",
     "pink-floyd"
   ],
-  "influenceFrom": [],
+  "influenceFrom": [
+    "chuck-berry"
+  ],
   "influenced": [
+    "the-beach-boys",
+    "the-rolling-stones",
     "radiohead",
     "arctic-monkeys"
   ],
   "shortBio": {
-    "en": "Liverpool, 1960–1970. Lennon, McCartney, Harrison, Starr; EMI years from Invasion singles through Abbey Road.",
-    "zh": "利物浦，1960–1970。Lennon、McCartney、Harrison、Starr；EMI 年代从 Invasion 单曲到《Abbey Road》。"
+    "en": "Liverpool, 1960–1970. Early Best/Sutcliffe years, then Lennon–McCartney–Harrison–Starr; Parlophone to Abbey Road.",
+    "zh": "利物浦，1960–1970。早期含 Best、Sutcliffe，后固定为 Lennon–McCartney–Harrison–Starr；从 Parlophone 到《Abbey Road》。"
   },
   "body": {
-    "en": "The Beatles formed in Liverpool in 1960 and settled as Lennon, McCartney, Harrison, and Starr by 1962. Early work centered on beat-group singles and Parlophone/EMI releases with producer George Martin.\n\nI Want to Hold Your Hand (1963) reached US #1 in 1964. From Rubber Soul and Revolver through Sgt. Pepper, the White Album, and Abbey Road, sessions used multitrack tape, varispeed, edits, and orchestral overdubs. Live touring ended in 1966; studio records became the main release format.",
-    "zh": "The Beatles 于 1960 年在利物浦成立，1962 年前后固定为 Lennon、McCartney、Harrison、Starr。早期以 beat 组合单曲为主，在 Parlophone/EMI 与制作人 George Martin 合作。\n\n《I Want to Hold Your Hand》（1963）于 1964 年登上美国榜冠军。从《Rubber Soul》《Revolver》到《Sgt. Pepper》、白专与《Abbey Road》，录音使用多轨磁带、变速、剪辑与管弦叠加。1966 年停止巡演后，录音室唱片成为主要发布形式。"
+    "en": "The Beatles began as The Quarrymen under John Lennon. Paul McCartney joined in 1957; George Harrison followed in 1958. By 1960 Pete Best (drums) and Stuart Sutcliffe (bass) completed a five-piece that took the Beatles name. Hamburg club residencies turned them into a working rock band; Sutcliffe stayed in Hamburg and died there in 1962. Back in Liverpool, Cavern Club sets drew manager Brian Epstein, who secured a 1962 Parlophone/EMI deal. Best left; Ringo Starr replaced him.\n\nLove Me Do reached UK #17; Please Please Me hit #2. The debut album Please Please Me (1963) was cut in about ten hours, ending with Lennon’s Twist and Shout. With The Beatles then held the UK album #1 for 51 weeks. I Want to Hold Your Hand became their first US #1 on 1 February 1964; the Ed Sullivan Show debut eight days later drew about 73 million viewers. By 4 April 1964, four of the Billboard Hot 100 top five were Beatles songs. A Hard Day’s Night (1964) and Help! (1965) followed as films and soundtracks; Help! carried You’ve Got to Hide Your Love Away and Yesterday.\n\nBob Dylan introduced them to cannabis in 1964. Rubber Soul (1965) and Revolver (1966) pushed studio writing—Tomorrow Never Knows among the clearest examples. Beach Boys’ Pet Sounds answered Rubber Soul; George Martin later linked Beach Boys studio methods to the Sgt. Pepper period. After Epstein’s death in 1967, Magical Mystery Tour, the White Album (partly written in Rishikesh, where Lennon was photographed with Beach Boys’ Mike Love), Hey Jude, Yellow Submarine, Let It Be, and Abbey Road closed the catalog. Lennon–McCartney also wrote I Wanna Be Your Man for the early Rolling Stones. The group split around 1970; the 1 compilation (2000) sold about 3.6 million copies on its first day.",
+    "zh": "The Beatles 始于 John Lennon 带领的 The Quarrymen。1957 年 Paul McCartney 加入，1958 年 George Harrison 加入。1960 年鼓手 Pete Best 与贝斯手 Stuart Sutcliffe 凑成五人编制并改用 Beatles 之名。汉堡俱乐部驻唱使他们成为职业摇滚乐队；Sutcliffe 留在汉堡，1962 年在当地去世。返回利物浦后，Cavern 驻唱引起经纪人 Brian Epstein 注意，并于 1962 年签下 Parlophone/EMI。Best 离队，由 Ringo Starr 接替。\n\n《Love Me Do》打入英国榜第 17 名；《Please Please Me》升至第 2 名。处女专辑《Please Please Me》（1963）约十小时录完，末曲为 Lennon 的 Twist and Shout。《With The Beatles》随后连续 51 周占据英国专辑榜冠军。《I Want to Hold Your Hand》于 1964 年 2 月 1 日成为美国榜首支冠军；八天后首次登上 Ed Sullivan Show，约 7300 万人收看。至 1964 年 4 月 4 日，Billboard Hot 100 前五中有四首是 Beatles。电影与原声《A Hard Day’s Night》（1964）、《Help!》（1965）跟进；后者含 You’ve Got to Hide Your Love Away 与 Yesterday。\n\n1964 年 Bob Dylan 向他们介绍大麻。《Rubber Soul》（1965）与《Revolver》（1966）推进录音室写作——Tomorrow Never Knows 是最清楚的例子之一。Beach Boys 的 Pet Sounds 回应了《Rubber Soul》；George Martin 后来把 Beach Boys 的录音室做法与《Sgt. Pepper》时期联系起来。1967 年 Epstein 去世后，《Magical Mystery Tour》、白专（部分写于瑞诗凯诗，同期照片中 Lennon 与 Beach Boys 的 Mike Love 交谈）、Hey Jude、《Yellow Submarine》、《Let It Be》与《Abbey Road》收束目录。Lennon–McCartney 也为早期 Rolling Stones 写了 I Wanna Be Your Man。乐队约于 1970 年解散；合辑《1》（2000）首日约售出 360 万张。"
   },
   "narrative": [
     {
@@ -157,21 +241,44 @@
         "zh": "核心声音"
       },
       "body": {
-        "en": "Early Beatles writing uses two guitars, bass, drums, and close vocal harmony in short verse/chorus forms.\n\nLater albums keep the same four players but add tape edits, sitars, orchestras, and longer song structures. The shift is in arrangement and studio method, not lineup.",
+        "en": "Early Beatles writing uses two guitars, bass, drums, and close vocal harmony in short verse/chorus forms.\n\nLater albums keep the same four players but add tape edits, sitars, orchestras, and longer structures. The shift is in arrangement and studio method, not lineup.",
         "zh": "早期 Beatles 写作以双吉他、贝斯、鼓和紧密和声为主，歌曲多为短主歌/副歌结构。\n\n后期专辑仍是同一四人，但加入磁带剪辑、西塔琴、管弦与更长的歌曲结构。变化在编曲与录音方法，不在阵容。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "rock-n-roll"
     },
     {
-      "id": "lineup-versions",
+      "id": "hamburg-cavern",
       "title": {
-        "en": "The classic four",
-        "zh": "经典四人组"
+        "en": "Hamburg, Cavern, Epstein",
+        "zh": "汉堡、Cavern、Epstein"
       },
       "body": {
-        "en": "From 1962 to 1970 the recording lineup stayed Lennon, McCartney, Harrison, and Starr.\n\nLennon and McCartney wrote most of the early hits. Harrison’s share of album tracks rose in the late 1960s. Starr’s drumming and occasional lead vocals stayed part of the group sound.",
-        "zh": "1962 至 1970 年，录音阵容保持为 Lennon、McCartney、Harrison、Starr。\n\n早期热单多由 Lennon 与 McCartney 写作。1960 年代后期，Harrison 在专辑中的曲目份额上升。Starr 的鼓与偶尔的主唱也一直是乐队声音的一部分。"
+        "en": "Hamburg club residencies turned the early five-piece into a working rock band. German art-school audiences followed them there.\n\nAfter Sutcliffe remained in Hamburg (he died in 1962), the others returned to Liverpool and built a residency at the Cavern Club. Record-shop owner Brian Epstein became manager and secured the 1962 Parlophone deal; Pete Best left and Ringo Starr joined on drums.",
+        "zh": "汉堡俱乐部驻唱把早期五人编制练成职业摇滚乐队，德国艺术院校听众在当地追随他们。\n\nSutcliffe 留在汉堡（1962 年去世）后，其余成员返回利物浦，在 Cavern 俱乐部驻唱。唱片行老板 Brian Epstein 成为经纪人，促成 1962 年 Parlophone 签约；Pete Best 离队，鼓手换为 Ringo Starr。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/the-beatles-1963-press.jpg",
+        "alt": {
+          "en": "The Beatles 1963 Capitol publicity photo (Dezo Hoffmann)",
+          "zh": "The Beatles 1963 年 Capitol 宣传照（Dezo Hoffmann）"
+        },
+        "credit": "Dezo Hoffmann / Capitol Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg"
+      }
+    },
+    {
+      "id": "lineup-versions",
+      "title": {
+        "en": "From five to four",
+        "zh": "从五人到四人"
+      },
+      "body": {
+        "en": "1960–62 included Pete Best on drums and Stuart Sutcliffe on bass beside Lennon, McCartney, and Harrison.\n\nFrom August 1962 the recording lineup stayed Lennon, McCartney, Harrison, and Starr through Let It Be / Abbey Road. Lennon and McCartney wrote most early hits; Harrison’s album share rose later; Starr’s drums and occasional lead vocals remained constant.",
+        "zh": "1960–62 年在 Lennon、McCartney、Harrison 之外，还有鼓手 Pete Best 与贝斯手 Stuart Sutcliffe。\n\n自 1962 年 8 月起，录音阵容固定为 Lennon、McCartney、Harrison、Starr，直至《Let It Be》/《Abbey Road》。早期热单多由 Lennon 与 McCartney 写作；后期 Harrison 专辑份额上升；Starr 的鼓与偶尔主唱始终在编制内。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "rock-n-roll"
@@ -179,15 +286,38 @@
     {
       "id": "hand",
       "title": {
-        "en": "I Want to Hold Your Hand",
-        "zh": "《I Want to Hold Your Hand》"
+        "en": "I Want to Hold Your Hand / Ed Sullivan",
+        "zh": "《I Want to Hold Your Hand》与 Ed Sullivan"
       },
       "body": {
-        "en": "Released in the UK in late 1963 and in the US by Capitol in December 1963. It reached #1 on the Billboard Hot 100 in early 1964.\n\nThe song is short-form pop: dual lead vocals, handclap rhythm feel, and a clear chorus. US TV appearances around the same period widened the audience beyond the UK singles market.",
-        "zh": "1963 年末在英国发行，同年 12 月由 Capitol 在美国推出，1964 年初登上 Billboard Hot 100 冠军。\n\n歌曲是短形式流行：双主唱、拍手节奏感与清楚的副歌。同期美国电视亮相扩大了听众范围。"
+        "en": "UK release late 1963; Capitol US single in December 1963. It reached Billboard Hot 100 #1 on 1 February 1964.\n\nEight days later the Ed Sullivan Show debut drew about 73 million viewers. By 4 April 1964, four of the Hot 100 top five were Beatles songs. Dual lead vocals, handclap feel, and a clear chorus made the single radio-ready.",
+        "zh": "1963 年末英国发行，同年 12 月 Capitol 美国单曲。1964 年 2 月 1 日登上 Billboard Hot 100 冠军。\n\n八天后首次登上 Ed Sullivan Show，约 7300 万人收看。至 1964 年 4 月 4 日，Hot 100 前五中有四首是 Beatles。双主唱、拍手节奏感与清楚副歌适合电台播放。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/the-beatles-jfk-1964.jpg",
+        "alt": {
+          "en": "The Beatles arrive at JFK Airport, 7 February 1964",
+          "zh": "The Beatles 抵达肯尼迪机场，1964 年 2 月 7 日"
+        },
+        "credit": "United Press International",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Beatles_arrive_at_JFK_Airport.jpg"
+      }
+    },
+    {
+      "id": "cross-band",
+      "title": {
+        "en": "Shared facts with Beach Boys and Stones",
+        "zh": "与 Beach Boys、Stones 的交叉事实"
+      },
+      "body": {
+        "en": "Beach Boys’ Pet Sounds (1966) answered Rubber Soul; George Martin later said Beach Boys studio work fed the Sgt. Pepper sessions. In Rishikesh (1968), Lennon was photographed talking with Beach Boys’ Mike Love while writing White Album material.\n\nLennon–McCartney wrote I Wanna Be Your Man for the early Rolling Stones—one of the Stones’ first hit singles before their debut album. Both bands also covered Chuck Berry songs in the early 1960s repertoire.",
+        "zh": "Beach Boys 的 Pet Sounds（1966）回应了《Rubber Soul》；George Martin 后来说 Beach Boys 的录音室做法进入了《Sgt. Pepper》录音。1968 年在瑞诗凯诗，Lennon 与 Beach Boys 的 Mike Love 交谈的照片留存，同期在写白专素材。\n\nLennon–McCartney 为早期 Rolling Stones 写了 I Wanna Be Your Man——Stones 首张专辑前的热门单曲之一。两队早期曲目也都翻唱过 Chuck Berry。"
+      },
+      "stickyVisual": "influence",
       "soundGenre": "rock-n-roll"
     },
     {
@@ -197,21 +327,45 @@
         "zh": "Abbey Road 录音室年代"
       },
       "body": {
-        "en": "From Revolver (1966) onward, sessions at Abbey Road used four-track and later eight-track machines, tape loops, and varispeed.\n\nA Day in the Life (1967) joins Lennon and McCartney sections with an orchestral build and a sustained final piano chord. After the 1966 tour stop, albums such as Sgt. Pepper and Magical Mystery Tour were made as studio projects rather than live-set documents.",
-        "zh": "自《Revolver》（1966）起，Abbey Road 录音使用四轨及后来的八轨机、磁带循环与变速。\n\n《A Day in the Life》（1967）用管弦爬升和末尾延音钢琴和弦连接 Lennon 与 McCartney 的段落。1966 年停巡演后，《Sgt. Pepper》《Magical Mystery Tour》等作品以录音室项目而非现场曲目记录为主。"
+        "en": "From Revolver (1966) onward, Abbey Road sessions used four-track and later eight-track machines, tape loops, and varispeed. Tomorrow Never Knows is a clear studio showcase.\n\nSgt. Pepper (1967) includes Lucy in the Sky with Diamonds, A Day in the Life, and All You Need Is Love. After the 1966 tour stop, albums were made as studio projects. Strawberry Fields Forever / Penny Lane was a double A-side; Magical Mystery Tour followed Epstein’s death.",
+        "zh": "自《Revolver》（1966）起，Abbey Road 录音使用四轨及后来的八轨机、磁带循环与变速。Tomorrow Never Knows 是清楚的录音室展示。\n\n《Sgt. Pepper》（1967）含 Lucy in the Sky with Diamonds、A Day in the Life 与 All You Need Is Love。1966 年停巡演后，专辑以录音室项目完成。Strawberry Fields Forever / Penny Lane 为双 A 面；Epstein 去世后推出 Magical Mystery Tour。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
-      "soundGenre": "psychedelic"
+      "soundGenre": "psychedelic",
+      "stickyImage": {
+        "src": "/media/bands/the-beatles-1967-all-you-need-is-love.jpg",
+        "alt": {
+          "en": "The Beatles 1967 promo photo for All You Need Is Love",
+          "zh": "The Beatles 1967 年 All You Need Is Love 宣传照"
+        },
+        "credit": "Capitol Records / Henry Grossman",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Beatles_1967.jpg"
+      }
     },
     {
-      "id": "dna",
+      "id": "white-abbey",
+      "title": {
+        "en": "White Album to Abbey Road",
+        "zh": "白专到《Abbey Road》"
+      },
+      "body": {
+        "en": "Rishikesh writing fed the White Album (1968)—Back in the U.S.S.R., Dear Prudence, Blackbird, While My Guitar Gently Weeps. Hey Jude (about seven minutes; Revolution B-side) followed the same year.\n\nLet It Be sessions were tense; Starr briefly left during the White Album; Harrison also stepped away during Let It Be. Abbey Road (1969) was finished afterward but released first: Come Together, Something, Here Comes the Sun, and McCartney’s medley. The Apple rooftop show (1969) was their last public concert.",
+        "zh": "瑞诗凯诗写作进入白专（1968）——Back in the U.S.S.R.、Dear Prudence、Blackbird、While My Guitar Gently Weeps。同年还有约七分钟的 Hey Jude（B 面 Revolution）。\n\n《Let It Be》录音气氛紧张；Starr 在白专期间短暂离开；Harrison 在《Let It Be》期间也曾离场。《Abbey Road》（1969）后录却先发行：Come Together、Something、Here Comes the Sun 与 McCartney 的组曲。1969 年 Apple 屋顶演出是最后一次公开音乐会。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 3,
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "writing-practice",
       "title": {
         "en": "Writing and album practice",
         "zh": "写作与专辑做法"
       },
       "body": {
-        "en": "Later rock songwriters often cite Lennon–McCartney harmony, middle-eight bridges, and album track sequencing.\n\nStudio techniques from the EMI years—overdubs, tape edits, non-guitar timbres—also appear in psychedelic, progressive, and indie production after the 1960s.",
+        "en": "Later rock songwriters often cite Lennon–McCartney harmony, middle-eight bridges, and album track sequencing.\n\nEMI-era techniques—overdubs, tape edits, non-guitar timbres—appear in psychedelic, progressive, and indie production after the 1960s.",
         "zh": "后来的摇滚写作者常提到 Lennon–McCartney 和声、中八桥段与专辑曲目排序。\n\nEMI 年代的录音手法——叠加、磁带剪辑、非吉他音色——也出现在 1960 年代之后的迷幻、progressive 与 indie 制作中。"
       },
       "stickyVisual": "dna",
@@ -224,8 +378,8 @@
         "zh": "关于过程"
       },
       "body": {
-        "en": "Press and documentary interviews are numerous. Useful lines describe who wrote which section and how a take was built in the studio.\n\nMcCartney’s remark about taking existing forms and adapting them matches the early cover-to-original path on the records.",
-        "zh": "媒体与纪录片访谈很多。有用的句子多描述谁写了哪一段、一条 take 如何在录音室搭成。\n\nMcCartney 关于取用已有形式再改写的说法，与唱片上从翻唱到原创的早期路径一致。"
+        "en": "Press and documentary interviews are numerous. Useful lines describe who wrote which section and how a take was built in the studio.\n\nNirvana’s Dave Grohl and Krist Novoselic later summarized the band’s arc in plain terms: they opened the show, played it, and closed it themselves.",
+        "zh": "媒体与纪录片访谈很多。有用的句子多描述谁写了哪一段、一条 take 如何在录音室搭成。\n\nNirvana 的 Dave Grohl 与 Krist Novoselic 后来用直白说法概括这条弧线：拉开序幕、演完、再亲手拉上帷幕。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 1,
@@ -233,6 +387,41 @@
     }
   ],
   "lineupVersions": [
+    {
+      "id": "hamburg-five",
+      "label": {
+        "en": "Hamburg five",
+        "zh": "汉堡五人"
+      },
+      "years": "1960–1962",
+      "members": [
+        {
+          "name": "John Lennon",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Paul McCartney",
+          "role": "Vocals, Guitar",
+          "personSlug": "paul-mccartney"
+        },
+        {
+          "name": "George Harrison",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "Stuart Sutcliffe",
+          "role": "Bass"
+        },
+        {
+          "name": "Pete Best",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Early Beatles name and Hamburg residencies. Sutcliffe left in 1961 and died in 1962; Best was replaced by Ringo Starr in 1962.",
+        "zh": "早期 Beatles 之名与汉堡驻唱。Sutcliffe 于 1961 年离开、1962 年去世；Best 于 1962 年被 Ringo Starr 取代。"
+      }
+    },
     {
       "id": "classic-four",
       "label": {
@@ -248,7 +437,8 @@
         },
         {
           "name": "Paul McCartney",
-          "role": "Vocals, Bass"
+          "role": "Vocals, Bass",
+          "personSlug": "paul-mccartney"
         },
         {
           "name": "George Harrison",
@@ -270,8 +460,8 @@
       "title": "I Want to Hold Your Hand",
       "year": 1963,
       "note": {
-        "en": "Capitol US single; Billboard Hot 100 #1 in 1964.",
-        "zh": "Capitol 美国单曲；1964 年 Billboard Hot 100 冠军。"
+        "en": "Capitol US single; Billboard Hot 100 #1 in February 1964; Ed Sullivan the same month.",
+        "zh": "Capitol 美国单曲；1964 年 2 月 Billboard Hot 100 冠军；同月登上 Ed Sullivan。"
       }
     },
     "pioneeredGenres": [

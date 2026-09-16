@@ -10,20 +10,20 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "California group formed in 1961. Brian Wilson’s studio harmony and sectional recording peak on Pet Sounds (1966) and the single Good Vibrations.",
-    "zh": "加州组合，1961 年成立。Brian Wilson 的录音室和声与分段录音，高峰在 Pet Sounds（1966）与单曲 Good Vibrations。"
+    "en": "California group formed in 1961. Surf singles into Brian Wilson’s studio peak on Pet Sounds (1966) and Good Vibrations; long chart life beyond the mid-60s.",
+    "zh": "加州组合，1961 年成立。从冲浪单曲到 Brian Wilson 录音室高峰 Pet Sounds（1966）与 Good Vibrations；榜单寿命长过 60 年代中期。"
   },
   "members": [
     {
       "name": "Brian Wilson",
       "role": "Bass, Keys, Vocals, Production",
-      "years": "1961–1972; sporadic later",
+      "years": "1961–present",
       "personSlug": "brian-wilson"
     },
     {
       "name": "Carl Wilson",
       "role": "Guitar, Vocals",
-      "years": "1961–1997"
+      "years": "1961–1998"
     },
     {
       "name": "Dennis Wilson",
@@ -39,12 +39,57 @@
       "name": "Al Jardine",
       "role": "Guitar, Vocals",
       "years": "1961–1962; 1963–present"
+    },
+    {
+      "name": "David Marks",
+      "role": "Guitar, Vocals",
+      "years": "1962–1963; later reunions"
+    },
+    {
+      "name": "Glen Campbell",
+      "role": "Bass, Vocals (tour fill-in)",
+      "years": "1964–1965"
+    },
+    {
+      "name": "Bruce Johnston",
+      "role": "Keys, Vocals",
+      "years": "1965–1972; 1978–present"
+    },
+    {
+      "name": "Blondie Chaplin",
+      "role": "Bass, Guitar, Vocals",
+      "years": "1972–1973"
+    },
+    {
+      "name": "Ricky Fataar",
+      "role": "Drums, Vocals",
+      "years": "1972–1974"
     }
   ],
   "essentialTracks": [
     {
-      "title": "Good Vibrations",
-      "year": 1966
+      "title": "Surfin' U.S.A.",
+      "year": 1963,
+      "note": {
+        "en": "Early Capitol surf single; Chuck Berry–derived guitar figure.",
+        "zh": "早期 Capitol 冲浪单曲；源自 Chuck Berry 的吉他音型。"
+      }
+    },
+    {
+      "title": "I Get Around",
+      "year": 1964,
+      "note": {
+        "en": "First US #1 and first million-seller; UK top 10.",
+        "zh": "首支美国冠军与首支销量过百万单曲；英国榜前 10。"
+      }
+    },
+    {
+      "title": "Help Me, Rhonda",
+      "year": 1965,
+      "note": {
+        "en": "US #1 single in the mid-60s chart run.",
+        "zh": "60 年代中期美国榜冠军单曲。"
+      }
     },
     {
       "title": "Wouldn't It Be Nice",
@@ -52,11 +97,35 @@
     },
     {
       "title": "God Only Knows",
-      "year": 1966
+      "year": 1966,
+      "note": {
+        "en": "Pet Sounds; layered vocals and French horn.",
+        "zh": "出自 Pet Sounds；多层人声与法国号。"
+      }
     },
     {
-      "title": "Surfin' U.S.A.",
-      "year": 1963
+      "title": "Good Vibrations",
+      "year": 1966,
+      "note": {
+        "en": "Multi-studio sectional single; electro-theremin hook; UK #1.",
+        "zh": "多录音室分段单曲；electro-theremin hook；英国榜冠军。"
+      }
+    },
+    {
+      "title": "Sail On, Sailor",
+      "year": 1973,
+      "note": {
+        "en": "Holland lead single; Blondie Chaplin on lead vocal.",
+        "zh": "《Holland》主打单曲；主唱为 Blondie Chaplin。"
+      }
+    },
+    {
+      "title": "Kokomo",
+      "year": 1988,
+      "note": {
+        "en": "Cocktail soundtrack; first US #1 in 22 years.",
+        "zh": "电影《鸡尾酒》配乐；时隔 22 年再登美国榜冠军。"
+      }
     }
   ],
   "lyricQuotes": [
@@ -65,7 +134,8 @@
   ],
   "relatedBands": [
     "the-beatles",
-    "the-who"
+    "the-who",
+    "pink-floyd"
   ],
   "influenceFrom": [
     "chuck-berry",
@@ -76,12 +146,12 @@
     "pink-floyd"
   ],
   "shortBio": {
-    "en": "Brian Wilson studio pop, California, 1961–. Pet Sounds and Good Vibrations are the main 1966 reference points.",
-    "zh": "Brian Wilson 录音室流行，加州，1961 年起。1966 年主要参照为 Pet Sounds 与 Good Vibrations。"
+    "en": "Brian Wilson studio pop, California, 1961–. Pet Sounds and Good Vibrations are the main 1966 reference points; Marks, Campbell, Johnston, Chaplin, and Fataar mark later lineups.",
+    "zh": "Brian Wilson 录音室流行，加州，1961 年起。1966 年主要参照为 Pet Sounds 与 Good Vibrations；Marks、Campbell、Johnston、Chaplin、Fataar 标出后续阵容。"
   },
   "body": {
-    "en": "The Beach Boys formed in California in 1961 around the Wilson brothers, Mike Love, and Al Jardine. Early Capitol singles such as Surfin’ U.S.A. (1963) used surf themes, stacked vocals, and Chuck Berry–derived guitar figures.\n\nPet Sounds (1966) and Good Vibrations used session players, French horn, electro-theremin, bicycle bells, and sections recorded across multiple studios. The unfinished Smile sessions followed. Brian stepped back from touring after 1964; his densest studio period is roughly 1965–67.",
-    "zh": "The Beach Boys 于 1961 年在加州成立，核心为 Wilson 兄弟、Mike Love 与 Al Jardine。早期 Capitol 单曲如 Surfin’ U.S.A.（1963）使用冲浪题材、堆叠人声，以及源自 Chuck Berry 的吉他音型。\n\nPet Sounds（1966）与 Good Vibrations 使用 session 乐手、法国号、electro-theremin、自行车铃，并跨多家录音室分段录制。随后是未完成的 Smile 录音。Brian 于 1964 后退出现场巡演；录音室最密的时期约在 1965–67。"
+    "en": "The Beach Boys formed in Los Angeles in 1961 as The Pendletones—Brian, Carl, and Dennis Wilson, cousin Mike Love, and schoolmate Al Jardine—then took the Beach Boys name and cut Surfin’. Capitol signed them in late 1962; Surfin’ Safari reached US #32. Jardine was out for about a year (David Marks filled the guitar seat); Help Me, Rhonda and I Get Around still hit US #1. I Get Around was their first million-seller and reached the UK top 10. Across a decade they placed 19 songs on the UK chart, including Good Vibrations and Do It Again at #1.\n\nIn 1964 Brian stopped regular touring to write and produce; Glen Campbell filled the stage seat, then Bruce Johnston. Pet Sounds (1966) followed. Eric Clapton called Brian a pop-rock writing talent; George Martin said Sgt. Pepper drew on Beach Boys studio methods—after Rubber Soul had already fed Pet Sounds. Good Vibrations assembled sections across studios. Smile with Van Dyke Parks stalled. Brother Records years brought Surf’s Up (1971) and Holland (1973); Blondie Chaplin and Ricky Fataar joined after Dennis injured his hand, with Chaplin singing Sail On, Sailor. In 1979 Bruce Johnston and three other singers appeared on Pink Floyd’s The Wall; the Beach Boys as a group were turned down for that session. Kokomo (1988) was their first US #1 in 22 years.",
+    "zh": "The Beach Boys 于 1961 年在洛杉矶以 The Pendletones 成立——Brian、Carl、Dennis Wilson，表哥 Mike Love 与同学 Al Jardine——随后改名并录下 Surfin’。1962 年末与 Capitol 签约；Surfin’ Safari 升至美榜第 32。Jardine 约有一年不在编制（吉他由 David Marks 顶上）；Help Me, Rhonda 与 I Get Around 仍登美榜冠军。I Get Around 是首支销量过百万单曲，并进入英国榜前 10。十年内英国榜共有 19 首，含冠军 Good Vibrations 与 Do It Again。\n\n1964 年 Brian 停止常规巡演专心写作与制作；舞台位置先由 Glen Campbell 顶替，再换 Bruce Johnston。随后推出 Pet Sounds（1966）。Eric Clapton 称 Brian 为流行摇滚写手；George Martin 说《Sgt. Pepper》吸收了 Beach Boys 的录音室做法——而 Pet Sounds 此前已回应过 Beatles 的《Rubber Soul》。Good Vibrations 跨录音室组装段落。与 Van Dyke Parks 合作的 Smile 中止。Brother 厂牌时期有 Surf’s Up（1971）与 Holland（1973）；Dennis 手伤后 Blondie Chaplin 与 Ricky Fataar 加入，Chaplin 主唱 Sail On, Sailor。1979 年 Bruce Johnston 与另外三位歌手出现在 Pink Floyd《The Wall》中；Beach Boys 整队则因风格不合被拒。Kokomo（1988）是时隔 22 年再登美榜冠军。"
   },
   "scenes": [
     {
@@ -92,6 +162,25 @@
         "Carl Wilson",
         "Dennis Wilson",
         "Mike Love",
+        "David Marks"
+      ],
+      "genreTags": [
+        "rock-n-roll"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Early Capitol surf single. Chuck Berry–style guitar figure under stacked vocals. Marks covered guitar while Jardine was briefly out.",
+        "zh": "早期 Capitol 冲浪单曲。Chuck Berry 式吉他音型加堆叠人声。Jardine 短暂离队时由 Marks 顶吉他。"
+      }
+    },
+    {
+      "year": 1964,
+      "track": "I Get Around",
+      "membersOnStage": [
+        "Brian Wilson",
+        "Carl Wilson",
+        "Dennis Wilson",
+        "Mike Love",
         "Al Jardine"
       ],
       "genreTags": [
@@ -99,8 +188,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Early surf single. Chuck Berry–style guitar figure under stacked vocals.",
-        "zh": "早期冲浪单曲。Chuck Berry 式吉他音型加堆叠人声。"
+        "en": "First US #1 and first million-seller; UK top 10. Performed on Ed Sullivan around the same chart period.",
+        "zh": "首支美国冠军与首支销量过百万；英国榜前 10。同期登上 Ed Sullivan。"
       }
     },
     {
@@ -111,7 +200,8 @@
         "Carl Wilson",
         "Dennis Wilson",
         "Mike Love",
-        "Al Jardine"
+        "Al Jardine",
+        "Bruce Johnston"
       ],
       "genreTags": [
         "psychedelic",
@@ -119,8 +209,8 @@
       ],
       "intensity": 1,
       "note": {
-        "en": "From Pet Sounds. Layered vocals and French horn.",
-        "zh": "出自 Pet Sounds。多层人声与法国号。"
+        "en": "From Pet Sounds. Layered vocals and French horn. Pet Sounds answered Beatles’ Rubber Soul; George Martin later tied Beach Boys studio methods to Sgt. Pepper.",
+        "zh": "出自 Pet Sounds。多层人声与法国号。Pet Sounds 回应 Beatles《Rubber Soul》；George Martin 后来把 Beach Boys 录音室做法与《Sgt. Pepper》联系起来。"
       }
     },
     {
@@ -131,7 +221,8 @@
         "Carl Wilson",
         "Dennis Wilson",
         "Mike Love",
-        "Al Jardine"
+        "Al Jardine",
+        "Bruce Johnston"
       ],
       "genreTags": [
         "psychedelic",
@@ -139,8 +230,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Capitol single. Sections recorded in multiple studios; electro-theremin hook.",
-        "zh": "Capitol 单曲。多录音室分段录制；electro-theremin hook。"
+        "en": "Capitol single assembled across studios; electro-theremin hook. UK #1 among 19 UK chart entries in a decade.",
+        "zh": "Capitol 单曲跨录音室组装；electro-theremin hook。十年内 19 首英国上榜曲中的冠军之一。"
       }
     }
   ],
@@ -156,33 +247,77 @@
         "zh": "Pet Sounds（1966）从冲浪单曲转向更密的编曲：Wouldn’t It Be Nice、God Only Knows、Wilson 堆叠人声，以及乐队外的洛杉矶 session 乐手。\n\nGood Vibrations 跨录音室组装段落——electro-theremin、大提琴、人声叠层。Brian Wilson 的制作方法是该年有文献可查的重点。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "psychedelic"
+      "soundGenre": "psychedelic",
+      "stickyImage": {
+        "src": "/media/bands/the-beach-boys-1964.jpg",
+        "alt": {
+          "en": "The Beach Boys Capitol publicity photo, circa 1964",
+          "zh": "The Beach Boys Capitol 宣传照，约 1964 年"
+        },
+        "credit": "Capitol Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Beach_Boys_1964.jpg"
+      }
     },
     {
       "id": "lineup",
       "title": {
-        "en": "Wilson brothers plus Love and Jardine",
-        "zh": "Wilson 兄弟加 Love 与 Jardine"
+        "en": "Marks, Campbell, Johnston, Chaplin, Fataar",
+        "zh": "Marks、Campbell、Johnston、Chaplin、Fataar"
       },
       "body": {
-        "en": "Brian, Carl, and Dennis Wilson formed the family core; Mike Love and Al Jardine shared lead vocals on tour and record. Brian stopped regular live work after 1964; the studio peak is 1965–67.\n\nThe Smile sessions stalled. Pet Sounds and Good Vibrations remain the clearest completed work from that stretch before Brian’s withdrawal from daily band leadership.",
-        "zh": "Brian、Carl、Dennis Wilson 是家庭核心；Mike Love 与 Al Jardine 分担巡演与录音主唱。Brian 于 1964 年后不再常驻现场；录音室高峰在 1965–67。\n\nSmile 录音中止。Pet Sounds 与 Good Vibrations 仍是 Brian 退出日常主导前，该阶段最完整的完成作品。"
+        "en": "Brian, Carl, and Dennis Wilson formed the family core with Mike Love and Al Jardine. David Marks covered guitar during Jardine’s early absence. After 1964 Brian left regular touring; Glen Campbell then Bruce Johnston filled the stage seat.\n\nIn the early 1970s Blondie Chaplin (bass/vocals) and Ricky Fataar (drums) joined—Chaplin sang Sail On, Sailor on Holland. Johnston left and returned (1978). The look shifted toward longer hair and beards closer to Grateful Dead / The Band stage clothes.",
+        "zh": "Brian、Carl、Dennis Wilson 与 Mike Love、Al Jardine 构成核心。Jardine 早期离队时由 David Marks 顶吉他。1964 年后 Brian 不再常驻巡演；舞台位置先由 Glen Campbell、再由 Bruce Johnston 顶替。\n\n1970 年代初 Blondie Chaplin（贝斯/人声）与 Ricky Fataar（鼓）加入——Chaplin 在《Holland》主唱 Sail On, Sailor。Johnston 离队后又于 1978 年回归。外形转向长发与胡须，接近 Grateful Dead / The Band 的舞台装扮。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/the-beach-boys-1964-billboard.png",
+        "alt": {
+          "en": "The Beach Boys in Billboard magazine, December 1964",
+          "zh": "The Beach Boys 出现在 1964 年 12 月 Billboard"
+        },
+        "credit": "Billboard magazine",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Beach_Boys_1964_Billboard.png"
+      }
     },
     {
-      "id": "legacy",
+      "id": "beatles-exchange",
       "title": {
-        "en": "Studio influence in the late 1960s",
-        "zh": "1960 年代末的录音室影响"
+        "en": "Cross-listening with The Beatles",
+        "zh": "与 The Beatles 的交叉聆听"
       },
       "body": {
-        "en": "The Beatles’ Revolver and Sgt. Pepper sessions document cross-listening with Pet Sounds. Later studio psychedelic acts, including Pink Floyd, used sectional recording and stacked vocals in related ways.\n\nEarly surf singles still carry Chuck Berry–style guitar figures; the lasting production traits are stacked harmony and multi-studio editing.",
-        "zh": "Beatles 的 Revolver 与 Sgt. Pepper 录音记录了与 Pet Sounds 的交叉聆听。后来的录音室迷幻乐队（包括 Pink Floyd）以相近方式使用分段录音与堆叠人声。\n\n早期冲浪单曲仍带 Chuck Berry 式吉他音型；更持久的制作特征是堆叠和声与跨录音室剪辑。"
+        "en": "Pet Sounds answered Rubber Soul. George Martin later said Beach Boys studio methods fed Sgt. Pepper—and Eric Clapton praised Brian’s writing in the same mid-60s window.\n\nIn Rishikesh (1968), Beach Boys’ Mike Love appears in group photos with The Beatles during the White Album writing period. Both acts used Capitol distribution in the US at overlapping times; the chart rivalry is documented in sales and single peaks rather than press slogans.",
+        "zh": "Pet Sounds 回应了《Rubber Soul》。George Martin 后来说 Beach Boys 的录音室做法进入了《Sgt. Pepper》——同一时段 Eric Clapton 也称赞 Brian 的写作。\n\n1968 年在瑞诗凯诗，Beach Boys 的 Mike Love 出现在与 Beatles 的合影中，正值白专写作期。两队在美国都曾经由 Capitol 发行；榜单竞争体现在销量与单曲名次，而非口号。"
       },
       "stickyVisual": "influence",
       "soundGenre": "psychedelic"
+    },
+    {
+      "id": "scene-sullivan",
+      "title": {
+        "en": "I Get Around / Ed Sullivan",
+        "zh": "《I Get Around》与 Ed Sullivan"
+      },
+      "body": {
+        "en": "I Get Around (1964) was the first US #1 and first million-seller; it also reached the UK top 10. The band performed on Ed Sullivan in the same chart period.\n\nHelp Me, Rhonda likewise hit US #1. Brian’s decision to leave touring that year redirected the group toward Pet Sounds–era studio work.",
+        "zh": "《I Get Around》（1964）是首支美国冠军与首支销量过百万单曲，并进入英国榜前 10。乐队同期登上 Ed Sullivan。\n\nHelp Me, Rhonda 同样登上美榜冠军。Brian 同年退出巡演，把重心转向 Pet Sounds 时期的录音室工作。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/the-beach-boys-ed-sullivan-1964.jpg",
+        "alt": {
+          "en": "The Beach Boys on The Ed Sullivan Show performing I Get Around, 1964",
+          "zh": "The Beach Boys 在 Ed Sullivan Show 演唱 I Get Around，1964"
+        },
+        "credit": "Ed Sullivan Show trailer screenshot",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sullivan_Beach_Boys.jpg"
+      }
     },
     {
       "id": "scene-0",
@@ -199,32 +334,31 @@
       "soundGenre": "rock-n-roll"
     },
     {
-      "id": "scene-1",
-      "title": {
-        "en": "God Only Knows",
-        "zh": "God Only Knows"
-      },
-      "body": {
-        "en": "Pet Sounds track (1966). Layered vocals and French horn in Brian Wilson’s studio arrangement.",
-        "zh": "Pet Sounds 曲目（1966）。Brian Wilson 录音室编曲中的多层人声与法国号。"
-      },
-      "stickyVisual": "scene",
-      "sceneIndex": 1,
-      "soundGenre": "psychedelic"
-    },
-    {
       "id": "scene-2",
       "title": {
         "en": "Good Vibrations",
         "zh": "Good Vibrations"
       },
       "body": {
-        "en": "1966 Capitol single. Sections recorded in multiple studios and edited together; electro-theremin carries the main hook.",
-        "zh": "1966 年 Capitol 单曲。多录音室分段录制后剪辑合成；electro-theremin 承担主 hook。"
+        "en": "1966 Capitol single. Sections recorded in multiple studios and edited together; electro-theremin carries the main hook. UK #1.",
+        "zh": "1966 年 Capitol 单曲。多录音室分段录制后剪辑合成；electro-theremin 承担主 hook。英国榜冠军。"
       },
       "stickyVisual": "scene",
-      "sceneIndex": 2,
+      "sceneIndex": 3,
       "soundGenre": "psychedelic"
+    },
+    {
+      "id": "later-pink-floyd",
+      "title": {
+        "en": "1970s lineups and The Wall session",
+        "zh": "1970 年代阵容与《The Wall》录音"
+      },
+      "body": {
+        "en": "Surf’s Up (1971) and Holland (1973) carried environmental and political themes such as Student Demonstration Time. Carl and the Passions / So Tough sat between them; Johnston left and later returned.\n\nIn 1979 Bruce Johnston and three other singers appeared on Pink Floyd’s The Wall. The Beach Boys as a full group were refused for that session. Dennis drowned in 1983; Carl died of cancer in 1998. Kokomo (1988) returned them to US #1.",
+        "zh": "《Surf’s Up》（1971）与《Holland》（1973）带有环境与政治题材，如 Student Demonstration Time。其间有 Carl and the Passions / So Tough；Johnston 离队后又回归。\n\n1979 年 Bruce Johnston 与另外三位歌手出现在 Pink Floyd《The Wall》中；Beach Boys 整队则被拒。Dennis 于 1983 年溺水身亡；Carl 于 1998 年死于癌症。Kokomo（1988）再登美榜冠军。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "rock-n-roll"
     }
   ],
   "interviewQuotes": [
@@ -242,6 +376,41 @@
     }
   ],
   "lineupVersions": [
+    {
+      "id": "surf-capitol",
+      "label": {
+        "en": "Early Capitol / Marks years",
+        "zh": "早期 Capitol / Marks 时期"
+      },
+      "years": "1962–1963",
+      "members": [
+        {
+          "name": "Brian Wilson",
+          "role": "Vocals, Bass",
+          "personSlug": "brian-wilson"
+        },
+        {
+          "name": "Mike Love",
+          "role": "Vocals"
+        },
+        {
+          "name": "Carl Wilson",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Dennis Wilson",
+          "role": "Vocals, Drums"
+        },
+        {
+          "name": "David Marks",
+          "role": "Guitar, Vocals"
+        }
+      ],
+      "note": {
+        "en": "Jardine briefly out; Marks on guitar for early Capitol singles.",
+        "zh": "Jardine 短暂离队；早期 Capitol 单曲由 Marks 任吉他。"
+      }
+    },
     {
       "id": "peak",
       "label": {
@@ -271,11 +440,53 @@
         {
           "name": "Al Jardine",
           "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Bruce Johnston",
+          "role": "Vocals, Keys"
         }
       ],
       "note": {
-        "en": "Brian-led studio years around Pet Sounds, Good Vibrations, and the Smile sessions.",
-        "zh": "Brian 主导的录音室时期：Pet Sounds、Good Vibrations 与 Smile 录音前后。"
+        "en": "Brian-led studio years around Pet Sounds, Good Vibrations, and Smile. Johnston had replaced Campbell on the road.",
+        "zh": "Brian 主导的录音室时期：Pet Sounds、Good Vibrations 与 Smile。Johnston 已接替 Campbell 的巡演位置。"
+      }
+    },
+    {
+      "id": "holland",
+      "label": {
+        "en": "Holland / Chaplin–Fataar",
+        "zh": "Holland / Chaplin–Fataar"
+      },
+      "years": "1972–1973",
+      "members": [
+        {
+          "name": "Carl Wilson",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Dennis Wilson",
+          "role": "Vocals, Drums"
+        },
+        {
+          "name": "Mike Love",
+          "role": "Vocals"
+        },
+        {
+          "name": "Al Jardine",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Blondie Chaplin",
+          "role": "Bass, Vocals"
+        },
+        {
+          "name": "Ricky Fataar",
+          "role": "Drums, Vocals"
+        }
+      ],
+      "note": {
+        "en": "Chaplin sang Sail On, Sailor. Brian was largely off the road; Johnston had left before returning in 1978.",
+        "zh": "Chaplin 主唱 Sail On, Sailor。Brian 基本不巡演；Johnston 已离队，1978 年才回归。"
       }
     }
   ],
@@ -284,8 +495,8 @@
       "title": "Good Vibrations",
       "year": 1966,
       "note": {
-        "en": "Multi-studio sectional single with electro-theremin hook.",
-        "zh": "多录音室分段单曲，含 electro-theremin hook。"
+        "en": "Multi-studio sectional single with electro-theremin hook; UK #1.",
+        "zh": "多录音室分段单曲，含 electro-theremin hook；英国榜冠军。"
       }
     },
     "pioneeredGenres": [
@@ -293,8 +504,8 @@
       "psychedelic"
     ],
     "note": {
-      "en": "California harmony pop into dense 1966 studio arrangement.",
-      "zh": "加州和声流行进入 1966 年密集录音室编曲。"
+      "en": "California harmony pop into dense 1966 studio arrangement; cross-listening with Beatles Rubber Soul / Sgt. Pepper.",
+      "zh": "加州和声流行进入 1966 年密集录音室编曲；与 Beatles《Rubber Soul》/《Sgt. Pepper》交叉聆听。"
     }
   }
 }

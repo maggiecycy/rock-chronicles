@@ -10,36 +10,56 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "New York band formed in 1964, associated with Andy Warhol’s Factory. The Velvet Underground & Nico (1967) used viola drone, two-chord vamps, and deadpan lyric—later widely cited by punk, noise, and indie acts.",
-    "zh": "纽约乐队，1964 年成立，与 Andy Warhol 的 Factory 有关联。The Velvet Underground & Nico（1967）使用中提琴持续音、两和弦反复与冷脸歌词——后来被朋克、噪声与 indie 乐队广泛提及。"
+    "en": "New York band formed around Lou Reed and John Cale. Andy Warhol sponsored the debut and designed its banana cover; The Velvet Underground & Nico (1967) and White Light/White Heat (1968) sold poorly then became core citations for punk, noise, and indie—Julian Casablancas later described White Light/White Heat as a record you hear in a bad mood in a dive bar.",
+    "zh": "纽约乐队，围绕 Lou Reed 与 John Cale 组建。Andy Warhol 赞助首专并设计香蕉封面；The Velvet Underground & Nico（1967）与 White Light/White Heat（1968）当时销量差，后成朋克、噪声与 indie 核心引用——Julian Casablancas 后来形容 White Light/White Heat 是要坐在破酒吧、心情糟透时听的唱片。"
   },
   "members": [
     {
       "name": "Lou Reed",
       "role": "Vocals, Guitar",
-      "years": "1964–1973; 1990; 1992–1993",
+      "years": "1964–1970; 1990; 1992–1993",
       "personSlug": "lou-reed"
     },
     {
       "name": "John Cale",
       "role": "Bass, Viola, Vocals",
-      "years": "1964–1968",
+      "years": "1964–1968; 1990; 1992–1993",
       "personSlug": "john-cale"
     },
     {
       "name": "Sterling Morrison",
       "role": "Guitar, Bass",
-      "years": "1964–1971"
+      "years": "1964–1971; 1990; 1992–1993"
     },
     {
-      "name": "Maureen Tucker",
+      "name": "Angus MacLise",
+      "role": "Percussion",
+      "years": "1965"
+    },
+    {
+      "name": "Moe Tucker",
       "role": "Drums",
-      "years": "1965–1972; 1992–1993"
+      "years": "1965–1970; 1990; 1992–1993"
     },
     {
       "name": "Nico",
       "role": "Vocals",
       "years": "1966–1967"
+    },
+    {
+      "name": "Doug Yule",
+      "role": "Bass, Vocals, Guitar",
+      "years": "1968–1973"
+    },
+    {
+      "name": "Walter Powers",
+      "role": "Bass",
+      "years": "1970–1971"
+    },
+    {
+      "name": "Willie Alexander",
+      "role": "Keyboards, Vocals",
+      "years": "1971–1972"
     }
   ],
   "essentialTracks": [
@@ -58,15 +78,22 @@
     {
       "title": "Sweet Jane",
       "year": 1970
+    },
+    {
+      "title": "Pale Blue Eyes",
+      "year": 1969
     }
   ],
   "lyricQuotes": [
     "Heroin, be the death of me / Heroin, it's my wife and it's my life",
-    "Severin, Severin / Speak so slightly"
+    "Severin, Severin / Speak so slightly",
+    "Sweet Jane / Sweet, sweet Jane"
   ],
   "relatedBands": [
-    "the-doors",
     "david-bowie",
+    "the-strokes",
+    "joy-division",
+    "sonic-youth",
     "talking-heads"
   ],
   "influenceFrom": [
@@ -74,18 +101,19 @@
     "the-doors"
   ],
   "influenced": [
-    "pixies",
+    "the-strokes",
+    "joy-division",
     "sonic-youth",
-    "the-smiths",
-    "joy-division"
+    "pixies",
+    "david-bowie"
   ],
   "shortBio": {
-    "en": "Reed / Cale New York rock, 1964–. The Velvet Underground & Nico and White Light/White Heat are the early core; Sweet Jane follows on Loaded.",
-    "zh": "Reed / Cale 纽约摇滚，1964 年起。早期核心为 The Velvet Underground & Nico 与 White Light/White Heat；Loaded 上有 Sweet Jane。"
+    "en": "Reed / Cale New York rock, 1964–. Warhol banana debut and White Light/White Heat are the early core; Loaded has Sweet Jane; Reed’s Transformer followed with Bowie/Ronson.",
+    "zh": "Reed／Cale 纽约摇滚，1964 年起。Warhol 香蕉首专与 White Light/White Heat 是早期核心；Loaded 有 Sweet Jane；Reed 随后与 Bowie／Ronson 做 Transformer。"
   },
   "body": {
-    "en": "The Velvet Underground formed in New York in 1964. Lou Reed sang and played guitar; John Cale played viola, bass, and keys; Sterling Morrison played guitar; Maureen Tucker played a minimal drum kit. Nico appeared as guest vocalist on the 1967 debut.\n\nThe Velvet Underground & Nico (1967) and White Light/White Heat (1968) sold poorly at release. Cale left in 1968; Loaded (1970) included Sweet Jane in a cleaner rock mix. Punk, post-punk, and indie histories from the 1970s–90s cite the early records heavily.",
-    "zh": "The Velvet Underground 于 1964 年在纽约成立。Lou Reed 主唱并弹吉他；John Cale 弹中提琴、贝斯与键盘；Sterling Morrison 弹吉他；Maureen Tucker 使用极简鼓组。Nico 在 1967 首专上客座人声。\n\nThe Velvet Underground & Nico（1967）与 White Light/White Heat（1968）发行时销量不佳。Cale 于 1968 年离队；Loaded（1970）以更干净的 rock 混音收录 Sweet Jane。1970–90 年代的朋克、后朋克与 indie 史中，早期唱片被大量提及。"
+    "en": "Lou Reed and classically trained John Cale formed The Primitives, then added Sterling Morrison (known to Reed from Syracuse University). A paperback on sadomasochism suggested the name The Velvet Underground. First percussionist Angus MacLise quit before a paid show; Maureen “Moe” Tucker joined—her heavy, minimal drumming became part of the sound.\n\nLate 1965, Andy Warhol saw them at Cafe Bizarre, became their patron, and brought in Nico. He funded the debut LP and designed its banana cover. Sales were near zero (US #171—their highest studio-album chart placing), but Heroin, Waiting for the Man, Run Run Run, and Venus in Furs set a cool, explicit tone few peers matched. All Tomorrow’s Parties was Warhol’s favorite.\n\nWhite Light/White Heat (1968) was deliberately lo-fi and distorted. Julian Casablancas told Rolling Stone it is a record you need to hear in a bad mood in a dive bar. Sister Ray runs about 17 minutes. Cale left in 1968; Doug Yule replaced him. The Velvet Underground (1969) emphasized melody—I’m Set Free, Beginning to See the Light, What Goes On, Pale Blue Eyes. On Loaded (1970; Tucker pregnant and absent), Reed left after delivering Sweet Jane and Rock & Roll. Morrison left in 1971 for English literature study; Yule-led lineups continued into 1973 with little output.\n\nReed’s Transformer (1972), produced with David Bowie and Mick Ronson, yielded Walk on the Wild Side. Berlin (1973), Metal Machine Music (1975), and later New York (1989) marked further solo phases. After Warhol’s 1987 death, Reed and Cale made Songs for Drella (1990). The original four reunited for LIVE MCMXCIII (1993); a Reed–Cale quarrel cancelled US plans. After Morrison’s 1995 death, Reed, Cale, and Tucker played Last Night I Said Goodbye to My Friend at the 1996 Rock Hall induction. Later citations include Modern Lovers, Arcade Fire, Roxy Music, Bowie, Joy Division, Sonic Youth, Jesus and Mary Chain, and The Strokes’ deadpan delivery.",
+    "zh": "Lou Reed 与受过古典训练的 John Cale 组建 The Primitives，再加入 Sterling Morrison（雪城大学时已认识 Reed）。一本关于性虐待的平装书启发了校名 The Velvet Underground。首位打击乐手 Angus MacLise 在一场付费演出前退出；Maureen “Moe” Tucker 加入——她沉重、极简的鼓点成为声音一部分。\n\n1965 年底 Andy Warhol 在 Cafe Bizarre 看过演出后成为赞助人，并引入 Nico。他出资首张 LP，并设计香蕉封面。销量近零（美榜第 171——录音室专辑最高名次），但 Heroin、Waiting for the Man、Run Run Run、Venus in Furs 以冷静、直白的毒品与施虐受虐题材少有同辈可比。All Tomorrow’s Parties 是 Warhol 最爱的 Velvet 歌曲。\n\nWhite Light/White Heat（1968）有意做成低保真、高失真。Julian Casablancas 对《滚石》说，这是一张要坐在破酒吧、心情糟透时听的唱片。Sister Ray 约 17 分钟。Cale 1968 年离队，由 Doug Yule 接替。The Velvet Underground（1969）强调旋律——I’m Set Free、Beginning to See the Light、What Goes On、Pale Blue Eyes。Loaded（1970；Tucker 因怀孕未参加）上 Reed 交出 Sweet Jane、Rock & Roll 后离队。Morrison 1971 年离队攻读英国文学；Yule 主导的编制延续到 1973 年，产出很少。\n\nReed 的 Transformer（1972）由 David Bowie 与 Mick Ronson 联合制作，含 Walk on the Wild Side。Berlin（1973）、Metal Machine Music（1975）与后来的 New York（1989）是个人阶段节点。Warhol 1987 年去世后，Reed 与 Cale 合作 Songs for Drella（1990）。最初四人重组并有 LIVE MCMXCIII（1993）；Reed–Cale 争吵取消美国巡演计划。Morrison 1995 年去世后，Reed、Cale、Tucker 在 1996 年摇滚名人堂入选礼上演奏 Last Night I Said Goodbye to My Friend。后期引用包括 Modern Lovers、Arcade Fire、Roxy Music、Bowie、Joy Division、Sonic Youth、Jesus and Mary Chain，以及 The Strokes 面无表情的念白方式。"
   },
   "scenes": [
     {
@@ -95,7 +123,7 @@
         "Lou Reed",
         "John Cale",
         "Sterling Morrison",
-        "Maureen Tucker"
+        "Moe Tucker"
       ],
       "genreTags": [
         "alternative",
@@ -103,8 +131,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "From the 1967 debut. Two-chord vamp, viola drone, deadpan lyric.",
-        "zh": "出自 1967 首专。两和弦反复、中提琴持续音、冷脸歌词。"
+        "en": "From the Warhol-sponsored banana-cover debut; explicit drug lyric, two-chord form.",
+        "zh": "出自 Warhol 赞助的香蕉封面首专；直白毒品歌词、两和弦曲式。"
       }
     },
     {
@@ -114,7 +142,7 @@
         "Lou Reed",
         "John Cale",
         "Sterling Morrison",
-        "Maureen Tucker",
+        "Moe Tucker",
         "Nico"
       ],
       "genreTags": [
@@ -123,8 +151,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Debut-era track. Cale viola scrape under Reed’s flat vocal.",
-        "zh": "首专时期曲目。Cale 中提琴刮擦衬 Reed 平声念白。"
+        "en": "Debut-era S&M theme; Cale viola under Reed’s flat vocal.",
+        "zh": "首专时期施虐受虐题材；Cale 中提琴衬 Reed 平声。"
       }
     },
     {
@@ -134,7 +162,7 @@
         "Lou Reed",
         "John Cale",
         "Sterling Morrison",
-        "Maureen Tucker"
+        "Moe Tucker"
       ],
       "genreTags": [
         "alternative",
@@ -142,47 +170,121 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "About 17 minutes on White Light/White Heat; long feedback improvisation.",
-        "zh": "White Light/White Heat 上约 17 分钟；长反馈即兴。"
+        "en": "About 17 minutes on White Light/White Heat; deliberate lo-fi distortion.",
+        "zh": "White Light/White Heat 上约 17 分钟；有意的低保真失真。"
+      }
+    },
+    {
+      "year": 1970,
+      "track": "Sweet Jane",
+      "membersOnStage": [
+        "Lou Reed",
+        "Sterling Morrison",
+        "Doug Yule"
+      ],
+      "genreTags": [
+        "rock-n-roll",
+        "alternative"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "From Loaded; Reed called it a farewell album full of hits. Tucker absent (pregnancy).",
+        "zh": "出自 Loaded；Reed 称之为录满热门的临别专辑。Tucker 因怀孕未参加。"
       }
     }
   ],
   "narrative": [
     {
-      "id": "thesis",
+      "id": "warhol-banana",
       "title": {
-        "en": "Debut drone and dissonance",
-        "zh": "首专的持续音与不协和"
+        "en": "Warhol, Nico, banana cover",
+        "zh": "Warhol、Nico、香蕉封面"
       },
       "body": {
-        "en": "The 1967 debut with Nico documents two-chord vamps, Cale’s viola drone, and Reed’s flat vocal. Heroin and Venus in Furs sit outside the brighter AM psychedelic singles of that summer.\n\nWhite Light/White Heat (1968) pushes feedback and long-form noise on Sister Ray. The Warhol Factory link is media context; the records are the musical fact.",
-        "zh": "1967 年与 Nico 的首专记录两和弦反复、Cale 的中提琴持续音与 Reed 的平声念白。Heroin 与 Venus in Furs 落在当年夏季更亮的 AM 迷幻单曲之外。\n\nWhite Light/White Heat（1968）在 Sister Ray 上推进反馈与长形式噪声。Warhol Factory 关联是媒介语境；唱片才是音乐事实。"
-      },
-      "stickyVisual": "thesis",
-      "soundGenre": "alternative"
-    },
-    {
-      "id": "lineup",
-      "title": {
-        "en": "Reed/Cale years and after",
-        "zh": "Reed/Cale 时期与之后"
-      },
-      "body": {
-        "en": "The 1967–68 core was Reed, Cale, Morrison, and Tucker. Cale left in 1968. Loaded (1970) added Sweet Jane and a cleaner rock mix.\n\nNico guested vocals on the debut only. Tucker’s floor-tom style and sparse kit are part of the early live and studio sound.",
-        "zh": "1967–68 核心为 Reed、Cale、Morrison、Tucker。Cale 于 1968 年离队。Loaded（1970）加入 Sweet Jane 与更干净的 rock 混音。\n\nNico 仅在首专客座人声。Tucker 的地鼓式打法与稀疏鼓组，是早期现场与录音室声音的一部分。"
+        "en": "Reed and Cale’s Primitives added Morrison, took the Velvet Underground name, lost MacLise before a paid gig, and gained Tucker’s drums. Late 1965 Warhol saw them at Cafe Bizarre, became patron, and chose Nico.\n\nHe funded the debut and designed the banana cover. Chart peak was US #171. Heroin, Waiting for the Man, and Venus in Furs set the band’s early subject matter; All Tomorrow’s Parties was Warhol’s favorite Velvet song.",
+        "zh": "Reed 与 Cale 的 Primitives 加入 Morrison，改名 Velvet Underground；MacLise 在付费演出前退出，Tucker 加入打鼓。1965 年底 Warhol 在 Cafe Bizarre 看过演出后成为赞助人，并选定 Nico。\n\n他出资首专并设计香蕉封面。榜单最高美第 171。Heroin、Waiting for the Man、Venus in Furs 确立早期题材；All Tomorrow’s Parties 是 Warhol 最爱的 Velvet 歌曲。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "post-punk"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/the-velvet-underground-nico-1966.jpg",
+        "alt": {
+          "en": "Velvet Underground & Nico publicity photo, c. 1966 — Reed, Morrison, Cale, Tucker, Nico",
+          "zh": "Velvet Underground & Nico 宣传照，约 1966——Reed、Morrison、Cale、Tucker、Nico"
+        },
+        "credit": "MGM Records / Verve publicity photo",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Velvet_Underground_%26_Nico_publicity_photo_(retouched).jpg"
+      }
+    },
+    {
+      "id": "wlwh",
+      "title": {
+        "en": "White Light/White Heat",
+        "zh": "White Light/White Heat"
+      },
+      "body": {
+        "en": "White Light/White Heat (1968) was recorded with intentional low fidelity and heavy distortion. Julian Casablancas told Rolling Stone it is a record you sit with in a dive bar when you feel terrible.\n\nThe title track praises amphetamine; The Gift is a spoken story by Cale; Sister Ray runs about 17 minutes with slurred lyrics.",
+        "zh": "White Light/White Heat（1968）有意做成低保真与高失真。Julian Casablancas 对《滚石》说，这是一张要坐在破酒吧、心情糟透时听的唱片。\n\n同名主打歌写安非他命；The Gift 由 Cale 讲述；Sister Ray 约 17 分钟，歌词含混。"
+      },
+      "stickyVisual": "thesis",
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/the-velvet-underground-wlwh-1968.jpg",
+        "alt": {
+          "en": "Velvet Underground White Light/White Heat publicity photo, c. 1968",
+          "zh": "Velvet Underground《White Light/White Heat》宣传照，约 1968"
+        },
+        "credit": "Verve Records publicity photo",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Velvet_Underground_WLWH_publicity_photo.jpg"
+      }
+    },
+    {
+      "id": "yule-loaded",
+      "title": {
+        "en": "After Cale: Yule and Loaded",
+        "zh": "Cale 之后：Yule 与 Loaded"
+      },
+      "body": {
+        "en": "Cale left in 1968; Doug Yule replaced him. The 1969 self-titled album dropped Cale’s avant-garde edge for melody and harmony—I’m Set Free, What Goes On, Pale Blue Eyes.\n\nOn Loaded (1970), Tucker was absent (pregnancy). Reed left after what he called an album full of hits, including Sweet Jane and Rock & Roll. Morrison left in 1971; Yule-led lineups produced little through 1973.",
+        "zh": "Cale 1968 年离队，由 Doug Yule 接替。1969 同名专辑弱化先锋色彩，转向旋律与和声——I’m Set Free、What Goes On、Pale Blue Eyes。\n\nLoaded（1970）时 Tucker 因怀孕缺席。Reed 自称交出一张录满热门的专辑（含 Sweet Jane、Rock & Roll）后离队。Morrison 1971 年离队；Yule 主导编制至 1973 年产出很少。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "rock-n-roll"
+    },
+    {
+      "id": "reed-solo",
+      "title": {
+        "en": "Reed solo and reunion",
+        "zh": "Reed 个人与重组"
+      },
+      "body": {
+        "en": "Reed’s Transformer (1972), with David Bowie and Mick Ronson, brought Walk on the Wild Side. Berlin (1973) was a bleak concept album; Metal Machine Music (1975) was a double album of noise that split listeners; Coney Island Baby (1975) restored melody.\n\nAfter Warhol’s 1987 death, Reed and Cale made Songs for Drella (1990). The original four reunited for LIVE MCMXCIII (1993); Reed–Cale conflict cancelled a US tour. After Morrison’s 1995 death, Reed, Cale, and Tucker played at the 1996 Rock Hall induction.",
+        "zh": "Reed 的 Transformer（1972）由 David Bowie 与 Mick Ronson 参与，含 Walk on the Wild Side。Berlin（1973）是灰暗概念专集；Metal Machine Music（1975）是噪声双专辑，听众分裂；Coney Island Baby（1975）恢复旋律。\n\nWarhol 1987 年去世后，Reed 与 Cale 做 Songs for Drella（1990）。最初四人重组有 LIVE MCMXCIII（1993）；Reed–Cale 冲突取消美国巡演。Morrison 1995 年去世后，三人在 1996 年摇滚名人堂入选礼上演出。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/lou-reed-1977.jpg",
+        "alt": {
+          "en": "Lou Reed, 1977",
+          "zh": "Lou Reed，1977"
+        },
+        "credit": "Press photograph, 1977",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lou_Reed_1977.JPG"
+      }
     },
     {
       "id": "legacy",
       "title": {
-        "en": "Later citation by punk and indie",
-        "zh": "朋克与 indie 的后期引用"
+        "en": "Later citations",
+        "zh": "后期引用"
       },
       "body": {
-        "en": "Pixies and Sonic Youth have pointed to the noise-to-melody balance on the early albums. Joy Division and The Smiths have drawn on the deadpan vocal and minor-key minimalism. Talking Heads shared the New York art-school orbit.\n\n1970s sales were low. 1980s–90s reissues fixed the records in the underground rock canon.",
-        "zh": "Pixies 与 Sonic Youth 曾提到早期专辑里噪声与旋律的比例。Joy Division 与 The Smiths 借鉴冷脸人声与小调极简。Talking Heads 同属纽约艺术院校圈子。\n\n1970 年代销量低。1980–90 年代再版使这些唱片进入地下摇滚经典目录。"
+        "en": "Book accounts place the legacy in Modern Lovers’ and Arcade Fire’s rhythm weight, Roxy Music and Bowie’s art rock, Joy Division’s darkness, Jesus and Mary Chain’s white noise, Sonic Youth’s collapse textures, and The Strokes’ deadpan delivery.\n\n1970s sales were low; later reissues fixed the early records in the underground canon.",
+        "zh": "书中将遗产落到 Modern Lovers 与 Arcade Fire 的节奏重量、Roxy Music 与 Bowie 的艺术摇滚、Joy Division 的黑暗、Jesus and Mary Chain 的白噪声、Sonic Youth 的崩溃质感，以及 The Strokes 面无表情的念白。\n\n1970 年代销量低；后期再版使早期唱片进入地下经典目录。"
       },
       "stickyVisual": "influence",
       "soundGenre": "post-punk"
@@ -194,65 +296,72 @@
         "zh": "Heroin"
       },
       "body": {
-        "en": "From The Velvet Underground & Nico (1967). Two-chord vamp, accelerating form, Cale viola drone under Reed’s lyric.",
-        "zh": "出自 The Velvet Underground & Nico（1967）。两和弦反复、加速曲式，Cale 中提琴持续音衬 Reed 歌词。"
+        "en": "From The Velvet Underground & Nico (1967). Two-chord form; Warhol-era debut track on the banana-cover LP.",
+        "zh": "出自 The Velvet Underground & Nico（1967）。两和弦曲式；Warhol 时期香蕉封面首专曲目。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
-      "soundGenre": "alternative"
-    },
-    {
-      "id": "scene-1",
-      "title": {
-        "en": "Venus in Furs",
-        "zh": "Venus in Furs"
-      },
-      "body": {
-        "en": "Debut-era track. Cale viola scrape and Reed monotone vocal; Factory-period association.",
-        "zh": "首专时期曲目。Cale 中提琴刮擦与 Reed 单调念白；关联 Factory 时期。"
-      },
-      "stickyVisual": "scene",
-      "sceneIndex": 1,
-      "soundGenre": "alternative"
-    },
-    {
-      "id": "scene-2",
-      "title": {
-        "en": "Sister Ray",
-        "zh": "Sister Ray"
-      },
-      "body": {
-        "en": "White Light/White Heat (1968). Roughly 17 minutes of feedback and group improvisation.",
-        "zh": "White Light/White Heat（1968）。约 17 分钟反馈与集体即兴。"
-      },
-      "stickyVisual": "scene",
-      "sceneIndex": 2,
       "soundGenre": "alternative"
     }
   ],
   "interviewQuotes": [
     {
+      "text": "This is a record you need to be in the mood for. You need to be sitting in a dive bar and feeling terrible.",
+      "speaker": "Julian Casablancas",
+      "source": "Rolling Stone on White Light/White Heat (as cited in Rock Chronicles)"
+    },
+    {
       "text": "We were the band that sold records that other bands bought.",
       "speaker": "Lou Reed",
       "source": "Press interview excerpt · quote wall",
       "year": 1987
-    },
-    {
-      "text": "The drone is the harmony. Everything else is commentary.",
-      "speaker": "John Cale",
-      "source": "Archive interview excerpt",
-      "year": 1990
     }
   ],
   "lineupVersions": [
     {
       "id": "peak",
       "label": {
-        "en": "Banana album four + Nico era",
-        "zh": "香蕉专辑四人 + Nico 期"
+        "en": "Banana album + Nico",
+        "zh": "香蕉专辑 + Nico"
       },
-      "years": "1965–1968",
+      "years": "1965–1967",
       "peak": true,
+      "members": [
+        {
+          "name": "Lou Reed",
+          "role": "Vocals, Guitar",
+          "personSlug": "lou-reed"
+        },
+        {
+          "name": "John Cale",
+          "role": "Viola, Bass, Keys",
+          "personSlug": "john-cale"
+        },
+        {
+          "name": "Sterling Morrison",
+          "role": "Guitar"
+        },
+        {
+          "name": "Moe Tucker",
+          "role": "Drums"
+        },
+        {
+          "name": "Nico",
+          "role": "Vocals"
+        }
+      ],
+      "note": {
+        "en": "Warhol patronage; banana-cover debut. Nico on the 1967 LP only.",
+        "zh": "Warhol 赞助；香蕉封面首专。Nico 仅出现在 1967 LP。"
+      }
+    },
+    {
+      "id": "wlwh",
+      "label": {
+        "en": "White Light four",
+        "zh": "White Light 四人"
+      },
+      "years": "1967–1968",
       "members": [
         {
           "name": "Lou Reed",
@@ -274,8 +383,39 @@
         }
       ],
       "note": {
-        "en": "Cale viola/drone years through White Light/White Heat; Nico on the 1967 debut only.",
-        "zh": "Cale 中提琴/持续音时期至 White Light/White Heat；Nico 仅出现在 1967 首专。"
+        "en": "White Light/White Heat; Cale left 1968.",
+        "zh": "White Light/White Heat；Cale 1968 年离队。"
+      }
+    },
+    {
+      "id": "loaded",
+      "label": {
+        "en": "Yule / Loaded",
+        "zh": "Yule／Loaded"
+      },
+      "years": "1968–1970",
+      "members": [
+        {
+          "name": "Lou Reed",
+          "role": "Vocals, Guitar",
+          "personSlug": "lou-reed"
+        },
+        {
+          "name": "Doug Yule",
+          "role": "Bass, Vocals"
+        },
+        {
+          "name": "Sterling Morrison",
+          "role": "Guitar"
+        },
+        {
+          "name": "Moe Tucker",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Self-titled 1969 and Loaded; Tucker absent on Loaded.",
+        "zh": "1969 同名与 Loaded；Loaded 时 Tucker 缺席。"
       }
     }
   ],
@@ -284,8 +424,8 @@
       "title": "Heroin",
       "year": 1967,
       "note": {
-        "en": "Accelerating two-chord form with viola drone on the 1967 debut.",
-        "zh": "1967 首专上的加速两和弦曲式与中提琴持续音。"
+        "en": "Warhol banana-cover debut; two-chord form, explicit drug lyric.",
+        "zh": "Warhol 香蕉封面首专；两和弦曲式、直白毒品歌词。"
       }
     },
     "pioneeredGenres": [
@@ -293,8 +433,8 @@
       "post-punk"
     ],
     "note": {
-      "en": "New York art-rock before punk vocabulary was common; low sales, high later citation.",
-      "zh": "朋克词汇普及前的纽约 art-rock；销量低，后期引用多。"
+      "en": "Low 1960s sales; high later citation by punk, noise, and indie.",
+      "zh": "1960 年代销量低；后期被朋克、噪声与 indie 大量引用。"
     }
   }
 }

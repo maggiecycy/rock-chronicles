@@ -8,19 +8,20 @@
     "rock-n-roll",
     "hard-rock"
   ],
+  "decisive": true,
   "whyMatters": {
-    "en": "London four-piece formed in 1964. Power-chord singles, Townshend concept albums (Tommy, Who’s Next), and a loud live setup with Moon’s drums and Entwistle’s bass.",
-    "zh": "伦敦四人组，1964 年成立。强力和弦单曲、Townshend 概念专集（《Tommy》《Who’s Next》），以及 Moon 的鼓与 Entwistle 的贝斯构成的大音量现场编制。"
+    "en": "London four-piece from Shepherd’s Bush. Power-chord singles (My Generation), Townshend concept albums (Tommy, Who’s Next, Quadrophenia), and documented live extremes—Monterey 1967 beside Hendrix, Moon’s drum explosion on The Smothers Brothers Comedy Hour.",
+    "zh": "来自 Shepherd’s Bush 的伦敦四人组。强力和弦单曲（《My Generation》）、Townshend 概念专集（《Tommy》《Who’s Next》《Quadrophenia》），以及有记录的现场极端——1967 年 Monterey 与 Hendrix 同台抢镜、Moon 在 The Smothers Brothers Comedy Hour 引爆爵士鼓。"
   },
   "members": [
     {
-      "name": "Roger Daltrey",
-      "role": "Vocals",
+      "name": "Pete Townshend",
+      "role": "Guitar, Vocals",
       "years": "1964–present"
     },
     {
-      "name": "Pete Townshend",
-      "role": "Guitar",
+      "name": "Roger Daltrey",
+      "role": "Vocals",
       "years": "1964–present"
     },
     {
@@ -29,9 +30,44 @@
       "years": "1964–2002"
     },
     {
+      "name": "Doug Sandom",
+      "role": "Drums",
+      "years": "1962–1964"
+    },
+    {
       "name": "Keith Moon",
       "role": "Drums",
       "years": "1964–1978"
+    },
+    {
+      "name": "Kenney Jones",
+      "role": "Drums",
+      "years": "1978–1988"
+    },
+    {
+      "name": "John \"Rabbit\" Bundrick",
+      "role": "Keyboards",
+      "years": "1979–present"
+    },
+    {
+      "name": "Simon Phillips",
+      "role": "Drums",
+      "years": "1989–tour"
+    },
+    {
+      "name": "Zak Starkey",
+      "role": "Drums",
+      "years": "1996–present"
+    },
+    {
+      "name": "Simon Townshend",
+      "role": "Guitar, Vocals",
+      "years": "1989–present"
+    },
+    {
+      "name": "Pino Palladino",
+      "role": "Bass",
+      "years": "2002–present"
     }
   ],
   "essentialTracks": [
@@ -40,12 +76,24 @@
       "year": 1965
     },
     {
+      "title": "I Can See for Miles",
+      "year": 1967
+    },
+    {
+      "title": "Pinball Wizard",
+      "year": 1969
+    },
+    {
       "title": "Baba O'Riley",
       "year": 1971
     },
     {
       "title": "Won't Get Fooled Again",
       "year": 1971
+    },
+    {
+      "title": "Who Are You",
+      "year": 1978
     }
   ],
   "scenes": [
@@ -63,8 +111,46 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "1965 single; Daltrey stutter vocal, feedback, Entwistle bass solo.",
-        "zh": "1965 单曲；Daltrey 口吃人声、反馈、Entwistle 贝斯独奏。"
+        "en": "1965 single; Daltrey stutter vocal, feedback, Entwistle bass solo. Early instrument-smashing reputation around the same period.",
+        "zh": "1965 单曲；Daltrey 口吃人声、反馈、Entwistle 贝斯独奏。同期现场以砸乐器出名。"
+      }
+    },
+    {
+      "year": 1967,
+      "track": "I Can See for Miles",
+      "membersOnStage": [
+        "Roger Daltrey",
+        "Pete Townshend",
+        "John Entwistle",
+        "Keith Moon"
+      ],
+      "genreTags": [
+        "rock-n-roll",
+        "psychedelic"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "From The Who Sell Out; UK/US Top 10. Same year: Monterey Pop and the Smothers Brothers drum explosion.",
+        "zh": "出自 The Who Sell Out；英美前 10。同年：Monterey 流行音乐节与 Smothers Brothers 节目炸鼓。"
+      }
+    },
+    {
+      "year": 1969,
+      "track": "Pinball Wizard",
+      "membersOnStage": [
+        "Roger Daltrey",
+        "Pete Townshend",
+        "John Entwistle",
+        "Keith Moon"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "rock-n-roll"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "From Tommy; UK/US Top 5 album. Woodstock performance helped lock the album’s status.",
+        "zh": "出自 Tommy；英美专辑前 5。伍德斯托克演出巩固了专辑地位。"
       }
     },
     {
@@ -81,17 +167,16 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "From Who’s Next; Lowrey organ/sequencer intro into power-chord sections.",
-        "zh": "出自《Who’s Next》；Lowrey 风琴/音序引入接入强力和弦段落。"
+        "en": "From Who’s Next (only UK #1 album); organ/sequencer into power chords. Remnants of the abandoned Lifehouse project.",
+        "zh": "出自 Who’s Next（唯一英国冠军专辑）；风琴／音序接入强力和弦。来自搁置的 Lifehouse 计划剩余材料。"
       }
     }
   ],
   "interviewQuotes": [
     {
-      "text": "Rock is art and the stuff of life.",
-      "speaker": "Pete Townshend",
-      "source": "Interview excerpt",
-      "year": 1970
+      "text": "They kicked down the door of rock 'n' roll and left a few scraps for the rest of us.",
+      "speaker": "Eddie Vedder",
+      "source": "Rolling Stone (as cited in Rock Chronicles)"
     },
     {
       "text": "Keith played the drums like a lead instrument. We arranged around that.",
@@ -102,41 +187,116 @@
   ],
   "lyricQuotes": [
     "I hope I die before I get old",
-    "People try to put us d-down / Just because we get around"
+    "People try to put us d-down / Just because we get around",
+    "Teenage wasteland"
   ],
   "relatedBands": [
     "the-beatles",
     "the-rolling-stones",
-    "led-zeppelin"
+    "led-zeppelin",
+    "the-jimi-hendrix-experience",
+    "pearl-jam",
+    "green-day"
   ],
   "influenceFrom": [
     "chuck-berry"
   ],
   "influenced": [
     "led-zeppelin",
+    "pearl-jam",
+    "green-day",
     "metallica"
   ],
   "shortBio": {
-    "en": "London hard rock, 1964–. Townshend, Daltrey, Entwistle, Moon; My Generation and Who’s Next are core references.",
-    "zh": "伦敦硬摇滚，1964 年至今。Townshend、Daltrey、Entwistle、Moon；《My Generation》与《Who’s Next》是主要参照。"
+    "en": "London hard rock, 1962/64–. Townshend, Daltrey, Entwistle, Moon (then Jones). My Generation, Tommy, Who’s Next; Monterey and Smothers Brothers are key live markers.",
+    "zh": "伦敦硬摇滚，1962／64 年起。Townshend、Daltrey、Entwistle、Moon（后为 Jones）。《My Generation》《Tommy》《Who’s Next》；Monterey 与 Smothers Brothers 是关键现场节点。"
   },
-  "decisive": true,
   "body": {
-    "en": "The Who formed in London in 1964. Mid-60s singles such as My Generation used stutter vocals, feedback, and Entwistle’s bass breaks. Tommy (1969) set a rock-opera album scale; Who’s Next (1971) used synthesizer and organ/sequencer parts on Baba O’Riley and Won’t Get Fooled Again.\n\nMoon’s drums and Entwistle’s melodic bass are the clearest instrumental signatures. High stage volume and instrument-smashing incidents appear in contemporary reports of the live shows.",
-    "zh": "The Who 于 1964 年在伦敦成立。60 年代中期单曲如《My Generation》使用口吃人声、反馈与 Entwistle 的贝斯打断。《Tommy》（1969）确立摇滚歌剧式专辑尺度；《Who’s Next》（1971）在《Baba O’Riley》《Won’t Get Fooled Again》上使用合成器与风琴/音序声部。\n\nMoon 的鼓与 Entwistle 的旋律贝斯是最易辨认的乐器特征。大音量舞台与砸乐器事件见诸当时现场报道。"
+    "en": "In 1962, musicians in west London’s Shepherd’s Bush formed The Detours—Pete Townshend, Roger Daltrey, John Entwistle, and drummer Doug Sandom. In April 1964 Sandom left; Keith Moon joined. After a High Numbers single, they settled on The Who (a name briefly used before Sandom left).\n\nLive reputation grew on instrument destruction: Townshend’s guitar smashing began as an accident; Moon’s kit wrecking was planned. Early hits included I Can’t Explain and My Generation (1965), then Anyway Anyhow Anywhere, Substitute, and Pictures of Lily. My Generation the album reached the UK Top 5; reputation still rode singles more than LPs. A Quick One (1966; US Happy Jack) included the mini-opera A Quick One While He’s Away and Entwistle’s Boris the Spider. The Who Sell Out (1967) had Rael, Armenia City in the Sky, and I Can See for Miles (UK/US Top 10).\n\nJune 1967: Monterey Pop—second only to Jimi Hendrix that day. Three months later on The Smothers Brothers Comedy Hour, Moon detonated his drums; guest Bette Davis froze, and Townshend’s tinnitus began. Tommy (1969) was a double concept album (deaf, dumb, and blind pinball wizard); Top 5 UK/US, cemented after Woodstock. Live at Leeds (1970) documented the stage volume. Who’s Next (1971)—Lifehouse leftovers—was their only UK #1, from Baba O’Riley to Won’t Get Fooled Again. Quadrophenia (1973) followed; stage presentation often failed technically. It later inspired a 1979 film and Green Day’s American Idiot.\n\nThe Who by Numbers (1975) was smaller-scale (Squeeze Box). Moon died in 1978 of an overdose of medication prescribed for alcoholism, after Who Are You. Faces drummer Kenney Jones joined for Face Dances (1981) and It’s Hard (1982). Townshend paused the band in 1982; big reunion tours resumed in 1989 with Bundrick, Simon Townshend, and Simon Phillips. Zak Starkey later took drums. Entwistle died in 2002 on the eve of a US tour; Palladino joined. Endless Wire (2006) was the first new studio album in 24 years. Later high-profile sets include The Concert for New York City (2001) and Super Bowl XLIV (2010).",
+    "zh": "1962 年，伦敦西部 Shepherd’s Bush 的乐手组成 The Detours——Pete Townshend、Roger Daltrey、John Entwistle 与鼓手 Doug Sandom。1964 年 4 月 Sandom 离队，Keith Moon 加入。发行过 High Numbers 单曲后，名称定为 The Who（Sandom 离队前曾短暂用过）。\n\n现场名声建立在砸乐器上：Townshend 砸吉他始于意外；Moon 砸鼓则是事先设计。早期热单包括 I Can’t Explain、My Generation（1965），以及 Anyway Anyhow Anywhere、Substitute、Pictures of Lily。专辑 My Generation 进英国前 5；声誉仍更多靠单曲。A Quick One（1966；美版 Happy Jack）含迷你歌剧 A Quick One While He’s Away 与 Entwistle 的 Boris the Spider。The Who Sell Out（1967）有 Rael、Armenia City in the Sky，以及英美前 10 的 I Can See for Miles。\n\n1967 年 6 月 Monterey 流行音乐节——当天仅次于 Jimi Hendrix。三个月后在 The Smothers Brothers Comedy Hour，Moon 引爆爵士鼓；嘉宾 Bette Davis 吓呆，Townshend 耳鸣由此开始。Tommy（1969）是概念双专辑（又聋又哑又盲的弹珠高手）；英美前 5，伍德斯托克后地位固定。Live at Leeds（1970）记录舞台音量。Who’s Next（1971）——Lifehouse 剩余材料——是唯一英国冠军专辑，从 Baba O’Riley 到 Won’t Get Fooled Again。Quadrophenia（1973）随后推出；舞台呈现常因技术失败。后启发 1979 年电影与 Green Day 的 American Idiot。\n\nThe Who by Numbers（1975）尺度更小（Squeeze Box）。Moon 于 1978 年因过量服用戒酒处方药去世，时在 Who Are You 之后。Faces 鼓手 Kenney Jones 加入，录 Face Dances（1981）、It’s Hard（1982）。Townshend 1982 年中止乐队；1989 年大型重聚巡演有 Bundrick、Simon Townshend、Simon Phillips。其后 Zak Starkey 任鼓。Entwistle 2002 年在美国巡演前夕去世；Palladino 加入。Endless Wire（2006）是 24 年来首张新录音室专辑。后期高调演出包括 2001 年「群星为纽约高歌」与 2010 年超级碗。"
   },
   "narrative": [
     {
-      "id": "thesis",
+      "id": "formation",
       "title": {
-        "en": "Core sound",
-        "zh": "核心声音"
+        "en": "Detours to Moon",
+        "zh": "从 Detours 到 Moon"
       },
       "body": {
-        "en": "Townshend’s writing centers on power chords, clear verse/chorus shapes, and, on later albums, longer narrative forms.\n\nMoon often plays fills as a lead-like drum part; Entwistle’s bass takes melodic solos. Daltrey carries the vocal line, including the stutter phrasing on My Generation.",
-        "zh": "Townshend 的写作以强力和弦、清楚的主歌/副歌结构为主，后期专辑则加入更长的叙事形式。\n\nMoon 常以接近主奏的加花打鼓；Entwistle 的贝斯承担旋律独奏。Daltrey 负责人声线，包括《My Generation》上的口吃句式。"
+        "en": "Shepherd’s Bush, 1962: Townshend, Daltrey, Entwistle, and Doug Sandom as The Detours. April 1964: Sandom left; Keith Moon joined. A High Numbers single came first; the name The Who stuck (used briefly before Sandom left).\n\nLive sets built on volume and wreckage—Townshend’s guitar smashing began accidentally; Moon’s drum destruction was planned. I Can’t Explain and My Generation (1965) were the first major hits.",
+        "zh": "Shepherd’s Bush，1962：Townshend、Daltrey、Entwistle 与 Doug Sandom 组成 The Detours。1964 年 4 月：Sandom 离队，Keith Moon 加入。先有 High Numbers 单曲；名称定为 The Who（Sandom 离队前曾短暂用过）。\n\n现场靠音量与破坏建立名声——Townshend 砸吉他始于意外；Moon 砸鼓是事先设计。I Can’t Explain 与 My Generation（1965）是首批大热。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/the-who-1965.jpg",
+        "alt": {
+          "en": "The Who publicity shot, 1965 — Entwistle, Daltrey, Townshend, Moon",
+          "zh": "The Who 1965 年宣传照——Entwistle、Daltrey、Townshend、Moon"
+        },
+        "credit": "KRLA Beat / Beat Publications",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Who_in_1965.png"
+      }
+    },
+    {
+      "id": "monterey-smothers",
+      "title": {
+        "en": "Monterey and Smothers Brothers",
+        "zh": "Monterey 与 Smothers Brothers"
+      },
+      "body": {
+        "en": "In June 1967 the band played Monterey Pop and overshadowed everyone except Jimi Hendrix. Three months later on The Smothers Brothers Comedy Hour, Moon detonated his drum kit; guest Bette Davis was stunned, and Townshend’s tinnitus began.\n\nThe same year’s Sell Out album yielded I Can See for Miles, a UK/US Top 10 single.",
+        "zh": "1967 年 6 月乐队在 Monterey 流行音乐节演出，当天风头仅次于 Jimi Hendrix。三个月后在 The Smothers Brothers Comedy Hour，Moon 引爆鼓组；嘉宾 Bette Davis 吓呆，Townshend 耳鸣由此开始。\n\n同年 Sell Out 专辑中的 I Can See for Miles 进入英美前 10。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/the-who-hamburg-1972.jpg",
+        "alt": {
+          "en": "The Who live in Hamburg, August 1972 — Daltrey, Townshend, Moon",
+          "zh": "The Who 汉堡现场，1972 年 8 月——Daltrey、Townshend、Moon"
+        },
+        "credit": "Heinrich Klaffs",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Who_Hamburg_1972.jpg"
+      }
+    },
+    {
+      "id": "tommy-whos-next",
+      "title": {
+        "en": "Tommy to Who’s Next",
+        "zh": "从 Tommy 到 Who’s Next"
+      },
+      "body": {
+        "en": "Tommy (1969) told a deaf, dumb, and blind pinball-wizard story across a double album; Top 5 UK/US, status locked after Woodstock. Live at Leeds (1970) captured the live power.\n\nWho’s Next (1971) used leftover Lifehouse material—their only UK #1 album—from Baba O’Riley through Won’t Get Fooled Again. Quadrophenia (1973) was another ambitious narrative; live staging often failed. It later fed a 1979 film and Green Day’s American Idiot.",
+        "zh": "Tommy（1969）以双专辑讲述又聋又哑又盲的弹珠高手；英美前 5，伍德斯托克后地位固定。Live at Leeds（1970）记录现场力度。\n\nWho’s Next（1971）用 Lifehouse 剩余材料——唯一英国冠军专辑——从 Baba O’Riley 到 Won’t Get Fooled Again。Quadrophenia（1973）是另一套宏大叙事；舞台呈现常失败。后启发 1979 年电影与 Green Day 的 American Idiot。"
       },
       "stickyVisual": "thesis",
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/the-who-chicago-1975.jpg",
+        "alt": {
+          "en": "The Who in Chicago, 1975 — Daltrey, Entwistle, Moon, Townshend",
+          "zh": "The Who 芝加哥，1975——Daltrey、Entwistle、Moon、Townshend"
+        },
+        "credit": "Jim Summaria",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Who_-_1975.jpg"
+      }
+    },
+    {
+      "id": "after-moon",
+      "title": {
+        "en": "After Moon",
+        "zh": "Moon 去世后"
+      },
+      "body": {
+        "en": "Who Are You arrived in 1978; Moon then died from an overdose of medication prescribed for alcoholism. Kenney Jones (ex-Faces) joined for Face Dances (1981) and It’s Hard (1982). Townshend paused the band that year.\n\n1989 reunion tours added Bundrick, Simon Townshend, and Simon Phillips. Zak Starkey later played drums. Entwistle died in 2002 before a US tour; Pino Palladino took bass. Endless Wire (2006) was the first new studio album in 24 years.",
+        "zh": "Who Are You 于 1978 年推出；随后 Moon 因过量服用戒酒处方药去世。Kenney Jones（前 Faces）加入，录 Face Dances（1981）、It’s Hard（1982）。Townshend 同年中止乐队。\n\n1989 年重聚巡演加入 Bundrick、Simon Townshend、Simon Phillips。其后 Zak Starkey 任鼓。Entwistle 2002 年在美国巡演前去世；Pino Palladino 接贝斯。Endless Wire（2006）是 24 年来首张新录音室专辑。"
+      },
+      "stickyVisual": "members",
       "soundGenre": "hard-rock"
     },
     {
@@ -146,52 +306,25 @@
         "zh": "《My Generation》"
       },
       "body": {
-        "en": "Released as a single in 1965. Daltrey’s stuttered vocal, guitar feedback, and Entwistle’s bass solo are the main identifiers.\n\nThe track sits in the mid-60s mod/beat singles market and keeps a fast tempo with a shouted chorus.",
-        "zh": "1965 年作为单曲发行。Daltrey 的口吃人声、吉他反馈与 Entwistle 的贝斯独奏是主要识别元素。\n\n歌曲属于 60 年代中期 mod/beat 单曲市场，节奏快，副歌偏喊唱。"
+        "en": "1965 single. Daltrey stutter vocal, feedback, Entwistle bass solo. Core mid-60s mod/beat reference for the classic four.",
+        "zh": "1965 年单曲。Daltrey 口吃人声、反馈、Entwistle 贝斯独奏。经典四人组 60 年代中期 mod／beat 核心参照。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
       "soundGenre": "rock-n-roll"
     },
     {
-      "id": "scene-1",
+      "id": "scene-3",
       "title": {
         "en": "Won't Get Fooled Again",
         "zh": "《Won't Get Fooled Again》"
       },
       "body": {
-        "en": "From Who’s Next (1971). A Lowrey organ part processed through a synthesizer/sequencer opens the track, then full-band power chords enter.\n\nDaltrey’s long final scream and Townshend’s guitar are central live markers. Baba O’Riley, from the same album, uses a similar organ/sequencer-to-band layout.",
-        "zh": "出自《Who’s Next》（1971）。Lowrey 风琴经合成器/音序处理后开场，再接入全乐队强力和弦。\n\nDaltrey 末尾长啸与 Townshend 的吉他是现场主要标记。同专辑的《Baba O’Riley》也使用类似的风琴/音序接入全乐队结构。"
+        "en": "From Who’s Next (1971). Organ/sequencer opening into power-chord sections; Lifehouse remnant. Same album as Baba O’Riley.",
+        "zh": "出自 Who’s Next（1971）。风琴／音序开场接入强力和弦；Lifehouse 剩余。与 Baba O’Riley 同专。"
       },
       "stickyVisual": "scene",
-      "sceneIndex": 1,
-      "soundGenre": "hard-rock"
-    },
-    {
-      "id": "dna",
-      "title": {
-        "en": "Live volume and album forms",
-        "zh": "现场音量与专辑形式"
-      },
-      "body": {
-        "en": "Later hard-rock bands often cite the loud live arrangement—Moon’s drums, Entwistle’s bass, Townshend’s power chords.\n\nTommy and Quadrophenia are frequent citations for concept/rock-opera album writing in progressive and narrative rock.",
-        "zh": "后来的 hard rock 乐队常引用其大音量现场编制——Moon 的鼓、Entwistle 的贝斯、Townshend 的强力和弦。\n\n《Tommy》与《Quadrophenia》常被 progressive 与叙事摇滚引用为概念/摇滚歌剧式专辑写法。"
-      },
-      "stickyVisual": "dna",
-      "soundGenre": "rock-n-roll"
-    },
-    {
-      "id": "quote",
-      "title": {
-        "en": "Townshend on arrangement",
-        "zh": "Townshend 谈编曲"
-      },
-      "body": {
-        "en": "Townshend has described arranging around Moon’s drums as a lead instrument. That matches how fills and bass lines share space with the vocal on the classic-four records.\n\nInstrument damage onstage is documented separately in press accounts of the period.",
-        "zh": "Townshend 曾描述围绕 Moon 的鼓作为主奏乐器来编曲。这与经典四人组唱片上加花、贝斯线与人声共用空间的做法一致。\n\n舞台砸乐器则另见于当时媒体报道。"
-      },
-      "stickyVisual": "quote",
-      "quoteIndex": 0,
+      "sceneIndex": 3,
       "soundGenre": "hard-rock"
     }
   ],
@@ -200,7 +333,7 @@
       "title": "My Generation",
       "year": 1965,
       "note": {
-        "en": "Stutter vocal, feedback, and Entwistle bass solo on a 1965 single.",
+        "en": "Stutter vocal, feedback, Entwistle bass solo on a 1965 single.",
         "zh": "1965 单曲上的口吃人声、反馈与 Entwistle 贝斯独奏。"
       }
     },
@@ -208,8 +341,8 @@
       "hard-rock"
     ],
     "note": {
-      "en": "Power-chord singles and concept albums (Tommy, Who’s Next) in one classic lineup.",
-      "zh": "同一经典阵容下的强力和弦单曲与概念专集（《Tommy》《Who’s Next》）。"
+      "en": "Power-chord singles and concept albums in one classic lineup; Monterey and Smothers Brothers as live landmarks.",
+      "zh": "同一经典阵容下的强力和弦单曲与概念专集；Monterey 与 Smothers Brothers 为现场节点。"
     }
   },
   "lineupVersions": [
@@ -240,8 +373,38 @@
         }
       ],
       "note": {
-        "en": "Townshend, Daltrey, Entwistle, Moon through Who Are You; Moon died in 1978.",
-        "zh": "Townshend、Daltrey、Entwistle、Moon，至《Who Are You》；Moon 于 1978 年去世。"
+        "en": "Through Who Are You; Moon died 1978. Includes Monterey, Tommy, Who’s Next.",
+        "zh": "至 Who Are You；Moon 1978 年去世。含 Monterey、Tommy、Who’s Next。"
+      }
+    },
+    {
+      "id": "jones",
+      "label": {
+        "en": "Kenney Jones years",
+        "zh": "Kenney Jones 时期"
+      },
+      "years": "1978–1982",
+      "members": [
+        {
+          "name": "Roger Daltrey",
+          "role": "Vocals"
+        },
+        {
+          "name": "Pete Townshend",
+          "role": "Guitar"
+        },
+        {
+          "name": "John Entwistle",
+          "role": "Bass"
+        },
+        {
+          "name": "Kenney Jones",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Face Dances and It’s Hard; Townshend paused the band in 1982.",
+        "zh": "Face Dances 与 It’s Hard；Townshend 1982 年中止乐队。"
       }
     }
   ]
