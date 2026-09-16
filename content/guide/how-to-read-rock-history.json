@@ -7,12 +7,12 @@
     "zh": "了解摇滚史"
   },
   "summary": {
-    "en": "Chapter map (Covach arc). Chapters 1–2 are open; later chapters stay stubs until notes arrive.",
-    "zh": "章节目录（Covach 课弧）。第一、二章可点开阅读；后续章节先占位，等讲义再补。"
+    "en": "Chapter map (Covach arc). Chapters 1–3 are open; later chapters stay stubs until notes arrive.",
+    "zh": "章节目录（Covach 课弧）。第一至三章可点开阅读；后续章节先占位，等讲义再补。"
   },
   "body": {
-    "zh": "怎么用这一页\n\n这是摇滚史课程目录页。结构按 John Covach（University of Rochester）课弧：先产业与电台，再 1955–59 rock & roll，60 年代初的「摇滚之冬 / 灵乐之春」，英伦入侵，美国的回应，Motown 与南部灵魂乐，迷幻，然后进入 70 年代「摇滚怪兽」。\n\n第一、二章各小节已可点开阅读。后面章节先列目录占位，讲义到了再补正文。出现人名时，本站有对应年代 / 乐队页就跳过去。无聊就跳——后面引用前面时再回来。",
-    "en": "How to use this page\n\nThis is the rock-history syllabus map, following John Covach’s University of Rochester arc: industry and radio first, then 1955–59 rock & roll, the early-60s “winter,” British Invasion, U.S. replies, Motown / southern soul, psychedelia, then the 1970s “monster” years.\n\nChapters 1–2 are open for reading. Later chapters stay as stubs until lecture notes land. When a name appears, jump to the matching era or band page if we have it. Skip ahead when bored—come back when a later section cites an earlier one."
+    "zh": "怎么用这一页\n\n这是摇滚史课程目录页。结构按 John Covach（University of Rochester）课弧：先产业与电台，再 1955–59 rock & roll，60 年代初的「摇滚之冬 / 灵乐之春」，英伦入侵，美国的回应，Motown 与南部灵魂乐，迷幻，然后进入 70 年代「摇滚怪兽」。\n\n第一至三章各小节已可点开阅读。后面章节先列目录占位，讲义到了再补正文。出现人名时，本站有对应年代 / 乐队页就跳过去。无聊就跳——后面引用前面时再回来。",
+    "en": "How to use this page\n\nThis is the rock-history syllabus map, following John Covach’s University of Rochester arc: industry and radio first, then 1955–59 rock & roll, the early-60s “winter,” British Invasion, U.S. replies, Motown / southern soul, psychedelia, then the 1970s “monster” years.\n\nChapters 1–3 are open for reading. Later chapters stay as stubs until lecture notes land. When a name appears, jump to the matching era or band page if we have it. Skip ahead when bored—come back when a later section cites an earlier one."
   },
   "outline": [
     {
@@ -95,20 +95,23 @@
       "items": [
         {
           "label": "3.1",
+          "slug": "rock-history-3-1-next-elvis",
           "title": {
-            "en": "Audience and market: hunting the next Elvis",
+            "en": "Audience and market: looking for the next Elvis",
             "zh": "受众与市场：寻找下一个猫王"
           }
         },
         {
           "label": "3.2",
+          "slug": "rock-history-3-2-brill-building",
           "title": {
             "en": "Brill Building pop songwriting",
-            "zh": "Brill Building 的流行音乐创作模式"
+            "zh": "Brill Building的流行音乐创作模式"
           }
         },
         {
           "label": "3.3",
+          "slug": "rock-history-3-3-teen-idols",
           "title": {
             "en": "Teen idols",
             "zh": "青少年偶像（Teen Idols）"
@@ -116,6 +119,7 @@
         },
         {
           "label": "3.4",
+          "slug": "rock-history-3-4-producers",
           "title": {
             "en": "Producers",
             "zh": "制作人（Producers）"
@@ -123,20 +127,23 @@
         },
         {
           "label": "3.5",
+          "slug": "rock-history-3-5-sweet-soul",
           "title": {
-            "en": "Sweet soul",
+            "en": "Sweet Soul",
             "zh": "Sweet Soul"
           }
         },
         {
           "label": "3.6",
+          "slug": "rock-history-3-6-tv-film-dance",
           "title": {
-            "en": "Visual and tactile stimuli",
+            "en": "Sight and tactile stimuli (TV, film, dance crazes)",
             "zh": "视觉与触觉刺激"
           }
         },
         {
           "label": "3.7",
+          "slug": "rock-history-3-7-folk-revival",
           "title": {
             "en": "Folk revival",
             "zh": "Folk Revival（民谣复兴）"
@@ -144,13 +151,15 @@
         },
         {
           "label": "3.8",
+          "slug": "rock-history-3-8-rockabilly-popsters",
           "title": {
-            "en": "Rockabilly popsters",
+            "en": "Rockabilly Popsters",
             "zh": "Rockabilly Popsters"
           }
         },
         {
           "label": "3.9",
+          "slug": "rock-history-3-9-surf-music",
           "title": {
             "en": "Surf music",
             "zh": "Surf Music（冲浪音乐）"

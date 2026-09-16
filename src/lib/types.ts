@@ -87,16 +87,6 @@ export interface InterviewQuote {
   year?: number;
 }
 
-export interface NarrativeChapter {
-  id: string;
-  title: Localized;
-  body: Localized;
-  stickyVisual: StickyVisual;
-  sceneIndex?: number;
-  quoteIndex?: number;
-  soundGenre?: string;
-}
-
 /** Wikimedia / self-hosted editorial image with attribution. */
 export interface EntityImage {
   /** Site path under /public, e.g. /media/bands/led-zeppelin.jpg */
@@ -108,6 +98,21 @@ export interface EntityImage {
   license: string;
   /** Commons file page or other provenance URL */
   sourceUrl: string;
+}
+
+export interface NarrativeChapter {
+  id: string;
+  title: Localized;
+  body: Localized;
+  stickyVisual: StickyVisual;
+  sceneIndex?: number;
+  quoteIndex?: number;
+  soundGenre?: string;
+  /**
+   * Optional chapter photo shown in the sticky column as narrative scrolls.
+   * Does not replace the band hero image.
+   */
+  stickyImage?: EntityImage;
 }
 
 export interface Band {

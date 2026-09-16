@@ -12,8 +12,8 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "Australian hard-rock band that treated open-chord riffs and fixed lineup craft as a durable product line from the Bon Scott era through Back in Black (1980).",
-    "zh": "澳大利亚 hard-rock：从 Bon Scott 时期到 Back in Black（1980），把开放和弦 riff 与固定编制工艺做成可持续产品线。"
+    "en": "Australian hard-rock band formed in 1973. Malcolm Young’s rhythm guitar, Angus Young’s lead, and direct song structures define the sound across the Bon Scott and Brian Johnson eras.",
+    "zh": "澳大利亚硬摇滚乐队，1973 年成立。Malcolm Young 的节奏吉他、Angus Young 的主音，以及直接的歌曲结构，贯穿 Bon Scott 与 Brian Johnson 两个时期。"
   },
   "members": [
     {
@@ -29,6 +29,16 @@
       "personSlug": "malcolm-young"
     },
     {
+      "name": "Stevie Young",
+      "role": "Guitar",
+      "years": "2014–present"
+    },
+    {
+      "name": "Dave Evans",
+      "role": "Vocals",
+      "years": "1973–1974"
+    },
+    {
       "name": "Bon Scott",
       "role": "Vocals",
       "years": "1974–1980",
@@ -41,19 +51,48 @@
       "personSlug": "brian-johnson"
     },
     {
+      "name": "Larry Van Kriedt",
+      "role": "Bass",
+      "years": "1973–1975"
+    },
+    {
+      "name": "Mark Evans",
+      "role": "Bass",
+      "years": "1975–1977"
+    },
+    {
       "name": "Cliff Williams",
       "role": "Bass",
       "years": "1977–2016",
       "personSlug": "cliff-williams"
     },
     {
+      "name": "Colin Burgess",
+      "role": "Drums",
+      "years": "1973–1974"
+    },
+    {
       "name": "Phil Rudd",
       "role": "Drums",
       "years": "1975–1983; 1994–2015",
       "personSlug": "phil-rudd"
+    },
+    {
+      "name": "Simon Wright",
+      "role": "Drums",
+      "years": "1983–1989"
+    },
+    {
+      "name": "Chris Slade",
+      "role": "Drums",
+      "years": "1989–1994; 2015–2016"
     }
   ],
   "essentialTracks": [
+    {
+      "title": "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
+      "year": 1975
+    },
     {
       "title": "Highway to Hell",
       "year": 1979
@@ -63,15 +102,38 @@
       "year": 1980
     },
     {
+      "title": "Hells Bells",
+      "year": 1980
+    },
+    {
       "title": "Thunderstruck",
       "year": 1990
     },
     {
-      "title": "You Shook Me All Night Long",
-      "year": 1980
+      "title": "Who Made Who",
+      "year": 1986
     }
   ],
   "scenes": [
+    {
+      "year": 1975,
+      "track": "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
+      "membersOnStage": [
+        "Angus Young",
+        "Malcolm Young",
+        "Bon Scott",
+        "Mark Evans",
+        "Phil Rudd"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Bon Scott–era track; bagpipes and guitar riffs are the main identifiers.",
+        "zh": "Bon Scott 时期代表作；风笛与吉他 riff 是主要识别元素。"
+      }
+    },
     {
       "year": 1979,
       "track": "Highway to Hell",
@@ -87,8 +149,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Bon Scott bark over Malcolm’s open-chord grind; late-70s peak single.",
-        "zh": "Bon Scott 吠叫压在 Malcolm 开放和弦碾磨上；70 年代末峰值单曲。"
+        "en": "Key album for entering the US mainstream; produced with Robert “Mutt” Lange.",
+        "zh": "进入美国主流市场的重要专辑；由 Robert “Mutt” Lange 参与制作。"
       }
     },
     {
@@ -106,8 +168,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Johnson era launch: same right-hand discipline, larger scale.",
-        "zh": "Johnson 时期启动：同一右手纪律，更大尺度。"
+        "en": "First studio album with Brian Johnson; UK and Australia #1; long Billboard chart run.",
+        "zh": "Brian Johnson 加入后的首张录音室专辑；英、澳榜冠军；在 Billboard 停留时间很长。"
       }
     },
     {
@@ -125,8 +187,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Angus intro figure as 1990s touring-machine cue.",
-        "zh": "Angus 前奏音型作为 1990 年代巡演机器提示。"
+        "en": "From The Razors Edge; one of the best-known later-period songs. Chris Slade on drums.",
+        "zh": "出自《The Razors Edge》；后期最知名的歌曲之一。鼓手为 Chris Slade。"
       }
     }
   ],
@@ -134,24 +196,27 @@
     {
       "text": "I'm a special effects man.",
       "speaker": "Angus Young",
-      "source": "Interview excerpt · quote wall",
+      "source": "Interview",
       "year": 1980
     },
     {
       "text": "It was a case of either stop or keep going.",
       "speaker": "Malcolm Young",
-      "source": "On continuing after Bon Scott · press",
+      "source": "On continuing after Bon Scott",
       "year": 1980
     }
   ],
   "lyricQuotes": [
     "I'm on the highway to hell",
-    "Back in black, I hit the sack"
+    "Back in black, I hit the sack",
+    "It's a long way to the top if you wanna rock 'n' roll"
   ],
   "relatedBands": [
     "led-zeppelin",
     "black-sabbath",
-    "guns-n-roses"
+    "guns-n-roses",
+    "kiss",
+    "the-rolling-stones"
   ],
   "influenceFrom": [
     "chuck-berry",
@@ -161,90 +226,159 @@
     "guns-n-roses"
   ],
   "shortBio": {
-    "en": "Young brothers’ hard rock; Highway to Hell and Back in Black are the mass curriculum across two singers.",
-    "zh": "Young 兄弟的 hard rock；Highway to Hell 与 Back in Black 是跨两位主唱的大众课程。"
+    "en": "Sydney hard rock, 1973–. Bon Scott era then Brian Johnson; Highway to Hell and Back in Black are the core reference points.",
+    "zh": "悉尼硬摇滚，1973 年至今。Bon Scott 时期之后是 Brian Johnson；《Highway to Hell》与《Back in Black》是主要参照。"
   },
   "body": {
-    "en": "Formed Sydney 1973. High Voltage through Highway to Hell fix Malcolm’s rhythm grind, Angus’s pentatonic leads, Bon Scott’s bark. After Scott’s death (1980), Back in Black with Brian Johnson kept the same right-hand discipline at larger scale.\n\nThunderstruck (1990) shows the later Young/Johnson touring machine. Few chords, high gain, no prog detours—the export is consistency as method.",
-    "zh": "1973 年于悉尼组建。从 High Voltage 到 Highway to Hell 定型 Malcolm 的节奏碾磨、Angus 的五声音阶主音、Bon Scott 的吠叫。Scott 去世（1980）后，Brian Johnson 的 Back in Black 以更大尺度保持同一套右手纪律。\n\nThunderstruck（1990）展示后期 Young/Johnson 巡演机器。少和弦、高增益、无 prog 绕路——输出的是把一致性当作方法。"
+    "en": "AC/DC formed in Sydney in 1973. The sound is built around Malcolm Young’s rhythm guitar, Angus Young’s lead, and straightforward song structures. The Bon Scott years set the early style; after Scott’s death in 1980, Brian Johnson joined and Back in Black continued that approach at a larger commercial scale.\n\nAtlantic signed the band in 1976. International High Voltage, Dirty Deeds Done Dirt Cheap, Let There Be Rock, and Powerage built the overseas catalog before Highway to Hell reached the US Top 20. Later landmarks include For Those About to Rock (US #1, 1981), Thunderstruck (1990), and Black Ice (2008). Malcolm left in 2014 for health reasons; Stevie Young took over rhythm guitar.",
+    "zh": "AC/DC 于 1973 年在悉尼成立。乐队以 Malcolm Young 的节奏吉他、Angus Young 的主音吉他和直接的歌曲结构建立声音特色。Bon Scott 时期确立了早期代表风格；1980 年 Scott 去世后，Brian Johnson 加入，乐队以《Back in Black》延续并扩大了这套声音。\n\n1976 年与 Atlantic 签约。国际版《High Voltage》、《Dirty Deeds Done Dirt Cheap》、《Let There Be Rock》和《Powerage》逐步建立海外知名度，《Highway to Hell》进入美国 Billboard 200 前 20。之后还有《For Those About to Rock》（1981，美榜冠军）、《Thunderstruck》（1990）和《Black Ice》（2008）。2014 年 Malcolm 因健康问题退出，由 Stevie Young 接替节奏吉他。"
   },
   "narrative": [
     {
-      "id": "thesis",
+      "id": "core-sound",
       "title": {
-        "en": "Open chords as product line",
-        "zh": "开放和弦作为产品线"
+        "en": "Core sound",
+        "zh": "核心声音"
       },
       "body": {
-        "en": "AC/DC treat hard rock as a fixed craft: Malcolm’s downstroke grind, Angus’s school-uniform leads, straight drums, few chord changes. The brand survives a singer swap because the guitar method does not change.\n\nChuck Berry right-hand vocabulary scaled to arena gain.",
-        "zh": "AC/DC 把 hard rock 当固定工艺：Malcolm 下行扫弦碾磨、Angus 校服主音、直线鼓、少和弦变化。品牌能扛住主唱替换，因为吉他方法不变。\n\nChuck Berry 右手语汇放大到体育场增益。"
+        "en": "AC/DC’s guitar roles are simple to describe: Malcolm Young plays steady, dense rhythm guitar; Angus Young plays lead and solos; bass and drums keep a clear pulse.\n\nOpen chords, repeating riffs, short progressions, and a strong beat are the easiest elements to recognize. That writing approach runs from the early records into later albums.",
+        "zh": "AC/DC 的吉他编制相对简单：Malcolm Young 负责稳定而密集的节奏吉他，Angus Young 负责主音和独奏，鼓和贝斯维持明确的节奏。\n\n开放和弦、反复的 riff、简单的和弦进行，以及强烈的节拍感，是乐队最容易辨认的元素。这种写法从早期作品一直延续到后来的录音。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "hard-rock"
     },
     {
-      "id": "singer-swap",
+      "id": "early-to-classic",
       "title": {
-        "en": "Bon Scott → Brian Johnson",
-        "zh": "Bon Scott → Brian Johnson"
+        "en": "From early lineup to the classic five",
+        "zh": "从早期阵容到经典五人"
       },
       "body": {
-        "en": "Scott era ends 1980. Back in Black (Mutt Lange) with Johnson proves the riff engine outlives the bark. Hub people matter here: singer change without genre pivot.\n\nHighway to Hell and Back in Black are the dual curriculum.",
-        "zh": "Scott 时期止于 1980。Johnson 的 Back in Black（Mutt Lange）证明 riff 引擎比吠叫活得更久。人物枢纽在此：换主唱不换流派。\n\nHighway to Hell 与 Back in Black 是双课程。"
+        "en": "Early AC/DC changed members often. Dave Evans was among the first singers; Bon Scott replaced him in 1974. Bass and drums also rotated.\n\nAround 1977, Angus Young, Malcolm Young, Bon Scott, Cliff Williams, and Phil Rudd settled as the best-known Bon Scott–era lineup.\n\nThe Australian rock scene around them mattered. Older brother George Young had been in The Easybeats and worked on early AC/DC production.",
+        "zh": "AC/DC 成立初期的阵容变化很频繁。Dave Evans 是最早的主唱之一，1974 年由 Bon Scott 接替。贝斯和鼓手的位置也曾多次更换。\n\n到 1977 年左右，Angus Young、Malcolm Young、Bon Scott、Cliff Williams 和 Phil Rudd 的阵容逐渐固定，成为人们最熟悉的 Bon Scott 时期编制。\n\n乐队的早期发展也受到澳大利亚摇滚环境的影响。Malcolm 和 Angus 的哥哥 George Young 曾是 The Easybeats 成员，并参与了 AC/DC 早期的制作。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/ac-dc-let-there-be-rock-1977.jpg",
+        "alt": {
+          "en": "AC/DC publicity photo for Let There Be Rock, 1977 (Atco)",
+          "zh": "AC/DC《Let There Be Rock》1977 年宣传照（Atco）"
+        },
+        "credit": "Atco Records publicity photo",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ACDC_Let_There_Be_Rock_(1977_Atco_publicity_photo).jpg"
+      }
+    },
+    {
+      "id": "international",
+      "title": {
+        "en": "International market",
+        "zh": "国际市场"
+      },
+      "body": {
+        "en": "In 1976 AC/DC signed with Atlantic Records and pushed further into the UK and US markets.\n\nThe international High Voltage compiled early Australian releases for overseas listeners. Dirty Deeds Done Dirt Cheap, Let There Be Rock, and Powerage then built recognition abroad.\n\nIn the late 1970s the band also toured alongside Black Sabbath, Kiss, Blue Öyster Cult, and Aerosmith, entering the hard-rock touring circuit of that period.",
+        "zh": "1976 年，AC/DC 与 Atlantic Records 签约，开始进一步进入英国和美国市场。\n\n《High Voltage》的国际版本将乐队早期澳大利亚发行的作品重新整理，成为海外市场的重要入口。此后，《Dirty Deeds Done Dirt Cheap》、《Let There Be Rock》和《Powerage》逐步建立了乐队在国际市场的知名度。\n\n70 年代后期，AC/DC 也与 Black Sabbath、Kiss、Blue Öyster Cult 和 Aerosmith 等乐队共同巡演，进入当时正在形成的硬摇滚巡演市场。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/ac-dc-bon-angus-belfast.jpg",
+        "alt": {
+          "en": "AC/DC at Ulster Hall, Belfast — Angus Young and Bon Scott",
+          "zh": "AC/DC 于贝尔法斯特 Ulster Hall——Angus Young 与 Bon Scott"
+        },
+        "credit": "James Hughes",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ACDC-Hughes-long_ago.jpg"
+      }
+    },
+    {
+      "id": "after-bon",
+      "title": {
+        "en": "After Bon Scott",
+        "zh": "Bon Scott 去世后"
+      },
+      "body": {
+        "en": "Bon Scott died in London on 19 February 1980. The cause of death was recorded as acute alcohol poisoning.\n\nThe band considered stopping, then chose to continue. Brian Johnson joined on vocals and they began recording soon after.\n\nBack in Black (1980) kept the existing guitar and rhythm approach and added Johnson’s higher, rasping delivery. It became one of the band’s central albums.",
+        "zh": "Bon Scott 于 1980 年 2 月 19 日在伦敦去世，死因被裁定为急性酒精中毒。\n\n乐队一度考虑解散，但最终决定继续。Brian Johnson 随后加入主唱位置，AC/DC 很快开始录制新专辑。\n\n同年推出的《Back in Black》保留了原有的吉他和节奏编制，同时加入 Brian Johnson 更高亢的演唱方式。它成为乐队最重要的作品之一。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/ac-dc-bon-scott-1979.jpg",
+        "alt": {
+          "en": "Bon Scott on stage, 1979",
+          "zh": "Bon Scott 舞台照，1979"
+        },
+        "credit": "Elfast",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bonscott.jpg"
+      }
     },
     {
       "id": "highway",
       "title": {
-        "en": "Highway to Hell: late-70s peak",
-        "zh": "Highway to Hell：70 年代末峰值"
+        "en": "Highway to Hell",
+        "zh": "《Highway to Hell》"
       },
       "body": {
-        "en": "Scott’s last studio album locks the mass formula: open-A power, Angus fills, chantable chorus. Live videos from the era show the school-uniform stage grammar already set.\n\nIntensity sits at hard-rock maximum without metal double-kick.",
-        "zh": "Scott 最后录音室专辑锁死大众公式：开放 A 强力和弦、Angus 填空、可喊副歌。同期现场录像已定校服舞台语法。\n\n强度到 hard-rock 上限，却不走金属双踩。"
+        "en": "Highway to Hell (1979) is among the strongest Bon Scott–era albums and a major step into the US mainstream.\n\nThe songs keep the band’s usual writing: simple chords, repeating riffs, clear verse/chorus shapes, and choruses that work live.\n\nThe album reached the Top 20 of the Billboard 200.",
+        "zh": "1979 年的《Highway to Hell》是 Bon Scott 时期最成功的专辑之一，也是 AC/DC 进入美国主流市场的重要作品。\n\n专辑中的歌曲延续了乐队一贯的写法：简单的和弦、重复的 riff、清楚的主歌与副歌结构，以及容易在现场演唱的旋律。\n\n专辑最高曾进入美国 Billboard 200 前 20 名。"
       },
       "stickyVisual": "scene",
-      "sceneIndex": 0,
+      "sceneIndex": 1,
       "soundGenre": "hard-rock"
     },
     {
-      "id": "dna",
+      "id": "young-brothers",
       "title": {
-        "en": "Malcolm grind, Angus lead",
-        "zh": "Malcolm 碾磨，Angus 主音"
+        "en": "Malcolm Young and Angus Young",
+        "zh": "Malcolm Young 与 Angus Young"
       },
       "body": {
-        "en": "Rhythm guitar is the DNA: locked eighths, high gain, no ambient wash. Angus solos stay pentatonic and short. Bass and drums serve the right hand.\n\nLater bands that copy only the school outfit miss the rhythm-guitar primacy.",
-        "zh": "节奏吉他是 DNA：锁死八分、高增益、无氛围铺底。Angus 独奏守五声、短。贝斯与鼓服务右手。\n\n后来只抄校服外形的乐队，常漏掉节奏吉他优先。"
+        "en": "Much of AC/DC’s guitar sound comes from how the brothers split the work.\n\nMalcolm focused on rhythm guitar: steady time and riffs rather than complex chord changes.\n\nAngus handled lead and solos, often with pentatonic lines, bends, and short phrases against Malcolm’s rhythm part.\n\nThat division runs through early and later recordings.",
+        "zh": "AC/DC 的吉他声音很大程度上建立在两兄弟的分工上。\n\nMalcolm Young 主要负责节奏吉他。他的演奏通常不追求复杂的和弦变化，而是保持稳定的节拍和 riff。\n\nAngus Young 则负责主音吉他和独奏。他常使用五声音阶、推弦和短句式的 solo，让主音与 Malcolm 的节奏部分形成对比。\n\n这种分工从早期作品一直延续到乐队后来的录音。"
       },
       "stickyVisual": "dna",
       "soundGenre": "hard-rock"
     },
     {
-      "id": "quote",
+      "id": "after-1980",
       "title": {
-        "en": "Special effects, keep going",
-        "zh": "特效，继续走"
+        "en": "After 1980",
+        "zh": "1980 年代之后"
       },
       "body": {
-        "en": "Angus frames stage motion as effects work; Malcolm’s continue-or-stop line marks the 1980 decision. Quotes document method, not mystique.\n\nPair them with Back in Black’s tracking discipline.",
-        "zh": "Angus 把舞台动作框成特效工种；Malcolm 的继续/停止句标记 1980 决策。引语记录方法，不造神秘。\n\n对照 Back in Black 的跟录纪律阅读。"
+        "en": "After Back in Black, AC/DC stayed centered on guitar riffs and live performance.\n\nFor Those About to Rock We Salute You (1981) was their first Billboard 200 #1 album.\n\nThe Razors Edge (1990) brought another mainstream return; Thunderstruck became one of the best-known later songs.\n\nBlack Ice (2008) again reached #1 in multiple countries.",
+        "zh": "《Back in Black》之后，AC/DC 继续维持以吉他 riff 和现场演出为核心的音乐风格。\n\n1981 年的《For Those About to Rock We Salute You》成为乐队首张登上美国 Billboard 200 冠军的专辑。\n\n1990 年，《The Razors Edge》重新让 AC/DC 进入主流市场，其中的《Thunderstruck》成为乐队后期最具代表性的歌曲之一。\n\n2008 年，《Black Ice》推出后再次登上多国排行榜榜首。"
       },
-      "stickyVisual": "quote",
-      "quoteIndex": 0,
+      "stickyVisual": "scene",
+      "sceneIndex": 3,
       "soundGenre": "hard-rock"
     },
     {
-      "id": "legacy",
+      "id": "malcolm-exits",
       "title": {
-        "en": "Export to GnR and arena hard rock",
-        "zh": "输出到 GnR 与体育场 hard rock"
+        "en": "Malcolm Young leaves",
+        "zh": "Malcolm Young 离队"
       },
       "body": {
-        "en": "Guns N’ Roses cite the riff economy and street-blues hard rock lineage. Stadium rock keeps the open-chord template long after fashion cycles.\n\nIn this graph: consistency as innovation claim.",
-        "zh": "Guns N’ Roses 引用其 riff 经济与街头蓝调 hard rock 谱系。体育场摇滚在潮流周期后仍保留开放和弦模板。\n\n在本图谱：把一致性当作创新主张。"
+        "en": "In 2014 Malcolm Young left the band for health reasons. Stevie Young took over rhythm guitar.\n\nOther seats changed around later tours. Angus Young remained the constant core member.\n\nPhil Rudd also left and later returned amid personal and legal issues.",
+        "zh": "2014 年，Malcolm Young 因健康问题退出乐队，由 Stevie Young 接替节奏吉他。\n\n此后 AC/DC 的成员阵容再次出现变化，但 Angus Young 仍然是乐队的核心成员。\n\nPhil Rudd 也曾因个人及法律问题离开乐队，之后重新回归。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "influence",
+      "title": {
+        "en": "Influence on later hard rock",
+        "zh": "对后来硬摇滚的影响"
+      },
+      "body": {
+        "en": "AC/DC’s influence rests on a clear writing and playing method: simple chords, riff-led songs, steady rhythm guitar, and arrangements that work in large venues.\n\nMany later hard-rock and metal bands used that approach. Guns N’ Roses and other 1980s–90s acts have cited AC/DC directly.\n\nTheir importance is less one single album than keeping that direct hard-rock writing in use for decades.",
+        "zh": "AC/DC 的影响主要来自一套非常明确的写歌和演奏方式：简单的和弦、强调 riff 的歌曲结构、稳定的节奏吉他，以及适合大型现场演出的编曲。\n\n这套写法后来被大量硬摇滚和重金属乐队采用。Guns N' Roses 等 80、90 年代乐队也曾公开提到 AC/DC 对自己的影响。\n\nAC/DC 的重要性并不只在于某一张专辑，而在于他们把这种直接的硬摇滚写法维持了数十年。"
       },
       "stickyVisual": "influence",
       "soundGenre": "hard-rock"
@@ -252,12 +386,48 @@
   ],
   "lineupVersions": [
     {
+      "id": "early-pub",
+      "label": {
+        "en": "Early pub years",
+        "zh": "早期酒吧时期"
+      },
+      "years": "1973–1974",
+      "members": [
+        {
+          "name": "Angus Young",
+          "role": "Guitar",
+          "personSlug": "angus-young"
+        },
+        {
+          "name": "Malcolm Young",
+          "role": "Guitar",
+          "personSlug": "malcolm-young"
+        },
+        {
+          "name": "Dave Evans",
+          "role": "Vocals"
+        },
+        {
+          "name": "Larry Van Kriedt",
+          "role": "Bass"
+        },
+        {
+          "name": "Colin Burgess",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Frequent early changes. Dave Evans sang before Bon Scott joined in 1974.",
+        "zh": "早期成员变动频繁。Dave Evans 曾担任主唱，Bon Scott 于 1974 年加入。"
+      }
+    },
+    {
       "id": "bon-scott-era",
       "label": {
         "en": "Bon Scott era",
         "zh": "Bon Scott 时期"
       },
-      "years": "1974–1980",
+      "years": "1977–1980",
       "members": [
         {
           "name": "Angus Young",
@@ -286,17 +456,17 @@
         }
       ],
       "note": {
-        "en": "High Voltage through Highway to Hell; Scott dies Feb 1980.",
-        "zh": "High Voltage 至 Highway to Hell；Scott 1980 年 2 月去世。"
+        "en": "Best-known early lineup. Includes Let There Be Rock and Highway to Hell.",
+        "zh": "最具代表性的早期阵容。这一时期包括《Let There Be Rock》和《Highway to Hell》。"
       }
     },
     {
       "id": "brian-johnson-peak",
       "label": {
-        "en": "Brian Johnson peak",
-        "zh": "Brian Johnson 峰值"
+        "en": "Brian Johnson era",
+        "zh": "Brian Johnson 时期"
       },
-      "years": "1980–present",
+      "years": "1980–1983",
       "peak": true,
       "members": [
         {
@@ -326,8 +496,46 @@
         }
       ],
       "note": {
-        "en": "Back in Black launch; Malcolm later exits for health; Stevie Young covers rhythm on late tours.",
-        "zh": "以 Back in Black 启动；Malcolm 后期因健康退出；晚期巡演由 Stevie Young 顶节奏。"
+        "en": "Back in Black and For Those About to Rock We Salute You were recorded with this lineup.",
+        "zh": "《Back in Black》与《For Those About to Rock We Salute You》均由这一阵容完成。"
+      }
+    },
+    {
+      "id": "later-stevie",
+      "label": {
+        "en": "Later lineup",
+        "zh": "后期阵容"
+      },
+      "years": "2014–present",
+      "members": [
+        {
+          "name": "Angus Young",
+          "role": "Guitar",
+          "personSlug": "angus-young"
+        },
+        {
+          "name": "Stevie Young",
+          "role": "Guitar"
+        },
+        {
+          "name": "Brian Johnson",
+          "role": "Vocals",
+          "personSlug": "brian-johnson"
+        },
+        {
+          "name": "Cliff Williams",
+          "role": "Bass",
+          "personSlug": "cliff-williams"
+        },
+        {
+          "name": "Phil Rudd",
+          "role": "Drums",
+          "personSlug": "phil-rudd"
+        }
+      ],
+      "note": {
+        "en": "After Malcolm left, Stevie Young took rhythm guitar. Drums and other seats have varied by tour.",
+        "zh": "Malcolm Young 退出后，由 Stevie Young 接替节奏吉他。鼓手与其他成员则曾有不同变动。"
       }
     }
   ],
@@ -336,16 +544,16 @@
       "title": "Highway to Hell",
       "year": 1979,
       "note": {
-        "en": "Bon-era mass formula locked before the singer swap.",
-        "zh": "主唱替换前锁死 Bon 时期大众公式。"
+        "en": "Major Bon Scott–era album and a step into the US Top 20.",
+        "zh": "Bon Scott 时期重要专辑，并进入美国 Billboard 200 前 20。"
       }
     },
     "pioneeredGenres": [
       "hard-rock"
     ],
     "note": {
-      "en": "Open-chord riff craft as durable product across two singers.",
-      "zh": "开放和弦 riff 工艺跨两位主唱仍可持续。"
+      "en": "Open-chord riffs and a stable guitar method across two lead singers.",
+      "zh": "开放和弦 riff 与稳定的吉他写法，跨越两位主唱时期。"
     }
   }
 }

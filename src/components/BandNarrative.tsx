@@ -11,7 +11,7 @@ import { useSound } from "@/components/SoundProvider";
 import { useLocale } from "@/i18n/LocaleProvider";
 import { loc, type Localized } from "@/i18n/config";
 import { getTracksByBand } from "@/lib/audio";
-import type { Band, Genre, StickyVisual } from "@/lib/types";
+import type { Band, EntityImage, Genre, StickyVisual } from "@/lib/types";
 
 interface BandNarrativeProps {
   band: Band;
@@ -54,6 +54,7 @@ function StickyPanel({
   visual,
   sceneIndex,
   quoteIndex,
+  stickyImage,
 }: {
   band: Band;
   genres: Genre[];
@@ -61,6 +62,7 @@ function StickyPanel({
   visual: StickyVisual;
   sceneIndex?: number;
   quoteIndex?: number;
+  stickyImage?: EntityImage;
 }) {
   const { locale, t } = useLocale();
   const scene = band.scenes?.[sceneIndex ?? 0];
@@ -68,12 +70,29 @@ function StickyPanel({
 
   return (
     <motion.div
-      key={`${visual}-${sceneIndex}-${quoteIndex}`}
+      key={`${visual}-${sceneIndex}-${quoteIndex}-${stickyImage?.src ?? ""}`}
       initial={{ opacity: 0, y: 12 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.35 }}
       className="border-2 border-ink bg-paper p-5 sm:p-6"
     >
+      {stickyImage && (
+        <figure className="mb-5">
+          <div className="relative aspect-[4/3] w-full overflow-hidden border border-ink/30 bg-paper-deep">
+            {/* eslint-disable-next-line @next/next/no-img-element -- sticky chapter assets; avoid hero priority */}
+            <img
+              src={stickyImage.src}
+              alt={loc(stickyImage.alt, locale)}
+              className="h-full w-full object-cover object-center"
+            />
+          </div>
+          <figcaption className="mt-2 text-[11px] leading-relaxed text-muted">
+            <span>{stickyImage.credit}</span>
+            <span aria-hidden> · </span>
+            <span>{stickyImage.license}</span>
+          </figcaption>
+        </figure>
+      )}
       {visual === "thesis" && (
         <>
           <p className="text-xs font-medium uppercase tracking-wider text-muted">
@@ -466,13 +485,29 @@ export function BandNarrative({
                 <p className="mt-5 text-base leading-relaxed text-ink-soft sm:text-lg">
                   {loc(ch.body, locale)}
                 </p>
+                {ch.stickyImage && (
+                  <figure className="mt-6 lg:hidden">
+                    <div className="relative aspect-[4/3] w-full overflow-hidden border-2 border-ink bg-paper-deep">
+                      <img
+                        src={ch.stickyImage.src}
+                        alt={loc(ch.stickyImage.alt, locale)}
+                        className="h-full w-full object-cover object-center"
+                      />
+                    </div>
+                    <figcaption className="mt-2 text-xs leading-relaxed text-muted">
+                      <span>{ch.stickyImage.credit}</span>
+                      <span aria-hidden> · </span>
+                      <span>{ch.stickyImage.license}</span>
+                    </figcaption>
+                  </figure>
+                )}
               </div>
             </ChapterObserver>
           ))}
         </div>
 
         <aside className="hidden lg:block">
-          <div className="sticky top-20 py-16">
+          <div className="sticky top-20 max-h-[calc(100dvh-5rem)] overflow-y-auto overscroll-contain py-8 pr-1 [scrollbar-gutter:stable]">
             {active && (
               <StickyPanel
                 band={band}
@@ -481,6 +516,7 @@ export function BandNarrative({
                 visual={active.stickyVisual}
                 sceneIndex={active.sceneIndex}
                 quoteIndex={active.quoteIndex}
+                stickyImage={active.stickyImage}
               />
             )}
             <p className="mt-4 text-xs text-muted">

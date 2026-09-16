@@ -1,23 +1,83 @@
 ---
-description: Rock Chronicles editorial voice — no AI purple prose
+description: Rock Chronicles copy — music database voice, anti-AI rhetoric
 globs: content/**/*.json,src/i18n/**/*.ts,src/components/**/*.tsx
 alwaysApply: true
 ---
 
 # Content tone (Rock Chronicles)
 
-Write like a senior RYM / Zhihu rock reader: precise terms, concrete history/tech, dry or grounded heat — never inflated analogy.
+This is a **music history database**, not a brand ad, magazine column, or AI-generated thinkpiece.
 
-## Forbidden
-- AI metaphors: cosmic soul journeys, tapestries, blazing stars, thunderbolts, warm-coffee comfort, weather-as-meaning by default
-- Pseudo-philosophy and empty hype adjectives stacked without facts
-- Translation-ese Chinese; use fan terms (失真、Riff、延音、概念专集、后朋克、双吉他编排)
+Prefer the voice of a careful editor of a rock reference site: clear facts, optional short judgment, no posturing.
 
-## Required
-- Name gear, production, dates, riffs/dynamics/form, or verifiable scene impact
-- Short sentences; EN/ZH both native to music readers
-- When editing `content/**/*.json`, rewrite purple `whyMatters` / `shortBio` / `body` / chapter text to fact-led copy
+## Core principles
+
+1. Prefer information over style.
+2. Direct statements over metaphors.
+3. Concrete facts over abstract adjectives.
+4. Do **not** force a “thesis” or punchline into every paragraph.
+5. Do **not** manufacture drama, twists, or fake quotability.
+6. Do **not** make every sentence sound like a verdict.
+7. One paragraph = one job (history **or** sound **or** personnel — not all three stacked).
+8. EN and ZH should both read like native music-site copy, not translation-ese. Chinese may use fan terms (失真、riff、延音、概念专集、后朋克、双吉他).
+
+## Forbidden / avoid (AI rhetoric)
+
+Do **not** use unnecessary business, machine, or war metaphors, including:
+
+引擎、底盘、产品线、工具箱、电压、天花板、握手、燃料、机器、武器、DNA、公式、密码、模板（unless literally a reusable song structure）、重新定义、锁死、碾磨、炸裂、引爆、征服、横扫、车道、气泡、框成、工种
+
+English equivalents of the same: engine, chassis, product line, toolkit, voltage, ceiling, handshake, fuel, machine, weapon, DNA, formula, code, redefine, lock in, grind (as metaphor), explode, conquer, lane, bubble, frame as…
+
+If deleting the metaphor leaves the meaning intact, delete it.
+
+**Whole page budget: 0–2 metaphors maximum.** Prefer zero.
+
+## Forbidden sentence patterns
+
+Avoid unless truly unavoidable:
+
+- 「X 不是 A，而是 B」 / “X is not A, but B”
+- 「X 不仅……更……」 / “not only… but…”
+- 「这证明了……」 / “this proves…”
+- 「这也解释了为什么……」
+- 「真正重要的是……」 / “what really matters…”
+- 「某种意义上……」「从某种角度来看……」「可以说……」
+- 「这是一个关键转折……」
+- 「把 X 变成了 Y」「让 X 成为……」
+- 「X 的 DNA……」「X 活得比 Y 更久」
+- Forced “export / curriculum / brand survives because…” essay closers
+
+Rewrite as plain facts + optional short consequence.
+
+## Forbidden hype / emotion
+
+No `！`. Avoid: 令人惊讶、不可思议、传奇、震撼、伟大、惊人、无可匹敌、划时代 (and English cousins) unless inside a quoted source.
+
+## Music analysis
+
+Ground analysis in observable elements:
+
+- open chords / power chords, riffs, rhythm guitar, solos, scales
+- drums, bass, arrangement, verse/chorus
+- production, chart positions, dates, lineup changes, labels, tours
+
+Name gear, dates, tracks, or verified scene facts when you make a claim.
+
+## Band / person JSON fields
+
+When editing `whyMatters`, `shortBio`, `body`, `narrative`, `scenes[].note`, `lineupVersions[].note`, landmark notes, UI i18n:
+
+- Lead with who / when / what happened
+- Keep chapters short; do not end every chapter with a moral
+- Quotes: real attributed lines only; mark paraphrase if not verified
 
 ## Examples
+
+Bad: 「AC/DC 把 hard rock 当固定工艺……riff 引擎比吠叫活得更久……共享巡演学校，不是封闭气泡。」
+
+Good: 「AC/DC 以 Malcolm 的节奏吉他、Angus 的主音和直接的歌曲结构为主要特征。1980 年 Bon Scott 去世后，Brian Johnson 加入，乐队发行《Back in Black》。」
+
 Bad: "Nirvana was a thunderbolt that shattered the silent sky of pop…"
-Good: "1991年《Smells Like Teen Spirit》：Power Chords + 主歌干净/副歌失真的 Soft-Loud，把华丽金属挤出主流视野，Grunge 上台。"
+
+Good: "1991年《Smells Like Teen Spirit》：Power Chords + 主歌干净/副歌失真的 Soft-Loud；Grunge 进入主流电台。"

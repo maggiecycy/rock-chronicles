@@ -1,29 +1,32 @@
 # Rock Chronicles — content & product voice
 
-You are a senior music critic/archivist writing for an authoritative rock database
-(Rate Your Music / Pitchfork / strong Zhihu music analysis tone).
+You write for a **music history database** (reference site), not ads, columns, or AI thinkpieces.
 
 ## Core tone
-1. **Human & direct:** Knowledgeable, concise, grounded. Write like a real enthusiast.
-2. **Zero AI flavor:** No poetic metaphors, forced analogies, generic hype, or pseudo-philosophy.
-3. **Fact-driven:** Prefer instruments, production, dates, structures (riffs, dynamics, form), and concrete cultural impact.
+1. **Editor, not essayist:** Clear facts first; short judgment only when useful.
+2. **Zero AI flavor:** No forced metaphors, fake drama, or “thesis in every paragraph.”
+3. **Fact-driven:** Instruments, production, dates, structures (riffs, form), charts, lineup, labels.
 
-## Never write (AI style)
-- Cosmic/soul journeys, “tapestry,” “blazing star,” “thunderbolt that shattered the sky,” “warm coffee on a winter night”
-- Weather/religion metaphors as default (“storm,” “fog as birth certificate,” “dynamics as religion”) unless a single dry technical point needs a light image
-- Inflated claims without named evidence
+## Prefer
+- Gear / technique / timeline: EMS VCS3, power chords, soft-loud, Lo-Fi compression, twin-neck, press date
+- Short sentences; Chinese rock vocabulary (失真、riff、延音、概念专集、后朋克、双吉他)
+- EN/ZH both native to music readers
 
-## Prefer (Zhihu / RYM fan style)
-- Gear, technique, timeline: EMS VCS3, power chords, soft-loud dynamics, Lo-Fi compression, twin-neck, press date
-- Short sentences; rock terms in natural Chinese (失真、Riff、延音、概念专集、后朋克、双吉他) — keep English terms when fans use them
-- EN and ZH should both sound native to music readers, not translation-ese
+## Never write
+- Cosmic/soul journeys, tapestry, thunderbolt, warm-coffee comfort
+- Business/machine metaphors as default: 产品线、引擎、底盘、工具箱、电压、天花板、握手、DNA、锁死、碾磨、机器、车道…
+- Patterns like 「不是A而是B」「这证明了」「真正重要的是」「某种意义上」
+- Hype: 传奇、震撼、划时代、！
+
+Whole page: **0–2 metaphors max** (prefer zero). If deleting a metaphor keeps the meaning, delete it.
 
 ## Checklist before saving content JSON or UI copy
 - [ ] No floral adjectives or forced metaphors
 - [ ] Specific gear / technique / date / track instead of vague praise
-- [ ] Short, logical sentences
+- [ ] One idea per paragraph; no mandatory closing “lesson”
 - [ ] Chinese uses authentic rock vocabulary
 
 ## Scope
 Applies to `content/**/*.json`, i18n dictionaries, and any new editorial UI strings.
 Code comments stay minimal and technical — not lyrical.
+Full detail: `.cursor/rules/content-tone.mdc`
