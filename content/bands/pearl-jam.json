@@ -10,8 +10,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Seattle grunge band that outlasted the early-90s boom as a touring and Ticketmaster-fight institution; Ten (1991) remains the mass entry.",
-    "zh": "西雅图 grunge：在 90 年代初热潮后仍以巡演与 Ticketmaster 抗争体制存续；Ten（1991）仍是大众入口。"
+    "en": "Seattle grunge band formed in 1990. Ten (1991) remains the mass entry; later years emphasize long-running tours and the mid-90s Ticketmaster dispute.",
+    "zh": "西雅图 grunge 乐队，1990 年成立。《Ten》（1991）仍是大众入口；之后以长期巡演与 90 年代中期 Ticketmaster 争端为重要记录。"
   },
   "members": [
     {
@@ -84,8 +84,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Ten-era opener: Vedder baritone, McCready lead, open-chord grind.",
-        "zh": "Ten 时期开场：Vedder 男中音、McCready 主音、开放和弦碾磨。"
+        "en": "Ten-era track; Vedder baritone, McCready lead, open-chord rhythm.",
+        "zh": "Ten 时期作品；Vedder 男中音、McCready 主音、开放和弦节奏。"
       }
     },
     {
@@ -103,8 +103,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Narrative video single; MTV-scale Ten face.",
-        "zh": "叙事录像单曲；MTV 尺度的 Ten 面孔。"
+        "en": "Ten single with a narrative video; heavy MTV play.",
+        "zh": "《Ten》单曲，叙事录像；MTV 高曝光。"
       }
     },
     {
@@ -123,8 +123,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Funk-tinged riff; live staple from debut cycle.",
-        "zh": "带放克味 riff；首专周期现场常备。"
+        "en": "Funk-tinged riff; live staple from the debut cycle.",
+        "zh": "带放克味的 riff；首专周期起的现场常备曲。"
       }
     }
   ],
@@ -162,23 +162,23 @@
     "the-killers"
   ],
   "shortBio": {
-    "en": "Vedder / McCready / Gossard Ten-era grunge; Alive and Jeremy are the mass entry.",
-    "zh": "Vedder / McCready / Gossard 的 Ten 时期 grunge；Alive 与 Jeremy 是大众入口。"
+    "en": "Vedder / McCready / Gossard Seattle grunge, 1990–. Alive and Jeremy are the main Ten-era entry points.",
+    "zh": "Vedder / McCready / Gossard 的西雅图 grunge，1990 年至今。《Alive》与《Jeremy》是 Ten 时期的主要入口。"
   },
   "body": {
-    "en": "Formed 1990 from Green River/Mother Love Bone fragments with Eddie Vedder. Ten and Vs. made them stadium-scale alongside Nirvana/Soundgarden; Vitalogy onward tracked a longer career arc.\n\nAlive (1991) is the essential-track marker here. Musically: open chords, McCready leads, Vedder’s baritone. Institutionally: anti-scalping fights and bootleg-heavy touring culture.",
-    "zh": "1990 年由 Green River/Mother Love Bone 碎片与 Eddie Vedder 组建。Ten 与 Vs. 使其与 Nirvana/Soundgarden 同级体育场体量；Vitalogy 起进入更长职业弧线。\n\nAlive（1991）是此处必听标记。音乐上：开放和弦、McCready 主音、Vedder 男中音。制度上：反黄牛斗争与重现场录音的巡演文化。"
+    "en": "Pearl Jam formed in Seattle in 1990 from Green River and Mother Love Bone members plus Eddie Vedder. Ten (1991) and Vs. (1993) put them on MTV and rock radio beside Nirvana and Soundgarden. Vitalogy (1994) and later albums extend the catalog.\n\nAlive (1991) is a core reference track here. Musically: open chords, McCready leads, Vedder’s baritone. Later history includes bootleg-heavy touring and the mid-90s Ticketmaster dispute.",
+    "zh": "Pearl Jam 于 1990 年在西雅图成立，成员来自 Green River、Mother Love Bone，并加入 Eddie Vedder。《Ten》（1991）与《Vs.》（1993）使其进入 MTV 与摇滚电台，与 Nirvana、Soundgarden 并列。《Vitalogy》（1994）及之后专辑延续目录。\n\n《Alive》（1991）是此处核心参照曲。音乐上：开放和弦、McCready 主音、Vedder 男中音。后期记录包括大量现场录音巡演与 90 年代中期 Ticketmaster 争端。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Ten as stadium grunge entry",
-        "zh": "Ten 作为体育场 grunge 入口"
+        "en": "Ten on MTV and rock radio",
+        "zh": "《Ten》上 MTV 与摇滚电台"
       },
       "body": {
-        "en": "Ten (1991) puts Pearl Jam on MTV and rock radio beside Nirvana and Soundgarden. Open chords, Vedder baritone, McCready leads. They outlast the early-90s boom as a touring institution.\n\nTicketmaster fight becomes part of the institutional story.",
-        "zh": "Ten（1991）把 Pearl Jam 推到 MTV 与摇滚电台，与 Nirvana、Soundgarden 并列。开放和弦、Vedder 男中音、McCready 主音。他们以巡演体制撑过 90 年代初热潮。\n\nTicketmaster 抗争成为制度故事的一部分。"
+        "en": "Ten (1991) places Pearl Jam on MTV and rock radio beside Nirvana and Soundgarden. Open chords, Vedder’s baritone, and McCready leads are the easiest identifiers.\n\nAfter the early-90s boom, the band kept a long touring schedule. The Ticketmaster dispute is part of that later institutional record.",
+        "zh": "《Ten》（1991）把 Pearl Jam 推上 MTV 与摇滚电台，与 Nirvana、Soundgarden 并列。开放和弦、Vedder 男中音与 McCready 主音是最易辨认的元素。\n\n90 年代初热潮之后，乐队维持长期巡演。Ticketmaster 争端属于其后的制度记录。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "grunge"
@@ -186,12 +186,12 @@
     {
       "id": "ten-lineup",
       "title": {
-        "en": "Ten-era classic five",
-        "zh": "Ten 时期经典五人"
+        "en": "Ten-era five",
+        "zh": "Ten 时期五人"
       },
       "body": {
-        "en": "Vedder, McCready, Gossard, Ament, and Krusen cut Ten. Drum chair rotates later (Abbruzzese, Irons, Cameron); the guitar/vocal core stays.\n\nCitation peak remains the debut five for radio memory.",
-        "zh": "Vedder、McCready、Gossard、Ament 与 Krusen 录 Ten。鼓席后期轮换（Abbruzzese、Irons、Cameron）；吉他/人声核心保留。\n\n电台记忆的引用峰值仍是首专五人。"
+        "en": "Vedder, McCready, Gossard, Ament, and Krusen recorded Ten. The drum seat later rotated (Abbruzzese, Irons, Cameron); the guitar and vocal core stayed.\n\nRadio memory of the debut still centers on that five.",
+        "zh": "Vedder、McCready、Gossard、Ament 与 Krusen 录制《Ten》。鼓席后来轮换（Abbruzzese、Irons、Cameron）；吉他与人声核心保留。\n\n首专的电台记忆仍集中在这五人。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "grunge"
@@ -199,12 +199,12 @@
     {
       "id": "alive",
       "title": {
-        "en": "Alive / Jeremy: dual radio face",
-        "zh": "Alive / Jeremy：双电台面孔"
+        "en": "Alive, Jeremy, Even Flow",
+        "zh": "《Alive》《Jeremy》《Even Flow》"
       },
       "body": {
-        "en": "Alive opens with family-story lyric and McCready solo. Jeremy pairs narrative video with mid-tempo grind. Even Flow keeps the live riff staple.\n\nTen supplies the whole mass curriculum in one cycle.",
-        "zh": "Alive 以家庭故事歌词与 McCready 独奏开场。Jeremy 把叙事录像与中速碾磨配对。Even Flow 保持现场 riff 常备。\n\nTen 在同一周期提供整套大众课程。"
+        "en": "Alive opens with a family-story lyric and a McCready solo. Jeremy pairs a narrative video with a mid-tempo arrangement. Even Flow stays a live riff staple from the debut cycle.\n\nThose three tracks cover much of Ten’s mass radio face.",
+        "zh": "《Alive》以家庭故事歌词与 McCready 独奏开场。《Jeremy》把叙事录像与中速编配配对。《Even Flow》自首专周期起是现场 riff 常备曲。\n\n这三首覆盖了《Ten》在大众电台上的主要面孔。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -213,12 +213,12 @@
     {
       "id": "members",
       "title": {
-        "en": "Baritone, Les Paul leads, Gossard rhythm",
-        "zh": "男中音、Les Paul 主音、Gossard 节奏"
+        "en": "Baritone, lead, and rhythm roles",
+        "zh": "男中音、主音与节奏分工"
       },
       "body": {
-        "en": "Vedder’s baritone sits forward. McCready supplies blues-rock leads. Gossard and Ament bring Mother Love Bone/Green River rhythm DNA.\n\nLess quiet-loud than Nirvana; more open-chord hard rock weight.",
-        "zh": "Vedder 男中音靠前。McCready 提供蓝调摇滚主音。Gossard 与 Ament 带入 Mother Love Bone/Green River 节奏 DNA。\n\n强弱动态少过 Nirvana；更偏开放和弦 hard-rock 重量。"
+        "en": "Vedder’s baritone sits forward in the mix. McCready supplies blues-rock leads, often on Les Paul. Gossard and Ament bring rhythm parts from the Mother Love Bone / Green River background.\n\nCompared with Nirvana, there is less quiet-loud switching and more open-chord hard-rock weight.",
+        "zh": "Vedder 的男中音在混音里靠前。McCready 提供蓝调摇滚主音，常用 Les Paul。Gossard 与 Ament 带入 Mother Love Bone / Green River 背景的节奏写法。\n\n与 Nirvana 相比，强弱切换更少，更偏开放和弦 hard-rock 重量。"
       },
       "stickyVisual": "members",
       "soundGenre": "alternative"
@@ -226,12 +226,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Anti-star posture, play music",
-        "zh": "反明星姿态，先弹琴"
+        "en": "Anti-star lines beside stadium scale",
+        "zh": "反明星表述与体育场体量"
       },
       "body": {
-        "en": "Vedder’s backup-singer line and Gossard’s play-music claim document early-90s posture beside stadium scale.\n\nRead against Ten’s radio saturation—not as contradiction to erase.",
-        "zh": "Vedder 的「宁可当和声」句与 Gossard「只想弹琴」主张，记录体育场体量旁的 90 年代初姿态。\n\n对照 Ten 的电台饱和阅读——不当成要抹掉的矛盾。"
+        "en": "Vedder’s backup-singer line and Gossard’s “just wanted to play music” claim document early-90s posture beside large venues.\n\nRead them against Ten’s radio saturation as period evidence, not as a puzzle to erase.",
+        "zh": "Vedder「宁可当和声」与 Gossard「只想弹琴」的表述，记录了大场馆体量旁的 90 年代初姿态。\n\n对照《Ten》的电台饱和阅读，当作同期证据，而不是要抹掉的矛盾。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -240,12 +240,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Touring institution after the boom",
-        "zh": "热潮后的巡演体制"
+        "en": "Touring after the early-90s boom",
+        "zh": "90 年代初热潮之后的巡演"
       },
       "body": {
-        "en": "Vs., Vitalogy, and later albums extend the career. Bootleg culture and anti-scalping fights matter as institutional tech. Seattle peers fragment; Pearl Jam keeps the touring machine.\n\nInfluence is durability as much as tone.",
-        "zh": "Vs.、Vitalogy 与后期专辑延长职业线。现场录音文化与反黄牛是制度技术。西雅图同辈分裂；Pearl Jam 保持巡演机器。\n\n影响既是音色，也是耐久。"
+        "en": "Vs., Vitalogy, and later albums extend the career. Official and unofficial live recordings, plus anti-scalping campaigns, are part of how the band ran tours.\n\nSeveral Seattle peers slowed or split; Pearl Jam kept a long touring calendar into later decades.",
+        "zh": "《Vs.》《Vitalogy》与后期专辑延长职业线。官方与非官方现场录音，以及反黄牛行动，是巡演运作的一部分。\n\n部分西雅图同辈放缓或解散；Pearl Jam 在之后数十年仍保持较长巡演日程。"
       },
       "stickyVisual": "influence",
       "soundGenre": "alternative"
@@ -286,8 +286,8 @@
         }
       ],
       "note": {
-        "en": "Debut album citation lineup; Krusen exits after Ten.",
-        "zh": "首专引用阵容；Krusen 在 Ten 后离队。"
+        "en": "Debut album citation lineup; Krusen left after Ten.",
+        "zh": "首专引用阵容；Krusen 在《Ten》后离队。"
       }
     },
     {
@@ -324,8 +324,8 @@
         }
       ],
       "note": {
-        "en": "Soundgarden drummer joins; long touring stability.",
-        "zh": "Soundgarden 鼓手加入；长期巡演稳定。"
+        "en": "Former Soundgarden drummer; long touring stability.",
+        "zh": "前 Soundgarden 鼓手；长期巡演编制较稳定。"
       }
     }
   ],
@@ -334,8 +334,8 @@
       "title": "Alive",
       "year": 1991,
       "note": {
-        "en": "Ten-era mass entry; baritone over open-chord grind.",
-        "zh": "Ten 时期大众入口；男中音压在开放和弦碾磨上。"
+        "en": "Ten-era mass entry; baritone over open-chord rhythm.",
+        "zh": "Ten 时期大众入口；男中音压在开放和弦节奏上。"
       }
     },
     "pioneeredGenres": [
@@ -343,8 +343,8 @@
       "alternative"
     ],
     "note": {
-      "en": "Stadium grunge that becomes a touring institution.",
-      "zh": "成为巡演体制的体育场 grunge。"
+      "en": "Stadium-scale Seattle grunge with a long post-boom touring record.",
+      "zh": "体育场体量的西雅图 grunge；热潮后仍有长期巡演记录。"
     }
   }
 }

@@ -10,8 +10,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "California group that turned studio harmony and modular arrangement into rock's production frontier; Pet Sounds (1966) and Good Vibrations are the documented hinge.",
-    "zh": "加州组合：把录音室和声与模块化编曲推成摇滚制作前沿；Pet Sounds（1966）与 Good Vibrations 是有文献可查的铰链。"
+    "en": "California group formed in 1961. Brian Wilson’s studio harmony and sectional recording peak on Pet Sounds (1966) and the single Good Vibrations.",
+    "zh": "加州组合，1961 年成立。Brian Wilson 的录音室和声与分段录音，高峰在 Pet Sounds（1966）与单曲 Good Vibrations。"
   },
   "members": [
     {
@@ -76,12 +76,12 @@
     "pink-floyd"
   ],
   "shortBio": {
-    "en": "Brian Wilson studio pop; Pet Sounds and Good Vibrations are the modular peak.",
-    "zh": "Brian Wilson 录音室流行；Pet Sounds 与 Good Vibrations 是模块化高峰。"
+    "en": "Brian Wilson studio pop, California, 1961–. Pet Sounds and Good Vibrations are the main 1966 reference points.",
+    "zh": "Brian Wilson 录音室流行，加州，1961 年起。1966 年主要参照为 Pet Sounds 与 Good Vibrations。"
   },
   "body": {
-    "en": "Formed 1961 in California. Early surf hits precede the studio peak: Pet Sounds and the Smile sessions treated the studio as instrument—theremin, bicycle bells, stacked vocals, sectional recording.\n\nGood Vibrations (1966) is the essential track. Documented influence on Beatles' late-60s studio work and later indie psych is the measure, not sales metaphor.",
-    "zh": "1961 年于加州组建。早期冲浪热单之后是录音室高峰：Pet Sounds 与 Smile 录音把录音室当乐器——theremin、自行车铃、堆叠人声、分段录音。\n\nGood Vibrations（1966）是必听曲。对 Beatles 60 年代末录音室工作与后来 indie 迷幻的可查影响，才是尺度，而非销量比喻。"
+    "en": "The Beach Boys formed in California in 1961 around the Wilson brothers, Mike Love, and Al Jardine. Early Capitol singles such as Surfin’ U.S.A. (1963) used surf themes, stacked vocals, and Chuck Berry–derived guitar figures.\n\nPet Sounds (1966) and Good Vibrations used session players, French horn, electro-theremin, bicycle bells, and sections recorded across multiple studios. The unfinished Smile sessions followed. Brian stepped back from touring after 1964; his densest studio period is roughly 1965–67.",
+    "zh": "The Beach Boys 于 1961 年在加州成立，核心为 Wilson 兄弟、Mike Love 与 Al Jardine。早期 Capitol 单曲如 Surfin’ U.S.A.（1963）使用冲浪题材、堆叠人声，以及源自 Chuck Berry 的吉他音型。\n\nPet Sounds（1966）与 Good Vibrations 使用 session 乐手、法国号、electro-theremin、自行车铃，并跨多家录音室分段录制。随后是未完成的 Smile 录音。Brian 于 1964 后退出现场巡演；录音室最密的时期约在 1965–67。"
   },
   "scenes": [
     {
@@ -99,8 +99,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Early surf-rock; Chuck Berry riff rewrite on stack vocals.",
-        "zh": "早期 surf-rock；Chuck Berry riff 改写加堆叠人声。"
+        "en": "Early surf single. Chuck Berry–style guitar figure under stacked vocals.",
+        "zh": "早期冲浪单曲。Chuck Berry 式吉他音型加堆叠人声。"
       }
     },
     {
@@ -119,8 +119,8 @@
       ],
       "intensity": 1,
       "note": {
-        "en": "Pet Sounds; layered vocals and French horn in modular studio take.",
-        "zh": "Pet Sounds；多层人声与法国号，模块化录音室 take。"
+        "en": "From Pet Sounds. Layered vocals and French horn.",
+        "zh": "出自 Pet Sounds。多层人声与法国号。"
       }
     },
     {
@@ -139,8 +139,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Modular single; theremin hook and sectional edits as production method.",
-        "zh": "模块化单曲；theremin hook 与分段剪辑作为制作方法。"
+        "en": "Capitol single. Sections recorded in multiple studios; electro-theremin hook.",
+        "zh": "Capitol 单曲。多录音室分段录制；electro-theremin hook。"
       }
     }
   ],
@@ -148,12 +148,12 @@
     {
       "id": "thesis",
       "title": {
-        "en": "Studio as instrument on Pet Sounds",
-        "zh": "Pet Sounds：录音室即乐器"
+        "en": "Pet Sounds and Good Vibrations",
+        "zh": "Pet Sounds 与 Good Vibrations"
       },
       "body": {
-        "en": "Pet Sounds (1966) moves from surf singles to modular arrangement: Wouldn't It Be Nice, God Only Knows, stacked Wilson vocals, session players beside the band.\n\nGood Vibrations assembles sections recorded across studios—theremin lead, cello, vocal overlays. Brian Wilson's production is the cited object.",
-        "zh": "Pet Sounds（1966）从 surf 单曲转向模块化编曲：Wouldn't It Be Nice、God Only Knows、Wilson 堆叠人声、乐队外的 session 乐手。\n\nGood Vibrations 跨录音室组装段落——theremin 主奏、大提琴、人声叠层。Brian Wilson 的制作是被引对象。"
+        "en": "Pet Sounds (1966) moved from surf singles to denser arrangement: Wouldn’t It Be Nice, God Only Knows, stacked Wilson vocals, and Los Angeles session players beside the band.\n\nGood Vibrations assembled sections recorded across studios—electro-theremin, cello, vocal overlays. Brian Wilson’s production methods are the documented focus of that year.",
+        "zh": "Pet Sounds（1966）从冲浪单曲转向更密的编曲：Wouldn’t It Be Nice、God Only Knows、Wilson 堆叠人声，以及乐队外的洛杉矶 session 乐手。\n\nGood Vibrations 跨录音室组装段落——electro-theremin、大提琴、人声叠层。Brian Wilson 的制作方法是该年有文献可查的重点。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "psychedelic"
@@ -161,12 +161,12 @@
     {
       "id": "lineup",
       "title": {
-        "en": "Wilson brothers plus Love/Jardine",
-        "zh": "Wilson 兄弟加 Love/Jardine"
+        "en": "Wilson brothers plus Love and Jardine",
+        "zh": "Wilson 兄弟加 Love 与 Jardine"
       },
       "body": {
-        "en": "Brian, Carl, and Dennis Wilson are the core; Mike Love and Al Jardine share lead vocals on tour and record. Brian retreats from live stage after 1964; studio peak is 1965–67.\n\nSmile sessions fracture the timeline; Pet Sounds and Good Vibrations remain the citation peak before Brian's withdrawal.",
-        "zh": "Brian、Carl、Dennis Wilson 是核心；Mike Love 与 Al Jardine 分担巡演与录音主唱。Brian 1964 后退出现场；录音室峰值在 1965–67。\n\nSmile 录音撕裂时间线；Pet Sounds 与 Good Vibrations 仍是 Brian 退出前的引用峰值。"
+        "en": "Brian, Carl, and Dennis Wilson formed the family core; Mike Love and Al Jardine shared lead vocals on tour and record. Brian stopped regular live work after 1964; the studio peak is 1965–67.\n\nThe Smile sessions stalled. Pet Sounds and Good Vibrations remain the clearest completed work from that stretch before Brian’s withdrawal from daily band leadership.",
+        "zh": "Brian、Carl、Dennis Wilson 是家庭核心；Mike Love 与 Al Jardine 分担巡演与录音主唱。Brian 于 1964 年后不再常驻现场；录音室高峰在 1965–67。\n\nSmile 录音中止。Pet Sounds 与 Good Vibrations 仍是 Brian 退出日常主导前，该阶段最完整的完成作品。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "rock-n-roll"
@@ -174,12 +174,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Harmony production in late-60s rock",
-        "zh": "60 年代末摇滚里的和声制作"
+        "en": "Studio influence in the late 1960s",
+        "zh": "1960 年代末的录音室影响"
       },
       "body": {
-        "en": "The Beatles' Revolver and Sgt. Pepper sessions document cross-influence with Pet Sounds. Pink Floyd's studio psych inherits the sectional method.\n\nChuck Berry riffs sit in early surf singles; the durable export is stacked vocal arrangement and modular editing—not beach imagery alone.",
-        "zh": "Beatles 的 Revolver 与 Sgt. Pepper 录音室文献记录与 Pet Sounds 的交叉影响。Pink Floyd 录音室 psych 继承分段方法。\n\nChuck Berry riff 在早期 surf 单曲里； durable 输出是堆叠和声编排与模块化剪辑——不只海滩意象。"
+        "en": "The Beatles’ Revolver and Sgt. Pepper sessions document cross-listening with Pet Sounds. Later studio psychedelic acts, including Pink Floyd, used sectional recording and stacked vocals in related ways.\n\nEarly surf singles still carry Chuck Berry–style guitar figures; the lasting production traits are stacked harmony and multi-studio editing.",
+        "zh": "Beatles 的 Revolver 与 Sgt. Pepper 录音记录了与 Pet Sounds 的交叉聆听。后来的录音室迷幻乐队（包括 Pink Floyd）以相近方式使用分段录音与堆叠人声。\n\n早期冲浪单曲仍带 Chuck Berry 式吉他音型；更持久的制作特征是堆叠和声与跨录音室剪辑。"
       },
       "stickyVisual": "influence",
       "soundGenre": "psychedelic"
@@ -191,8 +191,8 @@
         "zh": "Surfin' U.S.A."
       },
       "body": {
-        "en": "Early surf-rock; Chuck Berry riff rewrite on stack vocals.",
-        "zh": "早期 surf-rock；Chuck Berry riff 改写加堆叠人声。"
+        "en": "1963 Capitol single. Surf lyric over a Chuck Berry–derived guitar figure and stacked group vocals.",
+        "zh": "1963 年 Capitol 单曲。冲浪歌词，配合源自 Chuck Berry 的吉他音型与堆叠和声。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -205,8 +205,8 @@
         "zh": "God Only Knows"
       },
       "body": {
-        "en": "Pet Sounds; layered vocals and French horn in modular studio take.",
-        "zh": "Pet Sounds；多层人声与法国号，模块化录音室 take。"
+        "en": "Pet Sounds track (1966). Layered vocals and French horn in Brian Wilson’s studio arrangement.",
+        "zh": "Pet Sounds 曲目（1966）。Brian Wilson 录音室编曲中的多层人声与法国号。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -219,8 +219,8 @@
         "zh": "Good Vibrations"
       },
       "body": {
-        "en": "Modular single; theremin hook and sectional edits as production method.",
-        "zh": "模块化单曲；theremin hook 与分段剪辑作为制作方法。"
+        "en": "1966 Capitol single. Sections recorded in multiple studios and edited together; electro-theremin carries the main hook.",
+        "zh": "1966 年 Capitol 单曲。多录音室分段录制后剪辑合成；electro-theremin 承担主 hook。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -274,8 +274,8 @@
         }
       ],
       "note": {
-        "en": "Brian studio auteur era; harmonic ceilings for pop.",
-        "zh": "Brian 录音室作者期；流行和声天花板。"
+        "en": "Brian-led studio years around Pet Sounds, Good Vibrations, and the Smile sessions.",
+        "zh": "Brian 主导的录音室时期：Pet Sounds、Good Vibrations 与 Smile 录音前后。"
       }
     }
   ],
@@ -284,8 +284,8 @@
       "title": "Good Vibrations",
       "year": 1966,
       "note": {
-        "en": "Modular sections + electro-theremin as pop studio summit.",
-        "zh": "模块段落 + electro-theremin，流行录音室顶点。"
+        "en": "Multi-studio sectional single with electro-theremin hook.",
+        "zh": "多录音室分段单曲，含 electro-theremin hook。"
       }
     },
     "pioneeredGenres": [
@@ -293,8 +293,8 @@
       "psychedelic"
     ],
     "note": {
-      "en": "California harmony pop into psychedelic studio craft.",
-      "zh": "加州和声流行进入迷幻录音室工艺。"
+      "en": "California harmony pop into dense 1966 studio arrangement.",
+      "zh": "加州和声流行进入 1966 年密集录音室编曲。"
     }
   }
 }

@@ -10,8 +10,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "New York makeup hard-rock/metal: Rock and Roll All Nite (1975) as chant anthem, Alive! as live-document sales model; I Was Made for Lovin' You (1979) adds disco-tempo crossover without dropping the brand spectacle.",
-    "zh": "纽约化妆 hard-rock/metal：Rock and Roll All Nite（1975）作口号颂歌，Alive! 作现场文献销量模型；I Was Made for Lovin' You（1979）加 disco 速度跨界，不丢品牌视觉秀。"
+    "en": "New York makeup hard rock/metal. Rock and Roll All Nite (1975) as chant anthem; Alive! as a live-album sales peak; I Was Made for Lovin' You (1979) adds disco-tempo crossover while keeping the stage look.",
+    "zh": "纽约化妆 hard rock/metal。《Rock and Roll All Nite》（1975）作口号颂歌；《Alive!》作现场专辑销量高峰；《I Was Made for Lovin' You》（1979）加入 disco 速度跨界，同时保留舞台形象。"
   },
   "members": [
     {
@@ -73,12 +73,12 @@
     "van-halen"
   ],
   "shortBio": {
-    "en": "NY makeup hard-rock/metal; Rock and Roll All Nite chant, Alive! live model, Lovin' You disco-tempo hit.",
-    "zh": "纽约化妆 hard-rock/metal；Rock and Roll All Nite 口号、Alive! 现场模型、Lovin' You disco 速度热单。"
+    "en": "NY makeup hard rock/metal; Rock and Roll All Nite chant, Alive! live peak, Lovin' You disco-tempo hit.",
+    "zh": "纽约化妆 hard rock/metal；《Rock and Roll All Nite》口号、《Alive!》现场高峰、《Lovin' You》disco 速度热单。"
   },
   "body": {
-    "en": "Formed 1973 from Wicked Lester remnants (Stanley/Simmons) with Frehley and Criss. Dressed To Kill and Alive! (1975) sell three-chord hard-rock plus pyrotechnic stage craft—Rock and Roll All Nite is the chant template. Destroyer (1976, Bob Ezrin) adds Detroit Rock City and Beth ballad.\n\nDynasty (1979) pushes I Was Made for Lovin' You: four-on-the-floor tempo, Vinnie Vincent-era later changes aside, classic four faces remain the brand ID. Makeup-off 1980s Lick It Up era still rides the same riff/chant grammar.",
-    "zh": "1973 年由 Wicked Lester 残余（Stanley/Simmons）加 Frehley、Criss 组建。Dressed To Kill 与 Alive!（1975）卖三和弦 hard-rock 加烟火舞台——Rock and Roll All Nite 是口号模板。Destroyer（1976，Bob Ezrin）加入 Detroit Rock City 与 Beth 谣曲。\n\nDynasty（1979）推出 I Was Made for Lovin' You：四拍底鼓速度；后期阵容变化另论，经典四张脸仍是品牌 ID。80 年代卸妆 Lick It Up 期仍骑同一 riff/口号语法。"
+    "en": "Kiss formed in 1973 from Wicked Lester remnants (Stanley/Simmons) with Frehley and Criss. Dressed To Kill and Alive! (1975) sell three-chord hard rock plus pyrotechnic stage craft—Rock and Roll All Nite is the chant chorus. Destroyer (1976, Bob Ezrin) adds Detroit Rock City and the ballad Beth.\n\nDynasty (1979) pushes I Was Made for Lovin' You: four-on-the-floor tempo. Later lineup changes aside, the classic four faces remain the public image. The makeup-off 1980s Lick It Up era still uses similar riff and chant writing.",
+    "zh": "Kiss 于 1973 年由 Wicked Lester 残余（Stanley/Simmons）加 Frehley、Criss 组建。《Dressed To Kill》与《Alive!》（1975）卖三和弦 hard rock 加烟火舞台——《Rock and Roll All Nite》是口号副歌。《Destroyer》（1976，Bob Ezrin）加入《Detroit Rock City》与谣曲《Beth》。\n\n《Dynasty》（1979）推出《I Was Made for Lovin' You》：四拍底鼓速度。后期阵容变化另论，经典四张脸仍是公众形象。80 年代卸妆《Lick It Up》期仍使用相近的 riff 与口号写法。"
   },
   "scenes": [
     {
@@ -96,8 +96,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Chant chorus hard-rock anthem; Alive! live document peak.",
-        "zh": "口号副歌 hard-rock 颂歌；Alive! 现场文献巅峰。"
+        "en": "Chant-chorus hard-rock anthem; peak live document on Alive!.",
+        "zh": "口号副歌 hard-rock 颂歌；《Alive!》现场文献高峰。"
       }
     },
     {
@@ -115,8 +115,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Destroyer opener energy; Ezrin production hard-rock narrative.",
-        "zh": "Destroyer 开场能量；Ezrin 制作 hard-rock 叙事。"
+        "en": "Destroyer opener; Bob Ezrin production.",
+        "zh": "《Destroyer》开场曲；Bob Ezrin 制作。"
       }
     },
     {
@@ -133,8 +133,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Disco four-on-floor tempo + Kiss brand vocal; Dynasty crossover.",
-        "zh": "Disco 四拍底鼓速度 + Kiss 品牌人声；Dynasty 跨界。"
+        "en": "Disco four-on-the-floor tempo on Dynasty; Stanley lead vocal.",
+        "zh": "《Dynasty》上的 disco 四拍底鼓速度；Stanley 主唱。"
       }
     }
   ],
@@ -142,12 +142,12 @@
     {
       "id": "thesis",
       "title": {
-        "en": "Spectacle as hard-rock product",
-        "zh": "视觉秀作为 hard-rock 产品"
+        "en": "Stage look and three-chord songs",
+        "zh": "舞台形象与三和弦歌曲"
       },
       "body": {
-        "en": "Kiss treat makeup, boots, and pyro as equal to the riff. Songwriting stays three-chord hard-rock/early metal with Stanley/Simmons hooks.\n\nAlive! proves the live album can outsell studio polish for this brand.\n\nI Was Made for Lovin' You shows chart tempo flexibility without dropping the faces.",
-        "zh": "Kiss 把化妆、厚底靴与烟火当作与 riff 同级产品。写作保持三和弦 hard-rock/早期金属 + Stanley/Simmons 钩子。\n\nAlive! 证明对这品牌而言，现场专辑可压过录音室抛光。\n\nI Was Made for Lovin' You 显示榜单速度弹性，不丢脸谱。"
+        "en": "Kiss treat makeup, boots, and pyro as equal parts of the show. Songwriting stays three-chord hard rock/early metal with Stanley/Simmons hooks.\n\nAlive! (1975) outsold several studio albums for this band.\n\nI Was Made for Lovin' You shows chart-tempo flexibility without dropping the faces.",
+        "zh": "Kiss 把化妆、厚底靴与烟火当作演出的同等部分。写作保持三和弦 hard rock/早期金属 + Stanley/Simmons 钩子。\n\n《Alive!》（1975）对这支乐队而言销量超过多张录音室专辑。\n\n《I Was Made for Lovin' You》显示榜单速度弹性，同时保留脸谱。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "hard-rock"
@@ -159,8 +159,8 @@
         "zh": "原班四张脸"
       },
       "body": {
-        "en": "Stanley, Simmons, Frehley, Criss define 1973–1980 peak. Criss exits; Frehley exits early 80s; Vinnie Vincent and others rotate.\n\n1996 reunion restores classic makeup four for tours.\n\nBrand continuity outranks any single guitarist era.",
-        "zh": "Stanley、Simmons、Frehley、Criss 定义 1973–1980 巅峰。Criss 离队；Frehley 80 年代初离队；Vinnie Vincent 等轮换。\n\n1996 重聚恢复经典化妆四人巡演。\n\n品牌连续性强过任何单一吉他手时期。"
+        "en": "Stanley, Simmons, Frehley, and Criss define 1973–1980 peak. Criss exits; Frehley exits in the early 80s; Vinnie Vincent and others rotate.\n\n1996 reunion restores the classic makeup four for tours.\n\nPublic recognition of the four faces often outranks any single guitarist era.",
+        "zh": "Stanley、Simmons、Frehley、Criss 定义 1973–1980 巅峰。Criss 离队；Frehley 80 年代初离队；Vinnie Vincent 等轮换。\n\n1996 重聚恢复经典化妆四人巡演。\n\n四张脸的公众辨识度常强过任何单一吉他手时期。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "heavy-metal"
@@ -168,12 +168,12 @@
     {
       "id": "influence",
       "title": {
-        "en": "Arena chant and glam-metal debt",
-        "zh": "体育场口号与 glam-metal 债务"
+        "en": "Arena chant and glam hard rock",
+        "zh": "体育场口号与 glam hard rock"
       },
       "body": {
-        "en": "80s glam/hard-rock acts copy the merchandise-plus-riff model. Metallica and others cite early Kiss as entry hard-rock/metal.\n\nRock and Roll All Nite remains a chant-structure teaching track.\n\nInfluence is showcraft and simplicity, not progressive technique.",
-        "zh": "80 年代 glam/hard-rock 乐队复制周边+riff 模型。Metallica 等引早期 Kiss 作入门 hard-rock/metal。\n\nRock and Roll All Nite 仍是口号结构教材曲。\n\n影响在秀与简洁，非 progressive 技术。"
+        "en": "1980s glam/hard-rock acts copy the merch-plus-riff approach. Metallica and others cite early Kiss as entry hard rock/metal.\n\nRock and Roll All Nite remains a clear chant-structure reference.\n\nInfluence is showcraft and simplicity, not progressive technique.",
+        "zh": "80 年代 glam/hard-rock 乐队复制周边加 riff 的做法。Metallica 等引早期 Kiss 作入门 hard rock/metal。\n\n《Rock and Roll All Nite》仍是清楚的口号结构参照。\n\n影响在秀与简洁，而非 progressive 技术。"
       },
       "stickyVisual": "influence",
       "soundGenre": "heavy-metal"
@@ -182,11 +182,11 @@
       "id": "scene-0",
       "title": {
         "en": "Rock and Roll All Nite",
-        "zh": "Rock and Roll All Nite"
+        "zh": "《Rock and Roll All Nite》"
       },
       "body": {
-        "en": "Chant chorus hard-rock anthem; Alive! live document peak.",
-        "zh": "口号副歌 hard-rock 颂歌；Alive! 现场文献巅峰。"
+        "en": "Chant-chorus hard-rock anthem from Dressed To Kill / Alive!.\n\nThe live version on Alive! is the best-known document of the song.",
+        "zh": "出自《Dressed To Kill》/《Alive!》的口号副歌 hard-rock 颂歌。\n\n《Alive!》现场版是这首歌最知名的文献。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -196,11 +196,11 @@
       "id": "scene-1",
       "title": {
         "en": "Detroit Rock City",
-        "zh": "Detroit Rock City"
+        "zh": "《Detroit Rock City》"
       },
       "body": {
-        "en": "Destroyer opener energy; Ezrin production hard-rock narrative.",
-        "zh": "Destroyer 开场能量；Ezrin 制作 hard-rock 叙事。"
+        "en": "Opener on Destroyer (1976). Bob Ezrin production; narrative lyric about a drive to a show.",
+        "zh": "《Destroyer》（1976）开场曲。Bob Ezrin 制作；歌词写驾车赶场。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -210,11 +210,11 @@
       "id": "scene-2",
       "title": {
         "en": "I Was Made for Lovin' You",
-        "zh": "I Was Made for Lovin' You"
+        "zh": "《I Was Made for Lovin' You》"
       },
       "body": {
-        "en": "Disco four-on-floor tempo + Kiss brand vocal; Dynasty crossover.",
-        "zh": "Disco 四拍底鼓速度 + Kiss 品牌人声；Dynasty 跨界。"
+        "en": "Dynasty (1979) crossover single: disco four-on-the-floor tempo with Kiss lead vocal and stage look intact.",
+        "zh": "《Dynasty》（1979）跨界单曲：disco 四拍底鼓速度，Kiss 主唱与舞台形象仍在。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -264,7 +264,7 @@
       ],
       "note": {
         "en": "Alive! / Destroyer / Dynasty; makeup hard-rock/metal peak.",
-        "zh": "Alive! / Destroyer / Dynasty；化妆 hard-rock/metal 巅峰。"
+        "zh": "《Alive!》/《Destroyer》/《Dynasty》；化妆 hard-rock/metal 巅峰。"
       }
     }
   ],
@@ -273,8 +273,8 @@
       "title": "Rock and Roll All Nite",
       "year": 1975,
       "note": {
-        "en": "Chant chorus as 70s hard-rock arena template.",
-        "zh": "口号副歌，作 70 年代 hard-rock 体育场模板。"
+        "en": "Chant chorus; 1970s hard-rock arena reference.",
+        "zh": "口号副歌；70 年代 hard-rock 体育场参照曲。"
       }
     },
     "pioneeredGenres": [
@@ -282,8 +282,8 @@
       "heavy-metal"
     ],
     "note": {
-      "en": "Spectacle + three-chord riffs; Alive! as live-sales model.",
-      "zh": "视觉秀 + 三和弦 riff；Alive! 作现场销量模型。"
+      "en": "Stage spectacle plus three-chord riffs; Alive! as live-sales peak.",
+      "zh": "舞台视觉秀加三和弦 riff；《Alive!》作现场销量高峰。"
     }
   }
 }

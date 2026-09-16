@@ -10,8 +10,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Wigan band that put string loops, Nick McCabe’s guitar wash, and Richard Ashcroft’s baritone on late-Britpop stadium scale—Urban Hymns (1997) and Bitter Sweet Symphony are the melancholic chart peak (and sampling-rights case study).",
-    "zh": "威根乐队：把弦乐循环、Nick McCabe 吉他铺底与 Richard Ashcroft 男中音推上后 Britpop 体育场体量——Urban Hymns（1997）与 Bitter Sweet Symphony 是忧郁榜单峰值（亦是采样版权案例）。"
+    "en": "Wigan band formed in 1990. Urban Hymns (1997) put string loops, Nick McCabe’s guitar wash, and Richard Ashcroft’s baritone on late-Britpop chart scale; Bitter Sweet Symphony is the key single and a well-known sampling-rights case.",
+    "zh": "威根乐队，1990 年成立。《Urban Hymns》（1997）把弦乐循环、Nick McCabe 吉他铺底与 Richard Ashcroft 男中音推上晚期 Britpop 榜单体量；《Bitter Sweet Symphony》是关键单曲，也是知名采样版权案例。"
   },
   "members": [
     {
@@ -67,12 +67,12 @@
   ],
   "influenced": [],
   "shortBio": {
-    "en": "Ashcroft / McCabe psych-Britpop; Urban Hymns the 1997 peak, Bitter Sweet Symphony the sample-era hit.",
-    "zh": "Ashcroft / McCabe 迷幻 Britpop；Urban Hymns 是 1997 峰值，Bitter Sweet Symphony 是采样时代热单。"
+    "en": "Ashcroft / McCabe psych-Britpop. Urban Hymns is the 1997 peak; Bitter Sweet Symphony is the sample-era hit.",
+    "zh": "Ashcroft / McCabe 迷幻 Britpop。《Urban Hymns》是 1997 巅峰；《Bitter Sweet Symphony》是采样时代热单。"
   },
   "body": {
-    "en": "Formed 1990 in Wigan. A Storm in Heaven (1993) and A Northern Soul (1995) built space-rock length with McCabe’s tremolo wash. Split/reunion delivered Urban Hymns (1997)—orchestral samples, mid-tempo maximalism, Ashcroft’s baritone upfront.\n\nBitter Sweet Symphony (1997) is the essential track and ABKCO sampling dispute document. The Drugs Don't Work and Lucky Man closed Britpop’s commercial arc with melancholic balladry.",
-    "zh": "1990 年于威根组建。A Storm in Heaven（1993）与 A Northern Soul（1995）以 McCabe tremolo 铺底建立 space-rock 时长。分裂/重组后交出 Urban Hymns（1997）——管弦采样、中速最大化、Ashcroft 男中音前置。\n\nBitter Sweet Symphony（1997）是必听与 ABKCO 采样纠纷文献。The Drugs Don't Work 与 Lucky Man 以忧郁抒情收束 Britpop 商业弧线。"
+    "en": "The Verve formed in Wigan in 1990. A Storm in Heaven (1993) and A Northern Soul (1995) built long space-rock forms with McCabe’s tremolo wash. After a split and reunion, Urban Hymns (1997) used orchestral samples, mid-tempo arrangements, and Ashcroft’s baritone up front.\n\nBitter Sweet Symphony (1997) is the essential track and an ABKCO sampling dispute document. The Drugs Don't Work reached UK #1; Lucky Man followed as another Urban Hymns single. Hut Records released the peak albums.",
+    "zh": "The Verve 于 1990 年在威根成立。《A Storm in Heaven》（1993）与《A Northern Soul》（1995）以 McCabe tremolo 铺底建立长篇 space-rock。分裂/重组后推出《Urban Hymns》（1997）——管弦采样、中速编曲、Ashcroft 男中音前置。\n\n《Bitter Sweet Symphony》（1997）是必听曲目，也是 ABKCO 采样纠纷文献。《The Drugs Don't Work》登上英国榜冠军；《Lucky Man》同为《Urban Hymns》单曲。巅峰专辑由 Hut Records 发行。"
   },
   "scenes": [
     {
@@ -90,8 +90,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "A Storm in Heaven epics; McCabe tremolo wash, long-form space rock.",
-        "zh": "A Storm in Heaven 史诗；McCabe tremolo 铺底、长篇 space rock。"
+        "en": "A Storm in Heaven–era track; McCabe tremolo wash, long-form space rock.",
+        "zh": "《A Storm in Heaven》时期曲目；McCabe tremolo 铺底、长篇 space rock。"
       }
     },
     {
@@ -109,8 +109,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Andrew Loog Oldham string sample; ABKCO rights dispute, UK No. 2.",
-        "zh": "Andrew Loog Oldham 弦乐采样；ABKCO 版权纠纷，英国榜第 2。"
+        "en": "Andrew Loog Oldham string sample; ABKCO rights dispute; UK No. 2.",
+        "zh": "Andrew Loog Oldham 弦乐采样；ABKCO 版权纠纷；英国榜第 2。"
       }
     },
     {
@@ -128,8 +128,8 @@
       ],
       "intensity": 1,
       "note": {
-        "en": "Piano ballad on Urban Hymns; Ashcroft mortality lyric, UK No. 1.",
-        "zh": "Urban Hymns 钢琴抒情；Ashcroft 死亡主题歌词，英国榜第 1。"
+        "en": "Piano ballad on Urban Hymns; Ashcroft mortality lyric; UK No. 1.",
+        "zh": "《Urban Hymns》钢琴抒情；Ashcroft 死亡主题歌词；英国榜第 1。"
       }
     }
   ],
@@ -137,12 +137,12 @@
     {
       "id": "thesis",
       "title": {
-        "en": "Space rock to orchestral Britpop peak",
-        "zh": "Space rock 到管弦 Britpop 峰值"
+        "en": "Space rock to Urban Hymns",
+        "zh": "从 space rock 到 Urban Hymns"
       },
       "body": {
-        "en": "Early catalog runs long—Slide Away, A Northern Soul epics with McCabe’s wet guitar. Urban Hymns compresses the same melancholy into radio length with string loops and piano ballads.\n\nBitter Sweet Symphony’s Oldham sample is production fact and legal footnote.",
-        "zh": "早期目录偏长——Slide Away、A Northern Soul 史诗配 McCabe 湿吉他。Urban Hymns 把同一忧郁压进电台长度，加弦乐循环与钢琴抒情。\n\nBitter Sweet Symphony 的 Oldham 采样是制作事实与法律脚注。"
+        "en": "Early catalog runs long—Slide Away and A Northern Soul tracks with McCabe’s wet guitar. Urban Hymns compresses similar melancholy into radio length with string loops and piano ballads.\n\nBitter Sweet Symphony’s Oldham sample is both a production fact and a legal footnote.",
+        "zh": "早期目录偏长——《Slide Away》与《A Northern Soul》曲目配 McCabe 湿吉他。《Urban Hymns》把相近的忧郁压进电台长度，加弦乐循环与钢琴抒情。\n\n《Bitter Sweet Symphony》的 Oldham 采样既是制作事实，也是法律脚注。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "britpop"
@@ -154,8 +154,8 @@
         "zh": "McCabe 离队与 Urban Hymns 重组"
       },
       "body": {
-        "en": "Classic four: Ashcroft vocal, McCabe guitar wash, Jones bass, Salisbury drums. McCabe leaves 1995; returns for Urban Hymns sessions after Ashcroft/Jones/Salisbury trio gap.\n\n2007–2008 brief reunion restores the four names before final split.",
-        "zh": "经典四人：Ashcroft 人声、McCabe 吉他铺底、Jones 贝斯、Salisbury 鼓。McCabe 1995 年离队；Ashcroft/Jones/Salisbury 三人空窗后为 Urban Hymns 回归。\n\n2007–2008 短暂重聚恢复四人名后最终分裂。"
+        "en": "Classic four: Ashcroft vocal, McCabe guitar wash, Jones bass, Salisbury drums. McCabe leaves in 1995; returns for Urban Hymns after an Ashcroft/Jones/Salisbury gap. Simon Tong joins guitar/keys on the peak five-piece.\n\n2007–2008 brief reunion restores the four names before a final split.",
+        "zh": "经典四人：Ashcroft 人声、McCabe 吉他铺底、Jones 贝斯、Salisbury 鼓。McCabe 于 1995 年离队；Ashcroft/Jones/Salisbury 空窗后为《Urban Hymns》回归。Simon Tong 在巅峰五人组中加入吉他/键盘。\n\n2007–2008 短暂重聚恢复四人名后最终分裂。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "alternative"
@@ -163,12 +163,12 @@
     {
       "id": "influence",
       "title": {
-        "en": "Melancholic Britpop close and Coldplay ballad debt",
-        "zh": "忧郁 Britpop 收束与 Coldplay 抒情债"
+        "en": "Late Britpop and later ballad writing",
+        "zh": "晚期 Britpop 与后来的抒情写法"
       },
       "body": {
-        "en": "Urban Hymns closes Britpop’s 1997 commercial peak with mid-tempo strings and mortality lyrics—not Oasis laddish anthems. Coldplay’s early piano ballad lane cites this Ashcroft/McCabe template.\n\nBitter Sweet Symphony remains a sampling-rights textbook alongside chart history.",
-        "zh": "Urban Hymns 以中速弦乐与死亡主题歌词收束 Britpop 1997 商业峰值——非 Oasis 兄弟颂歌。Coldplay 早期钢琴抒情车道引用此 Ashcroft/McCabe 模板。\n\nBitter Sweet Symphony 仍是采样版权教科书，并列榜单史。"
+        "en": "Urban Hymns marks Britpop’s 1997 commercial peak with mid-tempo strings and mortality lyrics, distinct from Oasis-style laddish anthems. Early Coldplay piano ballads are often compared to this Ashcroft/McCabe approach.\n\nBitter Sweet Symphony remains a sampling-rights case study beside its chart history.",
+        "zh": "《Urban Hymns》以中速弦乐与死亡主题歌词标记 Britpop 1997 商业高峰，有别于 Oasis 式兄弟会颂歌。Coldplay 早期钢琴抒情常被拿来与这套 Ashcroft/McCabe 写法对照。\n\n《Bitter Sweet Symphony》在榜单史之外，仍是采样版权案例。"
       },
       "stickyVisual": "influence",
       "soundGenre": "britpop"
@@ -177,11 +177,11 @@
       "id": "scene-0",
       "title": {
         "en": "Slide Away",
-        "zh": "Slide Away"
+        "zh": "《Slide Away》"
       },
       "body": {
-        "en": "A Storm in Heaven epics; McCabe tremolo wash, long-form space rock.",
-        "zh": "A Storm in Heaven 史诗；McCabe tremolo 铺底、长篇 space rock。"
+        "en": "A Storm in Heaven–era track; McCabe tremolo wash, long-form space rock.",
+        "zh": "《A Storm in Heaven》时期曲目；McCabe tremolo 铺底、长篇 space rock。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -191,11 +191,11 @@
       "id": "scene-1",
       "title": {
         "en": "Bitter Sweet Symphony",
-        "zh": "Bitter Sweet Symphony"
+        "zh": "《Bitter Sweet Symphony》"
       },
       "body": {
-        "en": "Andrew Loog Oldham string sample; ABKCO rights dispute, UK No. 2.",
-        "zh": "Andrew Loog Oldham 弦乐采样；ABKCO 版权纠纷，英国榜第 2。"
+        "en": "Andrew Loog Oldham string sample; ABKCO rights dispute; UK No. 2.",
+        "zh": "Andrew Loog Oldham 弦乐采样；ABKCO 版权纠纷；英国榜第 2。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -205,11 +205,11 @@
       "id": "scene-2",
       "title": {
         "en": "The Drugs Don't Work",
-        "zh": "The Drugs Don't Work"
+        "zh": "《The Drugs Don't Work》"
       },
       "body": {
-        "en": "Piano ballad on Urban Hymns; Ashcroft mortality lyric, UK No. 1.",
-        "zh": "Urban Hymns 钢琴抒情；Ashcroft 死亡主题歌词，英国榜第 1。"
+        "en": "Piano ballad on Urban Hymns; Ashcroft mortality lyric; UK No. 1.",
+        "zh": "《Urban Hymns》钢琴抒情；Ashcroft 死亡主题歌词；英国榜第 1。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -262,8 +262,8 @@
         }
       ],
       "note": {
-        "en": "McCabe wash + Ashcroft baritone; Britpop’s psychedelic wing.",
-        "zh": "McCabe 冲刷 + Ashcroft 男中音；Britpop 迷幻翼。"
+        "en": "McCabe wash and Ashcroft baritone; Urban Hymns peak five-piece.",
+        "zh": "McCabe 铺底与 Ashcroft 男中音；《Urban Hymns》巅峰五人组。"
       }
     }
   ],
@@ -272,8 +272,8 @@
       "title": "Bitter Sweet Symphony",
       "year": 1997,
       "note": {
-        "en": "Orchestral loop + strut vocal as late-Britpop monument.",
-        "zh": "管弦 loop + 踱步人声，晚期 Britpop 纪念碑。"
+        "en": "Orchestral loop and Ashcroft vocal; late-Britpop chart single.",
+        "zh": "管弦 loop 与 Ashcroft 人声；晚期 Britpop 榜单单曲。"
       }
     },
     "pioneeredGenres": [
@@ -281,8 +281,8 @@
       "alternative"
     ],
     "note": {
-      "en": "Sample litigation aside: the arrangement still teaches scale.",
-      "zh": "采样官司另说：编曲仍在教规模感。"
+      "en": "Space-rock length into mid-tempo string arrangements; sampling dispute is documented fact.",
+      "zh": "Space-rock 时长进入中速弦乐编曲；采样纠纷为有记录事实。"
     }
   }
 }

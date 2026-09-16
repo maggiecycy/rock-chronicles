@@ -9,8 +9,8 @@
     "blues"
   ],
   "whyMatters": {
-    "en": "St. Louis guitarist/writer whose Chess singles (1955–58) fixed duck-walk showmanship and double-stop guitar intros as rock’n’roll’s teaching dialect.",
-    "zh": "圣路易斯吉他手/写作者：Chess 单曲（1955–58）把鸭步表演与双音吉他前奏定为摇滚教学方言。"
+    "en": "St. Louis guitarist and songwriter. Chess Records singles from 1955–58 set lasting models for rock’n’roll guitar intros, narrative lyrics, and stage showmanship including the duck walk.",
+    "zh": "圣路易斯吉他手与词曲作者。1955–58 年 Chess Records 单曲确立了摇滚吉他前奏、叙事歌词与舞台表演（含鸭步）的长期写法。"
   },
   "members": [
     {
@@ -45,8 +45,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Double-stop intro everyone learns.",
-        "zh": "人人会弹的双音前奏。"
+        "en": "1955 Chess debut hit; car-chase lyric over a country/R&B hybrid beat.",
+        "zh": "1955 年 Chess 出道热单；追车叙事歌词，节拍融合乡村与 R&B。"
       }
     },
     {
@@ -61,8 +61,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "1955 car-chase narrative breakthrough.",
-        "zh": "1955 追车叙事突破。"
+        "en": "1958 Chess single; double-stop guitar intro and lyric about a guitar kid from Louisiana.",
+        "zh": "1958 年 Chess 单曲；双音吉他前奏，歌词写路易斯安那的吉他少年。"
       }
     }
   ],
@@ -95,24 +95,24 @@
     "the-rolling-stones"
   ],
   "shortBio": {
-    "en": "Berry rock’n’roll; Johnny B. Goode is the guitar-hero syllabus.",
-    "zh": "Berry 摇滚；Johnny B. Goode 是吉他英雄教学大纲。"
+    "en": "St. Louis rock’n’roll, Chess Records, 1955–. Maybellene, Roll Over Beethoven, and Johnny B. Goode are the core reference singles.",
+    "zh": "圣路易斯摇滚，Chess Records，1955 年起。《Maybellene》、《Roll Over Beethoven》与《Johnny B. Goode》是主要参照单曲。"
   },
   "decisive": true,
   "body": {
-    "en": "Chess Records run: Maybellene, Roll Over Beethoven, Johnny B. Goode—narrative lyrics about cars, youth, and guitar ambition over Johnny Johnson piano and driving backbeats.\n\nJohnny B. Goode (1958) is the eternal intro riff. Beatles, Stones, and garage bands learn the dialect from these 45s.",
-    "zh": "Chess 厂牌系列：Maybellene、Roll Over Beethoven、Johnny B. Goode——汽车、青年与吉他野心叙事歌词，叠 Johnny Johnson 钢琴与驱动性后拍。\n\nJohnny B. Goode（1958）是永恒前奏 riff。Beatles、Stones 与车库乐队从这些 45 转学会方言。"
+    "en": "Chuck Berry recorded for Chess Records in Chicago from the mid-1950s. Early singles include Maybellene (1955), Roll Over Beethoven (1956), and Johnny B. Goode (1958). The songs combine storytelling verses—cars, youth, and guitar ambition—with clear guitar intros and a strong backbeat. Johnnie Johnson often played piano on the sessions.\n\nBritish beat groups and later rock bands covered these 45s widely. The double-stop intro to Johnny B. Goode remains one of the most copied guitar openings in rock.",
+    "zh": "Chuck Berry 自 1950 年代中期起在芝加哥为 Chess Records 录音。早期单曲包括《Maybellene》（1955）、《Roll Over Beethoven》（1956）和《Johnny B. Goode》（1958）。歌曲以叙事主歌（汽车、青年、吉他野心）配合清晰的吉他前奏与明确的后拍。录音中常有 Johnnie Johnson 弹钢琴。\n\n英国 beat 组合与后来的摇滚乐队大量翻唱这些 45 转单曲。《Johnny B. Goode》的双音前奏是摇滚中被模仿最多的吉他开头之一。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Guitar intro as rock curriculum",
-        "zh": "吉他前奏当摇滚课程"
+        "en": "Songwriter and guitarist",
+        "zh": "词曲作者与吉他手"
       },
       "body": {
-        "en": "Berry matters as songwriter-guitarist: verse stories + signature intros. Rock bands treat his singles as homework.\n\nShowmanship is documented; the riffs are the export.",
-        "zh": "Berry 作为词曲-吉他手要紧：主歌故事 + 标志前奏。摇滚乐队把他的单曲当作业。\n\n表演术有文献；riff 才是输出。"
+        "en": "Berry’s role in early rock’n’roll rests on two linked skills: writing short narrative verses and inventing guitar intros that other players can learn and reuse.\n\nStage moves such as the duck walk are part of the documented show. The Chess singles remain the primary source for how his writing and playing sound.",
+        "zh": "Berry 在早期摇滚中的位置建立在两项相关能力上：写短篇叙事主歌，以及写出其他乐手能学会并复用的吉他前奏。\n\n鸭步等舞台动作有表演记录可查。要听他的写法与弹法，仍以 Chess 单曲为第一手来源。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "rock-n-roll"
@@ -120,12 +120,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Johnny B. Goode: syllabus riff",
-        "zh": "Johnny B. Goode：教学大纲 riff"
+        "en": "Maybellene",
+        "zh": "《Maybellene》"
       },
       "body": {
-        "en": "Double-stop intro everyone learns; lyric about a guitar kid—meta and practical.\n\n1958 Chess clarity.",
-        "zh": "人人会弹的双音前奏；关于吉他少年的歌词——既元又实用。\n\n1958 Chess 清晰度。"
+        "en": "Maybellene (1955) was Berry’s breakthrough Chess side. The lyric follows a car chase; the groove sits between country and R&B.\n\nIt established him as a writer of verse stories over a danceable rock’n’roll beat, not only as a guitar showman.",
+        "zh": "《Maybellene》（1955）是 Berry 在 Chess 的突破单曲。歌词写追车；节奏介于乡村与 R&B 之间。\n\n这首歌确立了他作为叙事词曲作者的位置：在可跳舞的摇滚节拍上讲故事，而不只是吉他表演。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -134,12 +134,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Maybellene: car-chase narrative single",
-        "zh": "Maybellene：追车叙事单曲"
+        "en": "Johnny B. Goode",
+        "zh": "《Johnny B. Goode》"
       },
       "body": {
-        "en": "Country/R&B hybrid beat, storytelling verse—1955 breakthrough side.\n\nTemplate for rock lyric as short story.",
-        "zh": "乡村/R&B 混成节拍、叙事主歌——1955 突破面。\n\n摇滚歌词作短篇故事的模板。"
+        "en": "Johnny B. Goode (1958) opens with a double-stop guitar figure that later guitarists treat as standard practice material.\n\nThe lyric follows a Louisiana boy who plays guitar and aims for a larger stage. Chess’s recording keeps the arrangement clear and direct.",
+        "zh": "《Johnny B. Goode》（1958）以双音吉他乐句开场，后来的吉他手常把它当作基础练习材料。\n\n歌词写一个路易斯安那少年弹吉他、想上更大舞台。Chess 的录音编曲清晰、直接。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -148,12 +148,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "British Invasion homework",
-        "zh": "British Invasion 作业"
+        "en": "Covers by British beat groups",
+        "zh": "英国 beat 组合的翻唱"
       },
       "body": {
-        "en": "UK beat groups cover Berry before writing originals; guitar education pipelines through his intros.\n\nDNA is lick + lyric craft.",
-        "zh": "英国 beat 组合在写原创前翻唱 Berry；吉他教育管道经他的前奏。\n\nDNA 是乐句 + 歌词工艺。"
+        "en": "In the early 1960s, UK beat groups often covered Berry before releasing originals. The Beatles and the Rolling Stones both recorded his songs.\n\nWhat traveled was concrete: lick-based intros, verse storytelling, and a guitar-fronted rock’n’roll band layout.",
+        "zh": "1960 年代初，英国 beat 组合常在发行原创前翻唱 Berry。《The Beatles》与《The Rolling Stones》都录过他的歌。\n\n被带走的是具体写法：以乐句为基础的前奏、叙事主歌，以及吉他靠前的摇滚乐队编制。"
       },
       "stickyVisual": "dna",
       "soundGenre": "rock-n-roll"
@@ -161,12 +161,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Berry on writing and show",
-        "zh": "Berry 谈写作与表演"
+        "en": "Berry on guitar and show",
+        "zh": "Berry 谈吉他与表演"
       },
       "body": {
-        "en": "When quotes exist, they often stress craft and audience. Prefer that over romance.\n\nRecords remain primary.",
-        "zh": "有引语时，常强调工艺与观众。宁取此而非浪漫。\n\n唱片仍是第一手。"
+        "en": "In interviews Berry often stresses the guitar and the stage act together: double-stops and the duck walk as practical parts of the show.\n\nThe records still come first for hearing how the songs were built.",
+        "zh": "采访中 Berry 常把吉他与舞台动作放在一起谈：双音与鸭步都是表演的实际组成部分。\n\n要听清歌曲怎么写成，仍以唱片为准。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -178,16 +178,16 @@
       "title": "Johnny B. Goode",
       "year": 1958,
       "note": {
-        "en": "Guitar-hero blueprint for rock language.",
-        "zh": "吉他英雄语法的蓝本。"
+        "en": "Double-stop intro and guitar-kid lyric; a lasting reference for rock guitar openings.",
+        "zh": "双音前奏与吉他少年歌词；摇滚吉他开头的长期参照。"
       }
     },
     "pioneeredGenres": [
       "rock-n-roll"
     ],
     "note": {
-      "en": "Duck-walk riffs made rock portable and teachable.",
-      "zh": "鸭步 riff 让摇滚变得可携带、可传授。"
+      "en": "Chess-era singles that linked narrative lyrics, guitar intros, and a portable stage act.",
+      "zh": "Chess 时期单曲：叙事歌词、吉他前奏与可复用的舞台动作连在一起。"
     }
   },
   "lineupVersions": [
@@ -218,8 +218,8 @@
         }
       ],
       "note": {
-        "en": "Berry as front + Chicago session rhythm; double-stop guitar school.",
-        "zh": "Berry 前台 + 芝加哥录音室节奏段；双音吉他课。"
+        "en": "Berry on vocals and guitar with Chicago session rhythm; Johnnie Johnson on piano on many Chess dates.",
+        "zh": "Berry 主唱与吉他，配芝加哥录音室节奏段；多场 Chess 录音由 Johnnie Johnson 弹钢琴。"
       }
     }
   ]

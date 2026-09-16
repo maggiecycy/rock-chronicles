@@ -8,8 +8,8 @@
     "heavy-metal"
   ],
   "whyMatters": {
-    "en": "LA/Bay Area thrash band that scaled underground speed metal to mainstream rock radio via Master of Puppets (1986) and the Black Album (1991).",
-    "zh": "洛杉矶/湾区 thrash：借 Master of Puppets（1986）与黑专（1991）把地下速度金属扩到主流摇滚电台。"
+    "en": "Los Angeles / Bay Area thrash band formed in 1981. Master of Puppets (1986) and the Black Album (1991) scaled underground speed metal to mainstream rock radio.",
+    "zh": "洛杉矶/湾区 thrash 乐队，1981 年成立。Master of Puppets（1986）与黑专（1991）把地下速度金属扩到主流摇滚电台。"
   },
   "members": [
     {
@@ -113,13 +113,13 @@
   ],
   "influenced": [],
   "shortBio": {
-    "en": "Hetfield / Ulrich thrash-to-arena metal; Enter Sandman is the mass hinge.",
-    "zh": "Hetfield / Ulrich 从 thrash 到体育场金属；Enter Sandman 是大众铰链。"
+    "en": "Hetfield / Ulrich thrash-to-arena metal; Enter Sandman is the mass radio turn.",
+    "zh": "Hetfield / Ulrich 从 thrash 到体育场金属；Enter Sandman 是大众电台转折。"
   },
   "decisive": true,
   "body": {
-    "en": "Formed 1981. Kill ’Em All through …And Justice for All document thrash precision and Cliff Burton then Jason Newsted bass eras; the Black Album (Bob Rock) shortens songs for rock radio.\n\nMaster of Puppets (1986), One (1988), Enter Sandman (1991) show progressive thrash length, ballad-metal drama, and riff-chorus mainstreaming.",
-    "zh": "1981 年组建。从 Kill ’Em All 到 …And Justice for All 记录 thrash 精密与 Cliff Burton 然后 Jason Newsted 贝斯时期；黑专（Bob Rock）缩短歌曲以进摇滚电台。\n\nMaster of Puppets（1986）、One（1988）、Enter Sandman（1991）展示 progressive thrash 时长、谣曲—金属戏剧，以及 riff-副歌主流化。"
+    "en": "Formed in 1981. Kill ’Em All through …And Justice for All document thrash precision across the Cliff Burton and Jason Newsted bass eras; the Black Album (Bob Rock) shortens songs for rock radio.\n\nMaster of Puppets (1986), One (1988), and Enter Sandman (1991) show long thrash forms, ballad-metal drama, and riff-chorus mainstream writing.",
+    "zh": "1981 年组建。从 Kill ’Em All 到 …And Justice for All 记录 thrash 精密，覆盖 Cliff Burton 与 Jason Newsted 贝斯时期；黑专（Bob Rock）缩短歌曲以进摇滚电台。\n\nMaster of Puppets（1986）、One（1988）、Enter Sandman（1991）展示长 thrash 曲式、谣曲—金属戏剧，以及 riff-副歌主流写法。"
   },
   "narrative": [
     {
@@ -155,8 +155,8 @@
         "zh": "Master of Puppets：长形式 thrash"
       },
       "body": {
-        "en": "Multi-section riff essay—speed, mid-tempo crush, clean bridge. Peak of pre-mainstream song length.\n\nTeaching track for arrangement inside thrash.",
-        "zh": "多段 riff 长文——速度、中速碾压、干净桥段。主流化前歌曲时长的峰值。\n\nthrash 内部编曲教材。"
+        "en": "Multi-section riff piece—speed, mid-tempo crush, clean bridge. Peak of pre-mainstream song length.\n\nClear arrangement reference inside thrash.",
+        "zh": "多段 riff 长曲——速度、中速压迫、干净桥段。主流化前歌曲时长的峰值。\n\nthrash 内部清晰的编曲参照。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -169,8 +169,8 @@
         "zh": "Enter Sandman：电台时长 riff"
       },
       "body": {
-        "en": "Bob Rock sheen, shorter runtime, chant chorus—thrash DNA inside hard-rock radio format.\n\nThe hinge toward 1990s mainstream metal.",
-        "zh": "Bob Rock 光泽、更短时长、口号副歌——hard-rock 电台格式里的 thrash DNA。\n\n通向 1990 年代主流金属的铰链。"
+        "en": "Bob Rock sheen, shorter runtime, chant chorus—thrash downpicking inside hard-rock radio format.\n\nThe turn toward 1990s mainstream metal.",
+        "zh": "Bob Rock 光泽、更短时长、口号副歌——hard-rock 电台格式里的 thrash 下拨。\n\n通向 1990 年代主流金属的转折。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -183,8 +183,8 @@
         "zh": "下拨纪律，后期分叉"
       },
       "body": {
-        "en": "Right-hand stamina and chromatic riff writing feed metalcore and modern metal. Load/Reload and Napster-era fights are separate institutional chapters.\n\nMusical constant: Hetfield rhythm guitar as engine.",
-        "zh": "右手耐力与半音 riff 写作喂养 metalcore 与现代金属。Load/Reload 与 Napster 时期争端是另一些制度章节。\n\n音乐常量：Hetfield 节奏吉他当引擎。"
+        "en": "Right-hand stamina and chromatic riff writing feed metalcore and modern metal. Load/Reload and Napster-era fights are separate institutional chapters.\n\nMusical constant: Hetfield rhythm guitar.",
+        "zh": "右手耐力与半音 riff 写作影响 metalcore 与现代金属。Load/Reload 与 Napster 时期争端是另一些制度章节。\n\n音乐常量：Hetfield 节奏吉他。"
       },
       "stickyVisual": "dna",
       "soundGenre": "heavy-metal"
@@ -264,8 +264,8 @@
         }
       ],
       "note": {
-        "en": "Newsted / Black Album–era mainstream hinge.",
-        "zh": "Newsted / 黑专时期主流铰链。"
+        "en": "Newsted / Black Album–era mainstream turn.",
+        "zh": "Newsted / 黑专时期主流转折。"
       }
     }
   ],

@@ -11,8 +11,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Detroit duo that reduced rock to guitar, drums, and vocal—Elephant (2003, Toe Rag/Liam Watson) and Seven Nation Army’s octave-pedal riff became early-2000s garage-revival proof without bass.",
-    "zh": "底特律双人组：把摇滚压成吉他、鼓、人声——Elephant（2003，Toe Rag/Liam Watson）与 Seven Nation Army 的八度效果器 riff 成为 2000 年代初无贝斯车库复兴证据。"
+    "en": "Detroit duo formed in 1997. White Blood Cells (2001) and Elephant (2003, Toe Rag / Liam Watson) kept guitar, drums, and vocal with no bass; Seven Nation Army’s Digitech Whammy octave riff became a global chant.",
+    "zh": "底特律双人组，1997 年成立。《White Blood Cells》（2001）与《Elephant》（2003，Toe Rag / Liam Watson）保持吉他、鼓、人声、无贝斯；《Seven Nation Army》的 Digitech Whammy 八度 riff 成为全球口号。"
   },
   "members": [
     {
@@ -62,12 +62,12 @@
     "the-strokes"
   ],
   "shortBio": {
-    "en": "Jack / Meg White Detroit duo; red-white-black minimalism, Toe Rag lo-fi, Seven Nation Army the global riff chant.",
-    "zh": "Jack / Meg White 底特律双人组；红白黑极简、Toe Rag lo-fi，Seven Nation Army 是全球 riff 口号。"
+    "en": "Jack / Meg White Detroit duo, 1997–2011. Seven Nation Army is the best-known riff; Elephant the mainstream album.",
+    "zh": "Jack / Meg White 底特律双人组，1997–2011。《Seven Nation Army》是最知名 riff；《Elephant》是进入主流的专辑。"
   },
   "body": {
-    "en": "Formed 1997 in Detroit. Sympathy for the Record Industry releases and White Blood Cells (2001) kept recording raw—no bass, Meg’s floor-tom-heavy drums, Jack’s blues bends and fuzz.\n\nElephant (2003) hit mainstream via Seven Nation Army’s octave-pedal riff and Toe Rag’s vintage compression. Icky Thump (2007) added bagpipes and Nashville punch while keeping the two-piece rule.",
-    "zh": "1997 年于底特律组建。Sympathy for the Record Industry 发行与 White Blood Cells（2001）保持毛糙录音——无贝斯、Meg 的地鼓重击、Jack 的蓝调推弦与 fuzz。\n\nElephant（2003）借 Seven Nation Army 的八度效果器 riff 与 Toe Rag 复古压缩打进主流。Icky Thump（2007）加入风笛与纳什维尔冲击，仍守二人组规则。"
+    "en": "The White Stripes formed in Detroit in 1997. Sympathy for the Record Industry releases and White Blood Cells (2001) kept recording raw: no bass, Meg’s floor-tom-heavy drums, Jack’s blues bends and fuzz. The red-white-black visual rule stayed fixed.\n\nElephant (2003) reached a wider audience via Seven Nation Army’s octave-pedal riff and Toe Rag’s vintage compression. Icky Thump (2007) added bagpipes and a Nashville-recorded punch while keeping the two-piece lineup. The band ended in 2011.",
+    "zh": "The White Stripes 于 1997 年在底特律成立。Sympathy for the Record Industry 发行与《White Blood Cells》（2001）保持毛糙录音：无贝斯、Meg 的地鼓重击、Jack 的蓝调推弦与 fuzz。红白黑视觉规则固定。\n\n《Elephant》（2003）借《Seven Nation Army》的八度效果器 riff 与 Toe Rag 复古压缩进入更广听众。《Icky Thump》（2007）加入风笛与纳什维尔录制的冲击感，仍为二人组。乐队于 2011 年结束。"
   },
   "scenes": [
     {
@@ -83,8 +83,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Michel Gondry Lego video; 1:50 blast, White Blood Cells raw mix.",
-        "zh": "Michel Gondry 乐高 MV；1:50 爆发，White Blood Cells 毛糙混音。"
+        "en": "From White Blood Cells; about 1:50, raw mix; Michel Gondry Lego video.",
+        "zh": "出自《White Blood Cells》；约 1:50、毛糙混音；Michel Gondry 乐高 MV。"
       }
     },
     {
@@ -100,8 +100,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Digitech Whammy octave line mimics bass; stadium chant hook on Elephant.",
-        "zh": "Digitech Whammy 八度线模拟贝斯；Elephant 上的体育场口号钩子。"
+        "en": "From Elephant; Digitech Whammy octave line stands in for bass; widely used as a stadium chant.",
+        "zh": "出自《Elephant》；Digitech Whammy 八度线代替贝斯；广泛用作体育场口号。"
       }
     },
     {
@@ -117,8 +117,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Bagpipes intro into blues stomp; Nashville-recorded maximal duo peak.",
-        "zh": "风笛前奏接蓝调 stomp；纳什维尔录制的双人组峰值。"
+        "en": "Title track; bagpipes into blues stomp; Nashville sessions, late-period duo single.",
+        "zh": "同名曲；风笛接蓝调 stomp；纳什维尔录音，后期双人组单曲。"
       }
     }
   ],
@@ -126,12 +126,12 @@
     {
       "id": "thesis",
       "title": {
-        "en": "Garage reduction as mainstream argument",
-        "zh": "车库减法作为主流论证"
+        "en": "Blues-garage duo without bass",
+        "zh": "无贝斯的蓝调车库双人组"
       },
       "body": {
-        "en": "The White Stripes prove early-2000s rock radio still answered to blues-garage subtraction—not only nu-metal density. Guitar, drums, vocal; no bass by design.\n\nSeven Nation Army’s Whammy line is the technical fact: one guitarist simulates bass on a global chant.",
-        "zh": "The White Stripes 证明 2000 年代初摇滚电台仍回应蓝调车库减法——不只有 nu-metal 密度。吉他、鼓、人声；刻意无贝斯。\n\nSeven Nation Army 的 Whammy 线是技术事实：一名吉他手在全球口号上模拟贝斯。"
+        "en": "The White Stripes limited the band to guitar, drums, and vocal. Blues bends, fuzz, and Meg’s straight drum patterns carried the songs.\n\nIn the early 2000s that reduction sat on rock and indie radio beside denser nu-metal and garage-revival peers. Seven Nation Army’s Whammy line is the clearest technical fact: one guitarist covering a bass-like part on a widely chanted riff.",
+        "zh": "The White Stripes 把编制限在吉他、鼓、人声。蓝调推弦、fuzz 与 Meg 的直鼓型支撑歌曲。\n\n2000 年代初，这套减法与更密的 nu-metal、以及其他车库复兴同伴同处摇滚与 indie 电台。《Seven Nation Army》的 Whammy 线是最清楚的技术事实：一名吉他手在广为传唱的 riff 上覆盖贝斯式声部。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "blues"
@@ -139,12 +139,12 @@
     {
       "id": "lineupVersions",
       "title": {
-        "en": "Fixed duo, no substitutions",
-        "zh": "固定双人组，无替补"
+        "en": "Fixed duo, 1997–2011",
+        "zh": "固定双人组，1997–2011"
       },
       "body": {
-        "en": "Jack White handles all harmonic content—riffs, leads, piano overdubs. Meg White’s straight-ahead drum patterns anchor tempo without flash fills.\n\nNo lineup versions in the session sense: the brand is the two-person constraint from 1997 to 2011.",
-        "zh": "Jack White 承担全部和声内容——riff、主音、钢琴叠录。Meg White 的直鼓型定 tempo，无炫技 fill。\n\n录音意义上无阵容版本：品牌就是 1997–2011 的双人限制。"
+        "en": "Jack White handled riffs, leads, and piano overdubs. Meg White kept straight drum patterns and few flash fills.\n\nThere were no lineup substitutions in the usual band sense: the two-person limit ran from 1997 to 2011.",
+        "zh": "Jack White 负责 riff、主音与钢琴叠录。Meg White 保持直鼓型，少用炫技 fill。\n\n常规意义上无替补阵容：双人限制贯穿 1997–2011。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "indie-rock"
@@ -152,12 +152,12 @@
     {
       "id": "influence",
       "title": {
-        "en": "Post-Strokes garage and arena riff export",
-        "zh": "后 Strokes 车库与体育场 riff 出口"
+        "en": "Garage revival and stadium chant",
+        "zh": "车库复兴与体育场口号"
       },
       "body": {
-        "en": "Alongside The Strokes, they reopened 2000s indie to raw guitar reduction. Seven Nation Army crossed into sports chants—riff as public-domain hook.\n\nArctic Monkeys and later UK indie cite the lo-fi duo proof against polished Britpop hangover.",
-        "zh": "与 The Strokes 并列，他们为 2000 年代 indie 重开毛糙吉他减法。Seven Nation Army 进入体育口号——riff 成为公共领域钩子。\n\nArctic Monkeys 与后来英国 indie 引用 lo-fi 双人组证据，对抛光 Britpop 余波。"
+        "en": "Alongside The Strokes, they were a main US garage-revival reference for raw guitar reduction. Seven Nation Army crossed into sports chants beyond indie press.\n\nLater UK indie acts, including Arctic Monkeys, often cite the lo-fi duo records of this period.",
+        "zh": "与 The Strokes 并列，他们是美国车库复兴中毛糙吉他减法的主要参照。《Seven Nation Army》进入 indie 媒体之外的体育口号。\n\n后来的英国 indie（含 Arctic Monkeys）常引用这一时期的 lo-fi 双人组唱片。"
       },
       "stickyVisual": "influence",
       "soundGenre": "alternative"
@@ -166,11 +166,11 @@
       "id": "scene-0",
       "title": {
         "en": "Fell in Love with a Girl",
-        "zh": "Fell in Love with a Girl"
+        "zh": "《Fell in Love with a Girl》"
       },
       "body": {
-        "en": "Michel Gondry Lego video; 1:50 blast, White Blood Cells raw mix.",
-        "zh": "Michel Gondry 乐高 MV；1:50 爆发，White Blood Cells 毛糙混音。"
+        "en": "Short blast from White Blood Cells with a raw mix. The Michel Gondry Lego video widened the song’s reach on MTV and online clips.",
+        "zh": "出自《White Blood Cells》的短爆发曲，毛糙混音。Michel Gondry 乐高 MV 扩大了 MTV 与网络片段上的传播。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -180,11 +180,11 @@
       "id": "scene-1",
       "title": {
         "en": "Seven Nation Army",
-        "zh": "Seven Nation Army"
+        "zh": "《Seven Nation Army》"
       },
       "body": {
-        "en": "Digitech Whammy octave line mimics bass; stadium chant hook on Elephant.",
-        "zh": "Digitech Whammy 八度线模拟贝斯；Elephant 上的体育场口号钩子。"
+        "en": "Digitech Whammy octave line mimics a bass part; Meg’s drums stay spare. From Elephant, it became the band’s most widely known riff.",
+        "zh": "Digitech Whammy 八度线模拟贝斯声部；Meg 的鼓保持稀疏。出自《Elephant》，成为乐队最广为人知的 riff。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -194,11 +194,11 @@
       "id": "scene-2",
       "title": {
         "en": "Icky Thump",
-        "zh": "Icky Thump"
+        "zh": "《Icky Thump》"
       },
       "body": {
-        "en": "Bagpipes intro into blues stomp; Nashville-recorded maximal duo peak.",
-        "zh": "风笛前奏接蓝调 stomp；纳什维尔录制的双人组峰值。"
+        "en": "Bagpipes open into a blues stomp. Recorded in Nashville, it is a late-period single that still keeps the duo rule.",
+        "zh": "风笛开场接蓝调 stomp。在纳什维尔录制，是仍守双人规则的后期单曲。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -240,8 +240,8 @@
         }
       ],
       "note": {
-        "en": "No bass; red/white visual rule; garage minimalism as hit craft.",
-        "zh": "无贝斯；红白视觉规则；garage 极简当热单工艺。"
+        "en": "No bass; red/white visual rule; garage and blues writing as two-piece.",
+        "zh": "无贝斯；红白视觉规则；以二人组写车库与蓝调。"
       }
     }
   ],
@@ -250,8 +250,8 @@
       "title": "Seven Nation Army",
       "year": 2003,
       "note": {
-        "en": "Octave pedal riff as stadium chant from a duo.",
-        "zh": "八度踏板 riff，二人组变成体育场口号。"
+        "en": "Octave-pedal riff that became a stadium chant.",
+        "zh": "八度踏板 riff，后成为体育场口号。"
       }
     },
     "pioneeredGenres": [
@@ -259,8 +259,8 @@
       "blues"
     ],
     "note": {
-      "en": "Detroit garage revival with blues economy.",
-      "zh": "底特律 garage 复兴，带蓝调经济性。"
+      "en": "Detroit garage revival with blues writing and a fixed duo lineup.",
+      "zh": "底特律车库复兴，蓝调写法，固定双人编制。"
     }
   }
 }

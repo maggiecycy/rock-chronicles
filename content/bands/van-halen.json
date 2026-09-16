@@ -12,8 +12,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Pasadena hard-rock band that made two-handed tapping and high-gain precision a guitar-hero standard; Van Halen (1978) is the debut shock.",
-    "zh": "帕萨迪纳 hard-rock：把双手 tapping 与高增益精度做成吉他英雄标准；同名首专（1978）是出道冲击。"
+    "en": "Pasadena hard-rock band formed in 1972. Two-handed tapping and high-gain midrange became a guitar-hero standard; the debut Van Halen (1978) is the main early citation.",
+    "zh": "帕萨迪纳 hard-rock 乐队，1972 年成立。双手 tapping 与高增益中频成为吉他英雄标准；同名首专 Van Halen（1978）是主要早期引用。"
   },
   "members": [
     {
@@ -84,8 +84,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Tapping + harmonics showcase; guitar-hero teaching object.",
-        "zh": "Tapping + 泛音展示；吉他英雄教学对象。"
+        "en": "Tapping and harmonics showcase; guitar-hero practice reference.",
+        "zh": "Tapping 与泛音展示；吉他英雄练习参照。"
       }
     },
     {
@@ -102,8 +102,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "OBX synth riff + hard-rock chorus; MTV mass single.",
-        "zh": "OBX 合成器 riff + hard-rock 副歌；MTV 大众单曲。"
+        "en": "OBX synth riff plus hard-rock chorus; MTV mass single.",
+        "zh": "OBX 合成器 riff 加 hard-rock 副歌；MTV 大众单曲。"
       }
     },
     {
@@ -120,8 +120,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "5150 opener grammar; Hagar melodic range over Eddie keys.",
-        "zh": "5150 开场语法；Hagar 旋律音域盖在 Eddie 键盘上。"
+        "en": "5150 opener; Hagar melodic range over Eddie keys.",
+        "zh": "5150 开场；Hagar 旋律音域盖在 Eddie 键盘上。"
       }
     }
   ],
@@ -158,23 +158,23 @@
     "guns-n-roses"
   ],
   "shortBio": {
-    "en": "Eddie Van Halen–era hard rock; Eruption is the technique showcase; Roth vs Hagar splits the catalog.",
-    "zh": "Eddie Van Halen 时期 hard rock；Eruption 是技术展示；Roth vs Hagar 分裂目录。"
+    "en": "Eddie Van Halen–era hard rock; Eruption is the technique showcase; Roth and Hagar split the catalog.",
+    "zh": "Eddie Van Halen 时期 hard rock；Eruption 是技术展示；Roth 与 Hagar 分裂目录。"
   },
   "body": {
-    "en": "Formed 1972. Debut (1978, Ted Templeman) put Eddie’s tapping and brown-sound midrange beside Roth’s showman vocal and Anthony’s high harmonies. 1984 adds OBX synth hits. 1985 Roth→Hagar swap opens 5150 multi-platinum chapter.\n\nEruption remains the instrumental citation; Jump is the mass single; singer-swap is the chronicle structure.",
-    "zh": "1972 年组建。首专（1978，Ted Templeman）把 Eddie 的 tapping 与棕色中频，配上 Roth 表演人声与 Anthony 高和声。1984 加入 OBX 合成器热单。1985 Roth→Hagar 打开 5150 多白金章节。\n\nEruption 仍是器乐引用；Jump 是大众单曲；主唱替换是编年史结构。"
+    "en": "Formed in 1972. The debut (1978, Ted Templeman) put Eddie’s tapping and brown-sound midrange beside Roth’s showman vocal and Anthony’s high harmonies. 1984 adds OBX synth hits. In 1985 Roth leaves and Hagar joins; 5150 opens a multi-platinum chapter.\n\nEruption remains the instrumental citation; Jump is the mass single; the singer swap is the chronicle structure.",
+    "zh": "1972 年组建。首专（1978，Ted Templeman）把 Eddie 的 tapping 与棕色中频，配上 Roth 表演人声与 Anthony 高和声。1984 加入 OBX 合成器热单。1985 年 Roth 离开、Hagar 加入；5150 打开多白金章节。\n\nEruption 仍是器乐引用；Jump 是大众单曲；主唱替换是编年史结构。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Tapping as hard-rock standard, not parlor trick",
-        "zh": "Tapping 当 hard-rock 标准，不是杂耍"
+        "en": "Tapping as hard-rock practice standard",
+        "zh": "Tapping 作为 hard-rock 练习标准"
       },
       "body": {
-        "en": "Van Halen (1978) exports two-handed tapping, pinched harmonics, and high-gain midrange. Templeman keeps songs short; Roth sells carnival frontman energy.\n\nGuitar-hero culture after 1978 cites this debut as the precision upgrade over blues-rock default.",
-        "zh": "同名首专（1978）输出双手 tapping、捏泛音与高增益中频。Templeman 把歌唱短；Roth 卖马戏团主唱能量。\n\n1978 后的吉他英雄文化把这张首专当作相对蓝调摇滚默认的精度升级。"
+        "en": "Van Halen (1978) brings two-handed tapping, pinched harmonics, and high-gain midrange into hard-rock practice. Templeman keeps songs short; Roth sells carnival frontman energy.\n\nGuitar-hero culture after 1978 cites this debut as a precision step beyond blues-rock defaults.",
+        "zh": "同名首专（1978）把双手 tapping、捏泛音与高增益中频带进 hard-rock 练习。Templeman 把歌唱短；Roth 卖马戏团主唱能量。\n\n1978 后的吉他英雄文化把这张首专当作相对蓝调摇滚默认的精度一步。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "hard-rock"
@@ -186,8 +186,8 @@
         "zh": "Roth 时期 vs Hagar 时期"
       },
       "body": {
-        "en": "Peak chronicle silhouette: Roth / Eddie / Alex / Anthony (1978–85). 1985 Hagar joins; 5150–Balance is the radio-metal chapter fans call Van Hagar. 2007+ Roth returns for reunion tours.\n\nSame guitar core; two vocal grammars. Peak flag stays on Roth-era classic.",
-        "zh": "编年史巅峰剪影：Roth / Eddie / Alex / Anthony（1978–85）。1985 Hagar 加入；5150–Balance 是粉丝称 Van Hagar 的电台金属章节。2007+ Roth 回归重聚巡演。\n\n同一吉他内核；两套人声语法。巅峰旗留在 Roth 经典期。"
+        "en": "Peak chronicle silhouette: Roth / Eddie / Alex / Anthony (1978–85). In 1985 Hagar joins; 5150–Balance is the radio-metal chapter fans call Van Hagar. From 2007 Roth returns for reunion tours.\n\nSame guitar core; two vocal approaches. Peak flag stays on the Roth-era classic.",
+        "zh": "编年史巅峰剪影：Roth / Eddie / Alex / Anthony（1978–85）。1985 Hagar 加入；5150–Balance 是粉丝称 Van Hagar 的电台金属章节。2007 年起 Roth 回归重聚巡演。\n\n同一吉他内核；两套人声写法。巅峰旗留在 Roth 经典期。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "hard-rock"
@@ -199,8 +199,8 @@
         "zh": "兄弟、吠叫、和声贝斯"
       },
       "body": {
-        "en": "Eddie: Frankenstein guitar, MXR, Marshall mid. Alex: double-bass and ride accents. Roth: splits and spoken asides. Anthony: high stacked choruses that define the early mix.\n\nChemistry is the product; later casts prove how loud that chemistry was.",
-        "zh": "Eddie：Frankenstein 吉他、MXR、Marshall 中频。Alex：双底鼓与 ride 点缀。Roth：劈叉与旁白。Anthony：早期混音里的高叠副歌。\n\n化学反应即产品；后来卡司证明那反应有多响。"
+        "en": "Eddie: Frankenstein guitar, MXR, Marshall mid. Alex: double-bass and ride accents. Roth: splits and spoken asides. Anthony: high stacked choruses that define the early mix.\n\nThat chemistry is hard to recreate; later casts show how loud the early mix was.",
+        "zh": "Eddie：Frankenstein 吉他、MXR、Marshall 中频。Alex：双底鼓与 ride 点缀。Roth：劈叉与旁白。Anthony：早期混音里的高叠副歌。\n\n这套配合难以复刻；后来阵容可见早期混音有多响。"
       },
       "stickyVisual": "members",
       "soundGenre": "hard-rock"
@@ -212,8 +212,8 @@
         "zh": "Eruption：把技术写成曲目"
       },
       "body": {
-        "en": "Instrumental between You Really Got Me cover energy and Ain't Talkin' 'Bout Love. Dive bombs, taps, tremolo abuse—cited in every 80s shred school.\n\nHard-rock single albums rarely put a solo étude this central.",
-        "zh": "夹在 You Really Got Me 翻唱能量与 Ain't Talkin' 'Bout Love 之间的器乐。俯冲击、tapping、颤臂滥用——80 年代 shred 学派必引。\n\nHard-rock 单曲专辑很少把独奏练习曲放这么中心。"
+        "en": "Instrumental between You Really Got Me cover energy and Ain't Talkin' 'Bout Love. Dive bombs, taps, tremolo abuse—cited across 80s shred practice.\n\nHard-rock albums rarely put a solo étude this central.",
+        "zh": "夹在 You Really Got Me 翻唱能量与 Ain't Talkin' 'Bout Love 之间的器乐。俯冲击、tapping、颤臂滥用——80 年代 shred 练习必引。\n\nHard-rock 专辑很少把独奏练习曲放这么中心。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -226,8 +226,8 @@
         "zh": "Jump：合成器 riff，仍是 hard rock"
       },
       "body": {
-        "en": "OBX hook, Roth chorus, Eddie still solos. MTV and arena both take it. Not a soft-rock exit—keys as another riff voice.\n\n1984 peak single before the singer swap.",
-        "zh": "OBX 钩子、Roth 副歌、Eddie 仍独奏。MTV 与体育场都接。不是软摇滚出走——键盘当另一把 riff 声部。\n\n主唱替换前的 1984 峰值单曲。"
+        "en": "OBX hook, Roth chorus, Eddie still solos. MTV and arenas both take it. Keys work as another riff voice inside hard rock.\n\n1984 peak single before the singer swap.",
+        "zh": "OBX 钩子、Roth 副歌、Eddie 仍独奏。MTV 与体育场都接。键盘在 hard rock 里当另一把 riff 声部。\n\n主唱替换前的 1984 峰值单曲。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -236,12 +236,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Guitar standard + singer-swap case study",
-        "zh": "吉他标准 + 主唱替换案例"
+        "en": "Guitar standard and singer-swap case",
+        "zh": "吉他标准与主唱替换案例"
       },
       "body": {
-        "en": "Technique export is permanent. Catalog debate (Roth vs Hagar) is permanent too. Guns N' Roses and 80s LA hard rock inherit the high-gain precision expectation.\n\nChronicle value: gear method + lineup versioning in one logo.",
-        "zh": "技术输出是永久的。目录争论（Roth vs Hagar）也是。Guns N' Roses 与 80 年代洛杉矶 hard rock 继承高增益精度预期。\n\n编年史价值：一个 logo 里同时有装备方法与阵容版本化。"
+        "en": "Technique influence is permanent. Catalog debate (Roth vs Hagar) is permanent too. Guns N' Roses and 80s LA hard rock inherit the high-gain precision expectation.\n\nChronicle value: gear method and lineup versioning under one name.",
+        "zh": "技术影响是永久的。目录争论（Roth vs Hagar）也是。Guns N' Roses 与 80 年代洛杉矶 hard rock 继承高增益精度预期。\n\n编年史价值：一个名字下同时有装备方法与阵容版本化。"
       },
       "stickyVisual": "influence",
       "soundGenre": "hard-rock"
@@ -279,8 +279,8 @@
         }
       ],
       "note": {
-        "en": "Debut through 1984; tapping + showman peak.",
-        "zh": "首专至 1984；tapping + 表演人峰值。"
+        "en": "Debut through 1984; tapping and showman peak.",
+        "zh": "首专至 1984；tapping 与表演人峰值。"
       }
     },
     {
@@ -331,8 +331,8 @@
       "hard-rock"
     ],
     "note": {
-      "en": "High-gain precision + Roth/Hagar singer-swap as twin chronicle facts.",
-      "zh": "高增益精度 + Roth/Hagar 主唱替换为双编年史事实。"
+      "en": "High-gain precision plus Roth/Hagar singer-swap as twin chronicle facts.",
+      "zh": "高增益精度加 Roth/Hagar 主唱替换，为双编年史事实。"
     }
   }
 }

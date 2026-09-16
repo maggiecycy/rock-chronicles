@@ -14,8 +14,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Boston four-piece whose Surfer Rosa/Doolittle quiet-loud song forms became the template Nirvana and 90s alternative copied.",
-    "zh": "波士顿四人组：Surfer Rosa/Doolittle 的强弱曲式成为 Nirvana 与 90 年代 alternative 复制的模板。"
+    "en": "Boston four-piece formed in 1986. Surfer Rosa and Doolittle quiet-loud song forms became a main reference for Nirvana and 1990s alternative.",
+    "zh": "波士顿四人组，1986 年成立。《Surfer Rosa》与《Doolittle》的强弱曲式成为 Nirvana 与 1990 年代 alternative 的主要参照。"
   },
   "members": [
     {
@@ -76,7 +76,7 @@
       "intensity": 2,
       "note": {
         "en": "Surfer Rosa; clean arpeggio then scream lift.",
-        "zh": "Surfer Rosa；干净分解后尖叫抬升。"
+        "zh": "《Surfer Rosa》；干净分解后尖叫抬升。"
       }
     },
     {
@@ -93,8 +93,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Doolittle opener; loud-quiet-loud textbook.",
-        "zh": "Doolittle 开场；强弱强教科书。"
+        "en": "Doolittle opener; clear quiet-loud-quiet map.",
+        "zh": "《Doolittle》开场；清楚的强弱强动态。"
       }
     },
     {
@@ -151,23 +151,23 @@
     "the-strokes"
   ],
   "shortBio": {
-    "en": "Quiet-loud alternative; Surfer Rosa/Doolittle template Nirvana cited.",
-    "zh": "强弱 alternative；Nirvana 引用的 Surfer Rosa/Doolittle 模板。"
+    "en": "Quiet-loud alternative, 1986–. Surfer Rosa and Doolittle are the core reference Nirvana cited.",
+    "zh": "强弱 alternative，1986 年至今。《Surfer Rosa》与《Doolittle》是 Nirvana 引用的核心参照。"
   },
   "body": {
-    "en": "Formed 1986. Albini on Surfer Rosa; Gil Norton on Doolittle. Soft-loud dynamics, surreal lyric, Santiago lead noise. Split 1993; reunions from 2004.\n\nNoise and shoegaze textures appear in guitar spray, but song form stays verse-scream-hook—genre slug stays alternative/indie.",
-    "zh": "1986 年组建。Surfer Rosa 找 Albini；Doolittle 找 Gil Norton。强弱动态、超现实歌词、Santiago 噪音主音。1993 解散；2004 起重聚。\n\n吉他喷雾里有噪音与 shoegaze 纹理，但曲式仍是主歌-尖叫-钩子——类型 slug 仍是 alternative/indie。"
+    "en": "Pixies formed in Boston in 1986. Steve Albini produced Surfer Rosa; Gil Norton produced Doolittle. Soft-loud dynamics, surreal lyric, and Santiago lead noise define the sound. Split in 1993; reunions from 2004.\n\nNoise and shoegaze textures appear in the guitar spray, but song form stays verse–scream–hook. Genre tags stay alternative/indie. Cobain and later alternative acts cite the dynamic map openly.",
+    "zh": "Pixies 于 1986 年在波士顿成立。《Surfer Rosa》由 Steve Albini 制作；《Doolittle》由 Gil Norton 制作。强弱动态、超现实歌词与 Santiago 噪音主音界定声音。1993 年解散；2004 年起重聚。\n\n吉他喷雾里有噪音与 shoegaze 纹理，但曲式仍是主歌–尖叫–钩子。类型标签仍是 alternative/indie。Cobain 与后来 alternative 行动公开引用这套动态地图。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
         "en": "Quiet-loud as alternative song form",
-        "zh": "强弱当 alternative 曲式"
+        "zh": "强弱作为 alternative 曲式"
       },
       "body": {
-        "en": "Pixies invent (or crystallize) soft verse / screamed chorus for college radio. Surreal titles, short runtimes, no prog padding.\n\nNirvana openly copies the dynamic map on Nevermind.",
-        "zh": "Pixies 发明（或结晶）大学电台的安静主歌/尖叫副歌。超现实标题、短时长、无 prog 填充。\n\nNirvana 在 Nevermind 上公开复制动态地图。"
+        "en": "Pixies crystallize soft verse / screamed chorus for college radio. Surreal titles, short runtimes, no prog padding.\n\nNirvana uses a similar dynamic map on Nevermind.",
+        "zh": "Pixies 把安静主歌/尖叫副歌结晶为大学电台写法。超现实标题、短时长、无 prog 填充。\n\nNirvana 在《Nevermind》上使用相近动态地图。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "alternative"
@@ -175,12 +175,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Classic four as only peak",
-        "zh": "经典四人即唯一巅峰"
+        "en": "Classic four as peak",
+        "zh": "经典四人即巅峰"
       },
       "body": {
-        "en": "Francis / Deal / Santiago / Lovering is the silhouette. Deal exits reunions later; peak flag stays Doolittle-era four.\n\nNo singer swap—method is the four-way balance.",
-        "zh": "Francis / Deal / Santiago / Lovering 即剪影。Deal 后离开重聚；巅峰旗留在 Doolittle 时期四人。\n\n无主唱替换——方法是四方平衡。"
+        "en": "Francis, Deal, Santiago, and Lovering are the peak silhouette. Deal exits later reunions; the Doolittle-era four remains the main citation.\n\nNo singer swap—the method is the four-way balance.",
+        "zh": "Francis、Deal、Santiago 与 Lovering 是巅峰剪影。Deal 后离开重聚；《Doolittle》时期四人仍是主要引用。\n\n无主唱替换——方法是四方平衡。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "alternative"
@@ -192,8 +192,8 @@
         "zh": "尖叫、和声贝斯、冲浪噪音主音"
       },
       "body": {
-        "en": "Francis: Tele bark and Spanish blurt. Deal: melodic bass + Gigantic lead. Santiago: surf-twang into noise. Lovering: dry punch kit.\n\nAlbini/Gil Norton capture rooms differently; form stays.",
-        "zh": "Francis：Tele 吠叫与西语爆发。Deal：旋律贝斯 + Gigantic 主唱。Santiago：冲浪颤音进噪音。Lovering：干、砸的鼓。\n\nAlbini/Gil Norton 抓房间不同；曲式不变。"
+        "en": "Francis: Tele bark and Spanish blurt. Deal: melodic bass plus Gigantic lead. Santiago: surf-twang into noise. Lovering: dry punch kit.\n\nAlbini and Gil Norton capture rooms differently; form stays.",
+        "zh": "Francis：Tele 吠叫与西语爆发。Deal：旋律贝斯加《Gigantic》主唱。Santiago：冲浪颤音进噪音。Lovering：干、砸的鼓。\n\nAlbini 与 Gil Norton 抓房间不同；曲式不变。"
       },
       "stickyVisual": "members",
       "soundGenre": "indie-rock"
@@ -201,12 +201,12 @@
     {
       "id": "where-is-my-mind",
       "title": {
-        "en": "Where Is My Mind?: soft entry",
-        "zh": "Where Is My Mind?：软入口"
+        "en": "Where Is My Mind?",
+        "zh": "《Where Is My Mind?》"
       },
       "body": {
-        "en": "Arpeggio hook, Deal harmony, controlled lift—not full scream wall. Film sync later expands reach.\n\nSurfer Rosa face that still teaches dynamics.",
-        "zh": "分解钩子、Deal 和声、受控抬升——非全尖叫墙。后来影视同步扩大触及。\n\n仍教动态的 Surfer Rosa 脸。"
+        "en": "Arpeggio hook, Deal harmony, controlled lift—not a full scream wall. Later film sync expands reach.\n\nSurfer Rosa face that still shows the dynamic method.",
+        "zh": "分解钩子、Deal 和声、受控抬升——非全尖叫墙。后来影视同步扩大触及。\n\n仍展示动态方法的《Surfer Rosa》脸。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -215,12 +215,12 @@
     {
       "id": "debaser",
       "title": {
-        "en": "Debaser: loud-quiet textbook",
-        "zh": "Debaser：强弱教科书"
+        "en": "Debaser",
+        "zh": "《Debaser》"
       },
       "body": {
-        "en": "Doolittle opener. Bass start, scream chorus, Bunuel lyric joke. College-radio violence with pop length.\n\nPrimary teaching object for 90s alt dynamics.",
-        "zh": "Doolittle 开场。贝斯起、尖叫副歌、布努埃尔歌词玩笑。流行长度的大学电台暴力。\n\n90 年代 alt 动态的主教学对象。"
+        "en": "Doolittle opener. Bass start, scream chorus, Buñuel lyric joke. College-radio violence at pop length.\n\nPrimary citation for 1990s alt dynamics.",
+        "zh": "《Doolittle》开场。贝斯起、尖叫副歌、布努埃尔歌词玩笑。流行长度的大学电台暴力。\n\n1990 年代 alt 动态的主要引用。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -229,12 +229,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Template for grunge and indie",
-        "zh": "Grunge 与 indie 的模板"
+        "en": "Reference for grunge and indie",
+        "zh": "Grunge 与 indie 的参照"
       },
       "body": {
-        "en": "Cobain cites Pixies dynamics. Radiohead and Strokes pull angular hooks. Noise/shoegaze neighbors (Sonic Youth, MBV) share guitar abrasion; Pixies keep songs shorter.\n\nBoston four as 90s alt operating system.",
-        "zh": "Cobain 引用 Pixies 动态。Radiohead 与 Strokes 抽棱角钩子。噪音/shoegaze 邻里（Sonic Youth、MBV）共享吉他磨损；Pixies 把歌唱得更短。\n\n波士顿四人组作为 90 年代 alt 操作系统。"
+        "en": "Cobain cites Pixies dynamics. Radiohead and The Strokes pull angular hooks. Noise and shoegaze neighbors (Sonic Youth, MBV) share guitar abrasion; Pixies keep songs shorter.\n\nBoston four as a core 1990s alt writing reference.",
+        "zh": "Cobain 引用 Pixies 动态。Radiohead 与 The Strokes 抽棱角钩子。噪音与 shoegaze 邻里（Sonic Youth、MBV）共享吉他磨损；Pixies 把歌唱得更短。\n\n波士顿四人组是 1990 年代 alt 写作的核心参照。"
       },
       "stickyVisual": "influence",
       "soundGenre": "alternative"
@@ -271,7 +271,7 @@
       ],
       "note": {
         "en": "Surfer Rosa / Doolittle peak.",
-        "zh": "Surfer Rosa / Doolittle 巅峰。"
+        "zh": "《Surfer Rosa》/《Doolittle》巅峰。"
       }
     }
   ],
@@ -280,8 +280,8 @@
       "title": "Debaser",
       "year": 1989,
       "note": {
-        "en": "Quiet-loud single that became 90s alt grammar.",
-        "zh": "成为 90 年代 alt 语法的强弱单曲。"
+        "en": "Quiet-loud single that became 1990s alt grammar.",
+        "zh": "成为 1990 年代 alt 写法参照的强弱单曲。"
       }
     },
     "pioneeredGenres": [
@@ -289,8 +289,8 @@
       "indie-rock"
     ],
     "note": {
-      "en": "Soft-loud song form export; noise color inside indie length.",
-      "zh": "强弱曲式输出；indie 长度里的噪音色彩。"
+      "en": "Soft-loud song form; noise color inside indie length.",
+      "zh": "强弱曲式；indie 长度里的噪音色彩。"
     }
   }
 }

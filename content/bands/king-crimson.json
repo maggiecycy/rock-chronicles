@@ -9,8 +9,8 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "Robert Fripp–centered progressive band whose radical lineup versions—from In the Court (1969) to 1980s dual-guitar—treat reformation as method.",
-    "zh": "以 Robert Fripp 为中心的 progressive 乐队：从 In the Court（1969）到 1980 年代双吉他，把彻底重组当作方法。"
+    "en": "Robert Fripp–centered progressive band formed in 1968. Lineups change sharply across eras—from In the Court of the Crimson King (1969) to the 1980s dual-guitar Discipline group—while Fripp remains the constant.",
+    "zh": "以 Robert Fripp 为中心的 progressive 乐队，1968 年成立。阵容跨时期变动很大——从《In the Court of the Crimson King》（1969）到 1980 年代《Discipline》双吉他编制——Fripp 始终保留。"
   },
   "members": [
     {
@@ -64,8 +64,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Distorted assault opener on 1969 prog debut.",
-        "zh": "1969 prog 首专上的失真突击开场。"
+        "en": "Opener of In the Court of the Crimson King; distorted vocal, saxophone, heavy riff.",
+        "zh": "《In the Court of the Crimson King》开场曲；失真人声、萨克斯、重 riff。"
       }
     },
     {
@@ -79,8 +79,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Key composition moment",
-        "zh": "关键写作时刻"
+        "en": "From Red (1974); long-form piece with slow build and late climax.",
+        "zh": "出自《Red》（1974）；长曲，慢起与后段高潮。"
       }
     },
     {
@@ -95,8 +95,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Long-form 1970s piece (Starless era).",
-        "zh": "1970 年代长曲（Starless 时期）。"
+        "en": "From Discipline; Belew vocal/guitar with Fripp interlocking guitar lines.",
+        "zh": "出自《Discipline》；Belew 人声/吉他与 Fripp 交织吉他线条。"
       }
     }
   ],
@@ -127,23 +127,23 @@
     "radiohead"
   ],
   "shortBio": {
-    "en": "Fripp prog laboratory; Schizoid Man and Starless bookend early extremes.",
-    "zh": "Fripp 的 prog 实验室；Schizoid Man 与 Starless 标记早期两极。"
+    "en": "London progressive rock, 1968–. Fripp constant across casts; Schizoid Man, Starless, and Elephant Talk mark three eras.",
+    "zh": "伦敦 progressive rock，1968 年至今。Fripp 跨阵容保留；《Schizoid Man》、《Starless》、《Elephant Talk》标记三个时期。"
   },
   "body": {
-    "en": "Formed 1968. Debut In the Court of the Crimson King sets Mellotron + dissonant rock; 1970s Wetton/Bruford years add improvisation and Starless-length pieces; 1981 Belew/Levin/Bruford era uses gamelan-like guitar interlocking (Elephant Talk).\n\nLineup churn is the point: Fripp remains; casts change.",
-    "zh": "1968 年组建。首专 In the Court of the Crimson King 定下 Mellotron + 不协和摇滚；1970 年代 Wetton/Bruford 年加入即兴与 Starless 级时长；1981 Belew/Levin/Bruford 时期使用类甘美兰吉他交织（Elephant Talk）。\n\n阵容更替即要点：Fripp 留下；人马更换。"
+    "en": "King Crimson formed in London in 1968. The debut In the Court of the Crimson King (1969) sets Mellotron textures against dissonant rock. The mid-1970s Wetton/Bruford years add improvisation and long pieces such as Starless. The 1981 Belew/Levin/Bruford lineup uses interlocking guitar parts on Discipline (Elephant Talk).\n\nFripp remains across reforms; bass, drums, vocals, and reeds change by decade. Later projects continue under the same name with new casts.",
+    "zh": "King Crimson 于 1968 年在伦敦成立。首专《In the Court of the Crimson King》（1969）把 Mellotron 织体与不协和摇滚并置。1970 年代中期 Wetton/Bruford 年加入即兴与《Starless》一类长曲。1981 年 Belew/Levin/Bruford 阵容在《Discipline》上使用交织吉他（《Elephant Talk》）。\n\nFripp 在重组中保留；贝斯、鼓、人声与簧乐按年代更换。之后项目仍以同名与新阵容继续。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Reformation as working method",
-        "zh": "把重组当作工作方法"
+        "en": "Core approach",
+        "zh": "核心做法"
       },
       "body": {
-        "en": "Crimson matter because the band is a practice: Fripp keeps the name and standards while replacing instrumental casts.\n\nOpposite of Zeppelin’s stable IV—useful contrast in the chronicle.",
-        "zh": "Crimson 要紧，因为乐队是一种实践：Fripp 保留名称与标准，同时更换乐器人马。\n\n与 Zeppelin 稳定四人相反——编年中有用的对照。"
+        "en": "King Crimson keeps the name and Fripp’s standards while replacing instrumental casts.\n\nThat differs from a stable four-piece catalog like Led Zeppelin IV—useful contrast in this chronicle.",
+        "zh": "King Crimson 保留名称与 Fripp 的标准，同时更换乐器人马。\n\n这与 Led Zeppelin IV 一类稳定四人编制不同——在本编年中可作对照。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "progressive-rock"
@@ -151,12 +151,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Court era, ’70s improvisers, ’80s interlocking",
-        "zh": "Court 时期、70 年代即兴、80 年代交织"
+        "en": "Court, 1970s, Discipline eras",
+        "zh": "Court、1970 年代、Discipline 时期"
       },
       "body": {
-        "en": "Each era has distinct grammar—Mellotron symphonic rock, free-ish metal-jazz, then new-wave-adjacent math guitar.\n\nVersions are not footnotes; they are the catalog.",
-        "zh": "每个时期有不同语法——Mellotron 交响摇滚、偏自由的金属—爵士、然后新浪潮邻近的数学吉他。\n\n版本不是脚注；它们就是目录。"
+        "en": "Each era has a distinct sound: Mellotron-led debut rock, freer mid-70s improvisation, then interlocking dual guitar on Discipline.\n\nThe versions are the catalog, not side notes.",
+        "zh": "每个时期声音不同：Mellotron 主导的首专摇滚、偏自由的 70 年代中期即兴，再到《Discipline》上的双吉他交织。\n\n这些版本就是目录本身，不是旁注。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "progressive-rock"
@@ -164,12 +164,12 @@
     {
       "id": "schizoid",
       "title": {
-        "en": "21st Century Schizoid Man: assault opener",
-        "zh": "21st Century Schizoid Man：突击开场"
+        "en": "21st Century Schizoid Man",
+        "zh": "《21st Century Schizoid Man》"
       },
       "body": {
-        "en": "Distorted vocal, saxophone, heavy riff—1969 prog that attacks rather than only floats.\n\nDebut statement still cited by metal and math-rock listeners.",
-        "zh": "失真人声、萨克斯、重 riff——1969 年进攻而非只漂浮的 prog。\n\n首专声明仍被金属与 math-rock 听众引用。"
+        "en": "Distorted vocal, saxophone, and a heavy riff open the 1969 debut. The track attacks from the first bars rather than only floating on Mellotron pads.\n\nMetal and math-rock listeners still cite it as an early reference.",
+        "zh": "失真人声、萨克斯与重 riff 打开 1969 年首专。这首曲从开头就进攻，而不只靠 Mellotron 铺底漂浮。\n\n金属与 math-rock 听众仍常把它当作早期参照。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -178,12 +178,12 @@
     {
       "id": "lineup",
       "title": {
-        "en": "Fripp constant, cast variables",
-        "zh": "Fripp 常量，人马变量"
+        "en": "Fripp constant, cast changes",
+        "zh": "Fripp 保留，人马更换"
       },
       "body": {
-        "en": "Guitar/composition hub stays; bass, drums, vocal, reeds change across decades.\n\nRead the members list as a version picker.",
-        "zh": "吉他/作曲枢纽留下；贝斯、鼓、人声、簧乐跨年代更换。\n\n把成员列表当版本选择器阅读。"
+        "en": "Guitar and composition stay centered on Fripp. Bass, drums, vocals, and reeds change across decades.\n\nRead the members list as a version picker by era.",
+        "zh": "吉他与作曲以 Fripp 为中心。贝斯、鼓、人声、簧乐跨年代更换。\n\n把成员列表按时期当版本选择器阅读。"
       },
       "stickyVisual": "members",
       "soundGenre": "progressive-rock"
@@ -191,12 +191,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Discipline talk beside wild records",
-        "zh": "狂野唱片旁的纪律话语"
+        "en": "Fripp on practice",
+        "zh": "Fripp 谈练习"
       },
       "body": {
-        "en": "Fripp’s public language about practice and craft matches a catalog that rewards attentive listening.\n\nMethod discourse is part of the band’s archival object.",
-        "zh": "Fripp 关于练习与工艺的公开语言，与一份奖励专注聆听的目录匹配。\n\n方法话语是乐队档案对象的一部分。"
+        "en": "Fripp’s public talk about practice and craft matches a catalog that rewards close listening.\n\nThose interview lines sit beside the records as archival material.",
+        "zh": "Fripp 关于练习与工艺的公开谈话，与一份奖励细听的目录相符。\n\n这些采访短句可作为档案材料，与唱片并列阅读。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -205,12 +205,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Prog permission for later mutants",
-        "zh": "给后来变异者的 prog 许可"
+        "en": "Later prog and experimental cites",
+        "zh": "后来 prog 与实验引用"
       },
       "body": {
-        "en": "Tool, math rock, and experimental metal cite the permission to change meters and lineups.\n\nCrimson’s lesson is procedural as much as sonic.",
-        "zh": "Tool、math rock 与实验金属引用其更换拍号与阵容的许可。\n\nCrimson 的课在程序上与声音上同等重要。"
+        "en": "Tool, math rock, and experimental metal have cited shifting meters and frequent lineup change.\n\nThe influence is both sonic and procedural: how a band reconstitutes itself.",
+        "zh": "Tool、math rock 与实验金属曾引用变换拍号与频繁阵容更换。\n\n影响兼及声音与程序：乐队如何重组自身。"
       },
       "stickyVisual": "influence",
       "soundGenre": "progressive-rock"
@@ -245,8 +245,8 @@
         }
       ],
       "note": {
-        "en": "Court of the Crimson King–era Mellotron lineup.",
-        "zh": "Court of the Crimson King 时期 Mellotron 阵容。"
+        "en": "In the Court of the Crimson King–era Mellotron lineup.",
+        "zh": "《In the Court of the Crimson King》时期 Mellotron 阵容。"
       }
     },
     {
@@ -276,8 +276,8 @@
         }
       ],
       "note": {
-        "en": "Belew/Levin/Bruford interlocking-guitar era.",
-        "zh": "Belew/Levin/Bruford 交织吉他时期。"
+        "en": "Belew/Levin/Bruford interlocking-guitar era; Discipline album.",
+        "zh": "Belew/Levin/Bruford 交织吉他时期；专辑《Discipline》。"
       }
     }
   ],
@@ -286,16 +286,16 @@
       "title": "21st Century Schizoid Man",
       "year": 1969,
       "note": {
-        "en": "Schizoid assault as debut citation.",
-        "zh": "Schizoid 突击作为首专引用。"
+        "en": "Debut album opener; distorted vocal and heavy riff on 1969 prog.",
+        "zh": "首专开场曲；1969 年 prog 上的失真人声与重 riff。"
       }
     },
     "pioneeredGenres": [
       "progressive-rock"
     ],
     "note": {
-      "en": "Lineup reformation as prog working method.",
-      "zh": "阵容重组作为 prog 工作方法。"
+      "en": "Progressive rock with repeated lineup reform under Fripp.",
+      "zh": "在 Fripp 下反复重组阵容的 progressive rock。"
     }
   }
 }

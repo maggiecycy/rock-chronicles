@@ -10,8 +10,8 @@
     "alternative"
   ],
   "whyMatters": {
-    "en": "Kevin Parker’s Perth project; Lonerism (2012) and Currents (2015) made solo-studio psychedelic pop a festival-headliner format.",
-    "zh": "Kevin Parker 的珀斯项目；Lonerism（2012）与 Currents（2015）把一人录音室迷幻流行做成音乐节头条格式。"
+    "en": "Kevin Parker’s Perth project, begun mid-2000s. Lonerism (2012) and Currents (2015) made solo-studio psychedelic pop a festival-headliner format, with Parker writing, playing, and producing most parts.",
+    "zh": "Kevin Parker 的珀斯项目，2000 年代中期起步。《Lonerism》（2012）与《Currents》（2015）把一人录音室迷幻流行做成音乐节头条格式；Parker 写作、演奏并制作大部分声部。"
   },
   "members": [
     {
@@ -47,8 +47,8 @@
       ],
       "intensity": 1,
       "note": {
-        "en": "Currents long electronic build single.",
-        "zh": "Currents 长电子推进单曲。"
+        "en": "Lonerism single: reverse-psych guitar and falsetto hook.",
+        "zh": "《Lonerism》单曲：反向迷幻吉他与假声钩子。"
       }
     },
     {
@@ -63,8 +63,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Compact funk-psych streaming hook.",
-        "zh": "紧凑 funk-迷幻流媒体钩子。"
+        "en": "Currents extended single: loop breakdown, dance pulse, psych harmony.",
+        "zh": "《Currents》延长单曲：循环崩解、舞曲脉冲、迷幻和声。"
       }
     }
   ],
@@ -96,24 +96,24 @@
   ],
   "influenced": [],
   "shortBio": {
-    "en": "Parker psychedelic pop; Let It Happen and Less I Know are Currents poles.",
-    "zh": "Parker 迷幻流行；Let It Happen 与 Less I Know 是 Currents 两极。"
+    "en": "Parker psychedelic pop; Let It Happen and The Less I Know the Better are Currents poles.",
+    "zh": "Parker 迷幻流行；《Let It Happen》与《The Less I Know the Better》是《Currents》两极。"
   },
   "decisive": true,
   "body": {
-    "en": "Begun mid-2000s; Parker writes/plays/produces most parts, touring band separate. Innerspeaker and Lonerism revive psych guitar; Currents pivots to disco-bass and processed vocal for global crossover.\n\nLet It Happen (2015) and The Less I Know the Better (2015) show extended electronic build and concise funk-psych hook.",
-    "zh": "2000 年代中期起步；Parker 写作/演奏/制作大部分声部，巡演乐队另组。Innerspeaker 与 Lonerism 复兴迷幻吉他；Currents 转向迪斯科贝斯与处理人声以全球跨界。\n\nLet It Happen（2015）与 The Less I Know the Better（2015）展示延长电子推进与紧凑 funk-迷幻钩子。"
+    "en": "Tame Impala began in the mid-2000s in Perth. Parker writes, plays, and produces most parts; the touring band is separate. Innerspeaker (2010) and Lonerism (2012) revive psych guitar; Currents (2015) pivots to disco bass and processed vocal for global crossover.\n\nLet It Happen (2015) shows an extended electronic build. The Less I Know the Better (2015) shows a concise funk-psych hook.",
+    "zh": "Tame Impala 于 2000 年代中期在珀斯起步。Parker 写作、演奏并制作大部分声部；巡演乐队另组。《Innerspeaker》（2010）与《Lonerism》（2012）复兴迷幻吉他；《Currents》（2015）转向迪斯科贝斯与处理人声以全球跨界。\n\n《Let It Happen》（2015）展示延长电子推进；《The Less I Know the Better》（2015）展示紧凑 funk-迷幻钩子。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Solo studio psych as headliner brand",
-        "zh": "一人录音室迷幻作为头条品牌"
+        "en": "Solo studio psych as festival headliner",
+        "zh": "一人录音室迷幻作为音乐节头条"
       },
       "body": {
-        "en": "Tame Impala matter as proof a mostly-solo recording project can scale to festivals via meticulous production and a live band shell.\n\nParker’s method is the band.",
-        "zh": "Tame Impala 要紧处是证明：主要一人录音的项目可经精密制作与现场乐队外壳扩到音乐节。\n\nParker 的方法即乐队。"
+        "en": "Tame Impala shows a mostly solo recording project can scale to festivals via meticulous production and a live band shell.\n\nParker’s studio method is the band on record; touring members interpret the mixes live.",
+        "zh": "Tame Impala 显示：主要一人录音的项目可经精密制作与现场乐队外壳扩到音乐节。\n\nParker 的录音室方法即唱片上的乐队；巡演成员现场演绎混音。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "psychedelic"
@@ -121,12 +121,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Let It Happen: long electronic build",
-        "zh": "Let It Happen：长电子推进"
+        "en": "Feels Like We Only Go Backwards",
+        "zh": "Feels Like We Only Go Backwards"
       },
       "body": {
-        "en": "Loop breakdown mid-song, dance pulse, psych harmony—Currents’ extended single.\n\nStudio accident/glitch aesthetic as arrangement.",
-        "zh": "曲中循环崩解、舞曲脉冲、迷幻和声——Currents 的延长单曲。\n\n把录音室事故/毛刺美学当编曲。"
+        "en": "Lonerism-era psych single: reverse-feeling guitar figure and falsetto hook.\n\nMarks the guitar-forward period before Currents’ disco turn.",
+        "zh": "《Lonerism》时期迷幻单曲：反向感吉他线条与假声钩子。\n\n标出《Currents》迪斯科转向前的吉他前置阶段。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -135,12 +135,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Less I Know: compact funk-psych hook",
-        "zh": "Less I Know：紧凑 funk-迷幻钩子"
+        "en": "Let It Happen: long electronic build",
+        "zh": "Let It Happen：长电子推进"
       },
       "body": {
-        "en": "Bass hook, falsetto, short runtime—streaming-era crossover object.\n\nConcise where Let It Happen is expansive.",
-        "zh": "贝斯钩子、假声、短时长——流媒体时代跨界对象。\n\n相对 Let It Happen 的扩展，此曲紧凑。"
+        "en": "Loop breakdown mid-song, dance pulse, psych harmony—Currents’ extended single.\n\nStudio glitch and loop editing treated as arrangement.",
+        "zh": "曲中循环崩解、舞曲脉冲、迷幻和声——《Currents》的延长单曲。\n\n把录音室毛刺与循环剪辑当作编曲。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -153,8 +153,8 @@
         "zh": "DIY 录音室最大化"
       },
       "body": {
-        "en": "Bedroom-to-arena path influences 2010s psych and indie-pop producers.\n\nDNA is mix craft + melody, not jam length.",
-        "zh": "卧室到舞台的路径影响 2010 年代迷幻与 indie-pop 制作人。\n\nDNA 是混音工艺 + 旋律，不是即兴时长。"
+        "en": "The bedroom-to-arena path influenced 2010s psych and indie-pop producers.\n\nConstants are mix craft and melody writing, not jam length.",
+        "zh": "卧室到舞台的路径影响了 2010 年代迷幻与 indie-pop 制作人。\n\n恒定的是混音工艺与旋律写作，而非即兴时长。"
       },
       "stickyVisual": "dna",
       "soundGenre": "psychedelic"
@@ -167,7 +167,7 @@
       },
       "body": {
         "en": "Interviews emphasize home-studio control and endless tweaking.\n\nMethod talk matches the credits list.",
-        "zh": "访谈强调家庭录音室控制与无尽微调。\n\n方法谈话与credits 列表匹配。"
+        "zh": "访谈强调家庭录音室控制与无尽微调。\n\n方法谈话与 credits 列表匹配。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -179,8 +179,8 @@
       "title": "Let It Happen",
       "year": 2015,
       "note": {
-        "en": "Psych as dancefloor hypnosis for the streaming age.",
-        "zh": "流媒体时代的迷幻舞池催眠。"
+        "en": "Extended psych-dance build for the streaming-era festival circuit.",
+        "zh": "流媒体时代音乐节线路上的延长迷幻舞曲推进。"
       }
     },
     "pioneeredGenres": [
@@ -188,7 +188,7 @@
       "indie-rock"
     ],
     "note": {
-      "en": "Bedroom production, festival scale.",
+      "en": "Bedroom production at festival scale.",
       "zh": "卧室制作，音乐节尺度。"
     }
   },

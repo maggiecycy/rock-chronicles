@@ -13,8 +13,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Solo artist filed here as a band-node: glam, Berlin trilogy, and Let’s Dance show persona and production shifts as a working method from 1969 onward.",
-    "zh": "以乐队节点收录的独唱歌手：从 1969 年起，glam、柏林三部曲与 Let’s Dance 把人设与制作切换当成工作方法。"
+    "en": "Solo artist filed here as a band-node. From Space Oddity (1969) through Ziggy glam, the Berlin albums with Eno, and Let’s Dance (1983), persona and production partners change by era on purpose.",
+    "zh": "以乐队节点收录的独唱歌手。从《Space Oddity》（1969）经 Ziggy glam、与 Eno 合作的柏林专辑，到《Let’s Dance》（1983），人设与制作伙伴按时期有意切换。"
   },
   "members": [
     {
@@ -58,8 +58,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Ziggy-era glam: Ronson guitar, Top of the Pops arm-around cue.",
-        "zh": "Ziggy 时期 glam：Ronson 吉他、Top of the Pops 搭肩提示。"
+        "en": "Ziggy-era glam; Mick Ronson guitar. Top of the Pops performance widely cited for UK visibility.",
+        "zh": "Ziggy 时期 glam；Mick Ronson 吉他。Top of the Pops 演出常被引用为英国可见度节点。"
       }
     },
     {
@@ -76,8 +76,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Berlin trilogy: Fripp guitar feedback beds, Eno treatments.",
-        "zh": "柏林三部曲：Fripp 吉他反馈铺底、Eno 处理。"
+        "en": "Berlin-period track; Fripp guitar feedback beds, Eno treatments, Visconti production.",
+        "zh": "柏林时期曲目；Fripp 吉他反馈铺底、Eno 处理、Visconti 制作。"
       }
     },
     {
@@ -94,8 +94,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Rodgers production + Vaughan guitar; 1980s pop-radio scale.",
-        "zh": "Rodgers 制作 + Vaughan 吉他；1980 年代流行电台尺度。"
+        "en": "Nile Rodgers production with Stevie Ray Vaughan guitar; major 1980s pop-radio hit.",
+        "zh": "Nile Rodgers 制作，Stevie Ray Vaughan 吉他；1980 年代流行电台重要热单。"
       }
     }
   ],
@@ -133,23 +133,23 @@
     "the-cure"
   ],
   "shortBio": {
-    "en": "Solo node: Ziggy glam, Berlin trilogy, Let’s Dance—persona and production as method.",
-    "zh": "独唱节点：Ziggy glam、柏林三部曲、Let’s Dance——人设与制作即方法。"
+    "en": "Solo node, 1969–2016. Ziggy glam, Berlin trilogy, Let’s Dance; session partners shift with each era.",
+    "zh": "独唱节点，1969–2016。Ziggy glam、柏林三部曲、《Let’s Dance》；录音室伙伴随时期更换。"
   },
   "body": {
-    "en": "Career hinge tracks run from Space Oddity (1969) through Ziggy Stardust (1972), the Eno collaborations Low/Heroes (1977), and Let’s Dance (1983).\n\nBowie’s value in this graph is procedural: lineup and style change on purpose, not as crisis. Session players and producers (Mick Ronson, Tony Visconti, Nile Rodgers) matter as much as the characters.",
-    "zh": "关键曲目从 Space Oddity（1969）经 Ziggy Stardust（1972）、与 Eno 合作的 Low/Heroes（1977），到 Let’s Dance（1983）。\n\n在本图谱里 Bowie 的价值是程序化的：阵容与风格有意切换，而非危机产物。录音室乐手与制作人（Mick Ronson、Tony Visconti、Nile Rodgers）与角色人设同等重要。"
+    "en": "Career markers run from Space Oddity (1969) through The Rise and Fall of Ziggy Stardust and the Spiders from Mars (1972), the Eno collaborations Low and “Heroes” (1977), and Let’s Dance (1983).\n\nIn this graph, Bowie matters for planned style and lineup change. Session players and producers—Mick Ronson, Tony Visconti, Brian Eno, Nile Rodgers—are as important as the stage characters.",
+    "zh": "生涯标记从《Space Oddity》（1969）经《The Rise and Fall of Ziggy Stardust and the Spiders from Mars》（1972）、与 Eno 合作的《Low》与《“Heroes”》（1977），到《Let’s Dance》（1983）。\n\n在本图谱里，Bowie 的重点是有计划的风格与阵容切换。录音室乐手与制作人——Mick Ronson、Tony Visconti、Brian Eno、Nile Rodgers——与舞台角色同等重要。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Persona shift as working method",
-        "zh": "人设切换作为工作方法"
+        "en": "Era changes as working practice",
+        "zh": "按时期切换的工作方式"
       },
       "body": {
-        "en": "Filed as a band-node: glam, Berlin, and Let’s Dance eras show planned production and costume changes. Session partners (Ronson, Eno, Fripp, Rodgers) are part of the method, not side notes.\n\nChange is the constant, not a crisis narrative.",
-        "zh": "以乐队节点收录：glam、柏林、Let’s Dance 时期展示有计划的制作与造型切换。录音室伙伴（Ronson、Eno、Fripp、Rodgers）是方法的一部分，不是旁注。\n\n切换是常量，不是危机叙事。"
+        "en": "Filed as a band-node: glam, Berlin, and Let’s Dance eras show planned production and costume changes. Session partners (Ronson, Eno, Fripp, Rodgers) belong in the method, not as side notes.\n\nChange is constant across the catalog.",
+        "zh": "以乐队节点收录：glam、柏林、Let’s Dance 时期展示有计划的制作与造型切换。录音室伙伴（Ronson、Eno、Fripp、Rodgers）属于工作方式本身，不是旁注。\n\n切换贯穿整份目录。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "alternative"
@@ -157,11 +157,11 @@
     {
       "id": "eras",
       "title": {
-        "en": "Ziggy / Berlin / Let’s Dance as lineups",
-        "zh": "Ziggy / 柏林 / Let’s Dance 作为阵容"
+        "en": "Ziggy, Berlin, Let’s Dance teams",
+        "zh": "Ziggy、柏林、Let’s Dance 团队"
       },
       "body": {
-        "en": "Lineup Versions here mean era teams: Spiders from Mars (Ziggy), Eno/Fripp/Visconti (Berlin), Rodgers/Vaughan (Let’s Dance). Same name; different studio fingerprints.\n\nUse the versions as production chapters.",
+        "en": "Lineup versions here mean era teams: Spiders from Mars (Ziggy), Eno/Fripp/Visconti (Berlin), Rodgers/Vaughan (Let’s Dance). Same name; different studio fingerprints.\n\nUse the versions as production chapters.",
         "zh": "此处阵容版本即时期团队：Spiders from Mars（Ziggy）、Eno/Fripp/Visconti（柏林）、Rodgers/Vaughan（Let’s Dance）。同一名字；不同录音室指纹。\n\n把版本当制作章节用。"
       },
       "stickyVisual": "lineupVersions",
@@ -170,12 +170,12 @@
     {
       "id": "ziggy",
       "title": {
-        "en": "Starman: glam on TOTP",
-        "zh": "Starman：TOTP 上的 glam"
+        "en": "Starman and Ziggy",
+        "zh": "《Starman》与 Ziggy"
       },
       "body": {
-        "en": "Ziggy Stardust cycle: Ronson’s guitar and string arrangements, Bowie’s character vocal. Top of the Pops performance is a UK media hinge for glam visibility.\n\nSpace Oddity (1969) remains the earlier chart entry.",
-        "zh": "Ziggy Stardust 周期：Ronson 吉他与弦乐编排、Bowie 角色人声。Top of the Pops 演出是英国 glam 可见度的媒体铰链。\n\nSpace Oddity（1969）仍是更早的榜单入口。"
+        "en": "The Ziggy Stardust cycle uses Ronson’s guitar and string arrangements with Bowie’s character vocal. The Top of the Pops performance is a UK media marker for glam visibility.\n\nSpace Oddity (1969) remains the earlier chart entry.",
+        "zh": "Ziggy Stardust 周期使用 Ronson 吉他与弦乐编排，以及 Bowie 的角色人声。Top of the Pops 演出是英国 glam 可见度的媒体标记。\n\n《Space Oddity》（1969）仍是更早的榜单入口。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -184,12 +184,12 @@
     {
       "id": "berlin",
       "title": {
-        "en": "Berlin: texture over costume",
-        "zh": "柏林：纹理优先于戏服"
+        "en": "Berlin period",
+        "zh": "柏林时期"
       },
       "body": {
-        "en": "Low and Heroes (with Eno) foreground ambient beds, Fripp feedback, Visconti production. Vocal sits inside texture more than arena melisma.\n\nPunk/post-punk neighbors cite the Berlin cool more than Ziggy glitter.",
-        "zh": "Low 与 Heroes（与 Eno）突出氛围铺底、Fripp 反馈、Visconti 制作。人声坐在纹理里，而非体育场花腔。\n\n朋克/后朋克邻域更多引用柏林冷感，而非 Ziggy 闪光。"
+        "en": "Low and “Heroes” (with Eno) foreground ambient beds, Fripp feedback, and Visconti production. The vocal sits inside texture more than arena melisma.\n\nPunk and post-punk neighbors cite this period’s cool more often than Ziggy glitter.",
+        "zh": "《Low》与《“Heroes”》（与 Eno）突出氛围铺底、Fripp 反馈与 Visconti 制作。人声坐在纹理里，而非体育场花腔。\n\n朋克与后朋克邻域更多引用这一时期的冷感，而非 Ziggy 闪光。"
       },
       "stickyVisual": "dna",
       "soundGenre": "alternative"
@@ -197,12 +197,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Won’t be boring / instant star",
-        "zh": "不会无聊 / 速成明星"
+        "en": "Quotes and session credits",
+        "zh": "引语与录音室署名"
       },
       "body": {
-        "en": "Circulated lines sell the procedural claim: change as promise, stardom as constructed. Pair them with named producers and session players.\n\nQuotes are posture evidence, not prophecy.",
-        "zh": "流传短句卖程序化主张：切换即承诺，明星身份即建构。对照具名制作人与录音室乐手。\n\n引语是姿态证据，不是预言。"
+        "en": "Circulated lines emphasize change and constructed stardom. Pair them with named producers and session players on the records.\n\nQuotes are posture evidence beside the credits.",
+        "zh": "流传短句强调切换与建构出的明星身份。对照唱片上具名制作人与录音室乐手。\n\n引语是姿态证据，与署名并列。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -211,12 +211,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Studio mutation template",
-        "zh": "录音室变异模板"
+        "en": "Later alternative cites",
+        "zh": "后来 alternative 的引用"
       },
       "body": {
-        "en": "Radiohead and later alternative acts cite Berlin-era studio mutation. Punk and glam both claim pieces of the costume history.\n\nIn this graph: method of changing method.",
-        "zh": "Radiohead 与后来 alternative 引用柏林时期录音室变异。朋克与 glam 都认领戏服史的一部分。\n\n在本图谱：改变方法的方法。"
+        "en": "Radiohead and later alternative acts cite Berlin-era studio work. Punk and glam both claim pieces of the costume history.\n\nIn this graph: deliberate era change as catalog structure.",
+        "zh": "Radiohead 与后来 alternative 引用柏林时期录音室工作。朋克与 glam 都认领戏服史的一部分。\n\n在本图谱：有意的时期切换即目录结构。"
       },
       "stickyVisual": "influence",
       "soundGenre": "alternative"
@@ -251,8 +251,8 @@
         }
       ],
       "note": {
-        "en": "Glam character cycle; Hunky Dory through Aladdin Sane orbit.",
-        "zh": "Glam 角色周期；Hunky Dory 至 Aladdin Sane 轨道。"
+        "en": "Glam character cycle; Hunky Dory through Aladdin Sane.",
+        "zh": "Glam 角色周期；从《Hunky Dory》到《Aladdin Sane》。"
       }
     },
     {
@@ -282,8 +282,8 @@
         }
       ],
       "note": {
-        "en": "Low / Heroes / Lodger; texture and ambient beds.",
-        "zh": "Low / Heroes / Lodger；纹理与氛围铺底。"
+        "en": "Low / “Heroes” / Lodger; texture and ambient beds.",
+        "zh": "《Low》/《“Heroes”》/《Lodger》；纹理与氛围铺底。"
       }
     },
     {
@@ -309,8 +309,8 @@
         }
       ],
       "note": {
-        "en": "Global pop-radio scale; funk-rock production.",
-        "zh": "全球流行电台尺度；放克摇滚制作。"
+        "en": "Major pop-radio scale; funk-rock production with Rodgers.",
+        "zh": "大型流行电台尺度；与 Rodgers 的放克摇滚制作。"
       }
     }
   ],
@@ -319,8 +319,8 @@
       "title": "Space Oddity",
       "year": 1969,
       "note": {
-        "en": "Early chart hinge; Major Tom as recurring character cue.",
-        "zh": "早期榜单铰链；Major Tom 作为反复角色提示。"
+        "en": "Early UK chart single; Major Tom as recurring character.",
+        "zh": "早期英国榜单单曲；Major Tom 作为反复出现的角色。"
       }
     },
     "pioneeredGenres": [
@@ -328,8 +328,8 @@
       "psychedelic"
     ],
     "note": {
-      "en": "Persona and production shift as deliberate method.",
-      "zh": "人设与制作切换作为有意方法。"
+      "en": "Persona and production partners change by era on purpose.",
+      "zh": "人设与制作伙伴按时期有意切换。"
     }
   }
 }

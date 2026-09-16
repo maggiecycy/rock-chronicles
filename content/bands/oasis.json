@@ -9,8 +9,8 @@
     "alternative"
   ],
   "whyMatters": {
-    "en": "Manchester Britpop band that restored loud, Beatles-citing guitar anthems to mid-90s UK charts against grunge’s US dominance.",
-    "zh": "曼彻斯特 Britpop：在 grunge 的美国主导下，把大声、引用 Beatles 的吉他颂歌送回 90 年代中期英国榜。"
+    "en": "Manchester Britpop band formed in 1991. Definitely Maybe (1994) and (What’s the Story) Morning Glory? (1995) put loud, Beatles-citing guitar songs back on mid-90s UK charts while US alternative radio favored grunge.",
+    "zh": "曼彻斯特 Britpop 乐队，1991 年成立。《Definitely Maybe》（1994）与《(What’s the Story) Morning Glory?》（1995）以大声、引用 Beatles 的吉他歌曲占据 90 年代中期英国榜；同期美国 alternative 电台以 grunge 为主。"
   },
   "members": [
     {
@@ -68,8 +68,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Mid-tempo UK counter to grunge gloom.",
-        "zh": "对位 grunge 阴郁的中速英国宣言。"
+        "en": "Definitely Maybe–era single; mid-tempo, melody forward, wide guitars.",
+        "zh": "《Definitely Maybe》时期单曲；中速、旋律靠前、吉他铺得宽。"
       }
     },
     {
@@ -85,8 +85,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Britpop’s global acoustic-electric hook.",
-        "zh": "Britpop 的全球原声—电声钩子。"
+        "en": "From Morning Glory; acoustic strum figure, Liam vocal, singalong chorus; major international hit.",
+        "zh": "出自《Morning Glory》；原声扫弦音型、Liam 人声、合唱副歌；重要国际热单。"
       }
     }
   ],
@@ -121,24 +121,24 @@
     "arctic-monkeys"
   ],
   "shortBio": {
-    "en": "Gallagher brothers Britpop; Wonderwall and Live Forever are the mass poles.",
-    "zh": "Gallagher 兄弟的 Britpop；Wonderwall 与 Live Forever 是大众两极。"
+    "en": "Gallagher brothers Britpop, 1991–2009. Wonderwall and Live Forever are the main mass-market references.",
+    "zh": "Gallagher 兄弟的 Britpop，1991–2009。《Wonderwall》与《Live Forever》是主要大众参照。"
   },
   "decisive": true,
   "body": {
-    "en": "Formed 1991. Definitely Maybe (1994) and (What’s the Story) Morning Glory? (1995) fix Noel’s songwriting, Liam’s sneering mid-range, loud guitars, and terrace-chant choruses.\n\nLive Forever (1994) and Wonderwall / Don’t Look Back in Anger (1995) are the teaching set. Sibling feud and lineup churn are documented; the musical object is song craft plus volume.",
-    "zh": "1991 年组建。Definitely Maybe（1994）与 (What’s the Story) Morning Glory?（1995）定型 Noel 写作、Liam 冷笑中音区、大声吉他与看台口号副歌。\n\nLive Forever（1994）与 Wonderwall / Don’t Look Back in Anger（1995）是教材组。兄弟争执与阵容更替有文献；音乐对象是歌曲工艺加音量。"
+    "en": "Oasis formed in Manchester in 1991. Noel Gallagher wrote the songs; Liam Gallagher sang in a mid-range, nasal delivery. Definitely Maybe (1994) and (What’s the Story) Morning Glory? (1995) fixed open chords, loud mixes, and large choruses as the band’s core sound.\n\nLive Forever (1994) and Wonderwall / Don’t Look Back in Anger (1995) are the best-known singles. Sibling conflict and rhythm-section changes are well documented; Creation Records released the peak albums. The band split in 2009.",
+    "zh": "Oasis 于 1991 年在曼彻斯特成立。Noel Gallagher 写歌；Liam Gallagher 以中音区、鼻音式唱法演唱。《Definitely Maybe》（1994）与《(What’s the Story) Morning Glory?》（1995）定型开放和弦、大声混音与大副歌。\n\n《Live Forever》（1994）与《Wonderwall》/《Don’t Look Back in Anger》（1995）是最知名单曲。兄弟争执与节奏组变动有大量记录；巅峰专辑由 Creation Records 发行。乐队于 2009 年解散。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Britain turns guitar volume back up",
-        "zh": "英国把吉他音量拧回去"
+        "en": "Loud guitar Britpop on UK charts",
+        "zh": "英国榜上的大声吉他 Britpop"
       },
       "body": {
-        "en": "Oasis matter as a chart and attitude reset: open chords, loud mixes, northern vocal, Beatles/Stone Roses citations against mid-90s US grunge radio.\n\nBritpop’s stadium pole, not its art-school pole.",
-        "zh": "Oasis 要紧处是榜单与态度重置：开放和弦、大声混音、北方人声、Beatles/Stone Roses 引用，对位 90 年代中期美国 grunge 电台。\n\nBritpop 的体育场一极，而非艺术学院一极。"
+        "en": "Oasis used open chords, loud guitar mixes, northern English vocals, and clear verse/chorus shapes. Songwriting often cites 1960s UK pop (Beatles) and Madchester guitar bands (Stone Roses).\n\nIn the mid-1990s that approach sat on UK charts while US alternative radio still leaned toward grunge.",
+        "zh": "Oasis 使用开放和弦、大声吉他混音、英格兰北方人声，以及清楚的主副歌结构。写歌常引用 1960 年代英国流行（Beatles）与 Madchester 吉他乐队（Stone Roses）。\n\n90 年代中期这套写法占据英国榜，同期美国 alternative 电台仍偏 grunge。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "britpop"
@@ -146,12 +146,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Brothers fixed, rhythm section orbiting",
-        "zh": "兄弟固定，节奏组绕行"
+        "en": "Brothers and changing rhythm section",
+        "zh": "兄弟与变动的节奏组"
       },
       "body": {
-        "en": "Noel/Liam are the constant engine; guitarists and drummers change across peaks and later years.\n\nClassic Britpop peak version vs later name-continuation versions.",
-        "zh": "Noel/Liam 是恒定引擎；吉他手与鼓手在巅峰与后期更替。\n\n经典 Britpop 巅峰版本 vs 后期名称延续版本。"
+        "en": "Noel and Liam Gallagher remain the constant core. Guitarists, bassists, and drummers change across the Britpop peak and later years.\n\nThe 1994–1999 five-piece with Paul Arthurs, Paul McGuigan, and Alan White is the best-known early lineup.",
+        "zh": "Noel 与 Liam Gallagher 是固定核心。吉他手、贝斯手与鼓手在 Britpop 巅峰与后期多有更换。\n\n1994–1999 与 Paul Arthurs、Paul McGuigan、Alan White 组成的五人组是最熟悉的早期阵容。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "britpop"
@@ -159,12 +159,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Live Forever: mid-tempo confidence single",
-        "zh": "Live Forever：中速自信单曲"
+        "en": "Live Forever",
+        "zh": "《Live Forever》"
       },
       "body": {
-        "en": "Definitely Maybe–era statement track—melody forward, guitars wide, lyric defiance without metal gloom.\n\nUK answer to imported alternative sadness, in song form.",
-        "zh": "Definitely Maybe 时期声明曲——旋律靠前、吉他宽、歌词反抗而无金属阴郁。\n\n以歌曲形式回答进口 alternative 伤感。"
+        "en": "Live Forever is a Definitely Maybe–era statement single: melody up front, wide guitars, lyric confidence without metal gloom.\n\nIt is one of the clearest early examples of the band’s mid-tempo writing.",
+        "zh": "《Live Forever》是《Definitely Maybe》时期的声明式单曲：旋律靠前、吉他宽、歌词自信，无金属阴郁。\n\n是乐队早期中速写法的清晰例子。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -173,12 +173,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Wonderwall: global acoustic-electric hook",
-        "zh": "Wonderwall：全球原声—电声钩子"
+        "en": "Wonderwall",
+        "zh": "《Wonderwall》"
       },
       "body": {
-        "en": "Strummed figure, Liam’s vocal, singalong chorus—exportable beyond UK Britpop wars.\n\nEarworm with attitude; arrangement stays simple on purpose.",
-        "zh": "扫弦音型、Liam 人声、合唱副歌——可导出到英国 Britpop 论战之外。\n\n带态度的耳虫；编曲故意保持简单。"
+        "en": "Wonderwall centers on a strummed acoustic figure, Liam’s vocal, and a singalong chorus. The arrangement stays simple on purpose.\n\nIt became the band’s best-known international single beyond the UK Britpop press cycle.",
+        "zh": "《Wonderwall》以原声扫弦音型、Liam 人声与合唱副歌为主。编曲故意保持简单。\n\n成为乐队在英国 Britpop 媒体周期之外最知名的国际单曲。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -187,12 +187,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Beatles ghosts, Stone Roses walk",
-        "zh": "Beatles 幽灵，Stone Roses 步态"
+        "en": "Beatles and Madchester citations",
+        "zh": "Beatles 与 Madchester 引用"
       },
       "body": {
-        "en": "Chord moves and vocal phrasing cite 1960s UK pop; swagger and baggy residue cite Madchester. Not a cover band—a citation engine at terrace volume.\n\nInfluence shows in 2000s UK indie anthems.",
-        "zh": "和弦进行与人声句式引用 1960 年代英国流行；姿态与 baggy 残余引用 Madchester。不是翻唱乐队——是看台音量的引用引擎。\n\n影响见于 2000 年代英国 indie 颂歌。"
+        "en": "Chord moves and vocal phrasing often cite 1960s UK pop. Swagger and baggy-era residue cite Madchester, especially The Stone Roses.\n\n2000s UK indie anthem bands frequently name Oasis as a direct reference.",
+        "zh": "和弦进行与人声句式常引用 1960 年代英国流行。姿态与 baggy 时期残余引用 Madchester，尤其是 The Stone Roses。\n\n2000 年代英国 indie 颂歌乐队常直接点名 Oasis。"
       },
       "stickyVisual": "dna",
       "soundGenre": "britpop"
@@ -200,12 +200,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Interviews as competitive sport",
-        "zh": "访谈如竞技"
+        "en": "Press rivalry and interviews",
+        "zh": "媒体对峙与访谈"
       },
       "body": {
-        "en": "Press feuds with Blur and between brothers are part of the public record. Useful as scene sociology; musical judgment still returns to the singles.\n\nAttitude is documented speech, not metaphor.",
-        "zh": "与 Blur 及兄弟间的媒体争执属公开记录。可作场景社会学；音乐判断仍回到单曲。\n\n态度是被记录的话语，不是比喻。"
+        "en": "Press feuds with Blur and between the brothers are part of the public record. They document attitude and publicity; musical judgment still returns to the singles and albums.\n\nNoel’s and Liam’s interview lines are often quoted as scene sociology.",
+        "zh": "与 Blur 及兄弟间的媒体争执属公开记录。它们记录态度与宣传；音乐判断仍回到单曲与专辑。\n\nNoel 与 Liam 的访谈句常被用作场景社会学材料。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -246,8 +246,8 @@
         }
       ],
       "note": {
-        "en": "Sibling engine at peak before later fractures.",
-        "zh": "后期分裂前的兄弟引擎巅峰。"
+        "en": "Best-known peak five-piece before later fractures.",
+        "zh": "后期分裂前最熟悉的巅峰五人组。"
       }
     },
     {
@@ -274,8 +274,8 @@
         }
       ],
       "note": {
-        "en": "Name continues; cast and chemistry shift.",
-        "zh": "名称延续；人马与化学作用改变。"
+        "en": "Name continues; guitar and bass seats change (Gem Archer, Andy Bell, and others).",
+        "zh": "名称延续；吉他与贝斯席位更换（Gem Archer、Andy Bell 等）。"
       }
     }
   ],
@@ -285,15 +285,15 @@
       "year": 1994,
       "note": {
         "en": "Early Definitely Maybe–era confidence single.",
-        "zh": "Definitely Maybe 早期自信单曲。"
+        "zh": "《Definitely Maybe》早期自信单曲。"
       }
     },
     "pioneeredGenres": [
       "britpop"
     ],
     "note": {
-      "en": "Beatles-citing craft + terrace volume on mid-90s charts.",
-      "zh": "引用 Beatles 的工艺 + 看台音量占据 90 年代中期榜单。"
+      "en": "Beatles-citing song craft and loud guitar choruses on mid-90s UK charts.",
+      "zh": "引用 Beatles 的写歌与大声吉他副歌，占据 90 年代中期英国榜。"
     }
   }
 }

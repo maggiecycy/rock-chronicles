@@ -8,8 +8,8 @@
     "rock-n-roll"
   ],
   "whyMatters": {
-    "en": "Memphis artist filed as band-node: 1954–58 Sun/RCA singles made rock’n’roll a mass US youth format via radio, TV, and film.",
-    "zh": "以乐队节点收录的孟菲斯艺人：1954–58 Sun/RCA 单曲经电台、电视与电影把摇滚做成美国大众青年格式。"
+    "en": "Memphis singer filed as a band node. 1954–58 Sun and RCA singles carried rock’n’roll to a national US audience through radio, television, and film.",
+    "zh": "以乐队节点收录的孟菲斯歌手。1954–58 年 Sun 与 RCA 单曲经电台、电视与电影，把摇滚带给全美听众。"
   },
   "members": [
     {
@@ -44,8 +44,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "1954 Sun session spark single.",
-        "zh": "1954 Sun 录音火花单曲。"
+        "en": "1954 Sun Records side with Scotty Moore and Bill Black; early national radio play from Memphis.",
+        "zh": "1954 年 Sun Records 录音，配 Scotty Moore 与 Bill Black；自孟菲斯进入全国电台播放。"
       }
     },
     {
@@ -59,8 +59,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "TV-era national shock cover.",
-        "zh": "电视时代全国冲击翻唱。"
+        "en": "1956 RCA hit; national TV appearances made the performance widely visible.",
+        "zh": "1956 年 RCA 热单；全国电视演出使表演被广泛看见。"
       }
     }
   ],
@@ -92,24 +92,24 @@
     "the-rolling-stones"
   ],
   "shortBio": {
-    "en": "Presley rock’n’roll; That’s All Right to Jailhouse Rock mark the breakthrough arc.",
-    "zh": "Presley 摇滚；从 That’s All Right 到 Jailhouse Rock 标记突破弧线。"
+    "en": "Memphis rock’n’roll, 1954–77. That’s All Right, Hound Dog, and Jailhouse Rock mark the early national years.",
+    "zh": "孟菲斯摇滚，1954–77。《That’s All Right》、《Hound Dog》与《Jailhouse Rock》标记早期全国时期。"
   },
   "decisive": true,
   "body": {
-    "en": "Sun Records sides with Scotty Moore and Bill Black fuse country and R&B; RCA nationalizes the sound; TV appearances and movies scale the image.\n\nThat’s All Right (1954), Hound Dog (1956), Jailhouse Rock (1957) are the teaching singles. Later Vegas/comeback eras are separate chapters; this page tracks the rock’n’roll ignition set.",
-    "zh": "与 Scotty Moore、Bill Black 的 Sun 录音融合乡村与 R&B；RCA 将其全国化；电视与电影放大形象。\n\nThat’s All Right（1954）、Hound Dog（1956）、Jailhouse Rock（1957）是教学单曲。后期拉斯维加斯/复出是另章；本页追踪摇滚点火组。"
+    "en": "Elvis Presley began recording at Sun Records in Memphis in 1954 with guitarist Scotty Moore and bassist Bill Black. The early sides combine country and R&B material at a faster rock’n’roll pace. RCA signed him in 1955 and pushed the records onto national radio and television; film roles followed in the late 1950s.\n\nThat’s All Right (1954), Hound Dog (1956), and Jailhouse Rock (1957) are the main early reference singles on this page. Later Las Vegas and comeback periods are separate chapters; the focus here is the 1954–58 rock’n’roll set.",
+    "zh": "Elvis Presley 于 1954 年在孟菲斯 Sun Records 开始录音，吉他手为 Scotty Moore，贝斯手为 Bill Black。早期作品把乡村与 R&B 材料放在更快的摇滚速度上。1955 年与 RCA 签约后，唱片进入全国电台与电视；1950 年代末起参与电影。\n\n本页早期主要参照单曲为《That’s All Right》（1954）、《Hound Dog》（1956）与《Jailhouse Rock》（1957）。后期拉斯维加斯与复出是另章；此处聚焦 1954–58 的摇滚作品。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Rock’n’roll as mass youth format",
-        "zh": "摇滚作为大众青年格式"
+        "en": "National audience, 1954–58",
+        "zh": "全国听众，1954–58"
       },
       "body": {
-        "en": "Elvis matters here as the distribution event: regional hybrid music becomes national via new media. Musical materials are Black and white Southern forms in contact.\n\nCatalog of early singles is the chronicle object.",
-        "zh": "Elvis 在此处要紧的是分发事件：地区混成音乐经新媒体变成全国。音乐材料是南方黑白形式的接触。\n\n早期单曲目录是编年对象。"
+        "en": "On this site Elvis is the early case where a regional Southern mix of country and R&B reached a mass US youth audience through new media: radio, network TV, and Hollywood film.\n\nThe chronicle object is the early singles catalog and the Moore/Black/(later) Fontana band sound behind the voice.",
+        "zh": "在本站，Elvis 是早期案例：南方地区的乡村与 R&B 混成，经电台、全国电视与好莱坞电影到达美国大众青年听众。\n\n编年对象是早期单曲目录，以及人声背后的 Moore/Black（其后含 Fontana）乐队声音。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "rock-n-roll"
@@ -117,12 +117,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "That’s All Right: Sun spark",
-        "zh": "That’s All Right：Sun 火花"
+        "en": "That’s All Right",
+        "zh": "《That’s All Right》"
       },
       "body": {
-        "en": "1954 Sun session energy—tempo flip on blues material, Moore’s guitar, Presley’s vocal attack.\n\nLocal label, national consequences.",
-        "zh": "1954 Sun 录音能量——蓝调材料的速度翻转、Moore 吉他、Presley 人声攻击。\n\n本地厂牌，全国后果。"
+        "en": "That’s All Right (1954) was cut at Sun in Memphis. The session takes Arthur Crudup’s blues material at a brighter tempo, with Moore’s electric guitar and Presley’s vocal attack.\n\nLocal airplay spread quickly; the side marks the start of his commercial recording career.",
+        "zh": "《That’s All Right》（1954）录于孟菲斯 Sun。录音把 Arthur Crudup 的蓝调材料提速，配 Moore 的电吉他与 Presley 的人声。\n\n本地电台播放很快扩大；这首单曲标志着他商业录音生涯的开始。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -131,12 +131,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Hound Dog: TV-era shock single",
-        "zh": "Hound Dog：电视时代冲击单曲"
+        "en": "Hound Dog",
+        "zh": "《Hound Dog》"
       },
       "body": {
-        "en": "Big Otis cover rewritten for mass TV; performance controversy is media history beside the arrangement.\n\nRiff and vocal hook at national scale.",
-        "zh": "改写 Big Mama Thornton 作品打进大众电视；表演争议是编曲旁的媒介史。\n\n全国尺度的 riff 与人声钩子。"
+        "en": "Hound Dog (1956) is an RCA-period hit based on the Big Mama Thornton recording, rearranged for Presley’s band and vocal.\n\nTelevision performances of the song were widely seen and debated; the arrangement itself stays short, riff-led, and built for a national pop audience.",
+        "zh": "《Hound Dog》（1956）是 RCA 时期热单，改编自 Big Mama Thornton 的录音，按 Presley 乐队与人声重新编曲。\n\n该曲的电视演出被广泛观看并引发争论；编曲本身短、以 riff 带动，面向全国流行听众。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -145,12 +145,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Template for rock stardom logistics",
-        "zh": "摇滚明星后勤模板"
+        "en": "Singer, band, and media",
+        "zh": "歌手、乐队与媒介"
       },
       "body": {
-        "en": "Later rock inherits the singer-as-brand plus band-as-support model, for better and worse.\n\nDNA is media + rhythm hybrid, not only vocal myth.",
-        "zh": "后来摇滚继承「主唱即品牌 + 乐队即支持」模型，利弊并存。\n\nDNA 是媒介 + 节奏混成，不只是人声神话。"
+        "en": "Later rock acts often follow a pattern visible here: a front-line singer as the public face, with a working band for records and tours, plus radio, TV, and film as distribution channels.\n\nMusically, the early sides rest on Southern country and R&B contact—Moore’s guitar lines and Black’s slap bass under Presley’s vocal—more than on any single invented style name.",
+        "zh": "后来的摇滚艺人常沿用此处可见的编制：主唱作公开形象，录音与巡演由固定乐队支撑，再经电台、电视与电影发行。\n\n音乐上，早期作品建立在南方乡村与 R&B 的接触上——Moore 的吉他线、Black 的 slap 贝斯托住 Presley 的人声——多于依赖某一个发明出来的风格名称。"
       },
       "stickyVisual": "dna",
       "soundGenre": "rock-n-roll"
@@ -158,12 +158,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Press and TV soundbites",
-        "zh": "媒体与电视原话"
+        "en": "Press soundbites",
+        "zh": "媒体原话"
       },
       "body": {
-        "en": "Abundant quotes; useful ones describe work rate and repertoire choice.\n\nSkip fatalistic language.",
-        "zh": "引语极多；有用的描述工作强度与曲目选择。\n\n跳过宿命论语言。"
+        "en": "Press quotes from the mid-1950s are plentiful. The more useful ones describe repertoire choice, rhythm, and how he talked about the work in public.\n\nFor sound and arrangement, the Sun and early RCA sides remain the primary evidence.",
+        "zh": "1950 年代中期的媒体引语很多。较有用的部分谈曲目选择、节奏，以及他如何公开谈论工作。\n\n要听声音与编曲，仍以 Sun 与早期 RCA 单曲为第一手证据。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -175,16 +175,16 @@
       "title": "That's All Right",
       "year": 1954,
       "note": {
-        "en": "Sun Studios flashpoint: country + R&B collide on radio.",
-        "zh": "Sun 录音室引爆点：Country 与 R&B 在电台碰撞。"
+        "en": "Sun Studios, Memphis: country and R&B material at rock’n’roll tempo on regional then national radio.",
+        "zh": "孟菲斯 Sun 录音室：乡村与 R&B 材料以摇滚速度，经地方再进全国电台。"
       }
     },
     "pioneeredGenres": [
       "rock-n-roll"
     ],
     "note": {
-      "en": "Not the inventor of the sound—but the mass-media ignition.",
-      "zh": "未必发明音色，却点燃了大众媒介。"
+      "en": "Early rock’n’roll brought to a mass US audience through Sun, RCA, radio, TV, and film.",
+      "zh": "经 Sun、RCA、电台、电视与电影，把早期摇滚带给美国大众听众。"
     }
   },
   "lineupVersions": [
@@ -215,8 +215,8 @@
         }
       ],
       "note": {
-        "en": "Moore/Black/Fontana as rockabilly engine behind the voice.",
-        "zh": "Moore/Black/Fontana 作人声背后的 rockabilly 引擎。"
+        "en": "Moore, Black, and Fontana as the core early rockabilly band behind the vocal.",
+        "zh": "Moore、Black 与 Fontana 组成早期 rockabilly 核心乐队，托住主唱。"
       }
     }
   ]

@@ -10,8 +10,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Manchester band that fused indie jangle with dance grooves on The Stone Roses (1989, John Leckie); Fools Gold’s extended 12\" form predates Britpop’s chart boom and feeds Oasis’s guitar ambition.",
-    "zh": "曼彻斯特乐队：在 The Stone Roses（1989，John Leckie）把 indie jangle 与舞曲 groove 融合；Fools Gold 延长 12\" 形态早于 Britpop 榜单热潮，喂养 Oasis 吉他野心。"
+    "en": "Manchester band formed in 1983. The Stone Roses (1989, produced by John Leckie) fused indie jangle with dance grooves; Fools Gold’s extended 12\" form predates Britpop’s mid-90s chart boom and is often cited by Oasis.",
+    "zh": "曼彻斯特乐队，1983 年成立。《The Stone Roses》（1989，John Leckie 制作）把 indie jangle 与舞曲 groove 结合；《Fools Gold》延长 12\" 形态早于 Britpop 90 年代中期榜单热潮，常被 Oasis 引用。"
   },
   "members": [
     {
@@ -70,12 +70,12 @@
     "blur"
   ],
   "shortBio": {
-    "en": "Madchester guitar-dance four; Fools Gold is the extended groove single, 1989 debut the Britpop preface.",
-    "zh": "Madchester 吉他—舞曲四人组；Fools Gold 是延长 groove 单曲，1989 首专是 Britpop 前言。"
+    "en": "Madchester guitar-dance four. Fools Gold is the extended groove single; the 1989 debut is the main Britpop preface.",
+    "zh": "Madchester 吉他—舞曲四人组。《Fools Gold》是延长 groove 单曲；1989 首专是主要 Britpop 前言。"
   },
   "body": {
-    "en": "Formed 1983 in Manchester. John Leckie’s production on The Stone Roses (1989) set Ian Brown’s flat vocal, John Squire’s wah/jangle leads, Mani’s melodic bass, and Reni’s funk drums—the guitar wing of baggy culture.\n\nFools Gold (1989) is the cited 12\" groove. Second Coming (1994) arrived after legal delays and Reni’s exit; catalog is short but Oasis and Britpop guitar bands still cite the debut as template.",
-    "zh": "1983 年于曼彻斯特组建。John Leckie 制作的 The Stone Roses（1989）定型 Ian Brown 平人声、John Squire wah/jangle 主音、Mani 旋律贝斯与 Reni funk 鼓——baggy 文化的吉他翼。\n\nFools Gold（1989）是被引用的 12\" groove。Second Coming（1994）在法律拖延与 Reni 离队后到来；目录虽短，Oasis 与 Britpop 吉他乐队仍引首专为模板。"
+    "en": "The Stone Roses formed in Manchester in 1983. John Leckie’s production on The Stone Roses (1989) set Ian Brown’s flat vocal, John Squire’s wah/jangle leads, Mani’s melodic bass, and Reni’s funk drums—the guitar side of baggy/Madchester culture.\n\nFools Gold (1989) is the best-known extended 12\". Second Coming (1994) followed legal delays and lineup strain; Reni left during that period. The catalog is short; Oasis and other Britpop guitar bands still cite the debut.",
+    "zh": "The Stone Roses 于 1983 年在曼彻斯特成立。John Leckie 制作的《The Stone Roses》（1989）定型 Ian Brown 平人声、John Squire wah/jangle 主音、Mani 旋律贝斯与 Reni funk 鼓——baggy/Madchester 文化的吉他一面。\n\n《Fools Gold》（1989）是最知名的延长 12\"。《Second Coming》（1994）在法律拖延与阵容紧张后推出；Reni 在该时期离队。目录虽短，Oasis 等 Britpop 吉他乐队仍常引用首专。"
   },
   "scenes": [
     {
@@ -131,8 +131,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Second Coming lead single; heavier Squire riff, delayed five-year follow-up.",
-        "zh": "Second Coming 主打；更重的 Squire riff，延迟五年的续作。"
+        "en": "Second Coming lead single; heavier Squire riff after a five-year gap.",
+        "zh": "《Second Coming》主打；五年间隔后更重的 Squire riff。"
       }
     }
   ],
@@ -140,12 +140,12 @@
     {
       "id": "thesis",
       "title": {
-        "en": "Guitar-dance fusion before Britpop charts",
-        "zh": "Britpop 榜单前的吉他—舞曲融合"
+        "en": "Guitar and dance groove, 1989",
+        "zh": "1989：吉他与舞曲 groove"
       },
       "body": {
-        "en": "The 1989 debut merges indie jangle with dance-floor length—Fools Gold runs on bass/drum loop, not verse-chorus radio logic. She Bangs the Drums adds tambourine-driven mid-tempo lift.\n\nMadchester fact: guitar band borrowing club groove mechanics.",
-        "zh": "1989 首专合并 indie jangle 与舞池时长——Fools Gold 靠贝斯/鼓循环，非主副歌电台逻辑。She Bangs the Drums 加入铃鼓驱动中速抬升。\n\nMadchester 事实：吉他乐队借用 club groove 机制。"
+        "en": "The 1989 debut merges indie jangle with dance-floor length. Fools Gold runs on bass/drum loop more than short verse-chorus radio form. She Bangs the Drums adds tambourine-driven mid-tempo lift.\n\nMadchester fact: a guitar band borrowing club groove mechanics.",
+        "zh": "1989 首专合并 indie jangle 与舞池时长。《Fools Gold》更多靠贝斯/鼓循环，而非短主副歌电台形态。《She Bangs the Drums》加入铃鼓驱动的中速抬升。\n\nMadchester 事实：吉他乐队借用 club groove 机制。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "indie-rock"
@@ -153,12 +153,12 @@
     {
       "id": "lineupVersions",
       "title": {
-        "en": "Classic four and Second Coming fracture",
-        "zh": "经典四人组与 Second Coming 分裂"
+        "en": "Classic four and Second Coming",
+        "zh": "经典四人组与 Second Coming"
       },
       "body": {
-        "en": "Peak silhouette: Brown vocal, Squire guitar, Mani bass, Reni drums. Reni exits mid-1990s sessions; Second Coming ships heavier, Zeppelin-leaning riffs without the debut’s dance length.\n\n2011–2017 reunion restores the four names on festival stages.",
-        "zh": "峰值剪影：Brown 人声、Squire 吉他、Mani 贝斯、Reni 鼓。Reni 在 1990 年代中期录音期间离队；Second Coming 交出更重、偏 Zeppelin 的 riff，失去首专舞曲时长。\n\n2011–2017 重聚在音乐节恢复四人名。"
+        "en": "Peak lineup: Brown vocal, Squire guitar, Mani bass, Reni drums. Reni exits mid-1990s sessions; Second Coming ships heavier, Zeppelin-leaning riffs with less of the debut’s dance length.\n\n2011–2017 reunion restores the four names on festival stages.",
+        "zh": "巅峰阵容：Brown 人声、Squire 吉他、Mani 贝斯、Reni 鼓。Reni 在 1990 年代中期录音期间离队；《Second Coming》交出更重、偏 Zeppelin 的 riff，舞曲时长减少。\n\n2011–2017 重聚在音乐节恢复四人名。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "alternative"
@@ -166,12 +166,12 @@
     {
       "id": "influence",
       "title": {
-        "en": "Debut template for Oasis and Britpop guitar",
-        "zh": "Oasis 与 Britpop 吉他的首专模板"
+        "en": "Cited by Oasis and Britpop guitar bands",
+        "zh": "被 Oasis 与 Britpop 吉他乐队引用"
       },
       "body": {
-        "en": "Oasis and Blur both cite the 1989 album’s confidence and Squire’s guitar color as Manchester/London ambition fuel. Short catalog, long shadow.\n\nFools Gold proves UK guitar bands could hold club-length form on vinyl.",
-        "zh": "Oasis 与 Blur 均引用 1989 专辑的自信与 Squire 吉他色彩作为曼彻斯特/伦敦野心燃料。目录短，影子长。\n\nFools Gold 证明英国吉他乐队可在黑胶上维持 club 长度形态。"
+        "en": "Oasis and Blur both cite the 1989 album’s confidence and Squire’s guitar color. The catalog is short; the debut’s influence on mid-90s UK guitar bands is long.\n\nFools Gold showed UK guitar bands could hold club-length form on vinyl.",
+        "zh": "Oasis 与 Blur 均引用 1989 专辑的自信与 Squire 吉他色彩。目录短；首专对 90 年代中期英国吉他乐队的影响长。\n\n《Fools Gold》表明英国吉他乐队可在黑胶上维持 club 长度形态。"
       },
       "stickyVisual": "influence",
       "soundGenre": "britpop"
@@ -180,7 +180,7 @@
       "id": "scene-0",
       "title": {
         "en": "I Wanna Be Adored",
-        "zh": "I Wanna Be Adored"
+        "zh": "《I Wanna Be Adored》"
       },
       "body": {
         "en": "Reverse-gated intro into Squire wah/jangle; Leckie debut album opener.",
@@ -194,7 +194,7 @@
       "id": "scene-1",
       "title": {
         "en": "Fools Gold",
-        "zh": "Fools Gold"
+        "zh": "《Fools Gold》"
       },
       "body": {
         "en": "Nine-minute 12\" groove; Mani bass loop, Reni funk hi-hats, Brown slack vocal.",
@@ -208,11 +208,11 @@
       "id": "scene-2",
       "title": {
         "en": "Love Spreads",
-        "zh": "Love Spreads"
+        "zh": "《Love Spreads》"
       },
       "body": {
         "en": "Second Coming lead single; heavier Squire riff, delayed five-year follow-up.",
-        "zh": "Second Coming 主打；更重的 Squire riff，延迟五年的续作。"
+        "zh": "《Second Coming》主打；更重的 Squire riff，延迟五年的续作。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -261,8 +261,8 @@
         }
       ],
       "note": {
-        "en": "Squire jangle + Reni swing; debut album as Madchester peak text.",
-        "zh": "Squire 铃响吉他 + Reni 摇摆；首专即 Madchester 峰值文本。"
+        "en": "Squire jangle and Reni swing; 1989 debut as Madchester peak record.",
+        "zh": "Squire jangle 与 Reni 摇摆；1989 首专即 Madchester 巅峰录音。"
       }
     }
   ],
@@ -271,8 +271,8 @@
       "title": "I Wanna Be Adored",
       "year": 1989,
       "note": {
-        "en": "Bass-led opener as Stone Roses identity stamp.",
-        "zh": "贝斯领衔开场，Stone Roses 身份戳记。"
+        "en": "Bass-led opener from the Leckie debut.",
+        "zh": "Leckie 制作首专的贝斯领衔开场。"
       }
     },
     "pioneeredGenres": [
@@ -280,8 +280,8 @@
       "alternative"
     ],
     "note": {
-      "en": "Baggy jeans indie into dance-rock; confidence as lyric posture.",
-      "zh": "宽松牛仔裤 indie 进舞曲摇滚；自信作歌词姿态。"
+      "en": "Baggy/Madchester indie into dance-rock; short catalog, long citation trail.",
+      "zh": "Baggy/Madchester indie 进舞曲摇滚；目录短，引用链长。"
     }
   }
 }

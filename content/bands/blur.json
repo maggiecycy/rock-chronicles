@@ -10,8 +10,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Colchester/London Britpop flagship: Parklife (1994) framed English observational pop; later albums (13, Think Tank) pushed art-rock and electronic edges against Oasis’s stadium lane.",
-    "zh": "科尔切斯特/伦敦 Britpop 主力：Parklife（1994）框定英式观察式流行；后期专辑（13、Think Tank）把 art-rock 与电子边缘推到 Oasis 体育场路线的对面。"
+    "en": "Colchester/London Britpop band formed in 1988. Parklife (1994) and The Great Escape (1995) put observational English pop on UK charts; later albums 13 and Think Tank moved toward art-rock and electronic textures.",
+    "zh": "科尔切斯特/伦敦 Britpop 乐队，1988 年成立。《Parklife》（1994）与《The Great Escape》（1995）以观察式英式流行进入英国榜；后期专辑《13》《Think Tank》转向 art-rock 与电子音色。"
   },
   "members": [
     {
@@ -70,8 +70,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Observational English pop; spoken-sung verses over jaunty chords.",
-        "zh": "观察式英式流行；轻快和弦上的说唱式主歌。"
+        "en": "Title track from Parklife; spoken-sung verses, brass color, jaunty chord pattern.",
+        "zh": "《Parklife》标题曲；说唱式主歌、铜管色彩、轻快和弦进行。"
       }
     },
     {
@@ -89,8 +89,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Loud/quiet radio hook; US crossover single from Blur album.",
-        "zh": "强弱电台钩子；Blur 专辑打进美国的单曲。"
+        "en": "Two-minute loud/quiet single from Blur; Coxon crunch guitar, Albarn “woo-hoo” hook; US radio hit.",
+        "zh": "出自《Blur》的两分钟强弱单曲；Coxon 失真吉他、Albarn 的 woo-hoo 钩子；打进美国电台。"
       }
     },
     {
@@ -107,8 +107,8 @@
       ],
       "intensity": 1,
       "note": {
-        "en": "Think Tank era without Coxon; electronic/art-rock lean.",
-        "zh": "无 Coxon 的 Think Tank 时期；偏电子/art-rock。"
+        "en": "Think Tank era without Coxon; electronic and guest textures around Albarn’s vocal.",
+        "zh": "无 Coxon 的 Think Tank 时期；电子与客座音色环绕 Albarn 人声。"
       }
     }
   ],
@@ -146,23 +146,23 @@
     "franz-ferdinand"
   ],
   "shortBio": {
-    "en": "Albarn / Coxon Britpop; Parklife satire to Song 2 loud/quiet; Think Tank without Coxon.",
-    "zh": "Albarn / Coxon 的 Britpop；Parklife 讽刺到 Song 2 强弱；Think Tank 无 Coxon。"
+    "en": "Albarn / Coxon Britpop, 1988–. Parklife and Song 2 are core references; Think Tank is the Coxon-less chapter.",
+    "zh": "Albarn / Coxon 的 Britpop，1988 年至今。《Parklife》与《Song 2》是主要参照；《Think Tank》是无 Coxon 时期。"
   },
   "body": {
-    "en": "Formed 1988. Leisure and Modern Life Is Rubbish set up the Britpop frame; Parklife (1994) and The Great Escape locked chart rivalry with Oasis.\n\nSong 2 (1997) is the US loud/quiet hook. Coxon’s guitar vocabulary—noise, feedback, anti-virtuoso chops—anchors the art-school side. Think Tank (2003) is the Coxon-less chapter; later reunions restore the four-piece.",
-    "zh": "1988 年组建。Leisure 与 Modern Life Is Rubbish 铺好 Britpop 框架；Parklife（1994）与 The Great Escape 坐实与 Oasis 的榜单对峙。\n\nSong 2（1997）是打进美国的强弱钩子。Coxon 的吉他语汇——噪声、反馈、反炫技切分——撑住艺术学院一面。Think Tank（2003）是无 Coxon 章节；后期重聚恢复四人组。"
+    "en": "Blur formed in Colchester in 1988. Leisure (1991) and Modern Life Is Rubbish (1993) set the early UK indie base. Parklife (1994) and The Great Escape (1995) reached UK #1 and were widely covered against Oasis in the mid-90s chart press.\n\nBlur (1997) includes Song 2, a short loud/quiet track that charted in the US. Coxon’s guitar—noise, feedback, short chops—marks the four-piece sound through 13 (1999). He left before Think Tank (2003); later reunions restore the classic lineup. Albarn also formed Gorillaz outside this band.",
+    "zh": "Blur 于 1988 年在科尔切斯特成立。《Leisure》（1991）与《Modern Life Is Rubbish》（1993）建立早期英国 indie 基础。《Parklife》（1994）与《The Great Escape》（1995）登上英国榜冠军，并在 90 年代中期媒体上常与 Oasis 对照报道。\n\n《Blur》（1997）含《Song 2》，短强弱单曲，进入美国榜。Coxon 的吉他——噪声、反馈、短切分——贯穿四人组至《13》（1999）。他在《Think Tank》（2003）前离队；后期重聚恢复经典阵容。Albarn 另组建 Gorillaz。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Observational Britpop vs stadium Oasis",
-        "zh": "观察式 Britpop 对体育场 Oasis"
+        "en": "Observational Britpop",
+        "zh": "观察式 Britpop"
       },
       "body": {
-        "en": "Parklife (1994) frames English everyday detail and jaunty chords against Oasis’s anthem lane. Albarn’s characters and Coxon’s anti-virtuoso guitar define the Colchester/London side of Britpop.\n\nChart rivalry is media fact; arrangement method is the musical fact.",
-        "zh": "Parklife（1994）用英式日常细节与轻快和弦对上 Oasis 颂歌车道。Albarn 的角色写作与 Coxon 反炫技吉他定义 Britpop 的科尔切斯特/伦敦面。\n\n榜单对峙是媒体事实；编排方法是音乐事实。"
+        "en": "Parklife (1994) centers on English everyday detail, character voices, and clear verse/chorus shapes. Albarn writes roles; Coxon plays noise and short guitar figures rather than long solos.\n\nThe mid-90s UK press paired Blur with Oasis on the charts. Arrangement and lyric method are the musical facts.",
+        "zh": "《Parklife》（1994）以英式日常细节、角色人声和清楚的主副歌结构为主。Albarn 写角色；Coxon 用噪声与短句吉他，少做长 solo。\n\n90 年代中期英国媒体常把 Blur 与 Oasis 放在榜单对照中。编曲与歌词写法是音乐事实。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "britpop"
@@ -170,12 +170,12 @@
     {
       "id": "coxon",
       "title": {
-        "en": "Classic four vs Think Tank",
-        "zh": "经典四人组 vs Think Tank"
+        "en": "Classic four and Think Tank",
+        "zh": "经典四人组与 Think Tank"
       },
       "body": {
-        "en": "Peak Britpop and 13 keep Coxon’s noise/feedback vocabulary. Coxon exits before Think Tank (2003); electronic and guest textures fill the guitar chair.\n\nReunions restore the four-piece silhouette.",
-        "zh": "Britpop 峰值与 13 保留 Coxon 噪声/反馈语汇。Coxon 在 Think Tank（2003）前离队；电子与客座纹理填补吉他席。\n\n重聚恢复四人剪影。"
+        "en": "Damon Albarn, Graham Coxon, Alex James, and Dave Rowntree are the best-known lineup from Modern Life Is Rubbish through 13.\n\nCoxon left before Think Tank (2003). Electronic parts and guests covered the guitar role. Reunions from 2009 onward restore the four-piece.",
+        "zh": "Damon Albarn、Graham Coxon、Alex James 与 Dave Rowntree 是从《Modern Life Is Rubbish》到《13》最熟悉的阵容。\n\nCoxon 在《Think Tank》（2003）前离队。电子音色与客座乐手填补吉他。2009 年起的重聚恢复四人组。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "britpop"
@@ -183,12 +183,12 @@
     {
       "id": "parklife",
       "title": {
-        "en": "Parklife / Girls & Boys: satire singles",
-        "zh": "Parklife / Girls & Boys：讽刺单曲"
+        "en": "Parklife and Girls & Boys",
+        "zh": "《Parklife》与《Girls & Boys》"
       },
       "body": {
-        "en": "Girls & Boys opens the Parklife cycle with disco-adjacent bass and observational chorus. Title track Parklife uses spoken-sung verses and brass color.\n\nEnglish character writing as Britpop radio grammar.",
-        "zh": "Girls & Boys 以近迪斯科贝斯与观察式副歌打开 Parklife 周期。标题曲 Parklife 用说唱式主歌与铜管色彩。\n\n英式角色写作作为 Britpop 电台语法。"
+        "en": "Girls & Boys opens the Parklife cycle with disco-leaning bass and an observational chorus. The title track Parklife uses spoken-sung verses and brass.\n\nBoth singles are central to the 1994 UK chart run.",
+        "zh": "《Girls & Boys》以偏迪斯科的贝斯与观察式副歌打开《Parklife》周期。标题曲《Parklife》用说唱式主歌与铜管。\n\n两首单曲都是 1994 年英国榜单期的核心曲目。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -197,12 +197,12 @@
     {
       "id": "song2",
       "title": {
-        "en": "Song 2: loud/quiet export",
-        "zh": "Song 2：强弱出口"
+        "en": "Song 2",
+        "zh": "《Song 2》"
       },
       "body": {
-        "en": "Two-minute loud/quiet structure, Coxon crunch, Albarn woo-hoo hook. It is the US radio entry that sits beside the UK satire catalog.\n\nCoffee & TV later shows Coxon’s melodic lead side on 13.",
-        "zh": "两分钟强弱结构、Coxon 失真碾压、Albarn 的 woo-hoo 钩子。是坐在英国讽刺目录旁的美国电台入口。\n\nCoffee & TV 后在 13 上展示 Coxon 旋律主音面。"
+        "en": "Song 2 (1997) is about two minutes: quiet verse, loud chorus, Coxon distortion, Albarn’s woo-hoo hook. It became the band’s main US radio entry.\n\nCoffee & TV on 13 (1999) shows Coxon taking a melodic lead vocal.",
+        "zh": "《Song 2》（1997）约两分钟：安静主歌、大声副歌、Coxon 失真、Albarn 的 woo-hoo 钩子。成为乐队进入美国电台的主要单曲。\n\n《13》（1999）上的《Coffee & TV》由 Coxon 主唱旋律声部。"
       },
       "stickyVisual": "tracks",
       "soundGenre": "alternative"
@@ -210,12 +210,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Pop star mornings, falling-apart guitars",
-        "zh": "明星早晨，散架吉他"
+        "en": "Albarn and Coxon methods",
+        "zh": "Albarn 与 Coxon 的分工"
       },
       "body": {
-        "en": "Albarn’s pop-star line and Coxon’s falling-apart guitar claim mark dual methods: character frontman vs texture guitar.\n\nHub path: Albarn also builds Gorillaz outside this logo.",
-        "zh": "Albarn 的流行明星句与 Coxon「吉他像要散架」主张标记双方法：角色主唱 vs 纹理吉他。\n\n枢纽路径：Albarn 在本 logo 外另建 Gorillaz。"
+        "en": "Albarn’s interviews stress character and pop presentation. Coxon has described wanting guitars that sound unstable—noise and texture over flashy solos.\n\nOutside Blur, Albarn developed Gorillaz as a separate project.",
+        "zh": "Albarn 的访谈强调角色与流行呈现。Coxon 曾说希望吉他听起来不稳定——噪声与音色优先于炫技 solo。\n\n在 Blur 之外，Albarn 另做 Gorillaz。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 1,
@@ -224,12 +224,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Beyond Blur vs Oasis headline",
-        "zh": "超越 Blur vs Oasis 标题"
+        "en": "Later UK indie references",
+        "zh": "后来英国 indie 的引用"
       },
       "body": {
-        "en": "Later UK indie cites Coxon guitar vocabulary and Albarn’s character pop. Arctic Monkeys and others inherit observational lyric habits more than the chart war costume.\n\nThink Tank remains the electronic fork citation.",
-        "zh": "后来英国 indie 引用 Coxon 吉他语汇与 Albarn 角色流行。Arctic Monkeys 等更多继承观察式歌词习惯，而非榜单战争戏服。\n\nThink Tank 仍是电子分叉引用。"
+        "en": "Later UK indie bands often cite Coxon’s guitar vocabulary and Albarn’s character-led lyrics. Arctic Monkeys are among acts linked to observational songwriting habits.\n\nThink Tank remains the main electronic-leaning Blur album after Coxon’s exit.",
+        "zh": "后来的英国 indie 乐队常引用 Coxon 的吉他写法与 Albarn 的角色歌词。Arctic Monkeys 等与观察式写歌习惯有关联。\n\n《Think Tank》仍是 Coxon 离队后最主要的偏电子专辑。"
       },
       "stickyVisual": "influence",
       "soundGenre": "indie-rock"
@@ -265,8 +265,8 @@
         }
       ],
       "note": {
-        "en": "Modern Life through 13; Coxon guitar central.",
-        "zh": "Modern Life 至 13；Coxon 吉他核心。"
+        "en": "Modern Life Is Rubbish through 13; Coxon on guitar throughout.",
+        "zh": "《Modern Life Is Rubbish》至《13》；全程 Coxon 吉他。"
       }
     },
     {
@@ -292,8 +292,8 @@
         }
       ],
       "note": {
-        "en": "Coxon exits; electronic/art-rock lean on Think Tank.",
-        "zh": "Coxon 离队；Think Tank 偏电子/art-rock。"
+        "en": "Coxon exits; Think Tank leans electronic and art-rock.",
+        "zh": "Coxon 离队；《Think Tank》偏电子与 art-rock。"
       }
     }
   ],
@@ -302,8 +302,8 @@
       "title": "Parklife",
       "year": 1994,
       "note": {
-        "en": "Observational English pop as Britpop radio face.",
-        "zh": "观察式英式流行作为 Britpop 电台面孔。"
+        "en": "Key 1994 single; observational English pop on UK radio.",
+        "zh": "1994 年重要单曲；观察式英式流行进入英国电台。"
       }
     },
     "pioneeredGenres": [
@@ -311,8 +311,8 @@
       "indie-rock"
     ],
     "note": {
-      "en": "Satire singles and later art-rock fork against stadium Britpop.",
-      "zh": "讽刺单曲与后期 art-rock 分叉，对上体育场 Britpop。"
+      "en": "Character pop and Coxon guitar texture across Britpop and later art-rock records.",
+      "zh": "角色流行与 Coxon 吉他音色，贯穿 Britpop 与后期 art-rock 录音。"
     }
   }
 }

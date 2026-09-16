@@ -13,8 +13,8 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "London four-piece that combined multi-section songwriting, stacked vocals, and hard-rock guitar on 1970s FM radio; A Night at the Opera (1975) is the proof album.",
-    "zh": "伦敦四人组：在 1970 年代 FM 电台上结合多段体写作、堆叠人声与 hard-rock 吉他；A Night at the Opera（1975）是证明专辑。"
+    "en": "London four-piece formed in 1970. Multi-section songs, stacked studio vocals, and Brian May’s Red Special guitar define the mid-1970s catalog; A Night at the Opera (1975) is the central album.",
+    "zh": "伦敦四人组，1970 年成立。多段体歌曲、录音室堆叠人声，以及 Brian May 的 Red Special 吉他，是 1970 年代中期目录的主要特征；《A Night at the Opera》（1975）是核心专辑。"
   },
   "members": [
     {
@@ -76,8 +76,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Ballad → opera pastiche → hard outro; no single verse-chorus loop.",
-        "zh": "谣曲→歌剧拼贴→硬摇滚尾奏；非单一主副歌循环。"
+        "en": "From A Night at the Opera; ballad, opera-style vocal stack, then hard-rock outro. UK #1 single.",
+        "zh": "出自《A Night at the Opera》；谣曲、歌剧式人声堆叠，再接硬摇滚尾奏。英国单曲榜冠军。"
       }
     },
     {
@@ -94,8 +94,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Stomp-stomp-clap body percussion as stadium chant template.",
-        "zh": "跺脚-跺脚-拍手体感打击成为体育场口号模板。"
+        "en": "From News of the World; stomp-stomp-clap body percussion and short guitar solo.",
+        "zh": "出自《News of the World》；跺脚-跺脚-拍手体感打击与短吉他独奏。"
       }
     },
     {
@@ -112,8 +112,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Piano-led uptempo; stacked choir vocals over May’s Red Special.",
-        "zh": "钢琴领衔快板；堆叠合唱压在 May 的 Red Special 上。"
+        "en": "From Jazz; piano-led uptempo with stacked backing vocals and May’s Red Special.",
+        "zh": "出自《Jazz》；钢琴领衔快板，堆叠和声与 May 的 Red Special。"
       }
     }
   ],
@@ -148,23 +148,23 @@
     "muse"
   ],
   "shortBio": {
-    "en": "Mercury / May / Taylor / Deacon; Bohemian Rhapsody is the multi-section hit that proved studio choir + hard rock on FM.",
-    "zh": "Mercury / May / Taylor / Deacon；Bohemian Rhapsody 是证明「录音室合唱 + hard rock」能上 FM 的多段体热单。"
+    "en": "London hard rock / progressive rock, 1970–. Mercury, May, Taylor, Deacon; Bohemian Rhapsody and A Night at the Opera are the main mid-70s references.",
+    "zh": "伦敦硬摇滚 / progressive rock，1970 年至今。Mercury、May、Taylor、Deacon；《Bohemian Rhapsody》与《A Night at the Opera》是 70 年代中期主要参照。"
   },
   "body": {
-    "en": "Formed 1970. Mid-70s albums through News of the World fuse Brian May’s Red Special layers, Freddie Mercury’s range, and studio vocal choirs. Later hits (We Will Rock You, Don’t Stop Me Now) simplify for stadium chant.\n\nBohemian Rhapsody (1975) is the structural citation—ballad, opera pastiche, hard outro without a single verse-chorus loop. Craft and theatricality share the same sessions.",
-    "zh": "1970 年组建。70 年代中期至 News of the World 的专辑融合 Brian May 的 Red Special 多层吉他、Freddie Mercury 音域与录音室人声合唱。后期热单（We Will Rock You、Don’t Stop Me Now）为体育场口号简化。\n\nBohemian Rhapsody（1975）是结构引用——谣曲、歌剧拼贴、硬摇滚尾奏，而非单一主副歌循环。工艺与剧场性在同一录音会话里。"
+    "en": "Queen formed in London in 1970. John Deacon joined on bass in 1971. The mid-1970s albums through News of the World (1977) combine Brian May’s layered Red Special guitar, Freddie Mercury’s piano and vocal range, and multi-track studio choirs.\n\nBohemian Rhapsody (1975) moved from ballad to opera-style vocal stacks to a hard-rock outro and reached UK #1. Later singles such as We Will Rock You and Don’t Stop Me Now use shorter forms suited to large venues. Live Aid 1985 is a widely cited live performance. After Mercury’s death in 1991, May and Taylor continued with guest vocalists; Deacon retired from public performance.",
+    "zh": "Queen 于 1970 年在伦敦成立。John Deacon 于 1971 年加入贝斯。70 年代中期至《News of the World》（1977）的专辑，结合 Brian May 的 Red Special 层叠吉他、Freddie Mercury 的钢琴与音域，以及多轨录音室合唱。\n\n《Bohemian Rhapsody》（1975）从谣曲进入歌剧式人声堆叠，再接硬摇滚尾奏，并登上英国单曲榜冠军。之后的《We Will Rock You》、《Don’t Stop Me Now》等单曲采用更短、更适合大型场馆的结构。Live Aid 1985 是常被引用的现场演出。1991 年 Mercury 去世后，May 与 Taylor 与客座主唱继续演出；Deacon 退出公开演出。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Multi-section hard rock on 1970s FM",
-        "zh": "1970 年代 FM 上的多段体 hard rock"
+        "en": "Core sound",
+        "zh": "核心声音"
       },
       "body": {
-        "en": "Queen treat the studio as an instrument: stacked vocals, May’s delay-layered guitar, and song forms that switch genre mid-cut. A Night at the Opera (1975) is the proof album for that method on commercial radio.\n\nThey sit beside Zeppelin-scale hard rock but cite Beatles harmony and music-hall pastiche more openly.",
-        "zh": "Queen 把录音室当乐器：堆叠人声、May 的延时层叠吉他、曲中切换风格的多段体。A Night at the Opera（1975）是该方法登上商业电台的证明专辑。\n\n体量靠近 Zeppelin 级 hard rock，但更公开引用 Beatles 和声与音乐厅拼贴。"
+        "en": "Queen’s mid-1970s records rely on stacked vocals, May’s delay-layered guitar, and song forms that change section by section within a single track.\n\nA Night at the Opera (1975) is the clearest album-length example of that studio approach on commercial radio.",
+        "zh": "Queen 1970 年代中期录音以堆叠人声、May 的延时层叠吉他，以及单曲内部分段切换的曲式为主。\n\n《A Night at the Opera》（1975）是这套录音室写法登上商业电台的最清晰专辑样本。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "hard-rock"
@@ -172,12 +172,12 @@
     {
       "id": "classic-four",
       "title": {
-        "en": "Four writers, one brand",
-        "zh": "四个写手，一个品牌"
+        "en": "The classic four",
+        "zh": "经典四人组"
       },
       "body": {
-        "en": "Mercury (piano/vocal drama), May (Red Special tone), Taylor (drums/high harmony), Deacon (bass hooks like Another One Bites the Dust). Internal writing credits stay competitive; the live brand stays unified.\n\nPeak citation era is mid-70s through The Game (1980).",
-        "zh": "Mercury（钢琴/人声戏剧）、May（Red Special 音色）、Taylor（鼓/高和声）、Deacon（贝斯钩子如 Another One Bites the Dust）。内部写作署名竞争；现场品牌统一。\n\n峰值引用期是 70 年代中至 The Game（1980）。"
+        "en": "Mercury handled piano and lead vocal drama. May supplied Red Special tone and layered guitar. Taylor played drums and high harmony. Deacon wrote bass-led hooks such as Another One Bites the Dust.\n\nAll four wrote; writing credits stay separate. The best-known catalog run is mid-1970s through The Game (1980).",
+        "zh": "Mercury 负责钢琴与主唱。May 提供 Red Special 音色与层叠吉他。Taylor 负责鼓与高和声。Deacon 写出如《Another One Bites the Dust》一类贝斯主导钩子。\n\n四人都写歌，署名分开。最常被引用的目录区间是 70 年代中期至《The Game》（1980）。"
       },
       "stickyVisual": "members",
       "soundGenre": "hard-rock"
@@ -185,12 +185,12 @@
     {
       "id": "rhapsody",
       "title": {
-        "en": "Bohemian Rhapsody as structure lesson",
-        "zh": "Bohemian Rhapsody：结构课"
+        "en": "Bohemian Rhapsody",
+        "zh": "《Bohemian Rhapsody》"
       },
       "body": {
-        "en": "No chorus loop: a cappella intro, ballad, mock-opera stack, then May’s hard-rock outro. Tape editing and multi-track choir make the pastiche literal.\n\nIt is the track that forces FM programmers to accept multi-section rock as a hit format.",
-        "zh": "无副歌循环：无伴奏前奏、谣曲、假歌剧堆叠，再接 May 硬摇滚尾奏。磁带剪辑与多轨合唱让拼贴成为字面操作。\n\n这是迫使 FM 编排接受多段体摇滚作热单格式的曲目。"
+        "en": "The song has no repeating chorus loop: a cappella intro, ballad, mock-opera vocal stack, then May’s hard-rock outro.\n\nTape editing and multi-track choir make the section changes literal. It was a UK #1 single in 1975–76.",
+        "zh": "这首歌没有重复副歌循环：无伴奏前奏、谣曲、假歌剧人声堆叠，再接 May 的硬摇滚尾奏。\n\n磁带剪辑与多轨合唱把段落切换做成字面操作。1975–76 年登上英国单曲榜冠军。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -199,12 +199,12 @@
     {
       "id": "stadium",
       "title": {
-        "en": "From Opera to stadium chant",
-        "zh": "从 Opera 到体育场口号"
+        "en": "News of the World and later singles",
+        "zh": "《News of the World》与后期单曲"
       },
       "body": {
-        "en": "News of the World simplifies: We Will Rock You’s body percussion, We Are the Champions as slow anthem. Don’t Stop Me Now keeps piano drive and choir stacks at pop tempo.\n\nSame band; different arrangement economy for arenas.",
-        "zh": "News of the World 简化：We Will Rock You 的体感打击、We Are the Champions 慢颂歌。Don’t Stop Me Now 在流行速度上保持钢琴驱动与合唱堆叠。\n\n同一乐队；为体育场换编排经济。"
+        "en": "News of the World (1977) shortens the arrangement: We Will Rock You uses body percussion; We Are the Champions is a slow anthem.\n\nDon’t Stop Me Now (1978) keeps piano drive and choir stacks at a faster pop tempo. Same lineup; simpler live economy for arenas.",
+        "zh": "《News of the World》（1977）缩短编曲：《We Will Rock You》使用体感打击；《We Are the Champions》是慢颂歌。\n\n《Don’t Stop Me Now》（1978）在更快的流行速度上保留钢琴驱动与合唱堆叠。同一阵容；为体育场换更简的现场编排。"
       },
       "stickyVisual": "tracks",
       "soundGenre": "hard-rock"
@@ -212,12 +212,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Star posture, session craft",
-        "zh": "明星姿态，录音室工艺"
+        "en": "Quotes beside the studio facts",
+        "zh": "引语与录音室事实"
       },
       "body": {
-        "en": "Mercury’s circulated lines sell certainty; May’s technical talk sells gear and arrangement. Both belong on the wall beside the multi-track facts.\n\nRead quotes against the Red Special and the vocal stacks—not as myth.",
-        "zh": "Mercury 流传短句卖确定性；May 技术谈话卖器材与编排。两者都应挂在多轨事实旁边。\n\n对照 Red Special 与人声堆叠读引语——不当神话。"
+        "en": "Mercury’s circulated lines emphasize stage presence. May’s interviews often name gear and arrangement choices.\n\nBoth sit next to the Red Special and the vocal-stack method on the records.",
+        "zh": "Mercury 流传短句强调舞台存在感。May 的采访常点名器材与编排选择。\n\n两者都应对照唱片上的 Red Special 与人声堆叠来读。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -226,12 +226,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Arena craft after Queen",
-        "zh": "Queen 之后的体育场工艺"
+        "en": "Later stadium rock cites",
+        "zh": "后来体育场摇滚的引用"
       },
       "body": {
-        "en": "Muse and later stadium rock cite the multi-section + stacked vocal playbook. Live Aid 1985 becomes a performance citation independent of album cycles.\n\nIn this graph: hard-rock weight with progressive-form ambition, not blues-jam default.",
-        "zh": "Muse 与后来的体育场摇滚引用「多段体 + 堆叠人声」剧本。Live Aid 1985 成为独立于专辑周期的表演引用。\n\n在本图谱：hard-rock 重量配 progressive 形式野心，而非蓝调即兴默认。"
+        "en": "Muse and other arena acts have cited multi-section forms and stacked vocals. Live Aid 1985 is often treated as a separate live reference from the album cycle.\n\nIn this catalog, Queen sit at hard-rock weight with progressive-form songwriting.",
+        "zh": "Muse 等体育场乐队曾引用多段体曲式与堆叠人声。Live Aid 1985 常被当作独立于专辑周期的现场参照。\n\n在本目录中，Queen 落在 hard-rock 体量与 progressive 形式写作的交汇处。"
       },
       "stickyVisual": "influence",
       "soundGenre": "hard-rock"
@@ -269,8 +269,8 @@
         }
       ],
       "note": {
-        "en": "Deacon joins 1971; Mercury active until 1991. Catalog peak for Opera through The Game.",
-        "zh": "Deacon 1971 加入；Mercury 活跃至 1991。目录峰值从 Opera 到 The Game。"
+        "en": "Deacon joins 1971; Mercury active until 1991. Main catalog from A Night at the Opera through The Game.",
+        "zh": "Deacon 1971 加入；Mercury 活跃至 1991。主要目录从《A Night at the Opera》到《The Game》。"
       }
     },
     {
@@ -293,8 +293,8 @@
         }
       ],
       "note": {
-        "en": "May/Taylor continue with guest vocalists; Deacon retires from public performance.",
-        "zh": "May/Taylor 与客座主唱续演；Deacon 退出公开演出。"
+        "en": "May and Taylor continue with guest vocalists; Deacon retires from public performance.",
+        "zh": "May 与 Taylor 与客座主唱续演；Deacon 退出公开演出。"
       }
     }
   ],
@@ -303,8 +303,8 @@
       "title": "Bohemian Rhapsody",
       "year": 1975,
       "note": {
-        "en": "Multi-section single as FM-hit format proof.",
-        "zh": "多段体单曲成为 FM 热单格式证明。"
+        "en": "Multi-section UK #1 single from A Night at the Opera.",
+        "zh": "出自《A Night at the Opera》的多段体英国单曲榜冠军。"
       }
     },
     "pioneeredGenres": [
@@ -312,8 +312,8 @@
       "progressive-rock"
     ],
     "note": {
-      "en": "Studio choir + hard-rock guitar as one commercial method.",
-      "zh": "录音室合唱与 hard-rock 吉他作为同一商业方法。"
+      "en": "Studio choir stacks with hard-rock guitar on 1970s commercial radio.",
+      "zh": "1970 年代商业电台上的录音室合唱堆叠与 hard-rock 吉他。"
     }
   }
 }

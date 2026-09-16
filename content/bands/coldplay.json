@@ -10,8 +10,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Post-Britpop London four that turned delay-soaked guitar and piano hooks into global stadium alternative—Parachutes (2000) and A Rush of Blood to the Head (2002) defined early-2000s mass radio beside Radiohead’s art-rock fork.",
-    "zh": "后 Britpop 伦敦四人组：把延时吉他与钢琴钩子变成全球体育场 alternative——Parachutes（2000）与 A Rush of Blood to the Head（2002）定义 2000 年代初大众电台，与 Radiohead art-rock 分叉并列。"
+    "en": "London four-piece formed in 1996. Delay guitar, piano hooks, and mid-tempo songs on Parachutes (2000) and A Rush of Blood to the Head (2002) put the band on early-2000s alternative radio.",
+    "zh": "伦敦四人组，1996 年成立。Parachutes（2000）与 A Rush of Blood to the Head（2002）以延时吉他、钢琴钩子与中速歌曲进入 2000 年代初 alternative 电台。"
   },
   "members": [
     {
@@ -67,12 +67,12 @@
   ],
   "influenced": [],
   "shortBio": {
-    "en": "Chris Martin four-piece; Yellow and Clocks made piano/delay alternative a mass format, Viva la Vida the Eno maximal pivot.",
-    "zh": "Chris Martin 四人组；Yellow 与 Clocks 把钢琴/延时 alternative 做成大众格式，Viva la Vida 是 Eno 最大化转向。"
+    "en": "Chris Martin–led four-piece; Yellow and Clocks established piano and delay guitar on mass alternative radio; Viva la Vida (2008) with Brian Eno expanded the arrangement scale.",
+    "zh": "Chris Martin 领衔四人组；Yellow 与 Clocks 把钢琴与延时吉他送上大众 alternative 电台；Viva la Vida（2008，Brian Eno）扩大编曲规模。"
   },
   "body": {
-    "en": "Formed 1996 at UCL, London. Parachutes (2000, Ken Nelson) established Buckland’s delay-soaked arpeggios, Martin’s falsetto, and mid-tempo emotional frames—Yellow as debut marker. A Rush of Blood to the Head (2002) added Clocks’s piano ostinato and The Scientist ballad dynamics.\n\nLater records (Brian Eno on Viva la Vida, Mylo Xyloto) lean chart maximalism; early catalog is the rock-chronicle hinge from Britpop hangover to 2000s stadium alternative.",
-    "zh": "1996 年于伦敦 UCL 组建。Parachutes（2000，Ken Nelson）确立 Buckland 延时琶音、Martin 假声与中速情绪框架——Yellow 为出道标记。A Rush of Blood to the Head（2002）加入 Clocks 钢琴 ostinato 与 The Scientist 抒情动态。\n\n后期（Viva la Vida、Mylo Xyloto 的 Brian Eno）偏榜单最大化；早期目录是编年史里从 Britpop 余波接到 2000 年代体育场 alternative 的铰链。"
+    "en": "Formed in 1996 at University College London. Parachutes (2000, produced by Ken Nelson) set Buckland’s delay arpeggios, Martin’s falsetto, and mid-tempo song shapes; Yellow was the debut single marker. A Rush of Blood to the Head (2002) added Clocks’s piano ostinato and The Scientist’s ballad dynamics.\n\nLater albums with Brian Eno—including Viva la Vida or Death and All His Friends (2008) and Mylo Xyloto (2011)—used larger arrangements and brighter production. The early catalog is the main reference for the band’s post-Britpop alternative sound.",
+    "zh": "1996 年于伦敦大学学院组建。Parachutes（2000，Ken Nelson 制作）确立 Buckland 的延时琶音、Martin 的假声与中速歌曲形态；Yellow 是出道单曲标记。A Rush of Blood to the Head（2002）加入 Clocks 的钢琴 ostinato 与 The Scientist 的抒情动态。\n\n后期与 Brian Eno 合作的专辑——包括 Viva la Vida or Death and All His Friends（2008）与 Mylo Xyloto（2011）——编曲更大、制作更亮。早期目录是乐队后 Britpop alternative 声音的主要参照。"
   },
   "scenes": [
     {
@@ -90,8 +90,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Parachutes debut single; Buckland delay swells, Martin falsetto lift.",
-        "zh": "Parachutes 出道单曲；Buckland 延时铺展、Martin 假声抬升。"
+        "en": "Parachutes debut single; Buckland delay guitar and Martin falsetto.",
+        "zh": "Parachutes 出道单曲；Buckland 延时吉他与 Martin 假声。"
       }
     },
     {
@@ -109,8 +109,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Piano ostinato hook; A Rush of Blood US breakthrough.",
-        "zh": "钢琴 ostinato 钩子；A Rush of Blood 美国突破。"
+        "en": "Piano ostinato hook from A Rush of Blood to the Head; US chart breakthrough.",
+        "zh": "出自 A Rush of Blood to the Head 的钢琴 ostinato 钩子；美国榜单突破。"
       }
     },
     {
@@ -128,8 +128,8 @@
       ],
       "intensity": 1,
       "note": {
-        "en": "Ballad pivot; reverse-playback video, piano-led dynamic drop.",
-        "zh": "抒情转向；倒放 MV、钢琴主导动态回落。"
+        "en": "Piano ballad; reverse-playback video; quieter dynamic range than Clocks.",
+        "zh": "钢琴谣曲；倒放 MV；动态比 Clocks 更安静。"
       }
     }
   ],
@@ -137,12 +137,12 @@
     {
       "id": "thesis",
       "title": {
-        "en": "Piano/delay alternative as mass radio",
-        "zh": "钢琴/延时 alternative 作为大众电台"
+        "en": "Piano and delay on alternative radio",
+        "zh": "钢琴与延时上 alternative 电台"
       },
       "body": {
-        "en": "Yellow and Clocks prove the early template: Buckland’s dotted-delay guitar, Martin falsetto, Berryman/Champion steady pulse. Emotional lyric at mid-tempo, not shoegaze wash.\n\nA Rush of Blood consolidates the format before Eno-era expansion.",
-        "zh": "Yellow 与 Clocks 证明早期模板：Buckland 点延时吉他、Martin 假声、Berryman/Champion 稳脉冲。中速情绪歌词，非 shoegaze 铺底。\n\nA Rush of Blood 在 Eno 时期扩张前巩固格式。"
+        "en": "Yellow and Clocks use Buckland’s dotted-delay guitar, Martin’s falsetto, and a steady Berryman/Champion pulse. Lyrics sit at mid-tempo; the guitar parts stay clearer than shoegaze wash.\n\nA Rush of Blood to the Head (2002) fixed that writing before the Eno-era albums widened the palette.",
+        "zh": "Yellow 与 Clocks 使用 Buckland 的点延时吉他、Martin 的假声，以及 Berryman/Champion 的稳定脉冲。歌词落在中速；吉他比 shoegaze 铺底更清晰。\n\nA Rush of Blood to the Head（2002）在 Eno 时期扩编前固定了这套写法。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "alternative"
@@ -154,8 +154,8 @@
         "zh": "大学至今稳定四人组"
       },
       "body": {
-        "en": "Martin/Buckland/Berryman founding trio; Champion joins 1997 on drums. No classic lineup fracture—same four names from Parachutes through stadium cycles.\n\nLive expansion adds keyboardists; core writing stays Martin/Buckland.",
-        "zh": "Martin/Buckland/Berryman 创始三人；Champion 1997 年加入鼓。无经典阵容分裂——Parachutes 到体育场周期仍是四人名。\n\n现场扩张加键盘手；核心写作仍是 Martin/Buckland。"
+        "en": "Martin, Buckland, and Berryman formed the group; Champion joined on drums in 1997. The same four names appear from Parachutes through later stadium tours.\n\nLive shows add keyboardists; primary writing remains Martin and Buckland.",
+        "zh": "Martin、Buckland、Berryman 组建乐队；Champion 于 1997 年加入鼓。从 Parachutes 到后期体育场巡演仍是这四个名字。\n\n现场会加键盘手；主要写作仍是 Martin 与 Buckland。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "indie-rock"
@@ -163,12 +163,12 @@
     {
       "id": "influence",
       "title": {
-        "en": "Post-Britpop stadium hinge",
-        "zh": "后 Britpop 体育场铰链"
+        "en": "Post-Britpop mass alternative",
+        "zh": "后 Britpop 大众 alternative"
       },
       "body": {
-        "en": "Coldplay occupy the mass alternative lane Radiohead refused—same Oxford/London generation, opposite scale choice. Blur’s art-school habit meets U2/Eno production on later LPs.\n\nEarly catalog cited as template for 2000s piano-led alt bands globally.",
-        "zh": "Coldplay 占据 Radiohead 拒绝的大众 alternative 车道——同代牛津/伦敦，相反体量选择。Blur 艺术学院习惯在后期 LP 遇 U2/Eno 制作。\n\n早期目录被引为 2000 年代全球钢琴导向 alt 乐队模板。"
+        "en": "Coldplay and Radiohead came from the same UK generation; Coldplay kept verse/chorus songs at large-venue scale while Radiohead moved further into experimental and electronic work. Later albums draw on U2/Eno-style production.\n\nEarly records are often cited by 2000s piano-led alternative bands.",
+        "zh": "Coldplay 与 Radiohead 同属一代英国乐队；Coldplay 维持适合大型场地的主副歌写法，Radiohead 则更多进入实验与电子。后期专辑吸收 U2/Eno 式制作。\n\n早期唱片常被 2000 年代钢琴导向的 alternative 乐队引用。"
       },
       "stickyVisual": "influence",
       "soundGenre": "alternative"
@@ -180,8 +180,8 @@
         "zh": "Yellow"
       },
       "body": {
-        "en": "Parachutes debut single; Buckland delay swells, Martin falsetto lift.",
-        "zh": "Parachutes 出道单曲；Buckland 延时铺展、Martin 假声抬升。"
+        "en": "Parachutes debut single; Buckland delay guitar and Martin falsetto.",
+        "zh": "Parachutes 出道单曲；Buckland 延时吉他与 Martin 假声。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -194,8 +194,8 @@
         "zh": "Clocks"
       },
       "body": {
-        "en": "Piano ostinato hook; A Rush of Blood US breakthrough.",
-        "zh": "钢琴 ostinato 钩子；A Rush of Blood 美国突破。"
+        "en": "Piano ostinato hook from A Rush of Blood to the Head; US chart breakthrough.",
+        "zh": "出自 A Rush of Blood to the Head 的钢琴 ostinato 钩子；美国榜单突破。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -208,8 +208,8 @@
         "zh": "The Scientist"
       },
       "body": {
-        "en": "Ballad pivot; reverse-playback video, piano-led dynamic drop.",
-        "zh": "抒情转向；倒放 MV、钢琴主导动态回落。"
+        "en": "Piano ballad; reverse-playback video; quieter dynamic range than Clocks.",
+        "zh": "钢琴谣曲；倒放 MV；动态比 Clocks 更安静。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -258,8 +258,8 @@
         }
       ],
       "note": {
-        "en": "Stable four; stadium alt-rock built on delay guitar and piano.",
-        "zh": "稳定四人；延时吉他 + 钢琴撑起体育场 alternative。"
+        "en": "Stable four; delay guitar and piano on stadium alternative stages.",
+        "zh": "稳定四人；延时吉他与钢琴用于体育场 alternative 现场。"
       }
     }
   ],
@@ -268,16 +268,16 @@
       "title": "Yellow",
       "year": 2000,
       "note": {
-        "en": "Delay guitar + falsetto as early-2000s UK alt radio face.",
-        "zh": "延时吉他 + 假声，作为 2000 年代初英国 alt 电台面孔。"
+        "en": "Delay guitar and falsetto as an early-2000s UK alternative radio single.",
+        "zh": "延时吉他与假声，作为 2000 年代初英国 alternative 电台单曲。"
       }
     },
     "pioneeredGenres": [
       "alternative"
     ],
     "note": {
-      "en": "Piano/delay ballad grammar that later arenas copy at scale.",
-      "zh": "钢琴/延时谣曲语法，后来被体育场规模复制。"
+      "en": "Piano and delay-ballad writing later used at arena scale by many peers.",
+      "zh": "钢琴与延时谣曲写法，后来被多支同辈乐队用于体育场规模。"
     }
   }
 }

@@ -9,8 +9,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Jacksonville three-guitar Southern hard-rock: Free Bird and Sweet Home Alabama fixed dual/triple lead grammar and slide/country riff into 1970s FM hard-rock, not blues revival alone.",
-    "zh": "杰克逊维尔三吉他南方 hard-rock：Free Bird 与 Sweet Home Alabama 把双/三主音语法和 slide/country riff 钉进 1970 年代 FM hard-rock，不只是蓝调复兴。"
+    "en": "Jacksonville Southern hard-rock band with a three-guitar lineup. Free Bird and Sweet Home Alabama put dual/triple-lead writing and open-G country riffs on 1970s FM hard rock.",
+    "zh": "杰克逊维尔南方硬摇滚乐队，三吉他编制。Free Bird 与 Sweet Home Alabama 把双/三主音写法与 open-G country riff 送上 1970 年代 FM 硬摇滚。"
   },
   "members": [
     {
@@ -91,12 +91,12 @@
     "metallica"
   ],
   "shortBio": {
-    "en": "Southern three-guitar hard-rock; Free Bird solo stack and Sweet Home Alabama riff as 70s FM staples.",
-    "zh": "南方三吉他 hard-rock；Free Bird 叠 solo 与 Sweet Home Alabama riff 作 70 年代 FM 常备。"
+    "en": "Southern three-guitar hard rock; Free Bird solo stack and Sweet Home Alabama riff as 1970s FM staples.",
+    "zh": "南方三吉他硬摇滚；Free Bird 叠 solo 与 Sweet Home Alabama riff 是 1970 年代 FM 常备。"
   },
   "body": {
-    "en": "Roots in Jacksonville high-school bands (My Backyard, etc.), name locked mid-60s after gym teacher Leonard Skinner. Pronounced (Pronounced 'Lĕh-'nérd 'Skin-'nérd) (1973) and Second Helping (1974) document the classic attack: Van Zant vocal, Rossington/Collins/(King) triple guitar, Powell piano fills.\n\nFree Bird builds from organ/piano ballad into extended dual-lead solo section—hard-rock concert climax template. Sweet Home Alabama answers Neil Young with open-G riff and gang vocal. 1977 plane crash ends the original peak; Street Survivors is the last studio document with Van Zant/Gaines.",
-    "zh": "根在杰克逊维尔高中乐队（My Backyard 等），60 年代中期因体育老师 Leonard Skinner 定名。Pronounced（1973）与 Second Helping（1974）记录经典攻击：Van Zant 人声、Rossington/Collins/(King) 三吉他、Powell 钢琴填充。\n\nFree Bird 从风琴/钢琴谣曲推到延长双主音 solo——hard-rock 演唱会高潮模板。Sweet Home Alabama 用 open-G riff 与合唱人声回应 Neil Young。1977 空难结束原班巅峰；Street Survivors 是 Van Zant/Gaines 最后录音室文献。"
+    "en": "Lynyrd Skynyrd grew out of Jacksonville high-school bands (My Backyard and others); the name settled mid-1960s after gym teacher Leonard Skinner. Pronounced 'Lĕh-'nérd 'Skin-'nérd (1973) and Second Helping (1974) document the classic attack: Van Zant vocal, Rossington/Collins/(King) triple guitar, Powell piano fills.\n\nFree Bird builds from organ/piano ballad into an extended dual-lead solo section—a concert climax form. Sweet Home Alabama answers Neil Young with an open-G riff and gang vocal. The 1977 plane crash ended the original peak; Street Survivors is the last studio album with Van Zant and Steve Gaines.",
+    "zh": "Lynyrd Skynyrd 源于杰克逊维尔高中乐队（My Backyard 等）；60 年代中期因体育老师 Leonard Skinner 定名。Pronounced 'Lĕh-'nérd 'Skin-'nérd（1973）与 Second Helping（1974）记录经典攻击：Van Zant 人声、Rossington/Collins/(King) 三吉他、Powell 钢琴填充。\n\nFree Bird 从风琴/钢琴谣曲推到延长双主音 solo——演唱会高潮结构。Sweet Home Alabama 用 open-G riff 与合唱人声回应 Neil Young。1977 空难结束原班高峰；Street Survivors 是 Van Zant 与 Steve Gaines 的最后录音室专辑。"
   },
   "scenes": [
     {
@@ -114,8 +114,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Ballad-to-dual-lead climax; piano intro then stacked guitar solos.",
-        "zh": "谣曲到双主音高潮；钢琴 intro 后叠吉他 solo。"
+        "en": "Ballad into dual-lead climax; piano intro then stacked guitar solos.",
+        "zh": "谣曲推到双主音高潮；钢琴 intro 后叠吉他 solo。"
       }
     },
     {
@@ -133,8 +133,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Open-G riff + three-guitar weave; Second Helping FM staple.",
-        "zh": "Open-G riff + 三吉他编织；Second Helping FM 常备。"
+        "en": "Open-G riff and three-guitar weave; Second Helping FM staple.",
+        "zh": "Open-G riff 与三吉他编织；Second Helping FM 常备。"
       }
     },
     {
@@ -152,8 +152,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Street Survivors warning track; Gaines era three-guitar density.",
-        "zh": "Street Survivors 警告曲；Gaines 期三吉他密度。"
+        "en": "Warning track from Street Survivors; Gaines-era three-guitar density.",
+        "zh": "出自 Street Survivors 的警告曲；Gaines 期三吉他密度。"
       }
     }
   ],
@@ -161,12 +161,12 @@
     {
       "id": "thesis",
       "title": {
-        "en": "Three-guitar Southern hard-rock",
-        "zh": "三吉他南方 hard-rock"
+        "en": "Three-guitar Southern hard rock",
+        "zh": "三吉他南方硬摇滚"
       },
       "body": {
-        "en": "Skynyrd stack Les Paul/SG tones in interlocking rhythm and dual lead—closer to Allman Brothers twin-guitar logic, louder and more FM-hook driven.\n\nFree Bird and Sweet Home Alabama are the two citation poles: epic solo architecture vs. three-chord regional anthem.\n\nVan Zant writes plainspoken verses; Powell’s piano is the Southern hard-rock tell.",
-        "zh": "Skynyrd 用 Les Paul/SG 音色叠节奏与双主音——接近 Allman Brothers 双吉他逻辑，更响、更 FM 钩子驱动。\n\nFree Bird 与 Sweet Home Alabama 是两个引用极：史诗 solo 结构 vs 三和弦地域颂歌。\n\nVan Zant 写直白话主歌；Powell 钢琴是南方 hard-rock 识别点。"
+        "en": "Skynyrd stacks Les Paul and SG tones in interlocking rhythm and dual lead—close to Allman Brothers twin-guitar logic, louder and more FM-hook driven.\n\nFree Bird and Sweet Home Alabama are the two main poles: extended solo architecture versus a three-chord regional anthem.\n\nVan Zant writes plainspoken verses; Powell’s piano is a clear Southern hard-rock marker.",
+        "zh": "Skynyrd 用 Les Paul 与 SG 音色叠节奏与双主音——接近 Allman Brothers 双吉他逻辑，更响、更偏 FM 钩子。\n\nFree Bird 与 Sweet Home Alabama 是两个主要极点：延长 solo 结构，以及三和弦地域颂歌。\n\nVan Zant 写直白话主歌；Powell 钢琴是明确的南方硬摇滚识别点。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "hard-rock"
@@ -175,11 +175,11 @@
       "id": "lineupVersions",
       "title": {
         "en": "King to Gaines triple-guitar peak",
-        "zh": "King 到 Gaines 三吉他巅峰"
+        "zh": "King 到 Gaines 三吉他高峰"
       },
       "body": {
-        "en": "Ed King completes the three-guitar Second Helping era; Steve Gaines joins 1976 for Street Survivors polish.\n\nArtimus Pyle replaces Bob Burns mid-decade. Core writers: Van Zant with Collins/Rossington.\n\n1977 crash kills Van Zant, Gaines, Cassie Gaines; peak lineup ends there.",
-        "zh": "Ed King 补齐 Second Helping 三吉他；Steve Gaines 1976 年加入 Street Survivors 抛光。\n\n十年中期 Artimus Pyle 替换 Bob Burns。核心写作：Van Zant 与 Collins/Rossington。\n\n1977 空难夺走 Van Zant、Gaines、Cassie Gaines；巅峰阵容止于此。"
+        "en": "Ed King completed the three-guitar Second Helping era; Steve Gaines joined in 1976 for Street Survivors.\n\nArtimus Pyle replaced Bob Burns mid-decade. Core writers: Van Zant with Collins and Rossington.\n\nThe 1977 crash killed Van Zant, Steve Gaines, and Cassie Gaines; the original peak lineup ends there.",
+        "zh": "Ed King 补齐 Second Helping 三吉他；Steve Gaines 于 1976 年加入 Street Survivors。\n\n十年中期 Artimus Pyle 替换 Bob Burns。核心写作：Van Zant 与 Collins、Rossington。\n\n1977 空难夺走 Van Zant、Steve Gaines、Cassie Gaines；原班高峰阵容止于此。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "hard-rock"
@@ -187,12 +187,12 @@
     {
       "id": "influence",
       "title": {
-        "en": "FM Southern hard-rock template",
-        "zh": "FM 南方 hard-rock 模板"
+        "en": "Southern hard rock on US FM",
+        "zh": "美国 FM 上的南方硬摇滚"
       },
       "body": {
-        "en": "Guns N' Roses and later Southern/hard-rock acts cite the three-guitar weave and Free Bird climax structure.\n\nSweet Home Alabama remains a riff-teaching track; Free Bird a live-length endurance reference.\n\nScene debt is US FM hard-rock and country-rock cross, not British metal.",
-        "zh": "Guns N' Roses 与后来南方/hard-rock 乐队引用三吉他编织与 Free Bird 高潮结构。\n\nSweet Home Alabama 仍是 riff 教材曲；Free Bird 是现场时长耐力参照。\n\n场景债务在美国 FM hard-rock 与 country-rock 交叉，非英国金属。"
+        "en": "Guns N’ Roses and later Southern and hard-rock acts cite the three-guitar weave and Free Bird climax structure.\n\nSweet Home Alabama remains a widely taught open-G riff; Free Bird is a live-length endurance reference.\n\nScene place is US FM hard rock crossed with country-rock, more than British metal.",
+        "zh": "Guns N’ Roses 与后来的南方/硬摇滚乐队引用三吉他编织与 Free Bird 高潮结构。\n\nSweet Home Alabama 仍是常练的 open-G riff；Free Bird 是现场时长耐力参照。\n\n场景位置在美国 FM 硬摇滚与 country-rock 交叉，多于英国金属。"
       },
       "stickyVisual": "influence",
       "soundGenre": "hard-rock"
@@ -204,8 +204,8 @@
         "zh": "Free Bird"
       },
       "body": {
-        "en": "Ballad-to-dual-lead climax; piano intro then stacked guitar solos.",
-        "zh": "谣曲到双主音高潮；钢琴 intro 后叠吉他 solo。"
+        "en": "Ballad into dual-lead climax; piano intro then stacked guitar solos.",
+        "zh": "谣曲推到双主音高潮；钢琴 intro 后叠吉他 solo。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -218,8 +218,8 @@
         "zh": "Sweet Home Alabama"
       },
       "body": {
-        "en": "Open-G riff + three-guitar weave; Second Helping FM staple.",
-        "zh": "Open-G riff + 三吉他编织；Second Helping FM 常备。"
+        "en": "Open-G riff and three-guitar weave; Second Helping FM staple.",
+        "zh": "Open-G riff 与三吉他编织；Second Helping FM 常备。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -232,8 +232,8 @@
         "zh": "That Smell"
       },
       "body": {
-        "en": "Street Survivors warning track; Gaines era three-guitar density.",
-        "zh": "Street Survivors 警告曲；Gaines 期三吉他密度。"
+        "en": "Warning track from Street Survivors; Gaines-era three-guitar density.",
+        "zh": "出自 Street Survivors 的警告曲；Gaines 期三吉他密度。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -259,7 +259,7 @@
       "id": "peak",
       "label": {
         "en": "Second Helping–Street Survivors peak",
-        "zh": "Second Helping–Street Survivors 巅峰"
+        "zh": "Second Helping–Street Survivors 高峰"
       },
       "years": "1973–1977",
       "peak": true,
@@ -294,8 +294,8 @@
         }
       ],
       "note": {
-        "en": "Free Bird / Sweet Home Alabama era; three-guitar Southern hard-rock.",
-        "zh": "Free Bird / Sweet Home Alabama 期；三吉他南方 hard-rock。"
+        "en": "Free Bird and Sweet Home Alabama era; three-guitar Southern hard rock.",
+        "zh": "Free Bird 与 Sweet Home Alabama 时期；三吉他南方硬摇滚。"
       }
     }
   ],
@@ -304,16 +304,16 @@
       "title": "Free Bird",
       "year": 1973,
       "note": {
-        "en": "Piano-to-dual-lead architecture as Southern hard-rock concert climax.",
-        "zh": "钢琴到双主音结构，作南方 hard-rock 演唱会高潮。"
+        "en": "Piano-to-dual-lead form as a Southern hard-rock concert climax.",
+        "zh": "钢琴到双主音结构，作南方硬摇滚演唱会高潮。"
       }
     },
     "pioneeredGenres": [
       "hard-rock"
     ],
     "note": {
-      "en": "Triple-guitar weave + regional anthem riffs on 70s FM.",
-      "zh": "三吉他编织 + 地域颂歌 riff，钉在 70 年代 FM。"
+      "en": "Triple-guitar weave and regional anthem riffs on 1970s FM.",
+      "zh": "三吉他编织与地域颂歌 riff，落在 1970 年代 FM。"
     }
   }
 }

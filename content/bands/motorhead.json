@@ -10,8 +10,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Lemmy's power-trio bridge between punk tempo and metal volume; Ace of Spades (1980) fixed speed-as-attitude for both scenes.",
-    "zh": "Lemmy 的三件套：连接朋克速度与金属音量；Ace of Spades（1980）把「速度即态度」钉给两边场景。"
+    "en": "Lemmy’s power trio between punk tempo and metal volume. Ace of Spades (1980) fixed speed and attitude as a shared reference for both scenes.",
+    "zh": "Lemmy 的三件套：介于朋克速度与金属音量之间。Ace of Spades（1980）成为朋克与金属两边场景的共同速度参照。"
   },
   "members": [
     {
@@ -81,12 +81,12 @@
     "megadeth"
   ],
   "shortBio": {
-    "en": "UK speed/heavy rock; Ace of Spades is the three-chord velocity blueprint.",
-    "zh": "英国速度/重型摇滚；Ace of Spades 是三和弦速度蓝图。"
+    "en": "UK speed/heavy rock; Ace of Spades is the three-chord velocity reference.",
+    "zh": "英国速度/重型摇滚；Ace of Spades 是三和弦速度参照。"
   },
   "body": {
-    "en": "Formed 1975 after Lemmy left Hawkwind. Overkill, Ace of Spades, and No Sleep 'til Hammersmith document the classic Lemmy / Eddie Clarke / Phil Taylor attack—bass as rhythm guitar, shouted vocal, 4/4 charge.\n\nAce of Spades (1980) is the citation track for thrash and hardcore bands naming Motörhead as tempo ancestor. Not progressive; the craft is relentlessness and midrange grit in the mix.",
-    "zh": "Lemmy 离开 Hawkwind 后于 1975 年组建。Overkill、Ace of Spades 与 No Sleep 'til Hammersmith 记录经典 Lemmy / Eddie Clarke / Phil Taylor 攻击——贝斯当节奏吉他、喊叫人声、4/4 冲锋。\n\nAce of Spades（1980）是 thrash 与 hardcore 乐队点名 Motörhead 为速度祖先时的引用曲。不走 progressive；工艺在于不停歇与混音中频的砂感。"
+    "en": "Formed in 1975 after Lemmy left Hawkwind. Overkill, Ace of Spades, and No Sleep 'til Hammersmith document the classic Lemmy / Eddie Clarke / Phil Taylor attack—bass played like rhythm guitar, shouted vocal, 4/4 charge.\n\nAce of Spades (1980) is the citation track when thrash and hardcore bands name Motörhead as a tempo ancestor. The craft is relentlessness and midrange grit in the mix, not progressive form.",
+    "zh": "Lemmy 离开 Hawkwind 后于 1975 年组建。Overkill、Ace of Spades 与 No Sleep 'til Hammersmith 记录经典 Lemmy / Eddie Clarke / Phil Taylor 攻击——贝斯按节奏吉他弹、喊叫人声、4/4 冲锋。\n\nAce of Spades（1980）是 thrash 与 hardcore 乐队点名 Motörhead 为速度祖先时的引用曲。工艺在于不停歇与混音中频砂感，而非 progressive 曲式。"
   },
   "scenes": [
     {
@@ -121,8 +121,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Three-chord velocity blueprint—Lemmy bass as rhythm guitar in the mix.",
-        "zh": "三和弦速度蓝图——混音中 Lemmy 贝斯当节奏吉他。"
+        "en": "Three-chord velocity reference—Lemmy bass as rhythm guitar in the mix.",
+        "zh": "三和弦速度参照——混音中 Lemmy 贝斯当节奏吉他。"
       }
     },
     {
@@ -138,8 +138,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Siren intro and mid-tempo stomp—stage show as production element.",
-        "zh": "警笛 intro 与中速 stomp——舞台秀作制作元素。"
+        "en": "Siren intro and mid-tempo stomp; stage bomber set as visual production.",
+        "zh": "警笛 intro 与中速 stomp；舞台轰炸机装置作视觉制作。"
       }
     }
   ],
@@ -164,8 +164,8 @@
         "zh": "Ace of Spades 巅峰"
       },
       "body": {
-        "en": "Ace of Spades (1980) title track opens on Lemmy's bass riff—E minor gallop at 140 BPM. Clarke's guitar doubles the root; no keyboard pad.\n\nAlbum mixes fast (Ace of Spades, Shoot You in the Back) and slow (Live to Win, Leave Me Alone)—dynamic range inside speed metal.\n\nNo Sleep 'til Hammersmith (1981) live document becomes the performance reference.",
-        "zh": "Ace of Spades（1980）标题曲以 Lemmy 贝斯 riff 开场——E 小调 gallop 约 140 BPM。Clarke 吉他双根音；无键盘垫。\n\n专辑混快（Ace of Spades、Shoot You in the Back）与慢（Live to Win、Leave Me Alone）——速度金属内的动态幅度。\n\nNo Sleep 'til Hammersmith（1981）现场文献成演出参照。"
+        "en": "Ace of Spades (1980) title track opens on Lemmy's bass riff—E minor gallop at about 140 BPM. Clarke's guitar doubles the root; no keyboard pad.\n\nThe album mixes fast cuts (Ace of Spades, Shoot You in the Back) and slower ones (Live to Win, Leave Me Alone)—dynamic range inside speed metal.\n\nNo Sleep 'til Hammersmith (1981) becomes the live performance reference.",
+        "zh": "Ace of Spades（1980）标题曲以 Lemmy 贝斯 riff 开场——E 小调 gallop 约 140 BPM。Clarke 吉他双根音；无键盘垫。\n\n专辑混快曲（Ace of Spades、Shoot You in the Back）与慢曲（Live to Win、Leave Me Alone）——速度金属内的动态幅度。\n\nNo Sleep 'til Hammersmith（1981）成现场演出参照。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "hard-rock"
@@ -177,8 +177,8 @@
         "zh": "阵容更替与 thrash 债务"
       },
       "body": {
-        "en": "Clarke exits 1982; Phil Campbell joins for a two-guitar era. Iron Fist and Killed by Death extend the speed template.\n\nMetallica, Slayer, and Anthrax cite Motörhead as tempo and attitude ancestor—not riff complexity.\n\nLemmy runs the band until his death 2015; 40-year live reliability is the secondary legacy.",
-        "zh": "Clarke 1982 年离队；Phil Campbell 加入双吉他时期。Iron Fist 与 Killed by Death 延伸速度模板。\n\nMetallica、Slayer、Anthrax 引 Motörhead 为速度与态度祖先——非 riff 复杂度。\n\nLemmy 运营乐队至 2015 年去世；四十年现场可靠为次要遗产。"
+        "en": "Clarke exits in 1982; Phil Campbell joins for a two-guitar era. Iron Fist and Killed by Death extend the speed approach.\n\nMetallica, Slayer, and Anthrax cite Motörhead for tempo and attitude—not riff complexity.\n\nLemmy runs the band until his death in 2015; four decades of live reliability is a secondary legacy.",
+        "zh": "Clarke 1982 年离队；Phil Campbell 加入双吉他时期。Iron Fist 与 Killed by Death 延伸速度写法。\n\nMetallica、Slayer、Anthrax 引 Motörhead 的速度与态度——非 riff 复杂度。\n\nLemmy 运营乐队至 2015 年去世；四十年现场可靠为次要遗产。"
       },
       "stickyVisual": "influence",
       "soundGenre": "hard-rock"
@@ -204,8 +204,8 @@
         "zh": "Ace of Spades"
       },
       "body": {
-        "en": "Three-chord velocity blueprint—Lemmy bass as rhythm guitar in the mix.",
-        "zh": "三和弦速度蓝图——混音中 Lemmy 贝斯当节奏吉他。"
+        "en": "Three-chord velocity reference—Lemmy bass as rhythm guitar in the mix.",
+        "zh": "三和弦速度参照——混音中 Lemmy 贝斯当节奏吉他。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -218,8 +218,8 @@
         "zh": "Bomber"
       },
       "body": {
-        "en": "Siren intro and mid-tempo stomp—stage show as production element.",
-        "zh": "警笛 intro 与中速 stomp——舞台秀作制作元素。"
+        "en": "Siren intro and mid-tempo stomp; stage bomber set as visual production.",
+        "zh": "警笛 intro 与中速 stomp；舞台轰炸机装置作视觉制作。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -269,8 +269,8 @@
         }
       ],
       "note": {
-        "en": "Ace of Spades / Overkill era; speed as metal and punk bridge.",
-        "zh": "Ace of Spades / Overkill 期；速度作金属与朋克桥。"
+        "en": "Ace of Spades / Overkill era; speed bridging metal and punk audiences.",
+        "zh": "Ace of Spades / Overkill 期；速度连接金属与朋克听众。"
       }
     }
   ],
@@ -279,8 +279,8 @@
       "title": "Ace of Spades",
       "year": 1980,
       "note": {
-        "en": "Gambling riff + Lemmy bark as Motörhead’s permanent ID.",
-        "zh": "赌博 riff + Lemmy 吼叫，Motörhead 永久身份标识。"
+        "en": "Gambling riff and Lemmy bark as Motörhead’s permanent ID.",
+        "zh": "赌博 riff 与 Lemmy 吼叫，Motörhead 永久身份标识。"
       }
     },
     "pioneeredGenres": [
@@ -288,8 +288,8 @@
       "hard-rock"
     ],
     "note": {
-      "en": "Bass-as-rhythm guitar; volume as ideology.",
-      "zh": "贝斯当节奏吉他；音量即意识形态。"
+      "en": "Bass as rhythm guitar; volume as the central stance.",
+      "zh": "贝斯当节奏吉他；音量是核心立场。"
     }
   }
 }

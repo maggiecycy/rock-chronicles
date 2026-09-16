@@ -14,8 +14,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Crawley band that moved from post-punk minimalism to goth and then mainstream goth-pop; Disintegration (1989) and Kiss Me–era singles mark the arc.",
-    "zh": "克劳利乐队：从后朋克极简走到哥特再进主流哥特流行；Disintegration（1989）与 Kiss Me 时期单曲标记弧线。"
+    "en": "Crawley band formed in 1978. Robert Smith’s chorus/delay guitar and baritone vocal run from early post-punk records through Kiss Me–era singles and Disintegration (1989).",
+    "zh": "克劳利乐队，1978 年成立。Robert Smith 的 chorus/delay 吉他与男中音人声，贯穿早期后朋克录音、Kiss Me 时期单曲与《Disintegration》（1989）。"
   },
   "members": [
     {
@@ -78,8 +78,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Delay-guitar cold wave; early Cure minimalism.",
-        "zh": "Delay 吉他冷潮；早期 Cure 极简。"
+        "en": "From Seventeen Seconds; delay guitar, dry vocal, walking bass.",
+        "zh": "出自《Seventeen Seconds》；delay 吉他、干人声、走动贝斯。"
       }
     },
     {
@@ -97,8 +97,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Kiss Me–era bright single; chorus guitar hook.",
-        "zh": "Kiss Me 时期明亮单曲；chorus 吉他钩子。"
+        "en": "Kiss Me, Kiss Me, Kiss Me single; major-key hook over chorus guitar.",
+        "zh": "《Kiss Me, Kiss Me, Kiss Me》单曲；大调钩子叠在 chorus 吉他上。"
       }
     },
     {
@@ -115,8 +115,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Disintegration long-form gloom at stadium scale.",
-        "zh": "Disintegration 体育场体量的长篇阴郁。"
+        "en": "From Disintegration; long song form and heavy reverb.",
+        "zh": "出自《Disintegration》；长曲式与较重混响。"
       }
     }
   ],
@@ -153,12 +153,12 @@
     "the-smiths"
   ],
   "shortBio": {
-    "en": "Robert Smith–led post-punk/goth-pop; Just Like Heaven is the bright single; Disintegration the long gloom.",
-    "zh": "Robert Smith 领衔的后朋克/哥特流行；Just Like Heaven 是明亮单曲；Disintegration 是长篇阴郁。"
+    "en": "Robert Smith–led post-punk and goth-pop, 1978–. Just Like Heaven and Disintegration are the main reference points.",
+    "zh": "Robert Smith 领衔的后朋克与哥特流行，1978 年至今。《Just Like Heaven》与《Disintegration》是主要参照。"
   },
   "body": {
-    "en": "Formed 1978. Three Imaginary Boys and Pornography define cold early sound; The Head on the Door and Kiss Me add pop hooks; Disintegration returns long-form gloom at scale.\n\nConstants: Smith’s chorus guitar, extended song lengths, fan culture across indie and goth clubs.",
-    "zh": "1978 年组建。Three Imaginary Boys 与 Pornography 定义早期冷声；The Head on the Door 与 Kiss Me 加入流行钩子；Disintegration 以体量回到长篇阴郁。\n\n常量：Smith 的 chorus 吉他、偏长歌曲、跨 indie 与哥特俱乐部的粉丝文化。"
+    "en": "The Cure formed in Crawley in 1978. Three Imaginary Boys, Seventeen Seconds, and Pornography set a cold early sound: delay guitar, short lines, sparse drums. The Head on the Door (1985) and Kiss Me, Kiss Me, Kiss Me (1987) added brighter singles for college and UK radio. Disintegration (1989) returned to longer songs and denser reverb at a larger commercial scale.\n\nRobert Smith remains the constant writer and frontman. Simon Gallup left and returned on bass; Porl Thompson and Boris Williams were central on the late-1980s albums. The band sits beside Joy Division and New Order on the UK post-punk family tree and stayed visible on alternative radio into the 1990s.",
+    "zh": "The Cure 于 1978 年在克劳利成立。《Three Imaginary Boys》、《Seventeen Seconds》与《Pornography》确立早期冷声：delay 吉他、短句、稀疏鼓点。《The Head on the Door》（1985）与《Kiss Me, Kiss Me, Kiss Me》（1987）加入更亮的单曲，进入大学电台与英国电台。《Disintegration》（1989）回到更长歌曲与更重混响，并扩大商业体量。\n\nRobert Smith 始终是核心写作者与主唱。Simon Gallup 曾离开再回归贝斯；Porl Thompson 与 Boris Williams 是 1980 年代末专辑的重要成员。乐队在英国后朋克谱系上与 Joy Division、New Order 并列，并在 1990 年代继续出现在 alternative 电台。"
   },
   "narrative": [
     {
@@ -168,8 +168,8 @@
         "zh": "从后朋克冷声到哥特流行电台"
       },
       "body": {
-        "en": "Early Cure: short lines, delay, hollow drums. Mid-80s: hooks without dropping the baritone croon. 1989 Disintegration: six-minute songs, cathedral reverb, stadium gloom.\n\nArc is production and song length, not a costume change only.",
-        "zh": "早期 Cure：短句、delay、空鼓。80 年代中：钩子不丢男中音 croon。1989 Disintegration：六分钟歌、教堂混响、体育场阴郁。\n\n弧线是制作与歌曲长度，不只是换装。"
+        "en": "Early Cure records use short phrases, delay, and hollow drums. Mid-1980s singles keep Smith’s baritone and chorus guitar while adding clearer hooks. Disintegration (1989) stretches songs toward six minutes with heavy reverb.\n\nThe change is mainly production, song length, and radio reach.",
+        "zh": "早期 Cure 录音多用短句、delay 与空鼓。1980 年代中期单曲保留 Smith 的男中音与 chorus 吉他，同时加入更清楚的钩子。《Disintegration》（1989）把歌曲拉向六分钟左右，并加重混响。\n\n变化主要在制作、歌曲长度与电台覆盖。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "post-punk"
@@ -177,12 +177,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Smith constant, cast churn",
-        "zh": "Smith 常量，卡司动荡"
+        "en": "Smith constant, rotating cast",
+        "zh": "Smith 恒定，阵容轮换"
       },
       "body": {
-        "en": "Gallup exits and returns; Tolhurst shifts drums→keys then leaves; Thompson/Williams lock Kiss Me–Disintegration peak cast.\n\nPeak flag: late-80s six-piece studio core around Smith. Logo survives because writing seat does not move.",
-        "zh": "Gallup 离队再回归；Tolhurst 从鼓转键盘再离开；Thompson/Williams 锁死 Kiss Me–Disintegration 巅峰卡司。\n\n巅峰旗：80 年代末围绕 Smith 的六人录音核心。Logo 存活因为写作席位不动。"
+        "en": "Gallup left after the early cold albums and returned in 1984. Tolhurst moved from drums to keyboards, then left after Disintegration. Thompson and Williams were central on Kiss Me and Disintegration.\n\nLate-1980s studio work centers on Smith as writer; other seats change around him.",
+        "zh": "Gallup 在早期冷声专辑后离开，1984 年回归。Tolhurst 从鼓转到键盘，并在《Disintegration》后离开。Thompson 与 Williams 是《Kiss Me》与《Disintegration》时期的重要成员。\n\n1980 年代末录音室工作以 Smith 的写作为中心，其他席位围绕他变动。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "post-punk"
@@ -194,8 +194,8 @@
         "zh": "Chorus 吉他、Gallup 贝斯、轮换鼓组"
       },
       "body": {
-        "en": "Smith: Jazzmaster/Jaguar + chorus/delay, lipstick visual. Gallup: melodic post-punk bass. Tolhurst then Williams on kit. Thompson adds lead color on pop singles.\n\nPersonnel list is long; sound ID is short: Smith’s guitar+voice.",
-        "zh": "Smith：Jazzmaster/Jaguar + chorus/delay，唇膏视觉。Gallup：旋律后朋克贝斯。Tolhurst 然后 Williams 司鼓。Thompson 在流行单曲上加主音色彩。\n\n人事名单很长；声音 ID 很短：Smith 的吉他+人声。"
+        "en": "Smith typically plays Jazzmaster or Jaguar with chorus and delay. Gallup carries melodic post-punk bass lines. Tolhurst then Williams handle drums; Thompson adds lead color on pop singles.\n\nThe personnel list is long; the easiest ID remains Smith’s guitar and voice.",
+        "zh": "Smith 常用 Jazzmaster 或 Jaguar，加 chorus 与 delay。Gallup 负责旋律性后朋克贝斯。鼓手先后为 Tolhurst 与 Williams；Thompson 在流行单曲上加入主音色彩。\n\n人事名单很长；最易辨认的仍是 Smith 的吉他与人声。"
       },
       "stickyVisual": "members",
       "soundGenre": "post-punk"
@@ -203,12 +203,12 @@
     {
       "id": "a-forest",
       "title": {
-        "en": "A Forest: delay as architecture",
-        "zh": "A Forest：delay 当建筑"
+        "en": "A Forest",
+        "zh": "《A Forest》"
       },
       "body": {
-        "en": "Seventeen Seconds-era. Repeating guitar figure, dry vocal, bass that walks not thumps. Club-era post-punk grammar.\n\nEntry for listeners who start from goth-pop singles and walk backward.",
-        "zh": "Seventeen Seconds 时期。重复吉他音型、干人声、走动而非砸击的贝斯。俱乐部时期后朋克语法。\n\n从哥特流行单曲倒走的听众入口。"
+        "en": "Seventeen Seconds-era single. Repeating guitar figure, dry vocal, and a bass line that walks rather than thumps.\n\nUseful entry for listeners who know the later pop singles and want the early post-punk records.",
+        "zh": "《Seventeen Seconds》时期单曲。重复吉他音型、干人声，以及走动而非砸击的贝斯。\n\n适合从后期流行单曲倒回早期后朋克录音的听众。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -217,12 +217,12 @@
     {
       "id": "just-like-heaven",
       "title": {
-        "en": "Just Like Heaven: bright without soft",
-        "zh": "Just Like Heaven：明亮但不软"
+        "en": "Just Like Heaven",
+        "zh": "《Just Like Heaven》"
       },
       "body": {
-        "en": "Kiss Me, Kiss Me, Kiss Me single. Major-key hook, still chorus-soaked guitar. US college radio crossover without abandoning Smith’s diction.\n\nMass entry that still points back to darker albums.",
-        "zh": "Kiss Me, Kiss Me, Kiss Me 单曲。大调钩子，仍是 chorus 浸透吉他。美国大学电台跨界，不丢 Smith 咬字。\n\n仍指向更暗专辑的大众入口。"
+        "en": "Single from Kiss Me, Kiss Me, Kiss Me. Major-key hook, still chorus-soaked guitar. Crossed to US college radio while keeping Smith’s diction.\n\nA mass entry that still points back to darker albums.",
+        "zh": "出自《Kiss Me, Kiss Me, Kiss Me》的单曲。大调钩子，吉他仍带 chorus。进入美国大学电台，同时保留 Smith 的咬字。\n\n大众入口，仍可倒回更暗的专辑。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -231,12 +231,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Goth-pop template for alternative radio",
-        "zh": "Alternative 电台的哥特流行模板"
+        "en": "Goth-pop on alternative radio",
+        "zh": "Alternative 电台上的哥特流行"
       },
       "body": {
-        "en": "Disintegration becomes the long-album citation. Later alternative and goth-club DJs both pull Cure singles. Influence sits beside Joy Division/New Order on UK post-punk family tree.\n\nChronicle: one writer’s guitar tone across three commercial climates.",
-        "zh": "Disintegration 成为长专引用。后来 alternative 与哥特俱乐部 DJ 都抽 Cure 单曲。影响坐在 Joy Division/New Order 旁的英国后朋克族谱上。\n\n编年史：一个写作者的吉他音色跨三种商业气候。"
+        "en": "Disintegration is the long-album citation most often named later. Alternative and goth-club DJs both pull Cure singles. Influence sits beside Joy Division and New Order on the UK post-punk map.\n\nOne songwriter’s guitar tone across several commercial climates.",
+        "zh": "后来最常点名的长专是《Disintegration》。Alternative 与哥特俱乐部 DJ 都会抽 Cure 单曲。影响在英国后朋克谱系上与 Joy Division、New Order 相邻。\n\n同一写作者的吉他音色跨越几种商业环境。"
       },
       "stickyVisual": "influence",
       "soundGenre": "alternative"
@@ -276,8 +276,8 @@
         }
       ],
       "note": {
-        "en": "Pop singles then stadium gloom.",
-        "zh": "流行单曲然后体育场阴郁。"
+        "en": "Pop singles then Disintegration-era long songs.",
+        "zh": "流行单曲之后是《Disintegration》时期的长歌。"
       }
     },
     {
@@ -305,7 +305,7 @@
       ],
       "note": {
         "en": "Seventeen Seconds / Faith / Pornography cold era.",
-        "zh": "Seventeen Seconds / Faith / Pornography 冷声期。"
+        "zh": "《Seventeen Seconds》/《Faith》/《Pornography》冷声期。"
       }
     }
   ],
@@ -314,8 +314,8 @@
       "title": "A Forest",
       "year": 1980,
       "note": {
-        "en": "Delay-led post-punk single that fixed early Cure ID.",
-        "zh": "用 delay 固定早期 Cure ID 的后朋克单曲。"
+        "en": "Delay-led post-punk single from the early Cure catalog.",
+        "zh": "早期 Cure 目录中以 delay 为主的后朋克单曲。"
       }
     },
     "pioneeredGenres": [
@@ -323,8 +323,8 @@
       "alternative"
     ],
     "note": {
-      "en": "Post-punk to goth-pop continuum under one songwriter.",
-      "zh": "单一写作者下的后朋克到哥特流行连续体。"
+      "en": "Post-punk to goth-pop under one primary songwriter.",
+      "zh": "在单一主要写作者下，从后朋克走到哥特流行。"
     }
   }
 }

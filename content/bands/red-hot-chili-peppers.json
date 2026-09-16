@@ -10,8 +10,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "LA funk-rock four-piece; Blood Sugar Sex Magik (1991) and Californication (1999) made Flea's slap bass and Frusciante's clean-to-crunch guitar the alternative-radio default.",
-    "zh": "洛杉矶 funk-rock 四人组；Blood Sugar Sex Magik（1991）与 Californication（1999）让 Flea 打点贝斯与 Frusciante 干净到 crunch 的吉他成为 alternative 电台默认。"
+    "en": "Los Angeles funk-rock four-piece formed in 1983. Blood Sugar Sex Magik (1991) and Californication (1999) put Flea’s slap bass and Frusciante’s clean-to-crunch guitar on alternative radio.",
+    "zh": "洛杉矶 funk-rock 四人组，1983 年成立。Blood Sugar Sex Magik（1991）与 Californication（1999）把 Flea 打点贝斯与 Frusciante 干净到 crunch 的吉他送上 alternative 电台。"
   },
   "members": [
     {
@@ -76,8 +76,8 @@
     "zh": "Kiedis / Flea / Frusciante 的 funk-alt；Blood Sugar 与 Californication 是电台高峰。"
   },
   "body": {
-    "en": "Formed 1983 in LA. Mother's Milk and Blood Sugar Sex Magik (Rick Rubin) lock the hard-funk template: Flea's slap bass as lead voice, Frusciante's chord voicings, Chad Smith's pocket.\n\nCalifornication (1999) and By the Way add melodic ballad craft after lineup churn. The citation tracks—Give It Away, Under the Bridge, Californication—show how funk rhythm and hard-rock distortion share one four-piece without rap-metal's later polish.",
-    "zh": "1983 年于 LA 组建。Mother's Milk 与 Blood Sugar Sex Magik（Rick Rubin）锁定硬 funk 模板：Flea 打点贝斯作主声部、Frusciante 和弦声部、Chad Smith 口袋感。\n\nCalifornication（1999）与 By the Way 在阵容动荡后加入旋律谣曲工艺。引用曲——Give It Away、Under the Bridge、Californication——说明 funk 节奏与 hard-rock 失真如何共用四人组，且无后期 rap-metal 抛光。"
+    "en": "Formed in 1983 in Los Angeles. Mother’s Milk and Blood Sugar Sex Magik (Rick Rubin) fix the hard-funk writing: Flea’s slap bass as lead voice, Frusciante’s chord voicings, Chad Smith’s pocket.\n\nCalifornication (1999) and By the Way add melodic ballad craft after lineup changes. Give It Away, Under the Bridge, and Californication show funk rhythm and hard-rock distortion in one four-piece, without later rap-metal polish.",
+    "zh": "1983 年于洛杉矶组建。Mother’s Milk 与 Blood Sugar Sex Magik（Rick Rubin）固定硬 funk 写法：Flea 打点贝斯作主声部、Frusciante 和弦声部、Chad Smith 口袋感。\n\nCalifornication（1999）与 By the Way 在阵容变动后加入旋律谣曲写法。Give It Away、Under the Bridge、Californication 显示 funk 节奏与 hard-rock 失真可同用四人组，且无后期 rap-metal 抛光。"
   },
   "scenes": [
     {
@@ -113,7 +113,7 @@
       ],
       "intensity": 1,
       "note": {
-        "en": "Clean arpeggios and falsetto chorus; ballad side enters rock radio.",
+        "en": "Clean arpeggios and falsetto chorus; ballad side on rock radio.",
         "zh": "干净琶音与假声副歌；谣曲面进入摇滚电台。"
       }
     },
@@ -141,12 +141,12 @@
     {
       "id": "thesis",
       "title": {
-        "en": "Funk bass meets alt-rock radio",
-        "zh": "Funk 贝斯遇上 alt-rock 电台"
+        "en": "Funk bass on alt-rock radio",
+        "zh": "Alt-rock 电台上的 funk 贝斯"
       },
       "body": {
-        "en": "Blood Sugar Sex Magik (1991) puts slap bass and punk-funk rhythm on MTV beside grunge. Rick Rubin's dry mix keeps drums forward; Frusciante's clean-to-crunch toggles define the guitar chair.\n\nCalifornication (1999) proves the same four can carry ballad singles without losing the pocket. RHCP sit on the 1990s map as LA's funk-hard answer to Seattle quiet-loud.",
-        "zh": "Blood Sugar Sex Magik（1991）把打点贝斯与 punk-funk 节奏送上 MTV，与 grunge 并列。Rick Rubin 干混让鼓靠前；Frusciante 干净到 crunch 的切换定义吉他席。\n\nCalifornication（1999）证明同一四人组也能扛谣曲单曲而不丢口袋感。RHCP 在 1990 年代地图上，是 LA 对西雅图强弱动态的 funk-hard 回答。"
+        "en": "Blood Sugar Sex Magik (1991) puts slap bass and punk-funk rhythm on MTV beside grunge. Rick Rubin’s dry mix keeps drums forward; Frusciante’s clean-to-crunch toggles define the guitar chair.\n\nCalifornication (1999) shows the same four can carry ballad singles without losing the pocket. On the 1990s map, RHCP are LA funk-hard rock next to Seattle quiet-loud.",
+        "zh": "Blood Sugar Sex Magik（1991）把打点贝斯与 punk-funk 节奏送上 MTV，与 grunge 并列。Rick Rubin 干混让鼓靠前；Frusciante 干净到 crunch 的切换定义吉他席。\n\nCalifornication（1999）显示同一四人组也能扛谣曲单曲而不丢口袋感。在 1990 年代地图上，RHCP 是洛杉矶 funk-hard rock，旁靠西雅图强弱动态。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "alternative"
@@ -154,12 +154,12 @@
     {
       "id": "lineup",
       "title": {
-        "en": "Frusciante cycles vs one constant rhythm section",
-        "zh": "Frusciante 周期 vs 固定 rhythm section"
+        "en": "Frusciante cycles and fixed rhythm section",
+        "zh": "Frusciante 周期与固定节奏组"
       },
       "body": {
-        "en": "Kiedis and Flea are the spine from 1983. Frusciante enters 1988, exits after Blood Sugar, returns for Californication through By the Way. Chad Smith's drums stay from 1988.\n\nPeak citation is the Rubin/Frusciante/Smith quartet. Navarro and later guitarists mark side chapters; catalog memory stays on the Frusciante funk-alt silhouette.",
-        "zh": "Kiedis 与 Flea 自 1983 起是脊柱。Frusciante 1988 入队、Blood Sugar 后离队、Californication 至 By the Way 回归。Chad Smith 自 1988 起守鼓席。\n\n引用峰值是 Rubin/Frusciante/Smith 四人组。Navarro 与后期吉他手是旁支；目录记忆停在 Frusciante funk-alt 剪影。"
+        "en": "Kiedis and Flea stay from 1983. Frusciante enters in 1988, leaves after Blood Sugar, returns for Californication through By the Way. Chad Smith holds drums from 1988.\n\nPeak citation is the Rubin / Frusciante / Smith quartet. Navarro and later guitarists mark other chapters; catalog memory stays on the Frusciante funk-alt records.",
+        "zh": "Kiedis 与 Flea 自 1983 年起固定。Frusciante 1988 入队、Blood Sugar 后离队、Californication 至 By the Way 回归。Chad Smith 自 1988 年起守鼓席。\n\n引用峰值是 Rubin / Frusciante / Smith 四人组。Navarro 与后期吉他手是其他章节；目录记忆停在 Frusciante funk-alt 唱片。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "hard-rock"
@@ -167,12 +167,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Funk pocket in 2000s alt and stadium rock",
-        "zh": "2000 年代 alt 与体育场的 funk 口袋"
+        "en": "Funk pocket in later alt and stadium rock",
+        "zh": "后期 alt 与体育场摇滚中的 funk 口袋"
       },
       "body": {
-        "en": "Foo Fighters and Muse cite the melodic hard-rock side; funk bass as lead instrument travels into 2000s festival sets. Less grunge DNA than Seattle peers—more LA punk-funk and Van Halen chord moves.\n\nInfluence is measurable in slap-bass-forward rock radio and in bands that copy Flea's register without the Kiedis rap-flow.",
-        "zh": "Foo Fighters 与 Muse 引用旋律 hard-rock 面；主奏级 funk 贝斯进入 2000 年代音乐节。grunge DNA 少于西雅图同辈——更偏 LA punk-funk 与 Van Halen 式和弦。\n\n影响可在打点贝斯靠前的摇滚电台，以及只抄 Flea 音区、难抄 Kiedis rap-flow 的乐队中度量。"
+        "en": "Foo Fighters and Muse cite the melodic hard-rock side; slap bass as a lead instrument appears on 2000s festival sets. Less Seattle grunge writing than peers—more LA punk-funk and Van Halen–style chord moves.\n\nInfluence shows in slap-bass-forward rock radio and in bands that copy Flea’s register without Kiedis’s rap-flow.",
+        "zh": "Foo Fighters 与 Muse 引用旋律 hard-rock 面；主奏级打点贝斯出现在 2000 年代音乐节。西雅图 grunge 写法少于同辈——更偏 LA punk-funk 与 Van Halen 式和弦。\n\n影响可见于打点贝斯靠前的摇滚电台，以及只抄 Flea 音区、难抄 Kiedis rap-flow 的乐队。"
       },
       "stickyVisual": "influence",
       "soundGenre": "alternative"
@@ -198,7 +198,7 @@
         "zh": "Under the Bridge"
       },
       "body": {
-        "en": "Clean arpeggios and falsetto chorus; ballad side enters rock radio.",
+        "en": "Clean arpeggios and falsetto chorus; ballad side on rock radio.",
         "zh": "干净琶音与假声副歌；谣曲面进入摇滚电台。"
       },
       "stickyVisual": "scene",
@@ -273,8 +273,8 @@
       "title": "Under the Bridge",
       "year": 1991,
       "note": {
-        "en": "Clean arpeggio ballad as Chili Peppers’ mainstream key.",
-        "zh": "干净分解和弦谣曲，Chili Peppers 主流钥匙。"
+        "en": "Clean arpeggio ballad; Chili Peppers mainstream radio entry.",
+        "zh": "干净分解和弦谣曲；Chili Peppers 主流电台入口。"
       }
     },
     "pioneeredGenres": [
@@ -282,7 +282,7 @@
       "hard-rock"
     ],
     "note": {
-      "en": "Funk-punk to alt-radio; Frusciante as harmonic center.",
+      "en": "Funk-punk to alt radio; Frusciante as harmonic center.",
       "zh": "Funk-punk 进 alt 电台；Frusciante 为和声中心。"
     }
   }

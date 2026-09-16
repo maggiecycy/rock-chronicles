@@ -11,8 +11,8 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "CBGB-origin art-funk band; Remain in Light (1980, Eno) fused polyrhythm, looped guitar, and Byrne’s vocal into new-wave’s densest studio peak.",
-    "zh": "源自 CBGB 的 art-funk；Remain in Light（1980，Eno）把复合节奏、循环吉他与 Byrne 人声做成 new wave 最密的录音室高峰。"
+    "en": "CBGB-origin band formed in 1975. Remain in Light (1980, with Brian Eno) stacked polyrhythm, looped guitar, and David Byrne’s vocal into a dense new-wave studio peak.",
+    "zh": "源自 CBGB 的乐队，1975 年成立。《Remain in Light》（1980，与 Brian Eno 合作）把复合节奏、循环吉他与 David Byrne 人声叠成密集的 new wave 录音室高峰。"
   },
   "members": [
     {
@@ -71,8 +71,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Nervous funk trio grammar before Harrison; bass ostinato + dry drums.",
-        "zh": "Harrison 前的紧张 funk 三人语法；贝斯固定音型 + 干鼓。"
+        "en": "Nervous funk trio before Harrison; bass ostinato and dry drums.",
+        "zh": "Harrison 加入前的紧张 funk 三人编制；贝斯固定音型与干鼓。"
       }
     },
     {
@@ -109,7 +109,7 @@
       "intensity": 2,
       "note": {
         "en": "Speaking in Tongues hit; expanded live band, MTV-scale chorus.",
-        "zh": "Speaking in Tongues 热单；扩编现场乐队、MTV 尺度副歌。"
+        "zh": "《Speaking in Tongues》热单；扩编现场乐队、MTV 尺度副歌。"
       }
     }
   ],
@@ -147,12 +147,12 @@
     "the-police"
   ],
   "shortBio": {
-    "en": "Byrne / Harrison / Weymouth / Frantz new wave; Once in a Lifetime is the mass entry.",
-    "zh": "Byrne / Harrison / Weymouth / Frantz 的 new wave；Once in a Lifetime 是大众入口。"
+    "en": "Byrne / Harrison / Weymouth / Frantz new wave, 1975–1991. Once in a Lifetime is the mass entry.",
+    "zh": "Byrne / Harrison / Weymouth / Frantz 的 new wave，1975–1991。《Once in a Lifetime》是大众入口。"
   },
   "body": {
-    "en": "Formed 1975. Talking Heads: 77 and More Songs… established nervous funk; Fear of Music and Remain in Light expanded African/American rhythm collaboration and studio layering.\n\nOnce in a Lifetime (1980) is the listed track. They show post-punk can be dance music and art school without glam costume—groove and lyric dissociation as method.",
-    "zh": "1975 年组建。Talking Heads: 77 与 More Songs… 确立紧张 funk；Fear of Music 与 Remain in Light 扩展非裔/美洲节奏合作与录音室分层。\n\nOnce in a Lifetime（1980）是列出曲目。证明后朋克可以是舞曲与艺术学院产物而无 glam 戏服——groove 与歌词抽离即方法。"
+    "en": "Talking Heads formed in New York in 1975. Talking Heads: 77 and More Songs About Buildings and Food established nervous funk; Fear of Music and Remain in Light expanded African and American rhythm collaboration and studio layering with Brian Eno.\n\nOnce in a Lifetime (1980) is the listed track. Speaking in Tongues (1983) brought MTV hits including Burning Down the House. The band ended in 1991. Later art-rock and alternative acts cite Remain in Light’s density and dance-grid writing.",
+    "zh": "Talking Heads 于 1975 年在纽约成立。《Talking Heads: 77》与《More Songs About Buildings and Food》确立紧张 funk；《Fear of Music》与《Remain in Light》在 Brian Eno 合作下扩展非裔与美洲节奏合作与录音室分层。\n\n《Once in a Lifetime》（1980）是列出曲目。《Speaking in Tongues》（1983）带来包括《Burning Down the House》在内的 MTV 热单。乐队于 1991 年结束。后来 art-rock 与 alternative 行动常引用《Remain in Light》的密度与舞曲节奏写法。"
   },
   "narrative": [
     {
@@ -162,8 +162,8 @@
         "zh": "Art-funk 进入 new-wave 录音室密度"
       },
       "body": {
-        "en": "CBGB tightness plus Weymouth/Frantz groove becomes Remain in Light’s looped polyrhythm with Eno.\n\nNew wave’s densest studio peak without abandoning dance grid.",
-        "zh": "CBGB 紧凑加上 Weymouth/Frantz groove，经 Eno 变成 Remain in Light 的循环复合节奏。\n\nnew wave 最密录音室高峰，不丢舞曲格子。"
+        "en": "CBGB tightness plus Weymouth and Frantz’s groove becomes Remain in Light’s looped polyrhythm with Eno.\n\nDense studio layering without dropping the dance grid.",
+        "zh": "CBGB 紧凑加上 Weymouth 与 Frantz 的 groove，经 Eno 变成《Remain in Light》的循环复合节奏。\n\n密集录音室分层，不丢舞曲网格。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "new-wave"
@@ -171,12 +171,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Trio CBGB → four + Eno era",
-        "zh": "CBGB 三人 → 四人 + Eno 时期"
+        "en": "Trio CBGB to four plus Eno era",
+        "zh": "CBGB 三人到四人 + Eno 时期"
       },
       "body": {
-        "en": "Early Heads: Byrne/Weymouth/Frantz. Harrison joins 1977. Remain in Light adds session players in studio while logo stays four.\n\nVersions are production states more than singer swaps.",
-        "zh": "早期 Heads：Byrne/Weymouth/Frantz。Harrison 1977 加入。Remain in Light 录音室加 session，logo 仍四人。\n\n版本是制作状态多于换主唱。"
+        "en": "Early Heads: Byrne, Weymouth, Frantz. Harrison joins in 1977. Remain in Light adds session players in the studio while the public lineup stays four.\n\nVersions are mainly production states, not singer swaps.",
+        "zh": "早期 Heads：Byrne、Weymouth、Frantz。Harrison 于 1977 年加入。《Remain in Light》在录音室加 session，公众阵容仍四人。\n\n版本主要是制作状态，而非换主唱。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "post-punk"
@@ -184,12 +184,12 @@
     {
       "id": "lifetime",
       "title": {
-        "en": "Once in a Lifetime: loop as hook",
-        "zh": "Once in a Lifetime：循环即钩子"
+        "en": "Once in a Lifetime",
+        "zh": "《Once in a Lifetime》"
       },
       "body": {
-        "en": "Spoken-sung verses over interlocking bass/guitar/keys. MTV video locks the water-gesture stage grammar.\n\nTeaching track for Remain in Light method.",
-        "zh": "互锁贝斯/吉他/键盘上的说唱主歌。MTV 录像锁死泼水手势舞台语法。\n\nRemain in Light 方法教材曲。"
+        "en": "Spoken-sung verses over interlocking bass, guitar, and keys. The MTV video fixes Byrne’s water-gesture stage image.\n\nClear entry for the Remain in Light method.",
+        "zh": "互锁贝斯、吉他与键盘上的说唱主歌。MTV 录像固定 Byrne 的泼水手势舞台形象。\n\n《Remain in Light》方法的清楚入口。"
       },
       "stickyVisual": "scene",
       "soundGenre": "new-wave",
@@ -202,8 +202,8 @@
         "zh": "Byrne 棱角，Weymouth 律动"
       },
       "body": {
-        "en": "Byrne’s angular guitar and nervous baritone sit on Weymouth’s melodic funk bass and Frantz’s dry kick. Harrison adds keys/guitar color.\n\nTom Tom Club (Weymouth/Frantz) proves the rhythm section can own a separate hit logo.",
-        "zh": "Byrne 棱角吉他与紧张男中音坐在 Weymouth 旋律 funk 贝斯与 Frantz 干底鼓上。Harrison 加键盘/吉他色彩。\n\nTom Tom Club（Weymouth/Frantz）证明节奏组可拥有独立热单 logo。"
+        "en": "Byrne’s angular guitar and nervous baritone sit on Weymouth’s melodic funk bass and Frantz’s dry kick. Harrison adds keys and guitar color.\n\nTom Tom Club (Weymouth/Frantz) shows the rhythm section can carry a separate hit catalog.",
+        "zh": "Byrne 棱角吉他与紧张男中音坐在 Weymouth 旋律 funk 贝斯与 Frantz 干底鼓上。Harrison 加键盘与吉他色彩。\n\nTom Tom Club（Weymouth/Frantz）显示节奏组可承载独立热单目录。"
       },
       "stickyVisual": "members",
       "soundGenre": "new-wave"
@@ -215,8 +215,8 @@
         "zh": "跳舞而不显得蠢"
       },
       "body": {
-        "en": "Weymouth’s dance claim and Byrne’s lyric catchphrase document the Heads bargain: art posture plus floor utility.\n\nQuotes are method labels.",
-        "zh": "Weymouth 的舞曲主张与 Byrne 歌词口头禅记录 Heads 交易：艺术姿态 + 舞池效用。\n\n引语是方法标签。"
+        "en": "Weymouth’s dance claim and Byrne’s lyric catchphrase document the Heads bargain: art posture plus floor utility.\n\nQuotes label method; the records carry the argument.",
+        "zh": "Weymouth 的舞曲主张与 Byrne 歌词口头禅记录 Heads 的取舍：艺术姿态加上舞池效用。\n\n引语标注方法；论证仍由唱片承担。"
       },
       "stickyVisual": "quote",
       "soundGenre": "new-wave",
@@ -229,8 +229,8 @@
         "zh": "后朋克作为舞曲与录音室系统"
       },
       "body": {
-        "en": "Radiohead and later art-rock cite Remain in Light density. Depeche Mode and new-wave peers share the dance-grid inheritance.\n\nHeads prove CBGB can scale to polyrhythm albums.",
-        "zh": "Radiohead 与后来 art-rock 引用 Remain in Light 密度。Depeche Mode 与 new-wave 同辈共享舞曲格子遗产。\n\nHeads 证明 CBGB 可扩到复合节奏专辑。"
+        "en": "Radiohead and later art-rock cite Remain in Light density. Depeche Mode and new-wave peers share the dance-grid inheritance.\n\nCBGB tightness scaled to polyrhythm albums.",
+        "zh": "Radiohead 与后来 art-rock 引用《Remain in Light》密度。Depeche Mode 与 new-wave 同辈共享舞曲网格遗产。\n\nCBGB 紧凑扩到复合节奏专辑。"
       },
       "stickyVisual": "influence",
       "soundGenre": "alternative"
@@ -262,7 +262,7 @@
       ],
       "note": {
         "en": "Psycho Killer-era three-piece.",
-        "zh": "Psycho Killer 时期三人组。"
+        "zh": "《Psycho Killer》时期三人组。"
       }
     },
     {
@@ -295,7 +295,7 @@
       ],
       "note": {
         "en": "Remain in Light through Speaking in Tongues peak years.",
-        "zh": "Remain in Light 至 Speaking in Tongues 峰值年。"
+        "zh": "《Remain in Light》至《Speaking in Tongues》峰值年。"
       }
     }
   ],
@@ -305,7 +305,7 @@
       "year": 1980,
       "note": {
         "en": "Eno-era polyrhythm as new-wave mass entry.",
-        "zh": "Eno 时期复合节奏作为 new-wave 大众入口。"
+        "zh": "Eno 时期复合节奏，new-wave 大众入口。"
       }
     },
     "pioneeredGenres": [
@@ -313,8 +313,8 @@
       "post-punk"
     ],
     "note": {
-      "en": "Art-school funk + studio looping without glam costume.",
-      "zh": "艺术学院 funk + 录音室循环，无 glam 戏服。"
+      "en": "Art-school funk and studio looping without glam costume.",
+      "zh": "艺术学院 funk 与录音室循环，无 glam 戏服。"
     }
   }
 }

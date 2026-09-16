@@ -12,8 +12,8 @@
     "heavy-metal"
   ],
   "whyMatters": {
-    "en": "Birmingham four-piece whose 1970 debut fixed tritone riffs, down-tuned guitar, and occult-tinged lyric as heavy metal’s separable identity from hard rock.",
-    "zh": "伯明翰四人组：1970 首专把三全音 riff、降调吉他与偏神秘歌词定为重金属相对 hard rock 可分离的身份。"
+    "en": "Birmingham four-piece formed in 1968. The 1970 debut and Paranoid fixed tritone riffs, down-tuned guitar, and occult-tinged lyrics as a heavy sound distinct from blues-based hard rock.",
+    "zh": "伯明翰四人组，1968 年成立。1970 年首专与《Paranoid》确立三全音 riff、降调吉他与偏神秘歌词，形成相对蓝调 hard rock 更可分离的重金属声音。"
   },
   "members": [
     {
@@ -70,8 +70,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Tritone riff + slow tempo as early metal scene.",
-        "zh": "三全音 riff + 慢速度作为早期金属场景。"
+        "en": "Title track from the 1970 debut; tritone riff and slow tempo.",
+        "zh": "1970 年首专同名曲；三全音 riff 与慢速度。"
       }
     },
     {
@@ -88,8 +88,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Short/fast heavy single that still fits radio.",
-        "zh": "仍适合电台的短快重型单曲。"
+        "en": "Short, faster single from Paranoid; still suited to radio length.",
+        "zh": "出自《Paranoid》的短快单曲；时长仍适合电台。"
       }
     }
   ],
@@ -123,24 +123,24 @@
     "metallica"
   ],
   "shortBio": {
-    "en": "Iommi / Osbourne / Butler / Ward; Paranoid-era metal foundation.",
-    "zh": "Iommi / Osbourne / Butler / Ward；Paranoid 时期金属地基。"
+    "en": "Iommi / Osbourne / Butler / Ward; Paranoid-era foundation for heavy metal.",
+    "zh": "Iommi / Osbourne / Butler / Ward；《Paranoid》时期为重金属奠基。"
   },
   "decisive": true,
   "body": {
-    "en": "Formed 1968. Black Sabbath, Paranoid, and Master of Reality document Iommi’s riff writing after fingertip injury (lighter strings, fretting adaptations), Geezer’s bass/lyrics, Ozzy’s nasal lead, Ward’s drums.\n\nTitle track Black Sabbath (1970) and Paranoid / Iron Man are the teaching set. Dio-era Heaven and Hell is a separate vocal-engine version under the same name.",
-    "zh": "1968 年组建。Black Sabbath、Paranoid 与 Master of Reality 记录 Iommi 指伤后的 riff 写作（更细弦、按弦适应）、Geezer 贝斯/歌词、Ozzy 鼻音主唱、Ward 鼓。\n\n同名曲 Black Sabbath（1970）与 Paranoid / Iron Man 是教材组。Dio 时期 Heaven and Hell 是同名下另一套人声引擎版本。"
+    "en": "Black Sabbath formed in Birmingham in 1968. Black Sabbath, Paranoid, and Master of Reality document Tony Iommi’s riff writing after a fingertip injury (lighter strings and fretting adaptations), Geezer Butler’s bass and lyrics, Ozzy Osbourne’s nasal lead, and Bill Ward’s drums.\n\nThe title track Black Sabbath (1970) plus Paranoid and Iron Man are the usual early reference set. After Ozzy left in 1979, Ronnie James Dio joined for Heaven and Hell (1980)—same band name, different singer and lyric approach.",
+    "zh": "Black Sabbath 于 1968 年在伯明翰成立。《Black Sabbath》、《Paranoid》与《Master of Reality》记录 Tony Iommi 指伤后的 riff 写法（更细弦、按弦适应）、Geezer Butler 的贝斯与歌词、Ozzy Osbourne 的鼻音主唱，以及 Bill Ward 的鼓。\n\n同名曲《Black Sabbath》（1970）与《Paranoid》《Iron Man》是早期常用参照。1979 年 Ozzy 离队后，Ronnie James Dio 加入并录制《Heaven and Hell》（1980）——同名乐队，主唱与歌词取向不同。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "A riff catalog, not mascara hard rock",
-        "zh": "riff 目录，而非涂睫毛膏的 hard rock"
+        "en": "Heaviness as interval and tempo",
+        "zh": "「重」来自音程与速度"
       },
       "body": {
-        "en": "Sabbath matter because heaviness is arrangement and interval choice—tritone, slow tempo, bleak lyric—not only louder amps.\n\nMetal gets a separable grammar from blues-based hard rock here.",
-        "zh": "Sabbath 要紧，因为「重」是编曲与音程选择——三全音、慢速度、阴郁歌词——不只是更大的音箱。\n\n金属在此获得相对蓝调 hard rock 可分离的语法。"
+        "en": "Sabbath’s early weight comes from arrangement choices: tritone intervals, slow tempos, and bleak lyrics—not only louder amplifiers.\n\nThat writing separates more clearly from blues-based hard rock of the same years.\n\nThe 1970–71 albums are the usual citation for early heavy metal.",
+        "zh": "Sabbath 早期的「重」来自编曲选择：三全音、慢速度与阴郁歌词——不只是更大的音箱。\n\n这套写法相对同期蓝调 hard rock 更容易区分。\n\n1970–71 年专辑是早期重金属的常用参照。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "heavy-metal"
@@ -148,12 +148,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Ozzy years vs Dio years",
-        "zh": "Ozzy 年代 vs Dio 年代"
+        "en": "Ozzy years and Dio years",
+        "zh": "Ozzy 年代与 Dio 年代"
       },
       "body": {
-        "en": "Ozzy-era peak is the birth citation. Dio’s Heaven and Hell reinvents vocal and fantasy lyric without erasing the riff engine.\n\nSame logo, different singer—why lineup versions are first-class objects.",
-        "zh": "Ozzy 时期巅峰是创世引用。Dio 的 Heaven and Hell 重做人声与奇幻歌词，不擦掉 riff 引擎。\n\n同一 logo、不同主唱——故阵容版本是一等对象。"
+        "en": "The Ozzy-era peak is the founding citation: 1968–1979 with Iommi, Butler, and Ward.\n\nDio’s Heaven and Hell (1980) keeps Iommi’s riff writing and changes the vocal and fantasy lyric.\n\nSame name, different singer—why lineup versions are listed separately.",
+        "zh": "Ozzy 时期巅峰是创始参照：1968–1979，与 Iommi、Butler、Ward 同台。\n\nDio 的《Heaven and Hell》（1980）保留 Iommi 的 riff 写法，更换人声与奇幻歌词。\n\n同名、不同主唱——故阵容版本分开列出。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "hard-rock"
@@ -161,12 +161,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Black Sabbath: tritone opening",
-        "zh": "Black Sabbath：三全音开场"
+        "en": "Black Sabbath (title track)",
+        "zh": "《Black Sabbath》（同名曲）"
       },
       "body": {
-        "en": "Rain/bell intro into Iommi’s tritone figure; Ozzy’s vocal enters over the dread tempo. Often cited as metal’s creation-scene track.\n\nAtmosphere is tempo + interval, not stage fog metaphor.",
-        "zh": "雨声/钟声引入 Iommi 三全音音型；Ozzy 人声进入恐惧速度。常被引为金属创世场景曲。\n\n氛围是速度+音程，不是舞台烟雾比喻。"
+        "en": "Rain and bell sounds lead into Iommi’s tritone figure; Ozzy’s vocal enters over a slow tempo.\n\nOften cited as an early metal reference track. The atmosphere comes from tempo and interval, not stage effects alone.",
+        "zh": "雨声与钟声引入 Iommi 的三全音音型；Ozzy 人声进入慢速度。\n\n常被引为早期金属参照曲。氛围来自速度与音程，不只是舞台效果。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -175,12 +175,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Paranoid: short, fast, radio-fit darkness",
-        "zh": "Paranoid：短、快、适合电台的黑暗"
+        "en": "Paranoid",
+        "zh": "《Paranoid》"
       },
       "body": {
-        "en": "Faster riff, tighter runtime, still heavy. Proof early metal can fit AM/FM without losing the down-tuned grind.\n\nTeaching contrast to the title track’s crawl.",
-        "zh": "更快 riff、更紧时长，仍然重。证明早期金属可进 AM/FM 而不丢掉降调碾磨。\n\n与同名曲爬行速度的教学对照。"
+        "en": "Faster riff and shorter runtime than the title track, still heavy and down-tuned.\n\nIt fits AM/FM length while keeping the early Sabbath guitar tone.\n\nUseful contrast to the slower crawl of Black Sabbath.",
+        "zh": "riff 更快、时长更短，仍保持降调与重量。\n\n适合 AM/FM 时长，同时保留早期 Sabbath 吉他音色。\n\n可与同名曲的慢速形成对照。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -189,12 +189,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Downstream: doom, NWOBHM, grunge sludge",
-        "zh": "下游：doom、NWOBHM、grunge 淤泥"
+        "en": "Downstream: doom, NWOBHM, grunge",
+        "zh": "下游：doom、NWOBHM、grunge"
       },
       "body": {
-        "en": "Doom keeps the slow dread; NWOBHM keeps riff primacy at higher speed; Seattle grunge cites the sludge more than the occult.\n\nBlack sun as catalog influence, not astrology.",
-        "zh": "Doom 留下慢恐惧；NWOBHM 以更高速度保持 riff 优先；西雅图 grunge 更多引用淤泥而非神秘学。\n\n黑太阳是目录影响，不是占星。"
+        "en": "Doom keeps the slow dread. NWOBHM keeps riff primacy at higher speed. Seattle grunge cites the heavy low end more than the occult lyric.\n\nInfluence here is catalog and arrangement, not imagery for its own sake.",
+        "zh": "Doom 留下慢与阴郁。NWOBHM 以更高速度保持 riff 优先。西雅图 grunge 更多引用偏重的低频，而非神秘学歌词。\n\n此处影响指向曲目与编曲，而非为意象而意象。"
       },
       "stickyVisual": "dna",
       "soundGenre": "hard-rock"
@@ -202,12 +202,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "They called it heavy; catalogs called it metal",
-        "zh": "他们称它重；目录称它金属"
+        "en": "Heavy first; “metal” later",
+        "zh": "先称「重」；「金属」后至"
       },
       "body": {
-        "en": "Early press language lags the genre label. Useful quotes describe volume, gloom, and audience shock—genre name arrives in retrospect.\n\nTrack the naming lag as history.",
-        "zh": "早期媒体用语落后于类型标签。有用引语描述音量、阴郁与听众震惊——类型名事后到来。\n\n把命名滞后当作历史追踪。"
+        "en": "Early press language often lagged behind the later genre label.\n\nUseful quotes describe volume, gloom, and audience reaction; the name heavy metal arrives more clearly in retrospect.\n\nTrack that naming lag as part of the history.",
+        "zh": "早期媒体用语常落后于后来的类型标签。\n\n有用的引语描述音量、阴郁与听众反应；heavy metal 这一名称更多是事后明确的。\n\n把命名滞后当作历史的一部分追踪。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -277,8 +277,8 @@
         }
       ],
       "note": {
-        "en": "Same band name, Dio vocal engine—versions matter.",
-        "zh": "同名、Dio 人声引擎——版本要紧。"
+        "en": "Same band name; Dio on vocals for Heaven and Hell and related albums.",
+        "zh": "同名乐队；Dio 主唱《Heaven and Hell》及相关专辑。"
       }
     }
   ],
@@ -287,16 +287,16 @@
       "title": "Black Sabbath",
       "year": 1970,
       "note": {
-        "en": "Tritone opening as metal creation citation.",
-        "zh": "三全音开场作为金属创世引用。"
+        "en": "Tritone opening; early metal reference track.",
+        "zh": "三全音开场；早期金属参照曲。"
       }
     },
     "pioneeredGenres": [
       "heavy-metal"
     ],
     "note": {
-      "en": "Heaviness as interval, tempo, and lyric frame—not only volume.",
-      "zh": "「重」作为音程、速度与歌词框架——不只是音量。"
+      "en": "Heaviness from interval, tempo, and lyric frame—not volume alone.",
+      "zh": "「重」来自音程、速度与歌词框架——不只是音量。"
     }
   }
 }

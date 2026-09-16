@@ -10,8 +10,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Mark II lineup (Blackmore / Gillan / Glover / Lord / Paice) set hard rock’s organ-plus-riff classroom: Machine Head (1972) and the Made in Japan live document.",
-    "zh": "Mark II 阵容（Blackmore / Gillan / Glover / Lord / Paice）定下 hard rock「管风琴 + riff」课堂：Machine Head（1972）与现场专辑 Made in Japan。"
+    "en": "Mark II lineup (Blackmore / Gillan / Glover / Lord / Paice) set hard rock with Hammond organ equal to guitar: Machine Head (1972) and the live album Made in Japan.",
+    "zh": "Mark II 阵容（Blackmore / Gillan / Glover / Lord / Paice）确立 Hammond 管风琴与吉他对等的 hard rock：《Machine Head》（1972）与现场专辑《Made in Japan》。"
   },
   "members": [
     {
@@ -79,8 +79,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Open-fifth riff as global teaching tool; Montreux fire lyric.",
-        "zh": "开放五度 riff 作全球教学工具；蒙特勒火灾歌词。"
+        "en": "Open-fifth riff from Machine Head; lyric about the Montreux casino fire.",
+        "zh": "出自《Machine Head》的开放五度 riff；歌词写蒙特勒赌场火灾。"
       }
     },
     {
@@ -98,8 +98,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Speed riff + Blackmore classical figures + Lord Hammond race.",
-        "zh": "速度 riff + Blackmore 古典音型 + Lord Hammond 竞速。"
+        "en": "Speed riff; Blackmore classical figures and Lord Hammond trade lines.",
+        "zh": "速度 riff；Blackmore 古典音型与 Lord Hammond 交替。"
       }
     },
     {
@@ -118,8 +118,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "In Rock era: Gillan scream over Lord’s organ bed.",
-        "zh": "In Rock 时期：Gillan 尖叫压在 Lord 管风琴铺底上。"
+        "en": "From Deep Purple in Rock; Gillan scream over Lord’s organ bed.",
+        "zh": "出自《Deep Purple in Rock》；Gillan 尖叫压在 Lord 管风琴铺底上。"
       }
     }
   ],
@@ -157,23 +157,23 @@
     "rainbow"
   ],
   "shortBio": {
-    "en": "Mark II hard rock; Smoke on the Water made the open-fifth riff a classroom standard.",
-    "zh": "Mark II hard rock；Smoke on the Water 把开放五度 riff 做成课堂标准。"
+    "en": "Mark II hard rock; Smoke on the Water made the open-fifth riff a worldwide beginner standard.",
+    "zh": "Mark II hard rock；《Smoke on the Water》的开放五度 riff 成为全球入门标准之一。"
   },
   "body": {
-    "en": "Formed 1968; the commercially decisive era is 1970–73 Mark II. In Rock and Machine Head fused Jon Lord’s Hammond with Blackmore’s blues-classical guitar figures.\n\nSmoke on the Water (1972) is the riff everyone learns; Highway Star and Lazy show the speed and jazz-blues stretch. Blackmore exits to Rainbow (1975). They sit with Sabbath and Zeppelin as early-70s hard-rock pillars, more organ-forward than either.",
-    "zh": "1968 年组建；商业与风格决定期是 1970–73 的 Mark II。In Rock 与 Machine Head 把 Jon Lord 的 Hammond 与 Blackmore 的蓝调—古典吉他音型焊在一起。\n\nSmoke on the Water（1972）是人人会弹的 riff；Highway Star、Lazy 展示速度与爵士蓝调延伸。Blackmore 1975 离队组建 Rainbow。与 Sabbath、Zeppelin 同属 70 年代初 hard-rock 支柱，管风琴比重更高。"
+    "en": "Deep Purple formed in 1968. The commercially decisive era is 1970–73 Mark II. Deep Purple in Rock and Machine Head combine Jon Lord’s Hammond with Blackmore’s blues and classical guitar figures.\n\nSmoke on the Water (1972) is one of the most widely learned guitar riffs; Highway Star and Lazy show speed and jazz-blues stretch. Blackmore left in 1975 to form Rainbow. They sit with Sabbath and Zeppelin as early-1970s hard-rock pillars, with more organ in the mix than either.",
+    "zh": "Deep Purple 于 1968 年成立。商业与风格决定期是 1970–73 的 Mark II。《Deep Purple in Rock》与《Machine Head》把 Jon Lord 的 Hammond 与 Blackmore 的蓝调—古典吉他音型结合。\n\n《Smoke on the Water》（1972）是全球最常学的吉他 riff 之一；《Highway Star》《Lazy》展示速度与爵士蓝调延伸。Blackmore 1975 离队组建 Rainbow。与 Sabbath、Zeppelin 同属 70 年代初 hard-rock 支柱，管风琴在混音中的比重更高。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Organ + riff classroom",
-        "zh": "管风琴 + riff 课堂"
+        "en": "Organ and riff together",
+        "zh": "管风琴与 riff 并列"
       },
       "body": {
-        "en": "Mark II sets hard rock’s organ-plus-riff grammar: Lord’s Hammond equal to Blackmore’s guitar in the live mix. Machine Head (1972) and Made in Japan are the studio and live textbooks.\n\nMore organ-forward than Zeppelin or Sabbath.",
-        "zh": "Mark II 定下 hard rock「管风琴 + riff」语法：现场混音里 Lord 的 Hammond 与 Blackmore 吉他对等。Machine Head（1972）与 Made in Japan 是录音室与现场课本。\n\n管风琴比重高于 Zeppelin 或 Sabbath。"
+        "en": "Mark II sets hard rock with Lord’s Hammond equal to Blackmore’s guitar in the live mix.\n\nMachine Head (1972) and Made in Japan are the main studio and live documents.\n\nMore organ-forward than Zeppelin or Sabbath.",
+        "zh": "Mark II 确立 hard rock 中 Lord 的 Hammond 与 Blackmore 吉他在现场混音中对等。\n\n《Machine Head》（1972）与《Made in Japan》是主要录音室与现场文献。\n\n管风琴比重高于 Zeppelin 或 Sabbath。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "hard-rock"
@@ -185,8 +185,8 @@
         "zh": "Mark I / II / III 与 Blackmore 离队"
       },
       "body": {
-        "en": "Mark I: Evans/Simper era. Mark II: Gillan/Glover peak. Mark III: Coverdale/Hughes after Gillan/Glover leave. Blackmore exits 1975 to form Rainbow—hub path to fantasy-lyric hard rock.\n\nPaice is the continuous drum seat.",
-        "zh": "Mark I：Evans/Simper 时期。Mark II：Gillan/Glover 峰值。Mark III：Gillan/Glover 离队后 Coverdale/Hughes。Blackmore 1975 离队组建 Rainbow——通向奇幻歌词 hard rock 的枢纽路径。\n\nPaice 是连续鼓席。"
+        "en": "Mark I: Evans/Simper era. Mark II: Gillan/Glover peak. Mark III: Coverdale/Hughes after Gillan and Glover leave.\n\nBlackmore exits in 1975 to form Rainbow. Ian Paice remains the continuous drum seat across marks.",
+        "zh": "Mark I：Evans/Simper 时期。Mark II：Gillan/Glover 峰值。Mark III：Gillan/Glover 离队后 Coverdale/Hughes。\n\nBlackmore 1975 离队组建 Rainbow。Ian Paice 是各 Mark 中连续的鼓席。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "hard-rock"
@@ -194,12 +194,12 @@
     {
       "id": "smoke",
       "title": {
-        "en": "Smoke on the Water: teaching riff",
-        "zh": "Smoke on the Water：教学 riff"
+        "en": "Smoke on the Water",
+        "zh": "《Smoke on the Water》"
       },
       "body": {
-        "en": "Open-fifth figure over Lord’s organ and Paice’s pocket. Lyric documents the Montreux casino fire. It becomes the first riff many guitarists learn worldwide.\n\nHighway Star shows the speed and neoclassical lead side of the same album.",
-        "zh": "开放五度音型压在 Lord 管风琴与 Paice 律动上。歌词记录蒙特勒赌场火灾。成为全球许多吉他手学的第一支 riff。\n\nHighway Star 展示同一专辑的速度与新古典主音面。"
+        "en": "Open-fifth figure over Lord’s organ and Paice’s pocket. The lyric documents the Montreux casino fire.\n\nIt became one of the first riffs many guitarists learn worldwide.\n\nHighway Star on the same album shows the speed and neoclassical lead side.",
+        "zh": "开放五度音型压在 Lord 管风琴与 Paice 律动上。歌词记录蒙特勒赌场火灾。\n\n成为全球许多吉他手最早学会的 riff 之一。\n\n同一专辑的《Highway Star》展示速度与新古典主音面。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -208,12 +208,12 @@
     {
       "id": "members",
       "title": {
-        "en": "Blackmore figures, Lord Hammond, Gillan scream",
-        "zh": "Blackmore 音型、Lord Hammond、Gillan 尖叫"
+        "en": "Blackmore, Lord, Gillan",
+        "zh": "Blackmore、Lord、Gillan"
       },
       "body": {
-        "en": "Blackmore blends blues bends with classical scalar runs. Lord treats Hammond as a lead instrument. Gillan’s scream sits above without melisma fashion.\n\nGlover and Paice lock the pocket that Made in Japan documents.",
-        "zh": "Blackmore 把蓝调弯音与古典音阶跑动混合。Lord 把 Hammond 当主奏乐器。Gillan 尖叫坐在上方，不走花腔时尚。\n\nGlover 与 Paice 锁死 Made in Japan 记录的律动。"
+        "en": "Blackmore blends blues bends with classical scalar runs. Lord treats Hammond as a lead instrument. Gillan’s scream sits above without heavy melisma.\n\nGlover and Paice hold the pocket that Made in Japan documents.",
+        "zh": "Blackmore 把蓝调弯音与古典音阶跑动混合。Lord 把 Hammond 当主奏乐器。Gillan 尖叫坐在上方，少用花腔。\n\nGlover 与 Paice 维持《Made in Japan》记录的律动。"
       },
       "stickyVisual": "members",
       "soundGenre": "hard-rock"
@@ -225,8 +225,8 @@
         "zh": "不可预测的离队，响管风琴"
       },
       "body": {
-        "en": "Blackmore’s unpredictability line foreshadows the Rainbow split. Lord’s equal-volume organ claim is the mix fact behind the Mark II sound.\n\nQuotes document method, not myth.",
-        "zh": "Blackmore 的不可预测句预示 Rainbow 分裂。Lord「管风琴与吉他一样响」是 Mark II 声音背后的混音事实。\n\n引语记录方法，不造神话。"
+        "en": "Blackmore’s line about not liking to be predictable foreshadows the Rainbow split.\n\nLord’s equal-volume organ claim is the mix fact behind the Mark II sound.\n\nQuotes document method more than myth.",
+        "zh": "Blackmore「不喜欢可预测」一句预示后来与 Rainbow 的分裂。\n\nLord「管风琴与吉他一样响」是 Mark II 声音背后的混音事实。\n\n引语更多记录方法，而非神话。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -235,12 +235,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "NWOBHM and metal classroom",
-        "zh": "NWOBHM 与金属课堂"
+        "en": "NWOBHM and later metal",
+        "zh": "NWOBHM 与后来金属"
       },
       "body": {
-        "en": "Iron Maiden and later metal acts cite the riff-plus-organ weight and Gillan-range vocals. Rainbow continues Blackmore’s neoclassical lead path with Dio.\n\nSmoke remains the pedagogical object.",
-        "zh": "Iron Maiden 与后来金属引用「riff + 管风琴」重量与 Gillan 音域人声。Rainbow 以 Dio 延续 Blackmore 新古典主音路径。\n\nSmoke 仍是教学对象。"
+        "en": "Iron Maiden and later metal acts cite the riff-plus-organ weight and Gillan-range vocals.\n\nRainbow continues Blackmore’s neoclassical lead path with Dio.\n\nSmoke on the Water remains a common first riff for guitar students.",
+        "zh": "Iron Maiden 与后来金属引用「riff + 管风琴」的重量与 Gillan 音域人声。\n\nRainbow 以 Dio 延续 Blackmore 的新古典主音路径。\n\n《Smoke on the Water》仍是吉他入门常学的 riff。"
       },
       "stickyVisual": "influence",
       "soundGenre": "heavy-metal"
@@ -279,8 +279,8 @@
         }
       ],
       "note": {
-        "en": "Early albums before Gillan/Glover; psychedelic/hard-rock hybrid.",
-        "zh": "Gillan/Glover 前的早期专辑；迷幻/hard-rock 混合。"
+        "en": "Early albums before Gillan/Glover; psychedelic/hard-rock mix.",
+        "zh": "Gillan/Glover 前的早期专辑；迷幻与 hard-rock 混合。"
       }
     },
     {
@@ -318,8 +318,8 @@
         }
       ],
       "note": {
-        "en": "In Rock / Machine Head / Made in Japan citation era.",
-        "zh": "In Rock / Machine Head / Made in Japan 引用期。"
+        "en": "In Rock / Machine Head / Made in Japan era.",
+        "zh": "《In Rock》/《Machine Head》/《Made in Japan》时期。"
       }
     },
     {
@@ -355,7 +355,7 @@
       ],
       "note": {
         "en": "Burn / Stormbringer; Blackmore exits 1975 to Rainbow.",
-        "zh": "Burn / Stormbringer；Blackmore 1975 离队组建 Rainbow。"
+        "zh": "《Burn》/《Stormbringer》；Blackmore 1975 离队组建 Rainbow。"
       }
     }
   ],
@@ -364,8 +364,8 @@
       "title": "Smoke on the Water",
       "year": 1972,
       "note": {
-        "en": "Open-fifth riff as global guitar classroom.",
-        "zh": "开放五度 riff 成为全球吉他课堂。"
+        "en": "Open-fifth riff; among the most widely learned guitar figures.",
+        "zh": "开放五度 riff；全球最常学的吉他音型之一。"
       }
     },
     "pioneeredGenres": [
@@ -373,7 +373,7 @@
       "heavy-metal"
     ],
     "note": {
-      "en": "Hammond equal to guitar in hard-rock mix.",
+      "en": "Hammond equal to guitar in the hard-rock mix.",
       "zh": "Hard-rock 混音中 Hammond 与吉他对等。"
     }
   }

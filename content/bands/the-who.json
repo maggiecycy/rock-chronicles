@@ -9,8 +9,8 @@
     "hard-rock"
   ],
   "whyMatters": {
-    "en": "London four-piece that fused power-chord pop, live destruction lore, and Townshend concept albums (Tommy, Who’s Next) into hard-rock theatre.",
-    "zh": "伦敦四人组：把强力和弦流行、现场破坏传说与 Townshend 概念专集（Tommy、Who’s Next）融进 hard-rock 剧场。"
+    "en": "London four-piece formed in 1964. Power-chord singles, Townshend concept albums (Tommy, Who’s Next), and a loud live setup with Moon’s drums and Entwistle’s bass.",
+    "zh": "伦敦四人组，1964 年成立。强力和弦单曲、Townshend 概念专集（《Tommy》《Who’s Next》），以及 Moon 的鼓与 Entwistle 的贝斯构成的大音量现场编制。"
   },
   "members": [
     {
@@ -63,8 +63,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "1965 stutter/feedback youth single.",
-        "zh": "1965 口吃/反馈青年单曲。"
+        "en": "1965 single; Daltrey stutter vocal, feedback, Entwistle bass solo.",
+        "zh": "1965 单曲；Daltrey 口吃人声、反馈、Entwistle 贝斯独奏。"
       }
     },
     {
@@ -81,8 +81,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Sequencer intro into arena power chords.",
-        "zh": "音序引入接入体育场强力和弦。"
+        "en": "From Who’s Next; Lowrey organ/sequencer intro into power-chord sections.",
+        "zh": "出自《Who’s Next》；Lowrey 风琴/音序引入接入强力和弦段落。"
       }
     }
   ],
@@ -117,24 +117,24 @@
     "metallica"
   ],
   "shortBio": {
-    "en": "Townshend / Daltrey / Entwistle / Moon; Baba O’Riley and My Generation are poles.",
-    "zh": "Townshend / Daltrey / Entwistle / Moon；Baba O’Riley 与 My Generation 是两极。"
+    "en": "London hard rock, 1964–. Townshend, Daltrey, Entwistle, Moon; My Generation and Who’s Next are core references.",
+    "zh": "伦敦硬摇滚，1964 年至今。Townshend、Daltrey、Entwistle、Moon；《My Generation》与《Who’s Next》是主要参照。"
   },
   "decisive": true,
   "body": {
-    "en": "Formed 1964. Mid-60s singles (My Generation) establish stutter vocal and feedback; Tommy invents rock-opera scale; Who’s Next (synthesizer/sequencer experiments) yields Baba O’Riley and Won’t Get Fooled Again.\n\nMoon’s drums and Entwistle’s lead-bass are instrumental signatures. Live volume is part of the historical record.",
-    "zh": "1964 年组建。60 年代中期单曲（My Generation）确立口吃人声与反馈；Tommy 发明摇滚歌剧尺度；Who’s Next（合成器/音序实验）交出 Baba O’Riley 与 Won’t Get Fooled Again。\n\nMoon 的鼓与 Entwistle 的主奏式贝斯是乐器签名。现场音量属历史记录的一部分。"
+    "en": "The Who formed in London in 1964. Mid-60s singles such as My Generation used stutter vocals, feedback, and Entwistle’s bass breaks. Tommy (1969) set a rock-opera album scale; Who’s Next (1971) used synthesizer and organ/sequencer parts on Baba O’Riley and Won’t Get Fooled Again.\n\nMoon’s drums and Entwistle’s melodic bass are the clearest instrumental signatures. High stage volume and instrument-smashing incidents appear in contemporary reports of the live shows.",
+    "zh": "The Who 于 1964 年在伦敦成立。60 年代中期单曲如《My Generation》使用口吃人声、反馈与 Entwistle 的贝斯打断。《Tommy》（1969）确立摇滚歌剧式专辑尺度；《Who’s Next》（1971）在《Baba O’Riley》《Won’t Get Fooled Again》上使用合成器与风琴/音序声部。\n\nMoon 的鼓与 Entwistle 的旋律贝斯是最易辨认的乐器特征。大音量舞台与砸乐器事件见诸当时现场报道。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Power chords + concept ambition",
-        "zh": "强力和弦 + 概念野心"
+        "en": "Core sound",
+        "zh": "核心声音"
       },
       "body": {
-        "en": "The Who matter as the band that kept singles craft while inventing album-length narrative and synth-rock experiments for arenas.\n\nViolence onstage is lore; arrangement is the durable export.",
-        "zh": "The Who 要紧处是：保持单曲工艺的同时，为体育场发明专辑时长叙事与合成器摇滚实验。\n\n舞台暴力是传说；编曲才是耐久输出。"
+        "en": "Townshend’s writing centers on power chords, clear verse/chorus shapes, and, on later albums, longer narrative forms.\n\nMoon often plays fills as a lead-like drum part; Entwistle’s bass takes melodic solos. Daltrey carries the vocal line, including the stutter phrasing on My Generation.",
+        "zh": "Townshend 的写作以强力和弦、清楚的主歌/副歌结构为主，后期专辑则加入更长的叙事形式。\n\nMoon 常以接近主奏的加花打鼓；Entwistle 的贝斯承担旋律独奏。Daltrey 负责人声线，包括《My Generation》上的口吃句式。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "hard-rock"
@@ -142,12 +142,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "My Generation: 1965 stutter single",
-        "zh": "My Generation：1965 口吃单曲"
+        "en": "My Generation",
+        "zh": "《My Generation》"
       },
       "body": {
-        "en": "Feedback, Entwistle solo break, Daltrey’s stutter—mod-era youth single that still reads as hard-rock proto.\n\nTempo and attitude first.",
-        "zh": "反馈、Entwistle 独奏段、Daltrey 口吃——仍可读作 hard-rock 原型的 mod 时代青年单曲。\n\n速度与态度优先。"
+        "en": "Released as a single in 1965. Daltrey’s stuttered vocal, guitar feedback, and Entwistle’s bass solo are the main identifiers.\n\nThe track sits in the mid-60s mod/beat singles market and keeps a fast tempo with a shouted chorus.",
+        "zh": "1965 年作为单曲发行。Daltrey 的口吃人声、吉他反馈与 Entwistle 的贝斯独奏是主要识别元素。\n\n歌曲属于 60 年代中期 mod/beat 单曲市场，节奏快，副歌偏喊唱。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -156,12 +156,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Baba O’Riley: sequencer into power chord",
-        "zh": "Baba O’Riley：音序接入强力和弦"
+        "en": "Won't Get Fooled Again",
+        "zh": "《Won't Get Fooled Again》"
       },
       "body": {
-        "en": "ARP/Lowrey figure into full-band crash; violin solo; Daltrey vocal—Who’s Next teaching track.\n\nElectronics without abandoning guitar war.",
-        "zh": "ARP/Lowrey 音型接入全乐队撞击；小提琴独奏；Daltrey 人声——Who’s Next 教材曲。\n\n不放弃吉他战争的电子。"
+        "en": "From Who’s Next (1971). A Lowrey organ part processed through a synthesizer/sequencer opens the track, then full-band power chords enter.\n\nDaltrey’s long final scream and Townshend’s guitar are central live markers. Baba O’Riley, from the same album, uses a similar organ/sequencer-to-band layout.",
+        "zh": "出自《Who’s Next》（1971）。Lowrey 风琴经合成器/音序处理后开场，再接入全乐队强力和弦。\n\nDaltrey 末尾长啸与 Townshend 的吉他是现场主要标记。同专辑的《Baba O’Riley》也使用类似的风琴/音序接入全乐队结构。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -170,12 +170,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Moon volume, Townshend writing",
-        "zh": "Moon 音量，Townshend 写作"
+        "en": "Live volume and album forms",
+        "zh": "现场音量与专辑形式"
       },
       "body": {
-        "en": "Later hard rock cites the live assault; prog and concept acts cite Tommy/Quadrophenia permission.\n\nDNA splits into volume culture and writer culture.",
-        "zh": "后来 hard rock 引用现场突击；prog 与概念乐队引用 Tommy/Quadrophenia 许可。\n\nDNA 裂为音量文化与写作者文化。"
+        "en": "Later hard-rock bands often cite the loud live arrangement—Moon’s drums, Entwistle’s bass, Townshend’s power chords.\n\nTommy and Quadrophenia are frequent citations for concept/rock-opera album writing in progressive and narrative rock.",
+        "zh": "后来的 hard rock 乐队常引用其大音量现场编制——Moon 的鼓、Entwistle 的贝斯、Townshend 的强力和弦。\n\n《Tommy》与《Quadrophenia》常被 progressive 与叙事摇滚引用为概念/摇滚歌剧式专辑写法。"
       },
       "stickyVisual": "dna",
       "soundGenre": "rock-n-roll"
@@ -183,12 +183,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Townshend on craft and destruction",
-        "zh": "Townshend 谈工艺与破坏"
+        "en": "Townshend on arrangement",
+        "zh": "Townshend 谈编曲"
       },
       "body": {
-        "en": "Interview lines about songwriting systems sit beside smashed-instrument stories.\n\nHold both as documented practices.",
-        "zh": "关于歌曲写作系统的访谈句，旁靠砸乐器故事。\n\n二者都当作有文献的实践。"
+        "en": "Townshend has described arranging around Moon’s drums as a lead instrument. That matches how fills and bass lines share space with the vocal on the classic-four records.\n\nInstrument damage onstage is documented separately in press accounts of the period.",
+        "zh": "Townshend 曾描述围绕 Moon 的鼓作为主奏乐器来编曲。这与经典四人组唱片上加花、贝斯线与人声共用空间的做法一致。\n\n舞台砸乐器则另见于当时媒体报道。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -200,16 +200,16 @@
       "title": "My Generation",
       "year": 1965,
       "note": {
-        "en": "Stutter, smash, and volume as youth politics.",
-        "zh": "口吃、砸琴与音量即青年政治。"
+        "en": "Stutter vocal, feedback, and Entwistle bass solo on a 1965 single.",
+        "zh": "1965 单曲上的口吃人声、反馈与 Entwistle 贝斯独奏。"
       }
     },
     "pioneeredGenres": [
       "hard-rock"
     ],
     "note": {
-      "en": "Power-chord violence + rock-opera ambition in one band DNA.",
-      "zh": "强力和弦暴力与摇滚歌剧野心同体。"
+      "en": "Power-chord singles and concept albums (Tommy, Who’s Next) in one classic lineup.",
+      "zh": "同一经典阵容下的强力和弦单曲与概念专集（《Tommy》《Who’s Next》）。"
     }
   },
   "lineupVersions": [
@@ -240,8 +240,8 @@
         }
       ],
       "note": {
-        "en": "Townshend windmill + Moon lead drums; Entwistle as melodic bass.",
-        "zh": "Townshend 风车 + Moon 主奏式鼓；Entwistle 旋律贝斯。"
+        "en": "Townshend, Daltrey, Entwistle, Moon through Who Are You; Moon died in 1978.",
+        "zh": "Townshend、Daltrey、Entwistle、Moon，至《Who Are You》；Moon 于 1978 年去世。"
       }
     }
   ]

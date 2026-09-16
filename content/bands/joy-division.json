@@ -8,8 +8,8 @@
     "post-punk"
   ],
   "whyMatters": {
-    "en": "Salford/Manchester post-punk four-piece; Unknown Pleasures (1979) and Closer (1980) fixed cold bass-led songs and Martin Hannett production before Curtis’s death ended the band.",
-    "zh": "索尔福德/曼彻斯特后朋克四人组；Unknown Pleasures（1979）与 Closer（1980）在 Curtis 去世结束乐队前，定下冷贝斯主导歌曲与 Martin Hannett 制作。"
+    "en": "Salford/Manchester post-punk four-piece formed in 1976. Unknown Pleasures (1979) and Closer (1980) fix Hook’s high melodic bass, Morris’s spaced drums, and Martin Hannett’s production before Curtis’s death ended the band.",
+    "zh": "索尔福德/曼彻斯特后朋克四人组，1976 年成立。《Unknown Pleasures》（1979）与《Closer》（1980）定下 Hook 高音旋律贝斯、Morris 宽空间鼓点与 Martin Hannett 制作；Curtis 去世后乐队结束。"
   },
   "members": [
     {
@@ -63,8 +63,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Melodic single with Hook bass hook.",
-        "zh": "带 Hook 贝斯钩子的旋律单曲。"
+        "en": "Single with a clear Hook bass hook and Curtis vocal.",
+        "zh": "单曲；Hook 贝斯钩子与 Curtis 人声清楚。"
       }
     },
     {
@@ -81,8 +81,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Slow wide Hannett production ballad.",
-        "zh": "Hannett 慢宽制作谣曲。"
+        "en": "1980 single; mid-tempo; Hannett production; widest public entry.",
+        "zh": "1980 单曲；中速；Hannett 制作；公众入口最宽。"
       }
     }
   ],
@@ -116,24 +116,24 @@
     "fontaines-dc"
   ],
   "shortBio": {
-    "en": "Curtis / Sumner / Hook / Morris post-punk; Love Will Tear Us Apart is the mass single.",
-    "zh": "Curtis / Sumner / Hook / Morris 后朋克；Love Will Tear Us Apart 是大众单曲。"
+    "en": "Salford post-punk, 1976–80. Curtis, Sumner, Hook, Morris; Factory with Hannett. Love Will Tear Us Apart is the main single reference.",
+    "zh": "索尔福德后朋克，1976–80。Curtis、Sumner、Hook、Morris；Factory，Hannett 制作。《Love Will Tear Us Apart》是主要单曲参照。"
   },
   "decisive": true,
   "body": {
-    "en": "Formed 1976 (Warsaw). Factory Records albums with Hannett: spacious drums, Hook’s high melodic bass, Sumner’s brittle guitar, Curtis’s baritone.\n\nTransmission, Atmosphere, Love Will Tear Us Apart (1980) are the entry set. Survivors continue as New Order—same bloodline, different tools.",
-    "zh": "1976 年组建（曾用名 Warsaw）。与 Hannett 的 Factory 专辑：宽鼓组、Hook 高音旋律贝斯、Sumner 脆吉他、Curtis 男中音。\n\nTransmission、Atmosphere、Love Will Tear Us Apart（1980）是入口组。幸存者续为 New Order——同一血脉，不同工具。"
+    "en": "Joy Division formed in 1976 (briefly as Warsaw) in Salford/Manchester. Factory Records albums with Martin Hannett use spacious drums, Peter Hook’s high melodic bass, Bernard Sumner’s brittle guitar, and Ian Curtis’s baritone.\n\nTransmission (1979), Atmosphere, and Love Will Tear Us Apart (1980) are the usual entry tracks. Curtis died in May 1980; the remaining members continued as New Order.",
+    "zh": "Joy Division 于 1976 年在索尔福德/曼彻斯特成立（曾用名 Warsaw）。与 Martin Hannett 合作的 Factory 专辑使用宽空间鼓点、Peter Hook 高音旋律贝斯、Bernard Sumner 偏脆的吉他，以及 Ian Curtis 的男中音。\n\n《Transmission》（1979）、《Atmosphere》与《Love Will Tear Us Apart》（1980）是常见入口曲。Curtis 于 1980 年 5 月去世；其余成员续为 New Order。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Post-punk bass and space as method",
-        "zh": "后朋克贝斯与空间作为方法"
+        "en": "Bass, space, and vocal",
+        "zh": "贝斯、空间与人声"
       },
       "body": {
-        "en": "Joy Division matter for arrangement: bass often above guitar, drums gated/spaciously produced, vocal deadpan. Short catalog, high citation in goth/post-punk/indie.\n\nEnded 1980; influence is structural.",
-        "zh": "Joy Division 要紧在编曲：贝斯常高于吉他、鼓经门限/宽空间制作、人声冷脸。目录短，哥特/后朋克/indie 引用高。\n\n1980 年结束；影响是结构层面的。"
+        "en": "Arrangement marks the band: bass often sits above guitar register, drums are gated or spaced in the mix, vocal stays dry and baritone. Catalog is short; citation in goth, post-punk, and indie is high.\n\nThe band ended in 1980; influence rests on that arrangement method.",
+        "zh": "编曲是主要标记：贝斯常高于吉他音区、鼓在混音中经门限或拉开空间、人声偏干的男中音。目录短；哥特、后朋克与 indie 引用高。\n\n乐队于 1980 年结束；影响建立在这套编曲方法上。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "post-punk"
@@ -141,12 +141,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Love Will Tear Us Apart: melodic single",
-        "zh": "Love Will Tear Us Apart：旋律单曲"
+        "en": "Transmission",
+        "zh": "《Transmission》"
       },
       "body": {
-        "en": "Hook bass hook, Curtis vocal, danceable mid-tempo—widest public entry beyond the albums’ frost.\n\nPosthumous chart life is part of the document.",
-        "zh": "Hook 贝斯钩子、Curtis 人声、可跳的中速——超越专辑冷感的最宽公众入口。\n\n身后上榜属文献的一部分。"
+        "en": "1979 single: Hook bass hook, Curtis vocal, clearer melodic line than many album cuts.\n\nUseful entry before the 1980 singles.",
+        "zh": "1979 单曲：Hook 贝斯钩子、Curtis 人声，旋律线比许多专辑曲更清楚。\n\n可作进入 1980 年单曲前的入口。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -155,12 +155,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Atmosphere: slow, wide production",
-        "zh": "Atmosphere：慢、宽的制作"
+        "en": "Love Will Tear Us Apart",
+        "zh": "《Love Will Tear Us Apart》"
       },
       "body": {
-        "en": "Hannett space, synth pads, Curtis vocal further back—ballad form inside post-punk.\n\nTeaching track for production as emotion carrier.",
-        "zh": "Hannett 空间、合成器铺底、Curtis 人声更靠后——后朋克里的谣曲形式。\n\n制作作为情绪载体的教材曲。"
+        "en": "Hook bass hook, Curtis vocal, mid-tempo pulse under Hannett’s mix. Wider public reach than many album tracks.\n\nPosthumous chart runs are part of the single’s history.",
+        "zh": "Hook 贝斯钩子、Curtis 人声、Hannett 混音下的中速律动。公众面宽过许多专辑曲。\n\n身后上榜是该单曲历史的一部分。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -169,12 +169,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Factory method → New Order tools",
-        "zh": "Factory 方法 → New Order 工具"
+        "en": "After 1980: New Order",
+        "zh": "1980 年之后：New Order"
       },
       "body": {
-        "en": "Same players adopt sequencers and club bass after 1980. JD’s DNA is the melodic bass + dry vocal template many revival bands copy.\n\nContinuity is personnel, not costume.",
-        "zh": "同一批乐手在 1980 年后采用音序器与俱乐部贝斯。JD 的 DNA 是旋律贝斯 + 干人声模板，许多复兴乐队照抄。\n\n连续的是人事，不是戏服。"
+        "en": "The same players adopt sequencers and club bass after 1980 as New Order. Melodic high bass and dry vocal remain audible links.\n\nContinuity is personnel and bass role, not the Joy Division name.",
+        "zh": "同一批乐手在 1980 年后以 New Order 采用音序器与俱乐部贝斯。高音旋律贝斯与干人声仍是可闻的联系。\n\n连续的是人事与贝斯角色，而非 Joy Division 之名。"
       },
       "stickyVisual": "dna",
       "soundGenre": "post-punk"
@@ -182,12 +182,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Sparse public speech, dense myth later",
-        "zh": "公开话语 sparce，事后神话变密"
+        "en": "Sparse contemporary quotes",
+        "zh": "同时代引语有限"
       },
       "body": {
-        "en": "Contemporary quotes are limited; later oral history fills gaps. Prefer musical description over romantic fatalism.\n\nRecords first.",
-        "zh": "同时代引语有限；后来口述史填空。宁取音乐描述，不取浪漫宿命论。\n\n唱片优先。"
+        "en": "Contemporary interview material is limited; later oral history fills gaps. Prefer musical description over romantic fatalism.\n\nStart with the Factory records.",
+        "zh": "同时代访谈材料有限；后来口述史补缺。优先音乐描述，少取浪漫宿命论。\n\n从 Factory 唱片入手。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -199,16 +199,16 @@
       "title": "Love Will Tear Us Apart",
       "year": 1980,
       "note": {
-        "en": "Post-punk as cold dancefloor confession.",
-        "zh": "Post-punk 如冰冷舞池告白。"
+        "en": "1980 single; Hook bass and Hannett mix as the widest public entry.",
+        "zh": "1980 单曲；Hook 贝斯与 Hannett 混音是最宽公众入口。"
       }
     },
     "pioneeredGenres": [
       "post-punk"
     ],
     "note": {
-      "en": "Space, bass, and restraint become a whole aesthetic.",
-      "zh": "空间、贝斯与克制自成美学。"
+      "en": "High melodic bass, spaced drums, dry baritone vocal.",
+      "zh": "高音旋律贝斯、宽空间鼓点、干男中音人声。"
     }
   },
   "lineupVersions": [
@@ -242,8 +242,8 @@
         }
       ],
       "note": {
-        "en": "Hook high bass + Morris machine drums; Curtis as baritone center.",
-        "zh": "Hook 高音贝斯 + Morris 机械鼓；Curtis 男中音中心。"
+        "en": "Hook high bass and Morris drums; Curtis baritone center. Factory albums with Hannett.",
+        "zh": "Hook 高音贝斯与 Morris 鼓；Curtis 男中音中心。Factory 专辑，Hannett 制作。"
       }
     }
   ]

@@ -67,16 +67,16 @@
   ],
   "influenced": [],
   "shortBio": {
-    "en": "McCartney-led 1970s rock/pop; person continuity after Beatles.",
-    "zh": "McCartney 领衔的 1970 年代摇滚/流行；Beatles 之后的人物连续性。"
+    "en": "McCartney-led UK rock/pop, 1971–1981. Band on the Run is the main post-Beatles reference; Linda McCartney and Denny Laine are the core partners.",
+    "zh": "McCartney 领衔的英国摇滚/流行，1971–1981。《Band on the Run》是后 Beatles 主要参照；Linda McCartney 与 Denny Laine 是核心伙伴。"
   },
   "body": {
-    "en": "Formed 1971 with Linda McCartney and Denny Laine; lineups shifted through the decade. Wild Life through Back to the Egg mix music-hall pop, hard rockers, and touring logistics McCartney rebuilt from scratch.\n\nBridge page: Beatles → Wings in the person graph. Band on the Run is the usual citation; the structural point is songwriter continuity across brand change.",
-    "zh": "1971 年与 Linda McCartney、Denny Laine 组建（阵容有变）。从 Wild Life 到 Back to the Egg 混合音乐厅流行、硬摇滚曲与 McCartney 从头重建的巡演后勤。\n\n桥页：人物图谱中的 Beatles → Wings。Band on the Run 是常见引用；结构要点是品牌更换后的词曲作者连续性。"
+    "en": "Wings formed in 1971 with Paul McCartney, Linda McCartney, and Denny Laine. Lineups shifted through the decade. Wild Life through Back to the Egg mix music-hall pop, hard rockers, and touring McCartney rebuilt after the Beatles.\n\nBand on the Run (1973) reached #1 in the US and UK. In this person graph, Wings is the bridge page from Beatles to McCartney’s 1970s band work.",
+    "zh": "Wings 于 1971 年由 Paul McCartney、Linda McCartney 与 Denny Laine 组建，阵容在十年间有变。从《Wild Life》到《Back to the Egg》混合音乐厅流行、硬摇滚曲，以及 Beatles 之后 McCartney 重建的巡演。\n\n《Band on the Run》（1973）登上英美专辑榜冠军。在人物图谱中，Wings 是 Beatles 到 McCartney 1970 年代乐队工作的桥页。"
   },
   "whyMatters": {
-    "en": "Paul McCartney's 1971–81 post-Beatles band; Band on the Run (1973) proved stadium/pop craft continued under a new logo.",
-    "zh": "Paul McCartney 1971–81 在 Beatles 之后的乐队；Band on the Run（1973）证明体育场/流行工艺在新 logo 下延续。"
+    "en": "Paul McCartney’s 1971–81 band after the Beatles. Band on the Run (1973) reached US/UK #1 and remains the main Wings citation for stadium and pop songwriting under a new name.",
+    "zh": "Paul McCartney 在 Beatles 之后 1971–81 年的乐队。《Band on the Run》（1973）登上英美榜冠军，是 Wings 在新名称下体育场与流行词曲写作的主要引用。"
   },
   "scenes": [
     {
@@ -94,8 +94,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Three-part suite structure in a radio single—McCartney's post-Beatles songwriting peak.",
-        "zh": "电台单曲里的三段组曲结构——McCartney 后 Beatles 词曲巅峰。"
+        "en": "Title track from Band on the Run; three-part structure inside a radio-length single.",
+        "zh": "《Band on the Run》标题曲；电台长度单曲内的三段结构。"
       }
     },
     {
@@ -111,8 +111,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "George Martin orchestration on a Bond theme—Wings as pop-event band.",
-        "zh": "George Martin 配器 Bond 主题曲——Wings 作为 pop 事件乐队。"
+        "en": "James Bond theme; George Martin orchestration with Wings rock sections.",
+        "zh": "詹姆斯·邦德主题曲；George Martin 配器与 Wings 摇滚段落。"
       }
     },
     {
@@ -129,8 +129,8 @@
       ],
       "intensity": 1,
       "note": {
-        "en": "Disco-adjacent groove refuting 'silly' pop dismissal—US #1.",
-        "zh": "Disco 邻近 groove 反驳「肤浅流行」——美国 #1。"
+        "en": "From Wings at the Speed of Sound; disco-adjacent groove; US #1 single.",
+        "zh": "出自《Wings at the Speed of Sound》；偏 disco 的 groove；美国单曲榜冠军。"
       }
     }
   ],
@@ -138,12 +138,12 @@
     {
       "id": "thesis",
       "title": {
-        "en": "Post-Beatles reboot",
-        "zh": "后 Beatles 重启"
+        "en": "After the Beatles",
+        "zh": "Beatles 之后"
       },
       "body": {
-        "en": "McCartney forms Wings after Beatles dissolution and solo McCartney (1970). Initial trio: Paul, Linda, Denny Laine—deliberately non-star sidemen.\n\nWild Life (1971) is loose and quickly recorded; tour rehearsals double as writing sessions.\n\nMaybe I'm Amazed (1970, solo) sets the emotional vocal template Wings inherit.",
-        "zh": "Beatles 解散与 solo McCartney（1970）后组建 Wings。初始三人：Paul、Linda、Denny Laine——刻意非明星伴奏。\n\nWild Life（1971）松散快录；巡演排练兼写歌。\n\nMaybe I'm Amazed（1970，solo）定下 Wings 继承的情感人声模板。"
+        "en": "McCartney forms Wings after the Beatles split and the solo album McCartney (1970). The initial core is Paul, Linda, and Denny Laine—sidemen chosen outside a star-supergroup frame.\n\nWild Life (1971) is loose and quickly recorded; tour rehearsals double as writing sessions. Maybe I’m Amazed (1970, solo) sets a vocal approach Wings continues.",
+        "zh": "Beatles 解散与 solo 专辑《McCartney》（1970）后组建 Wings。初始核心是 Paul、Linda、Denny Laine——伴奏人选不走明星超级组合路线。\n\n《Wild Life》（1971）松散快录；巡演排练兼写歌。《Maybe I’m Amazed》（1970，solo）定下 Wings 延续的人声写法。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "rock-n-roll"
@@ -151,12 +151,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Band on the Run: Nigeria sessions",
-        "zh": "Band on the Run：尼日利亚录音"
+        "en": "Band on the Run: Lagos sessions",
+        "zh": "《Band on the Run》：拉各斯录音"
       },
       "body": {
-        "en": "Recorded in Lagos with Paul, Linda, Denny Laine, and Denny Seiwell. Title track runs verse-chorus-suite in under five minutes.\n\nJet opens with snare crack and stacked backing vocals; Live and Let Die adds George Martin horn stabs.\n\nAlbum hits #1 US/UK—proof McCartney's melodic craft survives without Lennon counterweight.",
-        "zh": "于拉各斯与 Paul、Linda、Denny Laine、Denny Seiwell 录制。标题曲五分钟内跑完主歌-副歌-组曲。\n\nJet 以军鼓 crack 与堆叠和声开场；Live and Let Die 加 George Martin 铜管刺击。\n\n专辑英美 #1——证明 McCartney 旋律工艺在无 Lennon 制衡下仍成立。"
+        "en": "Recorded in Lagos with Paul, Linda, Denny Laine, and Denny Seiwell. The title track runs verse-chorus-suite sections in under five minutes.\n\nJet opens with snare crack and stacked backing vocals; Live and Let Die adds George Martin horn stabs. The album hit #1 in the US and UK.",
+        "zh": "于拉各斯与 Paul、Linda、Denny Laine、Denny Seiwell 录制。标题曲在五分钟内跑完主歌-副歌-组曲段落。\n\n《Jet》以军鼓 crack 与堆叠和声开场；《Live and Let Die》加 George Martin 铜管刺击。专辑登上英美榜冠军。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "rock-n-roll"
@@ -164,12 +164,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Wings Over America and dissolution",
-        "zh": "Wings Over America 与解散"
+        "en": "Wings Over America and the end",
+        "zh": "Wings Over America 与结束"
       },
       "body": {
-        "en": "Expanded lineup adds Joe English (drums) and Jimmy McCulloch (guitar). Wings Over America (1976) documents arena-scale Beatles catalog plus new material.\n\nVenus and Mars (1975) and London Town (1978) split between rockers and ballad side.\n\nMcCartney ends Wings 1981 after lineup churn and marijuana bust fallout in Japan.",
-        "zh": "扩编加入 Joe English（鼓）与 Jimmy McCulloch（吉他）。Wings Over America（1976）记录体育场级 Beatles 目录加新曲。\n\nVenus and Mars（1975）与 London Town（1978）在摇滚曲与抒情面间分流。\n\nMcCartney 1981 年因阵容更替与日本大麻案余波结束 Wings。"
+        "en": "Expanded lineups add Joe English (drums) and Jimmy McCulloch (guitar). Wings Over America (1976) documents arena shows mixing Beatles catalog with new material.\n\nVenus and Mars (1975) and London Town (1978) split between rockers and ballads. McCartney ends Wings in 1981 after further lineup changes and fallout from a marijuana arrest in Japan.",
+        "zh": "扩编加入 Joe English（鼓）与 Jimmy McCulloch（吉他）。《Wings Over America》（1976）记录体育场演出，混有 Beatles 目录与新曲。\n\n《Venus and Mars》（1975）与《London Town》（1978）在摇滚曲与抒情曲之间分流。McCartney 于 1981 年在阵容继续变动与日本大麻案余波后结束 Wings。"
       },
       "stickyVisual": "influence",
       "soundGenre": "rock-n-roll"
@@ -178,11 +178,11 @@
       "id": "scene-0",
       "title": {
         "en": "Band on the Run",
-        "zh": "Band on the Run"
+        "zh": "《Band on the Run》"
       },
       "body": {
-        "en": "Three-part suite structure in a radio single—McCartney's post-Beatles songwriting peak.",
-        "zh": "电台单曲里的三段组曲结构——McCartney 后 Beatles 词曲巅峰。"
+        "en": "Three-part structure inside a radio-length single. Core McCartney songwriting from the early Wings peak.",
+        "zh": "电台长度单曲内的三段结构。Wings 早期峰值时期的核心 McCartney 词曲。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -192,11 +192,11 @@
       "id": "scene-1",
       "title": {
         "en": "Live and Let Die",
-        "zh": "Live and Let Die"
+        "zh": "《Live and Let Die》"
       },
       "body": {
-        "en": "George Martin orchestration on a Bond theme—Wings as pop-event band.",
-        "zh": "George Martin 配器 Bond 主题曲——Wings 作为 pop 事件乐队。"
+        "en": "Bond theme with George Martin orchestration and Wings rock sections. A pop-event single from 1973.",
+        "zh": "邦德主题曲，George Martin 配器与 Wings 摇滚段落。1973 年的流行事件单曲。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -206,11 +206,11 @@
       "id": "scene-2",
       "title": {
         "en": "Silly Love Songs",
-        "zh": "Silly Love Songs"
+        "zh": "《Silly Love Songs》"
       },
       "body": {
-        "en": "Disco-adjacent groove refuting 'silly' pop dismissal—US #1.",
-        "zh": "Disco 邻近 groove 反驳「肤浅流行」——美国 #1。"
+        "en": "Disco-adjacent groove from Wings at the Speed of Sound. US #1 single in 1976.",
+        "zh": "出自《Wings at the Speed of Sound》的偏 disco groove。1976 年美国单曲榜冠军。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -256,8 +256,8 @@
         }
       ],
       "note": {
-        "en": "McCartney/Linda/Laine core through Band on the Run peak.",
-        "zh": "McCartney/Linda/Laine 核心，贯穿 Band on the Run 峰值。"
+        "en": "McCartney/Linda/Laine core through the Band on the Run peak years.",
+        "zh": "McCartney/Linda/Laine 核心，贯穿 Band on the Run 峰值年份。"
       }
     }
   ],
@@ -266,8 +266,8 @@
       "title": "Band on the Run",
       "year": 1973,
       "note": {
-        "en": "Multi-section pop-rock as Wings’ structural showcase.",
-        "zh": "多段体流行摇滚，Wings 结构展示曲。"
+        "en": "Multi-section pop-rock title track; US/UK #1 album.",
+        "zh": "多段体流行摇滚标题曲；英美专辑榜冠军。"
       }
     },
     "pioneeredGenres": [
@@ -275,8 +275,8 @@
       "hard-rock"
     ],
     "note": {
-      "en": "Post-Beatles McCartney band craft; hit economy with suite ambition.",
-      "zh": "后 Beatles 的 McCartney 乐队工艺；热单经济配组曲野心。"
+      "en": "Post-Beatles McCartney band; hit singles with suite-length ambition on key tracks.",
+      "zh": "后 Beatles 的 McCartney 乐队；热单写法，关键曲目带组曲长度。"
     }
   }
 }

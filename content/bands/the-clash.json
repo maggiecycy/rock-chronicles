@@ -12,8 +12,8 @@
     "post-punk"
   ],
   "whyMatters": {
-    "en": "London punk band that widened UK punk into reggae, rockabilly, and album-length politics; London Calling (1979) is the double-album hinge.",
-    "zh": "伦敦朋克：把英国朋克拓宽到雷鬼、rockabilly 与专辑尺度政治；London Calling（1979）是双专铰链。"
+    "en": "London punk band formed in 1976. Early CBS singles stay fast; London Calling (1979) and later albums add reggae, rockabilly, and longer songwriting.",
+    "zh": "伦敦朋克乐队，1976 年成立。早期 CBS 单曲偏快；《London Calling》（1979）及后续专辑加入雷鬼、rockabilly 与更长的写歌幅度。"
   },
   "members": [
     {
@@ -67,8 +67,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "1979 title-track opening statement.",
-        "zh": "1979 同名曲开场声明。"
+        "en": "Title track of the 1979 double album; Strummer vocal, Jones guitar, Headon drums.",
+        "zh": "1979 双专同名曲；Strummer 人声、Jones 吉他、Headon 鼓。"
       }
     },
     {
@@ -86,8 +86,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Combat Rock radio hook export.",
-        "zh": "Combat Rock 电台钩子出口。"
+        "en": "Combat Rock track; simple chord cycle and gang vocal; later radio staple.",
+        "zh": "出自《Combat Rock》；简单和弦循环与群吼；后来成为电台常播。"
       }
     }
   ],
@@ -122,24 +122,24 @@
     "arctic-monkeys"
   ],
   "shortBio": {
-    "en": "Strummer / Jones punk-to-post-punk; London Calling is the mass document.",
-    "zh": "Strummer / Jones 从朋克到后朋克；London Calling 是大众文献。"
+    "en": "London punk, 1976–86. Strummer and Jones writing; London Calling and Combat Rock are the main references.",
+    "zh": "伦敦朋克，1976–86。Strummer 与 Jones 写作；《London Calling》与《Combat Rock》是主要参照。"
   },
   "decisive": true,
   "body": {
-    "en": "Formed 1976. Early CBS singles and The Clash debut are fast punk; Give ’Em Enough Rope and London Calling expand styles; Sandinista! overshoots length; Combat Rock yields radio hits.\n\nLondon Calling (1979) and Should I Stay or Should I Go / Straight to Hell (1982) show range. Longer fuse than the Pistols.",
-    "zh": "1976 年组建。早期 CBS 单曲与首专是快朋克；Give ’Em Enough Rope 与 London Calling 扩展风格；Sandinista! 时长过载；Combat Rock 交出电台热单。\n\nLondon Calling（1979）与 Should I Stay or Should I Go / Straight to Hell（1982）展示幅度。引信长过 Pistols。"
+    "en": "The Clash formed in London in 1976. Early CBS singles and the debut The Clash (1977) are fast punk. Give ’Em Enough Rope (1978) and London Calling (1979) widen styles; Sandinista! (1980) is a long triple set; Combat Rock (1982) yields radio hits including Should I Stay or Should I Go.\n\nJoe Strummer and Mick Jones handle most vocals and writing; Paul Simonon on bass; Topper Headon on drums for the classic years. The catalog runs longer than Sex Pistols and mixes reggae, rockabilly, and reportage lyrics with punk tempos.",
+    "zh": "The Clash 于 1976 年在伦敦成立。早期 CBS 单曲与首专《The Clash》（1977）是快朋克。《Give ’Em Enough Rope》（1978）与《London Calling》（1979）扩展风格；《Sandinista!》（1980）是长篇三碟；《Combat Rock》（1982）交出电台热单，包括《Should I Stay or Should I Go》。\n\nJoe Strummer 与 Mick Jones 负责主要人声与写作；Paul Simonon 贝斯；经典年鼓手为 Topper Headon。目录长过 Sex Pistols，并在朋克速度上混入雷鬼、rockabilly 与报道式歌词。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Punk as expandable toolkit",
-        "zh": "把朋克当可扩展工具箱"
+        "en": "Punk plus other styles",
+        "zh": "朋克与其他风格"
       },
       "body": {
-        "en": "The Clash matter because they treat punk energy as a base layer under reggae riddims, piano rockers, and reportage lyrics—not a purity test.\n\nAlbum ambition inside a punk generation.",
-        "zh": "The Clash 要紧，因为他们把朋克能量当雷鬼 riddim、钢琴摇滚与报道歌词下的底层——而非纯度测验。\n\n朋克一代内部的专辑野心。"
+        "en": "The Clash keep punk tempos and three-chord writing, then add reggae riddims, piano rockers, and longer album structures.\n\nThat mix sits inside the late-1970s London punk generation rather than outside it.",
+        "zh": "The Clash 保留朋克速度与三和弦写法，再加入雷鬼 riddim、钢琴摇滚与更长的专辑结构。\n\n这种混搭仍在 1970 年代末伦敦朋克一代内部。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "punk"
@@ -147,12 +147,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "London Calling: title-track warning",
-        "zh": "London Calling：同名曲警告"
+        "en": "London Calling",
+        "zh": "《London Calling》"
       },
       "body": {
-        "en": "Strummer vocal, Jones guitar, Topper drums—opening statement of the 1979 double album.\n\nScene + songcraft fused.",
-        "zh": "Strummer 人声、Jones 吉他、Topper 鼓——1979 双专开场声明。\n\n场景与歌曲工艺融合。"
+        "en": "The 1979 double album opens with the title track: Strummer vocal, Jones guitar, Headon drums.\n\nIt is the clearest public entry to the band’s expanded writing.",
+        "zh": "1979 双专以同名曲开场：Strummer 人声、Jones 吉他、Headon 鼓。\n\n它是接触乐队扩展写法的最清楚入口。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -161,12 +161,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Should I Stay: rock’n’roll hook export",
-        "zh": "Should I Stay：摇滚钩子出口"
+        "en": "Should I Stay or Should I Go",
+        "zh": "《Should I Stay or Should I Go》"
       },
       "body": {
-        "en": "Simple chord cycle, gang vocal—Combat Rock radio object that outlives scene politics for casual listeners.\n\nExportable craft beside the experimental tracks.",
-        "zh": "简单和弦循环、群吼——让休闲听众记过场景政治的 Combat Rock 电台对象。\n\n实验曲旁的可导出工艺。"
+        "en": "From Combat Rock (1982): short chord cycle, call-and-response vocal. It reached wider radio play than many earlier tracks.\n\nStraight to Hell from the same album shows the slower, reportage side.",
+        "zh": "出自《Combat Rock》（1982）：短和弦循环、呼应人声。电台播放面宽过许多早期曲目。\n\n同专《Straight to Hell》则是较慢、报道式的一面。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -175,12 +175,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Politics + genre tourism",
-        "zh": "政治 + 类型旅游"
+        "en": "Politics and style mix",
+        "zh": "政治与风格混搭"
       },
       "body": {
-        "en": "Later political punk and indie cite the permission to mix styles. DNA is curiosity under urgency, not a single tempo.\n\nJones vs Strummer tensions are documented personnel history.",
-        "zh": "后来政治朋克与 indie 引用其混搭风格许可。DNA 是紧迫下的好奇，而非单一速度。\n\nJones 与 Strummer 张力属有文献的人事史。"
+        "en": "Later political punk and indie bands cite the permission to mix reggae, funk, and rockabilly with punk. Strummer–Jones writing tensions are part of the documented personnel history.\n\nThe method is curiosity under short song forms, not one fixed tempo.",
+        "zh": "后来政治朋克与 indie 常引用其把雷鬼、funk、rockabilly 与朋克混写的做法。Strummer 与 Jones 的写作张力属有文献的人事史。\n\n方法是短歌形式下的风格好奇，而非单一固定速度。"
       },
       "stickyVisual": "dna",
       "soundGenre": "punk"
@@ -188,12 +188,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Manifesto lines in the press",
-        "zh": "媒体里的宣言句"
+        "en": "Interview lines",
+        "zh": "访谈句"
       },
       "body": {
-        "en": "Interview slogans about boredom and engagement match the lyric reportage.\n\nCheck them against the records’ stylistic spread.",
-        "zh": "关于无聊与介入的访谈口号，与歌词报道匹配。\n\n对照唱片的风格跨度核验。"
+        "en": "Strummer’s later line “The future is unwritten” and Jones’s garage-band remarks sit beside the lyric reportage.\n\nCheck them against the records’ stylistic spread from debut punk to Combat Rock.",
+        "zh": "Strummer 后来的「The future is unwritten」与 Jones 关于 garage band 的说法，可与歌词报道对照。\n\n对照唱片从首专朋克到《Combat Rock》的风格跨度。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -205,8 +205,8 @@
       "title": "London Calling",
       "year": 1979,
       "note": {
-        "en": "Punk grows up without losing urgency.",
-        "zh": "Punk 长大，却不丢紧迫。"
+        "en": "Title track of the 1979 double album; key public reference.",
+        "zh": "1979 双专同名曲；主要公众参照。"
       }
     },
     "pioneeredGenres": [
@@ -214,8 +214,8 @@
       "post-punk"
     ],
     "note": {
-      "en": "World music curiosity inside three-chord politics.",
-      "zh": "三和弦政治里塞进世界音乐好奇。"
+      "en": "Reggae and rockabilly inside three-chord punk writing.",
+      "zh": "在三和弦朋克写法中加入雷鬼与 rockabilly。"
     }
   },
   "lineupVersions": [
@@ -247,8 +247,8 @@
         }
       ],
       "note": {
-        "en": "Strummer/Jones writing; reggae/funk into punk expansion.",
-        "zh": "Strummer/Jones 写作；reggae/funk 扩写朋克。"
+        "en": "Strummer/Jones writing; reggae and funk appear on mid-period albums.",
+        "zh": "Strummer/Jones 写作；中期专辑出现雷鬼与 funk。"
       }
     }
   ]

@@ -9,8 +9,8 @@
     "indie-rock"
   ],
   "whyMatters": {
-    "en": "Dublin post-punk band; Dogrel (2019) onward put Irish place-name lyric and dry, driving guitars on late-2010s/2020s indie festival stages.",
-    "zh": "都柏林后朋克；自 Dogrel（2019）起把爱尔兰地名歌词与干、驱动的吉他送上 2010 末/2020 年代 indie 音乐节舞台。"
+    "en": "Dublin post-punk band formed in 2017. From Dogrel (2019) onward, Grian Chatten’s spoken-sung Dublin diction, twin guitars, and dry production placed Irish place-name lyric on late-2010s and 2020s indie festival stages.",
+    "zh": "都柏林后朋克乐队，2017 年成立。自《Dogrel》（2019）起，Grian Chatten 半说唱的都柏林吐字、双吉他与干制作，把爱尔兰地名歌词送上 2010 年代末与 2020 年代 indie 音乐节舞台。"
   },
   "members": [
     {
@@ -70,8 +70,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Dogrel-era drive statement.",
-        "zh": "Dogrel 时期驱动声明。"
+        "en": "Dogrel-era track: fast tempo, place-name lyric, twin-guitar drive.",
+        "zh": "Dogrel 时期曲目：快速度、地名歌词、双吉他驱动。"
       }
     },
     {
@@ -89,8 +89,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Later single with wider dynamics.",
-        "zh": "动态更宽的后期单曲。"
+        "en": "Later single with wider dynamics and clearer hook writing.",
+        "zh": "后期单曲：动态更宽，钩子更清晰。"
       }
     }
   ],
@@ -123,13 +123,13 @@
   ],
   "influenced": [],
   "shortBio": {
-    "en": "Chatten-fronted post-punk; Boys in the Better Land is the early statement.",
-    "zh": "Chatten 领衔的后朋克；Boys in the Better Land 是早期声明。"
+    "en": "Chatten-fronted Dublin post-punk; Boys in the Better Land is the early statement.",
+    "zh": "Chatten 领衔的都柏林后朋克；《Boys in the Better Land》是早期代表曲。"
   },
   "decisive": true,
   "body": {
-    "en": "Formed 2017. Dogrel and A Hero’s Death establish Chatten’s spoken-sung Dublin diction, twin guitars, and taut rhythm section; later albums (Skinty Fia, Romance) widen dynamics and production.\n\nBoys in the Better Land (2019) and Jackie Down the Line / Starburster show early drive and later single craft.",
-    "zh": "2017 年组建。Dogrel 与 A Hero’s Death 确立 Chatten 半说唱都柏林吐字、双吉他与紧绷节奏组；后期专辑（Skinty Fia、Romance）拓宽动态与制作。\n\nBoys in the Better Land（2019）与 Jackie Down the Line / Starburster 展示早期驱动与后期单曲工艺。"
+    "en": "Fontaines D.C. formed in Dublin in 2017. Dogrel (2019) and A Hero’s Death (2020) set Chatten’s spoken-sung diction, twin guitars, and a taut rhythm section. Later albums Skinty Fia (2022) and Romance (2024) widen dynamics and production.\n\nBoys in the Better Land (2019) shows the early drive. Jackie Down the Line (2022) and Starburster (2024) show later single craft with the same Dublin accent intact.",
+    "zh": "Fontaines D.C. 于 2017 年在都柏林成立。《Dogrel》（2019）与《A Hero’s Death》（2020）确立 Chatten 半说唱吐字、双吉他与紧绷节奏组。后期专辑《Skinty Fia》（2022）与《Romance》（2024）拓宽动态与制作。\n\n《Boys in the Better Land》（2019）展示早期驱动；《Jackie Down the Line》（2022）与《Starburster》（2024）展示后期单曲写法，都柏林口音仍在。"
   },
   "narrative": [
     {
@@ -139,8 +139,8 @@
         "zh": "音乐节舞台上的地名后朋克"
       },
       "body": {
-        "en": "Fontaines DC matter as a 2010s/20s UK/Irish post-punk wave node: literary local detail, dry production, high live work rate.\n\nNot revival cosplay—current touring grammar.",
-        "zh": "Fontaines DC 要紧处是 2010/20 年代英爱后朋克浪潮节点：文学地方细节、干制作、高现场工作量。\n\n不是复古扮相——是当下巡演语法。"
+        "en": "Fontaines D.C. sit in the late-2010s and 2020s UK/Irish post-punk wave: literary local detail, dry production, dense touring.\n\nDogrel put Dublin street names and reportage lyric on indie festival bills. Later records keep the accent while opening the mix.",
+        "zh": "Fontaines D.C. 属于 2010 年代末至 2020 年代英爱后朋克浪潮：文学地方细节、干制作、密集巡演。\n\n《Dogrel》把都柏林街名与报道式歌词送上 indie 音乐节。后期唱片保留口音，同时打开混音。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "post-punk"
@@ -148,12 +148,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Boys in the Better Land: debut drive",
-        "zh": "Boys in the Better Land：出道驱动"
+        "en": "Boys in the Better Land: early drive",
+        "zh": "Boys in the Better Land：早期驱动"
       },
       "body": {
-        "en": "Fast tempo, place lyric, gang energy—Dogrel-era statement.\n\nEntry to the early sound.",
-        "zh": "快速度、地名歌词、群体能量——Dogrel 时期声明。\n\n早期声音入口。"
+        "en": "Fast tempo, place lyric, and twin-guitar push—Dogrel-era statement.\n\nCommon entry to the early sound.",
+        "zh": "快速度、地名歌词、双吉他推进——Dogrel 时期代表。\n\n早期声音的常见入口。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -163,11 +163,11 @@
       "id": "scene-1",
       "title": {
         "en": "Jackie Down the Line: later single craft",
-        "zh": "Jackie Down the Line：后期单曲工艺"
+        "zh": "Jackie Down the Line：后期单曲写法"
       },
       "body": {
-        "en": "Wider dynamics, clearer hook writing—post-Dogrel chart/festival reach.\n\nShows growth without abandoning diction.",
-        "zh": "更宽动态、更清晰钩子写作——Dogrel 之后的榜单/音乐节触达。\n\n展示成长且不放弃吐字。"
+        "en": "Wider dynamics and clearer hooks after Dogrel; still Chatten’s baritone and Dublin diction.\n\nMarks chart and festival reach without dropping the early writing habits.",
+        "zh": "Dogrel 之后动态更宽、钩子更清晰；仍是 Chatten 男中音与都柏林吐字。\n\n扩大榜单与音乐节触达，早期写法习惯仍在。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -180,8 +180,8 @@
         "zh": "英语 indie 里的爱尔兰吐字"
       },
       "body": {
-        "en": "Peers in UK post-punk cite the permission to keep local accent and reportage lyric.\n\nDNA is voice + tempo discipline.",
-        "zh": "英国后朋克同辈引用保留地方口音与报道歌词的许可。\n\nDNA 是声线 + 速度纪律。"
+        "en": "UK post-punk peers often cite the band for keeping a local accent and reportage lyric on large stages.\n\nThe constant elements are Chatten’s voice, tempo discipline, and twin-guitar arrangement.",
+        "zh": "英国后朋克同辈常提到乐队在大舞台上保留地方口音与报道式歌词。\n\n恒定元素是 Chatten 的声线、速度纪律与双吉他编配。"
       },
       "stickyVisual": "dna",
       "soundGenre": "post-punk"
@@ -193,8 +193,8 @@
         "zh": "乐队谈工作量与地方"
       },
       "body": {
-        "en": "Interviews often stress Dublin/Ireland specificity and touring density.\n\nUseful sociology beside the records.",
-        "zh": "访谈常强调都柏林/爱尔兰具体性与巡演密度。\n\n唱片旁的有用社会学。"
+        "en": "Interviews often stress Dublin and Ireland specificity, plus a high touring rate.\n\nUseful context beside the records.",
+        "zh": "访谈常强调都柏林与爱尔兰的具体性，以及高频巡演。\n\n可作为唱片旁的背景。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -206,8 +206,8 @@
       "title": "Boys in the Better Land",
       "year": 2019,
       "note": {
-        "en": "Post-punk cadence with Dublin reportage.",
-        "zh": "Post-punk 节奏配都柏林纪实。"
+        "en": "Post-punk cadence with Dublin reportage lyric.",
+        "zh": "Post-punk 节奏配都柏林纪实歌词。"
       }
     },
     "pioneeredGenres": [
@@ -215,8 +215,8 @@
       "indie-rock"
     ],
     "note": {
-      "en": "Proof the post-punk wire still carries current.",
-      "zh": "证明 post-punk 的线仍有电流。"
+      "en": "Late-2010s Irish post-punk with place-name lyric and dry twin guitars.",
+      "zh": "2010 年代末爱尔兰后朋克：地名歌词与干双吉他。"
     }
   },
   "lineupVersions": [
@@ -251,8 +251,8 @@
         }
       ],
       "note": {
-        "en": "Dublin post-punk; Chatten baritone over locked twin guitars.",
-        "zh": "都柏林后朋克；Chatten 男中音压在锁死双吉他上。"
+        "en": "Dublin post-punk; Chatten baritone over steady twin guitars.",
+        "zh": "都柏林后朋克；Chatten 男中音压在稳定双吉他上。"
       }
     }
   ]

@@ -12,8 +12,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Birmingham metal band that codified leather-and-studs image plus twin-guitar attack; British Steel (1980) and Painkiller (1990) bookend the classic peak.",
-    "zh": "伯明翰金属乐队：把皮衣铆钉形象与双吉他攻击法典化；British Steel（1980）与 Painkiller（1990）框住经典峰值。"
+    "en": "Birmingham metal band formed in 1969. Halford’s leather-and-studs image and Tipton/Downing twin-guitar attack define a classic metal look and sound; British Steel (1980) and Painkiller (1990) bookend the peak years.",
+    "zh": "伯明翰金属乐队，1969 年成立。Halford 的皮衣铆钉形象与 Tipton/Downing 双吉他攻击，定义经典金属外观与声音；British Steel（1980）与 Painkiller（1990）框住峰值年份。"
   },
   "members": [
     {
@@ -102,8 +102,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Travis double-bass + Halford highs; speed-metal peak.",
-        "zh": "Travis 双底鼓 + Halford 高音；速度金属峰值。"
+        "en": "Travis double-bass and Halford highs; speed-metal peak track.",
+        "zh": "Travis 双底鼓与 Halford 高音；速度金属峰值曲。"
       }
     },
     {
@@ -120,8 +120,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "US radio metal anthem; Screaming for Vengeance era.",
-        "zh": "美国电台金属圣歌；Screaming for Vengeance 时期。"
+        "en": "US radio metal hit; Screaming for Vengeance era.",
+        "zh": "美国电台金属热单；Screaming for Vengeance 时期。"
       }
     }
   ],
@@ -160,23 +160,23 @@
     "megadeth"
   ],
   "shortBio": {
-    "en": "Halford + twin-guitar metal; British Steel to Painkiller classic peak.",
-    "zh": "Halford + 双吉他金属；British Steel 至 Painkiller 经典峰值。"
+    "en": "Halford plus twin-guitar metal; British Steel to Painkiller classic peak.",
+    "zh": "Halford 加双吉他金属；British Steel 至 Painkiller 经典峰值。"
   },
   "body": {
-    "en": "Formed 1969. Halford + Tipton/Downing twin leads define leather-metal image. British Steel shortens songs for radio; Painkiller (1990) with Travis revs speed.\n\nClassic flag is Halford leather era through Painkiller.",
-    "zh": "1969 年组建。Halford + Tipton/Downing 双主音定义皮衣金属形象。British Steel 为电台缩短歌曲；与 Travis 的 Painkiller（1990）加速。\n\n经典旗在 Halford 皮衣期至 Painkiller。"
+    "en": "Formed in 1969. Halford with Tipton/Downing twin leads define the leather-metal image. British Steel shortens songs for radio; Painkiller (1990) with Scott Travis raises tempo and double-bass density.\n\nThe classic peak runs from the Halford leather years through Painkiller.",
+    "zh": "1969 年组建。Halford 与 Tipton/Downing 双主音定义皮衣金属形象。British Steel 为电台缩短歌曲；与 Scott Travis 的 Painkiller（1990）提高速度与双底鼓密度。\n\n经典峰值从 Halford 皮衣期延续到 Painkiller。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Twin guitar + leather as metal grammar",
-        "zh": "双吉他 + 皮衣当金属语法"
+        "en": "Twin guitar and leather metal look",
+        "zh": "双吉他与皮衣金属外观"
       },
       "body": {
-        "en": "Priest codifies harmony leads, studs image, and motorcycle stage entry. Birmingham neighbors Sabbath; Priest chooses speed and polish over doom crawl.\n\nTemplate Maiden and US metal both read.",
-        "zh": "Priest 把和声主音、铆钉形象与摩托车上场法典化。伯明翰邻居是 Sabbath；Priest 选速度与抛光而非 doom 爬行。\n\nMaiden 与美国金属都读这模板。"
+        "en": "Priest establish harmony leads, studs image, and motorcycle stage entry as a portable metal package. Birmingham neighbors Black Sabbath; Priest choose speed and polish over doom crawl.\n\nMaiden and US metal both read this twin-guitar and image approach.",
+        "zh": "Priest 把和声主音、铆钉形象与摩托车上场做成可移植的金属组合。伯明翰邻居是 Black Sabbath；Priest 选速度与抛光，而非 doom 爬行。\n\nMaiden 与美国金属都读这套双吉他与形象做法。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "heavy-metal"
@@ -188,8 +188,8 @@
         "zh": "Halford 经典期即巅峰"
       },
       "body": {
-        "en": "Peak: Halford / Tipton / Downing / Hill + (later) Travis. Ripper Owens 90s chapter is non-peak. Halford returns 2003.\n\nChronicle peak = leather Halford twin-guitar era through Painkiller.",
-        "zh": "巅峰：Halford / Tipton / Downing / Hill +（后）Travis。90 年代 Ripper Owens 章节非巅峰。Halford 2003 回归。\n\n编年史巅峰 = 皮衣 Halford 双吉他期至 Painkiller。"
+        "en": "Peak: Halford / Tipton / Downing / Hill, later with Travis. The Ripper Owens 1990s chapter sits between Halford eras. Halford returns in 2003.\n\nChronicle peak = leather Halford twin-guitar years through Painkiller.",
+        "zh": "巅峰：Halford / Tipton / Downing / Hill，后期加 Travis。90 年代 Ripper Owens 章节夹在 Halford 两期之间。Halford 2003 回归。\n\n编年史巅峰 = 皮衣 Halford 双吉他期至 Painkiller。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "heavy-metal"
@@ -197,12 +197,12 @@
     {
       "id": "members",
       "title": {
-        "en": "Operatic highs, dual leads, iron bass",
-        "zh": "歌剧高音、双主音、铁贝斯"
+        "en": "Operatic highs, dual leads, steady bass",
+        "zh": "歌剧高音、双主音、稳定贝斯"
       },
       "body": {
-        "en": "Halford: wide vibrato, scream highs. Tipton/Downing: traded solos, harmony thirds. Hill: steady eighths. Travis: double-bass upgrade 1989.\n\nImage and arrangement travel together.",
-        "zh": "Halford：宽颤音、尖叫高音。Tipton/Downing：交替独奏、三度和声。Hill：稳定八分。Travis：1989 双底鼓升级。\n\n形象与编曲一起旅行。"
+        "en": "Halford: wide vibrato and scream highs. Tipton/Downing: traded solos and harmony thirds. Hill: steady eighths. Travis: double-bass upgrade from 1989.\n\nImage and arrangement travel together.",
+        "zh": "Halford：宽颤音与尖叫高音。Tipton/Downing：交替独奏与三度和声。Hill：稳定八分。Travis：1989 起双底鼓升级。\n\n形象与编曲一起传播。"
       },
       "stickyVisual": "members",
       "soundGenre": "heavy-metal"
@@ -224,12 +224,12 @@
     {
       "id": "painkiller",
       "title": {
-        "en": "Painkiller: speed-metal exam",
-        "zh": "Painkiller：速度金属考试"
+        "en": "Painkiller: speed-metal peak",
+        "zh": "Painkiller：速度金属峰值"
       },
       "body": {
-        "en": "Travis intro, Halford top notes, twin-guitar carnage. 1990 statement after 80s polish.\n\nLate classic peak track.",
-        "zh": "Travis 前奏、Halford 顶音、双吉他屠杀。80 年代抛光后的 1990 声明。\n\n晚期经典峰值曲。"
+        "en": "Travis intro, Halford top notes, dense twin-guitar leads. 1990 statement after 80s polish.\n\nLate classic peak track.",
+        "zh": "Travis 前奏、Halford 顶音、密集双吉他主音。80 年代抛光后的 1990 声明。\n\n晚期经典峰值曲。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -238,12 +238,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Metal uniform exporter",
-        "zh": "金属制服输出者"
+        "en": "Metal look and twin-lead writing",
+        "zh": "金属外观与双主音写作"
       },
       "body": {
-        "en": "Leather look and twin-lead grammar feed Maiden, Megadeth, and arena metal. Birmingham metal map: Sabbath doom, Priest speed/image.\n\nHalford voice remains the citation.",
-        "zh": "皮衣外观与双主音语法喂养 Maiden、Megadeth 与体育场金属。伯明翰金属地图：Sabbath doom，Priest 速度/形象。\n\nHalford 人声仍是引用。"
+        "en": "Leather look and twin-lead writing feed Maiden, Megadeth, and arena metal. Birmingham metal map: Sabbath doom, Priest speed and image.\n\nHalford’s voice remains the main citation.",
+        "zh": "皮衣外观与双主音写作影响 Maiden、Megadeth 与体育场金属。伯明翰金属地图：Sabbath doom，Priest 速度与形象。\n\nHalford 人声仍是主要引用。"
       },
       "stickyVisual": "influence",
       "soundGenre": "heavy-metal"
@@ -329,7 +329,7 @@
       "title": "Breaking the Law",
       "year": 1980,
       "note": {
-        "en": "Short-riff metal single that fixed Priest radio face.",
+        "en": "Short-riff metal single that fixed Priest’s radio face.",
         "zh": "固定 Priest 电台脸的短 riff 金属单曲。"
       }
     },
@@ -337,8 +337,8 @@
       "heavy-metal"
     ],
     "note": {
-      "en": "Leather + twin guitar as portable metal grammar.",
-      "zh": "皮衣 + 双吉他作为可移植金属语法。"
+      "en": "Leather look plus twin guitar as a portable metal package.",
+      "zh": "皮衣外观加双吉他，构成可移植的金属组合。"
     }
   }
 }

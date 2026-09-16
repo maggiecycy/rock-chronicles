@@ -10,8 +10,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Seattle band that kept 1970s hard-rock riff craft inside grunge; Badmotorfinger (1991) and Superunknown (1994) are the peak pair.",
-    "zh": "西雅图乐队：把 70 年代 hard-rock riff 工艺留在 grunge 里；Badmotorfinger（1991）与 Superunknown（1994）是巅峰双专。"
+    "en": "Seattle band formed in 1984. Kept 1970s hard-rock riff writing inside the grunge era; Badmotorfinger (1991) and Superunknown (1994) are the peak pair.",
+    "zh": "西雅图乐队，1984 年成立。在 grunge 时期保留 70 年代 hard-rock riff 写法；《Badmotorfinger》（1991）与《Superunknown》（1994）是巅峰双专。"
   },
   "members": [
     {
@@ -76,8 +76,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Superunknown ballad-riff hybrid; MTV saturation.",
-        "zh": "Superunknown 谣曲-riff 混合；MTV 饱和。"
+        "en": "From Superunknown; ballad-riff hybrid; heavy MTV play.",
+        "zh": "出自《Superunknown》；谣曲与 riff 混合；MTV 高曝光。"
       }
     },
     {
@@ -95,8 +95,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Drop-tuned riff + Cornell scream; Badmotorfinger face.",
-        "zh": "降调 riff + Cornell 尖叫；Badmotorfinger 脸。"
+        "en": "From Badmotorfinger; drop-tuned riff and Cornell high vocal.",
+        "zh": "出自《Badmotorfinger》；降调 riff 与 Cornell 高音人声。"
       }
     },
     {
@@ -113,8 +113,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Odd meter + street percussion cameo.",
-        "zh": "奇数拍 + 街头打击客串。"
+        "en": "Odd-meter track; street percussion cameo on Superunknown.",
+        "zh": "奇数拍作品；《Superunknown》上有街头打击客串。"
       }
     }
   ],
@@ -153,23 +153,23 @@
     "queens-of-the-stone-age"
   ],
   "shortBio": {
-    "en": "Cornell–Thayil grunge/hard-rock; Superunknown mass peak.",
-    "zh": "Cornell–Thayil grunge/hard-rock；Superunknown 大众峰值。"
+    "en": "Cornell–Thayil Seattle grunge/hard-rock, 1984–97 and 2010–17. Superunknown is the mass peak.",
+    "zh": "Cornell–Thayil 的西雅图 grunge/hard-rock，1984–97 与 2010–17。《Superunknown》是大众峰值。"
   },
   "body": {
-    "en": "Formed 1984. Sub Pop then major. Badmotorfinger odd meters; Superunknown (1994) brings Black Hole Sun to MTV. Split 1997; reunite 2010–17.\n\nDrop tunings + Cornell range = Zeppelin craft inside Seattle logo.",
-    "zh": "1984 年组建。Sub Pop 后转大厂。Badmotorfinger 奇数拍；Superunknown（1994）把 Black Hole Sun 送上 MTV。1997 解散；2010–17 重聚。\n\n降调 + Cornell 音域 = 西雅图 logo 里的齐柏林工艺。"
+    "en": "Soundgarden formed in Seattle in 1984. Early releases on Sub Pop preceded a major-label period. Badmotorfinger (1991) uses odd meters and drop tunings; Superunknown (1994) brought Black Hole Sun to MTV. The band split in 1997 and reunited 2010–17.\n\nDrop tunings, Thayil’s riff writing, and Cornell’s wide vocal range keep Sabbath/Zeppelin hard-rock weight inside the Seattle grunge catalog.",
+    "zh": "Soundgarden 于 1984 年在西雅图成立。早期在 Sub Pop 发行，后转大厂。《Badmotorfinger》（1991）多用奇数拍与降调；《Superunknown》（1994）把《Black Hole Sun》送上 MTV。1997 年解散，2010–17 重聚。\n\n降调、Thayil 的 riff 写法与 Cornell 的宽音域，使 Sabbath/Zeppelin 式 hard-rock 重量留在西雅图 grunge 目录里。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Hard-rock craft inside grunge branding",
-        "zh": "Grunge 品牌里的 hard-rock 工艺"
+        "en": "Hard-rock riffs in the grunge years",
+        "zh": "Grunge 年代的 hard-rock riff"
       },
       "body": {
-        "en": "Soundgarden keeps Sabbath/Zeppelin riff weight while Seattle peers push punk-slop or folk angst. Odd meters from Cameron; Thayil drop tunings.\n\nGrunge chart act that still reads as metal-adjacent hard rock.",
-        "zh": "Soundgarden 保留 Sabbath/Zeppelin riff 重量，同时西雅图同辈推朋克脏或民谣焦虑。Cameron 奇数拍；Thayil 降调。\n\n仍可读作金属相邻 hard rock 的 grunge 上榜乐队。"
+        "en": "Soundgarden kept Sabbath- and Zeppelin-weight riffs while other Seattle peers leaned toward punk dirt or folk-angled anxiety. Cameron often used odd meters; Thayil favored drop tunings.\n\nOn the charts they sat under the grunge label; the arrangements still read as metal-adjacent hard rock.",
+        "zh": "Soundgarden 保留 Sabbath、Zeppelin 重量的 riff，同时其他西雅图同辈更偏朋克脏感或民谣向焦虑。Cameron 常用奇数拍；Thayil 偏好降调。\n\n上榜时归在 grunge 名下；编曲仍可读作邻近 metal 的 hard rock。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "grunge"
@@ -177,12 +177,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Shepherd-era four as peak",
-        "zh": "Shepherd 时期四人即巅峰"
+        "en": "Shepherd-era four",
+        "zh": "Shepherd 时期四人"
       },
       "body": {
-        "en": "Yamamoto early bass. Peak: Cornell / Thayil / Shepherd / Cameron on Badmotorfinger–Down on the Upside.\n\nPeak flag on that four.",
-        "zh": "早期 Yamamoto 贝斯。巅峰：Badmotorfinger–Down on the Upside 上的 Cornell / Thayil / Shepherd / Cameron。\n\n巅峰旗在那四人。"
+        "en": "Hiro Yamamoto played bass in the early years. The peak studio lineup is Cornell, Thayil, Shepherd, and Cameron on Badmotorfinger through Down on the Upside.\n\nThat four is the usual citation for the MTV years.",
+        "zh": "早期贝斯为 Hiro Yamamoto。巅峰录音编制是 Cornell、Thayil、Shepherd 与 Cameron，覆盖《Badmotorfinger》到《Down on the Upside》。\n\nMTV 时期通常引用这四人。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "grunge"
@@ -190,12 +190,12 @@
     {
       "id": "members",
       "title": {
-        "en": "Four-octave scream, drop riffs, odd kit",
-        "zh": "四八度尖叫、降调 riff、奇数鼓"
+        "en": "Vocals, drop tunings, odd meters",
+        "zh": "人声、降调与奇数拍"
       },
       "body": {
-        "en": "Cornell: wide vibrato, high belt. Thayil: Guild/Gibson drop tunings, wah color. Shepherd: melodic distortion bass. Cameron: polyrhythm pocket (later Pearl Jam too).\n\nSeats are specialist; songs still hook.",
-        "zh": "Cornell：宽颤音、高喊。Thayil：Guild/Gibson 降调、哇音色彩。Shepherd：旋律失真贝斯。Cameron：复合节奏律动（后也在 Pearl Jam）。\n\n席位专家；歌仍有钩子。"
+        "en": "Cornell: wide vibrato and high belt. Thayil: Guild/Gibson drop tunings and wah color. Shepherd: melodic distorted bass. Cameron: odd-meter pockets (later also in Pearl Jam).\n\nRoles are specialized; the singles still carry clear hooks.",
+        "zh": "Cornell：宽颤音与高喊。Thayil：Guild/Gibson 降调与哇音色。Shepherd：偏旋律的失真贝斯。Cameron：奇数拍律动（后来也在 Pearl Jam）。\n\n分工明确；单曲仍带清楚钩子。"
       },
       "stickyVisual": "members",
       "soundGenre": "hard-rock"
@@ -203,12 +203,12 @@
     {
       "id": "rusty-cage",
       "title": {
-        "en": "Rusty Cage: Badmotorfinger attack",
-        "zh": "Rusty Cage：Badmotorfinger 攻击"
+        "en": "Rusty Cage",
+        "zh": "《Rusty Cage》"
       },
       "body": {
-        "en": "Chromatic riff, tempo gear-shift, Cornell shriek. Cash later covers it—proof of song under noise.\n\nPre-Superunknown face track.",
-        "zh": "半音 riff、速度换挡、Cornell 尖叫。Cash 后翻唱——证明噪音下仍有歌。\n\nSuperunknown 前的门面曲。"
+        "en": "Chromatic riff, tempo shifts, and Cornell’s high vocal mark Badmotorfinger. Johnny Cash later covered it, which kept the song in a wider catalog conversation.\n\nIt is a main pre-Superunknown face track.",
+        "zh": "半音 riff、速度换挡与 Cornell 高音人声是《Badmotorfinger》的标记。Johnny Cash 后来翻唱，使这首歌进入更广的曲目讨论。\n\n它是《Superunknown》前的主要门面曲之一。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -217,12 +217,12 @@
     {
       "id": "black-hole-sun",
       "title": {
-        "en": "Black Hole Sun: MTV mass entry",
-        "zh": "Black Hole Sun：MTV 大众入口"
+        "en": "Black Hole Sun",
+        "zh": "《Black Hole Sun》"
       },
       "body": {
-        "en": "Psychedelic chord color, whispered verse, big chorus. Video saturation makes Superunknown unavoidable.\n\nSoftest face of a heavy band.",
-        "zh": "迷幻和弦色彩、低语主歌、大副歌。影像饱和让 Superunknown 无法回避。\n\n重金属乐队最软的脸。"
+        "en": "Psychedelic chord color, quieter verse, large chorus. The video’s heavy MTV rotation made Superunknown hard to miss in 1994.\n\nIt is the softest mass face of a heavy-leaning band.",
+        "zh": "迷幻和弦色彩、较轻主歌、大副歌。录像在 MTV 的高轮播使《Superunknown》在 1994 年难以被忽略。\n\n这是偏重型乐队里最软的大众面孔。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -231,12 +231,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Seattle hard-rock pillar",
-        "zh": "西雅图 hard-rock 支柱"
+        "en": "Seattle Big Four hard-rock seat",
+        "zh": "西雅图四大中的 hard-rock 席位"
       },
       "body": {
-        "en": "Beside Nirvana/Pearl Jam/AIC as Big Four. QOTSA and post-grunge hard rock cite Thayil tunings and Cornell range.\n\nGrunge with metal homework done.",
-        "zh": "与 Nirvana/Pearl Jam/AIC 并列四大。QOTSA 与后 grunge hard rock 引用 Thayil 调弦与 Cornell 音域。\n\n做完金属功课的 grunge。"
+        "en": "Often listed with Nirvana, Pearl Jam, and Alice in Chains as the Seattle Big Four. Later hard-rock and post-grunge acts cite Thayil’s tunings and Cornell’s range; Queens of the Stone Age is one frequent reference point.\n\nThe lasting mark is drop-tuned riff craft under a grunge-era label.",
+        "zh": "常与 Nirvana、Pearl Jam、Alice in Chains 并称西雅图四大。后来的 hard-rock 与后 grunge 乐队常引用 Thayil 的调弦与 Cornell 的音域；Queens of the Stone Age 是常见参照之一。\n\n持续标记是 grunge 标签下的降调 riff 写法。"
       },
       "stickyVisual": "influence",
       "soundGenre": "grunge"
@@ -272,7 +272,7 @@
         }
       ],
       "note": {
-        "en": "Peak studio and MTV era.",
+        "en": "Peak studio and MTV years.",
         "zh": "巅峰录音与 MTV 时期。"
       }
     }
@@ -282,8 +282,8 @@
       "title": "Black Hole Sun",
       "year": 1994,
       "note": {
-        "en": "MTV-era single that fixed Superunknown mass ID.",
-        "zh": "固定 Superunknown 大众 ID 的 MTV 单曲。"
+        "en": "MTV-era single that fixed Superunknown’s mass ID.",
+        "zh": "MTV 时期单曲；固定《Superunknown》的大众识别。"
       }
     },
     "pioneeredGenres": [
@@ -291,8 +291,8 @@
       "hard-rock"
     ],
     "note": {
-      "en": "Drop-tuned hard-rock craft under grunge logo.",
-      "zh": "Grunge logo 下的降调 hard-rock 工艺。"
+      "en": "Drop-tuned hard-rock writing under a grunge-era label.",
+      "zh": "Grunge 年代标签下的降调 hard-rock 写法。"
     }
   }
 }

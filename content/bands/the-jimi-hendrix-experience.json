@@ -13,8 +13,8 @@
     "blues"
   ],
   "whyMatters": {
-    "en": "London-based trio (1966–69) that made feedback, wah, and studio guitar effects a lead vocabulary on Are You Experienced and Electric Ladyland.",
-    "zh": "伦敦基地三人组（1966–69）：在 Are You Experienced 与 Electric Ladyland 上把反馈、wah 与录音室吉他效果做成主奏语汇。"
+    "en": "London-based trio, 1966–1969. Hendrix used feedback, wah, and studio guitar effects as lead tools on Are You Experienced, Axis: Bold as Love, and Electric Ladyland.",
+    "zh": "伦敦基地三人组，1966–1969。Hendrix 在《Are You Experienced》《Axis: Bold as Love》《Electric Ladyland》上，把反馈、wah 与录音室吉他效果当作主音声部工具。"
   },
   "members": [
     {
@@ -62,8 +62,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "1967 riff + effect single template.",
-        "zh": "1967 riff + 效果单曲模板。"
+        "en": "1967 single; tritone riff, fuzz/octave colors, Mitchell fills.",
+        "zh": "1967 单曲；三全音 riff、fuzz/八度色彩、Mitchell 加花。"
       }
     },
     {
@@ -80,8 +80,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Dylan cover rebuilt in the studio.",
-        "zh": "录音室重建的 Dylan 翻唱。"
+        "en": "From Electric Ladyland; wah-led blues-rock riff track.",
+        "zh": "出自《Electric Ladyland》；以 wah 主导的蓝调摇滚 riff 曲。"
       }
     }
   ],
@@ -116,24 +116,24 @@
     "black-sabbath"
   ],
   "shortBio": {
-    "en": "Hendrix / Redding / Mitchell; Purple Haze and Watchtower are the mass poles.",
-    "zh": "Hendrix / Redding / Mitchell；Purple Haze 与 Watchtower 是大众两极。"
+    "en": "London trio, 1966–1969. Hendrix, Redding, Mitchell; Purple Haze and Electric Ladyland are core references.",
+    "zh": "伦敦三人组，1966–1969。Hendrix、Redding、Mitchell；《Purple Haze》与《Electric Ladyland》是主要参照。"
   },
   "decisive": true,
   "body": {
-    "en": "Formed 1966 with Chas Chandler. Debut singles and Are You Experienced set psychedelic blues; Axis and Electric Ladyland expand studio layering. Monterey and Woodstock performances are media documents.\n\nPurple Haze (1967) and All Along the Watchtower (1968) show original riff writing and transformative cover craft. Short timeline; permanent guitar technique export.",
-    "zh": "1966 年与 Chas Chandler 组建。首批单曲与 Are You Experienced 定下迷幻蓝调；Axis 与 Electric Ladyland 扩展录音室分层。Monterey 与 Woodstock 演出是媒介文献。\n\nPurple Haze（1967）与 All Along the Watchtower（1968）展示原创 riff 与改造性翻唱工艺。时间线短；吉他技术输出永久。"
+    "en": "The Jimi Hendrix Experience formed in London in 1966 with manager/producer Chas Chandler. Early singles and Are You Experienced (1967) set a psychedelic blues-rock sound; Axis: Bold as Love and Electric Ladyland (1968) added denser studio layering.\n\nPurple Haze (1967) shows original riff writing with effects. All Along the Watchtower (1968), a Bob Dylan song, was rebuilt with layered guitars. Monterey (1967) and Woodstock (1969) performances are widely circulated film and audio documents. The trio period ended in 1969.",
+    "zh": "The Jimi Hendrix Experience 于 1966 年在伦敦成立，经理/制作人为 Chas Chandler。早期单曲与《Are You Experienced》（1967）定下迷幻蓝调摇滚；《Axis: Bold as Love》与《Electric Ladyland》（1968）增加更密的录音室分层。\n\n《Purple Haze》（1967）展示带效果的原创 riff 写作。《All Along the Watchtower》（1968）翻唱 Bob Dylan，用多层吉他重建。Monterey（1967）与 Woodstock（1969）演出有广泛流传的影像与录音。三人组时期于 1969 年结束。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Guitar effects as lead voice",
-        "zh": "吉他效果当主奏声部"
+        "en": "Core sound",
+        "zh": "核心声音"
       },
       "body": {
-        "en": "The Experience matter because Hendrix treats amp noise, wah, and studio mixing as melodic tools equal to blues licks.\n\nTrio format: Mitchell’s jazz drums, Redding’s solid bass.",
-        "zh": "Experience 要紧，因为 Hendrix 把音箱噪声、wah 与录音室混音当作与蓝调乐句同等的旋律工具。\n\n三人编制：Mitchell 的爵士鼓、Redding 的稳健贝斯。"
+        "en": "Hendrix treats amp feedback, wah, fuzz, and studio mixing as part of the lead guitar line, alongside blues phrasing and bends.\n\nThe trio format leaves space: Mitchell’s jazz-influenced drums and Redding’s bass support without dense chord stacks.",
+        "zh": "Hendrix 把音箱反馈、wah、fuzz 与录音室混音当作主音吉他线的一部分，与蓝调乐句和推弦并用。\n\n三人编制留出空间：Mitchell 带爵士影响的鼓与 Redding 的贝斯支撑，不堆厚和弦。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "psychedelic"
@@ -141,12 +141,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Purple Haze: riff + effect vocabulary",
-        "zh": "Purple Haze：riff + 效果语汇"
+        "en": "Purple Haze",
+        "zh": "《Purple Haze》"
       },
       "body": {
-        "en": "Iconic interval riff, octave/fuzz colors, Mitchell fills—1967 psychedelic single template.\n\nTechnique on display inside pop runtime.",
-        "zh": "标志音程 riff、八度/fuzz 色彩、Mitchell 加花——1967 迷幻单曲模板。\n\n流行时长内的技术展示。"
+        "en": "Released as a single in 1967 and included on Are You Experienced. The opening uses a tritone interval riff; fuzz and octave colors sit on the guitar track; Mitchell adds fills around the vocal.\n\nRuntime stays in pop-single length while the guitar part carries most of the arrangement identity.",
+        "zh": "1967 年作为单曲发行，并收入《Are You Experienced》。开场使用三全音音程 riff；吉他轨带 fuzz 与八度色彩；Mitchell 在人声周围加花。\n\n时长仍在流行单曲范围，编曲识别主要靠吉他声部。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -155,12 +155,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Watchtower: cover as rebuild",
-        "zh": "Watchtower：翻唱即重建"
+        "en": "Voodoo Child (Slight Return)",
+        "zh": "《Voodoo Child (Slight Return)》"
       },
       "body": {
-        "en": "Dylan song rebuilt with layered guitars and dramatic dynamic curve—cover as authorship claim.\n\nStudio craft citation for later rock.",
-        "zh": "用多层吉他与戏剧动态曲线重建 Dylan 歌曲——翻唱即作者权主张。\n\n后来摇滚的录音室工艺引用。"
+        "en": "From Electric Ladyland (1968). Wah-pedal articulation leads a blues-rock riff; Mitchell and Redding keep a tight trio pulse underneath.\n\nAll Along the Watchtower, also from that album period, rebuilds Dylan’s song with layered studio guitars and a clear dynamic curve.",
+        "zh": "出自《Electric Ladyland》（1968）。Wah 踏板奏法主导蓝调摇滚 riff；Mitchell 与 Redding 在下方维持紧凑的三人脉冲。\n\n同属该专辑时期的《All Along the Watchtower》用多层录音室吉他与清楚的动态曲线重建 Dylan 原曲。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -169,12 +169,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Feedback lineage into hard rock/metal",
-        "zh": "反馈谱系进入 hard rock/金属"
+        "en": "Guitar technique after Hendrix",
+        "zh": "Hendrix 之后的吉他技法"
       },
       "body": {
-        "en": "Page, metal lead players, and alternative noise guitarists cite the permission to use noise melodically.\n\nDNA is touch + technology, not only speed.",
-        "zh": "Page、金属主音与 alternative 噪声吉他手引用把噪声当旋律使用的许可。\n\nDNA 是触感+技术，不只是速度。"
+        "en": "Later hard-rock and metal lead players often cite feedback, wah, and controlled amp noise as melodic tools, not only as accidents.\n\nJimmy Page and many post-1960s guitarists reference Hendrix’s touch and effect choices alongside blues speed and phrasing.",
+        "zh": "后来的 hard rock 与金属主音常引用反馈、wah 与可控的音箱噪声作为旋律手段，而不只是意外。\n\nJimmy Page 与许多 1960 年代后的吉他手，会同时提到 Hendrix 的触感、效果选择与蓝调速度/句式。"
       },
       "stickyVisual": "dna",
       "soundGenre": "psychedelic"
@@ -182,12 +182,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Hendrix on sound and stage",
-        "zh": "Hendrix 谈声音与舞台"
+        "en": "On sound and stage",
+        "zh": "关于声音与舞台"
       },
       "body": {
-        "en": "Interview fragments about wanting new sounds match the recorded experiments.\n\nPrefer gear and process detail over vague adjectives.",
-        "zh": "关于想要新声音的访谈碎片，与录音实验匹配。\n\n宁取设备与过程细节，不取空泛形容词。"
+        "en": "Interview lines about wanting new sounds line up with the recorded experiments—fuzz, wah, studio overdubs, and live amp volume.\n\nGear and session detail are more useful than vague praise for describing the Experience records.",
+        "zh": "关于想要新声音的访谈句，与录音实验一致——fuzz、wah、录音室叠加与现场音箱音量。\n\n描述 Experience 唱片时，设备与录音细节比空泛赞词更有用。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -199,8 +199,8 @@
       "title": "Purple Haze",
       "year": 1967,
       "note": {
-        "en": "Amp as instrument: feedback enters the melody.",
-        "zh": "音箱即乐器：feedback 进入旋律。"
+        "en": "1967 single; tritone riff with fuzz and effects as lead color.",
+        "zh": "1967 单曲；三全音 riff，fuzz 与效果作为主音色彩。"
       }
     },
     "pioneeredGenres": [
@@ -208,8 +208,8 @@
       "hard-rock"
     ],
     "note": {
-      "en": "Electric guitar vocabulary expands overnight.",
-      "zh": "电吉他词汇一夜扩容。"
+      "en": "Feedback, wah, and studio guitar effects used as lead vocabulary in a power trio.",
+      "zh": "在 power trio 编制中，把反馈、wah 与录音室吉他效果用作主音语汇。"
     }
   },
   "lineupVersions": [
@@ -236,8 +236,8 @@
         }
       ],
       "note": {
-        "en": "Hendrix as guitar/voice; Mitchell jazz-rock drums.",
-        "zh": "Hendrix 吉他/人声；Mitchell 爵士摇滚鼓。"
+        "en": "Hendrix guitar/vocals; Redding bass; Mitchell drums, 1966–1969.",
+        "zh": "Hendrix 吉他/人声；Redding 贝斯；Mitchell 鼓，1966–1969。"
       }
     }
   ]

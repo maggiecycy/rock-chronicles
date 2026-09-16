@@ -13,8 +13,8 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "London band that moved from Syd Barrett psychedelia to Waters/Gilmour concept albums; Dark Side (1973) and The Wall (1979) set album-length production as mass rock.",
-    "zh": "伦敦乐队：从 Syd Barrett 迷幻走到 Waters/Gilmour 概念专集；Dark Side（1973）与 The Wall（1979）把专辑时长制作做成大众摇滚。"
+    "en": "London band formed in 1965. After Syd Barrett’s early psychedelic singles, the Waters/Gilmour years produced long-form concept albums; The Dark Side of the Moon (1973) and The Wall (1979) are the main commercial references.",
+    "zh": "伦敦乐队，1965 年成立。Syd Barrett 早期迷幻单曲之后，Waters/Gilmour 时期推出长篇概念专集；《The Dark Side of the Moon》（1973）与《The Wall》（1979）是主要商业参照。"
   },
   "members": [
     {
@@ -67,8 +67,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Clock FX + mid-album dynamic spine (Time).",
-        "zh": "钟声效果 + 专辑中脊动态（Time）。"
+        "en": "From The Dark Side of the Moon; clock sound effects, rototom figure, then verse/chorus and Gilmour solo.",
+        "zh": "出自《The Dark Side of the Moon》；钟声效果、rototom 音型，再接主副歌与 Gilmour 独奏。"
       }
     },
     {
@@ -86,8 +86,8 @@
       ],
       "intensity": 1,
       "note": {
-        "en": "Key composition moment",
-        "zh": "关键写作时刻"
+        "en": "Title track from Wish You Were Here; acoustic guitar and shared vocal focus.",
+        "zh": "同名专辑标题曲；原声吉他与人声为主。"
       }
     },
     {
@@ -104,8 +104,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Dual vocal/solo ballad from The Wall.",
-        "zh": "The Wall 的双人声/独奏谣曲。"
+        "en": "From The Wall; Waters verse, Gilmour chorus, two guitar solos.",
+        "zh": "出自《The Wall》；Waters 主歌、Gilmour 副歌，两段吉他独奏。"
       }
     }
   ],
@@ -138,23 +138,23 @@
     "radiohead"
   ],
   "shortBio": {
-    "en": "Gilmour / Waters progressive rock; Time and Comfortably Numb are twin poles.",
-    "zh": "Gilmour / Waters 的 progressive rock；Time 与 Comfortably Numb 是两极。"
+    "en": "London progressive / psychedelic rock, 1965–. Barrett then Waters/Gilmour; Dark Side and The Wall are the core concept-album references.",
+    "zh": "伦敦 progressive / 迷幻摇滚，1965 年至今。Barrett 之后是 Waters/Gilmour；《Dark Side》与《The Wall》是核心概念专集参照。"
   },
   "body": {
-    "en": "Formed 1965. Barrett-era singles precede the Waters-led concept run: Dark Side of the Moon, Wish You Were Here, Animals, The Wall—studio effects, spoken samples, long-form song cycles.\n\nTime (1973) and Comfortably Numb (1979) show clock-work arrangement and dual-vocal/solo architecture. Lineup versions (Barrett → Waters dominance → later Gilmour-led) are first-class.",
-    "zh": "1965 年组建。Barrett 时期单曲之后是 Waters 主导的概念专集序列：Dark Side of the Moon、Wish You Were Here、Animals、The Wall——录音室效果、口语采样、长歌曲组。\n\nTime（1973）与 Comfortably Numb（1979）展示钟表式编曲与双人声/独奏架构。阵容版本（Barrett → Waters 主导 → 后期 Gilmour 主导）是一等对象。"
+    "en": "Pink Floyd formed in London in 1965. Early singles center on Syd Barrett. After Barrett left, David Gilmour joined; the 1970s catalog under Waters’ writing includes The Dark Side of the Moon, Wish You Were Here, Animals, and The Wall—studio effects, spoken samples, and album-length song cycles.\n\nTime (1973) and Comfortably Numb (1979) show clock-effect arrangement and dual-vocal/solo structure. Waters left after 1985; later albums led by Gilmour form a separate chapter. Mason remains the only member present from the start.",
+    "zh": "Pink Floyd 于 1965 年在伦敦成立。早期单曲以 Syd Barrett 为中心。Barrett 离队后 David Gilmour 加入；1970 年代在 Waters 写作主导下推出《The Dark Side of the Moon》、《Wish You Were Here》、《Animals》、《The Wall》——录音室效果、口语采样与专辑长度歌曲组。\n\n《Time》（1973）与《Comfortably Numb》（1979）展示钟声效果编曲与双人声/独奏结构。Waters 于 1985 年后离队；之后由 Gilmour 主导的专辑是另一章节。Mason 是自始保留的成员。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
         "en": "Concept albums at chart scale",
-        "zh": "榜单尺度的概念专集"
+        "zh": "进入榜单的概念专集"
       },
       "body": {
-        "en": "Floyd matter as proof that long-form production, sound design, and thematic albums can sit on mass charts without singles-only logic.\n\nStudio and live spectacle share one engineering culture.",
-        "zh": "Floyd 要紧处是证明：长制作、声音设计与主题专辑可以上大众榜，而不只靠单曲逻辑。\n\n录音室与现场奇观共享同一工程文化。"
+        "en": "Pink Floyd’s mid-1970s records treat the album as the main unit: long production, sound design, and linked themes.\n\nThe Dark Side of the Moon spent years on the Billboard 200. Studio work and large-scale live shows used the same engineering focus.",
+        "zh": "Pink Floyd 1970 年代中期录音把专辑当作主要单位：长制作、声音设计与贯穿主题。\n\n《The Dark Side of the Moon》在 Billboard 200 停留多年。录音室与大型现场共用同一套工程重心。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "progressive-rock"
@@ -166,8 +166,8 @@
         "zh": "Barrett、Waters 主导、后 Waters"
       },
       "body": {
-        "en": "Early psychedelia is Barrett-centered. Mid catalog is Waters writing + Gilmour guitar/vocal. Post-1985 Gilmour-led albums are another legal/musical chapter.\n\nVersions explain disputes and sound shifts.",
-        "zh": "早期迷幻以 Barrett 为中心。中期目录是 Waters 写作 + Gilmour 吉他/人声。1985 后 Gilmour 主导专辑是另一法律/音乐章节。\n\n版本解释争执与声音转向。"
+        "en": "Early psychedelia is Barrett-centered. The mid catalog is Waters writing with Gilmour on guitar and shared vocals. After 1985, Gilmour-led albums are another legal and musical chapter.\n\nLineup versions explain both the disputes and the sound shifts.",
+        "zh": "早期迷幻以 Barrett 为中心。中期目录是 Waters 写作，Gilmour 负责吉他与部分人声。1985 年后 Gilmour 主导专辑是另一法律与音乐章节。\n\n阵容版本同时解释争执与声音转向。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "progressive-rock"
@@ -175,12 +175,12 @@
     {
       "id": "time",
       "title": {
-        "en": "Time: clocks, dynamics, mid-album spine",
-        "zh": "Time：钟声、动态、专辑中脊"
+        "en": "Time",
+        "zh": "《Time》"
       },
       "body": {
-        "en": "Sound-effect intro, rototom figure, verse/chorus, Gilmour solo—Dark Side’s structural teaching track.\n\nProduction narrative without needing mystical language.",
-        "zh": "音效引入、rototom 音型、主副歌、Gilmour 独奏——Dark Side 的结构教材曲。\n\n制作叙事无需神秘语言。"
+        "en": "Sound-effect intro, rototom figure, verse/chorus, then Gilmour solo. It sits near the middle of Dark Side’s running order.\n\nThe track is a clear map of the album’s production method.",
+        "zh": "音效引入、rototom 音型、主副歌，再接 Gilmour 独奏。曲目靠近《Dark Side》专辑中段。\n\n这首歌清楚标出该专的制作写法。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -189,12 +189,12 @@
     {
       "id": "numb",
       "title": {
-        "en": "Comfortably Numb: dual vocal, dual solo",
-        "zh": "Comfortably Numb：双人声、双独奏"
+        "en": "Comfortably Numb",
+        "zh": "《Comfortably Numb》"
       },
       "body": {
-        "en": "Waters verse dryness against Gilmour chorus lift; two celebrated guitar solos in one song. The Wall’s mass-entry ballad.\n\nArrangement drama as rock theatre craft.",
-        "zh": "Waters 主歌干对 Gilmour 副歌抬升；一曲两段著名吉他独奏。The Wall 的大众入口谣曲。\n\n编曲戏剧即摇滚剧场工艺。"
+        "en": "Waters sings a dry verse; Gilmour lifts the chorus. Two guitar solos appear in one song.\n\nIt is among the best-known tracks from The Wall (1979).",
+        "zh": "Waters 唱干的主歌；Gilmour 抬起副歌。一曲内有两段吉他独奏。\n\n这是《The Wall》（1979）最知名的曲目之一。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -203,12 +203,12 @@
     {
       "id": "members",
       "title": {
-        "en": "Wright keys, Mason drums, Gilmour/Waters split",
-        "zh": "Wright 键盘、Mason 鼓、Gilmour/Waters 分工"
+        "en": "Wright, Mason, Gilmour, Waters",
+        "zh": "Wright、Mason、Gilmour、Waters"
       },
       "body": {
-        "en": "Richard Wright’s harmony pads and Nick Mason’s steady drums underpin the concept years. Vocal and lyric authority shifts are audible across albums.\n\nListen for who writes the frame.",
-        "zh": "Richard Wright 的和声铺底与 Nick Mason 稳健鼓组支撑概念专集年代。人声与歌词权威的转移在各专可闻。\n\n听谁在写框架。"
+        "en": "Richard Wright’s harmony pads and Nick Mason’s steady drums underpin the concept years. Vocal and lyric authority shift across albums and are audible on the records.\n\nWho writes the frame changes by era.",
+        "zh": "Richard Wright 的和声铺底与 Nick Mason 稳健鼓组支撑概念专集年代。人声与歌词权威随专辑转移，在录音上可闻。\n\n谁写框架因时期而变。"
       },
       "stickyVisual": "members",
       "soundGenre": "psychedelic"
@@ -216,12 +216,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Prog ambition without costume metal",
-        "zh": "无戏服金属的 prog 野心"
+        "en": "Later cites",
+        "zh": "后来的引用"
       },
       "body": {
-        "en": "Later art-rock and ambient-adjacent bands cite the production; metal cites the scale. Punk often refuses the spectacle.\n\nCatalog remains a studio-engineering reference.",
-        "zh": "后来 art-rock 与 ambient 邻近乐队引用其制作；金属引用其体量。朋克常拒绝其奇观。\n\n目录仍是录音室工程参照。"
+        "en": "Later art-rock and ambient-adjacent bands cite the production. Some metal acts cite the album scale. Punk often rejected the spectacle side.\n\nThe catalog remains a studio-engineering reference.",
+        "zh": "后来的 art-rock 与 ambient 邻近乐队引用其制作。部分金属乐队引用其专辑体量。朋克常拒绝其奇观一面。\n\n目录仍是录音室工程参照。"
       },
       "stickyVisual": "influence",
       "soundGenre": "progressive-rock"
@@ -254,8 +254,8 @@
         }
       ],
       "note": {
-        "en": "Syd Barrett–centered psychedelic version.",
-        "zh": "以 Syd Barrett 为中心的迷幻版本。"
+        "en": "Syd Barrett–centered psychedelic lineup; early singles period.",
+        "zh": "以 Syd Barrett 为中心的迷幻阵容；早期单曲时期。"
       }
     },
     {
@@ -285,8 +285,8 @@
         }
       ],
       "note": {
-        "en": "Concept-album peak Waters/Gilmour partnership.",
-        "zh": "概念专集巅峰 Waters/Gilmour 搭档。"
+        "en": "Concept-album years; Dark Side through The Wall.",
+        "zh": "概念专集年代；从《Dark Side》到《The Wall》。"
       }
     }
   ],
@@ -295,8 +295,8 @@
       "title": "See Emily Play",
       "year": 1967,
       "note": {
-        "en": "Early psychedelic-era marker.",
-        "zh": "早期迷幻时期标记。"
+        "en": "Early Barrett-era UK single; psychedelic period marker.",
+        "zh": "Barrett 时期早期英国单曲；迷幻时期标记。"
       }
     },
     "pioneeredGenres": [
@@ -304,8 +304,8 @@
       "psychedelic"
     ],
     "note": {
-      "en": "Concept-album production as mass-rock default ambition.",
-      "zh": "概念专集制作成为大众摇滚默认野心。"
+      "en": "Album-length concept production on mass charts in the 1970s.",
+      "zh": "1970 年代进入大众榜单的专辑长度概念制作。"
     }
   }
 }

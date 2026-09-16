@@ -80,16 +80,16 @@
     "led-zeppelin"
   ],
   "shortBio": {
-    "en": "1960s blues-rock lab; guitar-hero pipeline out of London clubs.",
-    "zh": "1960 年代蓝调摇滚实验室；伦敦俱乐部输出的吉他英雄管道。"
+    "en": "London R&B, 1963–68. Guitarists in sequence: Clapton, Beck, then Page. For Your Love, Heart Full of Soul, and Shapes of Things are the main singles.",
+    "zh": "伦敦 R&B，1963–68。吉他手依次为 Clapton、Beck、Page。主要单曲包括 For Your Love、Heart Full of Soul、Shapes of Things。"
   },
   "body": {
-    "en": "Formed 1963 in London. Early hits (For Your Love, 1965) and the Beck/Page eras document feedback, rave-ups, and studio experimentation beyond strict blues covers.\n\nBridge page in the person graph: Clapton exits to Cream; Page carries unfinished business into Led Zeppelin. Catalog is secondary to the personnel flow it enabled.",
-    "zh": "1963 年于伦敦组建。早期热单（For Your Love，1965）与 Beck/Page 时期记录反馈、rave-up 与超出严格蓝调翻唱的录音室实验。\n\n人物图谱桥页：Clapton 离队组建 Cream；Page 把未完成事务带进 Led Zeppelin。目录次要于它所促成的人事流动。"
+    "en": "The Yardbirds formed in London in 1963 as an R&B group around the Crawdaddy Club circuit. Keith Relf sang; Jim McCarty played drums. Early sets leaned on Chicago blues covers and extended live rave-ups.\n\nEric Clapton left in March 1965 after For Your Love. Jeff Beck then recorded Heart Full of Soul and Shapes of Things. Jimmy Page joined in 1966, first on bass then lead guitar. The band dissolved in 1968; Page formed Led Zeppelin from remaining tour dates. Clapton had already joined Cream in 1966.",
+    "zh": "The Yardbirds 于 1963 年在伦敦成立，起步于 Crawdaddy Club 一带的 R&B 演出。Keith Relf 主唱，Jim McCarty 打鼓。早期曲目以芝加哥蓝调翻唱与延长现场 rave-up 为主。\n\nEric Clapton 在 For Your Love 之后于 1965 年 3 月离队。Jeff Beck 随后录制 Heart Full of Soul 与 Shapes of Things。Jimmy Page 于 1966 年加入，先弹贝斯再转主音吉他。乐队 1968 年解散；Page 从未完成的巡演场次中组建 Led Zeppelin。Clapton 已于 1966 年加入 Cream。"
   },
   "whyMatters": {
-    "en": "British R&B band that successively featured Clapton, Beck, and Page—personnel lab whose guitarists fed Cream and Led Zeppelin.",
-    "zh": "英国 R&B 乐队：相继拥有 Clapton、Beck、Page——吉他手分别流向 Cream 与 Led Zeppelin 的人事实验室。"
+    "en": "London R&B band formed in 1963. Successive lead guitarists were Eric Clapton, Jeff Beck, and Jimmy Page—Clapton went to Cream; Page later formed Led Zeppelin.",
+    "zh": "伦敦 R&B 乐队，1963 年成立。主音吉他手先后为 Eric Clapton、Jeff Beck、Jimmy Page——Clapton 去往 Cream；Page 后来组建 Led Zeppelin。"
   },
   "scenes": [
     {
@@ -106,8 +106,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Harpsichord pop single that pushed Clapton toward blues-purist exit.",
-        "zh": "羽管键琴流行单曲把 Clapton 推向蓝调纯粹主义者离队。"
+        "en": "Graham Gouldman song; harpsichord pop arrangement. Clapton left soon after.",
+        "zh": "Graham Gouldman 作品；羽管键琴流行编曲。Clapton 不久后离队。"
       }
     },
     {
@@ -125,8 +125,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Beck's fuzz-tone sitar substitute on a minor-key riff.",
-        "zh": "Beck 用 fuzz 音色替代 sitar 的小调 riff。"
+        "en": "Beck-era single. Fuzz guitar on a minor-key riff in place of a planned sitar part.",
+        "zh": "Beck 时期单曲。原计划用 sitar，实际以 fuzz 吉他弹小调 riff。"
       }
     },
     {
@@ -144,8 +144,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Feedback swells and anti-war lyric—proto-psych in a 2:30 single.",
-        "zh": "反馈延音与反战歌词——2:30 单曲里的前迷幻。"
+        "en": "About 2:30. Feedback swells in the solo; lyric addresses war and social change.",
+        "zh": "时长约 2:30。独奏含反馈延音；歌词涉及战争与社会变化。"
       }
     }
   ],
@@ -153,12 +153,12 @@
     {
       "id": "thesis",
       "title": {
-        "en": "Clapton blues-purist era",
-        "zh": "Clapton 蓝调纯粹主义时期"
+        "en": "Clapton years",
+        "zh": "Clapton 时期"
       },
       "body": {
-        "en": "The Yardbirds start as a Crawdaddy Club R&B unit covering Chicago blues. Clapton's guitar hero status builds on extended live rave-ups.\n\nFor Your Love (1965) adds harpsichord and pop arrangement—Clapton leaves March 1965 citing commercial drift.\n\nHis exit opens the Beck chair; the band's function as guitar incubator begins.",
-        "zh": "Yardbirds 起步于 Crawdaddy Club R&B 单位，翻唱芝加哥蓝调。Clapton 吉他英雄地位建立在延长现场 rave-up 上。\n\nFor Your Love（1965）加入羽管键琴与流行编曲——Clapton 1965 年 3 月因商业化离队。\n\n他的空缺开启 Beck 席位；乐队作为吉他孵化器的功能启动。"
+        "en": "The Yardbirds began as a Crawdaddy Club R&B unit covering Chicago blues. Clapton’s reputation grew on extended live rave-ups.\n\nFor Your Love (1965) added harpsichord and a pop arrangement. Clapton left in March 1965, objecting to the commercial direction.\n\nJeff Beck took the guitar seat.",
+        "zh": "Yardbirds 起步于 Crawdaddy Club 的 R&B 演出，翻唱芝加哥蓝调。Clapton 的名声建立在延长现场 rave-up 上。\n\nFor Your Love（1965）加入羽管键琴与流行编曲。Clapton 于 1965 年 3 月离队，不满商业化方向。\n\nJeff Beck 接任吉他席位。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "rock-n-roll"
@@ -170,8 +170,8 @@
         "zh": "Beck：fuzz 与反馈"
       },
       "body": {
-        "en": "Jeff Beck replaces Clapton mid-1965. Heart Full of Soul uses fuzz in place of sitar; Shapes of Things adds controlled feedback swells.\n\nRoger the Engineer (1966, US: Over Under Sideways Down) is the Beck peak—Indian scales, reverse tape, and rave-up closers.\n\nBeck departs after US tour friction; Page already in the band switches to lead guitar.",
-        "zh": "Jeff Beck 1965 年中接替 Clapton。Heart Full of Soul 用 fuzz 替 sitar；Shapes of Things 加可控反馈延音。\n\nRoger the Engineer（1966，美版 Over Under Sideways Down）是 Beck 巅峰——印度音阶、反向磁带与 rave-up 收尾。\n\nBeck 在美巡摩擦后离队；已在队的 Page 转任主音吉他。"
+        "en": "Jeff Beck replaced Clapton in mid-1965. Heart Full of Soul used fuzz guitar where a sitar part had been planned. Shapes of Things added controlled feedback in the solo.\n\nRoger the Engineer (1966; US title Over Under Sideways Down) is the main Beck-era album—Indian-scale figures, reverse tape, and rave-up endings.\n\nBeck left after friction on a US tour. Page, already in the band, moved to lead guitar.",
+        "zh": "Jeff Beck 于 1965 年中接替 Clapton。Heart Full of Soul 原计划用 sitar，实际以 fuzz 吉他完成。Shapes of Things 在独奏中加入可控反馈。\n\nRoger the Engineer（1966；美版名 Over Under Sideways Down）是 Beck 时期主要专辑——印度音阶音型、反向磁带与 rave-up 收尾。\n\nBeck 在美国巡演摩擦后离队。已在队的 Page 转任主音吉他。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "rock-n-roll"
@@ -179,12 +179,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Page to Zeppelin handoff",
-        "zh": "Page 向 Zeppelin 交接"
+        "en": "Page and the end of the band",
+        "zh": "Page 与乐队结束"
       },
       "body": {
-        "en": "Jimmy Page joins initially on bass, then lead after Beck exits. Dual-lead experiments with Chris Dreja on guitar precede the final quartet.\n\nLittle Games (1967) is a commercial detour; live sets still feature extended blues jams and Dazed and Confused prototypes.\n\nBand dissolves 1968; Page retains touring obligations and forms Led Zeppelin from the remaining dates.",
-        "zh": "Jimmy Page 先入队贝斯，Beck 离队后转主音。与 Chris Dreja 双主音实验后定型四人组。\n\nLittle Games（1967）是商业岔路；现场仍含延长蓝调 jam 与 Dazed and Confused 原型。\n\n乐队 1968 年解散；Page 保留巡演义务并从未完成场次中组建 Led Zeppelin。"
+        "en": "Jimmy Page joined first on bass, then took lead after Beck left. Dual-lead work with Chris Dreja on guitar preceded the final quartet.\n\nLittle Games (1967) was a commercial studio album; live sets still used extended blues jams and early forms of what became Dazed and Confused.\n\nThe band dissolved in 1968. Page kept tour commitments and formed Led Zeppelin from those remaining dates.",
+        "zh": "Jimmy Page 先入队弹贝斯，Beck 离队后转主音。与 Chris Dreja 的双主音实验之后定型为四人组。\n\nLittle Games（1967）是偏商业的录音室专辑；现场仍含延长蓝调 jam，以及后来成为 Dazed and Confused 的早期形态。\n\n乐队 1968 年解散。Page 保留巡演义务，并从这些未完成场次中组建 Led Zeppelin。"
       },
       "stickyVisual": "influence",
       "soundGenre": "rock-n-roll"
@@ -196,8 +196,8 @@
         "zh": "For Your Love"
       },
       "body": {
-        "en": "Harpsichord pop single that pushed Clapton toward blues-purist exit.",
-        "zh": "羽管键琴流行单曲把 Clapton 推向蓝调纯粹主义者离队。"
+        "en": "1965 single written by Graham Gouldman. Harpsichord and pop arrangement. Clapton left the band shortly afterward.",
+        "zh": "1965 年单曲，Graham Gouldman 作曲。羽管键琴与流行编曲。Clapton 不久后离队。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -210,8 +210,8 @@
         "zh": "Heart Full of Soul"
       },
       "body": {
-        "en": "Beck's fuzz-tone sitar substitute on a minor-key riff.",
-        "zh": "Beck 用 fuzz 音色替代 sitar 的小调 riff。"
+        "en": "Beck-era 1965 single. A sitar part was tried in session; the released version uses fuzz guitar on a minor-key riff.",
+        "zh": "Beck 时期 1965 年单曲。录音时试过 sitar；发行版用 fuzz 吉他弹小调 riff。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -224,8 +224,8 @@
         "zh": "Shapes of Things"
       },
       "body": {
-        "en": "Feedback swells and anti-war lyric—proto-psych in a 2:30 single.",
-        "zh": "反馈延音与反战歌词——2:30 单曲里的前迷幻。"
+        "en": "1966 single, about two and a half minutes. Beck’s solo uses feedback swells. The lyric addresses war and social change.",
+        "zh": "1966 年单曲，约两分半。Beck 独奏含反馈延音。歌词涉及战争与社会变化。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -278,8 +278,8 @@
         }
       ],
       "note": {
-        "en": "Beck between Clapton and Page; fuzz and feedback as pop singles.",
-        "zh": "Beck 介于 Clapton 与 Page；fuzz 与反馈当作流行单曲。"
+        "en": "Beck between Clapton and Page. Includes Heart Full of Soul, Shapes of Things, and Roger the Engineer.",
+        "zh": "Beck 介于 Clapton 与 Page 之间。包括 Heart Full of Soul、Shapes of Things 与 Roger the Engineer。"
       }
     }
   ],
@@ -288,8 +288,8 @@
       "title": "Shapes of Things",
       "year": 1966,
       "note": {
-        "en": "Feedback solo as psychedelic guitar pop citation.",
-        "zh": "反馈独奏，迷幻吉他流行引用点。"
+        "en": "Beck-era single; feedback in the solo on a short pop form.",
+        "zh": "Beck 时期单曲；短流行曲式上的反馈独奏。"
       }
     },
     "pioneeredGenres": [
@@ -297,8 +297,8 @@
       "rock-n-roll"
     ],
     "note": {
-      "en": "Blues-rock finishing school for Clapton/Beck/Page lineage.",
-      "zh": "Clapton/Beck/Page 谱系的蓝调摇滚进修学校。"
+      "en": "R&B club band whose guitarists later led Cream and Led Zeppelin.",
+      "zh": "R&B 俱乐部乐队；吉他手后来分别进入 Cream 与 Led Zeppelin。"
     }
   }
 }

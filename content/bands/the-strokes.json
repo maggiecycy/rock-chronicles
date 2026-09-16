@@ -9,8 +9,8 @@
     "post-punk"
   ],
   "whyMatters": {
-    "en": "NYC five-piece whose Is This It (2001) reset early-2000s indie toward compressed garage-pop and leather-jacket cool after nu-metal radio.",
-    "zh": "纽约五人组：Is This It（2001）在 nu-metal 电台之后，把 2000 年代初 indie 扳向压缩车库流行与皮衣酷感。"
+    "en": "New York five-piece formed in 1998. Is This It (2001) and Room on Fire (2003) set compressed garage-pop, interlocking dual guitars, and Julian Casablancas’s half-spoken vocal as a main early-2000s indie reference.",
+    "zh": "纽约五人组，1998 年成立。《Is This It》（2001）与《Room on Fire》（2003）以压缩车库流行、交织双吉他，以及 Julian Casablancas 半说唱式人声，成为 2000 年代初 indie 的主要参照。"
   },
   "members": [
     {
@@ -70,8 +70,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "2001 debut hook single.",
-        "zh": "2001 出道钩子单曲。"
+        "en": "From Is This It; short runtime, Stones-like guitar figure, Casablancas vocal fry; major early single.",
+        "zh": "出自《Is This It》；短时长、偏 Stones 的吉他音型、Casablancas 声带摩擦；早期主要单曲。"
       }
     },
     {
@@ -89,8 +89,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Dual-guitar Room on Fire precision.",
-        "zh": "Room on Fire 双吉他精度。"
+        "en": "From Room on Fire; interlocking Valensi/Hammond guitar parts, urgent vocal.",
+        "zh": "出自《Room on Fire》；Valensi/Hammond 交织吉他声部、紧迫人声。"
       }
     }
   ],
@@ -125,24 +125,24 @@
     "arctic-monkeys"
   ],
   "shortBio": {
-    "en": "Casablancas-led post-punk revival; Last Nite is the debut-era hook.",
-    "zh": "Casablancas 领衔的后朋克复兴；Last Nite 是出道期钩子。"
+    "en": "Casablancas-led NYC indie, 1998–. Last Nite and Reptilia are the main early singles.",
+    "zh": "Casablancas 领衔的纽约 indie，1998 年至今。《Last Nite》与《Reptilia》是早期主要单曲。"
   },
   "decisive": true,
   "body": {
-    "en": "Formed 1998. Is This It and Room on Fire fix Julian’s half-spoken vocal, interlocking Valensi/Hammond guitars, Fraiture bass, Moretti drums—lo-fi sheen as aesthetic.\n\nLast Nite (2001) and Reptilia (2003) are the citation singles. UK/US indie boom follows their template for several years.",
-    "zh": "1998 年组建。Is This It 与 Room on Fire 定型 Julian 半说唱人声、Valensi/Hammond 交织吉他、Fraiture 贝斯、Moretti 鼓——把 lo-fi 光泽当美学。\n\nLast Nite（2001）与 Reptilia（2003）是引用单曲。此后数年英美 indie 热潮跟随其模板。"
+    "en": "The Strokes formed in New York in 1998. Is This It (2001, RCA/Rough Trade) and Room on Fire (2003) fixed Casablancas’s half-spoken vocal, interlocking Valensi/Hammond guitars, Fraiture bass, Moretti drums, and a dry, compressed mix.\n\nLast Nite (2001) and Reptilia (2003) are the most-cited singles. The five-piece lineup stayed intact through the debut era. Later albums experiment with longer forms and different production; early citations still center on the first two records.",
+    "zh": "The Strokes 于 1998 年在纽约成立。《Is This It》（2001，RCA/Rough Trade）与《Room on Fire》（2003）定型 Casablancas 半说唱式人声、Valensi/Hammond 交织吉他、Fraiture 贝斯、Moretti 鼓，以及偏干、压缩的混音。\n\n《Last Nite》（2001）与《Reptilia》（2003）是最常被引用的单曲。出道期五人阵容未变。后期专辑尝试更长曲式与不同制作；引用仍多集中在前两张。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Garage-pop reset after nu-metal",
-        "zh": "nu-metal 之后的车库流行重置"
+        "en": "Compressed garage-pop after nu-metal radio",
+        "zh": "nu-metal 电台之后的压缩车库流行"
       },
       "body": {
-        "en": "The Strokes matter as a format reset: short songs, dry production, NYC cool, post-punk guitar chatter against early-2000s heavy radio.\n\nIs This It timing is half the story.",
-        "zh": "The Strokes 要紧处是格式重置：短歌、干制作、纽约酷感、后朋克吉他碎语，对位 2000 年代初重型电台。\n\nIs This It 的时机是故事的一半。"
+        "en": "Around 2001, US rock radio still carried a lot of nu-metal and polished alternative. The Strokes released short songs with dry production, post-punk guitar chatter, and a NYC downtown image.\n\nIs This It arrived early in that cycle and became a reference point for UK and US indie bands over the next several years.",
+        "zh": "2001 年前后，美国摇滚电台仍有大量 nu-metal 与抛光 alternative。The Strokes 推出短歌、干制作、后朋克式吉他碎语，以及纽约市中心形象。\n\n《Is This It》较早进入这一周期，成为此后数年英美 indie 乐队的参照点。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "indie-rock"
@@ -150,12 +150,12 @@
     {
       "id": "scene-0",
       "title": {
-        "en": "Last Nite: debut hook single",
-        "zh": "Last Nite：出道钩子单曲"
+        "en": "Last Nite",
+        "zh": "《Last Nite》"
       },
       "body": {
-        "en": "Stones-ish guitar figure, Casablancas vocal fry, tight runtime—2001 indie radio object.\n\nAccessible entry to the album’s cool.",
-        "zh": "偏 Stones 的吉他音型、Casablancas 声带摩擦、紧时长——2001 indie 电台对象。\n\n专辑酷感的易入口。"
+        "en": "Last Nite uses a Stones-like guitar figure, Casablancas vocal fry, and a tight runtime. It was a main early radio and press entry to Is This It.\n\nThe arrangement stays simple: verse/chorus, dual guitar, no extended solos.",
+        "zh": "《Last Nite》使用偏 Stones 的吉他音型、Casablancas 声带摩擦与紧时长。是《Is This It》早期电台与媒体的重要入口。\n\n编曲保持简单：主副歌、双吉他、无长独奏。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -164,12 +164,12 @@
     {
       "id": "scene-1",
       "title": {
-        "en": "Reptilia: dual-guitar chatter",
-        "zh": "Reptilia：双吉他碎语"
+        "en": "Reptilia",
+        "zh": "《Reptilia》"
       },
       "body": {
-        "en": "Interlocking parts, urgent vocal—Room on Fire precision.\n\nShows the band as arrangement, not only image.",
-        "zh": "交织声部、紧迫人声——Room on Fire 精度。\n\n展示乐队是编曲，不只是形象。"
+        "en": "Reptilia highlights interlocking guitar parts and a more urgent vocal on Room on Fire.\n\nIt shows the band’s writing as arrangement detail—dual guitar lines that fit together—beyond image and dress.",
+        "zh": "《Reptilia》突出交织吉他声部与《Room on Fire》上更紧迫的人声。\n\n展示乐队写法在编曲细节上——双吉他声部如何咬合——而不只在形象与着装。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -178,12 +178,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Template for 2000s indie uniform",
-        "zh": "2000 年代 indie 制服模板"
+        "en": "Debut-era sound and look",
+        "zh": "出道期声音与外形"
       },
       "body": {
-        "en": "Leather, skinny ties, compressed mixes—copied hard by peers. Later Strokes records experiment; the debut DNA dominates citations.\n\nInfluence is sonic and sartorial.",
-        "zh": "皮衣、瘦领带、压缩混音——被同辈狠抄。后期 Strokes 唱片有实验；引用仍被首专 DNA 主导。\n\n影响在声音与着装。"
+        "en": "Early Strokes records pair leather jackets and skinny ties with compressed mixes and short song lengths. Peers copied both the look and the dual-guitar writing.\n\nLater albums add longer forms and different production; citations still lean on Is This It and Room on Fire.",
+        "zh": "早期 Strokes 唱片把皮衣、瘦领带与压缩混音、短曲长放在一起。同辈常同时模仿外形与双吉他写法。\n\n后期专辑加长曲式与不同制作；引用仍偏向《Is This It》与《Room on Fire》。"
       },
       "stickyVisual": "dna",
       "soundGenre": "indie-rock"
@@ -191,12 +191,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Cool minimalism in interviews",
-        "zh": "访谈里的酷极简"
+        "en": "Early press tone",
+        "zh": "早期媒体口吻"
       },
       "body": {
-        "en": "Early press often mirrors the laconic vocal style. Useful as branding evidence.\n\nMusic still judged on the singles’ compression and hooks.",
-        "zh": "早期媒体常镜像其寡言人声风格。可作品牌证据。\n\n音乐判断仍看单曲的压缩与钩子。"
+        "en": "Early interviews often match the laconic vocal style. They are useful as period press context.\n\nMusical judgment still rests on the singles’ compression, hooks, and dual-guitar parts.",
+        "zh": "早期访谈常与寡言人声风格一致，可作同期媒体语境。\n\n音乐判断仍看单曲的压缩、钩子与双吉他声部。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -208,16 +208,16 @@
       "title": "Last Nite",
       "year": 2001,
       "note": {
-        "en": "Garage revival as downtown cool reset.",
-        "zh": "Garage 复兴：市中心酷感重置。"
+        "en": "Main early single from Is This It.",
+        "zh": "《Is This It》主要早期单曲。"
       }
     },
     "pioneeredGenres": [
       "indie-rock"
     ],
     "note": {
-      "en": "Tight jeans, tighter songs—indie becomes a look again.",
-      "zh": "紧身牛仔裤与更紧的歌——indie 再度成为造型。"
+      "en": "Compressed garage-pop and dual-guitar indie on early-2000s charts and press.",
+      "zh": "压缩车库流行与双吉他 indie，进入 2000 年代初榜单与媒体。"
     }
   },
   "lineupVersions": [
@@ -252,8 +252,8 @@
         }
       ],
       "note": {
-        "en": "Twin-guitar NYC revival; Is This It as garage-indie reset.",
-        "zh": "双吉他纽约复兴；Is This It 作 garage-indie 重置。"
+        "en": "Stable five-piece; Is This It and Room on Fire as the citation core.",
+        "zh": "稳定五人组；《Is This It》与《Room on Fire》为引用核心。"
       }
     }
   ]

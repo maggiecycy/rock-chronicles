@@ -11,8 +11,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Chicago alternative band; Siamese Dream (1993) and Mellon Collie (1995) stacked wall-of-guitar production into mid-90s alt-radio dominance.",
-    "zh": "芝加哥 alternative 乐队；Siamese Dream（1993）与 Mellon Collie（1995）把吉他墙制作堆成 90 年代中期 alt 电台统治。"
+    "en": "Chicago alternative band formed in 1988. Siamese Dream (1993) and Mellon Collie and the Infinite Sadness (1995) stacked multi-track guitar production into mid-90s alt-radio reach.",
+    "zh": "芝加哥 alternative 乐队，1988 年成立。《Siamese Dream》（1993）与《Mellon Collie and the Infinite Sadness》（1995）以多轨吉他制作进入 90 年代中期 alt 电台。"
   },
   "members": [
     {
@@ -71,8 +71,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Siamese Dream; layered guitars under bright hook.",
-        "zh": "Siamese Dream；明亮钩子下的叠吉他。"
+        "en": "From Siamese Dream; layered guitars under a bright hook.",
+        "zh": "出自《Siamese Dream》；明亮钩子下的叠轨吉他。"
       }
     },
     {
@@ -90,8 +90,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Mellon Collie; drum-loop sheen + nostalgia lyric.",
-        "zh": "Mellon Collie；鼓循环光泽 + 怀旧歌词。"
+        "en": "From Mellon Collie; drum-loop sheen and nostalgia lyric.",
+        "zh": "出自《Mellon Collie》；鼓循环光泽与怀旧歌词。"
       }
     },
     {
@@ -108,8 +108,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Distortion chorus rant; Mellon Collie rock face.",
-        "zh": "失真副歌怒吼；Mellon Collie 摇滚脸。"
+        "en": "Distortion-chorus rock single from Mellon Collie.",
+        "zh": "《Mellon Collie》上的失真副歌摇滚单曲。"
       }
     }
   ],
@@ -148,23 +148,23 @@
     "the-killers"
   ],
   "shortBio": {
-    "en": "Corgan wall-of-guitar alt; Siamese Dream / Mellon Collie peak.",
-    "zh": "Corgan 吉他墙 alt；Siamese Dream / Mellon Collie 峰值。"
+    "en": "Corgan multi-track guitar alt, 1988–. Siamese Dream and Mellon Collie are the peak pair.",
+    "zh": "Corgan 多轨吉他 alt，1988 年至今。《Siamese Dream》与《Mellon Collie》是巅峰双专。"
   },
   "body": {
-    "en": "Formed 1988. Butch Vig on Siamese Dream stacks endless guitars. Mellon Collie (1995) is double-album ambition + 1979 radio soft cut. Lineup fractures late 90s; Corgan keeps logo.\n\nProduction density is the brand beside quieter Pixies dynamics.",
-    "zh": "1988 年组建。Butch Vig 在 Siamese Dream 上叠无尽吉他。Mellon Collie（1995）是双专野心 + 1979 电台软曲。90 年代末阵容碎裂；Corgan 保住 logo。\n\n制作密度是品牌，对照更安静的 Pixies 动态。"
+    "en": "The Smashing Pumpkins formed in Chicago in 1988. Butch Vig’s production on Siamese Dream (1993) stacks dense guitar tracks. Mellon Collie and the Infinite Sadness (1995) is a double album with both hard singles and soft radio cuts such as 1979. Late-90s lineup fractures followed; Corgan kept the name active.\n\nProduction density is the clearest identifier beside quieter Pixies-style dynamics.",
+    "zh": "The Smashing Pumpkins 于 1988 年在芝加哥成立。Butch Vig 在《Siamese Dream》（1993）上叠密集吉他轨。《Mellon Collie and the Infinite Sadness》（1995）是双专，既有硬单曲也有《1979》一类软电台曲。90 年代末阵容分裂；Corgan 继续使用乐队名。\n\n制作密度是最清楚的识别点，对照更偏安静动态的 Pixies 写法。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Wall-of-guitar alternative maximalism",
-        "zh": "吉他墙 alternative 最大化"
+        "en": "Multi-track guitars on alt radio",
+        "zh": "Alt 电台上的多轨吉他"
       },
       "body": {
-        "en": "Corgan multi-tracks guitars into shoegaze-adjacent density without abandoning verse-chorus radio. Siamese Dream is the studio peak; Mellon Collie expands length and soft singles.\n\nChicago alt that competed with Seattle volume via production, not only grit.",
-        "zh": "Corgan 把吉他多轨叠到与 shoegaze 相邻的密度，不丢主副歌电台。Siamese Dream 是录音峰值；Mellon Collie 扩展篇幅与软单曲。\n\n用制作而非只靠砂砾与西雅图音量竞争的芝加哥 alt。"
+        "en": "Corgan multi-tracks guitars into shoegaze-adjacent density while keeping verse-chorus radio shapes. Siamese Dream is the studio peak; Mellon Collie expands length and adds softer singles.\n\nChicago alt competed with Seattle volume through production density as much as grit.",
+        "zh": "Corgan 把吉他多轨叠到与 shoegaze 相邻的密度，同时保留主副歌电台结构。《Siamese Dream》是录音峰值；《Mellon Collie》扩展篇幅并加入更软的单曲。\n\n芝加哥 alt 与西雅图音量竞争时，制作密度与砂砾感同等重要。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "alternative"
@@ -172,12 +172,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Classic four as peak",
-        "zh": "经典四人即巅峰"
+        "en": "Classic four",
+        "zh": "经典四人"
       },
       "body": {
-        "en": "Corgan / Iha / D'arcy / Chamberlin is the silhouette for Siamese–Mellon. Chamberlin exits/returns; later casts rotate heavily.\n\nPeak flag on mid-90s four.",
-        "zh": "Corgan / Iha / D'arcy / Chamberlin 是 Siamese–Mellon 剪影。Chamberlin 离队/回归；后来卡司大量轮换。\n\n巅峰旗在 90 年代中四人。"
+        "en": "Corgan, Iha, D’arcy, and Chamberlin are the silhouette for Siamese Dream and Mellon Collie. Chamberlin exits and returns; later casts rotate heavily.\n\nMid-90s citation centers on that four.",
+        "zh": "Corgan、Iha、D’arcy 与 Chamberlin 是《Siamese Dream》《Mellon Collie》的剪影。Chamberlin 离队又回归；后来阵容大量轮换。\n\n90 年代中期引用集中在这四人。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "alternative"
@@ -185,12 +185,12 @@
     {
       "id": "members",
       "title": {
-        "en": "Corgan control, Iha color, jazz kit",
-        "zh": "Corgan 控制、Iha 色彩、爵士感鼓"
+        "en": "Corgan, Iha, Chamberlin roles",
+        "zh": "Corgan、Iha、Chamberlin 分工"
       },
       "body": {
-        "en": "Corgan: songwriting + most tracked guitars. Iha: complementary lines. D'arcy: bass/image. Chamberlin: fusion-leaning power kit.\n\nStudio hierarchy is Corgan-led; live still four.",
-        "zh": "Corgan：写作 + 多数叠轨吉他。Iha：互补声部。D'arcy：贝斯/形象。Chamberlin：偏融合的强力鼓。\n\n录音室层级由 Corgan 主导；现场仍是四人。"
+        "en": "Corgan: songwriting and most tracked guitars. Iha: complementary lines. D’arcy: bass and public image. Chamberlin: fusion-leaning power drums.\n\nStudio hierarchy is Corgan-led; live still reads as a four-piece in the peak years.",
+        "zh": "Corgan：写作与多数叠轨吉他。Iha：互补声部。D’arcy：贝斯与公开形象。Chamberlin：偏融合的强力鼓。\n\n录音室由 Corgan 主导；巅峰期现场仍读作四人。"
       },
       "stickyVisual": "members",
       "soundGenre": "alternative"
@@ -198,12 +198,12 @@
     {
       "id": "today",
       "title": {
-        "en": "Today: bright wall single",
-        "zh": "Today：明亮墙单曲"
+        "en": "Today",
+        "zh": "《Today》"
       },
       "body": {
-        "en": "Siamese Dream. Major-key hook over saturated guitars. Irony lyric under candy tone.\n\nMass entry before Mellon Collie scale.",
-        "zh": "Siamese Dream。饱和吉他上的大调钩子。糖果音色下的反讽歌词。\n\nMellon Collie 体量前的大众入口。"
+        "en": "Siamese Dream single. Major-key hook over saturated guitars. Ironic lyric under bright tone.\n\nA mass entry before Mellon Collie’s double-album scale.",
+        "zh": "《Siamese Dream》单曲。饱和吉他上的大调钩子。明亮音色下的反讽歌词。\n\n《Mellon Collie》双专体量前的大众入口。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -212,12 +212,12 @@
     {
       "id": "nineteen-seventy-nine",
       "title": {
-        "en": "1979: soft maximalism",
-        "zh": "1979：软最大化"
+        "en": "1979",
+        "zh": "《1979》"
       },
       "body": {
-        "en": "Drum loop, clean arpeggios, nostalgia. Proves Pumpkins radio range beyond rage singles.\n\nMellon Collie soft face.",
-        "zh": "鼓循环、干净分解、怀旧。证明 Pumpkins 电台范围超出怒吼单曲。\n\nMellon Collie 软脸。"
+        "en": "Drum loop, clean arpeggios, nostalgia lyric. Shows radio range beyond distortion-chorus singles.\n\nThe soft face of Mellon Collie.",
+        "zh": "鼓循环、干净分解和弦、怀旧歌词。显示电台范围超出失真副歌单曲。\n\n《Mellon Collie》的软面孔。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -230,8 +230,8 @@
         "zh": "90 年代 alt 制作引用"
       },
       "body": {
-        "en": "Muse and later arena alt cite Corgan stacking. Sits beside MBV for density, beside Pixies for hooks, beside NIN for 90s ambition scale.\n\nChicago maximalism on alt radio.",
-        "zh": "Muse 与后来体育场 alt 引用 Corgan 叠轨。密度旁是 MBV，钩子旁是 Pixies，90 年代野心尺度旁是 NIN。\n\nAlt 电台上的芝加哥最大化。"
+        "en": "Muse and later arena alt acts cite Corgan’s stacking. Density sits near My Bloody Valentine; hooks near Pixies; mid-90s ambition scale near Nine Inch Nails.\n\nChicago multi-track maximalism on alt radio.",
+        "zh": "Muse 与后来的体育场 alt 乐队常引用 Corgan 叠轨。密度靠近 My Bloody Valentine，钩子靠近 Pixies，90 年代中期野心尺度靠近 Nine Inch Nails。\n\nAlt 电台上的芝加哥多轨最大化。"
       },
       "stickyVisual": "influence",
       "soundGenre": "alternative"
@@ -267,8 +267,8 @@
         }
       ],
       "note": {
-        "en": "Siamese Dream and Mellon Collie peak.",
-        "zh": "Siamese Dream 与 Mellon Collie 巅峰。"
+        "en": "Siamese Dream and Mellon Collie peak years.",
+        "zh": "《Siamese Dream》与《Mellon Collie》巅峰年。"
       }
     }
   ],
@@ -277,16 +277,16 @@
       "title": "Today",
       "year": 1993,
       "note": {
-        "en": "Wall-of-guitar single that fixed Siamese Dream radio ID.",
-        "zh": "固定 Siamese Dream 电台 ID 的吉他墙单曲。"
+        "en": "Layered-guitar single that fixed Siamese Dream on radio.",
+        "zh": "叠轨吉他单曲；固定《Siamese Dream》的电台位置。"
       }
     },
     "pioneeredGenres": [
       "alternative"
     ],
     "note": {
-      "en": "Multi-track guitar maximalism as mid-90s alt brand.",
-      "zh": "多轨吉他最大化作为 90 年代中期 alt 品牌。"
+      "en": "Multi-track guitar production as a mid-90s alt radio mark.",
+      "zh": "多轨吉他制作作为 90 年代中期 alt 电台标记。"
     }
   }
 }

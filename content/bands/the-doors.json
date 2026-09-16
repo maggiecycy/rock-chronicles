@@ -13,8 +13,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "LA four-piece without a bass player onstage; The Doors (1967) put organ-led blues-psych and Morrison’s baritone on AM/FM simultaneously.",
-    "zh": "洛杉矶四人组，台上无贝斯手；同名首专（1967）把风琴主导的蓝调迷幻与 Morrison 男中音同时送上 AM/FM。"
+    "en": "Los Angeles four-piece formed in 1965. No bassist onstage—Ray Manzarek covered bass on keyboards. The Doors (1967) put organ-led blues-psych and Jim Morrison’s baritone on AM and FM radio.",
+    "zh": "洛杉矶四人组，1965 年成立。台上无贝斯手——Ray Manzarek 用键盘补贝斯。同名首专（1967）把风琴主导的蓝调迷幻与 Jim Morrison 男中音送上 AM/FM。"
   },
   "members": [
     {
@@ -74,8 +74,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Organ + flamenco-leaning solo; AM edit vs album length.",
-        "zh": "风琴 + 偏弗拉门戈独奏；AM 剪辑 vs 专辑时长。"
+        "en": "Krieger composition. Organ and flamenco-leaning guitar solos on the LP; shorter AM radio edit.",
+        "zh": "Krieger 作曲。LP 上有风琴与偏弗拉门戈吉他独奏；AM 电台剪辑更短。"
       }
     },
     {
@@ -92,8 +92,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Debut opener; jazz-leaning kit under baritone.",
-        "zh": "首专开场；男中音下偏爵士鼓。"
+        "en": "Opener on the 1967 debut. Jazz-leaning drums under Morrison’s baritone.",
+        "zh": "1967 首专开场曲。偏爵士鼓点衬 Morrison 男中音。"
       }
     },
     {
@@ -111,8 +111,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Fender Rhodes rain FX; late-era cool blues.",
-        "zh": "Fender Rhodes 雨声效果；晚期冷蓝调。"
+        "en": "From L.A. Woman. Fender Rhodes and rain sound effects; late-period blues.",
+        "zh": "出自 L.A. Woman。Fender Rhodes 与雨声效果；晚期蓝调。"
       }
     }
   ],
@@ -149,23 +149,23 @@
     "joy-division"
   ],
   "shortBio": {
-    "en": "Morrison–Manzarek organ blues-psych; no bassist onstage; Light My Fire is the hit.",
-    "zh": "Morrison–Manzarek 风琴蓝调迷幻；台上无贝斯；Light My Fire 是热单。"
+    "en": "Morrison–Manzarek organ blues-psych, Los Angeles, 1965–71. Light My Fire is the main hit; no bassist onstage.",
+    "zh": "Morrison–Manzarek 风琴蓝调迷幻，洛杉矶，1965–71。主要热单为 Light My Fire；台上无贝斯手。"
   },
   "body": {
-    "en": "Formed 1965. Debut 1967: Manzarek left-hand bass, Krieger bottleneck/flamenco figures, Densmore jazz touch, Morrison baritone. Morrison dies 1971; band limps then stops.\n\nArchitecture oddity is the ID: organ as bass + psychedelic blues song forms.",
-    "zh": "1965 年组建。1967 首专：Manzarek 左手贝斯、Krieger 滑棒/弗拉门戈音型、Densmore 爵士触感、Morrison 男中音。Morrison 1971 去世；乐队短暂延续后停。\n\n架构异数即 ID：风琴当贝斯 + 迷幻蓝调曲式。"
+    "en": "The Doors formed in Los Angeles in 1965. Jim Morrison sang; Ray Manzarek played keyboards and covered bass with his left hand and pedals; Robby Krieger played guitar; John Densmore played drums.\n\nThe debut album The Doors (1967) included Break On Through and Light My Fire. Later albums include Strange Days, Waiting for the Sun, and L.A. Woman (1971). Morrison died in Paris in July 1971. The remaining three recorded briefly without him, then stopped.",
+    "zh": "The Doors 于 1965 年在洛杉矶成立。Jim Morrison 主唱；Ray Manzarek 弹键盘，并以左手与踏板补贝斯；Robby Krieger 弹吉他；John Densmore 打鼓。\n\n首专 The Doors（1967）收录 Break On Through 与 Light My Fire。后续专辑包括 Strange Days、Waiting for the Sun 与 L.A. Woman（1971）。Morrison 于 1971 年 7 月在巴黎去世。其余三人短暂继续录音后停止。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Organ as bass, poetry as front",
-        "zh": "风琴当贝斯，诗当前站"
+        "en": "Organ bass and baritone front",
+        "zh": "风琴贝斯与男中音前站"
       },
       "body": {
-        "en": "No bassist: Manzarek Fender Rhodes/Vox Continental covers low end. Krieger writes several hits. Morrison sells baritone and spoken breaks.\n\nLA psych that stayed blues-rooted, not San Francisco jam-only.",
-        "zh": "无贝斯手：Manzarek 的 Fender Rhodes/Vox Continental 补低频。Krieger 写多首热单。Morrison 卖男中音与说白。\n\n仍扎根蓝调的洛杉矶迷幻，不是旧金山纯即兴。"
+        "en": "The band had no bassist onstage. Manzarek used Fender Rhodes bass pedals and Vox Continental (or similar) for the low end. Krieger wrote several of the hits. Morrison sang in a baritone range and used spoken passages.\n\nThe sound stayed blues-rooted within Los Angeles psychedelic rock, with room for organ and guitar solos.",
+        "zh": "台上无贝斯手。Manzarek 用 Fender Rhodes 贝斯踏板与 Vox Continental（或同类）补低频。Krieger 写过多首热单。Morrison 以男中音演唱，并使用说白段落。\n\n声音仍扎根蓝调，属于洛杉矶迷幻摇滚，编曲给风琴与吉他独奏留空。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "psychedelic"
@@ -173,12 +173,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Classic four until Morrison death",
+        "en": "Classic four until Morrison’s death",
         "zh": "经典四人至 Morrison 去世"
       },
       "body": {
-        "en": "Only peak silhouette: Morrison / Manzarek / Krieger / Densmore. Post-1971 albums without Morrison are footnote.\n\nPeak flag: 1967–71 studio four.",
-        "zh": "唯一巅峰剪影：Morrison / Manzarek / Krieger / Densmore。1971 后无 Morrison 专辑是脚注。\n\n巅峰旗：1967–71 录音四人。"
+        "en": "The studio and live peak lineup was Morrison, Manzarek, Krieger, and Densmore from 1965 to 1971.\n\nAlbums after Morrison’s death, recorded by the remaining three, are a short footnote. The main catalog ends with L.A. Woman.",
+        "zh": "1965–71 的录音与现场巅峰阵容为 Morrison、Manzarek、Krieger、Densmore。\n\nMorrison 去世后由其余三人录制的专辑是短暂脚注。主要目录止于 L.A. Woman。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "psychedelic"
@@ -186,12 +186,12 @@
     {
       "id": "members",
       "title": {
-        "en": "Baritone, organ bass, bottleneck, jazz kit",
-        "zh": "男中音、风琴贝斯、滑棒、爵士鼓"
+        "en": "Roles in the four-piece",
+        "zh": "四人组分工"
       },
       "body": {
-        "en": "Morrison: leather, notebooks. Manzarek: two-hand split. Krieger: fingerstyle/slide. Densmore: brushes and latin accents.\n\nFour specialists; arrangement leaves space for organ solos.",
-        "zh": "Morrison：皮衣、笔记本。Manzarek：双手分工。Krieger：指弹/滑音。Densmore：刷片与拉丁点缀。\n\n四名专家；编曲给风琴独奏留空。"
+        "en": "Morrison handled vocals and much of the lyric writing. Manzarek split keyboard parts between bass lines and organ leads. Krieger used fingerstyle and slide; Densmore brought jazz and Latin accents on the kit.\n\nArrangements often left space for extended organ or guitar solos, as on the album cut of Light My Fire.",
+        "zh": "Morrison 负责人声与大量歌词。Manzarek 在贝斯线与风琴主奏之间分工。Krieger 使用指弹与滑音；Densmore 在鼓组上带爵士与拉丁点缀。\n\n编曲常给延长的风琴或吉他独奏留空，如 Light My Fire 专辑版。"
       },
       "stickyVisual": "members",
       "soundGenre": "blues"
@@ -199,12 +199,12 @@
     {
       "id": "light-my-fire",
       "title": {
-        "en": "Light My Fire: AM vs album",
-        "zh": "Light My Fire：AM vs 专辑"
+        "en": "Light My Fire",
+        "zh": "Light My Fire"
       },
       "body": {
-        "en": "Krieger composition. Extended organ/guitar solos on LP; radio edit cuts middle. Both versions teach the band’s dynamic range.\n\n1967 crossover hit.",
-        "zh": "Krieger 作曲。LP 上长风琴/吉他独奏；电台剪辑砍中段。两版都教乐队动态范围。\n\n1967 跨界热单。"
+        "en": "Written by Robby Krieger. The LP version includes long organ and guitar solos; the AM radio edit cuts the middle section.\n\nIt was a 1967 crossover hit and the band’s widest early exposure on US radio.",
+        "zh": "Robby Krieger 作曲。LP 版含长风琴与吉他独奏；AM 电台剪辑砍掉中段。\n\n1967 年跨界热单，是乐队早期在美国电台最广的曝光。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -213,12 +213,12 @@
     {
       "id": "riders",
       "title": {
-        "en": "Riders: late cool blues",
-        "zh": "Riders：晚期冷蓝调"
+        "en": "Riders on the Storm",
+        "zh": "Riders on the Storm"
       },
       "body": {
-        "en": "L.A. Woman sessions. Electric piano, rain FX, whispered vocal. Less carnival, more noir blues.\n\nClosing-era citation before Morrison’s death.",
-        "zh": "L.A. Woman 录音。电钢琴、雨声、低语人声。少马戏团，多黑色电影蓝调。\n\nMorrison 去世前的收官引用。"
+        "en": "From the L.A. Woman sessions (1971). Electric piano, rain sound effects, and a quieter vocal delivery than the early carnival-leaning hits.\n\nOne of the last major studio tracks before Morrison’s death.",
+        "zh": "出自 L.A. Woman 录音（1971）。电钢琴、雨声效果，人声比早期偏热闹的热单更安静。\n\nMorrison 去世前最后的重要录音室曲目之一。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -227,12 +227,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Organ-psych cited by later dark rock",
-        "zh": "后来黑暗摇滚引用的风琴迷幻"
+        "en": "Later influence",
+        "zh": "后期影响"
       },
       "body": {
-        "en": "Post-punk and goth acts borrow Morrison’s baritone drama; keys-as-bass remains a rare architecture lesson.\n\nShort peak, dense radio afterlife.",
-        "zh": "后朋克与哥特借用 Morrison 男中音戏剧；键盘当贝斯仍是稀有架构课。\n\n巅峰短，电台余生密。"
+        "en": "Post-punk and goth acts have drawn on Morrison’s baritone delivery and spoken breaks. The keyboard-as-bass live setup remains uncommon in rock.\n\nThe active peak was short (1967–71); the radio catalog stayed in rotation afterward.",
+        "zh": "后朋克与哥特乐队常借鉴 Morrison 的男中音与说白。现场以键盘当贝斯的编制在摇滚中仍不常见。\n\n活跃巅峰较短（1967–71）；之后电台曲目仍长期轮播。"
       },
       "stickyVisual": "influence",
       "soundGenre": "psychedelic"
@@ -268,8 +268,8 @@
         }
       ],
       "note": {
-        "en": "Morrison-era studio and live peak.",
-        "zh": "Morrison 时期录音与现场峰值。"
+        "en": "Morrison-era studio and live lineup through L.A. Woman.",
+        "zh": "Morrison 时期录音与现场阵容，至 L.A. Woman。"
       }
     }
   ],
@@ -278,8 +278,8 @@
       "title": "Light My Fire",
       "year": 1967,
       "note": {
-        "en": "Organ-psych hit that put Doors on AM radio.",
-        "zh": "把 Doors 送上 AM 电台的风琴迷幻热单。"
+        "en": "Organ and guitar solo hit that put the band on AM radio.",
+        "zh": "风琴与吉他独奏热单，把乐队送上 AM 电台。"
       }
     },
     "pioneeredGenres": [
@@ -287,8 +287,8 @@
       "blues"
     ],
     "note": {
-      "en": "Bass-less organ architecture + baritone psych-blues.",
-      "zh": "无贝斯风琴架构 + 男中音迷幻蓝调。"
+      "en": "Bass-less organ setup plus baritone blues-psych song forms.",
+      "zh": "无贝斯风琴编制 + 男中音蓝调迷幻曲式。"
     }
   }
 }

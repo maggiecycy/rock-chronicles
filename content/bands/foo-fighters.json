@@ -76,16 +76,16 @@
     "queens-of-the-stone-age"
   ],
   "shortBio": {
-    "en": "Grohl-fronted alt-rock; drummer-to-frontman career after 1994.",
-    "zh": "Grohl 领衔的 alt-rock；1994 年后鼓手转主唱的职业路径。"
+    "en": "Grohl-fronted alt-rock, 1994–. Drummer-to-frontman path after Nirvana; Everlong is a core Colour and the Shape reference.",
+    "zh": "Grohl 领衔的 alt-rock，1994 年至今。Nirvana 之后鼓手转主唱；《Everlong》是《The Colour and the Shape》的核心参照。"
   },
   "body": {
-    "en": "Started 1994 with Grohl playing most instruments on the debut; Nate Mendel, Pat Smear, and later Taylor Hawkins stabilized the live band. The Colour and the Shape (1997) fixed loud-quiet radio hooks.\n\nBridge node in this graph: Nirvana drummer → Foo Fighters frontman → Them Crooked Vultures. Musical constants—compressed guitars, stacked choruses, live reliability—matter more than mythology.",
-    "zh": "1994 起步，首专大半乐器由 Grohl 亲自演奏；Nate Mendel、Pat Smear 与后来的 Taylor Hawkins 稳定现场编制。The Colour and the Shape（1997）定型强弱电台钩子。\n\n本图谱桥接节点：Nirvana 鼓手 → Foo Fighters 主唱 → Them Crooked Vultures。音乐常量——压缩吉他、堆叠副歌、现场稳定——重于神话。"
+    "en": "Foo Fighters began in 1994 with Grohl playing most instruments on the debut. Nate Mendel, Pat Smear, and later Taylor Hawkins stabilized the live band. The Colour and the Shape (1997) fixed quiet-loud radio hooks such as Everlong.\n\nGraph links: Nirvana drummer → Foo Fighters frontman → Them Crooked Vultures. Musical constants are compressed guitars, stacked choruses, and long touring schedules.",
+    "zh": "Foo Fighters 始于 1994 年，首专大半乐器由 Grohl 亲自演奏。Nate Mendel、Pat Smear 与后来的 Taylor Hawkins 稳定现场编制。《The Colour and the Shape》（1997）定型《Everlong》一类强弱电台钩子。\n\n图谱关联：Nirvana 鼓手 → Foo Fighters 主唱 → Them Crooked Vultures。音乐常量是压缩吉他、堆叠副歌与长期巡演。"
   },
   "whyMatters": {
-    "en": "Dave Grohl's post-Nirvana band; Foo Fighters (1995) onward turned a one-man demo project into a durable alternative/hard-rock touring act.",
-    "zh": "Dave Grohl 在 Nirvana 之后的乐队；自同名专辑（1995）起把一人 demo 项目做成持久的 alternative/hard-rock 巡演编制。"
+    "en": "Dave Grohl’s post-Nirvana band, formed in 1994. From the self-titled debut (1995) a one-man demo project became a long-running alternative/hard-rock touring act.",
+    "zh": "Dave Grohl 在 Nirvana 之后的乐队，1994 年成立。自同名专辑（1995）起，一人 demo 项目成为长期的 alternative/hard-rock 巡演编制。"
   },
   "scenes": [
     {
@@ -103,8 +103,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Grohl-as-frontman debut—melodic verse, distorted chorus, one-man-demo origins.",
-        "zh": "Grohl 主唱 debut——旋律主歌、失真副歌、一人 demo 起源。"
+        "en": "Debut-cycle single; melodic verse, distorted chorus; one-man demo origins.",
+        "zh": "首专周期单曲；旋律主歌、失真副歌；一人 demo 起源。"
       }
     },
     {
@@ -122,8 +122,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Quiet-loud dynamic and open-chord arpeggio—Grohl's signature ballad-rager.",
-        "zh": "Quiet-loud 动态与开放和弦琶音——Grohl 标志性抒情-爆发曲。"
+        "en": "From The Colour and the Shape; quiet-loud dynamic and open-chord arpeggio.",
+        "zh": "出自《The Colour and the Shape》；强弱动态与开放和弦琶音。"
       }
     },
     {
@@ -142,8 +142,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Delayed-entry riff and stacked gang vocals—stadium alt-rock peak.",
-        "zh": "延迟进入 riff 与堆叠齐唱——体育场 alt-rock 巅峰。"
+        "en": "Delayed-entry riff and stacked gang vocals; late-2000s stadium single.",
+        "zh": "延迟进入的 riff 与堆叠齐唱；2000 年代末体育场单曲。"
       }
     }
   ],
@@ -151,12 +151,12 @@
     {
       "id": "thesis",
       "title": {
-        "en": "One-man demo to band",
-        "zh": "一人 demo 到乐队"
+        "en": "From one-man demo to band",
+        "zh": "从一人 demo 到乐队"
       },
       "body": {
-        "en": "Grohl records the Foo Fighters debut alone in Seattle after Nirvana ends. This Is a Call and Big Me show melodic hooks over punk-adjacent energy.\n\nPat Smear (ex-Nirvana touring guitarist) and Nate Mendel (Sunny Day Real Estate) join for touring. Grohl still writes and often records core tracks himself.\n\nFoo Fighters (1995) establishes the template: verse melody, chorus distortion, no grunge costume.",
-        "zh": "Nirvana 结束后 Grohl 独自在西雅图录 Foo Fighters 首专。This Is a Call 与 Big Me 在朋克邻近能量上挂旋律钩子。\n\nPat Smear（Nirvana 巡演吉他）与 Nate Mendel（Sunny Day Real Estate）加入巡演。Grohl 仍自写并常自录核心轨。\n\nFoo Fighters（1995）定模板：主歌旋律、副歌失真、无 grunge 戏服。"
+        "en": "After Nirvana ended, Grohl recorded the Foo Fighters debut alone in Seattle. This Is a Call and Big Me place melodic hooks over punk-adjacent energy.\n\nPat Smear (ex-Nirvana touring guitar) and Nate Mendel (Sunny Day Real Estate) joined for touring. Grohl still wrote and often recorded core tracks himself.\n\nFoo Fighters (1995) sets the early pattern: verse melody, chorus distortion, without grunge costume.",
+        "zh": "Nirvana 结束后，Grohl 独自在西雅图录制 Foo Fighters 首专。《This Is a Call》与《Big Me》在朋克邻近能量上挂旋律钩子。\n\nPat Smear（Nirvana 巡演吉他）与 Nate Mendel（Sunny Day Real Estate）加入巡演。Grohl 仍自写并常自录核心轨。\n\n《Foo Fighters》（1995）确立早期写法：主歌旋律、副歌失真，不做法兰绒时期外观。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "alternative"
@@ -165,11 +165,11 @@
       "id": "lineup-versions",
       "title": {
         "en": "The Colour and the Shape",
-        "zh": "The Colour and the Shape"
+        "zh": "《The Colour and the Shape》"
       },
       "body": {
-        "en": "Taylor Hawkins replaces William Goldsmith on drums mid-sessions. Everlong, Monkey Wrench, and My Hero define the loud-quiet FM standard.\n\nGrohl and producer Gil Norton push guitar layering; Mendel's bass locks Hawkins' open hi-hat groove.\n\nAlbum sells millions—cements Grohl as frontman, not just Nirvana drummer.",
-        "zh": "Taylor Hawkins 在录音中途替 William Goldsmith 打鼓。Everlong、Monkey Wrench、My Hero 定义 loud-quiet FM 标准。\n\nGrohl 与制作人 Gil Norton 推吉他 layering；Mendel 贝斯锁 Hawkins 开放 hi-hat groove。\n\n专辑销量数百万——巩固 Grohl 主唱身份，非仅 Nirvana 鼓手。"
+        "en": "Taylor Hawkins replaced William Goldsmith on drums mid-sessions. Everlong, Monkey Wrench, and My Hero define the quiet-loud FM face of the album.\n\nGrohl and producer Gil Norton push guitar layering; Mendel’s bass locks to Hawkins’ open hi-hat groove.\n\nMulti-million sales fixed Grohl as a frontman, not only as Nirvana’s drummer.",
+        "zh": "Taylor Hawkins 在录音中途接替 William Goldsmith 打鼓。《Everlong》《Monkey Wrench》《My Hero》定义专辑的强弱 FM 面孔。\n\nGrohl 与制作人 Gil Norton 推进吉他叠轨；Mendel 贝斯咬住 Hawkins 的开放 hi-hat groove。\n\n数百万销量把 Grohl 固定为主唱身份，而不仅是 Nirvana 鼓手。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "alternative"
@@ -177,12 +177,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Stadium era and supergroup bridge",
-        "zh": "体育场时期与 supergroup 桥"
+        "en": "Stadium years and side projects",
+        "zh": "体育场年份与支线项目"
       },
       "body": {
-        "en": "Chris Shiflett joins 1999; There Is Nothing Left to Lose through Echoes, Silence, Patience & Grace stack radio rock with Grohl's producer credit on QOTSA records.\n\nGrohl drums on Queens of the Stone Age's Songs for the Deaf (2002); seeds Them Crooked Vultures (2009) with Homme and John Paul Jones.\n\nBest of You and The Pretender prove sustained arena draw two decades post-Nirvana.",
-        "zh": "Chris Shiflett 1999 年加入；There Is Nothing Left to Lose 至 Echoes, Silence, Patience & Grace 堆叠电台摇滚，Grohl 任 QOTSA 唱片制作人。\n\nGrohl 2002 年为 Queens of the Stone Age 的 Songs for the Deaf 打鼓；2009 年与 Homme、John Paul Jones 结出 Them Crooked Vultures。\n\nBest of You 与 The Pretender 证明 Nirvana 后二十年仍有体育场号召力。"
+        "en": "Chris Shiflett joined in 1999. There Is Nothing Left to Lose through Echoes, Silence, Patience & Grace keep radio-rock scale. Grohl also produced Queens of the Stone Age records and drummed on Songs for the Deaf (2002).\n\nThem Crooked Vultures (2009) with Josh Homme and John Paul Jones is the main side-project node.\n\nBest of You and The Pretender show arena draw two decades after Nirvana.",
+        "zh": "Chris Shiflett 于 1999 年加入。《There Is Nothing Left to Lose》至《Echoes, Silence, Patience & Grace》维持电台摇滚体量。Grohl 也参与 Queens of the Stone Age 唱片制作，并为《Songs for the Deaf》（2002）打鼓。\n\n与 Josh Homme、John Paul Jones 的 Them Crooked Vultures（2009）是主要支线节点。\n\n《Best of You》与《The Pretender》显示 Nirvana 后二十年仍有体育场号召力。"
       },
       "stickyVisual": "influence",
       "soundGenre": "alternative"
@@ -191,11 +191,11 @@
       "id": "scene-0",
       "title": {
         "en": "This Is a Call",
-        "zh": "This Is a Call"
+        "zh": "《This Is a Call》"
       },
       "body": {
-        "en": "Grohl-as-frontman debut—melodic verse, distorted chorus, one-man-demo origins.",
-        "zh": "Grohl 主唱 debut——旋律主歌、失真副歌、一人 demo 起源。"
+        "en": "Debut-cycle single; melodic verse, distorted chorus; one-man demo origins.",
+        "zh": "首专周期单曲；旋律主歌、失真副歌；一人 demo 起源。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -205,11 +205,11 @@
       "id": "scene-1",
       "title": {
         "en": "Everlong",
-        "zh": "Everlong"
+        "zh": "《Everlong》"
       },
       "body": {
-        "en": "Quiet-loud dynamic and open-chord arpeggio—Grohl's signature ballad-rager.",
-        "zh": "Quiet-loud 动态与开放和弦琶音——Grohl 标志性抒情-爆发曲。"
+        "en": "From The Colour and the Shape; quiet-loud dynamic and open-chord arpeggio.",
+        "zh": "出自《The Colour and the Shape》；强弱动态与开放和弦琶音。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -219,11 +219,11 @@
       "id": "scene-2",
       "title": {
         "en": "The Pretender",
-        "zh": "The Pretender"
+        "zh": "《The Pretender》"
       },
       "body": {
-        "en": "Delayed-entry riff and stacked gang vocals—stadium alt-rock peak.",
-        "zh": "延迟进入 riff 与堆叠齐唱——体育场 alt-rock 巅峰。"
+        "en": "Delayed-entry riff and stacked gang vocals; late-2000s stadium single.",
+        "zh": "延迟进入的 riff 与堆叠齐唱；2000 年代末体育场单曲。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -279,7 +279,7 @@
       ],
       "note": {
         "en": "Hawkins drums + Smear/Shiflett guitars; arena alt-rock core.",
-        "zh": "Hawkins 鼓 + Smear/Shiflett 吉他；体育场 alt-rock 核心。"
+        "zh": "Hawkins 鼓 + Smear/Shiflett 吉他；体育场 alt-rock 核心编制。"
       }
     }
   ],
@@ -288,16 +288,16 @@
       "title": "Everlong",
       "year": 1997,
       "note": {
-        "en": "Double-tracked vocal + open-chord drive as Foos signature.",
-        "zh": "双轨人声 + 开放和弦推进，作为 Foos 标志曲。"
+        "en": "Double-tracked vocal and open-chord drive as a Foos signature.",
+        "zh": "双轨人声与开放和弦推进，作为 Foos 标志曲。"
       }
     },
     "pioneeredGenres": [
       "alternative"
     ],
     "note": {
-      "en": "Post-Nirvana guitar band that outgrew demo origins into stadium craft.",
-      "zh": "Nirvana 之后的吉他乐队，从 demo 长成体育场工艺。"
+      "en": "Post-Nirvana guitar band that grew from demo origins into stadium-scale alt-rock.",
+      "zh": "Nirvana 之后的吉他乐队，从 demo 起源长成体育场体量的 alt-rock。"
     }
   }
 }

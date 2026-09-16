@@ -11,8 +11,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Austin instrumental quartet whose The Earth Is Not a Cold Dead Place (2003) set US delay-guitar crescendo grammar beside Mogwai/Godspeed.",
-    "zh": "奥斯汀器乐四重奏；The Earth Is Not a Cold Dead Place（2003）在 Mogwai/Godspeed 旁定下美国延时吉他 crescendo 语法。"
+    "en": "Austin instrumental quartet formed in 1999. The Earth Is Not a Cold Dead Place (2003, Temporary Residence) fixed delay-heavy interlocking guitars and soft-to-loud arcs; Your Hand in Mine became a common film and TV cue.",
+    "zh": "奥斯汀器乐四重奏，1999 年成立。《The Earth Is Not a Cold Dead Place》（2003，Temporary Residence）定型大量延时交织吉他与弱到强弧线；《Your Hand in Mine》常被影视采用。"
   },
   "members": [
     {
@@ -64,12 +64,12 @@
   ],
   "influenced": [],
   "shortBio": {
-    "en": "Wordless post-rock; Your Hand in Mine is the signature crescendo.",
-    "zh": "无人声 post-rock；Your Hand in Mine 是标志 crescendo。"
+    "en": "Austin instrumental post-rock, 1999–. Your Hand in Mine is the best-known crescendo cue.",
+    "zh": "奥斯汀器乐 post-rock，1999 年至今。《Your Hand in Mine》是最知名的 crescendo 曲目。"
   },
   "body": {
-    "en": "Formed 1999 in Austin. The Earth Is Not a Cold Dead Place (2003, Temporary Residence) fixed delay-heavy interlocking guitars, soft-to-loud arcs, and film/TV licensing reach.\n\nYour Hand in Mine (2003) is the entry cue—no vocals, narrative in arrangement dynamics. Three guitarists plus bass/drums; room and 延音 carry the melody.",
-    "zh": "1999 年于奥斯汀组建。The Earth Is Not a Cold Dead Place（2003，Temporary Residence）定型大量延时交织吉他、弱到强弧线，以及影视授权触达。\n\nYour Hand in Mine（2003）是入口——无人声，叙事在编曲动态。三吉他加贝斯/鼓；空间与 延音 扛旋律。"
+    "en": "Explosions in the Sky formed in Austin in 1999. The Earth Is Not a Cold Dead Place (2003, Temporary Residence) set the studio sound: three guitars in delay, soft-to-loud arcs, no vocals. Song titles carry the narrative; arrangement dynamics carry the melody.\n\nYour Hand in Mine (2003) is the usual entry track and a frequent Friday Night Lights sync. Later albums such as All of a Sudden I Miss Everyone and Take Care, Take Care, Take Care keep longer runtimes and larger tour scale.",
+    "zh": "Explosions in the Sky 于 1999 年在奥斯汀成立。《The Earth Is Not a Cold Dead Place》（2003，Temporary Residence）定下录音室声音：三把延时吉他、弱到强弧线、无人声。曲名提示叙事，编曲动态承担旋律。\n\n《Your Hand in Mine》（2003）是常见入口曲，也常出现在《Friday Night Lights》中。后期专辑如《All of a Sudden I Miss Everyone》与《Take Care, Take Care, Take Care》继续加长曲长并扩大巡演规模。"
   },
   "scenes": [
     {
@@ -87,8 +87,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Interlocking delay guitars—Earth signature build, Friday Night Lights sync.",
-        "zh": "交织延时吉他——Earth 标志渐强，Friday Night Lights 同步。"
+        "en": "Interlocking delay guitars and a slow build; frequent Friday Night Lights sync.",
+        "zh": "交织延时吉他与慢起渐强；常出现在《Friday Night Lights》。"
       }
     },
     {
@@ -106,8 +106,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Triple-guitar 延音 stack to peak—album’s loudest crescendo moment.",
-        "zh": "三吉他 延音 堆叠至峰值——专辑最响 crescendo 时刻。"
+        "en": "Three-guitar 延音 stack to the album’s loudest crescendo.",
+        "zh": "三吉他 延音 堆叠至专辑最响的 crescendo。"
       }
     },
     {
@@ -125,8 +125,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Clean arpeggio opening—Earth side-A slow-burn template.",
-        "zh": "干净琶音开场——Earth A 面慢燃模板。"
+        "en": "Clean arpeggio opening; side-A slow build on The Earth Is Not a Cold Dead Place.",
+        "zh": "干净琶音开场；《The Earth Is Not a Cold Dead Place》A 面慢起曲。"
       }
     }
   ],
@@ -134,12 +134,12 @@
     {
       "id": "thesis",
       "title": {
-        "en": "US delay-guitar crescendo rock",
-        "zh": "美国延时吉他 crescendo 摇滚"
+        "en": "Delay guitar and soft-loud arcs",
+        "zh": "延时吉他与强弱弧线"
       },
       "body": {
-        "en": "Explosions in the Sky matter for exporting Mogwai-style crescendo to American indie via Temporary Residence and TV sync.\n\nThe Earth Is Not a Cold Dead Place (2003) is the cited album—five tracks, all instrumental.\n\nYour Hand in Mine became Friday Night Lights shorthand.\n\nThree guitars interlock in delay; drums stay relatively dry.",
-        "zh": "Explosions in the Sky 要紧处是经 Temporary Residence 与电视同步把 Mogwai 式 crescendo 出口到美国 indie。\n\nThe Earth Is Not a Cold Dead Place（2003）是被引专辑——五曲，全器乐。\n\nYour Hand in Mine 成 Friday Night Lights 简写。\n\n三吉他在延时里交织；鼓相对干。"
+        "en": "The band’s reference album is The Earth Is Not a Cold Dead Place (2003): five tracks, all instrumental, Temporary Residence.\n\nThree guitars interlock in delay; drums stay relatively dry. Soft-to-loud arcs replace verse-chorus hooks.\n\nYour Hand in Mine became a common US TV and film cue, especially via Friday Night Lights.",
+        "zh": "参照专辑是《The Earth Is Not a Cold Dead Place》（2003）：五曲、全器乐、Temporary Residence。\n\n三吉他在延时里交织；鼓相对干。弱到强弧线替代主副歌钩子。\n\n《Your Hand in Mine》成为常见美国影视配乐，尤其经《Friday Night Lights》。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "progressive-rock"
@@ -151,8 +151,8 @@
         "zh": "稳定的奥斯汀四人组"
       },
       "body": {
-        "en": "1999–present unchanged: Rayani, Smith, Hrasky, James—three guitarists including James on bass/guitar duties live.\n\nNo vocalist across the catalog; song titles carry narrative hint.\n\nEarly DIY Texas shows built the interlocking delay method before Earth studio polish.\n\nLater albums (All of a Sudden I Miss Everyone, Take Care…) extend runtimes and tour scale.",
-        "zh": "1999 至今未变：Rayani、Smith、Hrasky、James——三吉他含 James 现场贝斯/吉他分工。\n\n全目录无人声；曲名承载叙事暗示。\n\n早期德州 DIY 现场建立交织延时法，Earth 录音室抛光之前。\n\n后期专辑（All of a Sudden I Miss Everyone、Take Care…）延长时长与巡演规模。"
+        "en": "Since 1999 the lineup has been Rayani, Smith, Hrasky, and James—three guitarists, with James also covering bass live.\n\nThere is no vocalist on any album; titles supply narrative hints.\n\nEarly Texas DIY shows built the interlocking delay method before the Earth studio sessions.",
+        "zh": "1999 年起阵容为 Rayani、Smith、Hrasky、James——三吉他，James 现场兼贝斯。\n\n全目录无人声；曲名提供叙事提示。\n\n早期德州 DIY 现场先形成交织延时写法，再进入 Earth 录音室。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "indie-rock"
@@ -164,8 +164,8 @@
         "zh": "影视中的器乐摇滚"
       },
       "body": {
-        "en": "Explosions in the Sky normalized wordless crescendo rock for US sync licensing alongside Mogwai/Godspeed.\n\nSonic Youth’s tunings and textural guitar are the named ancestor.\n\nYour Hand in Mine and First Breath After Coma remain entry tracks for post-rock curious listeners.\n\nInfluence is format—long builds, delay 延音—not rock-star persona.",
-        "zh": "Explosions in the Sky 与 Mogwai/Godspeed 并行，把无人声 crescendo 摇滚正常化进美国同步授权。\n\nSonic Youth 定弦与质感吉他是点名祖先。\n\nYour Hand in Mine 与 First Breath After Coma 仍是 post-rock 好奇者的入口曲。\n\n影响在格式——长推进、延时 延音——非摇滚明星人设。"
+        "en": "Alongside Mogwai and Godspeed You! Black Emperor, the band made wordless crescendo rock a regular option for US sync licensing.\n\nSonic Youth’s tunings and textural guitar are a named influence.\n\nYour Hand in Mine and First Breath After Coma remain common entry tracks for listeners new to post-rock.",
+        "zh": "与 Mogwai、Godspeed You! Black Emperor 并列，乐队使无人声 crescendo 摇滚成为美国同步授权的常见选项。\n\nSonic Youth 的定弦与质感吉他是点名影响。\n\n《Your Hand in Mine》与《First Breath After Coma》仍是 post-rock 新听者的常见入口。"
       },
       "stickyVisual": "influence",
       "soundGenre": "progressive-rock"
@@ -177,8 +177,8 @@
         "zh": "Your Hand in Mine"
       },
       "body": {
-        "en": "Interlocking delay guitars—Earth signature build, Friday Night Lights sync.",
-        "zh": "交织延时吉他——Earth 标志渐强，Friday Night Lights 同步。"
+        "en": "Interlocking delay guitars and a slow build; frequent Friday Night Lights sync.",
+        "zh": "交织延时吉他与慢起渐强；常出现在《Friday Night Lights》。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -191,8 +191,8 @@
         "zh": "The Birth and Death of the Day"
       },
       "body": {
-        "en": "Triple-guitar 延音 stack to peak—album’s loudest crescendo moment.",
-        "zh": "三吉他 延音 堆叠至峰值——专辑最响 crescendo 时刻。"
+        "en": "Three-guitar 延音 stack to the album’s loudest crescendo.",
+        "zh": "三吉他 延音 堆叠至专辑最响的 crescendo。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -205,8 +205,8 @@
         "zh": "First Breath After Coma"
       },
       "body": {
-        "en": "Clean arpeggio opening—Earth side-A slow-burn template.",
-        "zh": "干净琶音开场——Earth A 面慢燃模板。"
+        "en": "Clean arpeggio opening; side-A slow build on The Earth Is Not a Cold Dead Place.",
+        "zh": "干净琶音开场；《The Earth Is Not a Cold Dead Place》A 面慢起曲。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -265,8 +265,8 @@
       "title": "Your Hand in Mine",
       "year": 2003,
       "note": {
-        "en": "Slow-build guitar melody as US post-rock teaching track.",
-        "zh": "慢起吉他旋律，美国 post-rock 教学曲。"
+        "en": "Slow-build guitar melody; common US post-rock entry cue.",
+        "zh": "慢起吉他旋律；常见的美国 post-rock 入口曲。"
       }
     },
     "pioneeredGenres": [
@@ -274,8 +274,8 @@
       "progressive-rock"
     ],
     "note": {
-      "en": "Wordless narrative via dynamics; Friday Night Lights citation sealed it.",
-      "zh": "用动态讲无词叙事；Friday Night Lights 引用封存影响。"
+      "en": "Wordless narrative via dynamics; Friday Night Lights sync widened reach.",
+      "zh": "用动态讲无词叙事；《Friday Night Lights》同步扩大触达。"
     }
   }
 }

@@ -13,8 +13,8 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "London four-piece that scaled blues and folk forms to arena hard rock; Led Zeppelin II–IV and Physical Graffiti remain the citation set for riff weight and dynamic range.",
-    "zh": "伦敦四人组：把蓝调与民谣形式扩到体育场 hard rock；Led Zeppelin II–IV 与 Physical Graffiti 仍是 riff 重量与动态幅度的引用集。"
+    "en": "London four-piece formed in 1968. Jimmy Page’s guitar and production, Robert Plant’s vocals, John Paul Jones’s bass and keys, and John Bonham’s drums define Led Zeppelin II–IV and Physical Graffiti.",
+    "zh": "伦敦四人组，1968 年成立。Jimmy Page 的吉他与制作、Robert Plant 的人声、John Paul Jones 的贝斯与键盘，以及 John Bonham 的鼓，贯穿《Led Zeppelin II–IV》与《Physical Graffiti》。"
   },
   "members": [
     {
@@ -54,8 +54,8 @@
       "title": "Kashmir",
       "year": 1975,
       "note": {
-        "en": "riff",
-        "zh": "东方调式与重 riff"
+        "en": "Ostinato riff; modal color outside straight blues harmony.",
+        "zh": "固定音型 riff；非直白蓝调和声的调式色彩。"
       }
     }
   ],
@@ -75,8 +75,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Theremin breakdown inside hard-rock single form.",
-        "zh": "Hard-rock 单曲形式内的 theremin 崩解段。"
+        "en": "From Led Zeppelin II; open riff and a theremin/feedback middle section.",
+        "zh": "出自《Led Zeppelin II》；开放 riff，中段含 theremin 与反馈。"
       }
     },
     {
@@ -93,8 +93,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Acoustic-to-electric arc as FM-request template.",
-        "zh": "原声到电声弧线成为 FM 点播模板。"
+        "en": "From Led Zeppelin IV; acoustic opening into electric close; long FM radio staple.",
+        "zh": "出自《Led Zeppelin IV》；原声开场到电声收束；FM 电台长期点播曲。"
       }
     },
     {
@@ -111,8 +111,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Ostinato epic with non-blues modal color (Kashmir).",
-        "zh": "固定音型史诗与非蓝调调式色彩（Kashmir）。"
+        "en": "From Physical Graffiti; repeating ostinato and orchestral arrangement.",
+        "zh": "出自《Physical Graffiti》；反复固定音型与管弦编曲。"
       }
     }
   ],
@@ -145,23 +145,23 @@
     "nirvana"
   ],
   "shortBio": {
-    "en": "Page / Plant / Jones / Bonham hard rock; Whole Lotta Love and Stairway are the twin poles.",
-    "zh": "Page / Plant / Jones / Bonham 的 hard rock；Whole Lotta Love 与 Stairway 是两极。"
+    "en": "Page / Plant / Jones / Bonham hard rock, 1968–1980. Whole Lotta Love and Stairway to Heaven are the main reference tracks.",
+    "zh": "Page / Plant / Jones / Bonham 硬摇滚，1968–1980。《Whole Lotta Love》与《Stairway to Heaven》是主要参照曲。"
   },
   "body": {
-    "en": "Formed 1968 from Yardbirds residue. Early albums document Page’s production, Bonham’s drums, Jones’s arrangements, Plant’s high register—studio and stage as one system.\n\nWhole Lotta Love (1969), Stairway to Heaven (1971), Kashmir (1975) show theremin breakdown, acoustic-to-electric arc, and ostinato epic. Stable classic-IV lineup is itself a historical fact in a scene of churn.",
-    "zh": "1968 年由 Yardbirds 残余组建。早期专辑记录 Page 制作、Bonham 鼓、Jones 编曲、Plant 高音区——录音室与舞台同一系统。\n\nWhole Lotta Love（1969）、Stairway to Heaven（1971）、Kashmir（1975）展示 theremin 崩解段、原声到电声弧线与固定音型史诗。经典四人稳定阵容本身即人事动荡场景中的历史事实。"
+    "en": "Led Zeppelin formed in London in 1968 after the Yardbirds ended. Jimmy Page handled guitar and much of the production; Robert Plant sang lead; John Paul Jones played bass, keys, and arranged parts; John Bonham played drums. Early albums document blues and folk sources expanded into hard rock for large venues.\n\nWhole Lotta Love (1969), Stairway to Heaven (1971), and Kashmir (1975) show a theremin middle section, an acoustic-to-electric arc, and a long ostinato arrangement. The same four members stayed through 1980; the band ended after Bonham’s death that year.",
+    "zh": "Led Zeppelin 于 1968 年在伦敦由 Yardbirds 结束后组建。Jimmy Page 负责吉他与大量制作；Robert Plant 主唱；John Paul Jones 演奏贝斯、键盘并参与编曲；John Bonham 司鼓。早期专辑把蓝调与民谣素材扩展为适合大型场地的 hard rock。\n\n《Whole Lotta Love》（1969）、《Stairway to Heaven》（1971）与《Kashmir》（1975）分别呈现 theremin 中段、原声到电声的结构，以及长固定音型编曲。四人阵容维持到 1980 年；Bonham 去世后乐队结束。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Four players, one production system",
-        "zh": "四人，一套制作系统"
+        "en": "Four roles, shared catalog",
+        "zh": "四个角色，同一套曲目"
       },
       "body": {
-        "en": "Zeppelin matter as a closed instrumental economy: Page’s guitar/production, Plant’s vocal, Jones’s bass/keys/arranging, Bonham’s drums. Blues and folk sources are scaled, not merely covered.\n\nArena hard rock’s default grammar—riff + dynamic swing—gets a durable catalog here.",
-        "zh": "Zeppelin 要紧处是封闭的乐器经济：Page 吉他/制作、Plant 人声、Jones 贝斯/键盘/编曲、Bonham 鼓。蓝调与民谣来源被扩写，而非仅翻唱。\n\n体育场 hard rock 的默认语法——riff + 动态摆动——在此留下耐久目录。"
+        "en": "Led Zeppelin’s sound rests on a fixed division of labor: Page on guitar and production, Plant on vocals, Jones on bass, keys, and arranging, Bonham on drums.\n\nBlues and folk material is rewritten at harder volume and larger form, not only covered note-for-note.\n\nAlbums II–IV and Physical Graffiti are the usual entry points for riff writing and dynamics.",
+        "zh": "Led Zeppelin 的声音建立在固定分工上：Page 负责吉他与制作，Plant 负责人声，Jones 负责贝斯、键盘与编曲，Bonham 负责鼓。\n\n蓝调与民谣素材被改写成更大音量与更长结构，而不是逐句翻唱。\n\n《II–IV》与《Physical Graffiti》是听 riff 写法与动态幅度的常用入口。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "hard-rock"
@@ -169,12 +169,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Classic IV with almost no churn",
+        "en": "Classic four with almost no changes",
         "zh": "几乎无更替的经典四人"
       },
       "body": {
-        "en": "Unlike many peers, the peak version is one cast. Session origins (Page, Jones) explain arrangement density; Bonham’s death ends the original run.\n\nLineup stability is part of why the silhouette stays sharp.",
-        "zh": "与许多同辈不同，巅峰版本几乎是一套人马。录音室出身（Page、Jones）解释编曲密度；Bonham 去世结束原班运行。\n\n阵容稳定是剪影清晰的原因之一。"
+        "en": "Unlike many peers, the peak years use one cast: Page, Plant, Jones, Bonham from 1968 to 1980.\n\nPage and Jones came from session work, which shows in arrangement density. Bonham’s death ends the original run.\n\nThat stable lineup is why the recorded sound stays consistent across albums.",
+        "zh": "与许多同辈不同，巅峰期几乎是同一套人马：Page、Plant、Jones、Bonham，1968–1980。\n\nPage 与 Jones 有录音室出身，编曲密度较高。Bonham 去世后原班运行结束。\n\n阵容稳定，也使各专辑的录音面貌相对一致。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "hard-rock"
@@ -182,12 +182,12 @@
     {
       "id": "lineup",
       "title": {
-        "en": "Roles: guitar/production, vocal, arrange, drums",
-        "zh": "分工：吉他/制作、人声、编曲、鼓"
+        "en": "Guitar/production, vocal, arrange, drums",
+        "zh": "吉他/制作、人声、编曲、鼓"
       },
       "body": {
-        "en": "Page builds parts and mixes; Plant carries melody and lyric myth frames; Jones supplies bass, keys, and charts; Bonham supplies the groove weight later metal cites.\n\nFour roles, few substitutes—configuration as method.",
-        "zh": "Page 写分声部并混音；Plant 扛旋律与歌词神话框架；Jones 提供贝斯、键盘与谱面；Bonham 提供后来金属常引的 groove 重量。\n\n四个角色、极少替补——编制即方法。"
+        "en": "Page writes parts and mixes. Plant carries melody and lyric imagery. Jones supplies bass, keys, and charts. Bonham supplies the groove weight later metal bands often cite.\n\nThere were almost no substitutes in the classic period.",
+        "zh": "Page 写分声部并混音。Plant 扛旋律与歌词意象。Jones 提供贝斯、键盘与谱面。Bonham 提供后来金属常引用的 groove 重量。\n\n经典时期几乎没有替补。"
       },
       "stickyVisual": "members",
       "soundGenre": "hard-rock"
@@ -195,12 +195,12 @@
     {
       "id": "wll",
       "title": {
-        "en": "Whole Lotta Love: riff then breakdown",
-        "zh": "Whole Lotta Love：先 riff 后崩解"
+        "en": "Whole Lotta Love",
+        "zh": "《Whole Lotta Love》"
       },
       "body": {
-        "en": "Open riff, Plant’s vocal, then theremin/feedback middle before the return. Hard rock learns mid-song studio drama without prog suite length.\n\nBody-first listening: the drop is structural, not ornamental.",
-        "zh": "开放 riff、Plant 人声，然后 theremin/反馈中段再返回。Hard rock 学到曲中录音室戏剧，却不走 prog 组曲时长。\n\n身体优先的听法：落下是结构，不是装饰。"
+        "en": "Led Zeppelin II (1969) opens with a repeating riff and Plant’s vocal, then a theremin and feedback middle before the return.\n\nThe track keeps hard-rock single length while using studio effects mid-song.\n\nIt remains one of the band’s most cited early singles.",
+        "zh": "《Led Zeppelin II》（1969）以反复 riff 与 Plant 人声开场，中段进入 theremin 与反馈，再回到主题。\n\n曲长仍接近 hard-rock 单曲，但中段使用了录音室效果。\n\n它仍是乐队早期最常被提及的单曲之一。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -209,12 +209,12 @@
     {
       "id": "stairway",
       "title": {
-        "en": "Stairway: acoustic climb to hard ending",
-        "zh": "Stairway：原声爬升到硬收束"
+        "en": "Stairway to Heaven",
+        "zh": "《Stairway to Heaven》"
       },
       "body": {
-        "en": "Fingerpicked opening, layered guitars, then Bonham’s entry and solo section. FM radio turns a long form into a request-line standard.\n\nDynamic narrative—folk start, heavy finish—becomes a teaching template.",
-        "zh": "指弹开场、多层吉他，然后 Bonham 进入与独奏段。FM 电台把长曲变成点播标准。\n\n动态叙事——民谣起、重型收——成为教学模板。"
+        "en": "Led Zeppelin IV (1971) places a fingerpicked opening, layered guitars, then Bonham’s entry and a solo section.\n\nFM radio made the long form a frequent request. The arc runs from acoustic start to a heavier finish.",
+        "zh": "《Led Zeppelin IV》（1971）以指弹开场、多层吉他，随后 Bonham 进入并进入独奏段。\n\nFM 电台使这首长曲成为常见点播。结构从原声起，到更重的收束。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -223,12 +223,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Four sounds, locked takes",
-        "zh": "四种声音，锁定的录音"
+        "en": "On Bonham’s drum sound",
+        "zh": "关于 Bonham 的鼓声"
       },
       "body": {
-        "en": "Interview and lore lines stress chemistry over costume. The useful claim is musical: arrangement and performance lock, not mystique for its own sake.\n\nRead quotes as production notes in oral form.",
-        "zh": "访谈与传说强调化学作用而非戏服。有用的主张是音乐上的：编曲与演奏锁定，而非为神秘而神秘。\n\n把引语当口述形式的制作笔记。"
+        "en": "Interview lines often stress how recognizable the four players sound together.\n\nPage’s remark on Bonham’s drums points to tone and performance, not costume or myth.\n\nQuotes here work as oral notes on arrangement and playing.",
+        "zh": "访谈常强调四人合奏的辨识度。\n\nPage 关于 Bonham 鼓声的说法指向音色与演奏，而非戏服或传说。\n\n此处引语可作编曲与演奏的口述笔记。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -237,12 +237,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Answers: metal, punk refusal, grunge weight",
-        "zh": "回应：金属、朋克拒绝、grunge 重量"
+        "en": "Later responses: metal, punk, grunge",
+        "zh": "后来的回应：金属、朋克、grunge"
       },
       "body": {
-        "en": "NWOBHM and metal inherit riff weight; punk often refuses the excess; grunge keeps the sludge and drops the fantasy lyric.\n\nZeppelin remain a reference to salute, sample, or overthrow.",
-        "zh": "NWOBHM 与金属继承 riff 重量；朋克常拒绝其过量；grunge 留下淤泥并丢掉奇幻歌词。\n\nZeppelin 仍是致敬、采样或推翻的参照。"
+        "en": "NWOBHM and metal often take the riff weight. Punk often rejects the length and excess. Grunge keeps heavy low end and drops much of the fantasy lyric.\n\nLater bands still cite, sample, or push against the Zeppelin catalog.",
+        "zh": "NWOBHM 与金属常取 riff 重量。朋克常拒绝其长度与过量。Grunge 留下偏重的低频，并丢掉大量奇幻歌词。\n\n后来乐队仍会引用、采样或针对 Zeppelin 曲目作出回应。"
       },
       "stickyVisual": "influence",
       "soundGenre": "hard-rock"
@@ -279,8 +279,8 @@
         }
       ],
       "note": {
-        "en": "Stable peak version—minimal churn, maximal catalog citation.",
-        "zh": "稳定巅峰版本——更替极少，目录引用最多。"
+        "en": "Only peak lineup; minimal member changes across the original run.",
+        "zh": "唯一巅峰阵容；原班运行期间成员更替极少。"
       }
     }
   ],
@@ -289,16 +289,16 @@
       "title": "Whole Lotta Love",
       "year": 1969,
       "note": {
-        "en": "Early riff weight as hard-rock teaching track.",
-        "zh": "早期 riff 重量作为 hard-rock 教学曲。"
+        "en": "Early hard-rock single with a clear riff and studio middle section.",
+        "zh": "早期 hard-rock 单曲；riff 清楚，中段含录音室处理。"
       }
     },
     "pioneeredGenres": [
       "hard-rock"
     ],
     "note": {
-      "en": "Blues/folk forms scaled to arena; metal and grunge still answer the catalog.",
-      "zh": "蓝调/民谣形式扩到体育场；金属与 grunge 仍回应此目录。"
+      "en": "Blues and folk forms expanded for arena hard rock; metal and grunge still answer the catalog.",
+      "zh": "蓝调与民谣形式扩展为体育场 hard rock；金属与 grunge 仍回应这套曲目。"
     }
   }
 }

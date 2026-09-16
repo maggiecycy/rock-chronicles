@@ -15,8 +15,8 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "Abingdon five-piece that moved from UK alternative hits to OK Computer (1997) and Kid A (2000) studio mutation while keeping a stable lineup.",
-    "zh": "阿宾登五人组：从英国 alternative 热单走到 OK Computer（1997）与 Kid A（2000）的录音室变异，且阵容保持稳定。"
+    "en": "Abingdon five-piece formed in 1985. Moved from UK alternative guitar records to OK Computer (1997) multi-section songs and Kid A (2000) electronics, with the same lineup throughout.",
+    "zh": "阿宾登五人组，1985 年成立。从英国 alternative 吉他唱片走到 OK Computer（1997）的多段体与 Kid A（2000）的电子制作，阵容全程未换人。"
   },
   "members": [
     {
@@ -77,8 +77,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Multi-section form: prog ambition on alt radio.",
-        "zh": "多段结构：prog 野心进入 alternative 电台。"
+        "en": "Multi-section song; prog length and dynamic cuts on alternative radio.",
+        "zh": "多段体歌曲；prog 时长与动态切换出现在 alternative 电台。"
       }
     },
     {
@@ -96,8 +96,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Piano/alienation center of OK Computer era.",
-        "zh": "OK Computer 时期钢琴/疏离核心。"
+        "en": "Piano-led single from the OK Computer cycle.",
+        "zh": "OK Computer 周期的钢琴主导单曲。"
       }
     },
     {
@@ -116,8 +116,8 @@
       ],
       "intensity": 1,
       "note": {
-        "en": "Kid A opener: electronics before guitar comfort.",
-        "zh": "Kid A 开场：电子先于吉他舒适区。"
+        "en": "Kid A opener: sequenced keys and processed vocal before guitar-led arrangements.",
+        "zh": "Kid A 开场：音序键盘与处理人声先于吉他主导编曲。"
       }
     }
   ],
@@ -153,23 +153,23 @@
     "arctic-monkeys"
   ],
   "shortBio": {
-    "en": "Yorke / Greenwood–era alternative; Paranoid Android and Kid A mark structure then rupture.",
-    "zh": "Yorke / Greenwood 时期 alternative；Paranoid Android 与 Kid A 标记结构与断裂。"
+    "en": "Yorke / Greenwood five-piece; Paranoid Android and Kid A mark structure then electronics.",
+    "zh": "Yorke / Greenwood 五人组；Paranoid Android 与 Kid A 分别标记多段结构与电子制作。"
   },
   "body": {
-    "en": "Formed 1985 (On a Friday). Pablo Honey and The Bends establish guitar-band craft; OK Computer expands multi-section songs and digital anxiety themes; Kid A/Amnesiac foreground electronics and jazz rhythm sections.\n\nParanoid Android (1997) and Everything in Its Right Place (2000) show prog length inside alternative, then the deliberate dismantling of hit-guitar comfort.",
-    "zh": "1985 年组建（曾用名 On a Friday）。Pablo Honey 与 The Bends 确立吉他乐队工艺；OK Computer 扩展多段体与数字焦虑主题；Kid A/Amnesiac 突出电子与爵士节奏组。\n\nParanoid Android（1997）与 Everything in Its Right Place（2000）展示 alternative 内的 prog 时长，以及有意拆除热门吉他舒适区。"
+    "en": "Formed in 1985 as On a Friday. Pablo Honey and The Bends established guitar-band writing; OK Computer expanded multi-section songs and studio detail; Kid A and Amnesiac foreground electronics and jazz-influenced rhythm sections.\n\nParanoid Android (1997) places prog-length form on alternative radio. Everything in Its Right Place (2000) opens Kid A with sequenced keys rather than lead guitar.",
+    "zh": "1985 年组建，曾用名 On a Friday。Pablo Honey 与 The Bends 确立吉他乐队写法；OK Computer 扩展多段体与录音室细节；Kid A 与 Amnesiac 突出电子与带爵士色彩的节奏组。\n\nParanoid Android（1997）把 prog 时长放进 alternative 电台。Everything in Its Right Place（2000）以音序键盘而非主音吉他打开 Kid A。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "A hinge that keeps turning",
-        "zh": "持续转动的铰链"
+        "en": "From guitar hits to studio change",
+        "zh": "从吉他热单到录音室转向"
       },
       "body": {
-        "en": "Radiohead matter as a method: hit capability first, then refuse to freeze the method. Same five people; catalogs that change tools.\n\nPost-1997 rock can mutate without leaving the festival poster.",
-        "zh": "Radiohead 要紧处是方法：先具备打热单的能力，再拒绝冻结方法。同一五人；更换工具的目录。\n\n1997 年后摇滚可以变异而不离开音乐节海报。"
+        "en": "Radiohead built hit capability on The Bends, then changed recording methods on later albums. The five members stayed the same; instruments and production did not.\n\nAfter 1997, the band continued festival and arena dates while releasing records that used electronics, jazz players, and long-form song structures.",
+        "zh": "Radiohead 在 The Bends 上具备热单能力，随后在后期专辑更换录音方法。五人成员未变；乐器与制作方式有变。\n\n1997 年后，乐队继续音乐节与体育场档期，同时发行使用电子、爵士乐手与长结构的唱片。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "alternative"
@@ -177,12 +177,12 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Five-piece stability, sideways branches",
-        "zh": "五人稳定，侧向分支"
+        "en": "Stable five-piece",
+        "zh": "稳定五人组"
       },
       "body": {
-        "en": "Rare among peers: lineup barely churns. Person hubs (Yorke solo/Atoms for Peace) branch sideways instead of replacing the band.\n\nVersions are albums and approaches, not singer swaps.",
-        "zh": "同辈中少见：阵容几乎不更替。人物枢纽（Yorke 独唱/Atoms for Peace）侧向分支，而非替换乐队。\n\n版本是专辑与方法，不是换主唱。"
+        "en": "Lineup churn is rare: Yorke, Jonny Greenwood, O’Brien, Colin Greenwood, and Selway remain the catalog band.\n\nSide projects (Yorke solo, Atoms for Peace) run beside Radiohead rather than replacing members. Album eras differ by approach, not by singer swaps.",
+        "zh": "阵容更替很少：Yorke、Jonny Greenwood、O’Brien、Colin Greenwood、Selway 是目录固定成员。\n\n旁支项目（Yorke 独唱、Atoms for Peace）与 Radiohead 并行，不替换成员。专辑分期按方法区分，不按换主唱区分。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "alternative"
@@ -190,12 +190,12 @@
     {
       "id": "android",
       "title": {
-        "en": "Paranoid Android: structure as stance",
-        "zh": "Paranoid Android：结构即立场"
+        "en": "Paranoid Android",
+        "zh": "Paranoid Android"
       },
       "body": {
-        "en": "Multi-section song on alternative radio—prog ambition without costume rock. Dynamic cuts and guitar orchestration replace verse-chorus comfort.\n\nLength and form are the attitude.",
-        "zh": "alternative 电台上的多段体——有 prog 野心而无戏服摇滚。动态切割与吉他配器取代主副歌舒适区。\n\n时长与形式即态度。"
+        "en": "A multi-section song on alternative radio: dynamic cuts, guitar orchestration, and length beyond standard verse-chorus singles.\n\nForm and runtime are the main identifiers on the OK Computer cycle.",
+        "zh": "alternative 电台上的多段体：动态切割、吉他配器，以及超出常规主副歌单曲的时长。\n\n曲式与片长是 OK Computer 周期的主要识别点。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -204,12 +204,12 @@
     {
       "id": "kida",
       "title": {
-        "en": "Kid A: remove the hit-guitar costume",
-        "zh": "Kid A：拆掉热门吉他戏服"
+        "en": "Kid A",
+        "zh": "Kid A"
       },
       "body": {
-        "en": "Onodes and processed piano open the album; guitars recede. Jazz players and electronics enter the session picture.\n\nCommercial risk is documented; the musical claim is tool change inside a famous brand.",
-        "zh": "音序与处理后的钢琴打开专辑；吉他后退。爵士乐手与电子进入录音图景。\n\n商业风险有文献；音乐主张是在著名品牌内部更换工具。"
+        "en": "Sequenced parts and processed piano open the album; guitars sit further back. Jazz players and electronics appear in the session credits.\n\nCommercial risk is documented in the press; the musical change is fewer guitar-led singles inside a well-known rock catalog.",
+        "zh": "音序声部与处理后的钢琴打开专辑；吉他位置后移。爵士乐手与电子出现在录音名单。\n\n商业风险有当时媒体记录；音乐变化是在知名摇滚目录里减少吉他主导单曲。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -218,12 +218,12 @@
     {
       "id": "dna",
       "title": {
-        "en": "Prog blood, indie passport",
-        "zh": "Prog 血统，indie 护照"
+        "en": "Prog form and UK indie charts",
+        "zh": "Prog 曲式与英国 indie 榜"
       },
       "body": {
-        "en": "Odd forms and texture obsession sit beside UK indie infrastructure and US alternative charts. Influence shows in 2000s art-rock and electronic-adjacent guitar bands.\n\nPassport stamps: both underground credibility and arena dates.",
-        "zh": "奇数形式与纹理偏执，旁靠英国 indie 基建与美国 alternative 榜。影响见于 2000 年代 art-rock 与电子邻近的吉他乐队。\n\n护照戳：地下信誉与体育场档期并存。"
+        "en": "Odd song forms and dense textures sit beside UK indie distribution and US alternative chart runs. Later 2000s art-rock and electronic-adjacent guitar bands cite the catalog.\n\nThe band kept both underground press coverage and arena tour dates.",
+        "zh": "奇数曲式与密集纹理，旁靠英国 indie 发行体系与美国 alternative 榜表现。2000 年代后期 art-rock 与电子邻近的吉他乐队常引用该目录。\n\n乐队同时保有地下媒体关注与体育场巡演档期。"
       },
       "stickyVisual": "dna",
       "soundGenre": "alternative"
@@ -231,12 +231,12 @@
     {
       "id": "quote",
       "title": {
-        "en": "Anti-career lines on the record",
-        "zh": "记录在案的反职业话术"
+        "en": "Press lines on career talk",
+        "zh": "关于「生涯」话术的媒体摘句"
       },
       "body": {
-        "en": "Press excerpts about refusing the rock-star ladder sit beside meticulous touring and catalog control.\n\nUseful as evidence of branding posture, checked against the release schedule.",
-        "zh": "关于拒绝摇滚明星阶梯的媒体摘句，旁靠精密巡演与目录控制。\n\n可作品牌姿态证据，对照发行日程核验。"
+        "en": "Yorke’s press excerpts reject rock-star career framing. They sit beside careful touring and catalog control.\n\nUseful as attributed posture; check against the release and tour schedule.",
+        "zh": "Yorke 的媒体摘句拒绝摇滚明星式生涯表述。旁靠细致的巡演安排与目录控制。\n\n可作有出处的姿态材料，对照发行与巡演日程核验。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
@@ -247,8 +247,8 @@
     {
       "id": "five-piece",
       "label": {
-        "en": "Five-piece continuum",
-        "zh": "五人组连续统"
+        "en": "Five-piece",
+        "zh": "五人组"
       },
       "years": "1985–present",
       "peak": true,
@@ -276,8 +276,8 @@
         }
       ],
       "note": {
-        "en": "Rare stability—person projects branch sideways.",
-        "zh": "少见的稳定——人物项目侧向分支。"
+        "en": "Stable lineup; side projects run beside the band.",
+        "zh": "阵容稳定；旁支项目与乐队并行。"
       }
     }
   ],
@@ -286,8 +286,8 @@
       "title": "Paranoid Android",
       "year": 1997,
       "note": {
-        "en": "Early alt-radio hit before the mutation arc.",
-        "zh": "变异弧线之前的早期 alt 电台热单。"
+        "en": "Alt-radio multi-section hit before the Kid A electronics shift.",
+        "zh": "Kid A 电子转向之前的 alternative 电台多段体热单。"
       }
     },
     "pioneeredGenres": [
@@ -295,8 +295,8 @@
       "indie-rock"
     ],
     "note": {
-      "en": "After OK Computer, mutation stays inside a mass rock brand.",
-      "zh": "OK Computer 之后，变异留在大众摇滚品牌内部。"
+      "en": "After OK Computer, later albums keep changing studio method inside a mass rock catalog.",
+      "zh": "OK Computer 之后，后期专辑在大众摇滚目录内继续更换录音室方法。"
     }
   }
 }

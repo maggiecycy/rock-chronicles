@@ -10,8 +10,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Basildon synth group that scaled electronic songwriting to arena size; Violator (1990) made sequenced bass and industrial percussion a stadium-rock peer.",
-    "zh": "巴西尔登合成器组合：把电子歌曲写作扩到体育场体量；Violator（1990）让音序低音与工业打击乐与体育场摇滚平起平坐。"
+    "en": "Basildon synth group formed in 1980. Violator (1990) put sequenced bass and programmed percussion on US rock radio at arena scale.",
+    "zh": "巴西尔登合成器组合，1980 年成立。《Violator》（1990）把音序低音与程序打击乐推上美国摇滚电台，达到体育场体量。"
   },
   "members": [
     {
@@ -73,12 +73,12 @@
     "coldplay"
   ],
   "shortBio": {
-    "en": "Gahan / Gore synth-rock; Enjoy the Silence and Violator are the arena-scale peak.",
-    "zh": "Gahan / Gore 的 synth-rock；Enjoy the Silence 与 Violator 是体育场级高峰。"
+    "en": "Gahan / Gore synth-rock, 1980–. Enjoy the Silence and Violator are the arena-scale peak.",
+    "zh": "Gahan / Gore 的 synth-rock，1980 年至今。《Enjoy the Silence》与《Violator》是体育场级高峰。"
   },
   "body": {
-    "en": "Formed 1980 in Basildon. Early Mute singles and Black Celebration built a dark synth vocabulary; Music for the Masses and the 1988 Pasadena Rose Bowl show proved live scale.\n\nViolator (1990)—Personal Jesus, Enjoy the Silence—crossed into US rock radio without guitar-band cosplay. Sequenced bass and LinnDrum-style percussion carry arena dynamics.",
-    "zh": "1980 年于巴西尔登组建。早期 Mute 单曲与 Black Celebration 建立暗色合成器语汇；Music for the Masses 与 1988 年帕萨迪纳玫瑰碗演出坐实现场体量。\n\nViolator（1990）——Personal Jesus、Enjoy the Silence——打进美国摇滚电台，无需假装吉他乐队。音序低音与 LinnDrum 式打击乐撑住体育场动态。"
+    "en": "Depeche Mode formed in Basildon in 1980. Early Mute singles with Vince Clarke and Black Celebration built a darker synth vocabulary. Music for the Masses and the 1988 Pasadena Rose Bowl show established live scale.\n\nViolator (1990)—Personal Jesus, Enjoy the Silence—crossed into US rock radio. Sequenced bass and LinnDrum-style percussion carry arena dynamics without a conventional guitar-band lineup. Alan Wilder deepened programming and arrangement from 1982 to 1995; Fletcher held keys until 2022.",
+    "zh": "Depeche Mode 于 1980 年在巴西尔登成立。与 Vince Clarke 合作的早期 Mute 单曲及《Black Celebration》建立更暗的合成器语汇。《Music for the Masses》与 1988 年帕萨迪纳玫瑰碗演出确立现场体量。\n\n《Violator》（1990）——《Personal Jesus》、《Enjoy the Silence》——打进美国摇滚电台。音序低音与 LinnDrum 式打击乐撑住体育场动态，无需传统吉他乐队编制。Alan Wilder 在 1982–1995 年加深编程与编曲；Fletcher 守键盘席至 2022。"
   },
   "scenes": [
     {
@@ -96,7 +96,7 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Early Mute synth-pop; Clarke-era bounce before dark turn.",
+        "en": "Early Mute synth-pop; Clarke-era bounce before the darker turn.",
         "zh": "早期 Mute synth-pop；Clarke 时期弹跳感，尚未转暗。"
       }
     },
@@ -115,8 +115,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Violator peak; Gore's guitar hook over Wilder-programmed rhythm.",
-        "zh": "Violator 高峰；Gore 吉他 hook 叠 Wilder 编程节奏。"
+        "en": "Violator peak; Gore guitar hook over Wilder-programmed rhythm.",
+        "zh": "《Violator》高峰；Gore 吉他 hook 叠 Wilder 编程节奏。"
       }
     },
     {
@@ -134,8 +134,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Music for the Masses tour; Rose Bowl scale proves live synth-rock.",
-        "zh": "Music for the Masses 巡演；玫瑰碗体量坐实现场 synth-rock。"
+        "en": "Music for the Masses tour; Rose Bowl-scale live synth-rock.",
+        "zh": "《Music for the Masses》巡演；玫瑰碗体量的现场 synth-rock。"
       }
     }
   ],
@@ -147,8 +147,8 @@
         "zh": "Synth-pop 扩到体育场摇滚"
       },
       "body": {
-        "en": "Depeche Mode move from Vince Clarke bounce to Gore's minor-key songwriting. Black Celebration and Music for the Masses darken the palette; Violator (1990) hits US rock radio.\n\nEnjoy the Silence pairs Gore's guitar riff with programmed drums—a rock hook built from machines.",
-        "zh": "Depeche Mode 从 Vince Clarke 弹跳感转向 Gore 小调写作。Black Celebration 与 Music for the Masses 压暗调色板；Violator（1990）打进美国摇滚电台。\n\nEnjoy the Silence 把 Gore 吉他 riff 与程序鼓配对——用机器搭出的 rock hook。"
+        "en": "Depeche Mode move from Vince Clarke bounce to Gore’s minor-key songwriting. Black Celebration and Music for the Masses darken the palette; Violator (1990) hits US rock radio.\n\nEnjoy the Silence pairs Gore’s guitar riff with programmed drums—a rock hook built from sequencers.",
+        "zh": "Depeche Mode 从 Vince Clarke 弹跳感转向 Gore 小调写作。《Black Celebration》与《Music for the Masses》压暗调色板；《Violator》（1990）打进美国摇滚电台。\n\n《Enjoy the Silence》把 Gore 吉他 riff 与程序鼓配对——用音序器搭出的 rock hook。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "new-wave"
@@ -156,12 +156,12 @@
     {
       "id": "wilder-era",
       "title": {
-        "en": "Wilder production vs Fletcher anchor",
-        "zh": "Wilder 制作 vs Fletcher 锚点"
+        "en": "Wilder production and Fletcher keys",
+        "zh": "Wilder 制作与 Fletcher 键盘"
       },
       "body": {
-        "en": "Gahan is the live voice; Gore writes most songs. Alan Wilder (1982–95) deepens drum programming and arrangement—peak on Violator and Songs of Faith and Devotion.\n\nFletcher held the keyboard chair until 2022; Wilder's exit marks the post-1995 production shift.",
-        "zh": "Gahan 是现场人声；Gore 写大部分歌。Alan Wilder（1982–95）加厚鼓编程与编曲——Violator 与 Songs of Faith and Devotion 为峰。\n\nFletcher 守键盘席至 2022；Wilder 离队标记 1995 后制作转向。"
+        "en": "Gahan is the live voice; Gore writes most songs. Alan Wilder (1982–95) deepens drum programming and arrangement—peak on Violator and Songs of Faith and Devotion.\n\nFletcher held the keyboard chair until 2022; Wilder’s exit marks the post-1995 production shift.",
+        "zh": "Gahan 是现场人声；Gore 写大部分歌。Alan Wilder（1982–95）加厚鼓编程与编曲——《Violator》与《Songs of Faith and Devotion》为峰。\n\nFletcher 守键盘席至 2022；Wilder 离队标记 1995 后制作转向。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "post-punk"
@@ -173,8 +173,8 @@
         "zh": "1990–2000 年代摇滚里的电子歌曲写作"
       },
       "body": {
-        "en": "New Order and The Cure share the post-punk synth lineage; Muse and Radiohead cite DM's dark melodic side. Coldplay's early piano-rock ballads trace to Enjoy the Silence's chord mood.\n\nInfluence is arena-scale proof that sequencers can carry the same dynamic arc as a four-piece guitar band.",
-        "zh": "New Order 与 The Cure 共享 post-punk 合成器谱系；Muse 与 Radiohead 引用 DM 暗色旋律面。Coldplay 早期钢琴摇滚谣曲可追到 Enjoy the Silence 的和弦情绪。\n\n影响是体育场级证据：音序器也能扛与四人吉他乐队相同的动态弧线。"
+        "en": "New Order and The Cure share the post-punk synth lineage; Muse and Radiohead cite DM’s dark melodic side. Coldplay’s early piano-rock ballads sit near Enjoy the Silence’s chord mood.\n\nSequencers carry arena dynamics that many listeners associate with guitar bands.",
+        "zh": "New Order 与 The Cure 共享 post-punk 合成器谱系；Muse 与 Radiohead 引用 DM 暗色旋律面。Coldplay 早期钢琴摇滚谣曲接近《Enjoy the Silence》的和弦情绪。\n\n音序器也能撑住许多听众联想吉他乐队的体育场动态。"
       },
       "stickyVisual": "influence",
       "soundGenre": "new-wave"
@@ -183,10 +183,10 @@
       "id": "scene-0",
       "title": {
         "en": "Just Can't Get Enough",
-        "zh": "Just Can't Get Enough"
+        "zh": "《Just Can't Get Enough》"
       },
       "body": {
-        "en": "Early Mute synth-pop; Clarke-era bounce before dark turn.",
+        "en": "Early Mute synth-pop; Clarke-era bounce before the darker turn.",
         "zh": "早期 Mute synth-pop；Clarke 时期弹跳感，尚未转暗。"
       },
       "stickyVisual": "scene",
@@ -197,11 +197,11 @@
       "id": "scene-1",
       "title": {
         "en": "Enjoy the Silence",
-        "zh": "Enjoy the Silence"
+        "zh": "《Enjoy the Silence》"
       },
       "body": {
-        "en": "Violator peak; Gore's guitar hook over Wilder-programmed rhythm.",
-        "zh": "Violator 高峰；Gore 吉他 hook 叠 Wilder 编程节奏。"
+        "en": "Violator peak; Gore’s guitar hook over Wilder-programmed rhythm.",
+        "zh": "《Violator》高峰；Gore 吉他 hook 叠 Wilder 编程节奏。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -211,11 +211,11 @@
       "id": "scene-2",
       "title": {
         "en": "Behind the Wheel",
-        "zh": "Behind the Wheel"
+        "zh": "《Behind the Wheel》"
       },
       "body": {
-        "en": "Music for the Masses tour; Rose Bowl scale proves live synth-rock.",
-        "zh": "Music for the Masses 巡演；玫瑰碗体量坐实现场 synth-rock。"
+        "en": "Music for the Masses tour; Rose Bowl-scale live synth-rock.",
+        "zh": "《Music for the Masses》巡演；玫瑰碗体量的现场 synth-rock。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,
@@ -265,7 +265,7 @@
       ],
       "note": {
         "en": "Wilder arrangement era through Violator / Songs of Faith and Devotion.",
-        "zh": "Wilder 编曲期，贯穿 Violator / Songs of Faith and Devotion。"
+        "zh": "Wilder 编曲期，贯穿《Violator》/《Songs of Faith and Devotion》。"
       }
     }
   ],
@@ -274,8 +274,8 @@
       "title": "Personal Jesus",
       "year": 1989,
       "note": {
-        "en": "Blues-guitar sample + industrial pulse as Violator gateway.",
-        "zh": "蓝调吉他采样 + 工业脉冲，Violator 入口。"
+        "en": "Blues-guitar sample and industrial pulse as Violator gateway.",
+        "zh": "蓝调吉他采样与工业脉冲，《Violator》入口。"
       }
     },
     "pioneeredGenres": [
