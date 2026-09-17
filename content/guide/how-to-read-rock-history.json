@@ -7,12 +7,12 @@
     "zh": "了解摇滚史"
   },
   "summary": {
-    "en": "Chapter map (Covach arc). Chapters 1–3 are open; later chapters stay stubs until notes arrive.",
-    "zh": "章节目录（Covach 课弧）。第一至三章可点开阅读；后续章节先占位，等讲义再补。"
+    "en": "Full Part One of University of Rochester’s History of Rock (chapters 1–7). Part Two (after 1970) continues on Coursera.",
+    "zh": "罗彻斯特大学《History of Rock》第一部分（第一至七章）全文。1970 年后的发展见 Coursera 第二部分。"
   },
   "body": {
-    "zh": "怎么用这一页\n\n这是摇滚史课程目录页。结构按 John Covach（University of Rochester）课弧：先产业与电台，再 1955–59 rock & roll，60 年代初的「摇滚之冬 / 灵乐之春」，英伦入侵，美国的回应，Motown 与南部灵魂乐，迷幻，然后进入 70 年代「摇滚怪兽」。\n\n第一至三章各小节已可点开阅读。后面章节先列目录占位，讲义到了再补正文。出现人名时，本站有对应年代 / 乐队页就跳过去。无聊就跳——后面引用前面时再回来。",
-    "en": "How to use this page\n\nThis is the rock-history syllabus map, following John Covach’s University of Rochester arc: industry and radio first, then 1955–59 rock & roll, the early-60s “winter,” British Invasion, U.S. replies, Motown / southern soul, psychedelia, then the 1970s “monster” years.\n\nChapters 1–3 are open for reading. Later chapters stay as stubs until lecture notes land. When a name appears, jump to the matching era or band page if we have it. Skip ahead when bored—come back when a later section cites an earlier one."
+    "zh": "怎么用这一页\n\n本页覆盖 University of Rochester（John Covach）《History of Rock》第一部分全部内容（第一至七章）。感兴趣可继续学习第二部分（1970 年后的发展）：\nhttps://www.coursera.org/learn/history-of-rock-2\n\n出现人名或乐队时，本站有对应年代 / 乐队页就跳过去。无聊就跳——后面引用前面时再回来。",
+    "en": "How to use this page\n\nThis page covers all of University of Rochester (John Covach) History of Rock Part One (chapters 1–7). For Part Two (developments after 1970), continue on Coursera:\nhttps://www.coursera.org/learn/history-of-rock-2\n\nWhen a name appears, jump to the matching era or band page if we have it. Skip ahead when bored—come back when a later section cites an earlier one."
   },
   "outline": [
     {
@@ -178,70 +178,80 @@
           "title": {
             "en": "Introduction",
             "zh": "绪论"
-          }
+          },
+          "slug": "rock-history-4-1-introduction"
         },
         {
           "label": "4.2",
           "title": {
             "en": "Britain and America in the early 1960s",
             "zh": "60 年代早期的英美"
-          }
+          },
+          "slug": "rock-history-4-2-early-60s-uk-us"
         },
         {
           "label": "4.3",
           "title": {
             "en": "Rise of the Beatles",
             "zh": "The Beatles 的崛起"
-          }
+          },
+          "slug": "rock-history-4-3-beatles-rise"
         },
         {
           "label": "4.4",
           "title": {
             "en": "Beatles as students of American pop",
             "zh": "作为美式流行乐学生的 Beatles"
-          }
+          },
+          "slug": "rock-history-4-4-beatles-students"
         },
         {
           "label": "4.5",
           "title": {
             "en": "Beatles from craftsmen to artists",
             "zh": "从匠人到艺术家的 Beatles"
-          }
+          },
+          "slug": "rock-history-4-5-craftsmen-to-artists"
         },
         {
           "label": "4.6",
           "title": {
             "en": "Blues in Britain",
             "zh": "Blues 在英国"
-          }
+          },
+          "slug": "rock-history-4-6-blues-in-britain"
         },
         {
           "label": "4.7",
           "title": {
             "en": "Arrival of the Rolling Stones",
             "zh": "The Rolling Stones 的出现"
-          }
+          },
+          "slug": "rock-history-4-7-stones-appear"
         },
         {
           "label": "4.8",
           "title": {
             "en": "Rolling Stones in the U.S.",
             "zh": "The Rolling Stones 在美国"
-          }
+          },
+          "slug": "rock-history-4-8-stones-in-us"
         },
         {
           "label": "4.9",
           "title": {
             "en": "Other British bands",
             "zh": "其他英国乐队"
-          }
+          },
+          "slug": "rock-history-4-9-other-british-bands"
         },
         {
           "label": "4.10",
           "title": {
             "en": "The Kinks and the Who",
             "zh": "the Kinks 与 the Who"
-          }
+          },
+          "slug": "rock-history-4-10-kinks-and-who"
         }
       ]
     },
@@ -256,49 +266,56 @@
           "title": {
             "en": "Bob Dylan and a new generation of songwriters",
             "zh": "Bob Dylan，美国新一代歌曲创作者"
-          }
+          },
+          "slug": "rock-history-5-1-bob-dylan-songwriter"
         },
         {
           "label": "5.2",
           "title": {
             "en": "Dylan goes electric",
             "zh": "Bob Dylan 使用电声乐器"
-          }
+          },
+          "slug": "rock-history-5-2-dylan-electric"
         },
         {
           "label": "5.3",
           "title": {
             "en": "The Byrds and folk-rock",
             "zh": "The Byrds 与民谣摇滚"
-          }
+          },
+          "slug": "rock-history-5-3-byrds-folk-rock"
         },
         {
           "label": "5.4",
           "title": {
             "en": "Phil Spector’s lasting production legacy",
             "zh": "Phil Spector 的光辉遗产"
-          }
+          },
+          "slug": "rock-history-5-4-phil-spector-legacy"
         },
         {
           "label": "5.5",
           "title": {
             "en": "Meanwhile, back on the East Coast",
             "zh": "与此同时，回到东海岸"
-          }
+          },
+          "slug": "rock-history-5-5-east-coast"
         },
         {
           "label": "5.6",
           "title": {
             "en": "Garage bands",
             "zh": "车库乐队（Garage Bands）"
-          }
+          },
+          "slug": "rock-history-5-6-garage-bands"
         },
         {
           "label": "5.7",
           "title": {
             "en": "TV rock",
             "zh": "电视摇滚（TV Rock）"
-          }
+          },
+          "slug": "rock-history-5-7-tv-rock"
         }
       ]
     },
@@ -313,49 +330,56 @@
           "title": {
             "en": "Preface",
             "zh": "序言"
-          }
+          },
+          "slug": "rock-history-6-1-preface"
         },
         {
           "label": "6.2",
           "title": {
             "en": "Hitsville U.S.A.: Motown",
             "zh": "美国热单镇：Motown"
-          }
+          },
+          "slug": "rock-history-6-2-motown-hitsville"
         },
         {
           "label": "6.3",
           "title": {
             "en": "Motown artists",
             "zh": "Motown 的艺人"
-          }
+          },
+          "slug": "rock-history-6-3-motown-artists"
         },
         {
           "label": "6.4",
           "title": {
             "en": "Stax and southern soul",
             "zh": "美国灵魂乐镇 Stax 和南方灵魂乐"
-          }
+          },
+          "slug": "rock-history-6-4-stax-southern-soul"
         },
         {
           "label": "6.5",
           "title": {
             "en": "Stax artists",
             "zh": "Stax 的艺人"
-          }
+          },
+          "slug": "rock-history-6-5-stax-artists"
         },
         {
           "label": "6.6",
           "title": {
             "en": "Motown, Stax, the Invasion, and America’s reply",
             "zh": "Motown，Stax，英伦入侵和美国的回应"
-          }
+          },
+          "slug": "rock-history-6-6-motown-stax-invasion"
         },
         {
           "label": "6.7",
           "title": {
             "en": "James Brown",
             "zh": "James Brown"
-          }
+          },
+          "slug": "rock-history-6-7-james-brown"
         }
       ]
     },
@@ -370,85 +394,72 @@
           "title": {
             "en": "LSD, music, and “tripping”",
             "zh": "LSD，音乐，以及「神游」"
-          }
+          },
+          "slug": "rock-history-7-1-lsd-music-trip"
         },
         {
           "label": "7.2",
           "title": {
             "en": "Origins of hippie aesthetics",
             "zh": "嬉皮美学的起源"
-          }
+          },
+          "slug": "rock-history-7-2-hippie-aesthetics"
         },
         {
           "label": "7.3",
           "title": {
             "en": "Beatles and Beach Boys pushing formal borders",
             "zh": "尝试拓宽音乐边界的 Beatles 与 Beach Boys"
-          }
+          },
+          "slug": "rock-history-7-3-beatles-beach-boys"
         },
         {
           "label": "7.4",
           "title": {
             "en": "San Francisco psychedelic subculture",
             "zh": "旧金山迷幻之亚文化"
-          }
+          },
+          "slug": "rock-history-7-4-sf-subculture"
         },
         {
           "label": "7.5",
           "title": {
             "en": "Key San Francisco bands",
             "zh": "旧金山迷幻之重要乐队"
-          }
+          },
+          "slug": "rock-history-7-5-sf-bands"
         },
         {
           "label": "7.6",
           "title": {
             "en": "London psychedelia and the underground",
             "zh": "伦敦迷幻和地下迷幻文化"
-          }
+          },
+          "slug": "rock-history-7-6-london-underground"
         },
         {
           "label": "7.7",
           "title": {
             "en": "London psychedelia’s mainstream stars",
             "zh": "伦敦迷幻之主流明星"
-          }
+          },
+          "slug": "rock-history-7-7-london-mainstream"
         },
         {
           "label": "7.8",
           "title": {
             "en": "Psychedelia in Los Angeles and elsewhere",
             "zh": "洛杉矶及其他地方的迷幻音乐"
-          }
+          },
+          "slug": "rock-history-7-8-la-and-elsewhere"
         },
         {
           "label": "7.9",
           "title": {
             "en": "Hippie nation",
             "zh": "嬉皮国度"
-          }
-        }
-      ]
-    },
-    {
-      "heading": {
-        "en": "Chapter 8 · Growing the rock monster (1970–1977)",
-        "zh": "第八章 · 摇滚怪兽的成长（1970–1977）"
-      },
-      "items": [
-        {
-          "label": "8.1",
-          "title": {
-            "en": "Overview of the 1970s",
-            "zh": "对 1970 年代的概述"
-          }
-        },
-        {
-          "label": "8.2",
-          "title": {
-            "en": "British blues-rock",
-            "zh": "英国布鲁斯摇滚"
-          }
+          },
+          "slug": "rock-history-7-9-hippie-nation"
         }
       ]
     },
