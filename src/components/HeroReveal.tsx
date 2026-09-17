@@ -50,7 +50,7 @@ export function HeroReveal() {
           fill
           priority
           sizes="100vw"
-          className="object-cover object-[center_18%]"
+          className="object-cover object-center"
         />
         {/* Left paper veil: opaque enough for title contrast, still lets cover peek through */}
         <div

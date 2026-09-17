@@ -2,15 +2,19 @@
   "name": "Chuck Berry",
   "slug": "chuck-berry",
   "formed": 1955,
-  "origin": "St. Louis, USA",
+  "origin": "St. Louis / Chicago, USA",
   "primaryEra": "1950s-roots",
   "genres": [
     "rock-n-roll",
     "blues"
   ],
+  "pageEyebrow": {
+    "en": "Early rock’n’roll · Guitar & songwriter",
+    "zh": "早期摇滚 · 吉他与词曲作者"
+  },
   "whyMatters": {
-    "en": "St. Louis guitarist and songwriter. Chess Records singles from 1955–58 set lasting models for rock’n’roll guitar intros, narrative lyrics, and stage showmanship including the duck walk.",
-    "zh": "圣路易斯吉他手与词曲作者。1955–58 年 Chess Records 单曲确立了摇滚吉他前奏、叙事歌词与舞台表演（含鸭步）的长期写法。"
+    "en": "Chuck Berry was a major American rock’n’roll songwriter and guitarist of the 1950s. After Maybellene (1955) he issued a run of lasting songs that joined blues, country, and R&B materials with narratives aimed at young listeners. In the 1960s the Beatles, the Rolling Stones and others kept playing his material, carrying those songs into a new rock repertoire.",
+    "zh": "Chuck Berry 是 1950 年代美国摇滚乐的重要词曲作者和吉他手。1955 年《Maybellene》之后，他连续发行了一批影响深远的歌曲，把 blues、country 和 R&B 的音乐材料与面向年轻听众的叙事结合起来。1960 年代，The Beatles、The Rolling Stones 等乐队继续演奏他的作品，使 Berry 的歌曲进入新一代摇滚乐的曲目体系。"
   },
   "members": [
     {
@@ -45,15 +49,16 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "1955 Chess debut hit; car-chase lyric over a country/R&B hybrid beat.",
-        "zh": "1955 年 Chess 出道热单；追车叙事歌词，节拍融合乡村与 R&B。"
+        "en": "Chess breakthrough single. Reworked from the country song Ida Red; country guitar/melody material with an R&B beat; car-chase lyric.",
+        "zh": "Berry 在 Chess 的突破性单曲。歌曲以《Ida Red》为音乐基础重新创作，融合 country 与 R&B，并以汽车追逐为主题。"
       }
     },
     {
       "year": 1958,
       "track": "Johnny B. Goode",
       "membersOnStage": [
-        "Chuck Berry"
+        "Chuck Berry",
+        "Johnnie Johnson"
       ],
       "genreTags": [
         "rock-n-roll",
@@ -61,23 +66,16 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "1958 Chess single; double-stop guitar intro and lyric about a guitar kid from Louisiana.",
-        "zh": "1958 年 Chess 单曲；双音吉他前奏，歌词写路易斯安那的吉他少年。"
+        "en": "Chess single. Young guitarist as protagonist; Berry’s guitar and Johnnie Johnson’s piano are central to the cut.",
+        "zh": "Chess 单曲。歌曲以一名希望成为音乐家的年轻吉他手为主人公，Berry 的吉他与 Johnnie Johnson 的钢琴构成录音的重要部分。"
       }
     }
   ],
   "interviewQuotes": [
     {
-      "text": "The guitar is the most important thing.",
+      "text": "Everything I wrote about wasn’t about me, but about the people listening.",
       "speaker": "Chuck Berry",
-      "source": "Interview excerpt",
-      "year": 1987
-    },
-    {
-      "text": "If you can play the duck walk and the double-stops, you've got the show.",
-      "speaker": "Chuck Berry",
-      "source": "Archive interview · quote wall",
-      "year": 1972
+      "source": "Rock & Roll Hall of Fame materials on Berry"
     }
   ],
   "lyricQuotes": [
@@ -95,13 +93,13 @@
     "the-rolling-stones"
   ],
   "shortBio": {
-    "en": "St. Louis rock’n’roll, Chess Records, 1955–. Maybellene, Roll Over Beethoven, and Johnny B. Goode are the core reference singles.",
-    "zh": "圣路易斯摇滚，Chess Records，1955 年起。《Maybellene》、《Roll Over Beethoven》与《Johnny B. Goode》是主要参照单曲。"
+    "en": "St. Louis singer, guitarist, and songwriter. From Maybellene (1955) through Johnny B. Goode (1958), a core Chess run of rock’n’roll singles.",
+    "zh": "圣路易斯歌手、吉他手与词曲作者。自《Maybellene》（1955）到《Johnny B. Goode》（1958），形成一批关键的 Chess 摇滚单曲。"
   },
   "decisive": true,
   "body": {
-    "en": "Chuck Berry recorded for Chess Records in Chicago from the mid-1950s. Early singles include Maybellene (1955), Roll Over Beethoven (1956), and Johnny B. Goode (1958). The songs combine storytelling verses—cars, youth, and guitar ambition—with clear guitar intros and a strong backbeat. Johnnie Johnson often played piano on the sessions.\n\nBritish beat groups and later rock bands covered these 45s widely. The double-stop intro to Johnny B. Goode remains one of the most copied guitar openings in rock.",
-    "zh": "Chuck Berry 自 1950 年代中期起在芝加哥为 Chess Records 录音。早期单曲包括《Maybellene》（1955）、《Roll Over Beethoven》（1956）和《Johnny B. Goode》（1958）。歌曲以叙事主歌（汽车、青年、吉他野心）配合清晰的吉他前奏与明确的后拍。录音中常有 Johnnie Johnson 弹钢琴。\n\n英国 beat 组合与后来的摇滚乐队大量翻唱这些 45 转单曲。《Johnny B. Goode》的双音前奏是摇滚中被模仿最多的吉他开头之一。"
+    "en": "In 1955 Berry released Maybellene with Chess Records and soon charted on US pop and R&B lists. Over the following years he issued Roll Over Beethoven, School Day, Rock and Roll Music, Sweet Little Sixteen, and Johnny B. Goode—among the most important songwriter-guitarist records of 1950s rock’n’roll.\n\nChess sessions were not one fixed band; Johnnie Johnson was a key long-term partner, with Willie Dixon, Fred Below and others on different dates.",
+    "zh": "1955 年，Berry 与 Chess Records 合作发行《Maybellene》，很快进入美国流行和 R&B 榜单。此后几年，他连续发行《Roll Over Beethoven》《School Day》《Rock and Roll Music》《Sweet Little Sixteen》和《Johnny B. Goode》等作品，成为 1950 年代摇滚乐最重要的创作者之一。\n\nChess 录音并非一支始终不变的固定乐队；Johnnie Johnson 是最重要的长期合作伙伴之一，Willie Dixon、Fred Below 等也出现在不同录音中。"
   },
   "narrative": [
     {
@@ -111,11 +109,21 @@
         "zh": "词曲作者与吉他手"
       },
       "body": {
-        "en": "Berry’s role in early rock’n’roll rests on two linked skills: writing short narrative verses and inventing guitar intros that other players can learn and reuse.\n\nStage moves such as the duck walk are part of the documented show. The Chess singles remain the primary source for how his writing and playing sound.",
-        "zh": "Berry 在早期摇滚中的位置建立在两项相关能力上：写短篇叙事主歌，以及写出其他乐手能学会并复用的吉他前奏。\n\n鸭步等舞台动作有表演记录可查。要听他的写法与弹法，仍以 Chess 单曲为第一手来源。"
+        "en": "Berry’s importance is not guitar technique alone.\n\nHis songs often use concrete subjects—people, cars, school, dances, life on the road—and put young listeners’ daily experience into rock songs. Maybellene is a car chase; School Day is student life; Johnny B. Goode follows a country boy learning guitar and hoping to become a musician.\n\nHis guitar playing is part of how those songs work. Chess cuts usually avoid heavy arrangement and let guitar riffs, rhythm, and voice drive the track.",
+        "zh": "Berry 的重要性不只在于吉他演奏。\n\n他的歌曲经常以具体人物、汽车、学校、舞会和巡演生活为题材，把当时年轻人的日常经验写进摇滚歌曲。《Maybellene》写汽车追逐，《School Day》写学生生活，《Johnny B. Goode》则以一个乡村少年学习弹吉他、希望成为音乐家的故事展开。\n\n与此同时，他的吉他演奏成为这些歌曲的重要组成部分。Berry 的录音通常不依赖复杂编曲，而是让吉他 riff、节奏和人声共同推动歌曲。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/chuck-berry-circa-1958.jpg",
+        "alt": {
+          "en": "Chuck Berry publicity photo, circa 1958",
+          "zh": "Chuck Berry 宣传照，约 1958"
+        },
+        "credit": "Pickwick Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chuck_Berry_circa_1958.jpg"
+      }
     },
     {
       "id": "scene-0",
@@ -124,12 +132,22 @@
         "zh": "《Maybellene》"
       },
       "body": {
-        "en": "Maybellene (1955) was Berry’s breakthrough Chess side. The lyric follows a car chase; the groove sits between country and R&B.\n\nIt established him as a writer of verse stories over a danceable rock’n’roll beat, not only as a guitar showman.",
-        "zh": "《Maybellene》（1955）是 Berry 在 Chess 的突破单曲。歌词写追车；节奏介于乡村与 R&B 之间。\n\n这首歌确立了他作为叙事词曲作者的位置：在可跳舞的摇滚节拍上讲故事，而不只是吉他表演。"
+        "en": "Maybellene (1955) was Berry’s breakthrough Chess single.\n\nIts musical base came from the country song Ida Red; Berry reworked it with new lyrics. Chess issued it under the title Maybellene. The cut joins country guitar and melody material with an R&B beat.\n\nThe car-chase story reached No. 5 on Billboard’s pop singles chart and No. 1 on the R&B chart—his first major commercial success.",
+        "zh": "《Maybellene》（1955）是 Berry 在 Chess Records 发行的突破性单曲。\n\n歌曲的音乐基础来自 country 歌曲《Ida Red》，Berry 将它重新编排，并加入新的歌词。Chess 发行时使用了《Maybellene》这个标题。录音把 country 的吉他和旋律材料与 R&B 的节奏结合起来。\n\n歌曲以汽车追逐为主题，最终登上 Billboard 流行单曲榜第 5 名，并在 R&B 榜获得第 1 名，成为 Berry 第一首重要商业成功的作品。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/chuck-berry-maybellene-ad-1955.jpg",
+        "alt": {
+          "en": "Billboard magazine ad for Chuck Berry’s Maybellene, 1955",
+          "zh": "Chuck Berry《Maybellene》Billboard 广告，1955"
+        },
+        "credit": "Chess Records / Billboard",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maybellene_-_Billboard_ad_1955.jpg"
+      }
     },
     {
       "id": "scene-1",
@@ -138,39 +156,69 @@
         "zh": "《Johnny B. Goode》"
       },
       "body": {
-        "en": "Johnny B. Goode (1958) opens with a double-stop guitar figure that later guitarists treat as standard practice material.\n\nThe lyric follows a Louisiana boy who plays guitar and aims for a larger stage. Chess’s recording keeps the arrangement clear and direct.",
-        "zh": "《Johnny B. Goode》（1958）以双音吉他乐句开场，后来的吉他手常把它当作基础练习材料。\n\n歌词写一个路易斯安那少年弹吉他、想上更大舞台。Chess 的录音编曲清晰、直接。"
+        "en": "Johnny B. Goode (1958) is among Berry’s best-known songs.\n\nIt tells of a guitarist from rural Louisiana who hopes to become a musician through playing. The lyric puts guitar, stage, and upward ambition in one story.\n\nThe recording centers on Berry’s electric guitar and voice; Johnnie Johnson’s piano is also a key part of this early sound. Rock & Roll Hall of Fame materials note that Johnson and Berry’s Chess partnership helped shape rhythmic patterns later rock players used. The opening guitar figure is one familiar entry point to Berry—not the only or universal “standard” source for rock intros.",
+        "zh": "《Johnny B. Goode》（1958）是 Berry 最著名的歌曲之一。\n\n歌曲讲述一个来自路易斯安那乡村地区的吉他手，希望凭借演奏成为音乐家的故事。歌词把吉他、舞台和向上流动的梦想放在同一个叙事中。\n\n录音以 Berry 的电吉他和人声为核心，Johnnie Johnson 的钢琴也是这套早期声音的重要组成部分。Rock & Roll Hall of Fame 的资料指出，Johnson 与 Berry 在 Chess 的合作共同形成了影响后世摇滚乐的节奏型。开头的吉他乐句是认识 Berry 音乐的一种常见入口，不宜写成摇滚吉他前奏的唯一或普遍「标准」来源。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/chuck-berry-johnny-b-goode-single.png",
+        "alt": {
+          "en": "US Chess single label for Johnny B. Goode",
+          "zh": "《Johnny B. Goode》美国 Chess 单曲标签"
+        },
+        "credit": "Chess Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Johnny_B_Goode_by_Chuck_Berry_US_single_side-A.png"
+      }
     },
     {
       "id": "dna",
       "title": {
-        "en": "Covers by British beat groups",
-        "zh": "英国 beat 组合的翻唱"
+        "en": "Influence on British rock",
+        "zh": "对英国摇滚的影响"
       },
       "body": {
-        "en": "In the early 1960s, UK beat groups often covered Berry before releasing originals. The Beatles and the Rolling Stones both recorded his songs.\n\nWhat traveled was concrete: lick-based intros, verse storytelling, and a guitar-fronted rock’n’roll band layout.",
-        "zh": "1960 年代初，英国 beat 组合常在发行原创前翻唱 Berry。《The Beatles》与《The Rolling Stones》都录过他的歌。\n\n被带走的是具体写法：以乐句为基础的前奏、叙事主歌，以及吉他靠前的摇滚乐队编制。"
+        "en": "Berry’s songs kept being played by a new generation of rock bands in the 1960s.\n\nThe Beatles, the Rolling Stones and other British acts recorded or performed his material. For them he offered more than cover repertoire: a mature rock song craft—clear guitar sections, direct rhythm, and lyrics about young people’s lives.\n\nHis catalog became one important source as 1960s British rock re-engaged American blues, R&B, and rock and roll.",
+        "zh": "Berry 的歌曲在 1960 年代被新一代摇滚乐队持续演奏。\n\nThe Beatles、The Rolling Stones 等英国乐队都录制或演出过他的作品。对这些乐队而言，Berry 提供的不只是几首可以翻唱的歌曲，也包括一种成熟的摇滚歌曲写法：明确的吉他段落、直接的节奏，以及以年轻人的生活为题材的歌词。\n\n他的作品因此成为 1960 年代英国摇滚乐重新理解美国 blues、R&B 和 rock and roll 时的重要来源之一。"
       },
       "stickyVisual": "dna",
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/chuck-berry-circa-1958.jpg",
+        "alt": {
+          "en": "Chuck Berry, circa 1958 — repertoire later covered in Britain",
+          "zh": "Chuck Berry，约 1958——其曲目后来被英国乐队翻唱"
+        },
+        "credit": "Pickwick Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chuck_Berry_circa_1958.jpg"
+      }
     },
     {
       "id": "quote",
       "title": {
-        "en": "Berry on guitar and show",
-        "zh": "Berry 谈吉他与表演"
+        "en": "Guitar, stage, and image",
+        "zh": "吉他、舞台与形象"
       },
       "body": {
-        "en": "In interviews Berry often stresses the guitar and the stage act together: double-stops and the duck walk as practical parts of the show.\n\nThe records still come first for hearing how the songs were built.",
-        "zh": "采访中 Berry 常把吉他与舞台动作放在一起谈：双音与鸭步都是表演的实际组成部分。\n\n要听清歌曲怎么写成，仍以唱片为准。"
+        "en": "Berry’s stage act was part of his public image.\n\nOne of the best-known moves is the duck walk, later a signature of his shows and documented in the 1959 Newport Jazz Festival film Jazz on a Summer’s Day.\n\nHis influence cannot be reduced to that move. For later players, the lasting part is the songs: guitar riffs, clear rhythm, concise form, and song shapes other bands can play directly.",
+        "zh": "Berry 的舞台表演也是其公众形象的一部分。\n\n他最著名的动作之一是 duck walk。这个动作后来成为 Berry 演出的标志，并被 1959 年 Newport Jazz Festival 的纪录片《Jazz on a Summer's Day》记录下来。\n\n但 Berry 的影响不能只归结为这个动作。对后来乐手而言，更持久的部分来自他的歌曲：吉他 riff、明确的节奏、简洁的结构，以及能够直接被其他乐队演奏的歌曲形式。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/chuck-berry-1971-live.jpg",
+        "alt": {
+          "en": "Chuck Berry performing, 1971",
+          "zh": "Chuck Berry 舞台演出，1971"
+        },
+        "credit": "1950s Rock & Roll Revival promotional photo",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chuck_Berry_1971.jpg"
+      }
     }
   ],
   "landmark": {
@@ -178,26 +226,26 @@
       "title": "Johnny B. Goode",
       "year": 1958,
       "note": {
-        "en": "Double-stop intro and guitar-kid lyric; a lasting reference for rock guitar openings.",
-        "zh": "双音前奏与吉他少年歌词；摇滚吉他开头的长期参照。"
+        "en": "Rock song with a guitarist as protagonist. Opening guitar figure, clear rhythm, and narrative lyric are a common entry to Berry’s music.",
+        "zh": "以吉他手为主人公的摇滚歌曲。开头的吉他乐句、清晰的节奏型和叙事歌词，后来成为认识 Berry 音乐的一种典型入口。"
       }
     },
     "pioneeredGenres": [
       "rock-n-roll"
     ],
     "note": {
-      "en": "Chess-era singles that linked narrative lyrics, guitar intros, and a portable stage act.",
-      "zh": "Chess 时期单曲：叙事歌词、吉他前奏与可复用的舞台动作连在一起。"
+      "en": "Berry combined blues, country, and R&B with guitar, short narratives, and lyrics aimed at young listeners. Chess sides were later replayed by many rock musicians.",
+      "zh": "Berry 把 blues、country 和 R&B 的元素结合起来，用吉他、短篇叙事和面向年轻听众的歌词建立了自己的写作方式。Chess 的一系列录音后来被许多摇滚乐手重新演奏。"
     }
   },
   "lineupVersions": [
     {
       "id": "peak",
       "label": {
-        "en": "Chuck + classic rock and roll band",
-        "zh": "Chuck + 经典摇滚乐队"
+        "en": "Chess sessions · 1955–1959",
+        "zh": "Chess 录音 · 1955–1959"
       },
-      "years": "1955–1965",
+      "years": "1955–1959",
       "peak": true,
       "members": [
         {
@@ -213,13 +261,13 @@
           "role": "Bass"
         },
         {
-          "name": "Ebby Hardy",
+          "name": "Fred Below",
           "role": "Drums"
         }
       ],
       "note": {
-        "en": "Berry on vocals and guitar with Chicago session rhythm; Johnnie Johnson on piano on many Chess dates.",
-        "zh": "Berry 主唱与吉他，配芝加哥录音室节奏段；多场 Chess 录音由 Johnnie Johnson 弹钢琴。"
+        "en": "Chess recordings were not one unchanging band; different dates used different players. Johnnie Johnson was a key long-term partner; session lists also name Willie Dixon, Fred Below and others on various cuts.",
+        "zh": "Berry 在 Chess 的录音并不是由一支始终不变的固定乐队完成。不同录音使用过不同的伴奏乐手。\n\nJohnnie Johnson 是其中最重要的长期合作伙伴之一。Chess 相关唱片资料还列出了 Willie Dixon、Fred Below 等参与不同录音的乐手。"
       }
     }
   ]

@@ -423,7 +423,9 @@ export function BandNarrative({
       <header className="relative flex min-h-[100dvh] flex-col justify-center border-b-2 border-ink px-4 py-20 sm:px-6">
         <div className="mx-auto w-full max-w-6xl">
           <p className="text-xs font-medium uppercase tracking-[0.25em] text-accent">
-            {t.band.decisiveBand} · {eraLabel}
+            {band.pageEyebrow
+              ? loc(band.pageEyebrow, locale)
+              : `${t.band.decisiveBand} · ${eraLabel}`}
           </p>
           <h1 className="font-display mt-4 max-w-4xl text-5xl leading-[0.95] font-semibold tracking-tight sm:text-7xl">
             {band.name}

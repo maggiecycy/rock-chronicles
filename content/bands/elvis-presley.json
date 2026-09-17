@@ -7,9 +7,13 @@
   "genres": [
     "rock-n-roll"
   ],
+  "pageEyebrow": {
+    "en": "Key figure · Roots & Rock'n'Roll",
+    "zh": "关键人物 · 根源与摇滚乐"
+  },
   "whyMatters": {
-    "en": "Memphis singer filed as a band node. 1954–58 Sun and RCA singles carried rock’n’roll to a national US audience through radio, television, and film.",
-    "zh": "以乐队节点收录的孟菲斯歌手。1954–58 年 Sun 与 RCA 单曲经电台、电视与电影，把摇滚带给全美听众。"
+    "en": "Presley is one of the key figures through whom 1950s rock’n’roll entered US mainstream pop culture. Early records came from Sun in Memphis; after the 1955 move to RCA, national distribution and TV exposure grew. In 1954–58, Scotty Moore, Bill Black, and D.J. Fontana were his closest early collaborators. This site files him as a person node (singer/actor), not as a band named Elvis.",
+    "zh": "Presley 是 1950 年代摇滚乐进入美国主流流行文化的重要人物之一。他的早期录音来自孟菲斯 Sun Records；1955 年转入 RCA 后，唱片发行和全国电视曝光进一步扩大。1954–58 年间，Scotty Moore、Bill Black 和 D.J. Fontana 是与他合作最密切的早期乐手。本站将其作为歌手／演员人物节点收录，而非一支名为 Elvis 的乐队。"
   },
   "members": [
     {
@@ -37,30 +41,35 @@
       "year": 1954,
       "track": "That's All Right",
       "membersOnStage": [
-        "Elvis Presley"
+        "Elvis Presley",
+        "Scotty Moore",
+        "Bill Black"
       ],
       "genreTags": [
         "rock-n-roll"
       ],
       "intensity": 2,
       "note": {
-        "en": "1954 Sun Records side with Scotty Moore and Bill Black; early national radio play from Memphis.",
-        "zh": "1954 年 Sun Records 录音，配 Scotty Moore 与 Bill Black；自孟菲斯进入全国电台播放。"
+        "en": "Sun Records session: Presley sings and plays guitar; Scotty Moore on electric guitar; Bill Black on bass.",
+        "zh": "Sun Records 录音。Presley 演唱并弹吉他，Scotty Moore 弹电吉他，Bill Black 演奏贝斯。"
       }
     },
     {
       "year": 1956,
       "track": "Hound Dog",
       "membersOnStage": [
-        "Elvis Presley"
+        "Elvis Presley",
+        "Scotty Moore",
+        "Bill Black",
+        "D.J. Fontana"
       ],
       "genreTags": [
         "rock-n-roll"
       ],
       "intensity": 3,
       "note": {
-        "en": "1956 RCA hit; national TV appearances made the performance widely visible.",
-        "zh": "1956 年 RCA 热单；全国电视演出使表演被广泛看见。"
+        "en": "RCA single. Presley’s cut followed Freddie Bell and the Bellboys’ rewrite more than a direct copy of Big Mama Thornton; national TV (Milton Berle, Ed Sullivan) widened its reach.",
+        "zh": "RCA 单曲。Presley 的版本受到 Freddie Bell and the Bellboys 演出版本影响，并通过电视演出获得全国性曝光。"
       }
     }
   ],
@@ -68,14 +77,12 @@
     {
       "text": "I don't know anything about music. In my line you don't have to.",
       "speaker": "Elvis Presley",
-      "source": "Widely cited remark · quote wall",
-      "year": 1957
+      "source": "Widely attributed; year and primary source vary by citation"
     },
     {
-      "text": "Rhythm is something you either have or don't have.",
+      "text": "Rhythm is something you either have or don't have, but when you have it, you have it all over.",
       "speaker": "Elvis Presley",
-      "source": "Press interview excerpt",
-      "year": 1956
+      "source": "Often dated 1956 Jacksonville interview; primary source claims vary"
     }
   ],
   "lyricQuotes": [
@@ -92,27 +99,37 @@
     "the-rolling-stones"
   ],
   "shortBio": {
-    "en": "Memphis rock’n’roll, 1954–77. That’s All Right, Hound Dog, and Jailhouse Rock mark the early national years.",
-    "zh": "孟菲斯摇滚，1954–77。《That’s All Right》、《Hound Dog》与《Jailhouse Rock》标记早期全国时期。"
+    "en": "American singer and actor. 1954 Sun sessions in Memphis with Scotty Moore and Bill Black; RCA from late 1955; national hits in 1956.",
+    "zh": "美国歌手、演员。1954 年孟菲斯 Sun 录音，配 Scotty Moore 与 Bill Black；1955 年底转 RCA；1956 年进入全国流行市场。"
   },
   "decisive": true,
   "body": {
-    "en": "Elvis Presley began recording at Sun Records in Memphis in 1954 with guitarist Scotty Moore and bassist Bill Black. The early sides combine country and R&B material at a faster rock’n’roll pace. RCA signed him in 1955 and pushed the records onto national radio and television; film roles followed in the late 1950s.\n\nThat’s All Right (1954), Hound Dog (1956), and Jailhouse Rock (1957) are the main early reference singles on this page. Later Las Vegas and comeback periods are separate chapters; the focus here is the 1954–58 rock’n’roll set.",
-    "zh": "Elvis Presley 于 1954 年在孟菲斯 Sun Records 开始录音，吉他手为 Scotty Moore，贝斯手为 Bill Black。早期作品把乡村与 R&B 材料放在更快的摇滚速度上。1955 年与 RCA 签约后，唱片进入全国电台与电视；1950 年代末起参与电影。\n\n本页早期主要参照单曲为《That’s All Right》（1954）、《Hound Dog》（1956）与《Jailhouse Rock》（1957）。后期拉斯维加斯与复出是另章；此处聚焦 1954–58 的摇滚作品。"
+    "en": "In 1954 Presley began recording at Sun Records in Memphis. Scotty Moore and Bill Black played on the earliest sessions and shows; D.J. Fontana joined later. In late 1955 his contract moved to RCA; in 1956 Heartbreak Hotel, Hound Dog and related singles made him a national pop singer.\n\nThis page treats him as a singer with a working band, not as a group named “Elvis.” The early lineup focus is 1954–58 with Moore, Black, and Fontana—not the later TCB Band (1969).",
+    "zh": "1954 年，Presley 在孟菲斯 Sun Records 开始录音。Scotty Moore 和 Bill Black 参与了最早的录音与演出，D.J. Fontana 随后加入。1955 年底，Presley 的合约转至 RCA；1956 年，他凭借《Heartbreak Hotel》《Hound Dog》等作品成为全国性的流行歌手。\n\n本页按歌手与合作乐手来写，而不是一支名为「Elvis」的固定乐队。早期阵容聚焦 1954–58 的 Moore、Black 与 Fontana——不是 1969 年才成立的 TCB Band。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "National audience, 1954–58",
-        "zh": "全国听众，1954–58"
+        "en": "From Memphis to a national audience",
+        "zh": "从孟菲斯到全国"
       },
       "body": {
-        "en": "On this site Elvis is the early case where a regional Southern mix of country and R&B reached a mass US youth audience through new media: radio, network TV, and Hollywood film.\n\nThe chronicle object is the early singles catalog and the Moore/Black/(later) Fontana band sound behind the voice.",
-        "zh": "在本站，Elvis 是早期案例：南方地区的乡村与 R&B 混成，经电台、全国电视与好莱坞电影到达美国大众青年听众。\n\n编年对象是早期单曲目录，以及人声背后的 Moore/Black（其后含 Fontana）乐队声音。"
+        "en": "The 1954 Sun sessions were mainly a Memphis story. Presley then widened his audience through Southern tours, radio, and record releases.\n\nAfter RCA bought his contract in 1955, distribution scaled up. In 1956 Heartbreak Hotel was his first RCA single and a key step into the national pop market.\n\nThis site’s early lineup record centers on Presley, Scotty Moore, Bill Black, and D.J. Fontana. Moore, Black, and Fontana still worked with him in the late 1950s; Moore and Black left in 1958.",
+        "zh": "1954 年的 Sun 录音主要发生在孟菲斯。随后，Presley 通过南方巡演、广播节目和唱片发行逐渐扩大听众范围。\n\n1955 年 RCA 买下他的合约后，他的唱片发行规模进一步扩大。1956 年，《Heartbreak Hotel》成为他的首支 RCA 单曲，也是他进入全国流行市场的重要节点。\n\n本站的早期阵容记录以 Presley、Scotty Moore、Bill Black 和 D.J. Fontana 为主。Moore、Black 和 Fontana 在 1950 年代后期仍与 Presley 一起演出和录音，Moore 和 Black 于 1958 年离开。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/elvis-presley-publicity-1956.jpg",
+        "alt": {
+          "en": "Elvis Presley publicity photo, 1956",
+          "zh": "Elvis Presley 宣传照，1956"
+        },
+        "credit": "Edward Roth",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elvis_Presley_Publicity_Photo,_1956.jpg"
+      }
     },
     {
       "id": "scene-0",
@@ -121,12 +138,22 @@
         "zh": "《That’s All Right》"
       },
       "body": {
-        "en": "That’s All Right (1954) was cut at Sun in Memphis. The session takes Arthur Crudup’s blues material at a brighter tempo, with Moore’s electric guitar and Presley’s vocal attack.\n\nLocal airplay spread quickly; the side marks the start of his commercial recording career.",
-        "zh": "《That’s All Right》（1954）录于孟菲斯 Sun。录音把 Arthur Crudup 的蓝调材料提速，配 Moore 的电吉他与 Presley 的人声。\n\n本地电台播放很快扩大；这首单曲标志着他商业录音生涯的开始。"
+        "en": "That’s All Right (1954) comes from blues singer Arthur “Big Boy” Crudup.\n\nOn Sun’s first formal session, Presley sang and played guitar, Scotty Moore played electric guitar, and Bill Black played bass. After the cut, Sun issued the single; Memphis DJ Dewey Phillips played it, and local attention followed quickly.\n\nThe other side was Bill Monroe’s Blue Moon of Kentucky. Together the two sides show early Presley using both blues and country material.",
+        "zh": "《That’s All Right》（1954）原作来自蓝调歌手 Arthur “Big Boy” Crudup。\n\n在 Sun 的第一次正式录音中，Presley 演唱并弹吉他，Scotty Moore 弹电吉他，Bill Black 演奏贝斯。录音完成后，Sun 将其发行；孟菲斯电台 DJ Dewey Phillips 播放了这首歌，使它很快获得当地听众的注意。\n\n同一时期发行的另一面是 Bill Monroe 的《Blue Moon of Kentucky》。这两首歌放在一起，可以看出 Presley 早期作品同时使用了 blues 与 country 的材料。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/elvis-presley-scotty-moore.jpg",
+        "alt": {
+          "en": "Elvis Presley with guitarist Scotty Moore",
+          "zh": "Elvis Presley 与吉他手 Scotty Moore"
+        },
+        "credit": "Uncredited press photo",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elvis_and_Scotty_Moore_(cropped).jpg"
+      }
     },
     {
       "id": "scene-1",
@@ -135,39 +162,69 @@
         "zh": "《Hound Dog》"
       },
       "body": {
-        "en": "Hound Dog (1956) is an RCA-period hit based on the Big Mama Thornton recording, rearranged for Presley’s band and vocal.\n\nTelevision performances of the song were widely seen and debated; the arrangement itself stays short, riff-led, and built for a national pop audience.",
-        "zh": "《Hound Dog》（1956）是 RCA 时期热单，改编自 Big Mama Thornton 的录音，按 Presley 乐队与人声重新编曲。\n\n该曲的电视演出被广泛观看并引发争论；编曲本身短、以 riff 带动，面向全国流行听众。"
+        "en": "Hound Dog was first recorded by Big Mama Thornton in 1952. The version Presley used in 1956 was shaped by Freddie Bell and the Bellboys’ rewritten live arrangement in Las Vegas—not a straight lift of Thornton’s record alone.\n\nIn June 1956 he performed it on The Milton Berle Show, then repeatedly on The Ed Sullivan Show. The first Sullivan appearance on 9 September 1956 was reported to draw about 60 million viewers. The 6 January 1957 Sullivan broadcast, shot from the waist up, became a well-known case of TV framing and censorship.",
+        "zh": "《Hound Dog》最早由 Big Mama Thornton 于 1952 年录制。Presley 在 1956 年采用的版本，则受到 Freddie Bell and the Bellboys 在拉斯维加斯演出的改写版本影响。\n\n1956 年 6 月，Presley 在《The Milton Berle Show》演出《Hound Dog》，随后又在《The Ed Sullivan Show》的多次节目中演出这首歌。\n\n其中 1956 年 9 月 9 日的首次《Ed Sullivan Show》演出，据当时统计吸引约 6000 万名观众观看。1957 年 1 月 6 日的最后一次演出则因电视摄影只拍摄他的上半身而成为著名的电视审查案例。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/elvis-presley-ed-sullivan-1956.jpg",
+        "alt": {
+          "en": "Elvis Presley with Ed Sullivan, October 1956",
+          "zh": "Elvis Presley 与 Ed Sullivan，1956 年 10 月"
+        },
+        "credit": "CBS",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elvis_Presley_and_Ed_Sullivan_October_1956.jpg"
+      }
     },
     {
       "id": "dna",
       "title": {
-        "en": "Singer, band, and media",
-        "zh": "歌手、乐队与媒介"
+        "en": "Singer and working musicians",
+        "zh": "歌手与乐队"
       },
       "body": {
-        "en": "Later rock acts often follow a pattern visible here: a front-line singer as the public face, with a working band for records and tours, plus radio, TV, and film as distribution channels.\n\nMusically, the early sides rest on Southern country and R&B contact—Moore’s guitar lines and Black’s slap bass under Presley’s vocal—more than on any single invented style name.",
-        "zh": "后来的摇滚艺人常沿用此处可见的编制：主唱作公开形象，录音与巡演由固定乐队支撑，再经电台、电视与电影发行。\n\n音乐上，早期作品建立在南方乡村与 R&B 的接触上——Moore 的吉他线、Black 的 slap 贝斯托住 Presley 的人声——多于依赖某一个发明出来的风格名称。"
+        "en": "In the 1950s Presley did not tour as a fixed act called “the Elvis band.” He worked as a singer with regular session and road players.\n\nThe three most important early musicians were Scotty Moore (guitar), Bill Black (bass), and D.J. Fontana (drums). They worked with him from the early Sun period into around 1958 and are central to his early sound.\n\nThat early lineup is not the TCB Band. The TCB Band formed in 1969 after Presley returned to live performance, and should not be mixed into the 1954–58 roster.",
+        "zh": "1950 年代的 Presley 并不是以一支固定名称的「Elvis 乐队」活动，而是以歌手身份与固定合作乐手共同录音和巡演。\n\n早期最重要的三位乐手是 Scotty Moore、Bill Black 和 D.J. Fontana。Moore 负责吉他，Black 负责贝斯，Fontana 负责鼓。他们从早期 Sun 录音一直合作到 1958 年前后，是 Presley 早期声音的重要组成部分。\n\n这支早期阵容与后来的 TCB Band 不是同一支乐队。TCB Band 成立于 1969 年 Presley 重返现场演出之后，因此不应与 1954–58 年的阵容混在一起。"
       },
       "stickyVisual": "dna",
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/elvis-presley-tv-radio-mirror-1956.jpg",
+        "alt": {
+          "en": "Elvis Presley with band, TV Radio Mirror, September 1956",
+          "zh": "Elvis Presley 与乐队，《TV Radio Mirror》1956 年 9 月"
+        },
+        "credit": "TV Radio Mirror / uncredited",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elvis_Presley_-_TV_Radio_Mirror,_September_1956_01.jpg"
+      }
     },
     {
       "id": "quote",
       "title": {
-        "en": "Press soundbites",
-        "zh": "媒体原话"
+        "en": "Media and performance",
+        "zh": "媒体与表演"
       },
       "body": {
-        "en": "Press quotes from the mid-1950s are plentiful. The more useful ones describe repertoire choice, rhythm, and how he talked about the work in public.\n\nFor sound and arrangement, the Sun and early RCA sides remain the primary evidence.",
-        "zh": "1950 年代中期的媒体引语很多。较有用的部分谈曲目选择、节奏，以及他如何公开谈论工作。\n\n要听声音与编曲，仍以 Sun 与早期 RCA 单曲为第一手证据。"
+        "en": "National fame did not come from records alone.\n\nIn 1956 he appeared on Stage Show, The Milton Berle Show, The Steve Allen Show, and The Ed Sullivan Show. Records, tours, and television together expanded his public reach.\n\nFor the music of this period, the Sun sides and 1950s RCA singles are the direct evidence. Television adds another layer: stage moves, band setup, and how the act looked on camera.",
+        "zh": "Presley 的全国知名度并不只来自唱片。\n\n1956 年，他先后出现在《Stage Show》《The Milton Berle Show》《The Steve Allen Show》和《The Ed Sullivan Show》等电视节目中。唱片、巡演和电视演出共同扩大了他的公众影响力。\n\n对于这一时期的音乐，Sun 录音以及 1950 年代的 RCA 单曲是更直接的材料。电视节目则提供了另一种信息：观众可以看到他的舞台动作、乐队编制和当时的表演方式。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 0,
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/elvis-presley-olympia-1956.jpg",
+        "alt": {
+          "en": "Elvis Presley at the Olympia Theater, Miami, 3 August 1956",
+          "zh": "Elvis Presley 在迈阿密 Olympia Theater，1956 年 8 月 3 日"
+        },
+        "credit": "Don Wright / Miami Herald",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elvis_Presley_at_Olympia_Theater,_Aug_3,_1956.jpg"
+      }
     }
   ],
   "landmark": {
@@ -175,24 +232,24 @@
       "title": "That's All Right",
       "year": 1954,
       "note": {
-        "en": "Sun Studios, Memphis: country and R&B material at rock’n’roll tempo on regional then national radio.",
-        "zh": "孟菲斯 Sun 录音室：乡村与 R&B 材料以摇滚速度，经地方再进全国电台。"
+        "en": "Recorded July 1954 at Sun in Memphis: Presley singing Crudup’s blues song, Scotty Moore on electric guitar, Bill Black on bass.",
+        "zh": "《That's All Right》录于 1954 年 7 月的孟菲斯 Sun 录音室。Presley 演唱 Arthur Crudup 的蓝调歌曲，Scotty Moore 弹电吉他，Bill Black 演奏贝斯。"
       }
     },
     "pioneeredGenres": [
       "rock-n-roll"
     ],
     "note": {
-      "en": "Early rock’n’roll brought to a mass US audience through Sun, RCA, radio, TV, and film.",
-      "zh": "经 Sun、RCA、电台、电视与电影，把早期摇滚带给美国大众听众。"
+      "en": "Presley, Moore, and Black’s early Sun sides are a key case in how 1950s rock’n’roll formed—drawing on blues, country, and R&B rather than one single source.",
+      "zh": "Presley、Moore 和 Black 在 Sun 的早期录音，是 1950 年代摇滚乐形成过程中的重要案例。这里的声音同时受到 blues、country 和 R&B 的影响，很难归结为单一音乐来源。"
     }
   },
   "lineupVersions": [
     {
       "id": "peak",
       "label": {
-        "en": "Sun / early RCA + TCB orbit",
-        "zh": "Sun / 早期 RCA + TCB 轨道"
+        "en": "Sun / RCA · 1954–1958",
+        "zh": "Sun / RCA · 1954–1958"
       },
       "years": "1954–1958",
       "peak": true,
@@ -215,8 +272,8 @@
         }
       ],
       "note": {
-        "en": "Moore, Black, and Fontana as the core early rockabilly band behind the vocal.",
-        "zh": "Moore、Black 与 Fontana 组成早期 rockabilly 核心乐队，托住主唱。"
+        "en": "Early regular collaborators on records and shows. Moore and Black left Presley’s team in 1958. Not the 1969 TCB Band.",
+        "zh": "Presley 的早期固定合作阵容。Scotty Moore、Bill Black 和 D.J. Fontana 参与这一时期的录音与现场演出。Moore 和 Black 于 1958 年离开 Presley 的团队。"
       }
     }
   ]

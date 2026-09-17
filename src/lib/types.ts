@@ -133,6 +133,11 @@ export interface Band {
   body: Localized;
   accentColor?: string;
   decisive?: boolean;
+  /**
+   * Optional hero eyebrow. When set, replaces the default
+   * “Decisive Band · {era}” line (useful for solo artists filed as band nodes).
+   */
+  pageEyebrow?: Localized;
   whyMatters?: Localized;
   scenes?: BandScene[];
   interviewQuotes?: InterviewQuote[];

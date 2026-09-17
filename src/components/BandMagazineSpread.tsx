@@ -28,7 +28,9 @@ export function BandMagazineSpread({
     <div className="grid gap-0 lg:grid-cols-2 lg:border-2 lg:border-ink">
       <aside className="border-2 border-ink bg-paper-deep/50 p-6 sm:p-8 lg:border-0 lg:border-r-2">
         <p className="text-xs font-medium uppercase tracking-[0.2em] text-muted">
-          {t.band.decisiveBand}
+          {band.pageEyebrow
+            ? loc(band.pageEyebrow, locale)
+            : t.band.decisiveBand}
         </p>
         <h1 className="font-display mt-3 text-4xl font-semibold leading-none tracking-tight sm:text-5xl">
           {band.name}

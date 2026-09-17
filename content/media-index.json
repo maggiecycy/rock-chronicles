@@ -3,12 +3,12 @@
     "elvis-presley": {
       "src": "/media/bands/elvis-presley.jpg",
       "alt": {
-        "en": "Elvis performing live at the Mississippi-Alabama Fairgrounds in Tupelo, Mississippi, September 26, 1956",
+        "en": "Elvis Presley publicity photo, 1956",
         "zh": "Elvis Presley（Wikimedia Commons）"
       },
-      "credit": "https://archive.org/stream/radiotvmirr00mac#page/n225/mode/2up",
+      "credit": "Edward Roth",
       "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elvis_Presley_-_TV_Radio_Mirror,_March_1957_01.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elvis_Presley_Publicity_Photo,_1956.jpg"
     },
     "king-crimson": {
       "src": "/media/bands/king-crimson.jpg",
@@ -161,14 +161,14 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Sabbath_(1970).jpg"
     },
     "chuck-berry": {
-      "src": "/media/bands/chuck-berry.jpg",
+      "src": "/media/bands/chuck-berry-circa-1958.jpg",
       "alt": {
-        "en": "Chuck Berry performing in 1971",
+        "en": "Chuck Berry publicity photo, circa 1958",
         "zh": "Chuck Berry（Wikimedia Commons）"
       },
-      "credit": "1950s Rock & Roll Revival promotional photo",
+      "credit": "Pickwick Records",
       "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chuck_Berry_1971.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chuck_Berry_circa_1958.jpg"
     },
     "cream": {
       "src": "/media/bands/cream.jpg",
