@@ -2,15 +2,16 @@
   "name": "Dire Straits",
   "slug": "dire-straits",
   "formed": 1977,
-  "origin": "Newcastle, UK",
+  "origin": "London, UK",
   "primaryEra": "1970s-prog-hard-rock",
   "genres": [
-    "hard-rock"
+    "hard-rock",
+    "rock-n-roll"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "British band formed in 1977. Mark Knopfler’s fingerstyle Telecaster and narrative lyrics define the early sound; Sultans of Swing (1978) put clean tone on late-1970s AOR radio beside louder hard rock.",
-    "zh": "英国乐队，1977 年成立。Mark Knopfler 的指弹 Telecaster 与叙事歌词构成早期声音；Sultans of Swing（1978）把干净音色送上 1970 年代末 AOR 电台，与更响的硬摇滚并列。"
+    "en": "British band formed in 1977. Mark Knopfler’s fingerstyle Telecaster and narrative lyrics; Sultans of Swing (1978) put clean tone on late-1970s AOR. Brothers in Arms (1985) sold about 30 million and was an early CD million-seller.",
+    "zh": "英国乐队，1977 年成立。Mark Knopfler 的指弹 Telecaster 与叙事歌词；《Sultans of Swing》（1978）把干净音色送上 1970 年代末 AOR。《Brothers in Arms》（1985）约售 3000 万，是早期 CD 百万销量专辑之一。"
   },
   "members": [
     {
@@ -35,9 +36,24 @@
       "years": "1977–1982"
     },
     {
+      "name": "Hal Lindes",
+      "role": "Rhythm Guitar",
+      "years": "1980–1985"
+    },
+    {
       "name": "Alan Clark",
       "role": "Keyboards",
       "years": "1980–1995"
+    },
+    {
+      "name": "Terry Williams",
+      "role": "Drums",
+      "years": "1982–1989"
+    },
+    {
+      "name": "Guy Fletcher",
+      "role": "Keyboards",
+      "years": "1984–1995"
     }
   ],
   "essentialTracks": [
@@ -48,6 +64,10 @@
     {
       "title": "Romeo and Juliet",
       "year": 1980
+    },
+    {
+      "title": "Private Investigations",
+      "year": 1982
     },
     {
       "title": "Money for Nothing",
@@ -65,7 +85,8 @@
   "relatedBands": [
     "fleetwood-mac",
     "the-police",
-    "cream"
+    "cream",
+    "pink-floyd"
   ],
   "influenceFrom": [
     "the-jimi-hendrix-experience",
@@ -77,12 +98,12 @@
     "arctic-monkeys"
   ],
   "shortBio": {
-    "en": "Newcastle four; Knopfler fingerstyle Telecaster; Sultans of Swing as the 1978 AOR landmark.",
-    "zh": "纽卡斯尔四人组；Knopfler 指弹 Telecaster；Sultans of Swing 是 1978 年 AOR 地标。"
+    "en": "Knopfler brothers / Illsley / Withers debut; Making Movies peak writing; Brothers in Arms CD-era sales; Knopfler then solo and Notting Hillbillies.",
+    "zh": "Knopfler 兄弟 / Illsley / Withers 首专；《Making Movies》写作高峰；《Brothers in Arms》CD 期销量；其后 Knopfler 单飞与 Notting Hillbillies。"
   },
   "body": {
-    "en": "Dire Straits formed in 1977 in the Deptford/Newcastle circle. The debut album Dire Straits (1978, produced with Muff Winwood) put Knopfler’s pickless fingerstyle—Strat/Tele through clean Fender amps—against pub-rock storytelling. Sultans of Swing is the citation track: Dorian melody lines over Illsley/Withers pocket, without a fuzz wall.\n\nMaking Movies (1980) and Brothers in Arms (1985, digital recording; Sting guest vocal on Money for Nothing) scaled the band to MTV and stadium audiences. Core craft remains guitar tone and narrative verse more than riff density.",
-    "zh": "Dire Straits 于 1977 年在 Deptford/纽卡斯尔圈子组建。首张专辑 Dire Straits（1978，Muff Winwood 参与制作）把 Knopfler 的无拨指弹——Strat/Tele 进干净 Fender 箱头——对准 pub-rock 叙事。Sultans of Swing 是引用曲：Dorian 旋律线压在 Illsley/Withers 口袋拍上，没有 fuzz 墙。\n\nMaking Movies（1980）与 Brothers in Arms（1985，数码录音；Sting 客串 Money for Nothing）把乐队扩到 MTV 与体育场听众。核心工艺仍是吉他音色与叙事主歌，多于 riff 密度。"
+    "en": "Mark and David Knopfler played guitar from childhood; after David moved to London they formed a band with roommate John Illsley on bass and Pick Withers on drums. Withers named them Dire Straits. A five-song demo and BBC play of Sultans of Swing brought a Vertigo (Philips) deal. The 1978 debut Dire Straits reached US No.2—higher than the UK peak—during disco’s commercial height. On the US tour Bob Dylan invited Mark and Pick onto Slow Train Coming; Dylan said Mark helped him play at his best.\n\nDavid left during Making Movies (1980) over songs left off Communiqué (1979); Sid McGinnis re-recorded some of his parts. Romeo and Juliet hit the UK Top 10. Hal Lindes took rhythm guitar; Alan Clark joined on keys. Love Over Gold (1982)—five tracks including Telegraph Road and Private Investigations—was the first UK No.1 album; Alchemy (1984) documented larger shows. Withers quit in 1983 over rearranged live sets; Terry Williams (ex–Man) replaced him.\n\nBrothers in Arms (1985) topped charts worldwide. Philips pushed the CD: about 54 minutes without quality loss, and one of the first discs to sell over a million. On Every Street (1991) underperformed; Knopfler moved on—The Notting Hillbillies’ Missing… Presumed Having a Good Time (1990) hit UK No.2, then solo work with Chet Atkins and Emmylou Harris. On the Night (1993) is the main live document of the later band. Unwilling to reunite Dire Straits, Alan Clark and others (including Steve Ferrone from Tom Petty’s band) toured as The Straits. Paleontologists later named a dinosaur Knopfleri after hearing the band; Mark joked the name fit but he was not fierce.",
+    "zh": "Mark 与 David Knopfler 自幼学吉他；David 移居伦敦后与室友贝斯手 John Illsley、鼓手 Pick Withers 组队。Withers 取名 Dire Straits。五首歌样带与 BBC 播放《Sultans of Swing》后签约 Vertigo（Philips）。1978 年首专《Dire Straits》美榜第 2——高于英榜——正值迪斯科商业高峰。美国巡演时 Bob Dylan 邀请 Mark 与 Pick 参与《Slow Train Coming》；Dylan 说 Mark 帮他发挥出最好水平。\n\nDavid 因《Communiqué》（1979）未收其歌，在录制《Making Movies》（1980）时离队；部分声部由 Sid McGinnis 重录。《Romeo and Juliet》进英榜前 10。Hal Lindes 任节奏吉他，Alan Clark 加入键盘。《Love Over Gold》（1982）——仅五首，含《Telegraph Road》《Private Investigations》——成首张英国冠军专辑；《Alchemy》（1984）记录更大场次。Withers 因不喜为演唱会改编曲目于 1983 年退出，由前 Man 乐队的 Terry Williams 接任。\n\n《Brothers in Arms》（1985）登上全球榜首。Philips 主推 CD：约 54 分钟音质无损，并成为首批销量破百万的光盘之一。《On Every Street》（1991）表现不佳；Knopfler 转向——Notting Hillbillies 的《Missing… Presumed Having a Good Time》（1990）英榜第 2，再与 Chet Atkins、Emmylou Harris 合作个人作品。《On the Night》（1993）是后期主要现场文献。Knopfler 不愿重组 Dire Straits，Alan Clark 等（含 Tom Petty 乐队鼓手 Steve Ferrone）以 The Straits 巡演。古生物学家后来因听该乐队歌曲将一恐龙命名为 Knopfleri；Mark 笑称名字合适，但自己并不凶恶。"
   },
   "scenes": [
     {
@@ -95,7 +116,7 @@
         "Pick Withers"
       ],
       "genreTags": [
-        "hard-rock"
+        "rock-n-roll"
       ],
       "intensity": 2,
       "note": {
@@ -113,12 +134,12 @@
         "Alan Clark"
       ],
       "genreTags": [
-        "hard-rock"
+        "rock-n-roll"
       ],
       "intensity": 1,
       "note": {
-        "en": "National resonator intro; ballad dynamics before Brothers in Arms scale.",
-        "zh": "National 共鸣琴 intro；Brothers in Arms 扩容前的谣曲动态。"
+        "en": "From Making Movies; UK Top 10. Often cited as the band’s strongest album.",
+        "zh": "出自《Making Movies》；英榜前 10。常被称作乐队最强专辑。"
       }
     },
     {
@@ -127,15 +148,17 @@
       "membersOnStage": [
         "Mark Knopfler",
         "John Illsley",
-        "Alan Clark"
+        "Alan Clark",
+        "Terry Williams",
+        "Guy Fletcher"
       ],
       "genreTags": [
         "hard-rock"
       ],
       "intensity": 3,
       "note": {
-        "en": "Gibson Les Paul and gated synth texture; MTV-era radio hit.",
-        "zh": "Gibson Les Paul 与门限 synth 质感；MTV 期电台热单。"
+        "en": "Brothers in Arms MTV-era hit; gated synth and louder guitar tone.",
+        "zh": "《Brothers in Arms》MTV 期热单；门限 synth 与更响吉他音色。"
       }
     }
   ],
@@ -143,102 +166,117 @@
     {
       "id": "thesis",
       "title": {
-        "en": "Fingerstyle beside hard-rock volume",
-        "zh": "指弹与硬摇滚音量并列"
+        "en": "Fingerstyle beside disco and hard rock",
+        "zh": "指弹与迪斯科、硬摇滚并列"
       },
       "body": {
-        "en": "Knopfler plays without a pick: thumb and fingers articulate bass and melody on one guitar. Early Dire Straits sat next to pub rock and AOR, not NWOBHM.\n\nSultans of Swing (1978) is the key track—clean amp, story lyric, lead lines that read like horn phrases.\n\nBrothers in Arms later adds digital polish; identity stays guitar craft over distortion density.",
-        "zh": "Knopfler 不用拨片：拇指与手指在一把琴上分出低音与旋律。早期 Dire Straits 靠 pub rock 与 AOR，不靠 NWOBHM。\n\nSultans of Swing（1978）是关键曲——干净箱头、故事歌词、像号声乐句的主音线。\n\n后期 Brothers in Arms 加数码抛光；身份仍是吉他工艺，多于失真密度。"
+        "en": "Knopfler plays without a pick: thumb and fingers split bass and melody. Early Dire Straits sat next to pub rock and AOR, not NWOBHM.\n\nSultans of Swing (1978) is the key track—clean amp, story lyric, lead lines like horn phrases.\n\nBrothers in Arms later adds digital polish and CD-era volume; identity stays guitar craft over distortion density.",
+        "zh": "Knopfler 不用拨片：拇指与手指分出低音与旋律。早期 Dire Straits 靠 pub rock 与 AOR，不靠 NWOBHM。\n\n《Sultans of Swing》（1978）是关键曲——干净箱头、故事歌词、像号声乐句的主音线。\n\n后期《Brothers in Arms》加数码抛光与 CD 期体量；身份仍是吉他工艺，多于失真密度。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "hard-rock"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/dire-straits-1978-hamburg-1.jpg",
+        "alt": {
+          "en": "Dire Straits in Hamburg, 1978",
+          "zh": "Dire Straits 于汉堡，1978"
+        },
+        "credit": "Heinrich Klaffs",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dire_Straits_1978_Hamburg_1.jpg"
+      }
     },
     {
-      "id": "lineupVersions",
+      "id": "lineup",
       "title": {
-        "en": "Knopfler brothers to stadium lineup",
-        "zh": "Knopfler 兄弟到体育场编制"
+        "en": "Brothers out; Clark, Lindes, Williams",
+        "zh": "兄弟离队；Clark、Lindes、Williams"
       },
       "body": {
-        "en": "Debut lineup: Mark and David Knopfler, Illsley, Withers. David left in 1980; Alan Clark’s keyboards expanded Making Movies.\n\nThe Brothers in Arms era added studio and tour players; Mark remained sole lead voice and primary writer.\n\nScale change came through production and television, not an ideology split.",
-        "zh": "首张阵容：Mark 与 David Knopfler、Illsley、Withers。David 于 1980 年离队；Alan Clark 的键盘扩了 Making Movies。\n\nBrothers in Arms 期加入录音室与巡演乐手；Mark 仍是唯一主唱与主写。\n\n体量变化来自制作与电视，而非意识形态分裂。"
+        "en": "Debut four: Mark and David Knopfler, Illsley, Withers. David left in 1980; Making Movies is often called their best LP. Lindes and Clark expanded the stage and studio.\n\nLove Over Gold’s long narrative tracks scaled the live show; Withers quit rather than rework arrangements. Williams (ex–Man) took drums into the Brothers in Arms era.\n\nCross-band: Dylan’s Slow Train Coming sessions with Mark and Pick.",
+        "zh": "首张四人：Mark 与 David Knopfler、Illsley、Withers。David 1980 年离队；《Making Movies》常被称作最好一张。Lindes 与 Clark 扩大舞台与录音室。\n\n《Love Over Gold》的长叙事曲放大现场；Withers 不愿改编曲目而退出。Williams（前 Man）司鼓进入《Brothers in Arms》时期。\n\n跨乐队：Dylan《Slow Train Coming》有 Mark 与 Pick 参与。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "hard-rock"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/dire-straits-pick-withers.jpg",
+        "alt": {
+          "en": "Pick Withers of Dire Straits",
+          "zh": "Dire Straits 的 Pick Withers"
+        },
+        "credit": "Heinrich Klaffs",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pick_Withers.jpg"
+      }
     },
     {
-      "id": "influence",
+      "id": "brothers-cd",
       "title": {
-        "en": "AOR guitar craft reference",
-        "zh": "AOR 吉他工艺参照"
+        "en": "Brothers in Arms and the CD push",
+        "zh": "Brothers in Arms 与 CD 推广"
       },
       "body": {
-        "en": "Cite path: country/blues fingerstyle into UK pub rock, then US FM. Money for Nothing reached MTV hard-rock adjacent radio while keeping narrative verse.\n\nLater stadium and alternative guitarists with clean delay tones often name Knopfler as a tone reference more than a riff school.",
-        "zh": "引用路径：country/blues 指弹进英国 pub rock，再到美国 FM。Money for Nothing 进入 MTV 邻域硬摇滚电台，同时保留叙事主歌。\n\n后期体育场与 alternative 吉他手（干净延时音色）常点名 Knopfler 作音色参照，多于 riff 学派。"
+        "en": "Brothers in Arms (1985) topped global charts. Philips sold the long runtime on CD without quality loss; it was among the first million-selling compact discs.\n\nOn Every Street (1991) failed to match that scale. Knopfler shifted to Notting Hillbillies and solo records; Clark later toured as The Straits without him.\n\nTiming of the CD format and the album’s length is part of the sales story in the book.",
+        "zh": "《Brothers in Arms》（1985）登上全球榜首。Philips 以 CD 卖出长时长且音质无损；它是首批销量破百万的光盘之一。\n\n《On Every Street》（1991）未达同等体量。Knopfler 转向 Notting Hillbillies 与个人专辑；Clark 后来以 The Straits 巡演。\n\n书中把 CD 时机与专辑时长当作销量故事的一部分。"
       },
-      "stickyVisual": "influence",
-      "soundGenre": "hard-rock"
+      "stickyVisual": "members",
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/dire-straits-illsley-1978.jpg",
+        "alt": {
+          "en": "John Illsley of Dire Straits, Hamburg 1978",
+          "zh": "Dire Straits 的 John Illsley，汉堡 1978"
+        },
+        "credit": "Heinrich Klaffs",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Illsey_cropped_2.jpg"
+      }
     },
     {
-      "id": "scene-0",
+      "id": "scene-sultans",
       "title": {
         "en": "Sultans of Swing",
         "zh": "Sultans of Swing"
       },
       "body": {
-        "en": "Fingerstyle lead over a shuffle pocket; clean Telecaster on late-1970s AOR.",
-        "zh": "指弹主音压 shuffle 口袋拍；干净 Telecaster 落在 1970 年代末 AOR。"
+        "en": "Fingerstyle lead over a shuffle pocket; clean Telecaster on late-1970s AOR.\n\nBBC play of the demo brought the Vertigo deal.",
+        "zh": "指弹主音压 shuffle 口袋拍；干净 Telecaster 落在 1970 年代末 AOR。\n\nBBC 播放样带促成 Vertigo 签约。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
-      "soundGenre": "hard-rock"
+      "soundGenre": "rock-n-roll"
     },
     {
-      "id": "scene-1",
+      "id": "after",
       "title": {
-        "en": "Romeo and Juliet",
-        "zh": "Romeo and Juliet"
+        "en": "After Dire Straits",
+        "zh": "Dire Straits 之后"
       },
       "body": {
-        "en": "National resonator intro; ballad dynamics before Brothers in Arms scale.",
-        "zh": "National 共鸣琴 intro；Brothers in Arms 扩容前的谣曲动态。"
+        "en": "Knopfler declined reunions. Solo and duo work with Atkins and Harris continued; On the Night (1993) closed the live catalog for many listeners.\n\nThe Knopfleri dinosaur naming is a late cross-field footnote from fans in paleontology.",
+        "zh": "Knopfler 拒绝重组。与 Atkins、Harris 的个人/双人合作继续；《On the Night》（1993）对许多听众关闭了现场目录。\n\n恐龙 Knopfleri 命名是古生物学歌迷留下的跨领域注脚。"
       },
-      "stickyVisual": "scene",
-      "sceneIndex": 1,
-      "soundGenre": "hard-rock"
-    },
-    {
-      "id": "scene-2",
-      "title": {
-        "en": "Money for Nothing",
-        "zh": "Money for Nothing"
-      },
-      "body": {
-        "en": "Gibson Les Paul and gated synth texture; MTV-era radio hit.",
-        "zh": "Gibson Les Paul 与门限 synth 质感；MTV 期电台热单。"
-      },
-      "stickyVisual": "scene",
-      "sceneIndex": 2,
-      "soundGenre": "hard-rock"
+      "stickyVisual": "influence",
+      "soundGenre": "rock-n-roll"
     }
   ],
   "interviewQuotes": [
     {
-      "text": "I don't use a pick. The fingers give you more control over the tone.",
-      "speaker": "Mark Knopfler",
-      "source": "Guitar interview excerpt",
-      "year": 1980
+      "text": "Mark helped me play at my best.",
+      "speaker": "Bob Dylan",
+      "source": "On the Slow Train Coming sessions",
+      "year": 1979
     },
     {
-      "text": "Sultans was just a song about a band in a pub. The radio made it something else.",
+      "text": "Knopfleri is a fitting name for a dinosaur—but I'm not fierce.",
       "speaker": "Mark Knopfler",
-      "source": "Press interview excerpt",
-      "year": 1985
+      "source": "On the paleontology naming",
+      "year": 2001
     }
   ],
   "lineupVersions": [
     {
-      "id": "peak",
+      "id": "debut-four",
       "label": {
         "en": "Debut four: Knopfler brothers / Illsley / Withers",
         "zh": "首张四人：Knopfler 兄弟 / Illsley / Withers"
@@ -248,7 +286,8 @@
       "members": [
         {
           "name": "Mark Knopfler",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "mark-knopfler"
         },
         {
           "name": "David Knopfler",
@@ -264,8 +303,43 @@
         }
       ],
       "note": {
-        "en": "Sultans of Swing era; fingerstyle AOR beside hard rock.",
-        "zh": "Sultans of Swing 时期；指弹 AOR 与硬摇滚并列。"
+        "en": "Sultans of Swing era; debut US No.2.",
+        "zh": "《Sultans of Swing》时期；首专美榜第 2。"
+      }
+    },
+    {
+      "id": "brothers-in-arms",
+      "label": {
+        "en": "Brothers in Arms era",
+        "zh": "Brothers in Arms 时期"
+      },
+      "years": "1982–1989",
+      "members": [
+        {
+          "name": "Mark Knopfler",
+          "role": "Vocals, Guitar",
+          "personSlug": "mark-knopfler"
+        },
+        {
+          "name": "John Illsley",
+          "role": "Bass"
+        },
+        {
+          "name": "Hal Lindes / Guy Fletcher",
+          "role": "Guitar / Keys"
+        },
+        {
+          "name": "Alan Clark",
+          "role": "Keyboards"
+        },
+        {
+          "name": "Terry Williams",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Love Over Gold into Brothers in Arms CD sales peak.",
+        "zh": "《Love Over Gold》至《Brothers in Arms》CD 销量高峰。"
       }
     }
   ],
@@ -279,11 +353,12 @@
       }
     },
     "pioneeredGenres": [
+      "rock-n-roll",
       "hard-rock"
     ],
     "note": {
-      "en": "Narrative verse and Telecaster fingerstyle over a pub-rock pocket.",
-      "zh": "叙事主歌与 Telecaster 指弹，压在 pub-rock 口袋拍上。"
+      "en": "Narrative verse and Telecaster fingerstyle; Brothers in Arms as early CD sales document.",
+      "zh": "叙事主歌与 Telecaster 指弹；《Brothers in Arms》作早期 CD 销量文献。"
     }
   }
 }

@@ -13,8 +13,8 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "London four-piece formed in 1968. Jimmy Page’s guitar and production, Robert Plant’s vocals, John Paul Jones’s bass and keys, and John Bonham’s drums define Led Zeppelin II–IV and Physical Graffiti.",
-    "zh": "伦敦四人组，1968 年成立。Jimmy Page 的吉他与制作、Robert Plant 的人声、John Paul Jones 的贝斯与键盘，以及 John Bonham 的鼓，贯穿《Led Zeppelin II–IV》与《Physical Graffiti》。"
+    "en": "Formed in 1968 from The Yardbirds’ last Scandinavian dates as the New Yardbirds, then Led Zeppelin. Page / Plant / Jones / Bonham fixed album-led hard rock across nine studio LPs; estimated hundreds of millions sold worldwide before Bonham’s death ended the band in 1980.",
+    "zh": "1968 年承接 The Yardbirds 末次斯堪的纳维亚巡演，先称 New Yardbirds，再改名 Led Zeppelin。Page / Plant / Jones / Bonham 以九张录音室专辑确立以专辑为导向的 hard rock；全球销量估计数亿，1980 年 Bonham 去世后乐队解散。"
   },
   "members": [
     {
@@ -51,6 +51,14 @@
       "year": 1971
     },
     {
+      "title": "Black Dog",
+      "year": 1971
+    },
+    {
+      "title": "Rock and Roll",
+      "year": 1971
+    },
+    {
       "title": "Kashmir",
       "year": 1975,
       "note": {
@@ -75,8 +83,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "From Led Zeppelin II; open riff and a theremin/feedback middle section.",
-        "zh": "出自《Led Zeppelin II》；开放 riff，中段含 theremin 与反馈。"
+        "en": "From Led Zeppelin II (US #1 over Abbey Road). Open riff and theremin/feedback middle section.",
+        "zh": "出自《Led Zeppelin II》（美榜冠军，压过《Abbey Road》）。开放 riff，中段含 theremin 与反馈。"
       }
     },
     {
@@ -93,8 +101,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "From Led Zeppelin IV; acoustic opening into electric close; long FM radio staple.",
-        "zh": "出自《Led Zeppelin IV》；原声开场到电声收束；FM 电台长期点播曲。"
+        "en": "From the untitled fourth album (often Led Zeppelin IV). Never issued as a single; long FM staple and album-rock reference.",
+        "zh": "出自未命名第四专（常称《Led Zeppelin IV》）。从未发单曲；长期 FM 点播与专辑导向摇滚参照。"
       }
     },
     {
@@ -111,100 +119,137 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "From Physical Graffiti; repeating ostinato and orchestral arrangement.",
-        "zh": "出自《Physical Graffiti》；反复固定音型与管弦编曲。"
+        "en": "From Physical Graffiti; repeating ostinato and orchestral arrangement on the heavier mid-1970s side.",
+        "zh": "出自《Physical Graffiti》；反复固定音型与管弦编曲，属 1970 年代中期偏重的一面。"
+      }
+    },
+    {
+      "year": 1971,
+      "track": "The Battle of Evermore",
+      "membersOnStage": [
+        "Jimmy Page",
+        "Robert Plant",
+        "John Paul Jones",
+        "John Bonham"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "folk"
+      ],
+      "intensity": 1,
+      "note": {
+        "en": "Only Zeppelin studio track with a guest lead vocal: Sandy Denny (Fairport Convention) with Plant.",
+        "zh": "唯一有嘉宾主唱的录音室曲：Sandy Denny（Fairport Convention）与 Plant 对唱。"
       }
     }
   ],
   "interviewQuotes": [
     {
-      "text": "I think when you hear that drum sound, you know it's Bonzo.",
+      "text": "I can't put a label on our music. I hope someone invents a word.",
       "speaker": "Jimmy Page",
-      "source": "Archive interview excerpt · quote wall",
+      "source": "Press interview · contemporary blues framing",
+      "year": 1969
+    },
+    {
+      "text": "Our albums were written on the road. Whenever we had a few hours between shows, we booked a studio.",
+      "speaker": "John Paul Jones",
+      "source": "Craig Rosen interview",
       "year": 1990
     },
     {
-      "text": "We were just four people who got together and happened to be very good.",
-      "speaker": "Robert Plant",
-      "source": "Press interview excerpt",
-      "year": 2005
+      "text": "We were in particularly high spirits. The vibe was really good.",
+      "speaker": "John Paul Jones",
+      "source": "TheCelebrityCafe.com · on the June 1980 tour",
+      "year": 2000
     }
   ],
   "lyricQuotes": [
     "If there's a bustle in your hedgerow, don't be alarmed now",
-    "You need cooling, baby, I'm not fooling"
+    "You need cooling, baby, I'm not fooling",
+    "Been dazed and confused for so long it's not true"
   ],
   "relatedBands": [
-    "king-crimson",
-    "the-rolling-stones"
+    "the-yardbirds",
+    "deep-purple",
+    "black-sabbath",
+    "the-rolling-stones",
+    "them-crooked-vultures"
   ],
   "influenceFrom": [
+    "the-yardbirds",
     "the-rolling-stones"
   ],
   "influenced": [
     "nirvana"
   ],
   "shortBio": {
-    "en": "Page / Plant / Jones / Bonham hard rock, 1968–1980. Whole Lotta Love and Stairway to Heaven are the main reference tracks.",
-    "zh": "Page / Plant / Jones / Bonham 硬摇滚，1968–1980。《Whole Lotta Love》与《Stairway to Heaven》是主要参照曲。"
+    "en": "Page / Plant / Jones / Bonham, 1968–1980. From New Yardbirds to album-led hard rock; Stairway to Heaven never a single.",
+    "zh": "Page / Plant / Jones / Bonham，1968–1980。由 New Yardbirds 到以专辑为导向的 hard rock；《Stairway to Heaven》从未发单曲。"
   },
   "body": {
-    "en": "Led Zeppelin formed in London in 1968 after the Yardbirds ended. Jimmy Page handled guitar and much of the production; Robert Plant sang lead; John Paul Jones played bass, keys, and arranged parts; John Bonham played drums. Early albums document blues and folk sources expanded into hard rock for large venues.\n\nWhole Lotta Love (1969), Stairway to Heaven (1971), and Kashmir (1975) show a theremin middle section, an acoustic-to-electric arc, and a long ostinato arrangement. The same four members stayed through 1980; the band ended after Bonham’s death that year.",
-    "zh": "Led Zeppelin 于 1968 年在伦敦由 Yardbirds 结束后组建。Jimmy Page 负责吉他与大量制作；Robert Plant 主唱；John Paul Jones 演奏贝斯、键盘并参与编曲；John Bonham 司鼓。早期专辑把蓝调与民谣素材扩展为适合大型场地的 hard rock。\n\n《Whole Lotta Love》（1969）、《Stairway to Heaven》（1971）与《Kashmir》（1975）分别呈现 theremin 中段、原声到电声的结构，以及长固定音型编曲。四人阵容维持到 1980 年；Bonham 去世后乐队结束。"
+    "en": "Jimmy Page had played in The Yardbirds since 1966. When that band collapsed on the eve of a 1968 Scandinavian tour, Page recruited Robert Plant and John Bonham from Band of Joy, plus session bassist John Paul Jones, as the New Yardbirds. After Chris Dreja’s name threat, they became Led Zeppelin and cut the debut at Olympic Studios in Barnes. First show: 7 September 1968, Gladsaxe, Denmark.\n\nLed Zeppelin (1969) entered UK and US Top 10s. Led Zeppelin II topped the US chart over The Beatles’ Abbey Road. Led Zeppelin III (1970) leaned folk and blues in a Welsh village; the untitled fourth album (1971) balanced both and later sold over 20 million in the US alone, with Black Dog, Rock and Roll, and Stairway to Heaven. Houses of the Holy (1973), Physical Graffiti (1975), Presence (1976), and In Through the Out Door (1979) followed. Bonham died in September 1980 during rehearsals; the band dissolved rather than replace him. Coda (1982) collected leftovers. Later Page/Plant, Coverdale·Page, and Jones projects (including Them Crooked Vultures with Dave Grohl and Josh Homme) stayed separate from a full reunion—aside from Live Aid 1985, Atlantic’s 40th, and the 2007 O2 show with Jason Bonham.",
+    "zh": "Jimmy Page 自 1966 年起在 The Yardbirds 演奏。1968 年斯堪的纳维亚巡演售票前夕乐队解散，Page 从 Band of Joy 召入 Robert Plant、John Bonham，加上录音室贝斯手 John Paul Jones，组成 New Yardbirds。因 Chris Dreja 姓名诉讼威胁改名 Led Zeppelin，并在 Barnes 的 Olympic Studios 录首专。首演：1968 年 9 月 7 日，丹麦格拉德萨克斯。\n\n《Led Zeppelin》（1969）进入英、美榜前 10。《Led Zeppelin II》美榜冠军，压过 The Beatles《Abbey Road》。《Led Zeppelin III》（1970）在威尔士偏僻村庄创作，民谣与蓝调各半；未命名第四专（1971）平衡两者，仅美国后来逾 2000 万张，含《Black Dog》《Rock and Roll》《Stairway to Heaven》。之后有《Houses of the Holy》（1973）、《Physical Graffiti》（1975）、《Presence》（1976）、《In Through the Out Door》（1979）。1980 年 9 月 Bonham 在彩排期间去世，乐队选择解散而非替换。精选未发表曲的《Coda》于 1982 年发行。后来的 Page/Plant、Coverdale·Page，以及 Jones 与 Dave Grohl、Josh Homme 的 Them Crooked Vultures 等均非完整重组——除 1985 Live Aid、Atlantic 40 周年，以及 2007 年 O2 体育场 Jason Bonham 司鼓那场。"
   },
   "narrative": [
     {
-      "id": "thesis",
+      "id": "yardbirds",
       "title": {
-        "en": "Four roles, shared catalog",
-        "zh": "四个角色，同一套曲目"
+        "en": "From The Yardbirds to Led Zeppelin",
+        "zh": "从 The Yardbirds 到 Led Zeppelin"
       },
       "body": {
-        "en": "Led Zeppelin’s sound rests on a fixed division of labor: Page on guitar and production, Plant on vocals, Jones on bass, keys, and arranging, Bonham on drums.\n\nBlues and folk material is rewritten at harder volume and larger form, not only covered note-for-note.\n\nAlbums II–IV and Physical Graffiti are the usual entry points for riff writing and dynamics.",
-        "zh": "Led Zeppelin 的声音建立在固定分工上：Page 负责吉他与制作，Plant 负责人声，Jones 负责贝斯、键盘与编曲，Bonham 负责鼓。\n\n蓝调与民谣素材被改写成更大音量与更长结构，而不是逐句翻唱。\n\n《II–IV》与《Physical Graffiti》是听 riff 写法与动态幅度的常用入口。"
+        "en": "Page inherited The Yardbirds’ Scandinavian dates and rebuilt the lineup as New Yardbirds: Plant and Bonham from Band of Joy, Jones from session work.\n\nChris Dreja’s legal threat forced the Led Zeppelin rename before the Olympic Studios debut sessions.\n\nThat Yardbirds continuity is why Page’s guitar and production sit at the center of the early catalog.",
+        "zh": "Page 承接 The Yardbirds 的斯堪的纳维亚档期，以 New Yardbirds 重组：Plant、Bonham 来自 Band of Joy，Jones 来自录音室工作。\n\nChris Dreja 的法律威胁迫使在 Olympic Studios 首专录音前改名 Led Zeppelin。\n\n这条 Yardbirds 延续线，使 Page 的吉他与制作居于早期曲目中心。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/led-zeppelin-1971-promo.jpg",
+        "alt": {
+          "en": "Led Zeppelin promotional photo, 1971 — Jones, Page, Bonham, Plant",
+          "zh": "Led Zeppelin 1971 年宣传照——Jones、Page、Bonham、Plant"
+        },
+        "credit": "Atlantic Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Led_Zeppelin_-_promotional_image_(1971).jpg"
+      }
+    },
+    {
+      "id": "thesis",
+      "title": {
+        "en": "Album rock and hard rock labels",
+        "zh": "专辑摇滚与 hard rock 标签"
+      },
+      "body": {
+        "en": "Page refused a single genre label in early press, calling the music close to contemporary blues. Hard rock and heavy metal both fit later descriptions; Plant resisted the metal tag.\n\nEight of nine studio albums sold over a million copies in multiple countries. The untitled fourth album ranks among the highest-selling US albums; Stairway to Heaven became the band’s calling card without a single release.\n\nJones’s remark about writing between tour dates matches the on-the-road studio habit.",
+        "zh": "Page 早期采访拒绝单一类型标签，称接近当代蓝调。后来 hard rock 与 heavy metal 都适用；Plant 抵制金属标签。\n\n九张录音室专辑中有八张在多国销量逾百万。未命名第四专跻身美国史上销量最高专辑之列；《Stairway to Heaven》成为名片却从未发单曲。\n\nJones 关于巡演间隙写歌的说法，对应路上订录音室的习惯。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "hard-rock"
     },
     {
-      "id": "lineup-versions",
+      "id": "mid-seventies",
       "title": {
-        "en": "Classic four with almost no changes",
-        "zh": "几乎无更替的经典四人"
+        "en": "Houses of the Holy to In Through the Out Door",
+        "zh": "Houses of the Holy 到 In Through the Out Door"
       },
       "body": {
-        "en": "Unlike many peers, the peak years use one cast: Page, Plant, Jones, Bonham from 1968 to 1980.\n\nPage and Jones came from session work, which shows in arrangement density. Bonham’s death ends the original run.\n\nThat stable lineup is why the recorded sound stays consistent across albums.",
-        "zh": "与许多同辈不同，巅峰期几乎是同一套人马：Page、Plant、Jones、Bonham，1968–1980。\n\nPage 与 Jones 有录音室出身，编曲密度较高。Bonham 去世后原班运行结束。\n\n阵容稳定，也使各专辑的录音面貌相对一致。"
-      },
-      "stickyVisual": "lineupVersions",
-      "soundGenre": "hard-rock"
-    },
-    {
-      "id": "lineup",
-      "title": {
-        "en": "Guitar/production, vocal, arrange, drums",
-        "zh": "吉他/制作、人声、编曲、鼓"
-      },
-      "body": {
-        "en": "Page writes parts and mixes. Plant carries melody and lyric imagery. Jones supplies bass, keys, and charts. Bonham supplies the groove weight later metal bands often cite.\n\nThere were almost no substitutes in the classic period.",
-        "zh": "Page 写分声部并混音。Plant 扛旋律与歌词意象。Jones 提供贝斯、键盘与谱面。Bonham 提供后来金属常引用的 groove 重量。\n\n经典时期几乎没有替补。"
-      },
-      "stickyVisual": "members",
-      "soundGenre": "hard-rock"
-    },
-    {
-      "id": "wll",
-      "title": {
-        "en": "Whole Lotta Love",
-        "zh": "《Whole Lotta Love》"
-      },
-      "body": {
-        "en": "Led Zeppelin II (1969) opens with a repeating riff and Plant’s vocal, then a theremin and feedback middle before the return.\n\nThe track keeps hard-rock single length while using studio effects mid-song.\n\nIt remains one of the band’s most cited early singles.",
-        "zh": "《Led Zeppelin II》（1969）以反复 riff 与 Plant 人声开场，中段进入 theremin 与反馈，再回到主题。\n\n曲长仍接近 hard-rock 单曲，但中段使用了录音室效果。\n\n它仍是乐队早期最常被提及的单曲之一。"
+        "en": "Houses of the Holy (1973) is lighter in tone; Physical Graffiti (1975) and Presence (1976) push darker weight. Page’s heroin use and the 1977 death of Plant’s son Karac mark the personal cost of the decade.\n\nIn Through the Out Door (1979) was the last studio album before Bonham’s death during 1980 rehearsals. The remaining members dissolved the band rather than continue without him.",
+        "zh": "《Houses of the Holy》（1973）语气较轻；《Physical Graffiti》（1975）与《Presence》（1976）偏重、偏暗。Page 的海洛因依赖与 1977 年 Plant 六岁儿子 Karac 去世，是这十年的个人代价。\n\n《In Through the Out Door》（1979）是 Bonham 1980 年彩排去世前最后一张录音室专辑。其余成员选择解散，而非无他继续。"
       },
       "stickyVisual": "scene",
-      "sceneIndex": 0,
-      "soundGenre": "hard-rock"
+      "sceneIndex": 2,
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/led-zeppelin-1975-chicago.jpg",
+        "alt": {
+          "en": "Led Zeppelin live in Chicago, January 1975",
+          "zh": "Led Zeppelin 芝加哥现场，1975 年 1 月"
+        },
+        "credit": "more19562003",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:LedZeppelinChicago75.jpg"
+      }
     },
     {
       "id": "stairway",
@@ -213,39 +258,35 @@
         "zh": "《Stairway to Heaven》"
       },
       "body": {
-        "en": "Led Zeppelin IV (1971) places a fingerpicked opening, layered guitars, then Bonham’s entry and a solo section.\n\nFM radio made the long form a frequent request. The arc runs from acoustic start to a heavier finish.",
-        "zh": "《Led Zeppelin IV》（1971）以指弹开场、多层吉他，随后 Bonham 进入并进入独奏段。\n\nFM 电台使这首长曲成为常见点播。结构从原声起，到更重的收束。"
+        "en": "Acoustic opening into layered guitars, Bonham’s entry, and a closing solo section on the fourth album.\n\nNever a commercial single; FM radio made the long form a frequent request and a model for album-oriented rock programming.",
+        "zh": "第四专上：原声开场、多层吉他、Bonham 进入，收束于独奏段。\n\n非商业单曲；FM 电台使这首长曲成为常见点播，也是专辑导向摇滚排片的参照。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
       "soundGenre": "hard-rock"
     },
     {
-      "id": "quote",
+      "id": "after",
       "title": {
-        "en": "On Bonham’s drum sound",
-        "zh": "关于 Bonham 的鼓声"
+        "en": "After 1980",
+        "zh": "1980 年之后"
       },
       "body": {
-        "en": "Interview lines often stress how recognizable the four players sound together.\n\nPage’s remark on Bonham’s drums points to tone and performance, not costume or myth.\n\nQuotes here work as oral notes on arrangement and playing.",
-        "zh": "访谈常强调四人合奏的辨识度。\n\nPage 关于 Bonham 鼓声的说法指向音色与演奏，而非戏服或传说。\n\n此处引语可作编曲与演奏的口述笔记。"
-      },
-      "stickyVisual": "quote",
-      "quoteIndex": 0,
-      "soundGenre": "blues"
-    },
-    {
-      "id": "legacy",
-      "title": {
-        "en": "Later responses: metal, punk, grunge",
-        "zh": "后来的回应：金属、朋克、grunge"
-      },
-      "body": {
-        "en": "NWOBHM and metal often take the riff weight. Punk often rejects the length and excess. Grunge keeps heavy low end and drops much of the fantasy lyric.\n\nLater bands still cite, sample, or push against the Zeppelin catalog.",
-        "zh": "NWOBHM 与金属常取 riff 重量。朋克常拒绝其长度与过量。Grunge 留下偏重的低频，并丢掉大量奇幻歌词。\n\n后来乐队仍会引用、采样或针对 Zeppelin 曲目作出回应。"
+        "en": "Plant’s solo albums Pictures at Eleven and The Principle of Moments reached US Top 10. Page scored Death Wish II, formed The Firm with Paul Rodgers, and later Coverdale·Page with David Coverdale (Whitesnake).\n\nPage and Plant released No Quarter (1993) and Walking into Clarksdale (1998). Jones worked with Diamanda Galás, Butthole Surfers, R.E.M., and Them Crooked Vultures.\n\nThe 2007 O2 reunion with Jason Bonham was widely praised; Plant declined a permanent reboot. Page, Jones, and Bonham rehearsed with Steven Tyler and Myles Kennedy but did not tour that lineup.",
+        "zh": "Plant 个人专辑《Pictures at Eleven》《The Principle of Moments》进入美榜前 10。Page 为《死亡愿望 II》配乐，与 Paul Rodgers 组 The Firm，后又与 Whitesnake 的 David Coverdale 做 Coverdale·Page。\n\nPage 与 Plant 发行《No Quarter》（1993）、《Walking into Clarksdale》（1998）。Jones 合作过 Diamanda Galás、Butthole Surfers、R.E.M.，以及 Them Crooked Vultures。\n\n2007 年 O2 重聚（Jason Bonham 司鼓）评价很高；Plant 拒绝永久重组。Page、Jones、Bonham 曾与 Steven Tyler、Myles Kennedy 彩排，但未以该编制巡演。"
       },
       "stickyVisual": "influence",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/led-zeppelin-1977-page-plant.jpg",
+        "alt": {
+          "en": "Robert Plant and Jimmy Page on stage, Chicago 1977",
+          "zh": "Robert Plant 与 Jimmy Page 舞台照，芝加哥 1977"
+        },
+        "credit": "Jim Summaria",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jimmy_Page_with_Robert_Plant_2_-_Led_Zeppelin_-_1977.jpg"
+      }
     }
   ],
   "lineupVersions": [
@@ -279,8 +320,8 @@
         }
       ],
       "note": {
-        "en": "Only peak lineup; minimal member changes across the original run.",
-        "zh": "唯一巅峰阵容；原班运行期间成员更替极少。"
+        "en": "Only studio lineup. New Yardbirds → Led Zeppelin; ended after Bonham’s death.",
+        "zh": "唯一录音室阵容。New Yardbirds → Led Zeppelin；Bonham 去世后结束。"
       }
     }
   ],
@@ -289,16 +330,16 @@
       "title": "Whole Lotta Love",
       "year": 1969,
       "note": {
-        "en": "Early hard-rock single with a clear riff and studio middle section.",
-        "zh": "早期 hard-rock 单曲；riff 清楚，中段含录音室处理。"
+        "en": "Led Zeppelin II US #1 single-era track; riff plus studio middle section.",
+        "zh": "《Led Zeppelin II》美榜时期代表曲；riff 加录音室中段。"
       }
     },
     "pioneeredGenres": [
       "hard-rock"
     ],
     "note": {
-      "en": "Blues and folk forms expanded for arena hard rock; metal and grunge still answer the catalog.",
-      "zh": "蓝调与民谣形式扩展为体育场 hard rock；金属与 grunge 仍回应这套曲目。"
+      "en": "Yardbirds continuity into album-led hard rock; blues and folk forms expanded for arena scale.",
+      "zh": "Yardbirds 延续到以专辑为导向的 hard rock；蓝调与民谣形式扩展到体育场规模。"
     }
   }
 }

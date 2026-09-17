@@ -11,33 +11,137 @@
     "hard-rock",
     "heavy-metal"
   ],
+  "decisive": true,
   "whyMatters": {
-    "en": "Birmingham four-piece formed in 1968. The 1970 debut and Paranoid fixed tritone riffs, down-tuned guitar, and occult-tinged lyrics as a heavy sound distinct from blues-based hard rock.",
-    "zh": "伯明翰四人组，1968 年成立。1970 年首专与《Paranoid》确立三全音 riff、降调吉他与偏神秘歌词，形成相对蓝调 hard rock 更可分离的重金属声音。"
+    "en": "Birmingham four-piece from Polka Tulk / Earth to Black Sabbath. The 1970 debut through Sabbath Bloody Sabbath set down-tuned riffs and bleak lyric frames that later metal catalogs still cite; Heaven and Hell (1980) with Ronnie James Dio (ex-Rainbow) restarted the band after Ozzy left.",
+    "zh": "伯明翰四人组，由 Polka Tulk / Earth 更名为 Black Sabbath。1970 年首专至《Sabbath Bloody Sabbath》确立降调 riff 与阴郁歌词框架，后来金属曲目仍常引用；Ozzy 离队后，前 Rainbow 主唱 Ronnie James Dio 参与的《Heaven and Hell》（1980）让乐队重新站稳。"
   },
   "members": [
     {
       "name": "Ozzy Osbourne",
       "role": "Vocals",
-      "years": "1968–1979",
+      "years": "1968–1979; 1997–2017",
       "personSlug": "ozzy-osbourne"
     },
     {
       "name": "Tony Iommi",
       "role": "Guitar",
-      "years": "1968–1979",
+      "years": "1968–present",
       "personSlug": "tony-iommi"
     },
     {
       "name": "Geezer Butler",
       "role": "Bass",
-      "years": "1968–1979",
+      "years": "1968–1979; 1980–1984; 1991–1994; 1997–2017",
       "personSlug": "geezer-butler"
     },
     {
       "name": "Bill Ward",
       "role": "Drums",
-      "years": "1968–1979"
+      "years": "1968–1980; 1983; 1984; 1994; 1997–2012"
+    },
+    {
+      "name": "Ronnie James Dio",
+      "role": "Vocals",
+      "years": "1979–1982; 1991–1992",
+      "personSlug": "ronnie-james-dio"
+    },
+    {
+      "name": "Vinny Appice",
+      "role": "Drums",
+      "years": "1980–1982; 1991–1992; 1998"
+    },
+    {
+      "name": "Geoff Nicholls",
+      "role": "Keyboards",
+      "years": "1979–2004"
+    },
+    {
+      "name": "Ian Gillan",
+      "role": "Vocals",
+      "years": "1983–1984",
+      "personSlug": "ian-gillan"
+    },
+    {
+      "name": "Bev Bevan",
+      "role": "Drums",
+      "years": "1983–1984; 1986–1987"
+    },
+    {
+      "name": "Glenn Hughes",
+      "role": "Vocals",
+      "years": "1985–1986"
+    },
+    {
+      "name": "Tony Martin",
+      "role": "Vocals",
+      "years": "1987–1991; 1993–1997"
+    },
+    {
+      "name": "Cozy Powell",
+      "role": "Drums",
+      "years": "1988–1991; 1994–1995"
+    },
+    {
+      "name": "Craig Gruber",
+      "role": "Bass",
+      "years": "1979"
+    },
+    {
+      "name": "Dave Walker",
+      "role": "Vocals",
+      "years": "1977–1978"
+    },
+    {
+      "name": "Ray Gillen",
+      "role": "Vocals",
+      "years": "1986–1987"
+    },
+    {
+      "name": "Dave Spitz",
+      "role": "Bass",
+      "years": "1985–1987"
+    },
+    {
+      "name": "Bob Daisley",
+      "role": "Bass",
+      "years": "1986"
+    },
+    {
+      "name": "Laurence Cottle",
+      "role": "Bass",
+      "years": "1988"
+    },
+    {
+      "name": "Neil Murray",
+      "role": "Bass",
+      "years": "1989–1990; 1994–1995"
+    },
+    {
+      "name": "Eric Singer",
+      "role": "Drums",
+      "years": "1985–1987"
+    },
+    {
+      "name": "Terry Chimes",
+      "role": "Drums",
+      "years": "1987–1988"
+    },
+    {
+      "name": "Bobby Rondinelli",
+      "role": "Drums",
+      "years": "1993–1994; 1994–1997"
+    },
+    {
+      "name": "Rob Halford",
+      "role": "Vocals",
+      "years": "1992 (live)",
+      "personSlug": "rob-halford"
+    },
+    {
+      "name": "Mike Bordin",
+      "role": "Drums",
+      "years": "1997 (tour)"
     }
   ],
   "essentialTracks": [
@@ -52,6 +156,18 @@
     {
       "title": "Iron Man",
       "year": 1970
+    },
+    {
+      "title": "War Pigs",
+      "year": 1970
+    },
+    {
+      "title": "Sweet Leaf",
+      "year": 1971
+    },
+    {
+      "title": "Heaven and Hell",
+      "year": 1980
     }
   ],
   "scenes": [
@@ -70,8 +186,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Title track from the 1970 debut; tritone riff and slow tempo.",
-        "zh": "1970 年首专同名曲；三全音 riff 与慢速度。"
+        "en": "Title track from the 1970 debut (UK Top 10). Tritone riff and slow tempo; early metal reference track.",
+        "zh": "1970 年首专同名曲（英榜前 10）。三全音 riff 与慢速度；早期金属参照曲。"
       }
     },
     {
@@ -88,8 +204,46 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Short, faster single from Paranoid; still suited to radio length.",
-        "zh": "出自《Paranoid》的短快单曲；时长仍适合电台。"
+        "en": "UK #1 album Paranoid; short radio-length single. Same LP includes Planet Caravan and War Pigs.",
+        "zh": "专辑《Paranoid》英榜冠军；短时长电台单曲。同碟还有《Planet Caravan》《War Pigs》。"
+      }
+    },
+    {
+      "year": 1980,
+      "track": "Heaven and Hell",
+      "membersOnStage": [
+        "Ronnie James Dio",
+        "Tony Iommi",
+        "Geezer Butler",
+        "Bill Ward"
+      ],
+      "genreTags": [
+        "heavy-metal",
+        "hard-rock"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Dio (ex-Rainbow) era; after Ozzy’s 1979 exit and a brief Craig Gruber bass stint. Proves the band still worked without the founding singer.",
+        "zh": "Dio（前 Rainbow）时期；Ozzy 1979 年离队、Craig Gruber 短暂司贝斯之后。证明无创始主唱乐队仍能成立。"
+      }
+    },
+    {
+      "year": 1983,
+      "track": "Born Again",
+      "membersOnStage": [
+        "Ian Gillan",
+        "Tony Iommi",
+        "Geezer Butler",
+        "Bill Ward"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "heavy-metal"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Ian Gillan (ex–Deep Purple) on vocals. Tour used the oversized Stonehenge stage set often linked to Spinal Tap’s mockumentary gag.",
+        "zh": "主唱为前 Deep Purple 的 Ian Gillan。巡演「巨石阵」舞台布景常与《This Is Spinal Tap》里的同梗对照。"
       }
     }
   ],
@@ -109,11 +263,16 @@
   ],
   "lyricQuotes": [
     "What is this that stands before me?",
-    "Iron man / Has won the war"
+    "Iron man / Has won the war",
+    "Generals gathered in their masses"
   ],
   "relatedBands": [
     "led-zeppelin",
-    "metallica"
+    "deep-purple",
+    "rainbow",
+    "metallica",
+    "kiss",
+    "judas-priest"
   ],
   "influenceFrom": [
     "led-zeppelin",
@@ -123,94 +282,121 @@
     "metallica"
   ],
   "shortBio": {
-    "en": "Iommi / Osbourne / Butler / Ward; Paranoid-era foundation for heavy metal.",
-    "zh": "Iommi / Osbourne / Butler / Ward；《Paranoid》时期为重金属奠基。"
+    "en": "Iommi / Osbourne / Butler / Ward from Birmingham. Paranoid-era foundation for heavy metal; Dio (ex-Rainbow) and later Gillan/Hughes (ex–Deep Purple) eras kept the name alive.",
+    "zh": "伯明翰 Iommi / Osbourne / Butler / Ward。《Paranoid》时期为重金属奠基；Dio（前 Rainbow）与后来的 Gillan/Hughes（前 Deep Purple）时期延续乐队名。"
   },
-  "decisive": true,
   "body": {
-    "en": "Black Sabbath formed in Birmingham in 1968. Black Sabbath, Paranoid, and Master of Reality document Tony Iommi’s riff writing after a fingertip injury (lighter strings and fretting adaptations), Geezer Butler’s bass and lyrics, Ozzy Osbourne’s nasal lead, and Bill Ward’s drums.\n\nThe title track Black Sabbath (1970) plus Paranoid and Iron Man are the usual early reference set. After Ozzy left in 1979, Ronnie James Dio joined for Heaven and Hell (1980)—same band name, different singer and lyric approach.",
-    "zh": "Black Sabbath 于 1968 年在伯明翰成立。《Black Sabbath》、《Paranoid》与《Master of Reality》记录 Tony Iommi 指伤后的 riff 写法（更细弦、按弦适应）、Geezer Butler 的贝斯与歌词、Ozzy Osbourne 的鼻音主唱，以及 Bill Ward 的鼓。\n\n同名曲《Black Sabbath》（1970）与《Paranoid》《Iron Man》是早期常用参照。1979 年 Ozzy 离队后，Ronnie James Dio 加入并录制《Heaven and Hell》（1980）——同名乐队，主唱与歌词取向不同。"
+    "en": "Black Sabbath formed in Birmingham as Polka Tulk, then Earth, before taking the Black Sabbath name with the 1970 debut. Ozzy Osbourne, Tony Iommi, Geezer Butler, and Bill Ward recorded Black Sabbath, Paranoid, Master of Reality, Vol. 4, and Sabbath Bloody Sabbath—early LPs that went gold and later platinum, and that later metal acts from Metallica to Slayer still cite.\n\nManagement problems, drugs, and drink fragmented the late-1970s band. After Sabotage (1975), Technical Ecstasy (1976), and Never Say Die! (1978), Osbourne was fired in 1979 (Dave Walker briefly sat in). Butler left briefly; Rainbow’s Craig Gruber filled bass before Butler returned. Ronnie James Dio (ex-Rainbow) joined for Heaven and Hell (1980) and Mob Rules (1981) with Vinny Appice after Ward exited. Dio and Appice left to form Dio; Iommi and Butler then cut Born Again (1983) with Ian Gillan (ex–Deep Purple). Seventh Star (1986) was issued as Sabbath with Glenn Hughes (also ex–Purple) on vocals. Later seats included Tony Martin, Cozy Powell (ex-Rainbow), Eric Singer (later Kiss), Terry Chimes (ex–The Clash), and Bobby Rondinelli (ex-Rainbow). Classic-lineup reunions and the Heaven & Hell project with Dio followed into the 2000s.",
+    "zh": "Black Sabbath 在伯明翰先以 Polka Tulk、再以 Earth 活动，随 1970 年首专正式使用现名。Ozzy Osbourne、Tony Iommi、Geezer Butler、Bill Ward 录制了《Black Sabbath》《Paranoid》《Master of Reality》《Vol. 4》《Sabbath Bloody Sabbath》——早期金/白金唱片，Metallica、Slayer 等后来金属乐队仍常引用。\n\n管理问题与毒品、酗酒使 1970 年代后期阵容松动。《Sabotage》（1975）之后，《Technical Ecstasy》（1976）与《Never Say Die!》（1978）勉强维持，1979 年 Osbourne 被解雇（Dave Walker 曾短暂顶替）。Butler 一度离队，Rainbow 的 Craig Gruber 补贝斯，Butler 回归后前 Rainbow 主唱 Ronnie James Dio 加入，录制《Heaven and Hell》（1980）；Ward 离队后 Vinny Appice 参与《Mob Rules》（1981）。Dio 与 Appice 离队组建 Dio；Iommi、Butler 再邀前 Deep Purple 的 Ian Gillan 录制《Born Again》（1983）。《Seventh Star》（1986）名义上为 Sabbath，主唱为前 Purple 的 Glenn Hughes。之后还有 Tony Martin、前 Rainbow 鼓手 Cozy Powell、后去 Kiss 的 Eric Singer、前 The Clash 的 Terry Chimes、前 Rainbow 的 Bobby Rondinelli 等。2000 年代有经典阵容重聚，以及 Iommi/Butler 与 Dio、Appice 的 Heaven & Hell 计划。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Heaviness as interval and tempo",
-        "zh": "「重」来自音程与速度"
+        "en": "Early albums as a metal standard",
+        "zh": "早期专辑成为金属标准"
       },
       "body": {
-        "en": "Sabbath’s early weight comes from arrangement choices: tritone intervals, slow tempos, and bleak lyrics—not only louder amplifiers.\n\nThat writing separates more clearly from blues-based hard rock of the same years.\n\nThe 1970–71 albums are the usual citation for early heavy metal.",
-        "zh": "Sabbath 早期的「重」来自编曲选择：三全音、慢速度与阴郁歌词——不只是更大的音箱。\n\n这套写法相对同期蓝调 hard rock 更容易区分。\n\n1970–71 年专辑是早期重金属的常用参照。"
+        "en": "The first six studio albums—especially Black Sabbath through Sabbath Bloody Sabbath—fixed down-tuned riffs, slow-to-mid tempos, and lyric frames about war, dread, and occult imagery.\n\nOsbourne’s harmonica on The Wizard, the quiet Planet Caravan on Paranoid, and Rick Wakeman’s keys on Sabbath Bloody Sabbath show range beyond one tempo.\n\nWard and Butler’s jazz-leaning rhythmic ideas sit under Iommi’s riff writing.",
+        "zh": "前六张录音室专辑——尤其从首专到《Sabbath Bloody Sabbath》——确立了降调 riff、中慢速度，以及战争、恐惧与神秘意象的歌词框架。\n\nOsbourne 在《The Wizard》吹口琴、《Paranoid》上的安静曲《Planet Caravan》，以及 Rick Wakeman 在《Sabbath Bloody Sabbath》的键盘，显示不止一种速度。\n\nWard 与 Butler 偏爵士的节奏想法托在 Iommi 的 riff 写法之下。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "heavy-metal"
+      "soundGenre": "heavy-metal",
+      "stickyImage": {
+        "src": "/media/bands/black-sabbath-1970-trade-ad.jpg",
+        "alt": {
+          "en": "Black Sabbath 1970 trade ad — Butler, Iommi, Ward, Osbourne",
+          "zh": "Black Sabbath 1970 年宣传广告——Butler、Iommi、Ward、Osbourne"
+        },
+        "credit": "Warner Bros. Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sabs.jpg"
+      }
     },
     {
-      "id": "lineup-versions",
+      "id": "ozzy-years",
       "title": {
-        "en": "Ozzy years and Dio years",
-        "zh": "Ozzy 年代与 Dio 年代"
+        "en": "Ozzy years: Earth to Never Say Die!",
+        "zh": "Ozzy 时期：Earth 到 Never Say Die!"
       },
       "body": {
-        "en": "The Ozzy-era peak is the founding citation: 1968–1979 with Iommi, Butler, and Ward.\n\nDio’s Heaven and Hell (1980) keeps Iommi’s riff writing and changes the vocal and fantasy lyric.\n\nSame name, different singer—why lineup versions are listed separately.",
-        "zh": "Ozzy 时期巅峰是创始参照：1968–1979，与 Iommi、Butler、Ward 同台。\n\nDio 的《Heaven and Hell》（1980）保留 Iommi 的 riff 写法，更换人声与奇幻歌词。\n\n同名、不同主唱——故阵容版本分开列出。"
+        "en": "After European dates as Earth, the debut Black Sabbath (1970) hit the UK Top 10. Paranoid (1970), Master of Reality (1971), Vol. 4 (1972), and Sabbath Bloody Sabbath (1973) followed as gold, later platinum, sellers.\n\nSabotage (1975) still works; Technical Ecstasy and Never Say Die! mark the fraying end of the Osbourne studio run before the 1979 split.",
+        "zh": "以 Earth 在欧洲巡演后，首专《Black Sabbath》（1970）进入英榜前 10。《Paranoid》（1970）、《Master of Reality》（1971）、《Vol. 4》（1972）、《Sabbath Bloody Sabbath》（1973）相继成为金唱片，后认证白金。\n\n《Sabotage》（1975）仍站得住；《Technical Ecstasy》与《Never Say Die!》已是 Osbourne 录音室时期松动的尾声，直至 1979 年分裂。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "hard-rock"
+      "soundGenre": "heavy-metal",
+      "stickyImage": {
+        "src": "/media/bands/black-sabbath-1973-lineup.jpg",
+        "alt": {
+          "en": "Black Sabbath original lineup, 1973 publicity photo",
+          "zh": "Black Sabbath 创始阵容，1973 年宣传照"
+        },
+        "credit": "Premier Talent Associates",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Sabbath,_original_lineup_(1973).JPG"
+      }
     },
     {
-      "id": "scene-0",
+      "id": "dio-era",
       "title": {
-        "en": "Black Sabbath (title track)",
-        "zh": "《Black Sabbath》（同名曲）"
+        "en": "Dio from Rainbow; Heaven and Hell",
+        "zh": "来自 Rainbow 的 Dio；Heaven and Hell"
       },
       "body": {
-        "en": "Rain and bell sounds lead into Iommi’s tritone figure; Ozzy’s vocal enters over a slow tempo.\n\nOften cited as an early metal reference track. The atmosphere comes from tempo and interval, not stage effects alone.",
-        "zh": "雨声与钟声引入 Iommi 的三全音音型；Ozzy 人声进入慢速度。\n\n常被引为早期金属参照曲。氛围来自速度与音程，不只是舞台效果。"
+        "en": "In 1979 Butler briefly left; Rainbow bassist Craig Gruber filled in. Ronnie James Dio left Rainbow for Sabbath vocals. Heaven and Hell (1980) and Mob Rules (1981) restored commercial and critical weight.\n\nWard’s drinking forced Appice onto the Mob Rules tour. Tension peaked around Live Evil (1983); Dio and Appice left to form Dio.\n\nShared personnel with Rainbow (Dio, Gruber, later Powell and Rondinelli) is a clear cross-band thread.",
+        "zh": "1979 年 Butler 短暂离队，Rainbow 贝斯手 Craig Gruber 顶替。Ronnie James Dio 离开 Rainbow 担任 Sabbath 主唱。《Heaven and Hell》（1980）与《Mob Rules》（1981）恢复商业与评价重量。\n\nWard 酗酒后 Appice 接手《Mob Rules》巡演。《Live Evil》（1983）录制前后关系破裂，Dio 与 Appice 离队组建 Dio。\n\n与 Rainbow 的人员交叉（Dio、Gruber，以及后来的 Powell、Rondinelli）是明确的跨乐队线索。"
       },
-      "stickyVisual": "scene",
-      "sceneIndex": 0,
+      "stickyVisual": "lineupVersions",
       "soundGenre": "heavy-metal"
     },
     {
-      "id": "scene-1",
+      "id": "purple-crossovers",
+      "title": {
+        "en": "Gillan, Hughes, and the Stonehenge tour",
+        "zh": "Gillan、Hughes 与巨石阵巡演"
+      },
+      "body": {
+        "en": "Born Again (1983) pairs Iommi and Butler with Ian Gillan from Deep Purple. Ward quit again when the oversized Stonehenge set went up; Bev Bevan (Electric Light Orchestra) replaced him on that tour.\n\nSeventh Star (1986) is often read as an Iommi solo record issued under the Sabbath name, with Glenn Hughes (also ex–Deep Purple) on vocals.\n\nLive Aid 1985 briefly reunited Osbourne, Iommi, Butler, and Ward.",
+        "zh": "《Born Again》（1983）是 Iommi、Butler 与 Deep Purple 的 Ian Gillan 合作。巨石阵舞台立起后 Ward 再次退出，由 Electric Light Orchestra 的 Bev Bevan 顶替巡演。\n\n《Seventh Star》（1986）常被看作以 Sabbath 名义发行的 Iommi 个人向专辑，主唱为同属前 Deep Purple 的 Glenn Hughes。\n\n1985 年 Live Aid 上 Osbourne、Iommi、Butler、Ward 短暂重聚。"
+      },
+      "stickyVisual": "members",
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/black-sabbath-1977-msg.jpg",
+        "alt": {
+          "en": "Black Sabbath at Madison Square Garden, 1977",
+          "zh": "Black Sabbath 于麦迪逊广场花园，1977"
+        },
+        "credit": "Anthony Catalano",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Sabbath_1977.jpg"
+      }
+    },
+    {
+      "id": "scene-paranoid",
       "title": {
         "en": "Paranoid",
         "zh": "《Paranoid》"
       },
       "body": {
-        "en": "Faster riff and shorter runtime than the title track, still heavy and down-tuned.\n\nIt fits AM/FM length while keeping the early Sabbath guitar tone.\n\nUseful contrast to the slower crawl of Black Sabbath.",
-        "zh": "riff 更快、时长更短，仍保持降调与重量。\n\n适合 AM/FM 时长，同时保留早期 Sabbath 吉他音色。\n\n可与同名曲的慢速形成对照。"
+        "en": "Faster riff and shorter runtime than the title track Black Sabbath, still heavy and down-tuned.\n\nUK chart peak for the album; the single length fits radio while keeping the early Sabbath guitar tone.",
+        "zh": "riff 比同名曲《Black Sabbath》更快、时长更短，仍保持降调与重量。\n\n专辑英榜成绩峰值；单曲时长适合电台，同时保留早期 Sabbath 吉他音色。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
       "soundGenre": "heavy-metal"
     },
     {
-      "id": "dna",
+      "id": "later-years",
       "title": {
-        "en": "Downstream: doom, NWOBHM, grunge",
-        "zh": "下游：doom、NWOBHM、grunge"
+        "en": "Martin years, reunions, Heaven & Hell",
+        "zh": "Martin 时期、重聚与 Heaven & Hell"
       },
       "body": {
-        "en": "Doom keeps the slow dread. NWOBHM keeps riff primacy at higher speed. Seattle grunge cites the heavy low end more than the occult lyric.\n\nInfluence here is catalog and arrangement, not imagery for its own sake.",
-        "zh": "Doom 留下慢与阴郁。NWOBHM 以更高速度保持 riff 优先。西雅图 grunge 更多引用偏重的低频，而非神秘学歌词。\n\n此处影响指向曲目与编曲，而非为意象而意象。"
+        "en": "Tony Martin fronted The Eternal Idol (1987), Headless Cross (1989), and TYR (1990) with Nicholls, Powell, and Iommi. Dehumanizer (1992) briefly reunited Dio, Butler, and Appice; Rob Halford (Judas Priest) covered some live dates after Dio left.\n\nCross Purposes (1994) used Bobby Rondinelli (ex-Rainbow). Forbidden (1995) closed the mid-1990s contract run. Classic-lineup Reunion (1998) and Ozzfest dates followed; Iommi and Butler later worked with Dio and Appice as Heaven & Hell until Dio’s death in 2010.",
+        "zh": "Tony Martin 主唱《The Eternal Idol》（1987）、《Headless Cross》（1989）、《TYR》（1990），与 Nicholls、Powell、Iommi 合作。《Dehumanizer》（1992）短暂重聚 Dio、Butler、Appice；Dio 离队后 Judas Priest 的 Rob Halford 顶过部分现场。\n\n《Cross Purposes》（1994）用前 Rainbow 鼓手 Bobby Rondinelli。《Forbidden》（1995）结束 90 年代中期合同期。之后有经典阵容《Reunion》（1998）与 Ozzfest；Iommi、Butler 再与 Dio、Appice 以 Heaven & Hell 活动，直至 Dio 2010 年去世。"
       },
-      "stickyVisual": "dna",
-      "soundGenre": "hard-rock"
-    },
-    {
-      "id": "quote",
-      "title": {
-        "en": "Heavy first; “metal” later",
-        "zh": "先称「重」；「金属」后至"
-      },
-      "body": {
-        "en": "Early press language often lagged behind the later genre label.\n\nUseful quotes describe volume, gloom, and audience reaction; the name heavy metal arrives more clearly in retrospect.\n\nTrack that naming lag as part of the history.",
-        "zh": "早期媒体用语常落后于后来的类型标签。\n\n有用的引语描述音量、阴郁与听众反应；heavy metal 这一名称更多是事后明确的。\n\n把命名滞后当作历史的一部分追踪。"
-      },
-      "stickyVisual": "quote",
-      "quoteIndex": 0,
+      "stickyVisual": "influence",
       "soundGenre": "heavy-metal"
     }
   ],
@@ -245,8 +431,8 @@
         }
       ],
       "note": {
-        "en": "Founding Ozzy-era peak lineup.",
-        "zh": "创始 Ozzy 时期巅峰阵容。"
+        "en": "Polka Tulk / Earth → Black Sabbath. Debut through Never Say Die!; Paranoid-era peak.",
+        "zh": "Polka Tulk / Earth → Black Sabbath。首专至《Never Say Die!》；《Paranoid》时期峰值。"
       }
     },
     {
@@ -259,7 +445,8 @@
       "members": [
         {
           "name": "Ronnie James Dio",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "ronnie-james-dio"
         },
         {
           "name": "Tony Iommi",
@@ -274,11 +461,79 @@
         {
           "name": "Bill Ward / Vinny Appice",
           "role": "Drums"
+        },
+        {
+          "name": "Geoff Nicholls",
+          "role": "Keyboards"
         }
       ],
       "note": {
-        "en": "Same band name; Dio on vocals for Heaven and Hell and related albums.",
-        "zh": "同名乐队；Dio 主唱《Heaven and Hell》及相关专辑。"
+        "en": "Dio from Rainbow. Heaven and Hell / Mob Rules; Appice after Ward leaves.",
+        "zh": "Dio 来自 Rainbow。《Heaven and Hell》/《Mob Rules》；Ward 离队后 Appice 顶替。"
+      }
+    },
+    {
+      "id": "gillan-era",
+      "label": {
+        "en": "Gillan / Born Again",
+        "zh": "Gillan / Born Again"
+      },
+      "years": "1983–1984",
+      "members": [
+        {
+          "name": "Ian Gillan",
+          "role": "Vocals",
+          "personSlug": "ian-gillan"
+        },
+        {
+          "name": "Tony Iommi",
+          "role": "Guitar",
+          "personSlug": "tony-iommi"
+        },
+        {
+          "name": "Geezer Butler",
+          "role": "Bass",
+          "personSlug": "geezer-butler"
+        },
+        {
+          "name": "Bill Ward / Bev Bevan",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Ian Gillan from Deep Purple. Stonehenge tour stage; Bevan (ELO) on drums for part of the run.",
+        "zh": "Ian Gillan 来自 Deep Purple。巨石阵舞台巡演；部分场次鼓手为 ELO 的 Bevan。"
+      }
+    },
+    {
+      "id": "martin-era",
+      "label": {
+        "en": "Tony Martin years",
+        "zh": "Tony Martin 时期"
+      },
+      "years": "1987–1991; 1993–1997",
+      "members": [
+        {
+          "name": "Tony Martin",
+          "role": "Vocals"
+        },
+        {
+          "name": "Tony Iommi",
+          "role": "Guitar",
+          "personSlug": "tony-iommi"
+        },
+        {
+          "name": "Geoff Nicholls",
+          "role": "Keyboards"
+        },
+        {
+          "name": "Cozy Powell / Bobby Rondinelli",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Eternal Idol / Headless Cross / TYR; Powell and Rondinelli both ex-Rainbow.",
+        "zh": "《Eternal Idol》/《Headless Cross》/《TYR》；Powell 与 Rondinelli 均来自 Rainbow。"
       }
     }
   ],
@@ -287,16 +542,16 @@
       "title": "Black Sabbath",
       "year": 1970,
       "note": {
-        "en": "Tritone opening; early metal reference track.",
-        "zh": "三全音开场；早期金属参照曲。"
+        "en": "Tritone opening; early metal reference track from the UK Top 10 debut.",
+        "zh": "三全音开场；英榜前 10 首专上的早期金属参照曲。"
       }
     },
     "pioneeredGenres": [
       "heavy-metal"
     ],
     "note": {
-      "en": "Heaviness from interval, tempo, and lyric frame—not volume alone.",
-      "zh": "「重」来自音程、速度与歌词框架——不只是音量。"
+      "en": "Heaviness from interval, tempo, and lyric frame—not volume alone. Dio and Purple crossovers keep the later catalog tied to Rainbow and Deep Purple.",
+      "zh": "「重」来自音程、速度与歌词框架——不只是音量。Dio 与 Purple 人员交叉使后期曲目与 Rainbow、Deep Purple 相连。"
     }
   }
 }

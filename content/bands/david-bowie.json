@@ -1,7 +1,7 @@
 {
   "name": "David Bowie",
   "slug": "david-bowie",
-  "formed": 1969,
+  "formed": 1964,
   "origin": "London, UK",
   "primaryEra": "1970s-prog-hard-rock",
   "alsoAppearsIn": [
@@ -11,17 +11,67 @@
     "alternative",
     "psychedelic"
   ],
-  "decisive": false,
+  "decisive": true,
   "whyMatters": {
-    "en": "Solo artist filed here as a band-node. From Space Oddity (1969) through Ziggy glam, the Berlin albums with Eno, and Let’s Dance (1983), persona and production partners change by era on purpose.",
-    "zh": "以乐队节点收录的独唱歌手。从《Space Oddity》（1969）经 Ziggy glam、与 Eno 合作的柏林专辑，到《Let’s Dance》（1983），人设与制作伙伴按时期有意切换。"
+    "en": "Solo artist filed as a band-node. From Space Oddity (1969) through Ziggy glam, the Berlin albums with Eno/Visconti/Fripp, Under Pressure with Queen, and Let’s Dance (1983), persona and session partners change by era on purpose.",
+    "zh": "以乐队节点收录的独唱歌手。从《Space Oddity》（1969）经 Ziggy glam、与 Eno/Visconti/Fripp 的柏林专辑、与 Queen 的《Under Pressure》，到《Let’s Dance》（1983），人设与录音室伙伴按时期有意切换。"
   },
   "members": [
     {
       "name": "David Bowie",
       "role": "Vocals, Guitar, Keys",
-      "years": "1969–2016",
+      "years": "1964–2016",
       "personSlug": "david-bowie"
+    },
+    {
+      "name": "Mick Ronson",
+      "role": "Guitar",
+      "years": "1970–1973"
+    },
+    {
+      "name": "Woody Woodmansey",
+      "role": "Drums",
+      "years": "1970–1973"
+    },
+    {
+      "name": "Trevor Bolder",
+      "role": "Bass",
+      "years": "1971–1973"
+    },
+    {
+      "name": "Carlos Alomar",
+      "role": "Guitar",
+      "years": "1974–2004"
+    },
+    {
+      "name": "Mike Garson",
+      "role": "Piano",
+      "years": "1972–2004"
+    },
+    {
+      "name": "Earl Slick",
+      "role": "Guitar",
+      "years": "1974–1976; 1983"
+    },
+    {
+      "name": "Brian Eno",
+      "role": "Treatments, Keys",
+      "years": "1977–1979; 1995"
+    },
+    {
+      "name": "Adrian Belew",
+      "role": "Guitar",
+      "years": "1978–1979"
+    },
+    {
+      "name": "Reeves Gabrels",
+      "role": "Guitar",
+      "years": "1988–1999"
+    },
+    {
+      "name": "Gail Ann Dorsey",
+      "role": "Bass, Vocals",
+      "years": "1995–2004"
     }
   ],
   "essentialTracks": [
@@ -38,6 +88,10 @@
       "year": 1977
     },
     {
+      "title": "Under Pressure",
+      "year": 1981
+    },
+    {
       "title": "Let's Dance",
       "year": 1983
     }
@@ -50,7 +104,7 @@
         "David Bowie",
         "Mick Ronson",
         "Trevor Bolder",
-        "Mick Woodmansey"
+        "Woody Woodmansey"
       ],
       "genreTags": [
         "psychedelic",
@@ -58,8 +112,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Ziggy-era glam; Mick Ronson guitar. Top of the Pops performance widely cited for UK visibility.",
-        "zh": "Ziggy 时期 glam；Mick Ronson 吉他。Top of the Pops 演出常被引用为英国可见度节点。"
+        "en": "Ziggy-era glam with Spiders from Mars (Ronson, Bolder, Woodmansey). Part of the 1972–77 run the book compares only to The Beatles for pace.",
+        "zh": "Ziggy 时期 glam，Spiders from Mars（Ronson、Bolder、Woodmansey）。书中把 1972–77 出片节奏仅与 The Beatles 相比。"
       }
     },
     {
@@ -76,8 +130,28 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Berlin-period track; Fripp guitar feedback beds, Eno treatments, Visconti production.",
-        "zh": "柏林时期曲目；Fripp 吉他反馈铺底、Eno 处理、Visconti 制作。"
+        "en": "Berlin-period track; Fripp guitar, Eno treatments, Visconti production. King Crimson’s Fripp on a Bowie session.",
+        "zh": "柏林时期曲目；Fripp 吉他、Eno 处理、Visconti 制作。King Crimson 的 Fripp 出现在 Bowie 录音中。"
+      }
+    },
+    {
+      "year": 1981,
+      "track": "Under Pressure",
+      "membersOnStage": [
+        "David Bowie",
+        "Freddie Mercury",
+        "Brian May",
+        "Roger Taylor",
+        "John Deacon"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "alternative"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Duet with Queen between Scary Monsters and Let’s Dance; written during a shared studio period.",
+        "zh": "《Scary Monsters》与《Let’s Dance》之间与 Queen 的对唱；共享录音室时期写成。"
       }
     },
     {
@@ -94,34 +168,30 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Nile Rodgers production with Stevie Ray Vaughan guitar; major 1980s pop-radio hit.",
-        "zh": "Nile Rodgers 制作，Stevie Ray Vaughan 吉他；1980 年代流行电台重要热单。"
+        "en": "Nile Rodgers production with Stevie Ray Vaughan guitar; highest-selling Bowie album in the book’s figures.",
+        "zh": "Nile Rodgers 制作，Stevie Ray Vaughan 吉他；书中销量数字最高的 Bowie 专辑。"
       }
     }
   ],
   "interviewQuotes": [
     {
-      "text": "I don't know where I'm going from here, but I promise it won't be boring.",
+      "text": "Nile Rodgers… specializes in making hit songs.",
       "speaker": "David Bowie",
-      "source": "Interview excerpt · quote wall",
-      "year": 1990
-    },
-    {
-      "text": "I'm an instant star. Just add water and stir.",
-      "speaker": "David Bowie",
-      "source": "Press excerpt",
-      "year": 1972
+      "source": "On hiring Rodgers for Let’s Dance · book paraphrase",
+      "year": 1983
     }
   ],
   "lyricQuotes": [
     "Ground control to Major Tom",
-    "We can be heroes, just for one day"
+    "We can be heroes, just for one day",
+    "Under pressure"
   ],
   "relatedBands": [
     "queen",
+    "king-crimson",
     "pink-floyd",
-    "talking-heads",
-    "king-crimson"
+    "the-beatles",
+    "the-velvet-underground"
   ],
   "influenceFrom": [
     "the-beatles",
@@ -133,79 +203,110 @@
     "the-cure"
   ],
   "shortBio": {
-    "en": "Solo node, 1969–2016. Ziggy glam, Berlin trilogy, Let’s Dance; session partners shift with each era.",
-    "zh": "独唱节点，1969–2016。Ziggy glam、柏林三部曲、《Let’s Dance》；录音室伙伴随时期更换。"
+    "en": "Solo node, 1964–2016. Ziggy glam, Berlin trilogy, Under Pressure with Queen, Let’s Dance; session partners shift with each era.",
+    "zh": "独唱节点，1964–2016。Ziggy glam、柏林三部曲、与 Queen 的《Under Pressure》、《Let’s Dance》；录音室伙伴随时期更换。"
   },
   "body": {
-    "en": "Career markers run from Space Oddity (1969) through The Rise and Fall of Ziggy Stardust and the Spiders from Mars (1972), the Eno collaborations Low and “Heroes” (1977), and Let’s Dance (1983).\n\nIn this graph, Bowie matters for planned style and lineup change. Session players and producers—Mick Ronson, Tony Visconti, Brian Eno, Nile Rodgers—are as important as the stage characters.",
-    "zh": "生涯标记从《Space Oddity》（1969）经《The Rise and Fall of Ziggy Stardust and the Spiders from Mars》（1972）、与 Eno 合作的《Low》与《“Heroes”》（1977），到《Let’s Dance》（1983）。\n\n在本图谱里，Bowie 的重点是有计划的风格与阵容切换。录音室乐手与制作人——Mick Ronson、Tony Visconti、Brian Eno、Nile Rodgers——与舞台角色同等重要。"
+    "en": "David Jones worked early singles with King Bees, Lower Third, and Manish Boys—I Pity the Fool (1965) featured a young Jimmy Page—then renamed himself Bowie. Space Oddity (1969), with future Yes keyboardist Rick Wakeman, was the first major hit. He brought in Tony Visconti, Mick Ronson, Trevor Bolder (later Uriah Heep), and Woody Woodmansey.\n\nThe Man Who Sold the World and Hunky Dory sold poorly until The Rise and Fall of Ziggy Stardust and the Spiders from Mars (1972). From then through 1977 the book compares his release pace only to The Beatles: Aladdin Sane, Diamond Dogs, Young Americans, Station to Station, Low, “Heroes,” plus co-work on Iggy Pop’s The Idiot and Lust for Life. Pin Ups and David Live also charted high.\n\nGuitar chairs moved from Ronson to Earl Slick to Carlos Alomar; Fame (with Alomar and John Lennon) was his first US #1. Young Americans highlighted Luther Vandross; Diamond Dogs featured Herbie Flowers (also on Lou Reed’s Walk on the Wild Side, produced by Bowie). Mike Garson’s piano marks Aladdin Sane and Young Americans. Station to Station used Roy Bittan; tours later swapped in Yes’s Tony Kaye.\n\nThe Berlin trilogy (Low, “Heroes,” Lodger) leaned on Eno and Visconti; Fripp played on “Heroes,” Belew on Lodger and 1978 live dates (then King Crimson in 1981). Scary Monsters (Fripp, Bittan, Pete Townshend) closed the traditional chapter. Between films he cut Under Pressure with Queen and Cat People with Giorgio Moroder.\n\nLeaving RCA, he hired Nile Rodgers and Stevie Ray Vaughan for Let’s Dance (1983), his biggest seller. Later work includes Tin Machine, Black Tie White Noise (Rodgers/Ronson), 1.Outside (Eno/Garson), Earthling/Hours… (Gabrels, Gail Ann Dorsey), Heathen/Reality (Visconti; Townshend and Dave Grohl guests). A 1977 premiere photo places him with Andy Warhol associate Monique Van Vooren. The Next Day (2013) returned after a long pause; he died of cancer in January 2016.",
+    "zh": "David Jones 早期与 King Bees、Lower Third、Manish Boys 发单曲——《I Pity the Fool》（1965）有年轻的 Jimmy Page——后改名 Bowie。《Space Oddity》（1969，未来 Yes 键盘手 Rick Wakeman 参与）是首支重要热单。他请来 Tony Visconti、Mick Ronson、Trevor Bolder（后入 Uriah Heep）与 Woody Woodmansey。\n\n《The Man Who Sold the World》与《Hunky Dory》销量不佳，直到《The Rise and Fall of Ziggy Stardust and the Spiders from Mars》（1972）。书中称 1972–77 出片速度仅 The Beatles 可比：Aladdin Sane、Diamond Dogs、Young Americans、Station to Station、Low、《“Heroes”》，以及参与 Iggy Pop 的《The Idiot》《Lust for Life》。《Pin Ups》与《David Live》也高榜。\n\n吉他席从 Ronson 换到 Earl Slick 再到 Carlos Alomar；《Fame》（与 Alomar、John Lennon）是首支美国冠军单曲。《Young Americans》突出 Luther Vandross；《Diamond Dogs》有 Herbie Flowers（亦参与 Bowie 制作的 Lou Reed《Walk on the Wild Side》）。Mike Garson 钢琴见于 Aladdin Sane 与 Young Americans。《Station to Station》用 Roy Bittan；巡演后来换上 Yes 的 Tony Kaye。\n\n柏林三部曲（Low、《“Heroes”》、Lodger）倚重 Eno 与 Visconti；Fripp 出现在《“Heroes”》，Belew 出现在 Lodger 与 1978 现场（1981 年加入 King Crimson）。《Scary Monsters》（Fripp、Bittan、Pete Townshend）结束传统篇章。拍片间隙与 Queen 录《Under Pressure》，与 Giorgio Moroder 录《Cat People》。\n\n离开 RCA 后，他请来 Nile Rodgers 与 Stevie Ray Vaughan 做《Let’s Dance》（1983），销量最高。之后有 Tin Machine、《Black Tie White Noise》（Rodgers/Ronson）、《1.Outside》（Eno/Garson）、Earthling/Hours…（Gabrels、Gail Ann Dorsey）、Heathen/Reality（Visconti；Townshend、Dave Grohl 客串）。1977 年首映礼照片中他与安迪·沃霍尔圈子的 Monique Van Vooren 同框。长期间歇后以《The Next Day》（2013）复出；2016 年 1 月因癌症去世。"
   },
   "narrative": [
     {
-      "id": "thesis",
+      "id": "era-method",
       "title": {
-        "en": "Era changes as working practice",
+        "en": "Era change as method",
         "zh": "按时期切换的工作方式"
       },
       "body": {
-        "en": "Filed as a band-node: glam, Berlin, and Let’s Dance eras show planned production and costume changes. Session partners (Ronson, Eno, Fripp, Rodgers) belong in the method, not as side notes.\n\nChange is constant across the catalog.",
-        "zh": "以乐队节点收录：glam、柏林、Let’s Dance 时期展示有计划的制作与造型切换。录音室伙伴（Ronson、Eno、Fripp、Rodgers）属于工作方式本身，不是旁注。\n\n切换贯穿整份目录。"
+        "en": "Filed as a band-node: glam, Berlin, and Let’s Dance eras show planned production and costume changes. Session partners—Ronson, Visconti, Eno, Fripp, Belew, Rodgers—belong in the method.\n\nThe 1972–77 album run is the densest stretch.",
+        "zh": "以乐队节点收录：glam、柏林、Let’s Dance 时期展示有计划的制作与造型切换。录音室伙伴——Ronson、Visconti、Eno、Fripp、Belew、Rodgers——属于工作方式本身。\n\n1972–77 出专密度最高。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "alternative"
-    },
-    {
-      "id": "eras",
-      "title": {
-        "en": "Ziggy, Berlin, Let’s Dance teams",
-        "zh": "Ziggy、柏林、Let’s Dance 团队"
-      },
-      "body": {
-        "en": "Lineup versions here mean era teams: Spiders from Mars (Ziggy), Eno/Fripp/Visconti (Berlin), Rodgers/Vaughan (Let’s Dance). Same name; different studio fingerprints.\n\nUse the versions as production chapters.",
-        "zh": "此处阵容版本即时期团队：Spiders from Mars（Ziggy）、Eno/Fripp/Visconti（柏林）、Rodgers/Vaughan（Let’s Dance）。同一名字；不同录音室指纹。\n\n把版本当制作章节用。"
-      },
-      "stickyVisual": "lineupVersions",
-      "soundGenre": "alternative"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/david-bowie-ziggy-santa-monica-1972.jpg",
+        "alt": {
+          "en": "David Bowie as Ziggy Stardust at Santa Monica Civic Auditorium, 1972",
+          "zh": "David Bowie 以 Ziggy Stardust 造型于 Santa Monica Civic Auditorium，1972"
+        },
+        "credit": "Boris Yaro / Los Angeles Times",
+        "license": "CC BY 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Bowie,_as_Ziggy_Stardust,_performing_at_the_Santa_Monica_Civic_Auditorium.jpg"
+      }
     },
     {
       "id": "ziggy",
       "title": {
-        "en": "Starman and Ziggy",
-        "zh": "《Starman》与 Ziggy"
+        "en": "Ziggy and the Spiders",
+        "zh": "Ziggy 与 Spiders"
       },
       "body": {
-        "en": "The Ziggy Stardust cycle uses Ronson’s guitar and string arrangements with Bowie’s character vocal. The Top of the Pops performance is a UK media marker for glam visibility.\n\nSpace Oddity (1969) remains the earlier chart entry.",
-        "zh": "Ziggy Stardust 周期使用 Ronson 吉他与弦乐编排，以及 Bowie 的角色人声。Top of the Pops 演出是英国 glam 可见度的媒体标记。\n\n《Space Oddity》（1969）仍是更早的榜单入口。"
+        "en": "Ronson’s guitar and string arrangements carry the Ziggy cycle with Bowie’s character vocal. Space Oddity (1969) remains the earlier chart entry; Wakeman appears there and on Hunky Dory.\n\nSpiders rhythm section: Bolder and Woodmansey.",
+        "zh": "Ronson 的吉他与弦乐编排支撑 Ziggy 周期，配合 Bowie 的角色人声。《Space Oddity》（1969）仍是更早的榜单入口；Wakeman 出现在该曲与《Hunky Dory》。\n\nSpiders 节奏组：Bolder 与 Woodmansey。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
-      "soundGenre": "psychedelic"
+      "soundGenre": "psychedelic",
+      "stickyImage": {
+        "src": "/media/bands/david-bowie-live-1974.jpg",
+        "alt": {
+          "en": "David Bowie live, Diamond Dogs tour period, 1974",
+          "zh": "David Bowie 现场，Diamond Dogs 巡演时期，1974"
+        },
+        "credit": "RCA Records / Billboard ad",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Bowie_Live_1974.jpg"
+      }
     },
     {
-      "id": "berlin",
+      "id": "berlin-fripp-belew",
       "title": {
-        "en": "Berlin period",
-        "zh": "柏林时期"
+        "en": "Berlin: Eno, Fripp, Belew",
+        "zh": "柏林：Eno、Fripp、Belew"
       },
       "body": {
-        "en": "Low and “Heroes” (with Eno) foreground ambient beds, Fripp feedback, and Visconti production. The vocal sits inside texture more than arena melisma.\n\nPunk and post-punk neighbors cite this period’s cool more often than Ziggy glitter.",
-        "zh": "《Low》与《“Heroes”》（与 Eno）突出氛围铺底、Fripp 反馈与 Visconti 制作。人声坐在纹理里，而非体育场花腔。\n\n朋克与后朋克邻域更多引用这一时期的冷感，而非 Ziggy 闪光。"
+        "en": "Low, “Heroes,” and Lodger open new texture ground. Visconti’s drum sound on Low and The Idiot matters as much as Eno’s treatments. Fripp’s guitar on “Heroes” links to King Crimson; Belew on Lodger later joins Crimson (1981).\n\nIggy’s Lust for Life shares the Sales brothers’ rhythm section later used in Tin Machine.",
+        "zh": "《Low》、《“Heroes”》、《Lodger》开辟新的织体空间。Visconti 在《Low》与《The Idiot》上的鼓声与 Eno 的处理同样重要。Fripp 在《“Heroes”》上的吉他连向 King Crimson；Lodger 上的 Belew 后来加入 Crimson（1981）。\n\nIggy 的《Lust for Life》与后来 Tin Machine 共用 Sales 兄弟节奏组。"
       },
       "stickyVisual": "dna",
-      "soundGenre": "alternative"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/david-bowie-lodger-1979.jpg",
+        "alt": {
+          "en": "David Bowie publicity photo for Lodger, 1979 (RCA)",
+          "zh": "David Bowie《Lodger》1979 年宣传照（RCA）"
+        },
+        "credit": "RCA Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Bowie_Lodger_(1979_RCA_publicity_photo_01).jpg"
+      }
     },
     {
-      "id": "quote",
+      "id": "queen-under-pressure",
       "title": {
-        "en": "Quotes and session credits",
-        "zh": "引语与录音室署名"
+        "en": "Under Pressure with Queen",
+        "zh": "与 Queen 的《Under Pressure》"
       },
       "body": {
-        "en": "Circulated lines emphasize change and constructed stardom. Pair them with named producers and session players on the records.\n\nQuotes are posture evidence beside the credits.",
-        "zh": "流传短句强调切换与建构出的明星身份。对照唱片上具名制作人与录音室乐手。\n\n引语是姿态证据，与署名并列。"
+        "en": "Between Scary Monsters and the Let’s Dance pop scale, Bowie co-wrote Under Pressure with Queen. It is the clearest Queen cross-link in this node—alongside Fripp/Belew ties to King Crimson.\n\nA 1977 film-premiere photo with Warhol associate Monique Van Vooren is the book’s Warhol-circle mention.",
+        "zh": "在《Scary Monsters》与《Let’s Dance》流行尺度之间，Bowie 与 Queen 合写《Under Pressure》。这是本节点与 Queen 最清楚的交叉——并与 Fripp/Belew 连向 King Crimson。\n\n1977 年电影首映礼与沃霍尔圈子 Monique Van Vooren 的合影，是书中对沃霍尔圈的提及。"
       },
-      "stickyVisual": "quote",
-      "quoteIndex": 0,
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "hard-rock"
+    },
+    {
+      "id": "lets-dance",
+      "title": {
+        "en": "Let's Dance",
+        "zh": "《Let's Dance》"
+      },
+      "body": {
+        "en": "After leaving RCA, Bowie hired Nile Rodgers—“specializes in making hit songs”—and then-little-known Stevie Ray Vaughan on guitar. Let’s Dance became his highest-selling album.\n\nTonight and Never Let Me Down followed with mixed US results; Tin Machine and later Visconti returns form separate chapters.",
+        "zh": "离开 RCA 后，Bowie 请来 Nile Rodgers——「专门制作热门歌曲」——以及当时尚不广为人知的 Stevie Ray Vaughan 弹吉他。《Let’s Dance》成为其销量最高专辑。\n\n《Tonight》与《Never Let Me Down》在美国成绩一般；Tin Machine 与后来 Visconti 回归是另一章节。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 3,
       "soundGenre": "alternative"
     },
     {
@@ -215,8 +316,8 @@
         "zh": "后来 alternative 的引用"
       },
       "body": {
-        "en": "Radiohead and later alternative acts cite Berlin-era studio work. Punk and glam both claim pieces of the costume history.\n\nIn this graph: deliberate era change as catalog structure.",
-        "zh": "Radiohead 与后来 alternative 引用柏林时期录音室工作。朋克与 glam 都认领戏服史的一部分。\n\n在本图谱：有意的时期切换即目录结构。"
+        "en": "Radiohead and later alternative acts cite Berlin-era studio work. Heathen/Reality guests (Townshend, Grohl) show late-career cross-links. The Next Day (2013) preceded his 2016 death.\n\nIn this graph: deliberate era change, plus Queen and Crimson session ties.",
+        "zh": "Radiohead 与后来 alternative 引用柏林时期录音室工作。Heathen/Reality 客串（Townshend、Grohl）显示晚期交叉。《The Next Day》（2013）之后是 2016 年去世。\n\n在本图谱：有意的时期切换，外加 Queen 与 Crimson 录音室联系。"
       },
       "stickyVisual": "influence",
       "soundGenre": "alternative"
@@ -246,7 +347,7 @@
           "role": "Bass"
         },
         {
-          "name": "Mick Woodmansey",
+          "name": "Woody Woodmansey",
           "role": "Drums"
         }
       ],
@@ -273,8 +374,8 @@
           "role": "Treatments, Keys"
         },
         {
-          "name": "Tony Visconti",
-          "role": "Production, Bass"
+          "name": "Adrian Belew",
+          "role": "Guitar (Lodger / live)"
         },
         {
           "name": "Robert Fripp",
@@ -282,8 +383,8 @@
         }
       ],
       "note": {
-        "en": "Low / “Heroes” / Lodger; texture and ambient beds.",
-        "zh": "《Low》/《“Heroes”》/《Lodger》；纹理与氛围铺底。"
+        "en": "Low / “Heroes” / Lodger; Visconti production; Fripp and Belew session links.",
+        "zh": "《Low》/《“Heroes”》/《Lodger》；Visconti 制作；Fripp 与 Belew 录音室联系。"
       }
     },
     {
@@ -300,17 +401,17 @@
           "personSlug": "david-bowie"
         },
         {
-          "name": "Nile Rodgers",
-          "role": "Production, Guitar"
+          "name": "Carlos Alomar",
+          "role": "Guitar"
         },
         {
-          "name": "Stevie Ray Vaughan",
+          "name": "Earl Slick",
           "role": "Guitar"
         }
       ],
       "note": {
-        "en": "Major pop-radio scale; funk-rock production with Rodgers.",
-        "zh": "大型流行电台尺度；与 Rodgers 的放克摇滚制作。"
+        "en": "Rodgers production and Vaughan guitar on the album; Alomar/Slick on Serious Moonlight tours.",
+        "zh": "专辑上 Rodgers 制作与 Vaughan 吉他；Serious Moonlight 巡演含 Alomar/Slick。"
       }
     }
   ],
@@ -319,8 +420,8 @@
       "title": "Space Oddity",
       "year": 1969,
       "note": {
-        "en": "Early UK chart single; Major Tom as recurring character.",
-        "zh": "早期英国榜单单曲；Major Tom 作为反复出现的角色。"
+        "en": "Early UK chart single; Major Tom; Wakeman on keys.",
+        "zh": "早期英国榜单单曲；Major Tom；Wakeman 键盘。"
       }
     },
     "pioneeredGenres": [
@@ -328,8 +429,8 @@
       "psychedelic"
     ],
     "note": {
-      "en": "Persona and production partners change by era on purpose.",
-      "zh": "人设与制作伙伴按时期有意切换。"
+      "en": "Persona and production partners change by era; Queen and Crimson session ties.",
+      "zh": "人设与制作伙伴按时期切换；与 Queen、Crimson 有录音室联系。"
     }
   }
 }

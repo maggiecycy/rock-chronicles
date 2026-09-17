@@ -1,7 +1,7 @@
 {
   "name": "King Crimson",
   "slug": "king-crimson",
-  "formed": 1968,
+  "formed": 1969,
   "origin": "London, UK",
   "primaryEra": "1970s-prog-hard-rock",
   "genres": [
@@ -9,30 +9,75 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "Robert Fripp–centered progressive band formed in 1968. Lineups change sharply across eras—from In the Court of the Crimson King (1969) to the 1980s dual-guitar Discipline group—while Fripp remains the constant.",
-    "zh": "以 Robert Fripp 为中心的 progressive 乐队，1968 年成立。阵容跨时期变动很大——从《In the Court of the Crimson King》（1969）到 1980 年代《Discipline》双吉他编制——Fripp 始终保留。"
+    "en": "Robert Fripp–centered progressive band formed in London in 1969. Three clear phases—symphonic debut, mid-70s improv edge, 1980s Discipline dual-guitar—each leave a catalog mark while Fripp stays constant.",
+    "zh": "以 Robert Fripp 为中心的 progressive 乐队，1969 年于伦敦成立。三个清楚阶段——交响首专、70 年代中期即兴边缘、80 年代《Discipline》双吉他——各自留下目录标记，Fripp 始终保留。"
   },
   "members": [
     {
       "name": "Robert Fripp",
       "role": "Guitar",
-      "years": "1968–1969",
+      "years": "1969–present",
       "personSlug": "robert-fripp"
     },
     {
-      "name": "Greg Lake",
-      "role": "Vocals, Bass",
-      "years": "1968–1969"
-    },
-    {
       "name": "Ian McDonald",
-      "role": "Mellotron, Woodwinds",
-      "years": "1968–1969"
+      "role": "Woodwinds, Keys",
+      "years": "1969"
     },
     {
       "name": "Michael Giles",
       "role": "Drums",
-      "years": "1968–1969"
+      "years": "1969"
+    },
+    {
+      "name": "Greg Lake",
+      "role": "Vocals, Bass",
+      "years": "1969"
+    },
+    {
+      "name": "Pete Sinfield",
+      "role": "Lyrics",
+      "years": "1969–1971"
+    },
+    {
+      "name": "Bill Bruford",
+      "role": "Drums",
+      "years": "1972–1974; 1981–1998"
+    },
+    {
+      "name": "Adrian Belew",
+      "role": "Vocals, Guitar",
+      "years": "1981–2008"
+    },
+    {
+      "name": "Tony Levin",
+      "role": "Bass, Stick",
+      "years": "1981–1999; 2003–present"
+    },
+    {
+      "name": "John Wetton",
+      "role": "Vocals, Bass",
+      "years": "1972–1974"
+    },
+    {
+      "name": "David Cross",
+      "role": "Violin, Keys",
+      "years": "1972–1974"
+    },
+    {
+      "name": "Mel Collins",
+      "role": "Flute, Saxophone",
+      "years": "1970–1972"
+    },
+    {
+      "name": "Trey Gunn",
+      "role": "Guitar, Bass",
+      "years": "1994–2003"
+    },
+    {
+      "name": "Pat Mastelotto",
+      "role": "Drums",
+      "years": "1994–present"
     }
   ],
   "essentialTracks": [
@@ -47,6 +92,10 @@
     {
       "title": "Elephant Talk",
       "year": 1981
+    },
+    {
+      "title": "Larks' Tongues in Aspic, Part One",
+      "year": 1973
     }
   ],
   "scenes": [
@@ -64,23 +113,26 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Opener of In the Court of the Crimson King; distorted vocal, saxophone, heavy riff.",
-        "zh": "《In the Court of the Crimson King》开场曲；失真人声、萨克斯、重 riff。"
+        "en": "Opener of In the Court of the Crimson King; distorted vocal, saxophone, heavy riff against Mellotron ballads on the same album.",
+        "zh": "《In the Court of the Crimson King》开场曲；失真人声、萨克斯、重 riff，与同专 Mellotron 叙事曲并置。"
       }
     },
     {
       "year": 1974,
       "track": "Starless",
       "membersOnStage": [
-        "Robert Fripp"
+        "Robert Fripp",
+        "John Wetton",
+        "Bill Bruford",
+        "David Cross"
       ],
       "genreTags": [
         "progressive-rock"
       ],
       "intensity": 2,
       "note": {
-        "en": "From Red (1974); long-form piece with slow build and late climax.",
-        "zh": "出自《Red》（1974）；长曲，慢起与后段高潮。"
+        "en": "From Red (1974); long-form piece at the end of the Wetton/Bruford era before Fripp dissolved the band again.",
+        "zh": "出自《Red》（1974）；Wetton/Bruford 时期末的长曲，此后 Fripp 再度解散乐队。"
       }
     },
     {
@@ -88,15 +140,17 @@
       "track": "Elephant Talk",
       "membersOnStage": [
         "Robert Fripp",
-        "Adrian Belew"
+        "Adrian Belew",
+        "Tony Levin",
+        "Bill Bruford"
       ],
       "genreTags": [
         "progressive-rock"
       ],
       "intensity": 2,
       "note": {
-        "en": "From Discipline; Belew vocal/guitar with Fripp interlocking guitar lines.",
-        "zh": "出自《Discipline》；Belew 人声/吉他与 Fripp 交织吉他线条。"
+        "en": "From Discipline; Belew (ex–Frank Zappa / Bowie tours) vocal/guitar with Fripp interlocking lines; Levin from Peter Gabriel’s band.",
+        "zh": "出自《Discipline》；Belew（前 Frank Zappa / Bowie 巡演）人声/吉他与 Fripp 交织线条；Levin 来自 Peter Gabriel 乐队。"
       }
     }
   ],
@@ -106,12 +160,6 @@
       "speaker": "Robert Fripp",
       "source": "Interview excerpt · quote wall",
       "year": 1981
-    },
-    {
-      "text": "Discipline is a vehicle for music.",
-      "speaker": "Robert Fripp",
-      "source": "Workshop / interview excerpt",
-      "year": 1995
     }
   ],
   "lyricQuotes": [
@@ -120,97 +168,129 @@
   ],
   "relatedBands": [
     "pink-floyd",
+    "david-bowie",
     "led-zeppelin"
   ],
   "influenceFrom": [],
   "influenced": [
-    "radiohead"
+    "radiohead",
+    "tool"
   ],
   "shortBio": {
-    "en": "London progressive rock, 1968–. Fripp constant across casts; Schizoid Man, Starless, and Elephant Talk mark three eras.",
-    "zh": "伦敦 progressive rock，1968 年至今。Fripp 跨阵容保留；《Schizoid Man》、《Starless》、《Elephant Talk》标记三个时期。"
+    "en": "London progressive rock, 1969–. Fripp constant across casts; Court, Red, and Discipline mark three eras.",
+    "zh": "伦敦 progressive rock，1969 年至今。Fripp 跨阵容保留；Court、《Red》、《Discipline》标记三个时期。"
   },
   "body": {
-    "en": "King Crimson formed in London in 1968. The debut In the Court of the Crimson King (1969) sets Mellotron textures against dissonant rock. The mid-1970s Wetton/Bruford years add improvisation and long pieces such as Starless. The 1981 Belew/Levin/Bruford lineup uses interlocking guitar parts on Discipline (Elephant Talk).\n\nFripp remains across reforms; bass, drums, vocals, and reeds change by decade. Later projects continue under the same name with new casts.",
-    "zh": "King Crimson 于 1968 年在伦敦成立。首专《In the Court of the Crimson King》（1969）把 Mellotron 织体与不协和摇滚并置。1970 年代中期 Wetton/Bruford 年加入即兴与《Starless》一类长曲。1981 年 Belew/Levin/Bruford 阵容在《Discipline》上使用交织吉他（《Elephant Talk》）。\n\nFripp 在重组中保留；贝斯、鼓、人声与簧乐按年代更换。之后项目仍以同名与新阵容继续。"
+    "en": "King Crimson formed in London in 1969 with Robert Fripp (guitar), Ian McDonald (woodwinds/keys), Greg Lake (vocals/bass), Michael Giles (drums), and Pete Sinfield (lyrics). Fripp had been in Giles, Giles & Fripp; the new band was different. In the Court of the Crimson King (1969) hit both sides of the Atlantic: Epitaph and the title track as solemn Mellotron pieces, 21st Century Schizoid Man as heavy attack.\n\nUS-tour fallout broke the debut lineup. In the Wake of Poseidon (1970) still sold well with Mel Collins and Gordon Haskell among replacements. Lizard (1970) featured Keith Tippett and Yes singer Jon Anderson; Islands (1971) with Boz Burrell and Ian Wallace closed the first stylistic phase.\n\nA 1972 restart brought John Wetton, Bill Bruford (ex-Yes), David Cross, Jamie Muir, and lyricist Richard Palmer-James (ex-Supertramp founding circle). Larks’ Tongues in Aspic (1973), Starless and Bible Black, and Red (1974) are the mid-era peak before Fripp dissolved the band again.\n\nThe 1981 return paired Fripp and Bruford with Adrian Belew (ex–Frank Zappa; also on Bowie’s Lodger and 1978 live shows) and Tony Levin (from Peter Gabriel). Discipline (1981), Beat (1982), and Three of a Perfect Pair (1984) pushed interlocking guitar and Stick bass at the hard-rock / jazz-rock edge. After a decade apart, the mid-1990s “double trio” added Trey Gunn and Pat Mastelotto (Thrak, 1995); later albums include The ConstruKction of Light (2000) and The Power to Believe (2003). Activity paused in 2009 and resumed in 2014.",
+    "zh": "King Crimson 于 1969 年在伦敦成立，成员为 Robert Fripp（吉他）、Ian McDonald（木管/键盘）、Greg Lake（主唱/贝斯）、Michael Giles（鼓）与 Pete Sinfield（作词）。Fripp 曾在 Giles, Giles & Fripp；新乐队不同。《In the Court of the Crimson King》（1969）两岸都有成绩：《Epitaph》与同名曲偏庄严 Mellotron，《21st Century Schizoid Man》则是重攻击。\n\n美国巡演余波拆散首专阵容。《In the Wake of Poseidon》（1970）仍畅销，替换者包括 Mel Collins、Gordon Haskell。《Lizard》（1970）有 Keith Tippett 与 Yes 主唱 Jon Anderson；《Islands》（1971，Boz Burrell、Ian Wallace）结束第一风格阶段。\n\n1972 年重启引入 John Wetton、Bill Bruford（前 Yes）、David Cross、Jamie Muir，以及作词 Richard Palmer-James（Supertramp 创始圈）。《Larks' Tongues in Aspic》（1973）、《Starless and Bible Black》与《Red》（1974）是中期高峰，随后 Fripp 再度解散。\n\n1981 年回归由 Fripp、Bruford 搭配 Adrian Belew（前 Frank Zappa；亦参与 Bowie《Lodger》与 1978 现场）与 Tony Levin（来自 Peter Gabriel）。《Discipline》（1981）、《Beat》（1982）、《Three of a Perfect Pair》（1984）在硬摇滚/爵士摇滚边缘推进交织吉他与 Stick 贝斯。十年间歇后，90 年代中期「双三重奏」加入 Trey Gunn、Pat Mastelotto（《Thrak》，1995）；之后有《The ConstruKction of Light》（2000）、《The Power to Believe》（2003）。2009 年休整，2014 年恢复。"
   },
   "narrative": [
     {
-      "id": "thesis",
+      "id": "three-phases",
       "title": {
-        "en": "Core approach",
-        "zh": "核心做法"
+        "en": "Three phases",
+        "zh": "三个阶段"
       },
       "body": {
-        "en": "King Crimson keeps the name and Fripp’s standards while replacing instrumental casts.\n\nThat differs from a stable four-piece catalog like Led Zeppelin IV—useful contrast in this chronicle.",
-        "zh": "King Crimson 保留名称与 Fripp 的标准，同时更换乐器人马。\n\n这与 Led Zeppelin IV 一类稳定四人编制不同——在本编年中可作对照。"
+        "en": "The book frames King Crimson in three phases: symphonic-rock pioneer (Court era), progressive / jazz-rock edge (Wetton/Bruford), and advanced interlocking music (Discipline onward).\n\nFripp remains; bass, drums, vocals, and reeds change by decade. The versions are the catalog.",
+        "zh": "书中把 King Crimson 分成三阶段：交响摇滚试验（Court 时期）、progressive / 爵士摇滚边缘（Wetton/Bruford）、更前沿的交织写法（《Discipline》以降）。\n\nFripp 保留；贝斯、鼓、人声与簧乐按年代更换。这些版本就是目录本身。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "progressive-rock"
+      "soundGenre": "progressive-rock",
+      "stickyImage": {
+        "src": "/media/bands/king-crimson-robert-fripp.jpg",
+        "alt": {
+          "en": "Robert Fripp",
+          "zh": "Robert Fripp"
+        },
+        "credit": "Sean Coon",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Fripp.jpg"
+      }
     },
     {
-      "id": "lineup-versions",
+      "id": "court",
       "title": {
-        "en": "Court, 1970s, Discipline eras",
-        "zh": "Court、1970 年代、Discipline 时期"
+        "en": "In the Court of the Crimson King",
+        "zh": "《In the Court of the Crimson King》"
       },
       "body": {
-        "en": "Each era has a distinct sound: Mellotron-led debut rock, freer mid-70s improvisation, then interlocking dual guitar on Discipline.\n\nThe versions are the catalog, not side notes.",
-        "zh": "每个时期声音不同：Mellotron 主导的首专摇滚、偏自由的 70 年代中期即兴，再到《Discipline》上的双吉他交织。\n\n这些版本就是目录本身，不是旁注。"
-      },
-      "stickyVisual": "lineupVersions",
-      "soundGenre": "progressive-rock"
-    },
-    {
-      "id": "schizoid",
-      "title": {
-        "en": "21st Century Schizoid Man",
-        "zh": "《21st Century Schizoid Man》"
-      },
-      "body": {
-        "en": "Distorted vocal, saxophone, and a heavy riff open the 1969 debut. The track attacks from the first bars rather than only floating on Mellotron pads.\n\nMetal and math-rock listeners still cite it as an early reference.",
-        "zh": "失真人声、萨克斯与重 riff 打开 1969 年首专。这首曲从开头就进攻，而不只靠 Mellotron 铺底漂浮。\n\n金属与 math-rock 听众仍常把它当作早期参照。"
+        "en": "1969 debut with Lake, McDonald, Giles, Sinfield, and Fripp. Epitaph and the title track use solemn Mellotron; 21st Century Schizoid Man opens with distorted vocal, sax, and a heavy riff.\n\nIt is the clearest early symphonic-rock reference in this chronicle.",
+        "zh": "1969 年首专，阵容为 Lake、McDonald、Giles、Sinfield、Fripp。《Epitaph》与同名曲用庄严 Mellotron；《21st Century Schizoid Man》以失真人声、萨克斯与重 riff 开场。\n\n这是本编年中最清晰的早期交响摇滚参照。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
       "soundGenre": "progressive-rock"
     },
     {
-      "id": "lineup",
+      "id": "wetton-bruford",
       "title": {
-        "en": "Fripp constant, cast changes",
-        "zh": "Fripp 保留，人马更换"
+        "en": "Wetton / Bruford years",
+        "zh": "Wetton / Bruford 时期"
       },
       "body": {
-        "en": "Guitar and composition stay centered on Fripp. Bass, drums, vocals, and reeds change across decades.\n\nRead the members list as a version picker by era.",
-        "zh": "吉他与作曲以 Fripp 为中心。贝斯、鼓、人声、簧乐跨年代更换。\n\n把成员列表按时期当版本选择器阅读。"
+        "en": "After 1972, Wetton, Bruford (from Yes), Cross, and briefly Muir recorded Larks’ Tongues in Aspic. Starless and Bible Black and Red tightened the improvising edge before Fripp stopped the band again.\n\nJon Anderson’s Lizard cameo and Bruford’s Yes past are the main Yes cross-links.",
+        "zh": "1972 年后，Wetton、Bruford（来自 Yes）、Cross 与短暂加入的 Muir 录制《Larks' Tongues in Aspic》。《Starless and Bible Black》与《Red》收紧即兴锋芒，随后 Fripp 再度停队。\n\nJon Anderson 在《Lizard》客串与 Bruford 的 Yes 履历，是与 Yes 的主要交叉联系。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "progressive-rock",
+      "stickyImage": {
+        "src": "/media/bands/king-crimson-dour-2003.jpg",
+        "alt": {
+          "en": "King Crimson at Dour Festival, 2003",
+          "zh": "King Crimson 于 Dour Festival，2003"
+        },
+        "credit": "Hunter Desportes",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_Crimson_-_Dour_Festival_2003_(01)_(cropped).jpg"
+      }
+    },
+    {
+      "id": "discipline-belew",
+      "title": {
+        "en": "Discipline: Belew and Levin",
+        "zh": "《Discipline》：Belew 与 Levin"
+      },
+      "body": {
+        "en": "Belew arrived from Frank Zappa’s band and Bowie’s late-1970s circle (Lodger; 1978 live). Levin came from Peter Gabriel. With Fripp and Bruford they made Discipline, Beat, and Three of a Perfect Pair.\n\nInterlocking dual guitar and Stick bass define Elephant Talk–era Crimson. Belew’s Bowie/Zappa path is the clearest cross-band thread.",
+        "zh": "Belew 来自 Frank Zappa 乐队与 Bowie 1970 年代末圈子（《Lodger》；1978 现场）。Levin 来自 Peter Gabriel。与 Fripp、Bruford 录制《Discipline》《Beat》《Three of a Perfect Pair》。\n\n交织双吉他与 Stick 贝斯定义《Elephant Talk》时期 Crimson。Belew 的 Bowie/Zappa 路径是最清楚的跨乐队线索。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
+      "soundGenre": "progressive-rock",
+      "stickyImage": {
+        "src": "/media/bands/king-crimson-adrian-belew.jpg",
+        "alt": {
+          "en": "Adrian Belew in Copenhagen",
+          "zh": "Adrian Belew 于哥本哈根"
+        },
+        "credit": "Frederik S",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adrian_belew_copenhagen.jpg"
+      }
+    },
+    {
+      "id": "double-trio",
+      "title": {
+        "en": "Double trio and later returns",
+        "zh": "双三重奏与后期回归"
+      },
+      "body": {
+        "en": "In 1994 Trey Gunn and Pat Mastelotto joined Fripp’s “double trio” idea (Thrak, 1995). Bruford and Levin left temporarily later; The ConstruKction of Light (2000) and The Power to Believe (2003) continued the experiments.\n\nA 2009 pause lasted until 2014.",
+        "zh": "1994 年 Trey Gunn 与 Pat Mastelotto 加入 Fripp 构思的「双三重奏」（《Thrak》，1995）。Bruford 与 Levin 后来暂时离开；《The ConstruKction of Light》（2000）与《The Power to Believe》（2003）继续试验。\n\n2009 年休整至 2014 年恢复。"
       },
       "stickyVisual": "members",
       "soundGenre": "progressive-rock"
     },
     {
-      "id": "quote",
-      "title": {
-        "en": "Fripp on practice",
-        "zh": "Fripp 谈练习"
-      },
-      "body": {
-        "en": "Fripp’s public talk about practice and craft matches a catalog that rewards close listening.\n\nThose interview lines sit beside the records as archival material.",
-        "zh": "Fripp 关于练习与工艺的公开谈话，与一份奖励细听的目录相符。\n\n这些采访短句可作为档案材料，与唱片并列阅读。"
-      },
-      "stickyVisual": "quote",
-      "quoteIndex": 0,
-      "soundGenre": "progressive-rock"
-    },
-    {
       "id": "legacy",
       "title": {
-        "en": "Later prog and experimental cites",
-        "zh": "后来 prog 与实验引用"
+        "en": "Later prog cites",
+        "zh": "后来 prog 的引用"
       },
       "body": {
-        "en": "Tool, math rock, and experimental metal have cited shifting meters and frequent lineup change.\n\nThe influence is both sonic and procedural: how a band reconstitutes itself.",
-        "zh": "Tool、math rock 与实验金属曾引用变换拍号与频繁阵容更换。\n\n影响兼及声音与程序：乐队如何重组自身。"
+        "en": "Math rock and experimental metal often cite shifting meters and frequent lineup reform. Radiohead and Tool listeners also point to Schizoid Man and Discipline-era interlocking parts.\n\nInfluence is sonic and procedural: how a band reconstitutes itself under one guitarist’s standards.",
+        "zh": "Math rock 与实验金属常引用变换拍号与频繁阵容重组。Radiohead 与 Tool 听众也会指向《Schizoid Man》与 Discipline 时期交织声部。\n\n影响兼及声音与程序：乐队如何在同一吉他手的标准下重组。"
       },
       "stickyVisual": "influence",
       "soundGenre": "progressive-rock"
@@ -223,7 +303,7 @@
         "en": "Court era (1969)",
         "zh": "Court 时期（1969）"
       },
-      "years": "1968–1969",
+      "years": "1969",
       "peak": true,
       "members": [
         {
@@ -237,16 +317,51 @@
         },
         {
           "name": "Ian McDonald",
-          "role": "Mellotron, Woodwinds"
+          "role": "Woodwinds, Keys"
         },
         {
           "name": "Michael Giles",
           "role": "Drums"
+        },
+        {
+          "name": "Pete Sinfield",
+          "role": "Lyrics"
         }
       ],
       "note": {
         "en": "In the Court of the Crimson King–era Mellotron lineup.",
         "zh": "《In the Court of the Crimson King》时期 Mellotron 阵容。"
+      }
+    },
+    {
+      "id": "red-1974",
+      "label": {
+        "en": "Wetton / Bruford (Red)",
+        "zh": "Wetton / Bruford（《Red》）"
+      },
+      "years": "1972–1974",
+      "members": [
+        {
+          "name": "Robert Fripp",
+          "role": "Guitar",
+          "personSlug": "robert-fripp"
+        },
+        {
+          "name": "John Wetton",
+          "role": "Vocals, Bass"
+        },
+        {
+          "name": "Bill Bruford",
+          "role": "Drums"
+        },
+        {
+          "name": "David Cross",
+          "role": "Violin, Keys"
+        }
+      ],
+      "note": {
+        "en": "Larks’ Tongues through Red; improvising progressive edge.",
+        "zh": "从《Larks' Tongues》到《Red》；偏即兴的 progressive 锋芒。"
       }
     },
     {

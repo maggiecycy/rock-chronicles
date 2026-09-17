@@ -1,7 +1,7 @@
 {
   "name": "Kiss",
   "slug": "kiss",
-  "formed": 1973,
+  "formed": 1972,
   "origin": "New York, USA",
   "primaryEra": "1970s-prog-hard-rock",
   "genres": [
@@ -10,19 +10,19 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "New York makeup hard rock/metal. Rock and Roll All Nite (1975) as chant anthem; Alive! as a live-album sales peak; I Was Made for Lovin' You (1979) adds disco-tempo crossover while keeping the stage look.",
-    "zh": "纽约化妆 hard rock/metal。《Rock and Roll All Nite》（1975）作口号颂歌；《Alive!》作现场专辑销量高峰；《I Was Made for Lovin' You》（1979）加入 disco 速度跨界，同时保留舞台形象。"
+    "en": "New York band formed in 1972 around Gene Simmons and Paul Stanley. Makeup characters, pyro stage craft, and three-chord hard rock; Alive! (1975) became the live-sales hinge, later cited by Slash and Dimebag Darrell.",
+    "zh": "纽约乐队，1972 年由 Gene Simmons 与 Paul Stanley 组建。化妆角色、烟火舞台与三和弦 hard rock；《Alive!》（1975）是现场销量转折，后被 Slash、Dimebag Darrell 等引用。"
   },
   "members": [
     {
       "name": "Paul Stanley",
       "role": "Vocals, Rhythm Guitar",
-      "years": "1973–2023"
+      "years": "1972–present"
     },
     {
       "name": "Gene Simmons",
       "role": "Vocals, Bass",
-      "years": "1973–2023"
+      "years": "1972–present"
     },
     {
       "name": "Ace Frehley",
@@ -32,7 +32,47 @@
     {
       "name": "Peter Criss",
       "role": "Drums, Vocals",
-      "years": "1973–1980; 1996–2004"
+      "years": "1972–1980; 1996–2004"
+    },
+    {
+      "name": "Bob Kulick",
+      "role": "Guitar (session/tour)",
+      "years": "1977–1982 (session)"
+    },
+    {
+      "name": "Anton Fig",
+      "role": "Drums (session)",
+      "years": "1979–1980"
+    },
+    {
+      "name": "Eric Carr",
+      "role": "Drums",
+      "years": "1980–1991"
+    },
+    {
+      "name": "Vinnie Vincent",
+      "role": "Lead Guitar",
+      "years": "1982–1984"
+    },
+    {
+      "name": "Mark St. John",
+      "role": "Lead Guitar",
+      "years": "1984"
+    },
+    {
+      "name": "Bruce Kulick",
+      "role": "Lead Guitar",
+      "years": "1984–1996"
+    },
+    {
+      "name": "Eric Singer",
+      "role": "Drums",
+      "years": "1991–1996; 2001–present"
+    },
+    {
+      "name": "Tommy Thayer",
+      "role": "Lead Guitar",
+      "years": "2002–present"
     }
   ],
   "essentialTracks": [
@@ -41,16 +81,16 @@
       "year": 1975
     },
     {
-      "title": "I Was Made for Lovin' You",
-      "year": 1979
-    },
-    {
       "title": "Detroit Rock City",
       "year": 1976
     },
     {
       "title": "Beth",
       "year": 1976
+    },
+    {
+      "title": "I Was Made for Lovin' You",
+      "year": 1979
     }
   ],
   "lyricQuotes": [
@@ -59,8 +99,11 @@
   ],
   "relatedBands": [
     "aerosmith",
-    "van-halen",
-    "ac-dc"
+    "guns-n-roses",
+    "pantera",
+    "black-sabbath",
+    "metallica",
+    "queen"
   ],
   "influenceFrom": [
     "the-rolling-stones",
@@ -70,15 +113,16 @@
   "influenced": [
     "guns-n-roses",
     "metallica",
-    "van-halen"
+    "van-halen",
+    "pantera"
   ],
   "shortBio": {
-    "en": "NY makeup hard rock/metal; Rock and Roll All Nite chant, Alive! live peak, Lovin' You disco-tempo hit.",
-    "zh": "纽约化妆 hard rock/metal；《Rock and Roll All Nite》口号、《Alive!》现场高峰、《Lovin' You》disco 速度热单。"
+    "en": "NY makeup hard rock; Alive! live hinge; Destroyer / Dynasty studio peaks; non-makeup 1980s then classic-face reunions.",
+    "zh": "纽约化妆 hard rock；《Alive!》现场转折；《Destroyer》/《Dynasty》录音室高峰；80 年代卸妆后再有经典脸谱重聚。"
   },
   "body": {
-    "en": "Kiss formed in 1973 from Wicked Lester remnants (Stanley/Simmons) with Frehley and Criss. Dressed To Kill and Alive! (1975) sell three-chord hard rock plus pyrotechnic stage craft—Rock and Roll All Nite is the chant chorus. Destroyer (1976, Bob Ezrin) adds Detroit Rock City and the ballad Beth.\n\nDynasty (1979) pushes I Was Made for Lovin' You: four-on-the-floor tempo. Later lineup changes aside, the classic four faces remain the public image. The makeup-off 1980s Lick It Up era still uses similar riff and chant writing.",
-    "zh": "Kiss 于 1973 年由 Wicked Lester 残余（Stanley/Simmons）加 Frehley、Criss 组建。《Dressed To Kill》与《Alive!》（1975）卖三和弦 hard rock 加烟火舞台——《Rock and Roll All Nite》是口号副歌。《Destroyer》（1976，Bob Ezrin）加入《Detroit Rock City》与谣曲《Beth》。\n\n《Dynasty》（1979）推出《I Was Made for Lovin' You》：四拍底鼓速度。后期阵容变化另论，经典四张脸仍是公众形象。80 年代卸妆《Lick It Up》期仍使用相近的 riff 与口号写法。"
+    "en": "Gene Simmons and Paul Stanley wanted a loud three-piece like Mountain or Grand Funk Railroad, then added drummer Peter Criss in 1972. Auditions for lead guitar included Bob Kulick; Ace Frehley got the seat. They designed four faces—Demon, Starchild, Cat, Spaceman—after Beatles and Alice Cooper models. Early studio LPs Kiss, Hotter Than Hell (1974), and Dressed to Kill (1975) sold less than the blood-spitting, fire-breathing tours. Alice Cooper’s 1974 line after a label showcase: a decent band that only needed “a few tricks.”\n\nAlive! (1975) flipped sales and became a reference for Slash (Guns N’ Roses) and Dimebag Darrell (Pantera). Kiss Army merch ran from condoms to coffins. Destroyer and Rock and Roll Over (1976), Love Gun and Alive II (1977) followed; Kulick subbed for Frehley on parts of Alive II. In 1978 four solo albums dropped the same day—Frehley’s sold best; Simmons’s guests ranged from Joe Perry and Bob Seger to Donna Summer and Cher.\n\nCriss was replaced by Eric Carr after Dynasty (1979) and Unmasked (1980), with Anton Fig on some sessions. Music from “The Elder” (1981) pushed Frehley out; Creatures of the Night (1982) still used Frehley’s face on the cover while Kulick played. Vinnie Vincent joined for the makeup-off Lick It Up (1983); Mark St. John then Bruce Kulick covered Animalize (1984). Eric Singer (ex–Alice Cooper / Black Sabbath) took drums after Carr’s 1991 death—the same day as Freddie Mercury. MTV Unplugged (1995) briefly reunited Criss and Frehley; Psycho Circus (1998) reached US No.3 with limited founder input. From 2003 tours settled on Simmons, Stanley, Tommy Thayer (in Frehley’s makeup), and Singer (in Criss’s)—including a co-bill with Aerosmith. Sonic Boom (2009) hit US No.2; Monster followed in 2012.",
+    "zh": "Gene Simmons 与 Paul Stanley 想做 Mountain、Grand Funk Railroad 一类响亮三人组，1972 年征入鼓手 Peter Criss。主音吉他试音包括 Bob Kulick，最终 Ace Frehley 入选。参照 Beatles 与 Alice Cooper，设计 Demon、Starchild、Cat、Spaceman 四张脸。早期录音室专辑《Kiss》《Hotter Than Hell》（1974）、《Dressed to Kill》（1975）销量不及吐血喷火的巡演。Alice Cooper 1974 年看完厂牌亮相后说：不错的乐队，只缺「一点把戏」。\n\n《Alive!》（1975）扭转销量，成为 Guns N’ Roses 的 Slash、Pantera 的 Dimebag Darrell 等的参照。Kiss Army 周边从避孕套到棺材。《Destroyer》《Rock and Roll Over》（1976）、《Love Gun》《Alive II》（1977）跟进；《Alive II》部分由 Kulick 顶替 Frehley。1978 年四人同日发个人专辑——Frehley 销量最好；Simmons 嘉宾从 Joe Perry、Bob Seger 到 Donna Summer、Cher。\n\n《Dynasty》（1979）与《Unmasked》（1980）后 Criss 被 Eric Carr 替换，部分录音 Anton Fig 司鼓。《Music from \"The Elder\"》（1981）激怒 Frehley 离队；《Creatures of the Night》（1982）封面仍用 Frehley 肖像，吉他多由 Kulick 演奏。Vinnie Vincent 参与卸妆的《Lick It Up》（1983）；Mark St. John 与随后的 Bruce Kulick 覆盖《Animalize》（1984）。Carr 1991 年因癌症去世——与 Freddie Mercury 同日——后由前 Alice Cooper / Black Sabbath 鼓手 Eric Singer 接任。1995 年 MTV 不插电短暂召回 Criss、Frehley；《Psycho Circus》（1998）美榜第 3，创始成员参与有限。2003 年起巡演阵容多为 Simmons、Stanley、Tommy Thayer（画 Frehley 妆）、Singer（画 Criss 妆），同年与 Aerosmith 同台巡演。《Sonic Boom》（2009）美榜第 2；2012 年发行《Monster》。"
   },
   "scenes": [
     {
@@ -96,8 +140,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Chant-chorus hard-rock anthem; peak live document on Alive!.",
-        "zh": "口号副歌 hard-rock 颂歌；《Alive!》现场文献高峰。"
+        "en": "Chant chorus; best-known live document on Alive!.",
+        "zh": "口号副歌；最知名现场文献在《Alive!》。"
       }
     },
     {
@@ -115,8 +159,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Destroyer opener; Bob Ezrin production.",
-        "zh": "《Destroyer》开场曲；Bob Ezrin 制作。"
+        "en": "Destroyer track; Bob Ezrin production era.",
+        "zh": "《Destroyer》曲目；Bob Ezrin 制作时期。"
       }
     },
     {
@@ -133,8 +177,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Disco four-on-the-floor tempo on Dynasty; Stanley lead vocal.",
-        "zh": "《Dynasty》上的 disco 四拍底鼓速度；Stanley 主唱。"
+        "en": "Dynasty disco-tempo single; four-on-the-floor with Kiss stage look intact.",
+        "zh": "《Dynasty》disco 速度单曲；四拍底鼓，Kiss 舞台形象仍在。"
       }
     }
   ],
@@ -142,102 +186,117 @@
     {
       "id": "thesis",
       "title": {
-        "en": "Stage look and three-chord songs",
-        "zh": "舞台形象与三和弦歌曲"
+        "en": "Four faces, three chords, arena pyro",
+        "zh": "四张脸、三和弦、体育场烟火"
       },
       "body": {
-        "en": "Kiss treat makeup, boots, and pyro as equal parts of the show. Songwriting stays three-chord hard rock/early metal with Stanley/Simmons hooks.\n\nAlive! (1975) outsold several studio albums for this band.\n\nI Was Made for Lovin' You shows chart-tempo flexibility without dropping the faces.",
-        "zh": "Kiss 把化妆、厚底靴与烟火当作演出的同等部分。写作保持三和弦 hard rock/早期金属 + Stanley/Simmons 钩子。\n\n《Alive!》（1975）对这支乐队而言销量超过多张录音室专辑。\n\n《I Was Made for Lovin' You》显示榜单速度弹性，同时保留脸谱。"
+        "en": "Kiss treat makeup, boots, and fire as equal parts of the show. Songwriting stays three-chord hard rock with Stanley/Simmons hooks.\n\nAlive! (1975) outsold several studio albums for this band and became a later guitarists’ checkpoint.\n\nMerch and Kiss Army amplified visibility beyond mid-1970s album totals versus Stones, Zeppelin, or Pink Floyd.",
+        "zh": "Kiss 把化妆、厚底靴与喷火当作演出的同等部分。写作保持三和弦 hard rock + Stanley/Simmons 钩子。\n\n《Alive!》（1975）对这支乐队而言销量超过多张录音室专辑，并成为后来吉他手的检验点。\n\n周边与 Kiss Army 让可见度高于 1970 年代中期相对 Stones、Zeppelin、Pink Floyd 的专辑销量。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/kiss-gene-simmons-1977.jpg",
+        "alt": {
+          "en": "Gene Simmons of Kiss, 1977",
+          "zh": "Kiss 的 Gene Simmons，1977"
+        },
+        "credit": "Photographer via Wikimedia Commons",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gene_Simmons,_Kiss_bassist_(1977).JPG"
+      }
     },
     {
-      "id": "lineupVersions",
+      "id": "alive-destroyer",
       "title": {
-        "en": "Original four faces",
-        "zh": "原班四张脸"
+        "en": "Alive! through the 1978 solos",
+        "zh": "Alive! 到 1978 个人专辑"
       },
       "body": {
-        "en": "Stanley, Simmons, Frehley, and Criss define 1973–1980 peak. Criss exits; Frehley exits in the early 80s; Vinnie Vincent and others rotate.\n\n1996 reunion restores the classic makeup four for tours.\n\nPublic recognition of the four faces often outranks any single guitarist era.",
-        "zh": "Stanley、Simmons、Frehley、Criss 定义 1973–1980 巅峰。Criss 离队；Frehley 80 年代初离队；Vinnie Vincent 等轮换。\n\n1996 重聚恢复经典化妆四人巡演。\n\n四张脸的公众辨识度常强过任何单一吉他手时期。"
+        "en": "Studio albums through Dressed to Kill built the set; Alive! made the sales jump. Destroyer, Rock and Roll Over, Love Gun, and Alive II kept the classic four faces on the road.\n\nFriction over control versus drink/drugs split Simmons/Stanley from Frehley/Criss. Kulick covered Frehley parts when needed. Four 1978 solo LPs tried to manage the brand while the lineup frayed.",
+        "zh": "至《Dressed to Kill》的录音室专辑搭好曲目；《Alive!》带来销量跃升。《Destroyer》《Rock and Roll Over》《Love Gun》《Alive II》维持经典四张脸巡演。\n\n控制欲与酗酒嗑药使 Simmons/Stanley 与 Frehley/Criss 对立。需要时 Kulick 顶 Frehley 声部。1978 年四张个人专辑试图在阵容松动时维持品牌。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "heavy-metal"
+      "soundGenre": "heavy-metal",
+      "stickyImage": {
+        "src": "/media/bands/kiss-paul-stanley-destroyer.jpg",
+        "alt": {
+          "en": "Paul Stanley on the Destroyer tour",
+          "zh": "Paul Stanley 于 Destroyer 巡演"
+        },
+        "credit": "Photographer via Wikimedia Commons",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kiss_-_Paul_Stanley_-_Destroyer_Tour.jpg"
+      }
     },
     {
-      "id": "influence",
+      "id": "lineup-shifts",
       "title": {
-        "en": "Arena chant and glam hard rock",
-        "zh": "体育场口号与 glam hard rock"
+        "en": "Carr, Vincent, Kulick, Singer, Thayer",
+        "zh": "Carr、Vincent、Kulick、Singer、Thayer"
       },
       "body": {
-        "en": "1980s glam/hard-rock acts copy the merch-plus-riff approach. Metallica and others cite early Kiss as entry hard rock/metal.\n\nRock and Roll All Nite remains a clear chant-structure reference.\n\nInfluence is showcraft and simplicity, not progressive technique.",
-        "zh": "80 年代 glam/hard-rock 乐队复制周边加 riff 的做法。Metallica 等引早期 Kiss 作入门 hard rock/metal。\n\n《Rock and Roll All Nite》仍是清楚的口号结构参照。\n\n影响在秀与简洁，而非 progressive 技术。"
+        "en": "Eric Carr replaced Criss; The Elder and Creatures of the Night closed the Frehley studio era. Makeup came off for Lick It Up with Vinnie Vincent; Bruce Kulick anchored the later 1980s platinum run (Animalize onward).\n\nEric Singer arrived from Alice Cooper / Black Sabbath after Carr’s death. MTV Unplugged (1995) and Psycho Circus (1998) used founder faces again; later tours often put Thayer and Singer in Frehley/Criss makeup beside Simmons and Stanley.\n\n2003 co-tour with Aerosmith fixed that public four-face image.",
+        "zh": "Eric Carr 替换 Criss；《The Elder》与《Creatures of the Night》结束 Frehley 录音室时期。《Lick It Up》卸妆，Vinnie Vincent 入队；Bruce Kulick 撑起 1980 年代后期白金阶段（《Animalize》起）。\n\nCarr 去世后 Eric Singer 自 Alice Cooper / Black Sabbath 加入。MTV 不插电（1995）与《Psycho Circus》（1998）再用创始脸谱；此后巡演常由 Thayer、Singer 画 Frehley/Criss 妆，与 Simmons、Stanley 同台。\n\n2003 年与 Aerosmith 联合巡演固定了这一公众四脸形象。"
       },
-      "stickyVisual": "influence",
-      "soundGenre": "heavy-metal"
+      "stickyVisual": "members",
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/kiss-original-lineup-1976.jpg",
+        "alt": {
+          "en": "Kiss original lineup, 1976",
+          "zh": "Kiss 原班四人，1976"
+        },
+        "credit": "Casablanca Records press photo",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kiss_original_lineup_(1976).jpg"
+      }
     },
     {
-      "id": "scene-0",
+      "id": "scene-alive",
       "title": {
         "en": "Rock and Roll All Nite",
-        "zh": "《Rock and Roll All Nite》"
+        "zh": "Rock and Roll All Nite"
       },
       "body": {
-        "en": "Chant-chorus hard-rock anthem from Dressed To Kill / Alive!.\n\nThe live version on Alive! is the best-known document of the song.",
-        "zh": "出自《Dressed To Kill》/《Alive!》的口号副歌 hard-rock 颂歌。\n\n《Alive!》现场版是这首歌最知名的文献。"
+        "en": "Chant-chorus anthem from Dressed to Kill / Alive!.\n\nThe Alive! version is the main live document later guitarists cite.",
+        "zh": "出自《Dressed to Kill》/《Alive!》的口号副歌颂歌。\n\n《Alive!》版本是后来吉他手常引的主要现场文献。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
       "soundGenre": "hard-rock"
     },
     {
-      "id": "scene-1",
+      "id": "legacy",
       "title": {
-        "en": "Detroit Rock City",
-        "zh": "《Detroit Rock City》"
+        "en": "Glam hard rock and face continuity",
+        "zh": "Glam hard rock 与脸谱延续"
       },
       "body": {
-        "en": "Opener on Destroyer (1976). Bob Ezrin production; narrative lyric about a drive to a show.",
-        "zh": "《Destroyer》（1976）开场曲。Bob Ezrin 制作；歌词写驾车赶场。"
+        "en": "1980s glam/hard-rock acts copied merch-plus-riff packaging; Metallica and others cite early Kiss as entry hard rock/metal.\n\nCarr’s death the same day as Queen’s Freddie Mercury is a shared 1991 calendar fact. Sonic Boom (2009) and Monster (2012) kept the later studio catalog active.\n\nPublic recognition of the four faces often outranks any single guitarist or drummer era.",
+        "zh": "1980 年代 glam/hard-rock 乐队复制周边加 riff 的包装；Metallica 等引早期 Kiss 作入门 hard rock/metal。\n\nCarr 与 Queen 的 Freddie Mercury 同日去世是 1991 年共享日历事实。《Sonic Boom》（2009）与《Monster》（2012）维持后期录音室目录。\n\n四张脸的公众辨识度常强过任何单一吉他手或鼓手时期。"
       },
-      "stickyVisual": "scene",
-      "sceneIndex": 1,
+      "stickyVisual": "influence",
       "soundGenre": "heavy-metal"
-    },
-    {
-      "id": "scene-2",
-      "title": {
-        "en": "I Was Made for Lovin' You",
-        "zh": "《I Was Made for Lovin' You》"
-      },
-      "body": {
-        "en": "Dynasty (1979) crossover single: disco four-on-the-floor tempo with Kiss lead vocal and stage look intact.",
-        "zh": "《Dynasty》（1979）跨界单曲：disco 四拍底鼓速度，Kiss 主唱与舞台形象仍在。"
-      },
-      "stickyVisual": "scene",
-      "sceneIndex": 2,
-      "soundGenre": "hard-rock"
     }
   ],
   "interviewQuotes": [
+    {
+      "text": "They're a good band. All they need is a few tricks.",
+      "speaker": "Alice Cooper",
+      "source": "After a 1974 label showcase",
+      "year": 1974
+    },
     {
       "text": "We are a hard rock band. The makeup is the package—the songs still have to rock.",
       "speaker": "Paul Stanley",
       "source": "Press interview excerpt",
       "year": 1976
-    },
-    {
-      "text": "Alive! is when people understood Kiss. The studio records were the blueprint; the stage was the product.",
-      "speaker": "Gene Simmons",
-      "source": "Press interview excerpt",
-      "year": 1978
     }
   ],
   "lineupVersions": [
     {
-      "id": "peak",
+      "id": "original-four",
       "label": {
         "en": "Original four: Stanley / Simmons / Frehley / Criss",
         "zh": "原班四人：Stanley / Simmons / Frehley / Criss"
@@ -263,8 +322,68 @@
         }
       ],
       "note": {
-        "en": "Alive! / Destroyer / Dynasty; makeup hard-rock/metal peak.",
-        "zh": "《Alive!》/《Destroyer》/《Dynasty》；化妆 hard-rock/metal 巅峰。"
+        "en": "Alive! / Destroyer / Dynasty; makeup hard-rock peak.",
+        "zh": "《Alive!》/《Destroyer》/《Dynasty》；化妆 hard-rock 高峰。"
+      }
+    },
+    {
+      "id": "non-makeup",
+      "label": {
+        "en": "Non-makeup: Vincent / St. John / Bruce Kulick",
+        "zh": "卸妆期：Vincent / St. John / Bruce Kulick"
+      },
+      "years": "1983–1996",
+      "members": [
+        {
+          "name": "Paul Stanley",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Gene Simmons",
+          "role": "Bass, Vocals"
+        },
+        {
+          "name": "Vinnie Vincent / Mark St. John / Bruce Kulick",
+          "role": "Lead Guitar"
+        },
+        {
+          "name": "Eric Carr / Eric Singer",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Lick It Up through Hot in the Shade; Carr then Singer on drums.",
+        "zh": "《Lick It Up》至《Hot in the Shade》；鼓手为 Carr 后 Singer。"
+      }
+    },
+    {
+      "id": "faces-return",
+      "label": {
+        "en": "Thayer / Singer face continuity",
+        "zh": "Thayer / Singer 脸谱延续"
+      },
+      "years": "2003–present",
+      "members": [
+        {
+          "name": "Paul Stanley",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Gene Simmons",
+          "role": "Bass, Vocals"
+        },
+        {
+          "name": "Tommy Thayer",
+          "role": "Lead Guitar"
+        },
+        {
+          "name": "Eric Singer",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Frehley/Criss makeup on Thayer/Singer; 2003 Aerosmith co-tour; Sonic Boom / Monster.",
+        "zh": "Thayer/Singer 画 Frehley/Criss 妆；2003 年与 Aerosmith 联合巡演；《Sonic Boom》/《Monster》。"
       }
     }
   ],
@@ -273,8 +392,8 @@
       "title": "Rock and Roll All Nite",
       "year": 1975,
       "note": {
-        "en": "Chant chorus; 1970s hard-rock arena reference.",
-        "zh": "口号副歌；70 年代 hard-rock 体育场参照曲。"
+        "en": "Chant chorus; Alive! as the live hinge of the early catalog.",
+        "zh": "口号副歌；《Alive!》作早期目录的现场转折。"
       }
     },
     "pioneeredGenres": [
@@ -282,8 +401,8 @@
       "heavy-metal"
     ],
     "note": {
-      "en": "Stage spectacle plus three-chord riffs; Alive! as live-sales peak.",
-      "zh": "舞台视觉秀加三和弦 riff；《Alive!》作现场销量高峰。"
+      "en": "Stage spectacle plus three-chord riffs; face continuity outlasted several guitarists.",
+      "zh": "舞台视觉秀加三和弦 riff；脸谱延续长过多名吉他手。"
     }
   }
 }

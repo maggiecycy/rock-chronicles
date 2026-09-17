@@ -10,16 +10,10 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "Toronto power trio formed in 1968. After Neil Peart joined in 1974, long-form prog writing and instrumental detail stayed on rock radio into the 1980s; Moving Pictures (1981) is the main mainstream album.",
-    "zh": "多伦多 power trio，1968 年成立。Neil Peart 1974 年加入后，长篇 progressive 写作与乐器细节进入摇滚电台并延续到 1980 年代；《Moving Pictures》（1981）是主要进入主流的专辑。"
+    "en": "Toronto power trio formed in 1968. After Neil Peart joined in 1974, side-long prog suites then radio-length synth rock; Moving Pictures (1981) is the main mainstream album.",
+    "zh": "多伦多 power trio，1968 年成立。Neil Peart 1974 年加入后，从整面 progressive 组曲转到电台长度合成器摇滚；《Moving Pictures》（1981）是主要进入主流的专辑。"
   },
   "members": [
-    {
-      "name": "Geddy Lee",
-      "role": "Bass, Vocals, Keyboards",
-      "years": "1968–2018",
-      "personSlug": "geddy-lee"
-    },
     {
       "name": "Alex Lifeson",
       "role": "Guitar",
@@ -27,28 +21,48 @@
       "personSlug": "alex-lifeson"
     },
     {
+      "name": "Geddy Lee",
+      "role": "Bass, Vocals, Keyboards",
+      "years": "1968–2018",
+      "personSlug": "geddy-lee"
+    },
+    {
+      "name": "John Rutsey",
+      "role": "Drums",
+      "years": "1968–1974"
+    },
+    {
       "name": "Neil Peart",
       "role": "Drums, Lyrics",
       "years": "1974–2015",
       "personSlug": "neil-peart"
+    },
+    {
+      "name": "Jeff Jones",
+      "role": "Bass, Vocals",
+      "years": "1968"
     }
   ],
   "essentialTracks": [
     {
-      "title": "Tom Sawyer",
-      "year": 1981
+      "title": "Working Man",
+      "year": 1974
+    },
+    {
+      "title": "2112 (Overture / Temples of Syrinx)",
+      "year": 1976
     },
     {
       "title": "The Spirit of Radio",
       "year": 1980
     },
     {
-      "title": "YYZ",
+      "title": "Tom Sawyer",
       "year": 1981
     },
     {
-      "title": "2112 (Overture / Temples of Syrinx)",
-      "year": 1976
+      "title": "YYZ",
+      "year": 1981
     }
   ],
   "scenes": [
@@ -66,8 +80,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "From the album 2112; side-long suite with Peart lyrics and hard-rock riff sections.",
-        "zh": "出自专辑《2112》；整面组曲，含 Peart 歌词与 hard-rock riff 段落。"
+        "en": "From the album 2112; side-long suite with Peart lyrics. Started a long gold-or-better US/Canada run.",
+        "zh": "出自专辑《2112》；整面组曲，Peart 作词。开启长期英美加金唱片以上销量。"
       }
     },
     {
@@ -84,8 +98,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "From Permanent Waves; radio-length single with a reggae-tinged bridge.",
-        "zh": "出自《Permanent Waves》；电台长度单曲，桥段偏 reggae。"
+        "en": "From Permanent Waves; radio-length single. Band cited The Police as an influence on the leaner writing.",
+        "zh": "出自《Permanent Waves》；电台长度单曲。乐队承认写作变精简时受 The Police 影响。"
       }
     },
     {
@@ -102,130 +116,153 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "From Moving Pictures; Minimoog hook, odd-meter drums, Geddy Lee high tenor.",
-        "zh": "出自《Moving Pictures》；Minimoog 钩子、奇数拍鼓、Geddy Lee 高男高音。"
+        "en": "From Moving Pictures; synth hook, odd-meter drums, Geddy Lee high tenor. Best-known Peart-era single.",
+        "zh": "出自《Moving Pictures》；合成器钩子、奇数拍鼓、Geddy Lee 高男高音。Peart 时期最知名单曲。"
       }
     }
   ],
   "interviewQuotes": [
     {
-      "text": "What you own is your own kingdom.",
-      "speaker": "Neil Peart",
-      "source": "2112 lyric theme · interview circulation",
-      "year": 1976
+      "text": "I always like to think of us as the world's most popular cult band.",
+      "speaker": "Geddy Lee",
+      "source": "Book excerpt",
+      "year": 2000
     },
     {
-      "text": "Three guys trying to sound like more.",
-      "speaker": "Geddy Lee",
-      "source": "On trio arrangement · press",
-      "year": 1981
+      "text": "When we first heard Rush… it sounded like a Canadian Zeppelin.",
+      "speaker": "Gene Simmons",
+      "source": "On early Rush · Kiss connection · book excerpt",
+      "year": 1975
     }
   ],
   "lyricQuotes": [
     "Today's Tom Sawyer / He gets high on you",
-    "Begin the day with a friendly voice"
+    "Begin the day with a friendly voice",
+    "Living in a world so wired / I can't help but feel ambitious"
   ],
   "relatedBands": [
-    "king-crimson",
+    "kiss",
     "pink-floyd",
     "led-zeppelin",
-    "tool"
+    "foo-fighters",
+    "the-police",
+    "cream"
   ],
   "influenceFrom": [
-    "king-crimson",
+    "cream",
     "led-zeppelin",
-    "black-sabbath"
+    "yes",
+    "the-jimi-hendrix-experience"
   ],
   "influenced": [
     "tool",
     "metallica",
-    "muse"
+    "foo-fighters"
   ],
   "shortBio": {
-    "en": "Toronto progressive / hard rock, 1968–2018. Lee, Lifeson, Peart; Tom Sawyer and Moving Pictures are the main synth-era references.",
-    "zh": "多伦多 progressive / hard rock，1968–2018。Lee、Lifeson、Peart；《Tom Sawyer》与《Moving Pictures》是合成器时期主要参照。"
+    "en": "Toronto progressive / hard rock, 1968–2018. Lee, Lifeson, Peart after Rutsey; 2112 to Moving Pictures is the core citation run.",
+    "zh": "多伦多 progressive / hard rock，1968–2018。Rutsey 之后为 Lee、Lifeson、Peart；《2112》至《Moving Pictures》是核心引用区间。"
   },
   "body": {
-    "en": "Rush formed in Toronto in 1968. Neil Peart joined on drums and lyrics in 1974 after John Rutsey left. 2112 (1976) and Hemispheres (1978) document side-long suites; Permanent Waves (1980) and Moving Pictures (1981) shorten the writing to radio length while keeping odd meters and dense arrangement.\n\nTom Sawyer (1981) uses a Minimoog hook, Peart’s odd-meter drums, and Geddy Lee’s high vocal. The band remained a trio through Clockwork Angels (2012). Peart retired from touring after 2015; the band ended live activity in 2018.",
-    "zh": "Rush 于 1968 年在多伦多成立。John Rutsey 离队后，Neil Peart 于 1974 年加入鼓与歌词。《2112》（1976）与《Hemispheres》（1978）记录整面组曲；《Permanent Waves》（1980）与《Moving Pictures》（1981）把写作缩短到电台长度，同时保留奇数拍与密集编曲。\n\n《Tom Sawyer》（1981）使用 Minimoog 钩子、Peart 的奇数拍鼓与 Geddy Lee 的高音人声。乐队以三人组延续至《Clockwork Angels》（2012）。Peart 2015 年后停止巡演；乐队于 2018 年结束现场活动。"
+    "en": "Rush formed in Toronto in 1968 when teen guitarist Alex Lifeson aimed at a Cream / Jimi Hendrix Experience–style power trio. Jeff Jones left within weeks; classmate Geddy Lee took bass and vocals. With drummer John Rutsey they spent years on bar circuits mixing blues-rock covers and originals.\n\nThey self-released Rush (1974); Working Man on local radio led to a Mercury Records US reissue. Gene Simmons of Kiss compared the debut to “a Canadian Zeppelin” and Kiss took them on tour after Rutsey left. Neil Peart joined in 1974—Lifeson said he “knocked the crap out of those drums”—and became lyricist, with sci-fi themes clear on Fly by Night (By-Tor and the Snow Dog). Lee called him “the Professor.”\n\nAlbums shifted from hard rock toward Yes-influenced prog: Caress of Steel (The Fountain of Lamneth) and 2112 (1976) each gave a full side to a suite. 2112 topped the Canadian chart and began roughly twenty years of at least gold albums in the US and Canada—behind only The Beatles and The Rolling Stones in that streak, per the book. Live albums from All the World’s a Stage (1976) onward documented the trio’s density.\n\nPermanent Waves (1980) shortened forms under acknowledged Police influence (The Spirit of Radio). Moving Pictures (1981) brought Tom Sawyer—sparse production, complex meters, synths, virtuosic drums. Keyboard-led 1980s albums (Signals through Hold Your Fire) pushed Lifeson’s guitar down the mix; hits included New World Man and Time Stand Still with Aimee Mann. Presto (1989) returned toward hard rock; Roll the Bones (1991) and Counterparts (1993) went platinum.\n\nAfter Test for Echo (1996), Peart’s daughter died in a 1997 car crash and his wife of cancer within a year; he told his bandmates to consider him retired. They returned with Vapor Trails (2002), Feedback covers (2004), Snakes & Arrows (2007), and Clockwork Angels (2012). Beyond the Lighted Stage (2010) gathered admirers from Trent Reznor to Jack Black. Lee and Lifeson joined Dave Grohl’s side project for YYZ at a 2008 Foo Fighters show.",
+    "zh": "Rush 于 1968 年在多伦多成立：少年吉他手 Alex Lifeson 想做 Cream / Jimi Hendrix Experience 式三人组。Jeff Jones 数周内离队，同学 Geddy Lee 接贝斯与主唱。与鼓手 John Rutsey 一起在酒吧电路上磨合布鲁斯摇滚翻唱与原创。\n\n自行发行《Rush》（1974）；《Working Man》地方电台播放后获 Mercury 美国再版。Kiss 的 Gene Simmons 把首专比作「加拿大的 Zeppelin」，Rutsey 离队后 Kiss 带他们巡演。Neil Peart 1974 年加入——Lifeson 说他把鼓「敲出垃圾」——并作词，科幻主题在《Fly by Night》（《By-Tor and the Snow Dog》）已很清楚。Lee 称他为「教授」。\n\n专辑从硬摇滚转向受 Yes 影响的 progressive：《Caress of Steel》（《The Fountain of Lamneth》）与《2112》（1976）各用一整面做组曲。《2112》登顶加拿大榜，并开启约二十年美加至少金唱片成绩——据书中说法仅次于 The Beatles 与 The Rolling Stones。从《All the World's a Stage》（1976）起的现场专辑记录三人组密度。\n\n《Permanent Waves》（1980）在承认受 The Police 影响下缩短曲式（《The Spirit of Radio》）。《Moving Pictures》（1981）推出《Tom Sawyer》——稀疏制作、复杂拍号、合成器、炫技鼓乐。80 年代键盘主导专辑（《Signals》至《Hold Your Fire》）挤压 Lifeson 吉他；热单含《New World Man》及与 Aimee Mann 合作的《Time Stand Still》。《Presto》（1989）回到硬摇滚；《Roll the Bones》（1991）与《Counterparts》（1993）白金销量。\n\n《Test for Echo》（1996）巡演后，Peart 女儿 1997 年车祸身亡、妻子一年内病故；他对队友说自己退休了。后以《Vapor Trails》（2002）、翻唱专《Feedback》（2004）、《Snakes & Arrows》（2007）与《Clockwork Angels》（2012）回归。纪录片 Beyond the Lighted Stage（2010）收录 Trent Reznor 到 Jack Black 等仰慕者。Lee 与 Lifeson 曾在 2008 年 Foo Fighters 演出中与 Dave Grohl 侧项目合奏《YYZ》。"
   },
   "narrative": [
     {
-      "id": "thesis",
+      "id": "power-trio",
       "title": {
-        "en": "Core sound",
-        "zh": "核心声音"
+        "en": "Power trio roles",
+        "zh": "三人组分工"
       },
       "body": {
-        "en": "Geddy Lee plays bass, lead vocal, and keyboards. Alex Lifeson handles arrangement guitar. Neil Peart plays drums and writes lyrics.\n\nMoving Pictures (1981) shortens earlier side-suites into radio-length tracks without dropping odd meters or instrumental detail.",
-        "zh": "Geddy Lee 负责贝斯、主唱与键盘。Alex Lifeson 负责编曲吉他。Neil Peart 负责鼓与歌词。\n\n《Moving Pictures》（1981）把早期整面组曲缩短为电台长度曲目，同时保留奇数拍与乐器细节。"
+        "en": "Geddy Lee covers bass, lead vocal, and keyboards. Alex Lifeson handles arrangement guitar. Neil Peart plays drums and writes lyrics.\n\nLive density is the point: complex songs kept as a three-piece. Billy Corgan later called their musical level “incomprehensible.”",
+        "zh": "Geddy Lee 兼贝斯、主唱与键盘。Alex Lifeson 负责编曲吉他。Neil Peart 负责鼓与歌词。\n\n现场密度是重点：复杂歌曲仍以三人编制完成。Billy Corgan 后来说其音乐水平「高到不可理解」。"
       },
       "stickyVisual": "thesis",
+      "soundGenre": "progressive-rock",
+      "stickyImage": {
+        "src": "/media/bands/rush-bluesfest-geddy.jpg",
+        "alt": {
+          "en": "Geddy Lee of Rush at Ottawa Bluesfest",
+          "zh": "Rush 的 Geddy Lee 于 Ottawa Bluesfest"
+        },
+        "credit": "ceedub13",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rush_@_Bluesfest_(4786692927).jpg"
+      }
+    },
+    {
+      "id": "peart-joins",
+      "title": {
+        "en": "From Rutsey to Peart; Kiss tour",
+        "zh": "从 Rutsey 到 Peart；Kiss 巡演"
+      },
+      "body": {
+        "en": "The self-titled debut (1974) is Rutsey-era hard rock; Working Man got US attention. After Rutsey left, Peart joined and Kiss took Rush on tour—Simmons had heard a “Canadian Zeppelin.”\n\nPeart’s drums and sci-fi lyrics reshape Fly by Night onward. The classic citation run is 2112 through Moving Pictures.",
+        "zh": "同名首专（1974）是 Rutsey 时期硬摇滚；《Working Man》引起美国注意。Rutsey 离队后 Peart 加入，Kiss 带 Rush 巡演——Simmons 听出「加拿大的 Zeppelin」。\n\nPeart 的鼓与科幻歌词从《Fly by Night》起重塑乐队。经典引用区间是《2112》至《Moving Pictures》。"
+      },
+      "stickyVisual": "lineupVersions",
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/rush-neil-peart.jpg",
+        "alt": {
+          "en": "Neil Peart of Rush",
+          "zh": "Rush 的 Neil Peart"
+        },
+        "credit": "Matt Becker",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:NeilPeart.JPG"
+      }
+    },
+    {
+      "id": "2112-to-pictures",
+      "title": {
+        "en": "2112 to Moving Pictures",
+        "zh": "从《2112》到《Moving Pictures》"
+      },
+      "body": {
+        "en": "2112 and Hemispheres document side-long suites under Yes-era prog influence. Permanent Waves (1980) shortens forms; The Spirit of Radio is the radio-length single.\n\nMoving Pictures (1981) adds Tom Sawyer’s synth hook and odd meters without dropping instrumental detail—the main mainstream entry.",
+        "zh": "《2112》与《Hemispheres》记录 Yes 影响下的整面组曲。《Permanent Waves》（1980）缩短曲式；《The Spirit of Radio》是电台长度单曲。\n\n《Moving Pictures》（1981）加入《Tom Sawyer》的合成器钩子与奇数拍，同时保留乐器细节——主要进入主流的入口。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 2,
       "soundGenre": "progressive-rock"
     },
     {
-      "id": "lineup-versions",
+      "id": "hiatus-return",
       "title": {
-        "en": "From Rutsey to the Peart trio",
-        "zh": "从 Rutsey 到 Peart 三人组"
+        "en": "Hiatus and return",
+        "zh": "间歇与回归"
       },
       "body": {
-        "en": "The self-titled debut (1974) features John Rutsey on drums and a hard-rock focus. Peart joins later in 1974.\n\nThe classic citation run starts at Fly by Night and continues through Clockwork Angels. The Peart-era trio is the main reference lineup.",
-        "zh": "同名首专（1974）鼓手为 John Rutsey，偏 hard-rock。Peart 于同年稍后加入。\n\n经典引用区间从《Fly by Night》到《Clockwork Angels》。Peart 时期三人组是主要参照阵容。"
-      },
-      "stickyVisual": "lineupVersions",
-      "soundGenre": "hard-rock"
-    },
-    {
-      "id": "sawyer",
-      "title": {
-        "en": "Tom Sawyer",
-        "zh": "《Tom Sawyer》"
-      },
-      "body": {
-        "en": "Minimoog riff, Peart’s odd-meter phrasing, Geddy’s high tenor, and Lifeson chorus guitar sit on Moving Pictures’ polished production.\n\nIt is the best-known synth-era Rush single on rock radio.",
-        "zh": "Minimoog riff、Peart 的奇数拍乐句、Geddy 高男高音，以及 Lifeson 的 chorus 吉他，落在《Moving Pictures》抛光制作上。\n\n这是合成器时期 Rush 在摇滚电台上最知名的单曲。"
-      },
-      "stickyVisual": "scene",
-      "soundGenre": "progressive-rock",
-      "sceneIndex": 2
-    },
-    {
-      "id": "members",
-      "title": {
-        "en": "Trio roles",
-        "zh": "三人分工"
-      },
-      "body": {
-        "en": "Live, Lee covers bass, lead vocal, and foot-pedal synths. Lifeson favors arpeggios and chord color over shred contests. Peart expands the kit and writes the lyrics.\n\nGeddy’s line “three guys trying to sound like more” describes the arrangement goal.",
-        "zh": "现场上，Lee 兼贝斯、主唱与脚踏合成器。Lifeson 偏分解和弦与音色，而非 shred 对决。Peart 扩展鼓组并写词。\n\nGeddy 说「三人听起来像更多人」描述的是编曲目标。"
+        "en": "After Test for Echo, Peart lost his daughter (1997) and wife within a year and told Lee and Lifeson he was retiring. Vapor Trails (2002) brought them back; Feedback (2004) covered The Who, Neil Young, and The Yardbirds.\n\nClockwork Angels (2012) closed the studio arc with Caravan’s ambitious opening statement.",
+        "zh": "《Test for Echo》之后，Peart 一年内失去女儿（1997）与妻子，并对 Lee、Lifeson 说自己退休。《Vapor Trails》（2002）让他们回归；《Feedback》（2004）翻唱 The Who、Neil Young 与 The Yardbirds。\n\n《Clockwork Angels》（2012）以《Caravan》开场收束录音室弧线。"
       },
       "stickyVisual": "members",
       "soundGenre": "progressive-rock"
     },
     {
-      "id": "quote",
+      "id": "foo-fighters-yyz",
       "title": {
-        "en": "Autonomy themes and trio craft",
-        "zh": "自主主题与三人工艺"
+        "en": "Foo Fighters and YYZ",
+        "zh": "Foo Fighters 与《YYZ》"
       },
       "body": {
-        "en": "Peart’s lyrics often return to individual autonomy—an idea already present around 2112. Lee’s interview lines describe trio arrangement density.\n\nRead both against the recorded parts, not as slogans.",
-        "zh": "Peart 歌词常回到个人自主——《2112》前后已有这一主题。Lee 的采访短句描述三人编曲密度。\n\n对照录音声部阅读，不作口号。"
+        "en": "Dave Grohl, a Rush fan, once joked that girls weren’t interested in 2112. In 2008 Lee and Lifeson still sat in with Hawkins’ project at a Foo Fighters show to play instrumental YYZ.\n\nKiss touring, Police-era writing shifts, and that Foo Fighters sit-in are the clearest cross-band links here.",
+        "zh": "Rush 歌迷 Dave Grohl 曾玩笑说女孩子对《2112》不感兴趣。2008 年 Lee 与 Lifeson 仍在 Foo Fighters 演出中与 Hawkins 侧项目合奏器乐曲《YYZ》。\n\nKiss 巡演、Police 时期写法转向，以及这场 Foo Fighters 客串，是此处最清楚的跨乐队联系。"
       },
-      "stickyVisual": "quote",
-      "soundGenre": "progressive-rock",
-      "quoteIndex": 1
+      "stickyVisual": "influence",
+      "soundGenre": "progressive-rock"
     },
     {
       "id": "legacy",
       "title": {
-        "en": "Influence on later prog and metal",
-        "zh": "对后来 prog 与金属的影响"
+        "en": "Influence and cult scale",
+        "zh": "影响与邪典体量"
       },
       "body": {
-        "en": "Tool and other prog-metal acts have cited odd meters and concept writing. Some 1980s–90s metal players also cite Peart’s kit ambition.\n\nRush kept progressive writing audible on rock radio for a long stretch of the Peart years.",
-        "zh": "Tool 等 prog-metal 乐队曾引用奇数拍与概念写作。部分 80、90 年代金属乐手也提到 Peart 鼓组野心。\n\n在 Peart 时期相当长一段时间内，Rush 把 progressive 写作留在摇滚电台上。"
+        "en": "Lee’s line about the world’s most popular cult band fits a catalog that stayed gold for decades without fashion-cycle peaks. Tool and prog-metal acts cite odd meters; Beyond the Lighted Stage (2010) showed admirers from Reznor to Jack Black.\n\nPeart-era trio craft is the lasting reference.",
+        "zh": "Lee「世界上最受欢迎的邪典乐队」之说，符合一份数十年维持金唱片、却少时尚周期高峰的目录。Tool 与 prog-metal 引用奇数拍；Beyond the Lighted Stage（2010）展示从 Reznor 到 Jack Black 的仰慕者。\n\nPeart 时期三人组工艺是持久参照。"
       },
       "stickyVisual": "influence",
       "soundGenre": "progressive-rock"
@@ -256,8 +293,8 @@
         }
       ],
       "note": {
-        "en": "Self-titled debut; hard-rock focus before Peart.",
-        "zh": "同名首专；Peart 加入前偏 hard-rock。"
+        "en": "Self-titled debut; hard-rock focus. Jeff Jones was bass briefly at the very start.",
+        "zh": "同名首专；偏硬摇滚。起步极短期间贝斯手为 Jeff Jones。"
       }
     },
     {
@@ -286,8 +323,8 @@
         }
       ],
       "note": {
-        "en": "2112 through Moving Pictures and later albums; classic trio.",
-        "zh": "《2112》至《Moving Pictures》及之后专辑；经典三人组。"
+        "en": "2112 through Moving Pictures and later albums; classic trio until Peart stopped touring.",
+        "zh": "《2112》至《Moving Pictures》及之后专辑；经典三人组至 Peart 停止巡演。"
       }
     }
   ],

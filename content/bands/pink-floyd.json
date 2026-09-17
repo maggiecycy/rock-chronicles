@@ -13,49 +13,85 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "London band formed in 1965. After Syd Barrett’s early psychedelic singles, the Waters/Gilmour years produced long-form concept albums; The Dark Side of the Moon (1973) and The Wall (1979) are the main commercial references.",
-    "zh": "伦敦乐队，1965 年成立。Syd Barrett 早期迷幻单曲之后，Waters/Gilmour 时期推出长篇概念专集；《The Dark Side of the Moon》（1973）与《The Wall》（1979）是主要商业参照。"
+    "en": "London band formed in 1965 from Sigma 6 / The Tea Set. Barrett-era psychedelic singles, then Waters/Gilmour concept albums; The Dark Side of the Moon (1973) and The Wall (1979) are the main chart and film references.",
+    "zh": "伦敦乐队，1965 年由 Sigma 6 / The Tea Set 演变成立。Barrett 时期迷幻单曲之后，是 Waters/Gilmour 概念专集；《The Dark Side of the Moon》（1973）与《The Wall》（1979）是主要榜单与电影参照。"
   },
   "members": [
     {
-      "name": "David Gilmour",
+      "name": "Syd Barrett",
       "role": "Guitar, Vocals",
-      "years": "1968–1985"
+      "years": "1965–1968"
     },
     {
       "name": "Roger Waters",
       "role": "Bass, Vocals",
-      "years": "1968–1985"
+      "years": "1965–1985"
     },
     {
       "name": "Richard Wright",
-      "role": "Keys",
-      "years": "1968–1985"
+      "role": "Keys, Vocals",
+      "years": "1965–1979; 1987–2008"
     },
     {
       "name": "Nick Mason",
       "role": "Drums",
-      "years": "1968–1985"
+      "years": "1965–2014"
+    },
+    {
+      "name": "Bob Klose",
+      "role": "Guitar",
+      "years": "1965"
+    },
+    {
+      "name": "David Gilmour",
+      "role": "Guitar, Vocals",
+      "years": "1968–2014"
     }
   ],
   "essentialTracks": [
     {
-      "title": "Comfortably Numb",
-      "year": 1979
+      "title": "See Emily Play",
+      "year": 1967
     },
     {
-      "title": "Time",
+      "title": "Money",
       "year": 1973
     },
     {
       "title": "Wish You Were Here",
       "year": 1975
+    },
+    {
+      "title": "Another Brick in the Wall, Part 2",
+      "year": 1979
+    },
+    {
+      "title": "Comfortably Numb",
+      "year": 1979
     }
   ],
   "scenes": [
     {
+      "year": 1967,
+      "track": "See Emily Play",
+      "membersOnStage": [
+        "Syd Barrett",
+        "Roger Waters",
+        "Richard Wright",
+        "Nick Mason"
+      ],
+      "genreTags": [
+        "psychedelic"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Barrett-era UK hit single; same period as Arnold Layne and The Piper at the Gates of Dawn.",
+        "zh": "Barrett 时期英国热单；与《Arnold Layne》、《The Piper at the Gates of Dawn》同期。"
+      }
+    },
+    {
       "year": 1973,
-      "track": "Time",
+      "track": "Money",
       "membersOnStage": [
         "David Gilmour",
         "Roger Waters",
@@ -65,10 +101,10 @@
       "genreTags": [
         "progressive-rock"
       ],
-      "intensity": 2,
+      "intensity": 3,
       "note": {
-        "en": "From The Dark Side of the Moon; clock sound effects, rototom figure, then verse/chorus and Gilmour solo.",
-        "zh": "出自《The Dark Side of the Moon》；钟声效果、rototom 音型，再接主副歌与 Gilmour 独奏。"
+        "en": "From The Dark Side of the Moon; cash-register effects, 7/4 verse, Dick Parry saxophone. Major US hit single from the album.",
+        "zh": "出自《The Dark Side of the Moon》；收银机效果、7/4 主歌、Dick Parry 萨克斯。专辑推动下的重要美国单曲。"
       }
     },
     {
@@ -86,17 +122,16 @@
       ],
       "intensity": 1,
       "note": {
-        "en": "Title track from Wish You Were Here; acoustic guitar and shared vocal focus.",
-        "zh": "同名专辑标题曲；原声吉他与人声为主。"
+        "en": "Title track from Wish You Were Here; acoustic guitar and shared vocal focus after the album’s longer suites.",
+        "zh": "同名专辑标题曲；在专辑长曲之后，以原声吉他与共享人声为主。"
       }
     },
     {
       "year": 1979,
-      "track": "Comfortably Numb",
+      "track": "Another Brick in the Wall, Part 2",
       "membersOnStage": [
         "David Gilmour",
         "Roger Waters",
-        "Richard Wright",
         "Nick Mason"
       ],
       "genreTags": [
@@ -104,124 +139,159 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "From The Wall; Waters verse, Gilmour chorus, two guitar solos.",
-        "zh": "出自《The Wall》；Waters 主歌、Gilmour 副歌，两段吉他独奏。"
+        "en": "From The Wall; co-produced with Bob Ezrin. UK/US chart single; 1982 Alan Parker film with Bob Geldof as Pink.",
+        "zh": "出自《The Wall》；与 Bob Ezrin 联合制作。英美榜单曲；1982 年 Alan Parker 电影由 Bob Geldof 饰演 Pink。"
       }
     }
   ],
   "interviewQuotes": [
     {
-      "text": "The purpose of the music is to free people.",
-      "speaker": "Roger Waters",
-      "source": "Interview excerpt · quote wall",
-      "year": 1980
+      "text": "Anyone who says they don't like Pink Floyd is just stupid… They made great music.",
+      "speaker": "John Lydon",
+      "source": "On reversing the Sex Pistols “I Hate Pink Floyd” T-shirt legend · book excerpt",
+      "year": 2010
     },
     {
-      "text": "It's not about being loud. It's about being there.",
-      "speaker": "David Gilmour",
-      "source": "Documentary excerpt",
-      "year": 2008
+      "text": "That lawsuit was because I arrogantly—and wrongly, I now admit—thought that because I wasn't in the band, the band and the name should stop.",
+      "speaker": "Roger Waters",
+      "source": "On post-1985 litigation · book paraphrase",
+      "year": 2005
     }
   ],
   "lyricQuotes": [
-    "The child is grown, the dream is gone",
-    "We're just two lost souls swimming in a fish bowl"
+    "Money, it's a crime",
+    "We're just two lost souls swimming in a fish bowl",
+    "We don't need no education"
   ],
   "relatedBands": [
     "king-crimson",
-    "the-beatles"
+    "led-zeppelin",
+    "the-beatles",
+    "sex-pistols"
   ],
   "influenceFrom": [
-    "the-beatles"
+    "the-beatles",
+    "chuck-berry"
   ],
   "influenced": [
     "radiohead"
   ],
   "shortBio": {
-    "en": "London progressive / psychedelic rock, 1965–. Barrett then Waters/Gilmour; Dark Side and The Wall are the core concept-album references.",
-    "zh": "伦敦 progressive / 迷幻摇滚，1965 年至今。Barrett 之后是 Waters/Gilmour；《Dark Side》与《The Wall》是核心概念专集参照。"
+    "en": "London progressive / psychedelic rock, 1965–2014. Barrett then Waters/Gilmour; Dark Side, Wish You Were Here, and The Wall are the core references.",
+    "zh": "伦敦 progressive / 迷幻摇滚，1965–2014。Barrett 之后是 Waters/Gilmour；《Dark Side》、《Wish You Were Here》与《The Wall》是核心参照。"
   },
   "body": {
-    "en": "Pink Floyd formed in London in 1965. Early singles center on Syd Barrett. After Barrett left, David Gilmour joined; the 1970s catalog under Waters’ writing includes The Dark Side of the Moon, Wish You Were Here, Animals, and The Wall—studio effects, spoken samples, and album-length song cycles.\n\nTime (1973) and Comfortably Numb (1979) show clock-effect arrangement and dual-vocal/solo structure. Waters left after 1985; later albums led by Gilmour form a separate chapter. Mason remains the only member present from the start.",
-    "zh": "Pink Floyd 于 1965 年在伦敦成立。早期单曲以 Syd Barrett 为中心。Barrett 离队后 David Gilmour 加入；1970 年代在 Waters 写作主导下推出《The Dark Side of the Moon》、《Wish You Were Here》、《Animals》、《The Wall》——录音室效果、口语采样与专辑长度歌曲组。\n\n《Time》（1973）与《Comfortably Numb》（1979）展示钟声效果编曲与双人声/独奏结构。Waters 于 1985 年后离队；之后由 Gilmour 主导的专辑是另一章节。Mason 是自始保留的成员。"
+    "en": "Pink Floyd grew out of London architecture students Roger Waters, Nick Mason, and Rick Wright (Sigma 6, 1963), then The Tea Set with Bob Klose and Syd Barrett. By 1965 they were The Pink Floyd Sound—named after bluesmen Pink Anderson and Floyd Council—then simply Pink Floyd after Klose left.\n\nBarrett steered early psychedelic sets and wrote Arnold Layne, See Emily Play, and much of The Piper at the Gates of Dawn (1967). After Barrett left, David Gilmour joined. Ummagumma (1969) entered the Billboard Top 100; Atom Heart Mother reached UK #1. Meddle (1971) and Obscured by Clouds (1972) refined the sound before The Dark Side of the Moon (1973)—with Dick Parry on sax and Clare Torry on vocals—became their first US #1, driven by Money.\n\nWish You Were Here (1975) and Animals (1977) addressed fame and politics; Snowy White toured on Animals while also working with Thin Lizzy. Stage shows mixed audio, visuals, and inflatables (notably a flying pig). Waters’ frustration with spectacle fed The Wall (1979), shaped with Bob Ezrin; Another Brick in the Wall was a chart single, and Alan Parker’s 1982 film starred Bob Geldof. Wright was dismissed for The Wall tour (session-only), then absent from The Final Cut (1983).\n\nWaters left in 1985 and sued over the name; Gilmour and Mason continued with Wright back, releasing A Momentary Lapse of Reason (1987), The Division Bell (1994), and Pulse (1995). A brief Live 8 reunion (2005) with Geldof’s organizing brought Waters, Gilmour, Mason, and Wright together again; Wright died of cancer in 2008. The Endless River (2014) drew partly on Division Bell outtakes.",
+    "zh": "Pink Floyd 源于伦敦建筑系学生 Roger Waters、Nick Mason、Rick Wright（1963 年 Sigma 6），随后与 Bob Klose、Syd Barrett 组成 The Tea Set。1965 年改名 The Pink Floyd Sound——取自布鲁斯乐手 Pink Anderson 与 Floyd Council——Klose 离队后简称 Pink Floyd。\n\nBarrett 主导早期迷幻演出，并写作《Arnold Layne》、《See Emily Play》及《The Piper at the Gates of Dawn》（1967）大部分曲目。Barrett 离队后 David Gilmour 加入。《Ummagumma》（1969）进入 Billboard 前 100；《Atom Heart Mother》获英国榜冠军。《Meddle》（1971）与《Obscured by Clouds》（1972）继续打磨声音，随后《The Dark Side of the Moon》（1973）——含 Dick Parry 萨克斯与 Clare Torry 人声——成为首张美国榜冠军专辑，并由《Money》推动。\n\n《Wish You Were Here》（1975）与《Animals》（1977）写成功与政治；Snowy White 参加 Animals 巡演，同期也为 Thin Lizzy 工作。现场混合视听与充气道具（标志性飞猪）。Waters 对奇观淹没信息的不满促成《The Wall》（1979），与 Bob Ezrin 塑形；《Another Brick in the Wall》成为榜单曲，Alan Parker 1982 年电影由 Bob Geldof 主演。Wright 在 The Wall 巡演被降为参与者，未出现在《The Final Cut》（1983）。\n\nWaters 1985 年离队并就乐队名起诉；Gilmour 与 Mason 召回 Wright，发行《A Momentary Lapse of Reason》（1987）、《The Division Bell》（1994）与现场专辑《Pulse》（1995）。2005 年在 Bob Geldof 促成的 Live 8 短暂重聚；Wright 2008 年因癌症去世。《The Endless River》（2014）部分取自 Division Bell 未发表素材。"
   },
   "narrative": [
     {
-      "id": "thesis",
+      "id": "barrett-psychedelic",
       "title": {
-        "en": "Concept albums at chart scale",
-        "zh": "进入榜单的概念专集"
+        "en": "Barrett and early psychedelic London",
+        "zh": "Barrett 与早期伦敦迷幻"
       },
       "body": {
-        "en": "Pink Floyd’s mid-1970s records treat the album as the main unit: long production, sound design, and linked themes.\n\nThe Dark Side of the Moon spent years on the Billboard 200. Studio work and large-scale live shows used the same engineering focus.",
-        "zh": "Pink Floyd 1970 年代中期录音把专辑当作主要单位：长制作、声音设计与贯穿主题。\n\n《The Dark Side of the Moon》在 Billboard 200 停留多年。录音室与大型现场共用同一套工程重心。"
-      },
-      "stickyVisual": "thesis",
-      "soundGenre": "progressive-rock"
-    },
-    {
-      "id": "lineup-versions",
-      "title": {
-        "en": "Barrett, Waters-led, post-Waters",
-        "zh": "Barrett、Waters 主导、后 Waters"
-      },
-      "body": {
-        "en": "Early psychedelia is Barrett-centered. The mid catalog is Waters writing with Gilmour on guitar and shared vocals. After 1985, Gilmour-led albums are another legal and musical chapter.\n\nLineup versions explain both the disputes and the sound shifts.",
-        "zh": "早期迷幻以 Barrett 为中心。中期目录是 Waters 写作，Gilmour 负责吉他与部分人声。1985 年后 Gilmour 主导专辑是另一法律与音乐章节。\n\n阵容版本同时解释争执与声音转向。"
+        "en": "Before the concept albums, Pink Floyd were a London psychedelic residency band under Barrett: abstract rhythm and blues, awkward Chuck Berry covers, then original singles Arnold Layne and See Emily Play.\n\nAstronomy Domine and Interstellar Overdrive on The Piper at the Gates of Dawn (1967) mark the early long-form experiments. Barrett left amid drug-related instability; Gilmour replaced him.",
+        "zh": "概念专集之前，Pink Floyd 是 Barrett 掌舵的伦敦迷幻驻场乐队：抽象节奏布鲁斯、别扭的 Chuck Berry 翻唱，再到原创单曲《Arnold Layne》《See Emily Play》。\n\n《The Piper at the Gates of Dawn》（1967）上的《Astronomy Domine》《Interstellar Overdrive》标出早期长曲实验。Barrett 因毒品相关状态不稳离队，由 Gilmour 接替。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "progressive-rock"
+      "soundGenre": "psychedelic",
+      "stickyImage": {
+        "src": "/media/bands/pink-floyd-meddle-1971.jpg",
+        "alt": {
+          "en": "Pink Floyd — Waters, Mason, Gilmour, Wright — Meddle trade ad, 1971",
+          "zh": "Pink Floyd——Waters、Mason、Gilmour、Wright——《Meddle》广告照，1971"
+        },
+        "credit": "Capitol Records / Billboard trade ad",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pink_Floyd,_1971_(HQ).jpg"
+      }
     },
     {
-      "id": "time",
+      "id": "dark-side",
       "title": {
-        "en": "Time",
-        "zh": "《Time》"
+        "en": "The Dark Side of the Moon",
+        "zh": "《The Dark Side of the Moon》"
       },
       "body": {
-        "en": "Sound-effect intro, rototom figure, verse/chorus, then Gilmour solo. It sits near the middle of Dark Side’s running order.\n\nThe track is a clear map of the album’s production method.",
-        "zh": "音效引入、rototom 音型、主副歌，再接 Gilmour 独奏。曲目靠近《Dark Side》专辑中段。\n\n这首歌清楚标出该专的制作写法。"
+        "en": "Dark Side (1973) was their first US #1. Waters’ lyrics on fame, war, and social pressure sit with Gilmour/Wright playing, Dick Parry saxophone, and Clare Torry’s vocal on The Great Gig in the Sky.\n\nMoney’s cash-register tape loop and 7/4 verse made a radio single. Live scale grew into audio-visual shows with inflatables—including the flying pig later tied to Animals.",
+        "zh": "《Dark Side》（1973）是乐队首张美国榜冠军。Waters 关于名声、战争与社会压力的歌词，配合 Gilmour/Wright 演奏、Dick Parry 萨克斯，以及 Clare Torry 在《The Great Gig in the Sky》上的人声。\n\n《Money》的收银机磁带循环与 7/4 主歌成为电台单曲。现场扩大为视听与充气道具——包括后来与《Animals》绑定的飞猪。"
       },
       "stickyVisual": "scene",
-      "sceneIndex": 0,
-      "soundGenre": "progressive-rock"
+      "sceneIndex": 1,
+      "soundGenre": "progressive-rock",
+      "stickyImage": {
+        "src": "/media/bands/pink-floyd-waters-sax-1975.jpg",
+        "alt": {
+          "en": "Roger Waters with saxophonist on stage, Cow Palace, 1975",
+          "zh": "Roger Waters 与萨克斯手同台，Cow Palace，1975"
+        },
+        "credit": "Bill Abbott",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pink_Floyd-_Roger_Waters_%26_sax_player,_Cow_Palace,_1975_(7382404852).jpg"
+      }
     },
     {
-      "id": "numb",
+      "id": "the-wall-geldof",
       "title": {
-        "en": "Comfortably Numb",
-        "zh": "《Comfortably Numb》"
+        "en": "The Wall and the Geldof film",
+        "zh": "《The Wall》与 Geldof 电影"
       },
       "body": {
-        "en": "Waters sings a dry verse; Gilmour lifts the chorus. Two guitar solos appear in one song.\n\nIt is among the best-known tracks from The Wall (1979).",
-        "zh": "Waters 唱干的主歌；Gilmour 抬起副歌。一曲内有两段吉他独奏。\n\n这是《The Wall》（1979）最知名的曲目之一。"
+        "en": "Waters’ concern that stage spectacle drowned his message led to The Wall (1979). Gilmour and Bob Ezrin shaped the demos; session players including Jeff Porcaro and Lee Ritenour appear on the tracks.\n\nAnother Brick in the Wall was a chart single. Alan Parker’s 1982 film cast Bob Geldof as Pink; power struggles around the film fed Gilmour–Waters conflict. Wright was out as a full member for the Wall tour and The Final Cut (1983).",
+        "zh": "Waters 担心舞台奇观淹没歌词信息，促成《The Wall》（1979）。Gilmour 与 Bob Ezrin 塑形样带；Jeff Porcaro、Lee Ritenour 等客座出现在音轨上。\n\n《Another Brick in the Wall》成为榜单曲。Alan Parker 1982 年电影由 Bob Geldof 饰演 Pink；围绕电影的权力争执波及 Gilmour 与 Waters。Wright 在 Wall 巡演与《The Final Cut》（1983）时期不再是正式全职成员。"
       },
       "stickyVisual": "scene",
-      "sceneIndex": 2,
+      "sceneIndex": 3,
       "soundGenre": "progressive-rock"
     },
     {
-      "id": "members",
+      "id": "post-waters",
       "title": {
-        "en": "Wright, Mason, Gilmour, Waters",
-        "zh": "Wright、Mason、Gilmour、Waters"
+        "en": "After Waters; Live 8",
+        "zh": "Waters 之后；Live 8"
       },
       "body": {
-        "en": "Richard Wright’s harmony pads and Nick Mason’s steady drums underpin the concept years. Vocal and lyric authority shift across albums and are audible on the records.\n\nWho writes the frame changes by era.",
-        "zh": "Richard Wright 的和声铺底与 Nick Mason 稳健鼓组支撑概念专集年代。人声与歌词权威随专辑转移，在录音上可闻。\n\n谁写框架因时期而变。"
+        "en": "Waters left in 1985 and sued to stop the name; Gilmour and Mason kept the band and brought Wright back. A Momentary Lapse of Reason (1987), The Division Bell (1994), and Pulse (1995) outsold Waters’ solo peaks commercially.\n\nLive 8 (2005), organized with Bob Geldof’s involvement, briefly reunited Waters, Gilmour, Mason, and Wright. Wright died in 2008. The Endless River (2014) closed the studio catalog for Gilmour and Mason.",
+        "zh": "Waters 1985 年离队并起诉试图阻止乐队名继续使用；Gilmour 与 Mason 维持乐队并召回 Wright。《A Momentary Lapse of Reason》（1987）、《The Division Bell》（1994）与《Pulse》（1995）在商业上超过 Waters 个人高峰。\n\n2005 年 Live 8（Bob Geldof 参与促成）短暂重聚 Waters、Gilmour、Mason、Wright。Wright 2008 年去世。《The Endless River》（2014）结束 Gilmour 与 Mason 的录音室目录。"
       },
       "stickyVisual": "members",
-      "soundGenre": "psychedelic"
+      "soundGenre": "progressive-rock",
+      "stickyImage": {
+        "src": "/media/bands/pink-floyd-gilmour-wright-1975.jpg",
+        "alt": {
+          "en": "David Gilmour and Richard Wright on stage, Cow Palace, 1975",
+          "zh": "David Gilmour 与 Richard Wright 舞台照，Cow Palace，1975"
+        },
+        "credit": "Bill Abbott",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pink_Floyd_David_Gilmour,_Richard_Wright,_Cow_Palace,_1975_(7382384194).jpg"
+      }
+    },
+    {
+      "id": "money",
+      "title": {
+        "en": "Money",
+        "zh": "《Money》"
+      },
+      "body": {
+        "en": "Cash-register loop, 7/4 verse, then a more conventional rock feel. Gilmour guitar and Parry sax are easy identifiers on Dark Side’s running order.\n\nIt is the clearest single-length entry into the album’s production method.",
+        "zh": "收银机循环、7/4 主歌，再转入更常规的摇滚拍感。Gilmour 吉他与 Parry 萨克斯是《Dark Side》曲序上易辨认的元素。\n\n这是进入该专制作写法最清晰的单曲长度入口。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 1,
+      "soundGenre": "progressive-rock"
     },
     {
       "id": "legacy",
       "title": {
-        "en": "Later cites",
-        "zh": "后来的引用"
+        "en": "Catalog after the split",
+        "zh": "分裂之后的目录"
       },
       "body": {
-        "en": "Later art-rock and ambient-adjacent bands cite the production. Some metal acts cite the album scale. Punk often rejected the spectacle side.\n\nThe catalog remains a studio-engineering reference.",
-        "zh": "后来的 art-rock 与 ambient 邻近乐队引用其制作。部分金属乐队引用其专辑体量。朋克常拒绝其奇观一面。\n\n目录仍是录音室工程参照。"
+        "en": "John Lydon later walked back the Sex Pistols “I Hate Pink Floyd” T-shirt, calling the music great. Echoes (2001) and other reissues keep the catalog circulating.\n\nSnowy White’s dual work with Thin Lizzy, the Geldof Wall film, and Live 8 are the clearest cross-band links in this chronicle.",
+        "zh": "John Lydon 后来收回 Sex Pistols「I Hate Pink Floyd」T 恤立场，称其音乐很好。《Echoes》（2001）等再版让目录持续流通。\n\nSnowy White 兼任 Thin Lizzy、Geldof 主演的 Wall 电影，以及 Live 8，是本编年中最清楚的跨乐队联系。"
       },
       "stickyVisual": "influence",
       "soundGenre": "progressive-rock"
@@ -254,8 +324,8 @@
         }
       ],
       "note": {
-        "en": "Syd Barrett–centered psychedelic lineup; early singles period.",
-        "zh": "以 Syd Barrett 为中心的迷幻阵容；早期单曲时期。"
+        "en": "Early singles and The Piper at the Gates of Dawn. Bob Klose left before the Barrett peak.",
+        "zh": "早期单曲与《The Piper at the Gates of Dawn》。Bob Klose 在 Barrett 高峰前离队。"
       }
     },
     {
@@ -264,7 +334,7 @@
         "en": "Classic Waters–Gilmour",
         "zh": "经典 Waters–Gilmour"
       },
-      "years": "1968–1985",
+      "years": "1968–1979",
       "peak": true,
       "members": [
         {
@@ -277,7 +347,7 @@
         },
         {
           "name": "Richard Wright",
-          "role": "Keys"
+          "role": "Keys, Vocals"
         },
         {
           "name": "Nick Mason",
@@ -285,8 +355,34 @@
         }
       ],
       "note": {
-        "en": "Concept-album years; Dark Side through The Wall.",
-        "zh": "概念专集年代；从《Dark Side》到《The Wall》。"
+        "en": "Meddle through Animals; Dark Side and Wish You Were Here. Wright’s full membership ends around The Wall.",
+        "zh": "从《Meddle》到《Animals》；含《Dark Side》与《Wish You Were Here》。Wright 正式全职身份约在 The Wall 时期结束。"
+      }
+    },
+    {
+      "id": "gilmour-led",
+      "label": {
+        "en": "Gilmour-led",
+        "zh": "Gilmour 主导"
+      },
+      "years": "1987–1994",
+      "members": [
+        {
+          "name": "David Gilmour",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "Nick Mason",
+          "role": "Drums"
+        },
+        {
+          "name": "Richard Wright",
+          "role": "Keys"
+        }
+      ],
+      "note": {
+        "en": "After Waters’ exit and litigation; A Momentary Lapse of Reason and The Division Bell.",
+        "zh": "Waters 离队与诉讼之后；《A Momentary Lapse of Reason》与《The Division Bell》。"
       }
     }
   ],
@@ -295,8 +391,8 @@
       "title": "See Emily Play",
       "year": 1967,
       "note": {
-        "en": "Early Barrett-era UK single; psychedelic period marker.",
-        "zh": "Barrett 时期早期英国单曲；迷幻时期标记。"
+        "en": "Barrett-era UK single; early psychedelic chart marker.",
+        "zh": "Barrett 时期英国单曲；早期迷幻榜单标记。"
       }
     },
     "pioneeredGenres": [
@@ -304,8 +400,8 @@
       "psychedelic"
     ],
     "note": {
-      "en": "Album-length concept production on mass charts in the 1970s.",
-      "zh": "1970 年代进入大众榜单的专辑长度概念制作。"
+      "en": "Album-length concept production on mass charts; Wall film with Bob Geldof.",
+      "zh": "进入大众榜单的专辑长度概念制作；Wall 电影由 Bob Geldof 主演。"
     }
   }
 }

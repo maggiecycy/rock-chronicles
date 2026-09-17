@@ -4,16 +4,23 @@
   "formed": 1975,
   "origin": "UK / USA",
   "primaryEra": "1970s-prog-hard-rock",
+  "alsoAppearsIn": [
+    "1980s-metal"
+  ],
   "genres": [
     "hard-rock",
     "heavy-metal"
   ],
   "decisive": false,
+  "whyMatters": {
+    "en": "Ritchie Blackmore’s post–Deep Purple band. Rising (1976) with Ronnie James Dio set fantasy-lyric hard rock and neoclassical guitar; Dio later moved to Black Sabbath. Commercial Bonnet/Turner years followed until the 1984 Mk II Purple reunion paused Rainbow.",
+    "zh": "Ritchie Blackmore 离开 Deep Purple 后的乐队。与 Ronnie James Dio 的《Rising》（1976）确立奇幻歌词 hard rock 与新古典吉他；Dio 之后加入 Black Sabbath。Bonnet/Turner 商业时期延续至 1984 年 Purple Mk II 重聚，Rainbow 暂停。"
+  },
   "members": [
     {
       "name": "Ritchie Blackmore",
       "role": "Guitar",
-      "years": "1975–1984",
+      "years": "1975–1984; 1994–1997",
       "personSlug": "ritchie-blackmore"
     },
     {
@@ -23,25 +30,60 @@
       "personSlug": "ronnie-james-dio"
     },
     {
+      "name": "Graham Bonnet",
+      "role": "Vocals",
+      "years": "1979–1980"
+    },
+    {
+      "name": "Joe Lynn Turner",
+      "role": "Vocals",
+      "years": "1980–1984"
+    },
+    {
+      "name": "Doogie White",
+      "role": "Vocals",
+      "years": "1994–1997"
+    },
+    {
       "name": "Roger Glover",
       "role": "Bass",
-      "years": "1978–1984",
+      "years": "1979–1984",
       "personSlug": "roger-glover"
     },
     {
       "name": "Cozy Powell",
       "role": "Drums",
-      "years": "1979–1984"
+      "years": "1975–1980"
+    },
+    {
+      "name": "Bobby Rondinelli",
+      "role": "Drums",
+      "years": "1980–1983"
+    },
+    {
+      "name": "Craig Gruber",
+      "role": "Bass",
+      "years": "1975"
+    },
+    {
+      "name": "Gary Driscoll",
+      "role": "Drums",
+      "years": "1975"
+    },
+    {
+      "name": "Mickey Lee Soule",
+      "role": "Keyboards",
+      "years": "1975"
+    },
+    {
+      "name": "Jimmy Bain",
+      "role": "Bass",
+      "years": "1975–1977"
     },
     {
       "name": "Tony Carey",
       "role": "Keyboards",
       "years": "1975–1977"
-    },
-    {
-      "name": "Mickey Lee Soule",
-      "role": "Keyboards, Vocals",
-      "years": "1975–1976"
     }
   ],
   "essentialTracks": [
@@ -62,6 +104,74 @@
       "year": 1979
     }
   ],
+  "scenes": [
+    {
+      "year": 1975,
+      "track": "Man on the Silver Mountain",
+      "membersOnStage": [
+        "Ritchie Blackmore",
+        "Ronnie James Dio",
+        "Craig Gruber",
+        "Gary Driscoll",
+        "Mickey Lee Soule"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "Debut single from Ritchie Blackmore’s Rainbow. Dio and Elf teammates Gruber, Driscoll, Soule; Blackmore later fired all but Dio before Rising.",
+        "zh": "出自《Ritchie Blackmore’s Rainbow》的首支单曲。Dio 与 Elf 队友 Gruber、Driscoll、Soule；Blackmore 在《Rising》前开除除 Dio 外全员。"
+      }
+    },
+    {
+      "year": 1976,
+      "track": "Stargazer",
+      "membersOnStage": [
+        "Ritchie Blackmore",
+        "Ronnie James Dio",
+        "Jimmy Bain",
+        "Tony Carey",
+        "Cozy Powell"
+      ],
+      "genreTags": [
+        "hard-rock",
+        "heavy-metal"
+      ],
+      "intensity": 3,
+      "note": {
+        "en": "From Rainbow Rising; Bain, Carey, Powell replace the Elf rhythm section. Fantasy lyric over hard-rock arrangement.",
+        "zh": "出自《Rainbow Rising》；Bain、Carey、Powell 替换 Elf 节奏组。奇幻歌词叠 hard-rock 编曲。"
+      }
+    },
+    {
+      "year": 1979,
+      "track": "Since You Been Gone",
+      "membersOnStage": [
+        "Ritchie Blackmore",
+        "Graham Bonnet",
+        "Roger Glover",
+        "Cozy Powell"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Graham Bonnet era radio rock; Blackmore’s push away from sword-and-sorcery toward commercial rock after Dio left for Black Sabbath.",
+        "zh": "Graham Bonnet 时期电台摇滚；Dio 跳槽 Black Sabbath 后，Blackmore 推动乐队离开「剑与魔法」重心、转向商业摇滚。"
+      }
+    }
+  ],
+  "interviewQuotes": [
+    {
+      "text": "Dio brought mythology. I brought the riffs.",
+      "speaker": "Ritchie Blackmore",
+      "source": "Press interview excerpt",
+      "year": 1976
+    }
+  ],
   "lyricQuotes": [
     "I'm a man on the silver mountain",
     "Look into the purple sky / Where the horses ride"
@@ -78,177 +188,130 @@
     "judas-priest"
   ],
   "shortBio": {
-    "en": "Blackmore / Dio hard rock, 1975–1979. Bridge from Deep Purple to Sabbath’s Dio era.",
-    "zh": "Blackmore / Dio 硬摇滚，1975–1979。从 Deep Purple 到 Sabbath Dio 时期的中间一环。"
+    "en": "Blackmore after Deep Purple, 1975–. Dio years then Bonnet/Turner AOR; Dio exits to Sabbath; Mk II Purple reunion pauses the band in 1984.",
+    "zh": "Blackmore 离开 Deep Purple 之后，1975 年起。Dio 时期再到 Bonnet/Turner AOR；Dio 跳槽 Sabbath；1984 年 Purple Mk II 重聚使乐队暂停。"
   },
   "body": {
-    "en": "Rainbow formed in 1975 after Ritchie Blackmore left Deep Purple. From Ritchie Blackmore's Rainbow through Long Live Rock 'n' Roll, Blackmore’s neoclassical leads sit with Ronnie James Dio’s mid-range vocals; Cozy Powell drums on key records.\n\nDio’s work here comes before Black Sabbath’s Heaven and Hell. Later Graham Bonnet and Joe Lynn Turner lineups are separate commercial chapters.",
-    "zh": "Ritchie Blackmore 1975 年离开 Deep Purple 后组建 Rainbow。从《Ritchie Blackmore's Rainbow》到《Long Live Rock 'n' Roll》：Blackmore 新古典主音与 Ronnie James Dio 的中音区人声并列；关键唱片含 Cozy Powell 鼓。\n\nDio 在此之后才加入 Black Sabbath 录制《Heaven and Hell》。后期 Graham Bonnet、Joe Lynn Turner 阵容是另一商业阶段。"
+    "en": "In 1974–75 Deep Purple shifted style in ways Blackmore rejected. He left one of the world’s biggest touring bands and formed Rainbow with Ronnie James Dio and Elf bandmates Craig Gruber, Gary Driscoll, and Mickey Lee Soule. Ritchie Blackmore’s Rainbow (1975) built the reputation; Blackmore then fired everyone but Dio. Rainbow Rising (1976) used Jimmy Bain, Tony Carey, and Cozy Powell—still the Dio-era peak.\n\nWhen Blackmore pushed away from sword-and-sorcery toward commercial rock, Dio left for Black Sabbath (Heaven and Hell). Graham Bonnet (ex-Marbles) sang Since You Been Gone (1979). Roger Glover (ex–Deep Purple) anchored bass. Joe Lynn Turner’s albums kept Atlantic-crossing sales against Whitesnake and Gillan’s solo band until Purple’s Mark II reunion in 1984 stalled Rainbow. A mid-1990s return with Doogie White produced Stranger in Us All (1995); Blackmore then paused Rainbow for Blackmore’s Night. Dio died in 2010, ending reunion hopes with the original singer.",
+    "zh": "1974–75 年 Deep Purple 的风格转变令 Blackmore 不满。他离开当时世界级巡演乐队之一，与 Ronnie James Dio 及 Elf 队友 Craig Gruber、Gary Driscoll、Mickey Lee Soule 组建 Rainbow。《Ritchie Blackmore’s Rainbow》（1975）打开局面后，Blackmore 开除除 Dio 外全员。《Rainbow Rising》（1976）启用 Jimmy Bain、Tony Carey、Cozy Powell——仍是 Dio 时期峰值。\n\n当 Blackmore 推动乐队离开「剑与魔法」、转向商业摇滚时，Dio 跳槽 Black Sabbath（《Heaven and Hell》）。前 Marbles 主唱 Graham Bonnet 演唱《Since You Been Gone》（1979）。前 Deep Purple 贝斯手 Roger Glover 稳住低音。Joe Lynn Turner 时期专辑在大西洋两岸仍卖得过 Whitesnake 与 Gillan 个人乐队，直至 1984 年 Purple Mark II 重聚使 Rainbow 陷入停顿。1990 年代中期与 Doogie White 重组，发行《Stranger in Us All》（1995）；随后 Blackmore 暂停 Rainbow，专心 Blackmore’s Night。Dio 2010 年去世，与原主唱重聚的可能随之结束。"
   },
-  "whyMatters": {
-    "en": "Ritchie Blackmore’s post–Deep Purple band. Rising (1976) and the Dio years set fantasy-lyric hard rock with neoclassical guitar figures.",
-    "zh": "Ritchie Blackmore 离开 Deep Purple 后的乐队。《Rising》（1976）与 Dio 时期确立奇幻歌词 hard rock 与新古典吉他音型。"
-  },
-  "scenes": [
-    {
-      "year": 1975,
-      "track": "Man on the Silver Mountain",
-      "membersOnStage": [
-        "Ritchie Blackmore",
-        "Ronnie James Dio",
-        "Mickey Lee Soule"
-      ],
-      "genreTags": [
-        "hard-rock",
-        "heavy-metal"
-      ],
-      "intensity": 3,
-      "note": {
-        "en": "Debut single; Dio mid-range over Blackmore’s pentatonic climb.",
-        "zh": "首支单曲；Dio 中音区叠 Blackmore 五声阶爬升。"
-      }
-    },
-    {
-      "year": 1976,
-      "track": "Stargazer",
-      "membersOnStage": [
-        "Ritchie Blackmore",
-        "Ronnie James Dio",
-        "Tony Carey"
-      ],
-      "genreTags": [
-        "hard-rock",
-        "heavy-metal"
-      ],
-      "intensity": 3,
-      "note": {
-        "en": "From Rising; orchestra over hard-rock arrangement, before “epic metal” as a fixed label.",
-        "zh": "出自《Rising》；管弦乐叠 hard-rock 编曲，早于「史诗金属」作为固定标签。"
-      }
-    },
-    {
-      "year": 1978,
-      "track": "Kill the King",
-      "membersOnStage": [
-        "Ritchie Blackmore",
-        "Ronnie James Dio",
-        "Roger Glover",
-        "Cozy Powell"
-      ],
-      "genreTags": [
-        "heavy-metal",
-        "hard-rock"
-      ],
-      "intensity": 3,
-      "note": {
-        "en": "Speed intro and stop-start riffs; Powell’s double-kick drive.",
-        "zh": "速度 intro 与停走 riff；Powell 双踩驱动。"
-      }
-    }
-  ],
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Blackmore with Dio",
-        "zh": "Blackmore 与 Dio"
+        "en": "Blackmore leaves Purple for Rainbow",
+        "zh": "Blackmore 离开 Purple 组建 Rainbow"
       },
       "body": {
-        "en": "Blackmore recruits Elf’s Ronnie James Dio after quitting Deep Purple mid-1975 tour. Debut Ritchie Blackmore's Rainbow (1975) is leaner than Purple Mark II.\n\nMan on the Silver Mountain sets the early sound: Dio’s chest voice, Blackmore’s ascending riff, no Hammond pad.\n\nThe self-titled album shows a guitar-led hard-rock band without Gillan or Lord.",
-        "zh": "Blackmore 1975 年巡演中途离开 Deep Purple 后招募 Elf 的 Ronnie James Dio。首张《Ritchie Blackmore's Rainbow》（1975）比 Purple Mark II 更瘦。\n\n《Man on the Silver Mountain》确立早期声音：Dio 胸声、Blackmore 上行 riff、无 Hammond 垫底。\n\n同名专辑显示无 Gillan、Lord 时的吉他主导 hard rock。"
+        "en": "Blackmore quit Deep Purple mid-1970s after style disputes, while Purple still flew private jets and played stadiums. He recruited Elf’s Dio, Gruber, Driscoll, and Soule for the debut.\n\nMan on the Silver Mountain sets the early sound: Dio’s mid-range, Blackmore’s ascending riff, no Hammond pad from the Purple mix.\n\nFiring the Elf rhythm section before Rising showed how tightly he controlled the lineup.",
+        "zh": "Blackmore 因风格争执于 1970 年代中期离开 Deep Purple——当时 Purple 仍开私人飞机、演体育场。他招入 Elf 的 Dio、Gruber、Driscoll、Soule 录首专。\n\n《Man on the Silver Mountain》确立早期声音：Dio 中音区、Blackmore 上行 riff、无 Purple 混音里的 Hammond 垫底。\n\n《Rising》前开除 Elf 节奏组，显示他对阵容控制很紧。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/rainbow-1977-dio-blackmore-oslo.jpg",
+        "alt": {
+          "en": "Ronnie James Dio and Ritchie Blackmore with Rainbow, Oslo, 27 September 1977",
+          "zh": "Ronnie James Dio 与 Ritchie Blackmore，Rainbow，奥斯陆，1977 年 9 月 27 日"
+        },
+        "credit": "Helge Øverås",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rainbow_in_performance_(27_09_1977_02_500b).jpg"
+      }
     },
     {
-      "id": "lineup-versions",
+      "id": "rising",
       "title": {
-        "en": "Rising: five-piece peak",
-        "zh": "《Rising》：五人巅峰"
+        "en": "Rising and the Dio exit to Sabbath",
+        "zh": "Rising 与 Dio 跳槽 Sabbath"
       },
       "body": {
-        "en": "Rainbow Rising (1976) uses Blackmore, Dio, Jimmy Bain (bass), Powell (drums), and Carey (keys). Stargazer adds a Munich orchestra—fantasy lyric without prog-suite length.\n\nTarot Woman and A Light in the Black push tempo; Starstruck stays nearer single length.\n\nPeak Dio era for vocal power and riff clarity before later lineup changes.",
-        "zh": "《Rainbow Rising》（1976）编制为 Blackmore、Dio、Jimmy Bain（贝斯）、Powell（鼓）、Carey（键盘）。《Stargazer》加慕尼黑管弦——奇幻歌词，但不用 prog 组曲时长。\n\n《Tarot Woman》与《A Light in the Black》推速度；《Starstruck》更接近单曲长度。\n\nDio 时期人声与 riff 清晰度的峰值，之后阵容开始更替。"
+        "en": "Rainbow Rising (1976) is the classic Dio five-piece with Bain, Carey, and Powell. Stargazer and Tarot Woman define the fantasy-lyric hard-rock peak.\n\nBlackmore wanted less sword-and-sorcery and more commercial rock; Dio left for Black Sabbath. Craig Gruber also briefly filled Sabbath bass in 1979—shared Rainbow↔Sabbath personnel.\n\nCozy Powell and later Bobby Rondinelli both appear in later Sabbath lineups as well.",
+        "zh": "《Rainbow Rising》（1976）是 Dio 五人经典编制：Bain、Carey、Powell。《Stargazer》《Tarot Woman》界定奇幻歌词 hard rock 峰值。\n\nBlackmore 希望减少「剑与魔法」、增加商业摇滚；Dio 跳槽 Black Sabbath。Craig Gruber 1979 年也短暂补过 Sabbath 贝斯——Rainbow↔Sabbath 人员交叉。\n\nCozy Powell 与后来的 Bobby Rondinelli 同样出现在后期 Sabbath 阵容中。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "hard-rock"
     },
     {
-      "id": "legacy",
+      "id": "commercial",
       "title": {
-        "en": "Long Live Rock 'n' Roll and after Dio",
-        "zh": "《Long Live Rock 'n' Roll》与后 Dio 时期"
+        "en": "Bonnet, Turner, and the Purple pause",
+        "zh": "Bonnet、Turner 与 Purple 暂停"
       },
       "body": {
-        "en": "Long Live Rock 'n' Roll (1978) closes the Dio era with Gate of Babylon and the title track. Dio exits in 1979; Glover and Powell anchor the Bonnet then Turner commercial lineups.\n\nDown to Earth (1979) adds Since You Been Gone—AOR polish with Blackmore riffs still central.\n\nRainbow ends in 1984 when Blackmore rejoins the Deep Purple Mk II reunion.",
-        "zh": "《Long Live Rock 'n' Roll》（1978）以《Gate of Babylon》与标题曲收束 Dio 时期。Dio 1979 年离队；Glover 与 Powell 支撑 Bonnet 及后来 Turner 商业阵容。\n\n《Down to Earth》（1979）加入《Since You Been Gone》——AOR 抛光，Blackmore riff 仍居中心。\n\nRainbow 1984 年随 Blackmore 回归 Deep Purple Mk II 重聚而结束。"
+        "en": "Graham Bonnet’s Since You Been Gone (1979) is the radio-rock payoff Blackmore wanted. Roger Glover (ex–Deep Purple) anchors bass through the commercial years.\n\nJoe Lynn Turner’s albums stayed competitive with Whitesnake and Ian Gillan’s band. When Deep Purple reunited as Mark II in 1984, Rainbow stalled.\n\nTurner later sang on Purple’s Slaves and Masters—another Purple↔Rainbow seat swap.",
+        "zh": "Graham Bonnet 的《Since You Been Gone》（1979）是 Blackmore 要的电台摇滚结果。前 Deep Purple 的 Roger Glover 在商业时期稳住贝斯。\n\nJoe Lynn Turner 时期专辑仍能与 Whitesnake、Ian Gillan 乐队竞争。1984 年 Deep Purple 以 Mark II 重聚时，Rainbow 陷入停顿。\n\nTurner 后来主唱 Purple《Slaves and Masters》——又一 Purple↔Rainbow 席位互换。"
       },
       "stickyVisual": "influence",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/rainbow-1977-blackmore-oslo.jpg",
+        "alt": {
+          "en": "Ritchie Blackmore with Rainbow at Chateau Neuf, Oslo, 1977",
+          "zh": "Ritchie Blackmore 与 Rainbow，Chateau Neuf，奥斯陆，1977"
+        },
+        "credit": "Helge Øverås",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ritchie_Blackmore_1977.jpg"
+      }
     },
     {
-      "id": "scene-0",
-      "title": {
-        "en": "Man on the Silver Mountain",
-        "zh": "《Man on the Silver Mountain》"
-      },
-      "body": {
-        "en": "Debut single from 1975. Dio’s mid-range sits over Blackmore’s pentatonic climb.\n\nEarly signature of the Dio/Blackmore pairing.",
-        "zh": "1975 年首支单曲。Dio 中音区叠在 Blackmore 五声阶爬升上。\n\nDio/Blackmore 组合的早期标志曲。"
-      },
-      "stickyVisual": "scene",
-      "sceneIndex": 0,
-      "soundGenre": "hard-rock"
-    },
-    {
-      "id": "scene-1",
+      "id": "scene-stargazer",
       "title": {
         "en": "Stargazer",
         "zh": "《Stargazer》"
       },
       "body": {
-        "en": "From Rising (1976). Orchestra over hard-rock arrangement and Dio’s mythic lyric.\n\nOften cited before “epic metal” settled as a genre label.",
-        "zh": "出自《Rising》（1976）。管弦乐叠 hard-rock 编曲与 Dio 神话歌词。\n\n常在「史诗金属」成为固定类型标签之前被引用。"
+        "en": "From Rising (1976). Orchestra and hard-rock arrangement under Dio’s mythic lyric.\n\nOften cited before “epic metal” settled as a fixed genre label.",
+        "zh": "出自《Rising》（1976）。管弦与 hard-rock 编曲托住 Dio 神话歌词。\n\n常在「史诗金属」成为固定类型标签之前被引用。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
       "soundGenre": "hard-rock"
-    },
-    {
-      "id": "scene-2",
-      "title": {
-        "en": "Kill the King",
-        "zh": "《Kill the King》"
-      },
-      "body": {
-        "en": "Speed intro and stop-start riffs from the late Dio years.\n\nPowell’s double-kick is a clear driver of the arrangement.",
-        "zh": "Dio 后期的速度 intro 与停走 riff。\n\nPowell 的双踩是编曲中的明确驱动。"
-      },
-      "stickyVisual": "scene",
-      "sceneIndex": 2,
-      "soundGenre": "heavy-metal"
-    }
-  ],
-  "interviewQuotes": [
-    {
-      "text": "Dio brought mythology. I brought the riffs.",
-      "speaker": "Ritchie Blackmore",
-      "source": "Press interview excerpt",
-      "year": 1976
-    },
-    {
-      "text": "Stargazer was the ceiling of what that lineup could do.",
-      "speaker": "Ronnie James Dio",
-      "source": "Archive interview excerpt",
-      "year": 1986
     }
   ],
   "lineupVersions": [
     {
+      "id": "elf-debut",
+      "label": {
+        "en": "Debut / Elf lineup",
+        "zh": "首专 / Elf 阵容"
+      },
+      "years": "1975",
+      "members": [
+        {
+          "name": "Ritchie Blackmore",
+          "role": "Guitar",
+          "personSlug": "ritchie-blackmore"
+        },
+        {
+          "name": "Ronnie James Dio",
+          "role": "Vocals",
+          "personSlug": "ronnie-james-dio"
+        },
+        {
+          "name": "Craig Gruber",
+          "role": "Bass"
+        },
+        {
+          "name": "Gary Driscoll",
+          "role": "Drums"
+        },
+        {
+          "name": "Mickey Lee Soule",
+          "role": "Keyboards"
+        }
+      ],
+      "note": {
+        "en": "Ritchie Blackmore’s Rainbow. Blackmore soon fired all but Dio.",
+        "zh": "《Ritchie Blackmore’s Rainbow》。Blackmore 很快开除除 Dio 外全员。"
+      }
+    },
+    {
       "id": "peak",
       "label": {
-        "en": "Dio / Blackmore / Powell era",
-        "zh": "Dio / Blackmore / Powell 时期"
+        "en": "Dio / Rising era",
+        "zh": "Dio / Rising 时期"
       },
       "years": "1975–1979",
       "peak": true,
@@ -277,8 +340,40 @@
         }
       ],
       "note": {
-        "en": "Rising / Long Live Rock 'n' Roll; fantasy-lyric hard rock peak.",
-        "zh": "《Rising》/《Long Live Rock 'n' Roll》；奇幻歌词 hard rock 巅峰。"
+        "en": "Rising / Long Live Rock 'n' Roll; Dio exits to Black Sabbath.",
+        "zh": "《Rising》/《Long Live Rock 'n' Roll》；Dio 跳槽 Black Sabbath。"
+      }
+    },
+    {
+      "id": "bonnet-turner",
+      "label": {
+        "en": "Bonnet / Turner commercial years",
+        "zh": "Bonnet / Turner 商业时期"
+      },
+      "years": "1979–1984",
+      "members": [
+        {
+          "name": "Ritchie Blackmore",
+          "role": "Guitar",
+          "personSlug": "ritchie-blackmore"
+        },
+        {
+          "name": "Graham Bonnet / Joe Lynn Turner",
+          "role": "Vocals"
+        },
+        {
+          "name": "Roger Glover",
+          "role": "Bass",
+          "personSlug": "roger-glover"
+        },
+        {
+          "name": "Cozy Powell / Bobby Rondinelli",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Since You Been Gone through Turner albums; pauses when Blackmore rejoins Deep Purple Mk II.",
+        "zh": "《Since You Been Gone》至 Turner 时期专辑；Blackmore 回归 Deep Purple Mk II 后暂停。"
       }
     }
   ],
@@ -287,8 +382,8 @@
       "title": "Man on the Silver Mountain",
       "year": 1975,
       "note": {
-        "en": "Open-chord anthem; early Rainbow signature single.",
-        "zh": "开放和弦颂歌；Rainbow 早期标志单曲。"
+        "en": "Open-chord anthem; early Rainbow signature single with Dio.",
+        "zh": "开放和弦颂歌；与 Dio 合作的 Rainbow 早期标志单曲。"
       }
     },
     "pioneeredGenres": [
@@ -296,8 +391,8 @@
       "hard-rock"
     ],
     "note": {
-      "en": "Post–Deep Purple fantasy-lyric hard rock with Dio’s range.",
-      "zh": "离开 Deep Purple 后的奇幻歌词 hard rock，靠 Dio 音域。"
+      "en": "Post–Deep Purple fantasy-lyric hard rock; Dio bridge to Sabbath; Glover/Turner seats link back to Purple.",
+      "zh": "离开 Deep Purple 后的奇幻歌词 hard rock；Dio 衔接到 Sabbath；Glover/Turner 席位连回 Purple。"
     }
   }
 }

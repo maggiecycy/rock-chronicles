@@ -13,10 +13,60 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "British-American band formed in 1967. The 1975–87 Buckingham–Nicks lineup made stacked harmony and studio polish the commercial core; Rumours (1977) is the main sales and radio reference.",
-    "zh": "英美乐队，1967 年成立。1975–87 年 Buckingham–Nicks 阵容以叠和声与录音室抛光构成商业核心；Rumours（1977）是主要销量与电台参照。"
+    "en": "Formed in 1967 from John Mayall’s Bluesbreakers alumni. Peter Green–era UK Top 10 singles, then the 1975 Buckingham–Nicks five; Rumours (1977) is among the best-selling rock albums and the main radio document.",
+    "zh": "1967 年由 John Mayall’s Bluesbreakers 前成员组建。Peter Green 时期英榜前 10 单曲，随后是 1975 年 Buckingham–Nicks 五人组；《Rumours》（1977）位列摇滚最畅销专辑之列，也是主要电台文献。"
   },
   "members": [
+    {
+      "name": "Mick Fleetwood",
+      "role": "Drums",
+      "years": "1967–present"
+    },
+    {
+      "name": "John McVie",
+      "role": "Bass",
+      "years": "1967–present"
+    },
+    {
+      "name": "Peter Green",
+      "role": "Guitar, Vocals",
+      "years": "1967–1970"
+    },
+    {
+      "name": "Jeremy Spencer",
+      "role": "Guitar, Vocals",
+      "years": "1967–1971"
+    },
+    {
+      "name": "Bob Brunning",
+      "role": "Bass",
+      "years": "1967"
+    },
+    {
+      "name": "Danny Kirwan",
+      "role": "Guitar, Vocals",
+      "years": "1968–1972"
+    },
+    {
+      "name": "Christine McVie",
+      "role": "Keyboards, Vocals",
+      "years": "1970–1998; 2014–2022"
+    },
+    {
+      "name": "Bob Welch",
+      "role": "Guitar, Vocals",
+      "years": "1971–1974"
+    },
+    {
+      "name": "Dave Walker",
+      "role": "Vocals",
+      "years": "1972–1973"
+    },
+    {
+      "name": "Bob Weston",
+      "role": "Guitar",
+      "years": "1972–1973"
+    },
     {
       "name": "Lindsey Buckingham",
       "role": "Guitar, Vocals",
@@ -30,27 +80,35 @@
       "personSlug": "stevie-nicks"
     },
     {
-      "name": "Christine McVie",
-      "role": "Keyboards, Vocals",
-      "years": "1970–1998; 2014–2022"
+      "name": "Rick Vito",
+      "role": "Guitar",
+      "years": "1987–1991"
     },
     {
-      "name": "John McVie",
-      "role": "Bass",
-      "years": "1967–present"
-    },
-    {
-      "name": "Mick Fleetwood",
-      "role": "Drums",
-      "years": "1967–present"
-    },
-    {
-      "name": "Peter Green",
+      "name": "Billy Burnette",
       "role": "Guitar, Vocals",
-      "years": "1967–1970"
+      "years": "1987–1995"
+    },
+    {
+      "name": "Bekka Bramlett",
+      "role": "Vocals",
+      "years": "1993–1995"
+    },
+    {
+      "name": "Dave Mason",
+      "role": "Guitar, Vocals",
+      "years": "1993–1995"
     }
   ],
   "essentialTracks": [
+    {
+      "title": "Oh Well",
+      "year": 1969
+    },
+    {
+      "title": "Rhiannon",
+      "year": 1975
+    },
     {
       "title": "Go Your Own Way",
       "year": 1977
@@ -62,17 +120,29 @@
     {
       "title": "The Chain",
       "year": 1977
-    },
-    {
-      "title": "Rhiannon",
-      "year": 1975
-    },
-    {
-      "title": "Oh Well",
-      "year": 1969
     }
   ],
   "scenes": [
+    {
+      "year": 1969,
+      "track": "Oh Well",
+      "membersOnStage": [
+        "Peter Green",
+        "John McVie",
+        "Mick Fleetwood",
+        "Jeremy Spencer",
+        "Danny Kirwan"
+      ],
+      "genreTags": [
+        "blues",
+        "rock-n-roll"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "Peter Green UK Top 10 single; blues-rock era before California pop focus.",
+        "zh": "Peter Green 英榜前 10 单曲；加州流行重心之前的蓝调摇滚期。"
+      }
+    },
     {
       "year": 1977,
       "track": "Go Your Own Way",
@@ -88,8 +158,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "From Rumours; fingerstyle guitar drive and stacked choruses.",
-        "zh": "出自 Rumours；指弹吉他驱动与叠副歌。"
+        "en": "From Rumours; fingerstyle drive and stacked choruses.",
+        "zh": "出自《Rumours》；指弹驱动与叠副歌。"
       }
     },
     {
@@ -103,46 +173,27 @@
         "Mick Fleetwood"
       ],
       "genreTags": [
-        "rock-n-roll",
-        "alternative"
-      ],
-      "intensity": 2,
-      "note": {
-        "en": "Nicks vocal over a sparse groove; US No.1 single.",
-        "zh": "Nicks 人声盖在稀疏律动上；美国冠军单曲。"
-      }
-    },
-    {
-      "year": 1969,
-      "track": "Oh Well",
-      "membersOnStage": [
-        "Peter Green",
-        "John McVie",
-        "Mick Fleetwood"
-      ],
-      "genreTags": [
-        "blues",
         "rock-n-roll"
       ],
       "intensity": 2,
       "note": {
-        "en": "Peter Green blues-rock era, before the mid-1970s pop focus.",
-        "zh": "Peter Green 蓝调摇滚期，早于 1970 年代中期的流行重心。"
+        "en": "Nicks vocal over a sparse groove; US No.1 single from Rumours.",
+        "zh": "Nicks 人声盖在稀疏律动上；出自《Rumours》的美国冠军单曲。"
       }
     }
   ],
   "interviewQuotes": [
     {
+      "text": "It was a complete disaster area—emotional hell mixed with musical pleasure.",
+      "speaker": "Mick Fleetwood",
+      "source": "To Craig Rosen on the Rumours period",
+      "year": 1977
+    },
+    {
       "text": "We made Rumours while breaking up with each other.",
       "speaker": "Lindsey Buckingham",
       "source": "Press interview excerpt",
       "year": 1977
-    },
-    {
-      "text": "The arrangements had to be tighter than the relationships.",
-      "speaker": "Stevie Nicks",
-      "source": "Archive interview excerpt",
-      "year": 1978
     }
   ],
   "lyricQuotes": [
@@ -150,10 +201,11 @@
     "Thunder only happens when it's raining"
   ],
   "relatedBands": [
-    "the-beatles",
+    "cream",
+    "black-sabbath",
+    "judas-priest",
     "the-rolling-stones",
-    "the-beach-boys",
-    "cream"
+    "the-beatles"
   ],
   "influenceFrom": [
     "cream",
@@ -165,96 +217,146 @@
     "coldplay"
   ],
   "shortBio": {
-    "en": "Buckingham–Nicks Rumours peak; Peter Green blues origin; Go Your Own Way is a key single.",
-    "zh": "Buckingham–Nicks 的 Rumours 高峰；Peter Green 蓝调起源；Go Your Own Way 是关键单曲。"
+    "en": "Bluesbreakers origin; Green UK hits; Buckingham–Nicks Rumours peak; later Vito/Burnette and Bramlett/Mason chapters.",
+    "zh": "Bluesbreakers 起源；Green 英国热单；Buckingham–Nicks《Rumours》高峰；后有 Vito/Burnette 与 Bramlett/Mason 章节。"
   },
   "body": {
-    "en": "Fleetwood Mac formed in 1967 as a Peter Green blues band with John McVie and Mick Fleetwood. Lindsey Buckingham and Stevie Nicks joined in 1975. Fleetwood Mac (1975) and Rumours (1977) set California soft-rock harmony over that UK rhythm section.\n\nTwo eras matter for the catalog: Green-era blues rock, then the Buckingham–Nicks five. Commercial peak sits on Rumours and the mid-1970s–80s studio albums.",
-    "zh": "Fleetwood Mac 于 1967 年作为 Peter Green 蓝调乐队成立，成员含 John McVie 与 Mick Fleetwood。Lindsey Buckingham 与 Stevie Nicks 于 1975 年加入。同名专辑（1975）与 Rumours（1977）在英国节奏组之上确立加州软摇滚和声。\n\n目录上有两个主要时期：Green 时期蓝调摇滚，以及 Buckingham–Nicks 五人组。商业高峰落在 Rumours 与 1970 年代中期至 80 年代的录音室专辑。"
+    "en": "Mick Fleetwood joined John Mayall’s Bluesbreakers in 1967 beside Peter Green (who had replaced Eric Clapton in 1966). Mayall fired both within a month; they formed Fleetwood Mac with Jeremy Spencer (ex–The Levi Set). Bob Brunning left on bass in September 1967 for The Brunning Sunflower Blues Band; John McVie (also ex-Bluesbreakers) replaced him. Danny Kirwan (ex–Boilerhouse) joined mid-1968. Green’s writing delivered UK Top 10 albums Fleetwood Mac, Mr. Wonderful (with Christine Perfect of Chicken Shack—later Christine McVie), and Then Play On, plus singles Albatross, Man of the World, Oh Well, and The Green Manalishi (with the Two-Prong Crown)—later covered by Judas Priest. LSD and pressure pushed Green out in 1970; he later led the Splinter Group and The British Blues All Stars.\n\nSpencer quit mid-US tour in 1971 for the Children of God commune. Bob Welch replaced him and steered toward melodic songs with Christine McVie. Kirwan was fired in 1972; Dave Walker (ex–The Idle Race / Savoy Brown) and Bob Weston lasted through Penguin (1973). Walker later competed with Ozzy Osbourne for the Black Sabbath vocal seat and briefly replaced him. Weston was dismissed in September 1973 after an affair with Fleetwood’s wife Jenny. Welch left late 1974 for Paris and a solo career.\n\nFleetwood and the McVies settled in California and invited Lindsey Buckingham and Stevie Nicks. Fleetwood Mac (1975) reached US No.1; Rumours (1977)—written amid breakups and cocaine—became one of rock’s best sellers. Tusk (1979) experimented; Mirage (1982) retreated. Nicks’s Bella Donna (1981) went platinum solo. Tango in the Night (1987) sold huge; Buckingham quit the tour and Rick Vito plus Billy Burnette joined for Behind the Mask (1990). Clinton’s 1993 inauguration briefly reunited the Rumours five on Don’t Stop. Bekka Bramlett and Dave Mason (ex–Traffic) cut Time (1995). The Dance (1997) restored the five to platinum; Say You Will (2003) followed without Christine McVie.",
+    "zh": "Mick Fleetwood 于 1967 年加入 John Mayall’s Bluesbreakers，与 Peter Green 同队（Green 1966 年接替 Eric Clapton）。Mayall 一个月内开除两人；他们与 Jeremy Spencer（前 The Levi Set）组建 Fleetwood Mac。贝斯手 Bob Brunning 1967 年 9 月离队组建 The Brunning Sunflower Blues Band，由同属前 Bluesbreakers 的 John McVie 接任。Danny Kirwan（前 Boilerhouse）1968 年中期加入。Green 写出英榜前 10 专辑《Fleetwood Mac》《Mr. Wonderful》（与 Chicken Shack 的 Christine Perfect——后为 Christine McVie——合作）、《Then Play On》，以及单曲《Albatross》《Man of the World》《Oh Well》《The Green Manalishi (with the Two-Prong Crown)》——后被 Judas Priest 翻唱。LSD 与压力使 Green 于 1970 年退出；后来有 Splinter Group 与 The British Blues All Stars。\n\n1971 年美国巡演中 Spencer 外出买报后加入「上帝的孩子」公社。Bob Welch 接替，与 Christine McVie 转向旋律歌曲。Kirwan 1972 年被炒；Dave Walker（前 The Idle Race / Savoy Brown）与 Bob Weston 撑过《Penguin》（1973）。Walker 后来与 Ozzy Osbourne 竞争 Black Sabbath 主唱席并短暂顶替。Weston 因与 Fleetwood 之妻 Jenny 暧昧于 1973 年 9 月被解雇。Welch 1974 年底离队组建 Paris 并单飞。\n\nFleetwood 与 McVie 夫妇定居加州，邀请 Lindsey Buckingham 与 Stevie Nicks。《Fleetwood Mac》（1975）登美榜冠军；《Rumours》（1977）——在分手与可卡因中写成——成为摇滚最畅销专辑之一。《Tusk》（1979）尝试其他曲风；《Mirage》（1982）更保守。Nicks 个人《Bella Donna》（1981）白金。《Tango in the Night》（1987）大卖；Buckingham 退出巡演，Rick Vito 与 Billy Burnette 加入并录制《Behind the Mask》（1990）。1993 年克林顿就职典礼上 Rumours 五人短暂重聚演唱《Don't Stop》。Bekka Bramlett 与前 Traffic 的 Dave Mason 录制《Time》（1995）。《The Dance》（1997）让五人组重回白金；《Say You Will》（2003）无 Christine McVie。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Studio harmony and radio-length songs",
-        "zh": "录音室和声与电台长度歌曲"
+        "en": "Two catalogs under one name",
+        "zh": "同一团名下的两套目录"
       },
       "body": {
-        "en": "Rumours centers stacked vocals, Buckingham’s fingerstyle attack, and radio-length songs. Band drama was biographical; the recorded sound is careful multi-track craft.\n\nSoft-rock songwriting sits over firm arrangement and rhythm.",
-        "zh": "Rumours 以叠人声、Buckingham 的指弹攻击与电台长度歌曲为中心。乐队戏剧是传记事实；录音声音是细致的多轨工艺。\n\n软摇滚写法压在明确的编排与节奏之上。"
+        "en": "Fleetwood Mac is often plural in practice: Green-era British blues-rock, then Buckingham–Nicks California harmony pop over the same McVie/Fleetwood rhythm section.\n\nRumours fixed stacked vocals, fingerstyle attack, and radio-length songs as the commercial core.\n\nGreen singles (Albatross, Oh Well, Green Manalishi) remain the blues-club reference half of the name.",
+        "zh": "Fleetwood Mac 实务上常像复数：Green 时期英国蓝调摇滚，再是 Buckingham–Nicks 加州和声流行，底下仍是 McVie/Fleetwood 节奏组。\n\n《Rumours》把叠人声、指弹攻击与电台长度歌曲定为商业核心。\n\nGreen 单曲（《Albatross》《Oh Well》《Green Manalishi》）仍是团名蓝调俱乐部的一半参照。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/fleetwood-mac-billboard-1977.jpg",
+        "alt": {
+          "en": "Fleetwood Mac, Billboard photograph, 1977",
+          "zh": "Fleetwood Mac，《Billboard》照片，1977"
+        },
+        "credit": "Warner Bros. Records / Billboard, 1977",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fleetwood_Mac_Billboard_1977.jpg"
+      }
     },
     {
-      "id": "lineup-versions",
+      "id": "green-era",
       "title": {
-        "en": "Green blues and Buckingham–Nicks peak",
-        "zh": "Green 蓝调与 Buckingham–Nicks 高峰"
+        "en": "Bluesbreakers to Green Manalishi",
+        "zh": "Bluesbreakers 到 Green Manalishi"
       },
       "body": {
-        "en": "1967–70: Green, McVie, and Fleetwood blues-rock. 1975–87: Buckingham, Nicks, Christine McVie, John McVie, and Mick Fleetwood form the best-known commercial lineup.\n\nRumours five is the peak commercial chapter. The blues chapter is the origin of the name and early catalog.",
-        "zh": "1967–70：Green、McVie 与 Fleetwood 的蓝调摇滚。1975–87：Buckingham、Nicks、Christine McVie、John McVie 与 Mick Fleetwood 构成最知名的商业阵容。\n\nRumours 五人组是商业高峰章节。蓝调章节是团名与早期目录的起源。"
+        "en": "Green, Fleetwood, McVie, Spencer, and Kirwan built UK chart blues-rock. Christine Perfect (Chicken Shack) appears on Mr. Wonderful before joining full-time.\n\nGreen exits 1970; Spencer leaves 1971 for a religious commune. Welch, Walker, and Weston mark unstable early-1970s US touring years.\n\nCross-band: Walker later briefly replaced Ozzy Osbourne in Black Sabbath; Judas Priest covered The Green Manalishi.",
+        "zh": "Green、Fleetwood、McVie、Spencer、Kirwan 建立英国榜单蓝调摇滚。Christine Perfect（Chicken Shack）先出现在《Mr. Wonderful》，后正式入队。\n\nGreen 1970 年退出；Spencer 1971 年加入宗教公社。Welch、Walker、Weston 标记 1970 年代初美国巡演的动荡年代。\n\n跨乐队：Walker 后来短暂顶替 Black Sabbath 的 Ozzy Osbourne；Judas Priest 翻唱《The Green Manalishi》。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "blues",
+      "stickyImage": {
+        "src": "/media/bands/christine-mcvie-1977.jpg",
+        "alt": {
+          "en": "Christine McVie of Fleetwood Mac, 1977",
+          "zh": "Fleetwood Mac 的 Christine McVie，1977"
+        },
+        "credit": "Warner Bros. Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christine_McVie_-_Fleetwood_Mac_(1977)_(cropped).jpg"
+      }
     },
     {
-      "id": "members",
+      "id": "rumours-five",
       "title": {
-        "en": "Three singers, fingerstyle, rhythm section",
-        "zh": "三主唱、指弹、节奏组"
+        "en": "Buckingham–Nicks and Rumours",
+        "zh": "Buckingham–Nicks 与 Rumours"
       },
       "body": {
-        "en": "Nicks, Christine McVie, and Buckingham share lead vocals. Buckingham produces and fingerpicks. John McVie and Mick Fleetwood keep a blues pocket under the pop sheen.\n\nMic placement and vocal stacking are part of the studio identity.",
-        "zh": "Nicks、Christine McVie 与 Buckingham 分主唱。Buckingham 负责制作与指弹。John McVie 与 Mick Fleetwood 在流行光泽下保持蓝调律动。\n\n话筒位置与人声叠层是录音室身份的一部分。"
+        "en": "The 1975 self-titled LP climbed to US No.1. Rumours (1977) was written while Fleetwood, the McVies, Nicks, and Buckingham’s relationships collapsed—Fleetwood called it emotional hell with musical pleasure.\n\nTusk (1979) resisted repeating Rumours; Mirage (1982) and Tango in the Night (1987) returned toward polish. Buckingham’s exit ended that five on the road until later reunions.\n\nClinton’s 1993 inauguration Don’t Stop was a one-off Rumours-five appearance.",
+        "zh": "1975 年同名专辑爬上美榜冠军。《Rumours》（1977）写于 Fleetwood、McVie 夫妇、Nicks 与 Buckingham 关系崩溃之际——Fleetwood 称之为情绪地狱与音乐快感交织。\n\n《Tusk》（1979）不愿重复《Rumours》；《Mirage》（1982）与《Tango in the Night》（1987）回到抛光路线。Buckingham 退出结束五人组巡演，直至后来重聚。\n\n1993 年克林顿就职典礼上的《Don't Stop》是一次性 Rumours 五人亮相。"
       },
       "stickyVisual": "members",
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/mick-fleetwood-1977.jpg",
+        "alt": {
+          "en": "Mick Fleetwood during the Rumours era, 1977",
+          "zh": "Mick Fleetwood，《Rumours》时期，1977"
+        },
+        "credit": "Warner Bros. Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mick_Fleetwood_1977_Rumours.jpg"
+      }
     },
     {
-      "id": "go-your-own-way",
-      "title": {
-        "en": "Go Your Own Way",
-        "zh": "Go Your Own Way"
-      },
-      "body": {
-        "en": "Acoustic-electric drive, Nicks harmony answers, and Fleetwood tom hits. Breakup lyric on a radio single.\n\nA main face track of the Buckingham–Nicks era.",
-        "zh": "木电驱动、Nicks 和声应答与 Fleetwood 通通鼓。分手歌词落在电台单曲上。\n\nBuckingham–Nicks 时期的主要门面曲之一。"
-      },
-      "stickyVisual": "scene",
-      "sceneIndex": 0,
-      "soundGenre": "rock-n-roll"
-    },
-    {
-      "id": "dreams",
+      "id": "scene-dreams",
       "title": {
         "en": "Dreams",
         "zh": "Dreams"
       },
       "body": {
-        "en": "Minimal groove, Nicks lead, Christine McVie keys pad. Shows Rumours range beyond uptempo rockers.\n\nUS chart peak single for this lineup.",
-        "zh": "极简律动、Nicks 主唱、Christine McVie 键盘垫。展示 Rumours 不止快节奏摇滚曲。\n\n该阵容的美国榜峰值单曲。"
+        "en": "Minimal groove, Nicks lead, Christine McVie keys pad on Rumours.\n\nUS No.1 single for the Buckingham–Nicks five.",
+        "zh": "《Rumours》上的极简律动、Nicks 主唱、Christine McVie 键盘垫。\n\nBuckingham–Nicks 五人组的美国冠军单曲。"
       },
       "stickyVisual": "scene",
-      "sceneIndex": 1,
+      "sceneIndex": 2,
       "soundGenre": "rock-n-roll"
     },
     {
-      "id": "legacy",
+      "id": "later",
       "title": {
-        "en": "Harmony pop cited across decades",
-        "zh": "跨年代引用的和声流行"
+        "en": "Vito/Burnette, Time, The Dance",
+        "zh": "Vito/Burnette、Time、The Dance"
       },
       "body": {
-        "en": "Adult-contemporary and later indie acts often cite Rumours vocal stacking. Green-era tracks remain blues-club references.\n\nThe chronicle keeps both eras; commercial peak stays on the five.",
-        "zh": "成人当代与后来的 indie 乐队常引用 Rumours 的人声叠层。Green 时期曲目仍是蓝调俱乐部参照。\n\n编年史保留两个时期；商业高峰仍在五人组。"
+        "en": "Behind the Mask (1990) used Rick Vito and Billy Burnette after Buckingham quit. Nicks and Christine McVie left by year’s end. Bramlett and Dave Mason (ex–Traffic) cut Time (1995).\n\nThe Dance (1997) restored the classic five to platinum live sales. Say You Will (2003) was a four-piece without Christine McVie; touring resumed into the 2010s.",
+        "zh": "Buckingham 退出后，《Behind the Mask》（1990）用 Rick Vito 与 Billy Burnette。Nicks 与 Christine McVie 年底离队。Bramlett 与前 Traffic 的 Dave Mason 录制《Time》（1995）。\n\n《The Dance》（1997）让经典五人组现场重回白金。《Say You Will》（2003）为无 Christine McVie 的四人编制；巡演延续至 2010 年代。"
       },
       "stickyVisual": "influence",
       "soundGenre": "rock-n-roll"
     }
   ],
   "lineupVersions": [
+    {
+      "id": "peter-green",
+      "label": {
+        "en": "Peter Green blues era",
+        "zh": "Peter Green 蓝调期"
+      },
+      "years": "1967–1970",
+      "members": [
+        {
+          "name": "Peter Green",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "Jeremy Spencer",
+          "role": "Guitar"
+        },
+        {
+          "name": "Danny Kirwan",
+          "role": "Guitar"
+        },
+        {
+          "name": "John McVie",
+          "role": "Bass"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "UK Top 10 singles Albatross / Oh Well / Green Manalishi.",
+        "zh": "英榜前 10 单曲《Albatross》/《Oh Well》/《Green Manalishi》。"
+      }
+    },
     {
       "id": "buckingham-nicks",
       "label": {
@@ -288,20 +390,33 @@
         }
       ],
       "note": {
-        "en": "Rumours and Tusk commercial peak.",
-        "zh": "Rumours 与 Tusk 商业高峰。"
+        "en": "Fleetwood Mac (1975) and Rumours (1977) commercial peak.",
+        "zh": "《Fleetwood Mac》（1975）与《Rumours》（1977）商业高峰。"
       }
     },
     {
-      "id": "peter-green",
+      "id": "vito-burnette",
       "label": {
-        "en": "Peter Green blues era",
-        "zh": "Peter Green 蓝调期"
+        "en": "Vito / Burnette years",
+        "zh": "Vito / Burnette 时期"
       },
-      "years": "1967–1970",
+      "years": "1987–1991",
       "members": [
         {
-          "name": "Peter Green",
+          "name": "Stevie Nicks",
+          "role": "Vocals",
+          "personSlug": "stevie-nicks"
+        },
+        {
+          "name": "Christine McVie",
+          "role": "Keyboards, Vocals"
+        },
+        {
+          "name": "Rick Vito",
+          "role": "Guitar"
+        },
+        {
+          "name": "Billy Burnette",
           "role": "Guitar, Vocals"
         },
         {
@@ -314,8 +429,8 @@
         }
       ],
       "note": {
-        "en": "British blues-rock origin.",
-        "zh": "英国蓝调摇滚起源。"
+        "en": "Behind the Mask after Buckingham quits the Tango tour.",
+        "zh": "Buckingham 退出 Tango 巡演后的《Behind the Mask》。"
       }
     }
   ],
@@ -325,15 +440,16 @@
       "year": 1977,
       "note": {
         "en": "Rumours single that fixed the Buckingham–Nicks radio identity.",
-        "zh": "确立 Buckingham–Nicks 电台身份的 Rumours 单曲。"
+        "zh": "确立 Buckingham–Nicks 电台身份的《Rumours》单曲。"
       }
     },
     "pioneeredGenres": [
-      "rock-n-roll"
+      "rock-n-roll",
+      "blues"
     ],
     "note": {
       "en": "Blues origin and Rumours harmony under one band name.",
-      "zh": "同一团名下：蓝调起源与 Rumours 和声。"
+      "zh": "同一团名下：蓝调起源与《Rumours》和声。"
     }
   }
 }

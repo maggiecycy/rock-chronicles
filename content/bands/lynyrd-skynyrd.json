@@ -9,8 +9,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Jacksonville Southern hard-rock band with a three-guitar lineup. Free Bird and Sweet Home Alabama put dual/triple-lead writing and open-G country riffs on 1970s FM hard rock.",
-    "zh": "杰克逊维尔南方硬摇滚乐队，三吉他编制。Free Bird 与 Sweet Home Alabama 把双/三主音写法与 open-G country riff 送上 1970 年代 FM 硬摇滚。"
+    "en": "Jacksonville Southern hard-rock band with a three-guitar lineup. Free Bird and Sweet Home Alabama put dual/triple-lead writing and open-G country riffs on 1970s FM. The 1977 plane crash ended the Van Zant peak; Johnny Van Zant later fronted reunions.",
+    "zh": "杰克逊维尔南方硬摇滚乐队，三吉他编制。《Free Bird》与《Sweet Home Alabama》把双/三主音写法与 open-G country riff 送上 1970 年代 FM。1977 年空难结束 Van Zant 高峰；其后由 Johnny Van Zant 主唱重聚。"
   },
   "members": [
     {
@@ -21,12 +21,27 @@
     {
       "name": "Gary Rossington",
       "role": "Guitar",
-      "years": "1964–1977; 1979–2023"
+      "years": "1964–1977; 1987–2023"
     },
     {
       "name": "Allen Collins",
       "role": "Guitar",
-      "years": "1964–1977; 1979–1980"
+      "years": "1964–1977; 1987–1990"
+    },
+    {
+      "name": "Bob Burns",
+      "role": "Drums",
+      "years": "1964–1974"
+    },
+    {
+      "name": "Larry Junstrom",
+      "role": "Bass",
+      "years": "1964–1971"
+    },
+    {
+      "name": "Rickey Medlocke",
+      "role": "Drums / Vocals; later Guitar",
+      "years": "1970 (brief); 1996–present"
     },
     {
       "name": "Ed King",
@@ -34,24 +49,49 @@
       "years": "1972–1975; 1987–1996"
     },
     {
+      "name": "Artimus Pyle",
+      "role": "Drums",
+      "years": "1974–1977; 1987–1991"
+    },
+    {
       "name": "Leon Wilkeson",
       "role": "Bass",
-      "years": "1972–1977; 1979–2001"
+      "years": "1972–1977; 1987–2001"
     },
     {
       "name": "Billy Powell",
       "role": "Piano, Keyboards",
-      "years": "1972–1977; 1979–2009"
-    },
-    {
-      "name": "Artimus Pyle",
-      "role": "Drums",
-      "years": "1974–1977; 1979–1991"
+      "years": "1972–1977; 1987–2009"
     },
     {
       "name": "Steve Gaines",
       "role": "Guitar",
       "years": "1976–1977"
+    },
+    {
+      "name": "Johnny Van Zant",
+      "role": "Vocals",
+      "years": "1987–present"
+    },
+    {
+      "name": "Hughie Thomasson",
+      "role": "Guitar",
+      "years": "1996–2005"
+    },
+    {
+      "name": "Ean Evans",
+      "role": "Bass",
+      "years": "2001–2009"
+    },
+    {
+      "name": "Michael Cartellone",
+      "role": "Drums",
+      "years": "1999–present"
+    },
+    {
+      "name": "Peter Keys",
+      "role": "Keyboards",
+      "years": "2009–present"
     }
   ],
   "essentialTracks": [
@@ -77,26 +117,29 @@
     "Sweet home Alabama / Where the skies are so blue"
   ],
   "relatedBands": [
-    "ac-dc",
+    "cream",
+    "the-rolling-stones",
+    "the-yardbirds",
     "guns-n-roses",
+    "ac-dc",
     "led-zeppelin"
   ],
   "influenceFrom": [
     "cream",
     "the-rolling-stones",
-    "the-beatles"
+    "the-yardbirds"
   ],
   "influenced": [
     "guns-n-roses",
     "metallica"
   ],
   "shortBio": {
-    "en": "Southern three-guitar hard rock; Free Bird solo stack and Sweet Home Alabama riff as 1970s FM staples.",
-    "zh": "南方三吉他硬摇滚；Free Bird 叠 solo 与 Sweet Home Alabama riff 是 1970 年代 FM 常备。"
+    "en": "Jacksonville three-guitar Southern hard rock; Free Bird / Sweet Home Alabama FM staples; 1977 crash; Johnny Van Zant reunions.",
+    "zh": "杰克逊维尔三吉他南方硬摇滚；《Free Bird》/《Sweet Home Alabama》FM 常备；1977 空难；Johnny Van Zant 重聚。"
   },
   "body": {
-    "en": "Lynyrd Skynyrd grew out of Jacksonville high-school bands (My Backyard and others); the name settled mid-1960s after gym teacher Leonard Skinner. Pronounced 'Lĕh-'nérd 'Skin-'nérd (1973) and Second Helping (1974) document the classic attack: Van Zant vocal, Rossington/Collins/(King) triple guitar, Powell piano fills.\n\nFree Bird builds from organ/piano ballad into an extended dual-lead solo section—a concert climax form. Sweet Home Alabama answers Neil Young with an open-G riff and gang vocal. The 1977 plane crash ended the original peak; Street Survivors is the last studio album with Van Zant and Steve Gaines.",
-    "zh": "Lynyrd Skynyrd 源于杰克逊维尔高中乐队（My Backyard 等）；60 年代中期因体育老师 Leonard Skinner 定名。Pronounced 'Lĕh-'nérd 'Skin-'nérd（1973）与 Second Helping（1974）记录经典攻击：Van Zant 人声、Rossington/Collins/(King) 三吉他、Powell 钢琴填充。\n\nFree Bird 从风琴/钢琴谣曲推到延长双主音 solo——演唱会高潮结构。Sweet Home Alabama 用 open-G riff 与合唱人声回应 Neil Young。1977 空难结束原班高峰；Street Survivors 是 Van Zant 与 Steve Gaines 的最后录音室专辑。"
+    "en": "Childhood friends Ronnie Van Zant, Gary Rossington, and Allen Collins formed Noble Five in Jacksonville in 1964, then My Backyard with Bob Burns and Larry Junstrom. By 1970 the name Leonard Skinnerd mocked gym teacher Leonard Skinner at Robert E. Lee High School, settling as Lynyrd Skynyrd. Early Southern tours featured heavy, guitar-drunk boogie—British rock (Cream, Rolling Stones, Yardbirds) filtered through raw blues and country, distinct from Allman Brothers’ jazz-leaning Fillmore jams.\n\nAfter Muscle Shoals demos, Al Kooper (Blood, Sweat & Tears) produced the first three albums after catching them for a week in Atlanta—he told Rolling Stone he heard a different strong original each night. (Pronounced 'Lĕh-'nérd 'Skin-'nérd) (1973) reached US No.27 with Tuesday’s Gone, Simple Man, Gimme Three Steps, and Free Bird—the three-guitar climax fans still shout for live. Free Bird hit the Top 20 only in 1975, after Second Helping (1974) and Sweet Home Alabama’s Top 10 breakthrough made them stars.\n\nNuthin’ Fancy (1975) entered the Top 10; Gimme Back My Bullets (1977) peaked at No.5. Three days after Street Survivors’ release, on 20 October 1977, the tour plane nicknamed Free Bird crashed in Mississippi—Van Zant, Steve Gaines, and backing singer Cassie Gaines died. Gold & Platinum (1979) went triple platinum as a five-album summary. Survivors reunited for the crash’s tenth anniversary; Johnny Van Zant later fronted the name. Rickey Medlocke (ex–Blackfoot), who briefly sang and drummed in 1970, returned on guitar. Post-1987 studio albums continued; God & Guns (2009) was the first Top 20 studio set since Street Survivors.",
+    "zh": "儿时玩伴 Ronnie Van Zant、Gary Rossington、Allen Collins 于 1964 年在杰克逊维尔组建 Noble Five，后与 Bob Burns、Larry Junstrom 改称 My Backyard。1970 年前后团名 Leonard Skinnerd 挖苦罗伯特·E·李高中体育老师 Leonard Skinner，最终定为 Lynyrd Skynyrd。早期南方巡演是沉重、吉他浓密的布吉——英国摇滚（Cream、Rolling Stones、Yardbirds）经原始蓝调与乡村过滤，有别于 Allman Brothers 偏爵士、迎合 Fillmore 扎染听众的即兴。\n\nMuscle Shoals 小样之后，Al Kooper（Blood, Sweat & Tears）在亚特兰大听他们驻唱一周，为前三张专辑制作——他对《滚石》说每晚都能听到不同的出色原创。《(Pronounced 'Lĕh-'nérd 'Skin-'nérd)》（1973）美榜第 27，含《Tuesday's Gone》《Simple Man》《Gimme Three Steps》《Free Bird》——三吉他高潮至今仍有人在现场大喊点播。《Free Bird》直到 1975 年才进前 20，此时《Second Helping》（1974）与《Sweet Home Alabama》前 10 已把他们推成明星。\n\n《Nuthin' Fancy》（1975）进专辑榜前 10；《Gimme Back My Bullets》（1977）最高第 5。《Street Survivors》发行三天后，1977 年 10 月 20 日绰号 Free Bird 的巡演飞机在密西西比坠毁——Van Zant、Steve Gaines 与和音 Cassie Gaines 罹难。《Gold & Platinum》（1979）三白金，总结五张录音室专辑。幸存者在空难十周年重聚；后由 Johnny Van Zant 任主唱。前 Blackfoot 的 Rickey Medlocke（1970 年曾短暂司鼓/主唱）回归吉他。1987 年后继续发行录音室专辑；《God & Guns》（2009）是自《Street Survivors》后首次进前 20 的录音室专辑。"
   },
   "scenes": [
     {
@@ -114,8 +157,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Ballad into dual-lead climax; piano intro then stacked guitar solos.",
-        "zh": "谣曲推到双主音高潮；钢琴 intro 后叠吉他 solo。"
+        "en": "Ballad into three-guitar climax; piano intro then stacked solos. Live crowds still shout for it.",
+        "zh": "谣曲推到三吉他高潮；钢琴 intro 后叠 solo。现场观众至今仍大喊点播。"
       }
     },
     {
@@ -133,8 +176,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Open-G riff and three-guitar weave; Second Helping FM staple.",
-        "zh": "Open-G riff 与三吉他编织；Second Helping FM 常备。"
+        "en": "Open-G riff and three-guitar weave; Second Helping Top 10 single.",
+        "zh": "Open-G riff 与三吉他编织；《Second Helping》前 10 单曲。"
       }
     },
     {
@@ -152,8 +195,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Warning track from Street Survivors; Gaines-era three-guitar density.",
-        "zh": "出自 Street Survivors 的警告曲；Gaines 期三吉他密度。"
+        "en": "Warning track from Street Survivors; Gaines-era three-guitar density. Issued days before the crash.",
+        "zh": "出自《Street Survivors》的警告曲；Gaines 期三吉他密度。发行数日后空难。"
       }
     }
   ],
@@ -161,91 +204,106 @@
     {
       "id": "thesis",
       "title": {
-        "en": "Three-guitar Southern hard rock",
-        "zh": "三吉他南方硬摇滚"
+        "en": "Three-guitar Southern boogie",
+        "zh": "三吉他南方布吉"
       },
       "body": {
-        "en": "Skynyrd stacks Les Paul and SG tones in interlocking rhythm and dual lead—close to Allman Brothers twin-guitar logic, louder and more FM-hook driven.\n\nFree Bird and Sweet Home Alabama are the two main poles: extended solo architecture versus a three-chord regional anthem.\n\nVan Zant writes plainspoken verses; Powell’s piano is a clear Southern hard-rock marker.",
-        "zh": "Skynyrd 用 Les Paul 与 SG 音色叠节奏与双主音——接近 Allman Brothers 双吉他逻辑，更响、更偏 FM 钩子。\n\nFree Bird 与 Sweet Home Alabama 是两个主要极点：延长 solo 结构，以及三和弦地域颂歌。\n\nVan Zant 写直白话主歌；Powell 钢琴是明确的南方硬摇滚识别点。"
+        "en": "Skynyrd stacks interlocking rhythm and dual/triple lead—British hard-rock volume through Southern blues and country.\n\nFree Bird and Sweet Home Alabama are the two poles: extended solo architecture versus a three-chord regional anthem.\n\nVan Zant’s plainspoken verses and Powell’s piano mark the classic records.",
+        "zh": "Skynyrd 叠交织节奏与双/三主音——英国 hard-rock 音量经南方蓝调与乡村过滤。\n\n《Free Bird》与《Sweet Home Alabama》是两极：延长 solo 结构，以及三和弦地域颂歌。\n\nVan Zant 直白话主歌与 Powell 钢琴是经典唱片的识别点。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/lynyrd-skynyrd-band-1973.jpg",
+        "alt": {
+          "en": "Lynyrd Skynyrd band photograph, 1973",
+          "zh": "Lynyrd Skynyrd 乐队合影，1973"
+        },
+        "credit": "MCA Records press photo",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lynyrd_Skynyrd_band_(1973).jpg"
+      }
     },
     {
-      "id": "lineupVersions",
+      "id": "kooper-peak",
       "title": {
-        "en": "King to Gaines triple-guitar peak",
-        "zh": "King 到 Gaines 三吉他高峰"
+        "en": "Kooper years: debut to Street Survivors",
+        "zh": "Kooper 时期：首专到 Street Survivors"
       },
       "body": {
-        "en": "Ed King completed the three-guitar Second Helping era; Steve Gaines joined in 1976 for Street Survivors.\n\nArtimus Pyle replaced Bob Burns mid-decade. Core writers: Van Zant with Collins and Rossington.\n\nThe 1977 crash killed Van Zant, Steve Gaines, and Cassie Gaines; the original peak lineup ends there.",
-        "zh": "Ed King 补齐 Second Helping 三吉他；Steve Gaines 于 1976 年加入 Street Survivors。\n\n十年中期 Artimus Pyle 替换 Bob Burns。核心写作：Van Zant 与 Collins、Rossington。\n\n1977 空难夺走 Van Zant、Steve Gaines、Cassie Gaines；原班高峰阵容止于此。"
+        "en": "Al Kooper produced the first three LPs after Atlanta club nights. The debut taught crowds to spell the name; Second Helping and Sweet Home Alabama made them FM stars.\n\nEd King completed the three-guitar Second Helping era; Steve Gaines joined for Street Survivors. Artimus Pyle replaced Bob Burns mid-decade.\n\nBook contrast: Allmans’ jazz Fillmore jams versus Skynyrd’s Southern hinterland boogie.",
+        "zh": "Al Kooper 在亚特兰大俱乐部驻唱后制作前三张专辑。首专教会观众拼写团名；《Second Helping》与《Sweet Home Alabama》把他们送上 FM 明星位。\n\nEd King 补齐《Second Helping》三吉他；Steve Gaines 加入《Street Survivors》。十年中期 Artimus Pyle 替换 Bob Burns。\n\n书中对照：Allmans 的爵士 Fillmore 即兴，对 Skynyrd 的南方腹地布吉。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/lynyrd-skynyrd-live-1974.jpg",
+        "alt": {
+          "en": "Lynyrd Skynyrd performing live, 1974",
+          "zh": "Lynyrd Skynyrd 现场演出，1974"
+        },
+        "credit": "Photographer via Wikimedia Commons",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lynyrd_Skynyrd_performing_live_(1974).png"
+      }
     },
     {
-      "id": "influence",
+      "id": "crash-reunion",
       "title": {
-        "en": "Southern hard rock on US FM",
-        "zh": "美国 FM 上的南方硬摇滚"
+        "en": "1977 crash and Johnny Van Zant years",
+        "zh": "1977 空难与 Johnny Van Zant 时期"
       },
       "body": {
-        "en": "Guns N’ Roses and later Southern and hard-rock acts cite the three-guitar weave and Free Bird climax structure.\n\nSweet Home Alabama remains a widely taught open-G riff; Free Bird is a live-length endurance reference.\n\nScene place is US FM hard rock crossed with country-rock, more than British metal.",
-        "zh": "Guns N’ Roses 与后来的南方/硬摇滚乐队引用三吉他编织与 Free Bird 高潮结构。\n\nSweet Home Alabama 仍是常练的 open-G riff；Free Bird 是现场时长耐力参照。\n\n场景位置在美国 FM 硬摇滚与 country-rock 交叉，多于英国金属。"
+        "en": "On 20 October 1977 the Free Bird tour plane crashed in Mississippi. Ronnie Van Zant, Steve Gaines, and Cassie Gaines died; the original peak ended.\n\nGold & Platinum (1979) summarized five studio albums. Tenth-anniversary reunions led to Johnny Van Zant on vocals. Rickey Medlocke (ex–Blackfoot; 1970 brief member) returned on guitar.\n\nGod & Guns (2009) was the first Top 20 studio album since Street Survivors.",
+        "zh": "1977 年 10 月 20 日 Free Bird 巡演飞机在密西西比坠毁。Ronnie Van Zant、Steve Gaines、Cassie Gaines 罹难；原班高峰结束。\n\n《Gold & Platinum》（1979）总结五张录音室专辑。十周年重聚后由 Johnny Van Zant 主唱。Rickey Medlocke（前 Blackfoot；1970 年短暂成员）回归吉他。\n\n《God & Guns》（2009）是自《Street Survivors》后首次进前 20 的录音室专辑。"
       },
-      "stickyVisual": "influence",
-      "soundGenre": "hard-rock"
+      "stickyVisual": "members",
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/lynyrd-skynyrd-collins-vanzant-rossington.jpg",
+        "alt": {
+          "en": "Allen Collins, Ronnie Van Zant, and Gary Rossington",
+          "zh": "Allen Collins、Ronnie Van Zant 与 Gary Rossington"
+        },
+        "credit": "MCA Records / publicity crop",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lynyrd_Skynyrd_(Collins,_Van_Zant_and_Rossington).png"
+      }
     },
     {
-      "id": "scene-0",
+      "id": "scene-free-bird",
       "title": {
         "en": "Free Bird",
         "zh": "Free Bird"
       },
       "body": {
-        "en": "Ballad into dual-lead climax; piano intro then stacked guitar solos.",
-        "zh": "谣曲推到双主音高潮；钢琴 intro 后叠吉他 solo。"
+        "en": "Piano/organ ballad into stacked guitar solos—the concert climax form.\n\nChart Top 20 only in 1975, after Sweet Home Alabama had already made the band famous.",
+        "zh": "钢琴/风琴谣曲推到叠吉他 solo——演唱会高潮结构。\n\n直到 1975 年才进榜前 20，其时《Sweet Home Alabama》已让乐队成名。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
       "soundGenre": "hard-rock"
     },
     {
-      "id": "scene-1",
+      "id": "legacy",
       "title": {
-        "en": "Sweet Home Alabama",
-        "zh": "Sweet Home Alabama"
+        "en": "Southern hard rock on US FM",
+        "zh": "美国 FM 上的南方硬摇滚"
       },
       "body": {
-        "en": "Open-G riff and three-guitar weave; Second Helping FM staple.",
-        "zh": "Open-G riff 与三吉他编织；Second Helping FM 常备。"
+        "en": "Guns N’ Roses and later Southern/hard-rock acts cite the three-guitar weave and Free Bird climax structure.\n\nSweet Home Alabama remains a widely taught open-G riff. Scene place is US FM hard rock crossed with country-rock.",
+        "zh": "Guns N’ Roses 与后来的南方/硬摇滚乐队引用三吉他编织与《Free Bird》高潮结构。\n\n《Sweet Home Alabama》仍是常练的 open-G riff。场景位置在美国 FM 硬摇滚与 country-rock 交叉。"
       },
-      "stickyVisual": "scene",
-      "sceneIndex": 1,
-      "soundGenre": "hard-rock"
-    },
-    {
-      "id": "scene-2",
-      "title": {
-        "en": "That Smell",
-        "zh": "That Smell"
-      },
-      "body": {
-        "en": "Warning track from Street Survivors; Gaines-era three-guitar density.",
-        "zh": "出自 Street Survivors 的警告曲；Gaines 期三吉他密度。"
-      },
-      "stickyVisual": "scene",
-      "sceneIndex": 2,
+      "stickyVisual": "influence",
       "soundGenre": "hard-rock"
     }
   ],
   "interviewQuotes": [
     {
-      "text": "We play Southern music. Call it what you want—it's still rock and roll.",
-      "speaker": "Ronnie Van Zant",
-      "source": "Press interview excerpt",
-      "year": 1975
+      "text": "Every night I heard a different strong original song… I knew I'd found the band I'd been looking for.",
+      "speaker": "Al Kooper",
+      "source": "Rolling Stone interview",
+      "year": 1973
     },
     {
       "text": "Three guitars means somebody's always covering the riff while somebody else solos.",
@@ -256,10 +314,10 @@
   ],
   "lineupVersions": [
     {
-      "id": "peak",
+      "id": "peak-van-zant",
       "label": {
-        "en": "Second Helping–Street Survivors peak",
-        "zh": "Second Helping–Street Survivors 高峰"
+        "en": "Van Zant peak: Second Helping–Street Survivors",
+        "zh": "Van Zant 高峰：Second Helping–Street Survivors"
       },
       "years": "1973–1977",
       "peak": true,
@@ -294,8 +352,42 @@
         }
       ],
       "note": {
-        "en": "Free Bird and Sweet Home Alabama era; three-guitar Southern hard rock.",
-        "zh": "Free Bird 与 Sweet Home Alabama 时期；三吉他南方硬摇滚。"
+        "en": "Free Bird and Sweet Home Alabama; three-guitar Southern hard rock until the 1977 crash.",
+        "zh": "《Free Bird》与《Sweet Home Alabama》；三吉他南方硬摇滚，直至 1977 空难。"
+      }
+    },
+    {
+      "id": "johnny-era",
+      "label": {
+        "en": "Johnny Van Zant reunions",
+        "zh": "Johnny Van Zant 重聚"
+      },
+      "years": "1987–present",
+      "members": [
+        {
+          "name": "Johnny Van Zant",
+          "role": "Vocals"
+        },
+        {
+          "name": "Gary Rossington",
+          "role": "Guitar"
+        },
+        {
+          "name": "Rickey Medlocke",
+          "role": "Guitar"
+        },
+        {
+          "name": "Michael Cartellone",
+          "role": "Drums"
+        },
+        {
+          "name": "Peter Keys",
+          "role": "Keyboards"
+        }
+      ],
+      "note": {
+        "en": "Post-crash touring name; Medlocke (ex-Blackfoot) returns; God & Guns Top 20.",
+        "zh": "空难后巡演团名；Medlocke（前 Blackfoot）回归；《God & Guns》前 20。"
       }
     }
   ],
@@ -304,16 +396,16 @@
       "title": "Free Bird",
       "year": 1973,
       "note": {
-        "en": "Piano-to-dual-lead form as a Southern hard-rock concert climax.",
-        "zh": "钢琴到双主音结构，作南方硬摇滚演唱会高潮。"
+        "en": "Piano-to-triple-guitar form as a Southern hard-rock concert climax.",
+        "zh": "钢琴到三吉他结构，作南方硬摇滚演唱会高潮。"
       }
     },
     "pioneeredGenres": [
       "hard-rock"
     ],
     "note": {
-      "en": "Triple-guitar weave and regional anthem riffs on 1970s FM.",
-      "zh": "三吉他编织与地域颂歌 riff，落在 1970 年代 FM。"
+      "en": "Triple-guitar weave and regional anthem riffs on 1970s FM; crash closed the Van Zant studio peak.",
+      "zh": "三吉他编织与地域颂歌 riff，落在 1970 年代 FM；空难结束 Van Zant 录音室高峰。"
     }
   }
 }

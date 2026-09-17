@@ -13,8 +13,8 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "London four-piece formed in 1970. Multi-section songs, stacked studio vocals, and Brian May’s Red Special guitar define the mid-1970s catalog; A Night at the Opera (1975) is the central album.",
-    "zh": "伦敦四人组，1970 年成立。多段体歌曲、录音室堆叠人声，以及 Brian May 的 Red Special 吉他，是 1970 年代中期目录的主要特征；《A Night at the Opera》（1975）是核心专辑。"
+    "en": "London four-piece formed in 1970. Multi-section songs, stacked studio vocals, and Brian May’s Red Special guitar define the mid-1970s catalog; A Night at the Opera (1975) and Live Aid 1985 are the main album and live references.",
+    "zh": "伦敦四人组，1970 年成立。多段体歌曲、录音室堆叠人声，以及 Brian May 的 Red Special 吉他，是 1970 年代中期目录的主要特征；《A Night at the Opera》（1975）与 Live Aid 1985 是主要专辑与现场参照。"
   },
   "members": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "name": "Roger Taylor",
-      "role": "Drums",
+      "role": "Drums, Vocals",
       "years": "1970–present",
       "personSlug": "roger-taylor"
     },
@@ -40,9 +40,38 @@
       "role": "Bass",
       "years": "1971–1997",
       "personSlug": "john-deacon"
+    },
+    {
+      "name": "Mike Grose",
+      "role": "Bass",
+      "years": "1970"
+    },
+    {
+      "name": "Barry Mitchell",
+      "role": "Bass",
+      "years": "1970–1971"
+    },
+    {
+      "name": "Doug Bogie",
+      "role": "Bass",
+      "years": "1971"
+    },
+    {
+      "name": "Paul Rodgers",
+      "role": "Vocals",
+      "years": "2004–2009"
+    },
+    {
+      "name": "Adam Lambert",
+      "role": "Vocals",
+      "years": "2011–present"
     }
   ],
   "essentialTracks": [
+    {
+      "title": "Killer Queen",
+      "year": 1974
+    },
     {
       "title": "Bohemian Rhapsody",
       "year": 1975
@@ -52,15 +81,33 @@
       "year": 1977
     },
     {
-      "title": "Don't Stop Me Now",
-      "year": 1978
+      "title": "Another One Bites the Dust",
+      "year": 1980
     },
     {
-      "title": "Somebody to Love",
-      "year": 1976
+      "title": "Radio Ga Ga",
+      "year": 1984
     }
   ],
   "scenes": [
+    {
+      "year": 1974,
+      "track": "Killer Queen",
+      "membersOnStage": [
+        "Freddie Mercury",
+        "Brian May",
+        "Roger Taylor",
+        "John Deacon"
+      ],
+      "genreTags": [
+        "hard-rock"
+      ],
+      "intensity": 2,
+      "note": {
+        "en": "From Sheer Heart Attack; US Top 20. Mott the Hoople support tour helped open the US door.",
+        "zh": "出自《Sheer Heart Attack》；美国前 20。为 Mott the Hoople 暖场的美国巡演有助于打开美国市场。"
+      }
+    },
     {
       "year": 1975,
       "track": "Bohemian Rhapsody",
@@ -76,8 +123,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "From A Night at the Opera; ballad, opera-style vocal stack, then hard-rock outro. UK #1 single.",
-        "zh": "出自《A Night at the Opera》；谣曲、歌剧式人声堆叠，再接硬摇滚尾奏。英国单曲榜冠军。"
+        "en": "From A Night at the Opera; ballad, opera-style vocal stack, hard-rock outro. UK #1 for nine weeks.",
+        "zh": "出自《A Night at the Opera》；谣曲、歌剧式人声堆叠、硬摇滚尾奏。英国榜连续 9 周冠军。"
       }
     },
     {
@@ -94,13 +141,13 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "From News of the World; stomp-stomp-clap body percussion and short guitar solo.",
-        "zh": "出自《News of the World》；跺脚-跺脚-拍手体感打击与短吉他独奏。"
+        "en": "From News of the World; stomp-stomp-clap with We Are the Champions as paired singles.",
+        "zh": "出自《News of the World》；跺脚-跺脚-拍手，与《We Are the Champions》成对单曲。"
       }
     },
     {
-      "year": 1978,
-      "track": "Don't Stop Me Now",
+      "year": 1980,
+      "track": "Another One Bites the Dust",
       "membersOnStage": [
         "Freddie Mercury",
         "Brian May",
@@ -110,65 +157,56 @@
       "genreTags": [
         "hard-rock"
       ],
-      "intensity": 2,
+      "intensity": 3,
       "note": {
-        "en": "From Jazz; piano-led uptempo with stacked backing vocals and May’s Red Special.",
-        "zh": "出自《Jazz》；钢琴领衔快板，堆叠和声与 May 的 Red Special。"
+        "en": "From The Game; Deacon bass hook. Michael Jackson urged the band to release it as a single. The Game was their only US #1 album.",
+        "zh": "出自《The Game》；Deacon 贝斯钩子。Michael Jackson 劝乐队将其发成单曲。《The Game》是乐队唯一美国专辑榜冠军。"
       }
     }
   ],
   "interviewQuotes": [
     {
-      "text": "I always knew I was a star. And everyone else would know it soon.",
-      "speaker": "Freddie Mercury",
-      "source": "Press / biography excerpt · quote wall",
-      "year": 1970
+      "text": "For a while the band dressed like the audience… We wanted to be different.",
+      "speaker": "Brian May",
+      "source": "On Zandra Rhodes stage clothes · book excerpt",
+      "year": 1975
     },
     {
-      "text": "We're a rock group. We're not a prog band.",
-      "speaker": "Brian May",
-      "source": "Interview excerpt",
-      "year": 1975
+      "text": "Michael Jackson told us to put Another One Bites the Dust out as a single. I admit we were reluctant.",
+      "speaker": "Roger Taylor",
+      "source": "On The Game singles · book excerpt",
+      "year": 1980
     }
   ],
   "lyricQuotes": [
     "Is this the real life? Is this just fantasy?",
-    "Don't stop me now, I'm having such a good time"
+    "We will, we will rock you",
+    "Another one bites the dust"
   ],
   "relatedBands": [
-    "led-zeppelin",
     "david-bowie",
-    "muse"
+    "led-zeppelin",
+    "black-sabbath",
+    "guns-n-roses",
+    "metallica"
   ],
   "influenceFrom": [
     "the-beatles",
     "led-zeppelin"
   ],
   "influenced": [
-    "muse"
+    "muse",
+    "guns-n-roses"
   ],
   "shortBio": {
-    "en": "London hard rock / progressive rock, 1970–. Mercury, May, Taylor, Deacon; Bohemian Rhapsody and A Night at the Opera are the main mid-70s references.",
-    "zh": "伦敦硬摇滚 / progressive rock，1970 年至今。Mercury、May、Taylor、Deacon；《Bohemian Rhapsody》与《A Night at the Opera》是 70 年代中期主要参照。"
+    "en": "London hard rock / progressive rock, 1970–. Mercury, May, Taylor, Deacon; Bohemian Rhapsody, Live Aid 1985, then Rodgers/Lambert guest eras.",
+    "zh": "伦敦硬摇滚 / progressive rock，1970 年至今。Mercury、May、Taylor、Deacon；《Bohemian Rhapsody》、Live Aid 1985，之后是 Rodgers/Lambert 客座时期。"
   },
   "body": {
-    "en": "Queen formed in London in 1970. John Deacon joined on bass in 1971. The mid-1970s albums through News of the World (1977) combine Brian May’s layered Red Special guitar, Freddie Mercury’s piano and vocal range, and multi-track studio choirs.\n\nBohemian Rhapsody (1975) moved from ballad to opera-style vocal stacks to a hard-rock outro and reached UK #1. Later singles such as We Will Rock You and Don’t Stop Me Now use shorter forms suited to large venues. Live Aid 1985 is a widely cited live performance. After Mercury’s death in 1991, May and Taylor continued with guest vocalists; Deacon retired from public performance.",
-    "zh": "Queen 于 1970 年在伦敦成立。John Deacon 于 1971 年加入贝斯。70 年代中期至《News of the World》（1977）的专辑，结合 Brian May 的 Red Special 层叠吉他、Freddie Mercury 的钢琴与音域，以及多轨录音室合唱。\n\n《Bohemian Rhapsody》（1975）从谣曲进入歌剧式人声堆叠，再接硬摇滚尾奏，并登上英国单曲榜冠军。之后的《We Will Rock You》、《Don’t Stop Me Now》等单曲采用更短、更适合大型场馆的结构。Live Aid 1985 是常被引用的现场演出。1991 年 Mercury 去世后，May 与 Taylor 与客座主唱继续演出；Deacon 退出公开演出。"
+    "en": "Queen formed in London in 1970 under Mercury (born Farrokh Bulsara in Zanzibar), May, and Taylor. Trial bassists Mike Grose, Barry Mitchell, and Doug Bogie preceded John Deacon’s permanent arrival in February 1971. The self-titled debut (1973) and Queen II (1974) set multi-track vocals (everyone but Deacon), May’s homemade Red Special, and high-drama songs—Taylor later said they nearly called Queen II “Over the Top.”\n\nA US support tour for Mott the Hoople opened international doors. Killer Queen from Sheer Heart Attack (1974) charted worldwide (US #12). A Night at the Opera (1975) included Bohemian Rhapsody—ballad, rock, and opera sections plus an influential promo video—UK #1 for nine weeks. A Day at the Races (1976) brought Somebody to Love and Japanese-language Teo Torriatte; a Hyde Park free show drew about 150,000.\n\nNews of the World (1977) pared the arrangement for We Will Rock You and We Are the Champions. Jazz (1978) and Live Killers (1979) preceded a US dip, reversed by Crazy Little Thing Called Love and Another One Bites the Dust on The Game (1980)—their only US #1 album after Michael Jackson urged the latter single. Hot Space (1982) leaned funk and underperformed in the US; The Works (1984) restored European chart strength (Radio Ga Ga, I Want to Break Free).\n\nLive Aid at Wembley (1985) cemented stadium status ahead of the A Kind of Magic tour (1986); Mercury’s last Queen show was at Knebworth. The Miracle (1989) and Innuendo (1991) had no tours. Mercury announced AIDS infection on 23 November 1991 and died the next day. Made in Heaven (1995) used remaining vocals; Deacon retired after No One But You. May and Taylor later toured with Paul Rodgers (The Cosmos Rocks, 2008) and Adam Lambert. A July 1989 session photo places May with Black Sabbath’s Tony Iommi.",
+    "zh": "Queen 于 1970 年在伦敦成立，成员为 Mercury（生于桑给巴尔，原名 Farrokh Bulsara）、May 与 Taylor。试用贝斯手 Mike Grose、Barry Mitchell、Doug Bogie 之后，John Deacon 于 1971 年 2 月正式加入。同名首专（1973）与《Queen II》（1974）确立多轨人声（除 Deacon 外全员演唱）、May 自制 Red Special 与高戏剧歌曲——Taylor 后来说差点把《Queen II》叫作「Over the Top」。\n\n为 Mott the Hoople 暖场的美国巡演打开国际市场。《Sheer Heart Attack》（1974）中的《Killer Queen》全球上榜（美榜第 12）。《A Night at the Opera》（1975）含《Bohemian Rhapsody》——谣曲、摇滚与歌剧段落及有影响的宣传片——英国榜连冠 9 周。《A Day at the Races》（1976）有《Somebody to Love》与日语《Teo Torriatte》；海德公园免费演出约 15 万人。\n\n《News of the World》（1977）精简编曲，推出《We Will Rock You》与《We Are the Champions》。《Jazz》（1978）与《Live Killers》（1979）之后美国影响力下滑，靠《The Game》（1980）上的《Crazy Little Thing Called Love》与《Another One Bites the Dust》扭转——后者在 Michael Jackson 劝说下发行，专辑成唯一美国专辑榜冠军。《Hot Space》（1982）偏放克、美国表现不佳；《The Works》（1984）以《Radio Ga Ga》《I Want to Break Free》恢复欧洲榜表现。\n\n1985 年温布利 Live Aid 巩固体育场地位，并为《A Kind of Magic》（1986）巡演铺路；Mercury 最后一次 Queen 演出在 Knebworth。《The Miracle》（1989）与《Innuendo》（1991）未巡演。Mercury 于 1991 年 11 月 23 日宣布感染艾滋，次日去世。《Made in Heaven》（1995）使用剩余人声；Deacon 在《No One But You》后退役。May 与 Taylor 后来与 Paul Rodgers（《The Cosmos Rocks》，2008）、Adam Lambert 巡演。1989 年 7 月录音照显示 May 与 Black Sabbath 的 Tony Iommi 同场。"
   },
   "narrative": [
-    {
-      "id": "thesis",
-      "title": {
-        "en": "Core sound",
-        "zh": "核心声音"
-      },
-      "body": {
-        "en": "Queen’s mid-1970s records rely on stacked vocals, May’s delay-layered guitar, and song forms that change section by section within a single track.\n\nA Night at the Opera (1975) is the clearest album-length example of that studio approach on commercial radio.",
-        "zh": "Queen 1970 年代中期录音以堆叠人声、May 的延时层叠吉他，以及单曲内部分段切换的曲式为主。\n\n《A Night at the Opera》（1975）是这套录音室写法登上商业电台的最清晰专辑样本。"
-      },
-      "stickyVisual": "thesis",
-      "soundGenre": "hard-rock"
-    },
     {
       "id": "classic-four",
       "title": {
@@ -176,11 +214,21 @@
         "zh": "经典四人组"
       },
       "body": {
-        "en": "Mercury handled piano and lead vocal drama. May supplied Red Special tone and layered guitar. Taylor played drums and high harmony. Deacon wrote bass-led hooks such as Another One Bites the Dust.\n\nAll four wrote; writing credits stay separate. The best-known catalog run is mid-1970s through The Game (1980).",
-        "zh": "Mercury 负责钢琴与主唱。May 提供 Red Special 音色与层叠吉他。Taylor 负责鼓与高和声。Deacon 写出如《Another One Bites the Dust》一类贝斯主导钩子。\n\n四人都写歌，署名分开。最常被引用的目录区间是 70 年代中期至《The Game》（1980）。"
+        "en": "Mercury handled piano and lead vocals; May layered Red Special guitar; Taylor played drums and high harmony; Deacon wrote bass-led hooks such as Another One Bites the Dust.\n\nAll four wrote with separate credits. Trial bassists came before Deacon (1971). Stage clothes by Zandra Rhodes marked a break from jeans-era rock dress.",
+        "zh": "Mercury 负责钢琴与主唱；May 层叠 Red Special 吉他；Taylor 负责鼓与高和声；Deacon 写出如《Another One Bites the Dust》一类贝斯主导钩子。\n\n四人都写歌、署名分开。Deacon（1971）之前有试用贝斯手。Zandra Rhodes 舞台服装标志着与牛仔裤时代摇滚着装的区别。"
       },
       "stickyVisual": "members",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/queen-night-at-the-opera-1975.jpg",
+        "alt": {
+          "en": "Queen publicity photo for A Night at the Opera, 1975 (Elektra)",
+          "zh": "Queen《A Night at the Opera》1975 年宣传照（Elektra）"
+        },
+        "credit": "Koh Hasebe / Elektra Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_A_Night_At_The_Opera_(1975_Elektra_publicity_photo_02).jpg"
+      }
     },
     {
       "id": "rhapsody",
@@ -189,51 +237,84 @@
         "zh": "《Bohemian Rhapsody》"
       },
       "body": {
-        "en": "The song has no repeating chorus loop: a cappella intro, ballad, mock-opera vocal stack, then May’s hard-rock outro.\n\nTape editing and multi-track choir make the section changes literal. It was a UK #1 single in 1975–76.",
-        "zh": "这首歌没有重复副歌循环：无伴奏前奏、谣曲、假歌剧人声堆叠，再接 May 的硬摇滚尾奏。\n\n磁带剪辑与多轨合唱把段落切换做成字面操作。1975–76 年登上英国单曲榜冠军。"
+        "en": "No repeating chorus loop: a cappella intro, ballad, mock-opera vocal stack, then May’s hard-rock outro. Tape editing and multi-track choir make the section changes literal.\n\nUK #1 for nine weeks in 1975–76; the promo video is often cited as an early MTV-style clip.",
+        "zh": "没有重复副歌循环：无伴奏前奏、谣曲、假歌剧人声堆叠，再接 May 的硬摇滚尾奏。磁带剪辑与多轨合唱把段落切换做成字面操作。\n\n1975–76 年英国榜连冠 9 周；宣传片常被当作早期 MTV 式影像引用。"
       },
       "stickyVisual": "scene",
-      "sceneIndex": 0,
+      "sceneIndex": 1,
       "soundGenre": "progressive-rock"
+    },
+    {
+      "id": "mott-and-charts",
+      "title": {
+        "en": "Mott the Hoople tour and mid-70s charts",
+        "zh": "Mott the Hoople 巡演与 70 年代中期榜单"
+      },
+      "body": {
+        "en": "Supporting Mott the Hoople in the US helped open that market before Killer Queen charted. A 1973 party photo places Mercury and Taylor with Ian Hunter, Overend Watts, and Morgan Fisher of Mott.\n\nSheer Heart Attack also holds Stone Cold Crazy, later covered by Metallica. Axl Rose has cited Queen’s range of styles.",
+        "zh": "为 Mott the Hoople 美国暖场有助于在《Killer Queen》上榜前打开市场。1973 年派对照中 Mercury、Taylor 与 Mott 的 Ian Hunter、Overend Watts、Morgan Fisher 同框。\n\n《Sheer Heart Attack》还有《Stone Cold Crazy》，后被 Metallica 翻唱。Axl Rose 曾提到 Queen 的风格跨度。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/queen-news-of-the-world-1977.jpg",
+        "alt": {
+          "en": "Queen — Deacon, Taylor, Mercury, May — News of the World press kit, 1977",
+          "zh": "Queen——Deacon、Taylor、Mercury、May——《News of the World》新闻资料照，1977"
+        },
+        "credit": "Christopher Hopper / Elektra Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_News_Of_The_World_(1977_Press_Kit_Photo_02).jpg"
+      }
+    },
+    {
+      "id": "live-aid-iommi",
+      "title": {
+        "en": "Live Aid and May with Iommi",
+        "zh": "Live Aid 与 May、Iommi 同场"
+      },
+      "body": {
+        "en": "The 1985 Live Aid set at Wembley is the band’s most cited live performance and underpinned the 1986 stadium tour for A Kind of Magic. Mercury’s last Queen show followed at Knebworth.\n\nA July 1989 session placed May with Black Sabbath’s Tony Iommi—one of the clearer hard-rock cross-links in this catalog. After Mercury’s death (1991), May and Taylor continued with Rodgers and later Lambert; Deacon retired.",
+        "zh": "1985 年温布利 Live Aid 是乐队最常被引用的现场，并为 1986 年《A Kind of Magic》体育场巡演奠基。Mercury 最后一次 Queen 演出在 Knebworth。\n\n1989 年 7 月录音中 May 与 Black Sabbath 的 Tony Iommi 同场——本目录中较清楚的硬摇滚跨乐队联系之一。Mercury 去世（1991）后，May 与 Taylor 与 Rodgers、后来与 Lambert 继续；Deacon 退役。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/queen-freddie-mercury-1977.jpg",
+        "alt": {
+          "en": "Freddie Mercury, News of the World press kit photo, 1977",
+          "zh": "Freddie Mercury，《News of the World》新闻资料照，1977"
+        },
+        "credit": "Christopher Hopper / Elektra Records",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freddie_Mercury_(1977_Press_Kit_Photo).jpg"
+      }
+    },
+    {
+      "id": "the-game",
+      "title": {
+        "en": "The Game",
+        "zh": "《The Game》"
+      },
+      "body": {
+        "en": "Crazy Little Thing Called Love (rockabilly, written by Mercury in a Munich hotel bath) and Another One Bites the Dust (Deacon bass) were US #1 singles. The Game is Queen’s only US #1 album.\n\nTaylor recalled reluctance until Michael Jackson pushed the latter as a single.",
+        "zh": "《Crazy Little Thing Called Love》（山地摇滚，Mercury 在慕尼黑宾馆浴缸里写成）与《Another One Bites the Dust》（Deacon 贝斯）均为美国单曲榜冠军。《The Game》是 Queen 唯一美国专辑榜冠军。\n\nTaylor 回忆起初不情愿，直到 Michael Jackson 推动后者发成单曲。"
+      },
+      "stickyVisual": "scene",
+      "sceneIndex": 3,
+      "soundGenre": "hard-rock"
     },
     {
       "id": "stadium",
       "title": {
-        "en": "News of the World and later singles",
-        "zh": "《News of the World》与后期单曲"
+        "en": "News of the World and arena form",
+        "zh": "《News of the World》与体育场曲式"
       },
       "body": {
-        "en": "News of the World (1977) shortens the arrangement: We Will Rock You uses body percussion; We Are the Champions is a slow anthem.\n\nDon’t Stop Me Now (1978) keeps piano drive and choir stacks at a faster pop tempo. Same lineup; simpler live economy for arenas.",
-        "zh": "《News of the World》（1977）缩短编曲：《We Will Rock You》使用体感打击；《We Are the Champions》是慢颂歌。\n\n《Don’t Stop Me Now》（1978）在更快的流行速度上保留钢琴驱动与合唱堆叠。同一阵容；为体育场换更简的现场编排。"
+        "en": "News of the World (1977) shortens the mid-70s grandeur: We Will Rock You uses body percussion; We Are the Champions is a slow anthem. Both reached worldwide Top 10s.\n\nThat economy sits next to the longer Opera/Races multi-section writing as two working modes of the same lineup.",
+        "zh": "《News of the World》（1977）缩短 70 年代中期的恢宏：《We Will Rock You》用体感打击；《We Are the Champions》是慢颂歌。两首均进入全球前 10。\n\n这种精简与 Opera/Races 的多段体写作，是同一阵容的两种工作方式。"
       },
       "stickyVisual": "tracks",
-      "soundGenre": "hard-rock"
-    },
-    {
-      "id": "quote",
-      "title": {
-        "en": "Quotes beside the studio facts",
-        "zh": "引语与录音室事实"
-      },
-      "body": {
-        "en": "Mercury’s circulated lines emphasize stage presence. May’s interviews often name gear and arrangement choices.\n\nBoth sit next to the Red Special and the vocal-stack method on the records.",
-        "zh": "Mercury 流传短句强调舞台存在感。May 的采访常点名器材与编排选择。\n\n两者都应对照唱片上的 Red Special 与人声堆叠来读。"
-      },
-      "stickyVisual": "quote",
-      "quoteIndex": 0,
-      "soundGenre": "hard-rock"
-    },
-    {
-      "id": "legacy",
-      "title": {
-        "en": "Later stadium rock cites",
-        "zh": "后来体育场摇滚的引用"
-      },
-      "body": {
-        "en": "Muse and other arena acts have cited multi-section forms and stacked vocals. Live Aid 1985 is often treated as a separate live reference from the album cycle.\n\nIn this catalog, Queen sit at hard-rock weight with progressive-form songwriting.",
-        "zh": "Muse 等体育场乐队曾引用多段体曲式与堆叠人声。Live Aid 1985 常被当作独立于专辑周期的现场参照。\n\n在本目录中，Queen 落在 hard-rock 体量与 progressive 形式写作的交汇处。"
-      },
-      "stickyVisual": "influence",
       "soundGenre": "hard-rock"
     }
   ],
@@ -259,7 +340,7 @@
         },
         {
           "name": "Roger Taylor",
-          "role": "Drums",
+          "role": "Drums, Vocals",
           "personSlug": "roger-taylor"
         },
         {
@@ -269,17 +350,17 @@
         }
       ],
       "note": {
-        "en": "Deacon joins 1971; Mercury active until 1991. Main catalog from A Night at the Opera through The Game.",
-        "zh": "Deacon 1971 加入；Mercury 活跃至 1991。主要目录从《A Night at the Opera》到《The Game》。"
+        "en": "Deacon joins 1971; Mercury active until 1991. Main catalog from Sheer Heart Attack through Innuendo.",
+        "zh": "Deacon 1971 加入；Mercury 活跃至 1991。主要目录从《Sheer Heart Attack》到《Innuendo》。"
       }
     },
     {
-      "id": "post-mercury",
+      "id": "rodgers",
       "label": {
-        "en": "Post-Mercury",
-        "zh": "Mercury 之后"
+        "en": "With Paul Rodgers",
+        "zh": "与 Paul Rodgers"
       },
-      "years": "1991–present",
+      "years": "2004–2009",
       "members": [
         {
           "name": "Brian May",
@@ -290,11 +371,43 @@
           "name": "Roger Taylor",
           "role": "Drums",
           "personSlug": "roger-taylor"
+        },
+        {
+          "name": "Paul Rodgers",
+          "role": "Vocals"
         }
       ],
       "note": {
-        "en": "May and Taylor continue with guest vocalists; Deacon retires from public performance.",
-        "zh": "May 与 Taylor 与客座主唱续演；Deacon 退出公开演出。"
+        "en": "Two tours and The Cosmos Rocks (2008).",
+        "zh": "两次巡演与专辑《The Cosmos Rocks》（2008）。"
+      }
+    },
+    {
+      "id": "lambert",
+      "label": {
+        "en": "With Adam Lambert",
+        "zh": "与 Adam Lambert"
+      },
+      "years": "2011–present",
+      "members": [
+        {
+          "name": "Brian May",
+          "role": "Guitar",
+          "personSlug": "brian-may"
+        },
+        {
+          "name": "Roger Taylor",
+          "role": "Drums",
+          "personSlug": "roger-taylor"
+        },
+        {
+          "name": "Adam Lambert",
+          "role": "Vocals"
+        }
+      ],
+      "note": {
+        "en": "May and Taylor with American Idol alum Adam Lambert on vocals.",
+        "zh": "May 与 Taylor 搭配 American Idol 出身的 Adam Lambert 主唱。"
       }
     }
   ],
@@ -303,8 +416,8 @@
       "title": "Bohemian Rhapsody",
       "year": 1975,
       "note": {
-        "en": "Multi-section UK #1 single from A Night at the Opera.",
-        "zh": "出自《A Night at the Opera》的多段体英国单曲榜冠军。"
+        "en": "Multi-section UK #1 single from A Night at the Opera; nine weeks at #1.",
+        "zh": "出自《A Night at the Opera》的多段体英国单曲榜冠军；连冠 9 周。"
       }
     },
     "pioneeredGenres": [
@@ -312,8 +425,8 @@
       "progressive-rock"
     ],
     "note": {
-      "en": "Studio choir stacks with hard-rock guitar on 1970s commercial radio.",
-      "zh": "1970 年代商业电台上的录音室合唱堆叠与 hard-rock 吉他。"
+      "en": "Studio choir stacks with hard-rock guitar; Live Aid 1985 stadium reference.",
+      "zh": "录音室合唱堆叠与 hard-rock 吉他；Live Aid 1985 体育场参照。"
     }
   }
 }

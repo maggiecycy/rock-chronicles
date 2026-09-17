@@ -5,23 +5,24 @@
   "origin": "Los Angeles, USA",
   "primaryEra": "1970s-prog-hard-rock",
   "genres": [
-    "hard-rock"
+    "hard-rock",
+    "rock-n-roll"
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Los Angeles country-rock band formed in 1971. Stacked harmony and acoustic/electric songwriting mark the early records; Hotel California (1976) adds dual-lead guitar and becomes the main AOR reference.",
-    "zh": "洛杉矶 country-rock 乐队，1971 年成立。早期作品以叠和声与原声/电声写法为主；Hotel California（1976）加入双主音吉他，成为主要的 AOR 参照。"
+    "en": "Los Angeles band formed in 1971 from Linda Ronstadt’s circle. Early Asylum country-rock harmony; Hotel California (1976) adds Felder/Walsh dual-lead guitar and becomes the main AOR document. Their Greatest Hits (1971–1975) ranks among the best-selling US albums.",
+    "zh": "洛杉矶乐队，1971 年从 Linda Ronstadt 圈子组建。早期 Asylum country-rock 和声；《Hotel California》（1976）加入 Felder/Walsh 双主音吉他，成为主要 AOR 文献。《Their Greatest Hits (1971–1975)》位列美国最畅销专辑之列。"
   },
   "members": [
-    {
-      "name": "Glenn Frey",
-      "role": "Vocals, Guitar",
-      "years": "1971–1980; 1994–2016"
-    },
     {
       "name": "Don Henley",
       "role": "Vocals, Drums",
       "years": "1971–1980; 1994–present"
+    },
+    {
+      "name": "Glenn Frey",
+      "role": "Vocals, Guitar",
+      "years": "1971–1980; 1994–2016"
     },
     {
       "name": "Bernie Leadon",
@@ -55,16 +56,16 @@
       "year": 1972
     },
     {
+      "title": "Best of My Love",
+      "year": 1974
+    },
+    {
       "title": "Hotel California",
       "year": 1976
     },
     {
       "title": "Life in the Fast Lane",
       "year": 1976
-    },
-    {
-      "title": "Desperado",
-      "year": 1973
     }
   ],
   "lyricQuotes": [
@@ -74,6 +75,8 @@
   "relatedBands": [
     "fleetwood-mac",
     "lynyrd-skynyrd",
+    "cream",
+    "aerosmith",
     "the-rolling-stones"
   ],
   "influenceFrom": [
@@ -86,12 +89,12 @@
     "coldplay"
   ],
   "shortBio": {
-    "en": "LA country-rock to Hotel California dual-lead AOR; Take It Easy is the debut radio single.",
-    "zh": "洛杉矶 country-rock 到 Hotel California 双主音 AOR；Take It Easy 是出道电台单曲。"
+    "en": "Ronstadt pool → Asylum country-rock; Walsh/Felder Hotel California dual-lead; 1980 split, 1994 Hell Freezes Over reunion.",
+    "zh": "Ronstadt 圈子 → Asylum country-rock；Walsh/Felder《Hotel California》双主音；1980 解散，1994《Hell Freezes Over》重聚。"
   },
   "body": {
-    "en": "The Eagles formed in 1971 from Linda Ronstadt’s backing circle—Glenn Frey, Don Henley, Bernie Leadon, and Randy Meisner. Early Eagles (1972) and Desperado (1973) sold stacked harmony and acoustic/electric country-rock. Don Felder joined mid-decade; Joe Walsh replaced Leadon in 1975, and the guitar weight rose.\n\nHotel California (1976), produced with Bill Szymczyk, is the central album: 12-string arpeggio intro, Felder/Walsh dual-lead trade, Henley vocal. Life in the Fast Lane is the Walsh riff hard-rock track on that LP. Their Greatest Hits (1971–1975) and Hotel California rank among the best-selling US catalog titles of the period.",
-    "zh": "Eagles 于 1971 年从 Linda Ronstadt 伴奏圈组建——Glenn Frey、Don Henley、Bernie Leadon 与 Randy Meisner。早期 Eagles（1972）与 Desperado（1973）以叠和声与原声/电声 country-rock 为主。Don Felder 在十年中期加入；Joe Walsh 于 1975 年替换 Leadon，吉他比重上升。\n\nHotel California（1976，Bill Szymczyk 参与制作）是核心专辑：十二弦琶音 intro、Felder/Walsh 双主音对答、Henley 人声。Life in the Fast Lane 是该专辑上的 Walsh riff 硬摇滚曲。Their Greatest Hits（1971–1975）与 Hotel California 位列同期美国销量最高的目录作品之列。"
+    "en": "In 1971 Linda Ronstadt hired Don Henley, Glenn Frey, Randy Meisner (ex–Poco founder), and Bernie Leadon (Flying Burrito Brothers) as touring/session players. They played one Disneyland date with her, then signed to David Geffen’s new Asylum label. Producer Glyn Johns guided the 1972 debut Eagles in London—country and rock fused with Leadon’s banjo and mandolin; Take It Easy (co-written with Jackson Browne) led three radio singles; the LP peaked at US No.22.\n\nDesperado (1973) held the mood (No.41). On the Border (1974) brought the first US No.1 single, Best of My Love. One of These Nights (1975) was the first US No.1 album—title track, Lyin’ Eyes, and Take It to the Limit all Top 5. Henley told Billboard’s Craig Rosen the band was tense; Leadon poured beer on Frey’s head and quit. Joe Walsh (James Gang) replaced him—Henley said Walsh made them a stronger rock band, though Walsh’s songs leaned on harmony vocals.\n\nHotel California (1976) sold about 16 million in the US alone; Henley described its lyric frame as the dark side of the American dream, with Felder/Walsh dual-lead guitar. The Long Run (1979) also hit US No.1; the band paused in 1980. Solo, Henley’s Building the Perfect Beast (1984, The Boys of Summer) and The End of the Innocence (1989, with Axl Rose) outsold Frey’s and Walsh’s solo runs. Their Greatest Hits (1971–1975) passed 30 million worldwide and became the best-selling US album of the 20th century in several tallies.\n\nTravis Tritt’s Take It Easy video reunited Henley, Frey, Felder, Walsh, and Schmit; Hell Freezes Over (1994)—named for Henley’s line that the band would reunite when hell freezes over—restarted touring. Rock Hall induction followed in 1998. Felder was fired in 2001; Long Road Out of Eden (2007) returned a US No.1 studio album. Frey died in 2016.",
+    "zh": "1971 年 Linda Ronstadt 请来 Don Henley、Glenn Frey、Randy Meisner（前 Poco 创始人）与 Bernie Leadon（Flying Burrito Brothers）作巡演/录音伴奏。他们只跟她演过一场迪士尼乐园，随即签约 David Geffen 新成立的 Asylum。制作人 Glyn Johns 在伦敦指导 1972 年首专《Eagles》——乡村与摇滚融合，Leadon 班卓琴与曼陀铃突出；《Take It Easy》（与 Jackson Browne 合写）领衔三首电台单曲；专辑美榜第 22。\n\n《Desperado》（1973）延续音色（第 41）。《On the Border》（1974）带来首支美榜冠军单曲《Best of My Love》。《One of These Nights》（1975）是首张美榜冠军专辑——同名曲、《Lyin' Eyes》《Take It to the Limit》皆进前 5。Henley 对《公告牌》Craig Rosen 说内部关系紧张；Leadon 把啤酒倒在 Frey 头上后离队。Joe Walsh（James Gang）顶替——Henley 说 Walsh 让他们成为更强的摇滚乐队，但也注意到 Walsh 的歌偏向合音。\n\n《Hotel California》（1976）仅美国约售 1600 万张；Henley 称歌词框架揭露美国梦阴暗面，吉他为 Felder/Walsh 双主音。《The Long Run》（1979）亦登美榜冠军；1980 年乐队暂停。单飞方面，Henley 的《Building the Perfect Beast》（1984，含《The Boys of Summer》）与《The End of the Innocence》（1989，Axl Rose 助阵）压过 Frey、Walsh 个人销量。《Their Greatest Hits (1971–1975)》全球超 3000 万，多份统计中为 20 世纪美国最畅销专辑。\n\nTravis Tritt 翻唱《Take It Easy》录影带召回 Henley、Frey、Felder、Walsh、Schmit；《Hell Freezes Over》（1994）——取自 Henley「等地狱冻结 Eagles 才会重组」——重启巡演。1998 年入选摇滚名人堂。2001 年 Felder 被解雇；《Long Road Out of Eden》（2007）带回美榜冠军录音室专辑。Frey 于 2016 年去世。"
   },
   "scenes": [
     {
@@ -104,12 +107,12 @@
         "Randy Meisner"
       ],
       "genreTags": [
-        "hard-rock"
+        "rock-n-roll"
       ],
       "intensity": 1,
       "note": {
-        "en": "Jackson Browne co-write; debut single, harmony country-rock.",
-        "zh": "Jackson Browne 合写；出道单曲，和声 country-rock。"
+        "en": "Jackson Browne co-write; debut single, harmony country-rock on Asylum.",
+        "zh": "Jackson Browne 合写；出道单曲，Asylum 上的和声 country-rock。"
       }
     },
     {
@@ -128,7 +131,7 @@
       "intensity": 2,
       "note": {
         "en": "12-string arpeggio intro and Felder/Walsh dual-lead coda; main AOR guitar landmark.",
-        "zh": "十二弦琶音 intro 与 Felder/Walsh 双主音尾奏；主要的 AOR 吉他地标。"
+        "zh": "十二弦琶音 intro 与 Felder/Walsh 双主音尾奏；主要 AOR 吉他地标。"
       }
     },
     {
@@ -147,7 +150,7 @@
       "intensity": 3,
       "note": {
         "en": "Walsh riff track from the Hotel California album.",
-        "zh": "出自 Hotel California 专辑的 Walsh riff 曲。"
+        "zh": "出自《Hotel California》专辑的 Walsh riff 曲。"
       }
     }
   ],
@@ -159,101 +162,146 @@
         "zh": "从 country-rock 到双主音 AOR"
       },
       "body": {
-        "en": "The Eagles began as harmony country-rock from the Ronstadt pool. Felder and Walsh added Les Paul and Strat dual leads without dropping the vocal stacks.\n\nHotel California is the hinge record: mid-tempo narrative, precise studio arrangement, and a guitar duel as climax rather than a blues jam.\n\nThe craft sits in session discipline and FM-length hooks.",
-        "zh": "Eagles 从 Ronstadt 圈子起步，作和声 country-rock。Felder 与 Walsh 加入 Les Paul 与 Strat 双主音，同时保留人声叠层。\n\nHotel California 是转折专辑：中速叙事、精确录音室编排，以及以吉他对答作高潮，而非蓝调 jam。\n\n工艺落在录音室纪律与适合 FM 长度的钩子。"
+        "en": "The Eagles began as harmony country-rock from the Ronstadt pool, with Leadon’s banjo/mandolin and Glyn Johns production. Felder and Walsh added dual-lead electric guitar without dropping vocal stacks.\n\nHotel California is the hinge: mid-tempo narrative, precise studio arrangement, guitar duel as climax.\n\nBook comparison: their role for country-rock is cast like Cream’s for blues-rock a decade earlier.",
+        "zh": "Eagles 从 Ronstadt 圈子起步，作和声 country-rock，Leadon 班卓/曼陀铃与 Glyn Johns 制作。Felder 与 Walsh 加入双主音电吉他，同时保留人声叠层。\n\n《Hotel California》是转折：中速叙事、精确录音室编排，吉他对答作高潮。\n\n书中对照：他们对乡村摇滚的位置，类似十年前 Cream 之于布鲁斯摇滚。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/eagles-asylum-press.jpg",
+        "alt": {
+          "en": "Eagles Asylum Records press photo",
+          "zh": "Eagles Asylum 唱片公司宣传照"
+        },
+        "credit": "Asylum Records press photo",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eagles_Asylum_press_photo.jpg"
+      }
     },
     {
-      "id": "lineupVersions",
+      "id": "leadon-to-walsh",
       "title": {
-        "en": "Leadon out, Felder and Walsh in",
-        "zh": "Leadon 离队，Felder 与 Walsh 加入"
+        "en": "Leadon out, Walsh and Felder in",
+        "zh": "Leadon 离队，Walsh 与 Felder 加入"
       },
       "body": {
-        "en": "Leadon left in 1975; Walsh brought James Gang hard-rock vocabulary. Felder was already on One of These Nights.\n\nMeisner left after Hotel California; Timothy B. Schmit joined for The Long Run.\n\nThe strongest studio stretch is Frey/Henley writing with Felder/Walsh leads, 1975–1979.",
-        "zh": "Leadon 于 1975 年离队；Walsh 带入 James Gang 硬摇滚语汇。Felder 已在 One of These Nights 上录音。\n\nMeisner 在 Hotel California 后离队；Timothy B. Schmit 加入 The Long Run。\n\n最强录音室阶段是 Frey/Henley 写作与 Felder/Walsh 主音，约 1975–1979。"
+        "en": "Best of My Love and One of These Nights cleared the path to No.1. After Leadon’s beer-pour exit, Walsh brought James Gang hard-rock vocabulary; Felder was already on One of These Nights.\n\nMeisner left after Hotel California; Timothy B. Schmit joined for The Long Run.\n\nHenley: Walsh made them a powerful rock band, with songs that leaned on harmony.",
+        "zh": "《Best of My Love》与《One of These Nights》扫清登顶道路。Leadon 倒啤酒离队后，Walsh 带入 James Gang 硬摇滚语汇；Felder 已在《One of These Nights》上录音。\n\nMeisner 在《Hotel California》后离队；Timothy B. Schmit 加入《The Long Run》。\n\nHenley：Walsh 让他们成为强大的摇滚乐队，歌曲偏向合音。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/eagles-joe-walsh-2019-jpg.jpg",
+        "alt": {
+          "en": "Joe Walsh, 2019",
+          "zh": "Joe Walsh，2019"
+        },
+        "credit": "Photographer via Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joe_Walsh_2019.jpg"
+      }
     },
     {
-      "id": "influence",
+      "id": "hotel-split-reunion",
       "title": {
-        "en": "Dual-lead AOR on US radio",
-        "zh": "美国电台上的双主音 AOR"
+        "en": "Hotel California, split, Hell Freezes Over",
+        "zh": "Hotel California、解散、Hell Freezes Over"
       },
       "body": {
-        "en": "The Hotel California guitar coda is a widely cited dual-lead AOR arrangement. Later Los Angeles and arena bands used similar polish-plus-riff mixes.\n\nSales history is part of the story: Greatest Hits and Hotel California as US catalog anchors.\n\nInfluence runs more through production and arrangement than through punk or metal ideology.",
-        "zh": "Hotel California 吉他尾奏是常被引用的双主音 AOR 编排。后来洛杉矶与体育场乐队使用相近的抛光加 riff 混搭。\n\n销量也是事实的一部分：Greatest Hits 与 Hotel California 是美国目录锚点。\n\n影响更多落在制作与编排，而非朋克或金属意识形态。"
+        "en": "Hotel California (1976) became a US multi-platinum landmark. The Long Run (1979) still hit No.1; Frey said he started the band and was tired, then walked away in 1980.\n\nGreatest Hits kept selling through the hiatus. Hell Freezes Over (1994) named Henley’s quip and restarted tours; Rock Hall 1998; Felder fired 2001; Long Road Out of Eden (2007) another US No.1.\n\nCross-band: Axl Rose on Henley’s The End of the Innocence; Travis Tritt video reunited the five before the official reunion album.",
+        "zh": "《Hotel California》（1976）成为美国多白金地标。《The Long Run》（1979）仍登冠军；Frey 说自己发起乐队、走累了，1980 年退出。\n\n精选辑在停摆期继续销售。《Hell Freezes Over》（1994）借用 Henley 那句「地狱冻结」重启巡演；1998 名人堂；2001 解雇 Felder；《Long Road Out of Eden》（2007）再登美榜冠军。\n\n跨乐队：Axl Rose 参与 Henley《The End of the Innocence》；Travis Tritt 录影带在正式重聚专辑前召回五人。"
       },
-      "stickyVisual": "influence",
-      "soundGenre": "hard-rock"
+      "stickyVisual": "members",
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/eagles-2008-performance.jpg",
+        "alt": {
+          "en": "The Eagles in performance, 2008",
+          "zh": "Eagles 演出，2008"
+        },
+        "credit": "Photographer via Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Eagles_in_performance,_2008.jpg"
+      }
     },
     {
-      "id": "scene-0",
-      "title": {
-        "en": "Take It Easy",
-        "zh": "Take It Easy"
-      },
-      "body": {
-        "en": "Jackson Browne co-write; debut single, harmony country-rock.",
-        "zh": "Jackson Browne 合写；出道单曲，和声 country-rock。"
-      },
-      "stickyVisual": "scene",
-      "sceneIndex": 0,
-      "soundGenre": "hard-rock"
-    },
-    {
-      "id": "scene-1",
+      "id": "scene-hotel",
       "title": {
         "en": "Hotel California",
         "zh": "Hotel California"
       },
       "body": {
-        "en": "12-string arpeggio intro and Felder/Walsh dual-lead coda; main AOR guitar landmark.",
-        "zh": "十二弦琶音 intro 与 Felder/Walsh 双主音尾奏；主要的 AOR 吉他地标。"
+        "en": "12-string arpeggio intro and Felder/Walsh dual-lead coda.\n\nHenley’s frame: dark side of the American dream, in arrangement as much as lyric.",
+        "zh": "十二弦琶音 intro 与 Felder/Walsh 双主音尾奏。\n\nHenley 的框架：美国梦阴暗面，编排与歌词同等重要。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
       "soundGenre": "hard-rock"
     },
     {
-      "id": "scene-2",
+      "id": "sales",
       "title": {
-        "en": "Life in the Fast Lane",
-        "zh": "Life in the Fast Lane"
+        "en": "Greatest Hits as catalog anchor",
+        "zh": "精选辑作为目录锚点"
       },
       "body": {
-        "en": "Walsh riff track from the Hotel California album.",
-        "zh": "出自 Hotel California 专辑的 Walsh riff 曲。"
+        "en": "Their Greatest Hits (1971–1975) passed 30 million worldwide and often tops US all-time album lists. Hotel California alone moved about 16 million domestically.\n\nInfluence runs through production polish and dual-lead AOR more than through punk or metal ideology.",
+        "zh": "《Their Greatest Hits (1971–1975)》全球超 3000 万，常居美国专辑总榜前列。《Hotel California》仅国内约 1600 万。\n\n影响更多落在制作抛光与双主音 AOR，而非朋克或金属意识形态。"
       },
-      "stickyVisual": "scene",
-      "sceneIndex": 2,
-      "soundGenre": "hard-rock"
+      "stickyVisual": "influence",
+      "soundGenre": "rock-n-roll"
     }
   ],
   "interviewQuotes": [
     {
-      "text": "We were trying to write songs that worked on the radio and still had guitar.",
-      "speaker": "Glenn Frey",
-      "source": "Press interview excerpt",
-      "year": 1976
+      "text": "Joe's joining made us a powerful rock band—but his songs lean on harmony vocals.",
+      "speaker": "Don Henley",
+      "source": "Press comments after Walsh joined",
+      "year": 1975
     },
     {
-      "text": "Hotel California was about the dark side of the California dream—in arrangement as much as lyric.",
+      "text": "Hell will freeze over before the Eagles reunite.",
       "speaker": "Don Henley",
-      "source": "Press interview excerpt",
-      "year": 1977
+      "source": "Widely quoted line; album title Hell Freezes Over (1994)",
+      "year": 1980
     }
   ],
   "lineupVersions": [
     {
-      "id": "peak",
+      "id": "founding-four",
       "label": {
-        "en": "Hotel California five: Frey / Henley / Felder / Walsh / Meisner",
-        "zh": "Hotel California 五人：Frey / Henley / Felder / Walsh / Meisner"
+        "en": "Founding four + Leadon country-rock",
+        "zh": "创始四人 + Leadon country-rock"
+      },
+      "years": "1971–1975",
+      "members": [
+        {
+          "name": "Glenn Frey",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Don Henley",
+          "role": "Vocals, Drums"
+        },
+        {
+          "name": "Bernie Leadon",
+          "role": "Guitar, Banjo"
+        },
+        {
+          "name": "Randy Meisner",
+          "role": "Bass, Vocals"
+        }
+      ],
+      "note": {
+        "en": "Eagles through One of These Nights; Asylum debut with Glyn Johns.",
+        "zh": "首专至《One of These Nights》；Asylum 出道，Glyn Johns 制作。"
+      }
+    },
+    {
+      "id": "hotel-california",
+      "label": {
+        "en": "Hotel California five",
+        "zh": "Hotel California 五人"
       },
       "years": "1975–1977",
       "peak": true,
@@ -280,8 +328,42 @@
         }
       ],
       "note": {
-        "en": "Hotel California and Life in the Fast Lane; dual-lead AOR hard rock.",
-        "zh": "Hotel California 与 Life in the Fast Lane；双主音 AOR 硬摇滚。"
+        "en": "Hotel California dual-lead peak; Life in the Fast Lane.",
+        "zh": "《Hotel California》双主音高峰；《Life in the Fast Lane》。"
+      }
+    },
+    {
+      "id": "hell-freezes",
+      "label": {
+        "en": "Hell Freezes Over reunion",
+        "zh": "Hell Freezes Over 重聚"
+      },
+      "years": "1994–2001",
+      "members": [
+        {
+          "name": "Glenn Frey",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Don Henley",
+          "role": "Vocals, Drums"
+        },
+        {
+          "name": "Don Felder",
+          "role": "Guitar"
+        },
+        {
+          "name": "Joe Walsh",
+          "role": "Guitar"
+        },
+        {
+          "name": "Timothy B. Schmit",
+          "role": "Bass, Vocals"
+        }
+      ],
+      "note": {
+        "en": "Named for Henley’s quip; Felder fired 2001.",
+        "zh": "取名自 Henley 那句玩笑；2001 年解雇 Felder。"
       }
     }
   ],
@@ -295,11 +377,12 @@
       }
     },
     "pioneeredGenres": [
-      "hard-rock"
+      "hard-rock",
+      "rock-n-roll"
     ],
     "note": {
-      "en": "Country-rock harmony into stadium dual-lead AOR.",
-      "zh": "Country-rock 和声进入体育场双主音 AOR。"
+      "en": "Country-rock harmony into stadium dual-lead AOR; Greatest Hits as US catalog anchor.",
+      "zh": "Country-rock 和声进入体育场双主音 AOR；精选辑作美国目录锚点。"
     }
   }
 }
