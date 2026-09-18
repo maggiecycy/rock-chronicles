@@ -16,6 +16,7 @@ export function MiniPlayer() {
     playing,
     progress,
     duration,
+    error,
     queue,
     index,
     queueOpen,
@@ -122,6 +123,11 @@ export function MiniPlayer() {
           </span>
         ) : null}
       </p>
+      {error ? (
+        <p className="mt-1 truncate text-[11px] text-accent" role="alert">
+          Playback failed — check proxy / audio file ({error})
+        </p>
+      ) : null}
     </>
   );
 

@@ -48,14 +48,73 @@ export function getExtraTracks(): AudioTrack[] {
   return audioIndex.tracks.filter((t) => t.extra);
 }
 
-/** Resolve playback URL: CDN env wins, else absolute src from index, else /audio/. */
+/** Same-origin path under public/audio. */
+export function localTrackUrl(trackId: string): string {
+  return `/audio/${trackId}.mp3`;
+}
+
+function absoluteFromMaybeRelative(url: string): string {
+  if (url.startsWith("http://") || url.startsWith("https://")) return url;
+  if (typeof window !== "undefined") {
+    return new URL(url, window.location.origin).href;
+  }
+  return url;
+}
+
+/**
+ * Ordered URL candidates for a track.
+ * Localhost prefers /audio/ then Blob; production prefers CDN/Blob then local.
+ */
+export function trackUrlCandidates(track: AudioTrack): string[] {
+  const local = localTrackUrl(track.id);
+  const remote =
+    track.src.startsWith("http://") || track.src.startsWith("https://")
+      ? track.src
+      : null;
+  const envCdn = (process.env.NEXT_PUBLIC_AUDIO_CDN || "").replace(/\/$/, "");
+  const fromEnv = envCdn ? `${envCdn}/${track.id}.mp3` : null;
+  const base = (audioIndex.cdnBase || "").replace(/\/$/, "");
+  const fromBase = base ? `${base}/${track.id}.mp3` : null;
+
+  const isLocalHost =
+    typeof window !== "undefined" &&
+    /^(localhost|127\.0\.0\.1)$/i.test(window.location.hostname);
+
+  const ordered = isLocalHost
+    ? [local, fromEnv, remote, fromBase]
+    : [fromEnv, remote, fromBase, local];
+
+  const seen = new Set<string>();
+  const out: string[] = [];
+  for (const u of ordered) {
+    if (!u) continue;
+    const abs = absoluteFromMaybeRelative(u);
+    if (seen.has(abs)) continue;
+    seen.add(abs);
+    out.push(abs);
+  }
+  return out;
+}
+
+/** Resolve primary playback URL (first candidate). */
 export function resolveTrackUrl(track: AudioTrack): string {
   const cdn = (process.env.NEXT_PUBLIC_AUDIO_CDN || "").replace(/\/$/, "");
   if (cdn) return `${cdn}/${track.id}.mp3`;
+
+  if (typeof window !== "undefined") {
+    return trackUrlCandidates(track)[0] ?? localTrackUrl(track.id);
+  }
+
+  // SSR / build: keep deterministic local path in development.
+  if (process.env.NODE_ENV !== "production") {
+    return localTrackUrl(track.id);
+  }
   if (track.src.startsWith("http://") || track.src.startsWith("https://")) {
     return track.src;
   }
-  return track.src.startsWith("/") ? track.src : `/audio/${track.id}.mp3`;
+  const base = (audioIndex.cdnBase || "").replace(/\/$/, "");
+  if (base) return `${base}/${track.id}.mp3`;
+  return track.src.startsWith("/") ? track.src : localTrackUrl(track.id);
 }
 
 export function formatDuration(sec: number | null | undefined): string {

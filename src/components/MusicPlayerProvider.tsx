@@ -13,6 +13,7 @@ import {
 import {
   getTrack,
   resolveTrackUrl,
+  trackUrlCandidates,
   type AudioTrack,
 } from "@/lib/audio";
 import {
@@ -27,6 +28,7 @@ interface MusicPlayerValue {
   playing: boolean;
   progress: number;
   duration: number;
+  error: string | null;
   queueOpen: boolean;
   setQueueOpen: (open: boolean) => void;
   playTracks: (tracks: AudioTrack[], startId?: string) => void;
@@ -43,18 +45,61 @@ interface MusicPlayerValue {
 
 const MusicPlayerContext = createContext<MusicPlayerValue | null>(null);
 
+function waitForCanPlay(el: HTMLAudioElement, ms = 12000): Promise<void> {
+  if (el.readyState >= HTMLMediaElement.HAVE_CURRENT_DATA) {
+    return Promise.resolve();
+  }
+  return new Promise((resolve, reject) => {
+    const timer = window.setTimeout(() => {
+      cleanup();
+      reject(new Error("audio timeout"));
+    }, ms);
+    const onReady = () => {
+      cleanup();
+      resolve();
+    };
+    const onError = () => {
+      cleanup();
+      reject(el.error ?? new Error("audio error"));
+    };
+    const cleanup = () => {
+      window.clearTimeout(timer);
+      el.removeEventListener("canplay", onReady);
+      el.removeEventListener("error", onError);
+    };
+    el.addEventListener("canplay", onReady);
+    el.addEventListener("error", onError);
+  });
+}
+
+async function tryPlayUrl(el: HTMLAudioElement, absolute: string): Promise<void> {
+  // Setting src is enough; calling load() races with play() and fires spurious pause.
+  if (el.src !== absolute) {
+    el.src = absolute;
+  }
+  try {
+    await el.play();
+  } catch {
+    await waitForCanPlay(el);
+    await el.play();
+  }
+}
+
 export function MusicPlayerProvider({ children }: { children: ReactNode }) {
   const [queue, setQueue] = useState<AudioTrack[]>([]);
   const [index, setIndex] = useState(0);
   const [playing, setPlaying] = useState(false);
   const [progress, setProgress] = useState(0);
   const [duration, setDuration] = useState(0);
+  const [error, setError] = useState<string | null>(null);
   const [queueOpen, setQueueOpen] = useState(false);
 
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const prefetchRef = useRef<HTMLAudioElement | null>(null);
   const indexRef = useRef(0);
   const queueRef = useRef<AudioTrack[]>([]);
+  /** Ignore pause events while we intentionally change src / start play. */
+  const switchingRef = useRef(false);
 
   useEffect(() => {
     indexRef.current = index;
@@ -68,7 +113,7 @@ export function MusicPlayerProvider({ children }: { children: ReactNode }) {
   const ensureAudio = useCallback(() => {
     if (!audioRef.current) {
       const el = new Audio();
-      el.preload = "metadata";
+      el.preload = "auto";
       audioRef.current = el;
     }
     return audioRef.current;
@@ -78,7 +123,7 @@ export function MusicPlayerProvider({ children }: { children: ReactNode }) {
     const nextTrack = q[i + 1];
     if (!nextTrack) {
       if (prefetchRef.current) {
-        prefetchRef.current.src = "";
+        prefetchRef.current.removeAttribute("src");
       }
       return;
     }
@@ -87,29 +132,55 @@ export function MusicPlayerProvider({ children }: { children: ReactNode }) {
       prefetchRef.current.preload = "auto";
     }
     const url = resolveTrackUrl(nextTrack);
-    if (prefetchRef.current.src !== url) {
-      prefetchRef.current.src = url;
-      void prefetchRef.current.load();
+    const absolute =
+      url.startsWith("http://") || url.startsWith("https://")
+        ? url
+        : new URL(url, window.location.origin).href;
+    if (prefetchRef.current.src !== absolute) {
+      prefetchRef.current.src = absolute;
     }
   }, []);
 
   const loadAndPlay = useCallback(
     async (track: AudioTrack, shouldPlay: boolean) => {
       const el = ensureAudio();
-      const url = resolveTrackUrl(track);
+      const candidates = trackUrlCandidates(track);
       queueMicrotask(() => requestMusicStart());
-      if (el.src !== url) {
-        el.src = url;
-        el.load();
-      }
       setProgress(0);
-      if (shouldPlay) {
-        try {
-          await el.play();
-          setPlaying(true);
-        } catch {
-          setPlaying(false);
+      setError(null);
+
+      if (!shouldPlay) {
+        const first = candidates[0];
+        if (first && el.src !== first) el.src = first;
+        return;
+      }
+
+      switchingRef.current = true;
+      let lastErr: unknown = null;
+      try {
+        for (const url of candidates) {
+          try {
+            await tryPlayUrl(el, url);
+            setPlaying(true);
+            setError(null);
+            lastErr = null;
+            break;
+          } catch (err) {
+            lastErr = err;
+          }
         }
+        if (lastErr) {
+          setPlaying(false);
+          const msg =
+            lastErr instanceof Error ? lastErr.message : "playback failed";
+          setError(msg);
+          console.warn("[MusicPlayer] play failed for", track.id, candidates, lastErr);
+        }
+      } finally {
+        // Defer clearing so late pause events from src change are ignored.
+        window.setTimeout(() => {
+          switchingRef.current = false;
+        }, 0);
       }
       prefetchNext(queueRef.current, indexRef.current);
     },
@@ -146,8 +217,14 @@ export function MusicPlayerProvider({ children }: { children: ReactNode }) {
         setPlaying(false);
       }
     };
-    const onPlay = () => setPlaying(true);
-    const onPause = () => setPlaying(false);
+    const onPlay = () => {
+      if (!switchingRef.current) setPlaying(true);
+    };
+    const onPause = () => {
+      // src changes / load races emit pause; ignore while we are switching.
+      if (switchingRef.current) return;
+      if (el.paused) setPlaying(false);
+    };
 
     el.addEventListener("timeupdate", onTime);
     el.addEventListener("ended", onEnded);
@@ -202,7 +279,21 @@ export function MusicPlayerProvider({ children }: { children: ReactNode }) {
       void loadAndPlay(track, true);
       return;
     }
-    void el.play().then(() => setPlaying(true)).catch(() => setPlaying(false));
+    switchingRef.current = true;
+    void el
+      .play()
+      .then(() => {
+        setPlaying(true);
+        setError(null);
+      })
+      .catch(() => {
+        void loadAndPlay(track, true);
+      })
+      .finally(() => {
+        window.setTimeout(() => {
+          switchingRef.current = false;
+        }, 0);
+      });
   }, [loadAndPlay]);
 
   const toggle = useCallback(() => {
@@ -260,7 +351,6 @@ export function MusicPlayerProvider({ children }: { children: ReactNode }) {
     const el = audioRef.current;
     if (el) {
       el.removeAttribute("src");
-      el.load();
     }
     if (prefetchRef.current) {
       prefetchRef.current.removeAttribute("src");
@@ -271,6 +361,7 @@ export function MusicPlayerProvider({ children }: { children: ReactNode }) {
     setIndex(0);
     setProgress(0);
     setDuration(0);
+    setError(null);
     setQueueOpen(false);
   }, [pause]);
 
@@ -286,6 +377,7 @@ export function MusicPlayerProvider({ children }: { children: ReactNode }) {
       playing,
       progress,
       duration,
+      error,
       queueOpen,
       setQueueOpen,
       playTracks,
@@ -306,6 +398,7 @@ export function MusicPlayerProvider({ children }: { children: ReactNode }) {
       playing,
       progress,
       duration,
+      error,
       queueOpen,
       playTracks,
       playTrackIds,
