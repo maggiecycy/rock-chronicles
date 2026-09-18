@@ -44,6 +44,41 @@
       "name": "Boris Williams",
       "role": "Drums",
       "years": "1984–1994"
+    },
+    {
+      "name": "Michael Dempsey",
+      "role": "Bass",
+      "years": "1978–1979"
+    },
+    {
+      "name": "Matthieu Hartley",
+      "role": "Keys",
+      "years": "1979–1980"
+    },
+    {
+      "name": "Andy Anderson",
+      "role": "Drums",
+      "years": "1983–1984"
+    },
+    {
+      "name": "Phil Thornalley",
+      "role": "Bass",
+      "years": "1983–1984"
+    },
+    {
+      "name": "Roger O'Donnell",
+      "role": "Keys",
+      "years": "1987–1990; 1995–2005; 2011–present"
+    },
+    {
+      "name": "Perry Bamonte",
+      "role": "Guitar, Keys",
+      "years": "1990–2005"
+    },
+    {
+      "name": "Jason Cooper",
+      "role": "Drums",
+      "years": "1995–present"
     }
   ],
   "essentialTracks": [
@@ -157,8 +192,8 @@
     "zh": "Robert Smith 领衔的后朋克与哥特流行，1978 年至今。《Just Like Heaven》与《Disintegration》是主要参照。"
   },
   "body": {
-    "en": "The Cure formed in Crawley in 1978. Three Imaginary Boys, Seventeen Seconds, and Pornography set a cold early sound: delay guitar, short lines, sparse drums. The Head on the Door (1985) and Kiss Me, Kiss Me, Kiss Me (1987) added brighter singles for college and UK radio. Disintegration (1989) returned to longer songs and denser reverb at a larger commercial scale.\n\nRobert Smith remains the constant writer and frontman. Simon Gallup left and returned on bass; Porl Thompson and Boris Williams were central on the late-1980s albums. The band sits beside Joy Division and New Order on the UK post-punk family tree and stayed visible on alternative radio into the 1990s.",
-    "zh": "The Cure 于 1978 年在克劳利成立。《Three Imaginary Boys》、《Seventeen Seconds》与《Pornography》确立早期冷声：delay 吉他、短句、稀疏鼓点。《The Head on the Door》（1985）与《Kiss Me, Kiss Me, Kiss Me》（1987）加入更亮的单曲，进入大学电台与英国电台。《Disintegration》（1989）回到更长歌曲与更重混响，并扩大商业体量。\n\nRobert Smith 始终是核心写作者与主唱。Simon Gallup 曾离开再回归贝斯；Porl Thompson 与 Boris Williams 是 1980 年代末专辑的重要成员。乐队在英国后朋克谱系上与 Joy Division、New Order 并列，并在 1990 年代继续出现在 alternative 电台。"
+    "en": "Crawley / London-area band from 1976 (Easy Cure) onward. Robert Smith with schoolmates Lol Tolhurst and Michael Dempsey; Simon Gallup became the long-term bassist. A 1979 support tour with Siouxsie and the Banshees shifted Smith’s idea of the band away from Buzzcocks/Elvis Costello toward darker dynamics. Disintegration (1989) and Wish (1992) mark the widest commercial peak.",
+    "zh": "Crawley／伦敦周边乐队，1976 年（Easy Cure）起。Robert Smith 与同学 Lol Tolhurst、Michael Dempsey；Simon Gallup 成为长期贝斯手。1979 年为 Siouxsie and the Banshees 暖场后，Smith 对乐队的设想从 Buzzcocks／Elvis Costello 转向更暗的动态。《Disintegration》（1989）与《Wish》（1992）是商业高峰。"
   },
   "narrative": [
     {
@@ -168,11 +203,21 @@
         "zh": "从后朋克冷声到哥特流行电台"
       },
       "body": {
-        "en": "Early Cure records use short phrases, delay, and hollow drums. Mid-1980s singles keep Smith’s baritone and chorus guitar while adding clearer hooks. Disintegration (1989) stretches songs toward six minutes with heavy reverb.\n\nThe change is mainly production, song length, and radio reach.",
-        "zh": "早期 Cure 录音多用短句、delay 与空鼓。1980 年代中期单曲保留 Smith 的男中音与 chorus 吉他，同时加入更清楚的钩子。《Disintegration》（1989）把歌曲拉向六分钟左右，并加重混响。\n\n变化主要在制作、歌曲长度与电台覆盖。"
+        "en": "Gothic look and pop choruses sit in the same catalog. Smith’s voice carries both the bleak albums and singles like Just Like Heaven and Friday I’m in Love.",
+        "zh": "哥特造型与流行副歌在同一曲库里。Smith 的声音同时撑起阴郁专辑与《Just Like Heaven》《Friday I’m in Love》一类单曲。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "post-punk"
+      "soundGenre": "post-punk",
+      "stickyImage": {
+        "src": "/media/bands/the-cure-hurricane-2004.jpg",
+        "alt": {
+          "en": "The Cure live, 2004",
+          "zh": "The Cure 现场，2004"
+        },
+        "credit": "Markus Vortkamp",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Cure_(Hurricane_Festival)_03.jpg"
+      }
     },
     {
       "id": "lineup-versions",
@@ -235,8 +280,8 @@
         "zh": "Alternative 电台上的哥特流行"
       },
       "body": {
-        "en": "Disintegration is the long-album citation most often named later. Alternative and goth-club DJs both pull Cure singles. Influence sits beside Joy Division and New Order on the UK post-punk map.\n\nOne songwriter’s guitar tone across several commercial climates.",
-        "zh": "后来最常点名的长专是《Disintegration》。Alternative 与哥特俱乐部 DJ 都会抽 Cure 单曲。影响在英国后朋克谱系上与 Joy Division、New Order 相邻。\n\n同一写作者的吉他音色跨越几种商业环境。"
+        "en": "Book cross-links: Siouxsie and the Banshees tour; stated aims toward Buzzcocks and Elvis Costello before that tour; later citations from Dinosaur Jr and My Chemical Romance; touring friendship with Depeche Mode; a 1980 NYC photo caption with Blondie’s Debbie Harry.",
+        "zh": "书中交叉：Siouxsie and the Banshees 巡演；此前曾想成为 Buzzcocks 或 Elvis Costello；后来被 Dinosaur Jr、My Chemical Romance 引用；与 Depeche Mode 的巡演往来；1980 年纽约与 Blondie 的 Debbie Harry 同框说明。"
       },
       "stickyVisual": "influence",
       "soundGenre": "alternative"
@@ -244,23 +289,54 @@
   ],
   "lineupVersions": [
     {
-      "id": "disintegration-peak",
+      "id": "early-minimal",
       "label": {
-        "en": "Kiss Me / Disintegration peak",
-        "zh": "Kiss Me / Disintegration 巅峰"
+        "en": "Early Fiction years",
+        "zh": "早期 Fiction"
       },
-      "years": "1985–1989",
-      "peak": true,
+      "years": "1979–1982",
       "members": [
         {
           "name": "Robert Smith",
-          "role": "Vocals, Guitar",
-          "personSlug": "robert-smith"
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Lol Tolhurst",
+          "role": "Drums, Keys"
+        },
+        {
+          "name": "Michael Dempsey",
+          "role": "Bass"
         },
         {
           "name": "Simon Gallup",
-          "role": "Bass",
-          "personSlug": "simon-gallup"
+          "role": "Bass"
+        },
+        {
+          "name": "Matthieu Hartley",
+          "role": "Keys"
+        }
+      ],
+      "note": {
+        "en": "Supported Siouxsie and the Banshees; Smith briefly filled their lead guitar seat. Dempsey left after disliking newer songs; Gallup joined. Seventeen Seconds / Faith / Pornography set the bleak stretch.",
+        "zh": "为 Siouxsie and the Banshees 暖场；Smith 曾短暂顶他们的主音吉他。Dempsey 不喜欢新歌后离队，Gallup 加入。《Seventeen Seconds》《Faith》《Pornography》构成阴郁阶段。"
+      }
+    },
+    {
+      "id": "disintegration-peak",
+      "label": {
+        "en": "Head on the Door to Wish",
+        "zh": "Head on the Door 到 Wish"
+      },
+      "years": "1985–1992",
+      "members": [
+        {
+          "name": "Robert Smith",
+          "role": "Vocals, Guitar"
+        },
+        {
+          "name": "Simon Gallup",
+          "role": "Bass"
         },
         {
           "name": "Porl Thompson",
@@ -272,40 +348,12 @@
         },
         {
           "name": "Lol Tolhurst",
-          "role": "Keyboards"
+          "role": "Keys"
         }
       ],
       "note": {
-        "en": "Pop singles then Disintegration-era long songs.",
-        "zh": "流行单曲之后是《Disintegration》时期的长歌。"
-      }
-    },
-    {
-      "id": "early-minimal",
-      "label": {
-        "en": "Early minimal trio/quartet",
-        "zh": "早期极简三/四人"
-      },
-      "years": "1979–1982",
-      "members": [
-        {
-          "name": "Robert Smith",
-          "role": "Vocals, Guitar",
-          "personSlug": "robert-smith"
-        },
-        {
-          "name": "Simon Gallup",
-          "role": "Bass",
-          "personSlug": "simon-gallup"
-        },
-        {
-          "name": "Lol Tolhurst",
-          "role": "Drums"
-        }
-      ],
-      "note": {
-        "en": "Seventeen Seconds / Faith / Pornography cold era.",
-        "zh": "《Seventeen Seconds》/《Faith》/《Pornography》冷声期。"
+        "en": "Gallup returned after The Top. Tolhurst left amid conflict before/around Disintegration. Elektra resisted the album; the band funded release and played US stadium dates (~40,000). The Cure (2004) was produced by Ross Robinson (known for Slipknot).",
+        "zh": "Gallup 在《The Top》之后回归。Tolhurst 在《Disintegration》前后因矛盾离队。Elektra 不愿推这张专，乐队自费发行并在美国体育场演出（约 4 万人）。2004 年同名专辑由 Ross Robinson（以 Slipknot 制作知名）操刀。"
       }
     }
   ],

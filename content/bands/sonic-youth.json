@@ -14,8 +14,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "NYC noise-rock band formed in 1981. Alternate tunings and prepared guitar as composition method; Daydream Nation (1988) is the double-album peak.",
-    "zh": "纽约噪音摇滚乐队，1981 年成立。把另调弦与预制吉他当作曲方法；《Daydream Nation》（1988）是双专峰值。"
+    "en": "NYC No Wave–rooted band formed in 1981. Alternate tunings and prepared guitar as method; Daydream Nation (1988) led to Geffen/DGC; ended 2011 after Moore–Gordon split.",
+    "zh": "源自纽约 No Wave，1981 年成立。另调弦与预制吉他当方法；《Daydream Nation》（1988）后进 Geffen/DGC；Moore–Gordon 分居后 2011 年结束。"
   },
   "members": [
     {
@@ -42,8 +42,28 @@
     },
     {
       "name": "Jim O'Rourke",
-      "role": "Guitar, Bass",
-      "years": "1999–2005"
+      "role": "Bass, Guitar",
+      "years": "2000–2005"
+    },
+    {
+      "name": "Mark Ibold",
+      "role": "Bass",
+      "years": "2006–2011"
+    },
+    {
+      "name": "Bob Bert",
+      "role": "Drums",
+      "years": "1982–1983; 1983–1985"
+    },
+    {
+      "name": "Richard Edson",
+      "role": "Drums",
+      "years": "1981–1982"
+    },
+    {
+      "name": "Jim Sclavunos",
+      "role": "Drums",
+      "years": "1983"
     }
   ],
   "essentialTracks": [
@@ -80,8 +100,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Daydream Nation opener; alternate-tuning anthem.",
-        "zh": "《Daydream Nation》开场；另调弦圣歌。"
+        "en": "Daydream Nation opener; alternate-tuning anthem before Geffen.",
+        "zh": "《Daydream Nation》开场；进 Geffen 前的另调弦圣歌。"
       }
     },
     {
@@ -98,8 +118,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Goo-era; Gordon vocal and Chuck D cameo.",
-        "zh": "《Goo》时期；Gordon 人声与 Chuck D 客串。"
+        "en": "Goo; Gordon vocal with Public Enemy’s Chuck D.",
+        "zh": "《Goo》；Gordon 人声与 Public Enemy 的 Chuck D。"
       }
     },
     {
@@ -123,16 +143,21 @@
   ],
   "interviewQuotes": [
     {
-      "text": "The tuning is the song before the song.",
+      "text": "I don't think Glenn was as interested in the greatness of Sex Pistols songwriting as I was.",
       "speaker": "Thurston Moore",
-      "source": "Guitar interview excerpt",
-      "year": 1988
+      "source": "Garageland · Rock Chronicles"
     },
     {
-      "text": "Kim’s voice and bass made the art-noise into songs.",
+      "text": "We've done so much with noise… so not doing that is more experimental.",
+      "speaker": "Thurston Moore",
+      "source": "On Rather Ripped · Rock Chronicles",
+      "year": 2006
+    },
+    {
+      "text": "I just hope Thurston and Kim are okay… the band is secondary right now.",
       "speaker": "Lee Ranaldo",
-      "source": "Press interview excerpt",
-      "year": 1990
+      "source": "gothamist.com · Rock Chronicles",
+      "year": 2011
     }
   ],
   "lyricQuotes": [
@@ -156,12 +181,12 @@
     "radiohead"
   ],
   "shortBio": {
-    "en": "Alternate-tuning noise/indie, 1981–2011. Daydream Nation peak; shoegaze-adjacent textures.",
-    "zh": "另调弦噪音/indie，1981–2011。《Daydream Nation》峰值；与 shoegaze 相邻的纹理。"
+    "en": "Alternate-tuning noise/indie, 1981–2011. Daydream Nation peak; Geffen then Matador; SYR side catalog.",
+    "zh": "另调弦噪音/indie，1981–2011。《Daydream Nation》峰值；Geffen 后 Matador；SYR 旁支目录。"
   },
   "body": {
-    "en": "Sonic Youth formed in New York in 1981. From No Wave roots they moved through Sister and Daydream Nation. Moore and Ranaldo use alternate tunings, drumsticks under strings, and feedback as harmony. Goo and Dirty mark the major-label chapter; the band ended in 2011.\n\nNarrative notes noise and shoegaze adjacency; genre tags stay alternative/indie-rock. Nirvana, MBV, and later indie cite the tunings and feedback harmony.",
-    "zh": "Sonic Youth 于 1981 年在纽约成立。从 No Wave 根走到《Sister》与《Daydream Nation》。Moore 与 Ranaldo 使用另调弦、弦下鼓棒，并把反馈当和声。《Goo》与《Dirty》标记大厂章节；乐队于 2011 年结束。\n\n叙事提及噪音与 shoegaze 相邻；类型标签仍是 alternative/indie-rock。Nirvana、MBV 与后来 indie 引用调弦与反馈和声。"
+    "en": "Sonic Youth coalesced from late-1970s NYC No Wave under Glenn Branca (ex–Theoretical Girls). Thurston Moore arrived in New York in 1976, met Kim Gordon, then Lee Ranaldo (Branca’s associate). With drummer Richard Edson, Neutral Records issued Sonic Youth (1981), cut at Radio City Music Hall. Drum chairs shifted: Edson left; Bob Bert; Jim Sclavunos (later Bad Seeds) on Confusion Is Sex (1983); Bert returned for Bad Moon Rising (1985), including Death Valley ’69 with Lydia Lunch. Steve Shelley joined mid-1980s and held the seat about fifteen years.\n\nEVOL (1986) sharpened melody and structure. As Ciccone Youth—with Mike Watt of fIREHOSE—they issued The Whitey Album (1988) beside Madonna pastiche. Sister (1987) and Daydream Nation (1988) preceded a Geffen/DGC deal and Goo (1990): Tunic (Karen Carpenter), Kool Thing with Chuck D. Moore urged Geffen toward Nirvana; Gordon co-produced Hole’s Pretty on the Inside (1991); the band toured with Neil Young. Dirty (1992) and Experimental Jet Set, Trash and No Star (1994) hit UK Top 10; the latter first US Top 40. Moore and Gordon married in 1984; after their daughter’s birth they headlined Lollapalooza 1995 (Courtney Love noted the support bill as SY-approved) and appeared on The Simpsons’ Homerpalooza.\n\nWashing Machine (1995), A Thousand Leaves (1998), NYC Ghosts & Flowers (2000) ran beside SYR EPs. Jim O’Rourke joined on bass for Murray Street (2002) and Sonic Nurse (2004), then left; Mark Ibold (ex–Pavement) followed. Rather Ripped (2006) was direct; Geffen ended late 2008; The Eternal (2009, Matador) reached US No. 18. In 2011 Moore and Gordon separated after 27 years; Ranaldo called the band secondary for then.",
+    "zh": "Sonic Youth 从 1970 年代末纽约 No Wave 汇聚，受 Glenn Branca（前 Theoretical Girls）影响。Thurston Moore 1976 年到纽约，与 Kim Gordon 组队，后遇 Lee Ranaldo（Branca 一系）。鼓手 Richard Edson 加入后，Neutral 发行《Sonic Youth》（1981），于无线电城音乐厅录制。鼓席更迭：Edson 离开；Bob Bert；Jim Sclavunos（后 Bad Seeds）录《Confusion Is Sex》（1983）；Bert 回归录《Bad Moon Rising》（1985），含与 Lydia Lunch 的《Death Valley '69》。Steve Shelley 1980 年代中期加入，鼓席稳定约十五年。\n\n《EVOL》（1986）加强旋律与结构。以 Ciccone Youth 名义——与 fIREHOSE 的 Mike Watt——发行《The Whitey Album》（1988），旁及 Madonna 戏仿。《Sister》（1987）与《Daydream Nation》（1988）之后签入 Geffen/DGC 并录《Goo》（1990）：《Tunic》（Karen Carpenter）、与 Chuck D 的《Kool Thing》。Moore 建议 Geffen 签 Nirvana；Gordon 联合制作 Hole《Pretty on the Inside》（1991）；乐队与 Neil Young 巡演。《Dirty》（1992）与《Experimental Jet Set, Trash and No Star》（1994）进英国榜前 10；后者首次进美国前 40。Moore 与 Gordon 1984 年结婚；女儿出生后暂停现场，再于 1995 年成为 Lollapalooza 焦点（Courtney Love 称暖场名单经 SY 认可），并出现在《辛普森一家》Homerpalooza 一集。\n\n《Washing Machine》（1995）、《A Thousand Leaves》（1998）、《NYC Ghosts & Flowers》（2000）与 SYR 系列 EP 并行。Jim O'Rourke 任贝斯参与《Murray Street》（2002）与《Sonic Nurse》（2004）后离开；前 Pavement 的 Mark Ibold 接任。《Rather Ripped》（2006）更直接；2008 年底结束 Geffen；《The Eternal》（2009，Matador）美国榜第 18。2011 年 Moore 与 Gordon 在共同 27 年后分居；Ranaldo 称当时乐队是次要的。"
   },
   "narrative": [
     {
@@ -171,8 +196,8 @@
         "zh": "调弦表当作曲"
       },
       "body": {
-        "en": "Sonic Youth write by retuning first. Prepared guitar and feedback replace the usual blues solo. Songs still have hooks—noise is a writing method.\n\nBridge from No Wave to 1990s alternative radio.",
-        "zh": "Sonic Youth 先改调再写。预制吉他与反馈替换常见蓝调独奏。歌仍有钩子——噪音是一种写法。\n\n从 No Wave 到 1990 年代 alternative 电台的桥。"
+        "en": "From No Wave and Branca’s circle, Sonic Youth write by retuning and prepared guitar. Feedback and dissonance replace blues solos; Sister and Daydream Nation keep hooks inside long forms.\n\nBridge from downtown noise to 1990s alternative radio via Geffen.",
+        "zh": "从 No Wave 与 Branca 圈子出发，Sonic Youth 先改调、预制吉他再写。反馈与不协和替换蓝调独奏；《Sister》《Daydream Nation》在长曲式里保留钩子。\n\n经 Geffen 从市中心噪音桥到 1990 年代 alternative 电台。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "alternative"
@@ -180,15 +205,25 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Daydream Nation four as peak",
-        "zh": "Daydream Nation 四人即巅峰"
+        "en": "Drum chairs then Daydream four",
+        "zh": "鼓席更迭到 Daydream 四人"
       },
       "body": {
-        "en": "Shelley settles on drums in the mid-1980s. Peak: Moore, Gordon, Ranaldo, and Shelley on Daydream Nation through Dirty. O’Rourke later expands textures.\n\nPeak flag on the late-1980s four.",
-        "zh": "Shelley 在 1980 年代中期固定鼓席。巅峰：Daydream Nation 至 Dirty 上的 Moore、Gordon、Ranaldo 与 Shelley。O’Rourke 后扩展纹理。\n\n巅峰旗在 1980 年代末四人。"
+        "en": "Edson, Bert, Sclavunos, Bert again, then Shelley from EVOL onward for about fifteen stable years. Peak public silhouette: Moore, Gordon, Ranaldo, Shelley on Daydream Nation through Dirty. O’Rourke then Ibold expand later bass/texture seats.\n\nPeak flag on the late-1980s four.",
+        "zh": "Edson、Bert、Sclavunos、Bert 再回，然后 Shelley 自《EVOL》起稳定约十五年。公众巅峰剪影：Daydream Nation 至 Dirty 的 Moore、Gordon、Ranaldo、Shelley。O'Rourke 与其后 Ibold 扩展后期贝斯/纹理席。\n\n巅峰旗在 1980 年代末四人。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "alternative"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/sonic-youth-sticky.jpg",
+        "alt": {
+          "en": "Sonic Youth live",
+          "zh": "Sonic Youth 现场"
+        },
+        "credit": "via Wikimedia Commons",
+        "license": "CC BY-SA",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sonic_Youth_2009.05.30_001.jpg"
+      }
     },
     {
       "id": "members",
@@ -197,8 +232,8 @@
         "zh": "双吉他噪音、Gordon 贝斯/人声"
       },
       "body": {
-        "en": "Moore and Ranaldo: interlocking dissonance, amp stacks. Gordon: spoken-sung bass songs. Shelley: motorik-leaning indie kit.\n\nShoegaze bands later borrow the wall; SY keeps NYC art-punk diction.",
-        "zh": "Moore 与 Ranaldo：交错不协和、音箱堆。Gordon：说唱式贝斯歌。Shelley：偏 motorik 的 indie 鼓。\n\n后来 shoegaze 乐队借墙；SY 保留纽约艺术朋克咬字。"
+        "en": "Moore and Ranaldo: interlocking dissonance, amp stacks. Gordon: spoken-sung bass songs; clearer lead role on Goo (Tunic, Kool Thing). Shelley: motorik-leaning indie kit.\n\nSYR EPs hold the more extreme ideas beside official albums.",
+        "zh": "Moore 与 Ranaldo：交错不协和、音箱堆。Gordon：说唱式贝斯歌；《Goo》上领导角色更清楚（《Tunic》《Kool Thing》）。Shelley：偏 motorik 的 indie 鼓。\n\nSYR EP 承接更极端想法，与正式专辑并行。"
       },
       "stickyVisual": "members",
       "soundGenre": "indie-rock"
@@ -210,8 +245,8 @@
         "zh": "《Teen Age Riot》"
       },
       "body": {
-        "en": "Daydream Nation. Open-tuning shimmer, Moore vocal, long form without prog vanity.\n\nIndie anthem built from noise tools.",
-        "zh": "《Daydream Nation》。开放调弦闪烁、Moore 人声、无 prog 虚荣的长曲式。\n\n用噪音工具建成的 indie 圣歌。"
+        "en": "Daydream Nation. Open-tuning shimmer, Moore vocal, long form without prog vanity. Double album that preceded the Geffen signing.\n\nIndie anthem built from noise tools.",
+        "zh": "《Daydream Nation》。开放调弦闪烁、Moore 人声、无 prog 虚荣的长曲式。这张双专之后签入 Geffen。\n\n用噪音工具建成的 indie 圣歌。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -224,22 +259,35 @@
         "zh": "《Kool Thing》"
       },
       "body": {
-        "en": "Goo. Gordon lead, hip-hop cameo, still detuned riffs. Noise method under major-label gloss.\n\n1990 crossover face.",
-        "zh": "《Goo》。Gordon 主唱、嘻哈客串、仍是另调 riff。大厂抛光下的噪音方法。\n\n1990 跨界脸。"
+        "en": "Goo. Gordon lead, Chuck D cameo, still detuned riffs. Noise method under major-label gloss.\n\n1990 crossover face beside Tunic’s Carpenter tribute.",
+        "zh": "《Goo》。Gordon 主唱、Chuck D 客串、仍是另调 riff。大厂抛光下的噪音方法。\n\n1990 跨界脸，旁有《Tunic》对 Karen Carpenter 的致敬。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
       "soundGenre": "alternative"
     },
     {
-      "id": "legacy",
+      "id": "live-alt",
       "title": {
-        "en": "Noise method for alt and shoegaze",
-        "zh": "给 alt 与 shoegaze 的噪音方法"
+        "en": "Lollapalooza, Hole, Nirvana tip",
+        "zh": "Lollapalooza、Hole、Nirvana 引荐"
       },
       "body": {
-        "en": "Nirvana, MBV, and later indie cite tunings and feedback harmony. Genre graph keeps SY under alternative; narrative owns the noise/shoegaze adjacency.\n\nNYC art-noise that taught radio to tolerate abrasion.",
-        "zh": "Nirvana、MBV 与后来 indie 引用调弦与反馈和声。类型图把 SY 留在 alternative；叙事承认噪音/shoegaze 相邻。\n\n教电台忍受磨损的纽约艺术噪音。"
+        "en": "Moore suggested Geffen sign Nirvana. Gordon co-produced Hole’s Pretty on the Inside (1991). Neil Young tour; Lollapalooza 1995 focus; Simpsons Homerpalooza appearance.\n\nLive milestones sit beside Dirty and Experimental Jet Set chart years.",
+        "zh": "Moore 建议 Geffen 签 Nirvana。Gordon 联合制作 Hole《Pretty on the Inside》（1991）。与 Neil Young 巡演；1995 年 Lollapalooza 焦点；《辛普森一家》Homerpalooza 出场。\n\n现场节点与《Dirty》《Experimental Jet Set》打榜年并列。"
+      },
+      "stickyVisual": "influence",
+      "soundGenre": "alternative"
+    },
+    {
+      "id": "legacy",
+      "title": {
+        "en": "Noise method, SYR, 2011 end",
+        "zh": "噪音方法、SYR、2011 结束"
+      },
+      "body": {
+        "en": "SYR catalog kept experimental room after Geffen. Rather Ripped treated not doing noise as the experiment. Matador’s The Eternal (2009) was the US chart peak (No. 18). Moore–Gordon separation in 2011 paused the band.\n\nNirvana, MBV, and later indie cite tunings and feedback harmony.",
+        "zh": "进 Geffen 后 SYR 目录仍保留实验空间。《Rather Ripped》把「不做噪音」当作试验。Matador《The Eternal》（2009）为美国榜峰值（第 18）。2011 年 Moore–Gordon 分居后乐队暂停。\n\nNirvana、MBV 与后来 indie 引用调弦与反馈和声。"
       },
       "stickyVisual": "influence",
       "soundGenre": "alternative"
@@ -247,12 +295,44 @@
   ],
   "lineupVersions": [
     {
+      "id": "early-neutral",
+      "label": {
+        "en": "Early Neutral / Confusion",
+        "zh": "早期 Neutral / Confusion"
+      },
+      "years": "1981–1985",
+      "members": [
+        {
+          "name": "Thurston Moore",
+          "role": "Guitar, Vocals",
+          "personSlug": "thurston-moore"
+        },
+        {
+          "name": "Kim Gordon",
+          "role": "Bass, Vocals",
+          "personSlug": "kim-gordon"
+        },
+        {
+          "name": "Lee Ranaldo",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "Bob Bert",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Branca/Neutral start; Edson then Bert/Sclavunos/Bert again on drums; Confusion Is Sex; Bad Moon Rising with Lydia Lunch guest.",
+        "zh": "Branca/Neutral 起点；鼓手先后 Edson、Bert、Sclavunos、Bert 再回；《Confusion Is Sex》；《Bad Moon Rising》含 Lydia Lunch 客串。"
+      }
+    },
+    {
       "id": "daydream-four",
       "label": {
         "en": "Daydream Nation four",
         "zh": "Daydream Nation 四人"
       },
-      "years": "1985–1998",
+      "years": "1985–1999",
       "peak": true,
       "members": [
         {
@@ -275,8 +355,48 @@
         }
       ],
       "note": {
-        "en": "Sister through Dirty peak window.",
-        "zh": "《Sister》至《Dirty》巅峰窗。"
+        "en": "EVOL through Dirty / Experimental Jet Set; Geffen/DGC; Lollapalooza 1995.",
+        "zh": "《EVOL》至《Dirty》/《Experimental Jet Set》；Geffen/DGC；1995 Lollapalooza。"
+      }
+    },
+    {
+      "id": "orourke-ibold",
+      "label": {
+        "en": "O’Rourke then Ibold",
+        "zh": "O'Rourke 后 Ibold"
+      },
+      "years": "2000–2011",
+      "members": [
+        {
+          "name": "Thurston Moore",
+          "role": "Guitar, Vocals",
+          "personSlug": "thurston-moore"
+        },
+        {
+          "name": "Kim Gordon",
+          "role": "Bass, Vocals",
+          "personSlug": "kim-gordon"
+        },
+        {
+          "name": "Lee Ranaldo",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "Steve Shelley",
+          "role": "Drums"
+        },
+        {
+          "name": "Jim O'Rourke",
+          "role": "Bass, Guitar"
+        },
+        {
+          "name": "Mark Ibold",
+          "role": "Bass"
+        }
+      ],
+      "note": {
+        "en": "Murray Street / Sonic Nurse; Rather Ripped; The Eternal (Matador); end 2011.",
+        "zh": "《Murray Street》/《Sonic Nurse》；《Rather Ripped》；《The Eternal》（Matador）；2011 结束。"
       }
     }
   ],
@@ -285,8 +405,8 @@
       "title": "Teen Age Riot",
       "year": 1988,
       "note": {
-        "en": "Alternate-tuning anthem from Daydream Nation.",
-        "zh": "《Daydream Nation》上的另调弦圣歌。"
+        "en": "Alternate-tuning anthem from Daydream Nation before the Geffen chapter.",
+        "zh": "《Daydream Nation》上、进 Geffen 前的另调弦圣歌。"
       }
     },
     "pioneeredGenres": [
@@ -294,8 +414,8 @@
       "indie-rock"
     ],
     "note": {
-      "en": "Prepared/alternate guitar as indie composition; noise and shoegaze adjacency in method.",
-      "zh": "预制/另调吉他作为 indie 作曲；方法上与噪音和 shoegaze 相邻。"
+      "en": "Prepared/alternate guitar as indie composition; No Wave root; noise and shoegaze adjacency.",
+      "zh": "预制/另调吉他作为 indie 作曲；No Wave 根；方法上与噪音和 shoegaze 相邻。"
     }
   }
 }

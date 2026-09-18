@@ -14,8 +14,8 @@
   ],
   "decisive": false,
   "whyMatters": {
-    "en": "Boston four-piece formed in 1986. Surfer Rosa and Doolittle quiet-loud song forms became a main reference for Nirvana and 1990s alternative.",
-    "zh": "波士顿四人组，1986 年成立。《Surfer Rosa》与《Doolittle》的强弱曲式成为 Nirvana 与 1990 年代 alternative 的主要参照。"
+    "en": "Boston four-piece formed in 1986. Surfer Rosa (Albini) and Doolittle fixed quiet–loud song form; Nirvana and 1990s alt rock cited the map after the first split.",
+    "zh": "波士顿四人组，1986 年成立。《Surfer Rosa》（Albini）与《Doolittle》定下强弱曲式；首次解散后 Nirvana 与 1990 年代 alt rock 引用这套地图。"
   },
   "members": [
     {
@@ -39,6 +39,11 @@
       "name": "David Lovering",
       "role": "Drums",
       "years": "1986–1993; 2004–present"
+    },
+    {
+      "name": "Paz Lenchantin",
+      "role": "Bass",
+      "years": "2013–present"
     }
   ],
   "essentialTracks": [
@@ -75,8 +80,8 @@
       ],
       "intensity": 2,
       "note": {
-        "en": "Surfer Rosa; clean arpeggio then scream lift.",
-        "zh": "《Surfer Rosa》；干净分解后尖叫抬升。"
+        "en": "Surfer Rosa (Steve Albini); clean arpeggio then scream lift; start/stop dynamics.",
+        "zh": "《Surfer Rosa》（Steve Albini）；干净分解后尖叫抬升；开始/停止动态。"
       }
     },
     {
@@ -93,8 +98,8 @@
       ],
       "intensity": 3,
       "note": {
-        "en": "Doolittle opener; clear quiet-loud-quiet map.",
-        "zh": "《Doolittle》开场；清楚的强弱强动态。"
+        "en": "Doolittle opener; quiet–loud map later cited for 1990s alt rock.",
+        "zh": "《Doolittle》开场；强弱地图后被 1990 年代 alt rock 引用。"
       }
     },
     {
@@ -118,16 +123,10 @@
   ],
   "interviewQuotes": [
     {
-      "text": "We were trying to be the next Husker Du and failed into something better.",
-      "speaker": "Black Francis",
-      "source": "Press interview excerpt",
-      "year": 1989
-    },
-    {
-      "text": "The quiet-loud thing was just dynamics. Nirvana made it a movement.",
-      "speaker": "Kim Deal",
-      "source": "Archive interview excerpt",
-      "year": 1994
+      "text": "Having the Pixies open for us is like having the Beatles open for us… There's no way they should open for us!",
+      "speaker": "Thom Yorke",
+      "source": "Coachella booking remark · Rock Chronicles",
+      "year": 2004
     }
   ],
   "lyricQuotes": [
@@ -151,23 +150,23 @@
     "the-strokes"
   ],
   "shortBio": {
-    "en": "Quiet-loud alternative, 1986–. Surfer Rosa and Doolittle are the core reference Nirvana cited.",
-    "zh": "强弱 alternative，1986 年至今。《Surfer Rosa》与《Doolittle》是 Nirvana 引用的核心参照。"
+    "en": "Quiet–loud alternative, Boston 1986–. Surfer Rosa / Doolittle core; split 1993, reunion 2004; Deal left 2013 for The Breeders.",
+    "zh": "强弱 alternative，波士顿 1986 年至今。《Surfer Rosa》/《Doolittle》核心；1993 解散、2004 重聚；Deal 2013 离开专注 The Breeders。"
   },
   "body": {
-    "en": "Pixies formed in Boston in 1986. Steve Albini produced Surfer Rosa; Gil Norton produced Doolittle. Soft-loud dynamics, surreal lyric, and Santiago lead noise define the sound. Split in 1993; reunions from 2004.\n\nNoise and shoegaze textures appear in the guitar spray, but song form stays verse–scream–hook. Genre tags stay alternative/indie. Cobain and later alternative acts cite the dynamic map openly.",
-    "zh": "Pixies 于 1986 年在波士顿成立。《Surfer Rosa》由 Steve Albini 制作；《Doolittle》由 Gil Norton 制作。强弱动态、超现实歌词与 Santiago 噪音主音界定声音。1993 年解散；2004 年起重聚。\n\n吉他喷雾里有噪音与 shoegaze 纹理，但曲式仍是主歌–尖叫–钩子。类型标签仍是 alternative/indie。Cobain 与后来 alternative 行动公开引用这套动态地图。"
+    "en": "Pixies formed in Boston after college roommates Black Francis (Charles Thompson IV) and Joey Santiago recruited Kim Deal and David Lovering. Deal answered a bass ad naming Hüsker Dü and Peter, Paul and Mary without having played bass. Drawing on Hüsker Dü and peers Throwing Muses, they cut The Purple Tape, signed to UK 4AD (home of Cocteau Twins), and issued Come On Pilgrim (1987; UK indie No. 5).\n\nSurfer Rosa (1988, Steve Albini) topped the UK indie chart for over a year; taboo lyric and start/stop dynamics reached Kurt Cobain, who later hired Albini for Nirvana’s In Utero. Doolittle (1989) mapped quiet–loud for 1990s alt rock and was the first US hit album. Bossanova (1990) followed as Francis–Deal tension rose; Francis began a solo path (later Frank Black) and Deal led The Breeders. Trompe le Monde (1991)—a Dave Grohl favorite—preceded the 1993 split.\n\nReputation grew in absence. Reunion 2004 met a large audience; at Coachella, when Radiohead headlined, Thom Yorke compared a Pixies support slot to The Beatles opening. Deal left in 2013 for The Breeders; Kim Shattuck briefly toured on bass, then Paz Lenchantin. Indie Cindy (2014) was the fifth studio album.",
+    "zh": "大学室友 Black Francis（Charles Thompson IV）与 Joey Santiago 招募 Kim Deal、David Lovering 后，Pixies 在波士顿成立。Deal 应征贝斯广告（文案提到 Hüsker Dü 与 Peter, Paul and Mary）时尚未弹过贝斯。借鉴 Hüsker Dü 并关注同辈 Throwing Muses，录下 The Purple Tape，签入英国 4AD（旗下有 Cocteau Twins），发行《Come On Pilgrim》（1987；英国独立榜第 5）。\n\n《Surfer Rosa》（1988，Steve Albini）居英国独立榜逾一年；禁忌歌词与开始/停止动态传到 Kurt Cobain，后者后来请 Albini 制作 Nirvana《In Utero》。《Doolittle》（1989）为 1990 年代 alt rock 强弱写法提供路线图，并成乐队首张美国热门专。《Bossanova》（1990）时 Francis 与 Deal 关系紧张；Francis 开展个人事业（后改名 Frank Black），Deal 领衔 The Breeders。《Trompe le Monde》（1991）——Dave Grohl 最爱作品之一——之后 1993 年解散。\n\n缺席期间声名上升。2004 年重聚迎来大量听众；科切拉由 Radiohead 主导时，Thom Yorke 称 Pixies 暖场相当于 The Beatles 暖场。2013 年 Deal 离开专注 The Breeders；Kim Shattuck 短暂巡演贝斯后由 Paz Lenchantin 接任。《Indie Cindy》（2014）为第 5 张录音室专。"
   },
   "narrative": [
     {
       "id": "thesis",
       "title": {
-        "en": "Quiet-loud as alternative song form",
+        "en": "Quiet–loud as alternative song form",
         "zh": "强弱作为 alternative 曲式"
       },
       "body": {
-        "en": "Pixies crystallize soft verse / screamed chorus for college radio. Surreal titles, short runtimes, no prog padding.\n\nNirvana uses a similar dynamic map on Nevermind.",
-        "zh": "Pixies 把安静主歌/尖叫副歌结晶为大学电台写法。超现实标题、短时长、无 prog 填充。\n\nNirvana 在《Nevermind》上使用相近动态地图。"
+        "en": "Pixies crystallize soft verse / screamed chorus: roaring guitar, sharp pop rhythm, short runtimes. Surfer Rosa and Doolittle land before mass alt radio is ready.\n\nNirvana and other students convert the map into 1990s commercial alt rock.",
+        "zh": "Pixies 把安静主歌/尖叫副歌结晶：咆哮吉他、尖锐流行节奏、短时长。《Surfer Rosa》与《Doolittle》面世时大众尚未准备好。\n\nNirvana 等学生把这套地图转化为 1990 年代商业 alt rock。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "alternative"
@@ -175,15 +174,25 @@
     {
       "id": "lineup-versions",
       "title": {
-        "en": "Classic four as peak",
-        "zh": "经典四人即巅峰"
+        "en": "Classic four, Deal exit, Lenchantin",
+        "zh": "经典四人、Deal 离队、Lenchantin"
       },
       "body": {
-        "en": "Francis, Deal, Santiago, and Lovering are the peak silhouette. Deal exits later reunions; the Doolittle-era four remains the main citation.\n\nNo singer swap—the method is the four-way balance.",
-        "zh": "Francis、Deal、Santiago 与 Lovering 是巅峰剪影。Deal 后离开重聚；《Doolittle》时期四人仍是主要引用。\n\n无主唱替换——方法是四方平衡。"
+        "en": "Francis, Deal, Santiago, Lovering are the Surfer Rosa / Doolittle silhouette. Split 1993; reunion 2004. Deal leaves 2013 for The Breeders; Shattuck briefly, then Paz Lenchantin; Indie Cindy (2014).\n\nPeak citation stays the Doolittle-era four.",
+        "zh": "Francis、Deal、Santiago、Lovering 是《Surfer Rosa》/《Doolittle》剪影。1993 解散；2004 重聚。Deal 2013 离开专注 The Breeders；Shattuck 短暂后 Paz Lenchantin；《Indie Cindy》（2014）。\n\n峰值引用仍是《Doolittle》时期四人。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "alternative"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/pixies-kansas-2004.jpg",
+        "alt": {
+          "en": "Pixies in Kansas City, 1 October 2004",
+          "zh": "Pixies，堪萨斯城，2004 年 10 月 1 日"
+        },
+        "credit": "via Wikimedia Commons",
+        "license": "CC BY-SA",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pixies_in_Kansas_City,_October_1,_2004.jpg"
+      }
     },
     {
       "id": "members",
@@ -192,8 +201,8 @@
         "zh": "尖叫、和声贝斯、冲浪噪音主音"
       },
       "body": {
-        "en": "Francis: Tele bark and Spanish blurt. Deal: melodic bass plus Gigantic lead. Santiago: surf-twang into noise. Lovering: dry punch kit.\n\nAlbini and Gil Norton capture rooms differently; form stays.",
-        "zh": "Francis：Tele 吠叫与西语爆发。Deal：旋律贝斯加《Gigantic》主唱。Santiago：冲浪颤音进噪音。Lovering：干、砸的鼓。\n\nAlbini 与 Gil Norton 抓房间不同；曲式不变。"
+        "en": "Francis: barked vocal and guitar. Deal: melodic bass plus Gigantic lead; later The Breeders. Santiago: surf-twang into noise. Lovering: dry punch kit.\n\nAlbini on Surfer Rosa; Cobain later books Albini for In Utero.",
+        "zh": "Francis：吠叫人声与吉他。Deal：旋律贝斯加《Gigantic》主唱；后领衔 The Breeders。Santiago：冲浪颤音进噪音。Lovering：干、砸的鼓。\n\nAlbini 制作《Surfer Rosa》；Cobain 后请 Albini 做《In Utero》。"
       },
       "stickyVisual": "members",
       "soundGenre": "indie-rock"
@@ -205,8 +214,8 @@
         "zh": "《Where Is My Mind?》"
       },
       "body": {
-        "en": "Arpeggio hook, Deal harmony, controlled lift—not a full scream wall. Later film sync expands reach.\n\nSurfer Rosa face that still shows the dynamic method.",
-        "zh": "分解钩子、Deal 和声、受控抬升——非全尖叫墙。后来影视同步扩大触及。\n\n仍展示动态方法的《Surfer Rosa》脸。"
+        "en": "Arpeggio hook, Deal harmony, controlled lift on Surfer Rosa—not a full scream wall.\n\nSurfer Rosa face that still shows start/stop dynamics.",
+        "zh": "《Surfer Rosa》上分解钩子、Deal 和声、受控抬升——非全尖叫墙。\n\n仍展示开始/停止动态的《Surfer Rosa》脸。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -219,8 +228,8 @@
         "zh": "《Debaser》"
       },
       "body": {
-        "en": "Doolittle opener. Bass start, scream chorus, Buñuel lyric joke. College-radio violence at pop length.\n\nPrimary citation for 1990s alt dynamics.",
-        "zh": "《Doolittle》开场。贝斯起、尖叫副歌、布努埃尔歌词玩笑。流行长度的大学电台暴力。\n\n1990 年代 alt 动态的主要引用。"
+        "en": "Doolittle opener. Bass start, scream chorus. College-radio violence at pop length.\n\nPrimary citation for 1990s alt quiet–loud grammar.",
+        "zh": "《Doolittle》开场。贝斯起、尖叫副歌。流行长度的大学电台暴力。\n\n1990 年代 alt 强弱写法的主要引用。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -229,12 +238,12 @@
     {
       "id": "legacy",
       "title": {
-        "en": "Reference for grunge and indie",
-        "zh": "Grunge 与 indie 的参照"
+        "en": "Nirvana, Breeders, Coachella",
+        "zh": "Nirvana、Breeders、科切拉"
       },
       "body": {
-        "en": "Cobain cites Pixies dynamics. Radiohead and The Strokes pull angular hooks. Noise and shoegaze neighbors (Sonic Youth, MBV) share guitar abrasion; Pixies keep songs shorter.\n\nBoston four as a core 1990s alt writing reference.",
-        "zh": "Cobain 引用 Pixies 动态。Radiohead 与 The Strokes 抽棱角钩子。噪音与 shoegaze 邻里（Sonic Youth、MBV）共享吉他磨损；Pixies 把歌唱得更短。\n\n波士顿四人组是 1990 年代 alt 写作的核心参照。"
+        "en": "Book compares influence scale to Velvet Underground: charts alone understate the reach; admirers named include David Bowie and Radiohead. Cobain cites dynamics and Albini. Deal’s Breeders and Francis’s Frank Black continue after the first split. Yorke’s 2004 Coachella line marks reunion stature.\n\nBoston four as a core 1990s alt writing reference.",
+        "zh": "书中以 Velvet Underground 作影响尺度对照：销量不能完全衡量；崇拜者包括 David Bowie 与 Radiohead。Cobain 引用动态与 Albini。首次解散后 Deal 的 Breeders 与 Francis 的 Frank Black 继续。Yorke 2004 年科切拉表态标记重聚体量。\n\n波士顿四人组是 1990 年代 alt 写作的核心参照。"
       },
       "stickyVisual": "influence",
       "soundGenre": "alternative"
@@ -270,8 +279,71 @@
         }
       ],
       "note": {
-        "en": "Surfer Rosa / Doolittle peak.",
-        "zh": "《Surfer Rosa》/《Doolittle》巅峰。"
+        "en": "4AD; Surfer Rosa / Doolittle / Bossanova / Trompe le Monde; split 1993.",
+        "zh": "4AD；《Surfer Rosa》/《Doolittle》/《Bossanova》/《Trompe le Monde》；1993 解散。"
+      }
+    },
+    {
+      "id": "reunion-deal",
+      "label": {
+        "en": "2004 reunion with Deal",
+        "zh": "2004 重聚（含 Deal）"
+      },
+      "years": "2004–2013",
+      "members": [
+        {
+          "name": "Black Francis",
+          "role": "Vocals, Guitar",
+          "personSlug": "black-francis"
+        },
+        {
+          "name": "Kim Deal",
+          "role": "Bass, Vocals",
+          "personSlug": "kim-deal"
+        },
+        {
+          "name": "Joey Santiago",
+          "role": "Guitar"
+        },
+        {
+          "name": "David Lovering",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Large post-split audience; Coachella 2004 with Radiohead headline context.",
+        "zh": "解散后扩大的听众；2004 科切拉（Radiohead 主导语境）。"
+      }
+    },
+    {
+      "id": "lenchantin",
+      "label": {
+        "en": "Post-Deal / Lenchantin",
+        "zh": "Deal 离队 / Lenchantin"
+      },
+      "years": "2013–present",
+      "members": [
+        {
+          "name": "Black Francis",
+          "role": "Vocals, Guitar",
+          "personSlug": "black-francis"
+        },
+        {
+          "name": "Joey Santiago",
+          "role": "Guitar"
+        },
+        {
+          "name": "Paz Lenchantin",
+          "role": "Bass"
+        },
+        {
+          "name": "David Lovering",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Deal to The Breeders; Shattuck brief tour bass then Lenchantin; Indie Cindy (2014).",
+        "zh": "Deal 专注 The Breeders；Shattuck 短暂巡演贝斯后 Lenchantin；《Indie Cindy》（2014）。"
       }
     }
   ],
@@ -280,7 +352,7 @@
       "title": "Debaser",
       "year": 1989,
       "note": {
-        "en": "Quiet-loud single that became 1990s alt grammar.",
+        "en": "Quiet–loud single that became 1990s alt grammar.",
         "zh": "成为 1990 年代 alt 写法参照的强弱单曲。"
       }
     },
@@ -289,8 +361,8 @@
       "indie-rock"
     ],
     "note": {
-      "en": "Soft-loud song form; noise color inside indie length.",
-      "zh": "强弱曲式；indie 长度里的噪音色彩。"
+      "en": "Soft–loud song form; noise color inside indie length; Albini Surfer Rosa.",
+      "zh": "强弱曲式；indie 长度里的噪音色彩；Albini《Surfer Rosa》。"
     }
   }
 }

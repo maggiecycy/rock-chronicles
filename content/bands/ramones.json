@@ -40,6 +40,16 @@
       "name": "Marky Ramone",
       "role": "Drums",
       "years": "1978–1983; 1987–1996"
+    },
+    {
+      "name": "Richie Ramone",
+      "role": "Drums",
+      "years": "1983–1987"
+    },
+    {
+      "name": "C.J. Ramone",
+      "role": "Bass",
+      "years": "1989–1996"
     }
   ],
   "essentialTracks": [
@@ -154,8 +164,8 @@
     "zh": "皇后区朋克，1974–96。Joey、Johnny、Dee Dee；鼓手先后为 Tommy 与 Marky。《Blitzkrieg Bop》是主要时值参照。"
   },
   "body": {
-    "en": "Ramones formed in Queens, New York, in 1974. Early Sire albums—Ramones, Leave Home, Rocket to Russia—fix Joey Ramone’s deadpan vocal, Johnny Ramone’s strict downstrokes, Dee Dee Ramone’s bass count-ins, and a leather-jacket stage look.\n\nBlitzkrieg Bop (1976) is the clearest entry track. Influence shows in short songs, few chords, and high tempo, later used by UK punk, hardcore, and pop-punk.",
-    "zh": "Ramones 于 1974 年在纽约皇后区成立。早期 Sire 专辑——《Ramones》《Leave Home》《Rocket to Russia》——定型 Joey Ramone 的冷脸人声、Johnny Ramone 的严格下行扫弦、Dee Dee Ramone 的贝斯起拍，以及皮衣舞台形象。\n\n《Blitzkrieg Bop》（1976）是最清楚的入口曲。影响体现在短歌、少和弦与高速度，后来被英国朋克、hardcore 与流行朋克沿用。"
+    "en": "Forest Hills, New York, 1974–1996. John Cummings, Doug Colvin, and Jeffry Hyman took the Ramone surname from Paul McCartney’s Paul Ramon alias. CBGB residency built the leather-jacket look. Sex Pistols watched their 1976 UK dates; Springsteen wrote Hungry Heart for them then kept it. Sire’s early roster path also led toward Talking Heads and The Cure.",
+    "zh": "纽约森林山，1974–1996。John Cummings、Doug Colvin、Jeffry Hyman 的 Ramone 姓氏取自 Paul McCartney 的化名 Paul Ramon。CBGB 驻演固定皮夹克形象。Sex Pistols 看过他们 1976 年英国场次；Springsteen 曾为他们写《Hungry Heart》后又留给自己。Sire 早期厂牌路径也通向 Talking Heads 与 The Cure。"
   },
   "narrative": [
     {
@@ -165,8 +175,8 @@
         "zh": "短歌与下行扫弦"
       },
       "body": {
-        "en": "Ramones write short songs with open chords and Johnny’s continuous downstrokes. CBGB-era New York sets the tempo range that many later US and UK punk bands use.\n\nFew lead solos; high tempo; matching stage clothes.",
-        "zh": "Ramones 写短歌，用开放和弦与 Johnny 持续的下行扫弦。CBGB 时期纽约现场定下的速度区间，被后来许多美英朋克乐队沿用。\n\n很少主音独奏；高速度；统一舞台着装。"
+        "en": "Short songs, downstroke guitar, 1-2-3-4 count-ins. The book places their reach from Sex Pistols to Springsteen, and later tribute guests from U2 to Metallica.",
+        "zh": "短歌、下行扫弦、1-2-3-4 预备拍。书中把影响范围写到 Sex Pistols 与 Springsteen，后来的致敬嘉宾从 U2 到 Metallica。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "punk"
@@ -178,11 +188,21 @@
         "zh": "Tommy 然后 Marky"
       },
       "body": {
-        "en": "Tommy Ramone drums on the 1976–77 Sire albums, then moves into production. Marky joins in 1978 for Road to Ruin onward. Joey, Johnny, and Dee Dee stay the vocal–guitar–bass core through the classic years.\n\nLineup changes mark the drum chair more than a style break.",
-        "zh": "Tommy Ramone 鼓上 1976–77 年 Sire 专辑，后转制作。Marky 于 1978 年加入，自《Road to Ruin》起。Joey、Johnny、Dee Dee 在经典年仍是人声–吉他–贝斯核心。\n\n阵容变化主要在鼓席，而非风格断裂。"
+        "en": "Tommy then Marky, with Richie in between. Clem Burke (Blondie) filled two shows as Elvis Ramone before Marky returned sober for Halfway to Sanity (1987).",
+        "zh": "鼓手从 Tommy 到 Marky，中间有 Richie。Blondie 的 Clem Burke 曾以 Elvis Ramone 名义顶两场，随后戒酒的 Marky 回归录《Halfway to Sanity》（1987）。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "punk"
+      "soundGenre": "punk",
+      "stickyImage": {
+        "src": "/media/bands/ramones-toronto-1976.jpg",
+        "alt": {
+          "en": "Ramones in Toronto, 1976",
+          "zh": "Ramones，多伦多，1976"
+        },
+        "credit": "via Wikimedia Commons",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramones_Toronto_1976.jpg"
+      }
     },
     {
       "id": "blitzkrieg",
@@ -191,12 +211,22 @@
         "zh": "《Blitzkrieg Bop》"
       },
       "body": {
-        "en": "Dee Dee’s 1-2-3-4 count-in, Joey’s hey-ho chant, Johnny’s chord wall. Under three minutes. Cover bands and teaching lists still use it for US punk timing.\n\nJudy Is a Punk sits beside it on the debut as another short track.",
-        "zh": "Dee Dee 的 1-2-3-4 起拍、Joey 的 hey-ho 口号、Johnny 的和弦墙。不到三分钟。翻唱乐队与教学列表仍用它说明美国朋克时值。\n\n《Judy Is a Punk》在首专旁作另一首短歌。"
+        "en": "Blitzkrieg Bop and the early Sire debut fixed the template. Sheena Is a Punk Rocker leaned Beach Boys and reached the UK Top 30. Rocket to Russia (1977) held Rockaway Beach and Teenage Lobotomy.",
+        "zh": "《Blitzkrieg Bop》与 Sire 首专定下模板。《Sheena Is a Punk Rocker》偏 Beach Boys 味道并进入英国榜前 30。《Rocket to Russia》（1977）含《Rockaway Beach》与《Teenage Lobotomy》。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
-      "soundGenre": "punk"
+      "soundGenre": "punk",
+      "stickyImage": {
+        "src": "/media/bands/ramones-johnny-joey-1977.jpg",
+        "alt": {
+          "en": "Johnny and Joey Ramone, 1977",
+          "zh": "Johnny 与 Joey Ramone，1977"
+        },
+        "credit": "via Wikimedia Commons",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Johnny_and_Joey_Ramone_1977.jpg"
+      }
     },
     {
       "id": "members",
@@ -232,8 +262,8 @@
         "zh": "英国朋克与 hardcore 时值"
       },
       "body": {
-        "en": "Sex Pistols and The Clash take short-song energy into UK singles and albums. Later hardcore and pop-punk keep the count-in and downstroke approach.\n\nThe timing method outlasts the leather-jacket image.",
-        "zh": "Sex Pistols 与 The Clash 把短歌能量带进英国单曲与专辑。后来 hardcore 与流行朋克保留起拍与下行扫弦做法。\n\n时值方法比皮衣形象延续得更久。"
+        "en": "CBGB linked them to the same New York room as Talking Heads’ early support slots. UK 1976 dates fed Sex Pistols’ sense that volume and attitude were enough.",
+        "zh": "CBGB 把他们与 Talking Heads 早期暖场放在同一纽约场地。1976 年英国场次强化了 Sex Pistols 对音量与态度的判断。"
       },
       "stickyVisual": "influence",
       "soundGenre": "punk"
@@ -247,22 +277,18 @@
         "zh": "Tommy 时期"
       },
       "years": "1974–1978",
-      "peak": true,
       "members": [
         {
           "name": "Joey Ramone",
-          "role": "Vocals",
-          "personSlug": "joey-ramone"
+          "role": "Vocals"
         },
         {
           "name": "Johnny Ramone",
-          "role": "Guitar",
-          "personSlug": "johnny-ramone"
+          "role": "Guitar"
         },
         {
           "name": "Dee Dee Ramone",
-          "role": "Bass",
-          "personSlug": "dee-dee-ramone"
+          "role": "Bass"
         },
         {
           "name": "Tommy Ramone",
@@ -270,41 +296,46 @@
         }
       ],
       "note": {
-        "en": "Debut through Rocket to Russia; early US punk timing reference.",
-        "zh": "首专至《Rocket to Russia》；早期美国朋克时值参照。"
+        "en": "Debut Ramones (1976) cost about $6,000. 4 July 1976 Roundhouse, London, with Flamin’ Groovies and The Stranglers; Johnny Rotten told them you didn’t need to be great—just play.",
+        "zh": "首专《Ramones》（1976）制作费约 6000 美元。1976 年 7 月 4 日伦敦 Roundhouse，与 Flamin’ Groovies、The Stranglers 同台；Johnny Rotten 说不必多厉害，出来演奏就行。"
       }
     },
     {
-      "id": "marky-era",
+      "id": "marky-richie",
       "label": {
-        "en": "Marky era",
-        "zh": "Marky 时期"
+        "en": "Marky / Richie / C.J.",
+        "zh": "Marky / Richie / C.J."
       },
-      "years": "1978–1983; 1987–1996",
+      "years": "1978–1996",
       "members": [
         {
           "name": "Joey Ramone",
-          "role": "Vocals",
-          "personSlug": "joey-ramone"
+          "role": "Vocals"
         },
         {
           "name": "Johnny Ramone",
-          "role": "Guitar",
-          "personSlug": "johnny-ramone"
+          "role": "Guitar"
         },
         {
           "name": "Dee Dee Ramone",
-          "role": "Bass",
-          "personSlug": "dee-dee-ramone"
+          "role": "Bass"
         },
         {
           "name": "Marky Ramone",
           "role": "Drums"
+        },
+        {
+          "name": "Richie Ramone",
+          "role": "Drums"
+        },
+        {
+          "name": "C.J. Ramone",
+          "role": "Bass"
         }
       ],
       "note": {
-        "en": "Road to Ruin onward; Dee Dee exits 1989; later bassists on tours.",
-        "zh": "自《Road to Ruin》起；Dee Dee 1989 离队；后期巡演由其他贝斯手接替。"
+        "en": "Tommy left touring 1978 but produced. Marky → Richie; Blondie’s Clem Burke briefly as Elvis Ramone. End of the Century with Phil Spector; Pleasant Dreams with 10cc’s Graham Gouldman. Final Lollapalooza 1996 show with guests including Motörhead’s Lemmy.",
+        "zh": "Tommy 1978 年不再巡演但仍制作。Marky 之后是 Richie；Blondie 的 Clem Burke 曾短暂化名 Elvis Ramone 顶替。Phil Spector 制作《End of the Century》；10cc 的 Graham Gouldman 制作《Pleasant Dreams》。1996 年 Lollapalooza 末场嘉宾包括 Motörhead 的 Lemmy。"
       }
     }
   ],

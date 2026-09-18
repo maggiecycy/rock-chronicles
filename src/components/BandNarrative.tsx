@@ -83,7 +83,7 @@ function StickyPanel({
             <img
               src={stickyImage.src}
               alt={loc(stickyImage.alt, locale)}
-              className="h-full w-full object-cover object-center"
+              className="h-full w-full object-cover object-top"
             />
           </div>
           <figcaption className="mt-2 text-[11px] leading-relaxed text-muted">
@@ -493,7 +493,7 @@ export function BandNarrative({
                       <img
                         src={ch.stickyImage.src}
                         alt={loc(ch.stickyImage.alt, locale)}
-                        className="h-full w-full object-cover object-center"
+                        className="h-full w-full object-cover object-top"
                       />
                     </div>
                     <figcaption className="mt-2 text-xs leading-relaxed text-muted">

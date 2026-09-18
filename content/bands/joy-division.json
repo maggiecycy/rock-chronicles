@@ -105,9 +105,9 @@
     "She's lost control again"
   ],
   "relatedBands": [
+    "new-order",
     "the-clash",
-    "radiohead",
-    "fontaines-dc"
+    "the-cure"
   ],
   "influenceFrom": [],
   "influenced": [
@@ -121,8 +121,8 @@
   },
   "decisive": true,
   "body": {
-    "en": "Joy Division formed in 1976 (briefly as Warsaw) in Salford/Manchester. Factory Records albums with Martin Hannett use spacious drums, Peter Hook’s high melodic bass, Bernard Sumner’s brittle guitar, and Ian Curtis’s baritone.\n\nTransmission (1979), Atmosphere, and Love Will Tear Us Apart (1980) are the usual entry tracks. Curtis died in May 1980; the remaining members continued as New Order.",
-    "zh": "Joy Division 于 1976 年在索尔福德/曼彻斯特成立（曾用名 Warsaw）。与 Martin Hannett 合作的 Factory 专辑使用宽空间鼓点、Peter Hook 高音旋律贝斯、Bernard Sumner 偏脆的吉他，以及 Ian Curtis 的男中音。\n\n《Transmission》（1979）、《Atmosphere》与《Love Will Tear Us Apart》（1980）是常见入口曲。Curtis 于 1980 年 5 月去世；其余成员续为 New Order。"
+    "en": "Manchester post-punk, 1976–1980 (earlier as Warsaw). Ian Curtis, Bernard Sumner, Peter Hook, Stephen Morris. Martin Hannett produced Unknown Pleasures (1979). Curtis died in May 1980 before a US tour and Closer’s release; Love Will Tear Us Apart followed as the best-known single. Three-quarters of the band continued as New Order.",
+    "zh": "曼彻斯特后朋克，1976–1980（早期称 Warsaw）。Ian Curtis、Bernard Sumner、Peter Hook、Stephen Morris。Martin Hannett 制作《Unknown Pleasures》（1979）。Curtis 于 1980 年 5 月在美国巡演与《Closer》发行前去世；《Love Will Tear Us Apart》成为最知名单曲。四分之三成员继续为 New Order。"
   },
   "narrative": [
     {
@@ -132,8 +132,8 @@
         "zh": "贝斯、空间与人声"
       },
       "body": {
-        "en": "Arrangement marks the band: bass often sits above guitar register, drums are gated or spaced in the mix, vocal stays dry and baritone. Catalog is short; citation in goth, post-punk, and indie is high.\n\nThe band ended in 1980; influence rests on that arrangement method.",
-        "zh": "编曲是主要标记：贝斯常高于吉他音区、鼓在混音中经门限或拉开空间、人声偏干的男中音。目录短；哥特、后朋克与 indie 引用高。\n\n乐队于 1980 年结束；影响建立在这套编曲方法上。"
+        "en": "Space, bass, and Curtis’s vocal sit at the center. Hannett’s drum and instrument treatment, Hook later said, put the gloom into the record.",
+        "zh": "空间感、贝斯与 Curtis 的人声是核心。Hook 后来说，Hannett 对鼓与乐器的处理把阴郁写进了唱片。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "post-punk"
@@ -159,8 +159,8 @@
         "zh": "《Love Will Tear Us Apart》"
       },
       "body": {
-        "en": "Hook bass hook, Curtis vocal, mid-tempo pulse under Hannett’s mix. Wider public reach than many album tracks.\n\nPosthumous chart runs are part of the single’s history.",
-        "zh": "Hook 贝斯钩子、Curtis 人声、Hannett 混音下的中速律动。公众面宽过许多专辑曲。\n\n身后上榜是该单曲历史的一部分。"
+        "en": "Love Will Tear Us Apart (1980) remains the single most cited Joy Division track. Closer was finished around Curtis’s death and the cancelled US dates.",
+        "zh": "《Love Will Tear Us Apart》（1980）仍是被引用最多的 Joy Division 单曲。《Closer》完成于 Curtis 去世与取消的美国巡演前后。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
@@ -173,8 +173,8 @@
         "zh": "1980 年之后：New Order"
       },
       "body": {
-        "en": "The same players adopt sequencers and club bass after 1980 as New Order. Melodic high bass and dry vocal remain audible links.\n\nContinuity is personnel and bass role, not the Joy Division name.",
-        "zh": "同一批乐手在 1980 年后以 New Order 采用音序器与俱乐部贝斯。高音旋律贝斯与干人声仍是可闻的联系。\n\n连续的是人事与贝斯角色，而非 Joy Division 之名。"
+        "en": "The book compares the doubt after Curtis to The Doors after Morrison. Sumner took vocals; Gillian Gilbert added keys. New Order’s singles path (Temptation, Blue Monday) sits on the same Factory/Saville visual world and the Hacienda club.",
+        "zh": "书中把 Curtis 去世后的不确定，比作 Morrison 离开后的 The Doors。Sumner 改主唱；Gillian Gilbert 加入键盘。New Order 的单曲线（《Temptation》《Blue Monday》）仍在 Factory／Saville 视觉与 Hacienda 俱乐部同一语境里。"
       },
       "stickyVisual": "dna",
       "soundGenre": "post-punk"

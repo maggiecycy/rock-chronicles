@@ -25,7 +25,7 @@ export function EntityHeroImage({
         src={image.src}
         alt={loc(image.alt, locale)}
         fill
-        className="object-cover object-center transition-opacity hover:opacity-95"
+        className="object-cover object-top transition-opacity hover:opacity-95"
         sizes={
           variant === "portrait"
             ? "(max-width: 640px) 100vw, 24rem"

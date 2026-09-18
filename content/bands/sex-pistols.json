@@ -9,8 +9,8 @@
   ],
   "decisive": true,
   "whyMatters": {
-    "en": "London punk band formed in 1975. EMI and Virgin singles plus Never Mind the Bollocks (1977) set a short UK punk reference: high-gain power chords, straight drums, and Lydon’s spoken-sung vocal.",
-    "zh": "伦敦朋克乐队，1975 年成立。EMI、Virgin 单曲与《Never Mind the Bollocks》（1977）构成英国朋克的短参考：高增益强力和弦、直线鼓点，以及 Lydon 的说唱式人声。"
+    "en": "London punk band, 1975–1978. EMI and A&M deals collapsed within months; Virgin issued Anarchy-era material. Never Mind the Bollocks and the Winterland close remain core UK punk reference points.",
+    "zh": "伦敦朋克乐队，1975–1978。EMI 与 A&M 合约数月内破裂；Virgin 发行 Anarchy 时期作品。《Never Mind the Bollocks》与 Winterland 终场仍是英国朋克的核心参考。"
   },
   "members": [
     {
@@ -153,8 +153,8 @@
     "zh": "伦敦朋克，1975–78。Rotten、Jones、Cook；贝斯先后为 Matlock 与 Vicious。《Anarchy in the U.K.》与《Never Mind the Bollocks》是主要参照。"
   },
   "body": {
-    "en": "Sex Pistols formed in London in 1975. The sound centers on Steve Jones’s high-gain power chords, Paul Cook’s straight drums, and Johnny Rotten’s (John Lydon) spoken-sung vocal. Glen Matlock co-wrote early singles; Sid Vicious replaced him on bass in 1977.\n\nEMI released Anarchy in the U.K. (1976). Virgin issued God Save the Queen, Pretty Vacant, and Holidays in the Sun (1977). Never Mind the Bollocks, Here’s the Sex Pistols (1977) is the only studio album. The band ended after the January 1978 Winterland show in San Francisco. Lydon later formed Public Image Ltd.",
-    "zh": "Sex Pistols 于 1975 年在伦敦成立。声音核心是 Steve Jones 的高增益强力和弦、Paul Cook 的直线鼓点，以及 Johnny Rotten（John Lydon）的说唱式人声。Glen Matlock 参与早期单曲写作；1977 年 Sid Vicious 接替贝斯。\n\nEMI 发行《Anarchy in the U.K.》（1976）。Virgin 发行《God Save the Queen》《Pretty Vacant》《Holidays in the Sun》（1977）。《Never Mind the Bollocks, Here’s the Sex Pistols》（1977）是唯一录音室专辑。乐队在 1978 年 1 月旧金山 Winterland 演出后结束。Lydon 随后组建 Public Image Ltd。"
+    "en": "London punk band, active mainly 1975–1978. Manager Malcolm McLaren had briefly worked with the New York Dolls; Johnny Rotten (John Lydon) joined after walking into the McLaren–Westwood shop in a self-altered Pink Floyd “I hate” T-shirt. Glen Matlock left in 1977; Sid Vicious replaced him. Never Mind the Bollocks Here’s the Sex Pistols (1977) reached UK #1. The US tour ended at Winterland, San Francisco, with a Stooges cover of No Fun.",
+    "zh": "伦敦朋克乐队，主要活跃于 1975–1978。经纪人 Malcolm McLaren 曾短暂管理 New York Dolls；Johnny Rotten（John Lydon）穿着自制“我讨厌”字样的 Pink Floyd T 恤走进 McLaren 与 Vivienne Westwood 的店后加入。1977 年 Glen Matlock 离队，Sid Vicious 接替。专辑《Never Mind the Bollocks Here’s the Sex Pistols》（1977）登上英国榜冠军。美国巡演收束于旧金山 Winterland，以 Stooges 翻唱《No Fun》收场。"
   },
   "narrative": [
     {
@@ -164,8 +164,8 @@
         "zh": "短目录，1976–77"
       },
       "body": {
-        "en": "The main records fall in 1976–77: EMI and Virgin singles, then Never Mind the Bollocks. Faster tempos, few solos, and Lydon’s sneering vocal mark the sound.\n\nPress coverage was heavy; the songs themselves stay short and playable.",
-        "zh": "主要唱片集中在 1976–77：EMI 与 Virgin 单曲，以及《Never Mind the Bollocks》。更快的速度、很少独奏，以及 Lydon 带嘲讽的人声是声音标记。\n\n媒体报道很多；歌曲本身仍短、可弹。"
+        "en": "Short catalog, 1976–77: high-gain power chords, straight drums, Lydon’s spoken-sung vocal.\n\nMcLaren’s shop circuit and the Pink Floyd T-shirt story sit at the start; EMI then A&M signed and dropped the band within months before Virgin.",
+        "zh": "目录很短，集中在 1976–77：高增益强力和弦、直线鼓点、Lydon 的说唱式人声。\n\n起点包括 McLaren 的店铺网络与 Pink Floyd T 恤；EMI、A&M 先后签约又解雇，随后才到 Virgin。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "punk"
@@ -177,11 +177,21 @@
         "zh": "Matlock 与 Vicious"
       },
       "body": {
-        "en": "Glen Matlock co-wrote early singles including Anarchy in the U.K. Sid Vicious joined on bass in 1977. Steve Jones and Paul Cook stayed on guitar and drums.\n\nOn several studio tracks Jones also covered bass parts.",
-        "zh": "Glen Matlock 参与早期单曲写作，包括《Anarchy in the U.K.》。Sid Vicious 于 1977 年加入贝斯。Steve Jones 与 Paul Cook 留在吉他与鼓。\n\n若干录音轨上贝斯也由 Jones 顶替。"
+        "en": "Matlock wrote early material and left in 1977. The book repeats the Abba/Beatles liking story as the public reason.\n\nVicious joined; Lemmy (Motörhead) later said Vicious had little bass skill. Jones covered bass on many later recordings.",
+        "zh": "Matlock 写了早期作品，1977 年离队。书中沿用“喜欢 Abba 与 Beatles”这一公开说法。\n\nVicious 加入；Lemmy（Motörhead）后来说 Vicious 几乎不会弹贝斯。后期许多录音的贝斯由 Jones 完成。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "punk"
+      "soundGenre": "punk",
+      "stickyImage": {
+        "src": "/media/bands/sex-pistols-rotten-paradiso.jpg",
+        "alt": {
+          "en": "Johnny Rotten with Sex Pistols at Paradiso, Amsterdam, 1977",
+          "zh": "Johnny Rotten 与 Sex Pistols，阿姆斯特丹 Paradiso，1977"
+        },
+        "credit": "Anefo / Nationaal Archief",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sex_Pistols_in_Paradiso_-_Johnny_Rotten_1.jpg"
+      }
     },
     {
       "id": "anarchy",
@@ -190,8 +200,8 @@
         "zh": "《Anarchy in the U.K.》"
       },
       "body": {
-        "en": "EMI released the single in 1976; the label relationship ended soon after. Jones’s guitar is high-gain and dense; Lydon’s vocal is spoken-sung.\n\nShort-song timing recalls Ramones; the lyric address is British.",
-        "zh": "EMI 于 1976 年发行该单曲，随后与厂牌关系破裂。Jones 吉他高增益、密集；Lydon 人声为说唱式。\n\n短歌时值接近 Ramones；歌词内容是英国本土的。"
+        "en": "Anarchy in the U.K. (1976) became the early flag. EMI and A&M deals collapsed inside half a year; the song EMI names both labels.\n\nNever Mind the Bollocks (1977) hit UK album #1 after court and press panic around the sleeve. God Save the Queen was pushed off the singles top spot by Rod Stewart’s I Don’t Want to Talk About It—Jones later said Stewart’s album was the first record he bought.",
+        "zh": "《Anarchy in the U.K.》（1976）是早期标志。EMI 与 A&M 合约半年内破裂；歌曲《EMI》点名两家厂牌。\n\n《Never Mind the Bollocks》（1977）在封面争议与诉讼之后登上英国专辑榜冠军。《God Save the Queen》被 Rod Stewart 的《I Don’t Want to Talk About It》挤下单曲榜首位——Jones 后来说 Stewart 的专辑是他买的第一张唱片。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
@@ -217,12 +227,22 @@
         "zh": "媒体句与 Winterland 收场"
       },
       "body": {
-        "en": "Early press used the line “We're not into music. We're into chaos.” At the 1978 Winterland show Lydon asked, “Ever get the feeling you've been cheated?”\n\nThe US tour ended there; the band did not continue as a studio unit.",
-        "zh": "早期媒体常用句：「We're not into music. We're into chaos.」1978 年 Winterland 演出上，Lydon 问：「Ever get the feeling you've been cheated?」\n\n美国巡演至此结束；乐队未再以录音室编制继续。"
+        "en": "US Midwest and South dates met hostility. At Winterland, San Francisco, the last US show closed on a Stooges cover of No Fun. Rotten asked the crowd if they’d been cheated.\n\nRotten formed PiL; Cook and Jones formed The Professionals. Vicious died in 1979. 1996 Filthy Lucre Live reunited Lydon, Jones, Cook, and Matlock.",
+        "zh": "美国中西部与南部场次敌意很重。旧金山 Winterland 的美国末场以 Stooges 翻唱《No Fun》收束；Rotten 问观众是否感到被骗。\n\nRotten 组建 PiL；Cook 与 Jones 组建 The Professionals。Vicious 于 1979 年去世。1996 年《Filthy Lucre Live》由 Lydon、Jones、Cook 与 Matlock 重组巡演录成。"
       },
       "stickyVisual": "quote",
       "quoteIndex": 1,
-      "soundGenre": "punk"
+      "soundGenre": "punk",
+      "stickyImage": {
+        "src": "/media/bands/sex-pistols-paradiso-1977.jpg",
+        "alt": {
+          "en": "Sex Pistols at Paradiso, Amsterdam, 1977",
+          "zh": "Sex Pistols，阿姆斯特丹 Paradiso，1977"
+        },
+        "credit": "Anefo / Nationaal Archief",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sex_Pistols_in_Paradiso.jpg"
+      }
     },
     {
       "id": "legacy",
@@ -231,8 +251,8 @@
         "zh": "与 The Clash 并列的引用"
       },
       "body": {
-        "en": "The Clash built a longer album catalog with reggae and political writing. Sex Pistols left a shorter set of singles and one studio album. Later UK punk and hardcore often cite the tempo and attitude.\n\nCatalog is short; citation lists stay long.",
-        "zh": "The Clash 留下更长的专辑目录，并写入雷鬼与政治题材。Sex Pistols 留下较短的单曲系列与一张录音室专辑。后来的英国朋克与 hardcore 常引用其速度与态度。\n\n目录短；引用列表长。"
+        "en": "Often paired with The Clash as the two best-known UK punk bands of 1976–77. Ramones’ 1976 UK visit is cited in the book as one spark Pistols members watched.",
+        "zh": "书中常把他们与 The Clash 并列，视为 1976–77 英国最知名的两支朋克乐队。Ramones 1976 年英国巡演也被记为 Pistols 成员看过的现场之一。"
       },
       "stickyVisual": "influence",
       "soundGenre": "punk"
@@ -246,7 +266,6 @@
         "zh": "Matlock 时期"
       },
       "years": "1975–1977",
-      "peak": true,
       "members": [
         {
           "name": "Johnny Rotten",
@@ -270,8 +289,8 @@
         }
       ],
       "note": {
-        "en": "Early singles writing; bass on Anarchy in the U.K.",
-        "zh": "早期单曲写作；《Anarchy in the U.K.》时期贝斯。"
+        "en": "Jones and Cook started earlier; Matlock joined mid-1970s. McLaren’s New York Dolls management fed the project. Book notes Matlock was dismissed amid claims he liked Abba and The Beatles.",
+        "zh": "Jones 与 Cook 更早成组；Matlock 于 1970 年代中加入。McLaren 管理 New York Dolls 的经历影响了这支乐队。书中写 Matlock 离队的说法之一是他喜欢 Abba 与 The Beatles。"
       }
     },
     {
@@ -289,7 +308,7 @@
         },
         {
           "name": "Steve Jones",
-          "role": "Guitar",
+          "role": "Guitar (bass on some sessions)",
           "personSlug": "steve-jones"
         },
         {
@@ -304,8 +323,8 @@
         }
       ],
       "note": {
-        "en": "Bass seat 1977–78; Jones often plays bass on record.",
-        "zh": "1977–78 贝斯席；唱片上贝斯常由 Jones 演奏。"
+        "en": "Motörhead’s Lemmy tried to teach Vicious bass. Jones often played bass on post-Matlock recordings.",
+        "zh": "Motörhead 的 Lemmy 曾尝试教 Vicious 弹贝斯。Matlock 离队后的录音里，贝斯常由 Jones 完成。"
       }
     }
   ],

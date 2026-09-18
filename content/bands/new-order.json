@@ -30,7 +30,17 @@
     {
       "name": "Gillian Gilbert",
       "role": "Keyboards, Guitar",
-      "years": "1981–present"
+      "years": "1980–2001; 2011–present"
+    },
+    {
+      "name": "Phil Cunningham",
+      "role": "Guitar, Keys",
+      "years": "2001–present"
+    },
+    {
+      "name": "Tom Chapman",
+      "role": "Bass",
+      "years": "2011–present"
     }
   ],
   "essentialTracks": [
@@ -57,6 +67,7 @@
   ],
   "relatedBands": [
     "joy-division",
+    "the-smiths",
     "depeche-mode"
   ],
   "influenceFrom": [
@@ -71,8 +82,8 @@
     "zh": "曼彻斯特，1980 年至今。Sumner、Hook、Morris，加 Gillian Gilbert 键盘。《Blue Monday》与《Power, Corruption & Lies》是主要参照。"
   },
   "body": {
-    "en": "New Order formed in Manchester in 1980 after Ian Curtis’s death, with Bernard Sumner, Peter Hook, and Stephen Morris from Joy Division. Gillian Gilbert joined on keyboards. Early Factory singles and Power, Corruption & Lies (1983) combine sequenced bass, Hook’s high melodic basslines, and Sumner’s dry vocal.\n\nBlue Monday (1983) uses Oberheim DMX and sequenced parts and became a major 12-inch seller. Later albums through Technique (1989) keep song form while adding more programmed grooves. Hook left in 2007; Sumner, Morris, and Gilbert continued.",
-    "zh": "New Order 于 1980 年在曼彻斯特成立，成员为 Joy Division 余下的 Bernard Sumner、Peter Hook、Stephen Morris。Gillian Gilbert 加入键盘。早期 Factory 单曲与《Power, Corruption & Lies》（1983）结合音序低音、Hook 高音旋律贝斯与 Sumner 的干人声。\n\n《Blue Monday》（1983）使用 Oberheim DMX 与音序部分，成为重要的 12 寸畅销单曲。至《Technique》（1989）仍保留歌曲形式，并加入更多程序化律动。Hook 于 2007 年离队；Sumner、Morris、Gilbert 继续。"
+    "en": "Formed 1980 from Joy Division after Ian Curtis’s death: Sumner, Hook, Morris, plus Gillian Gilbert on keys. Factory Records, Peter Saville sleeves, and the Hacienda club framed the 1980s. Blue Monday became the best-selling UK 12-inch. Electronic (Sumner with Johnny Marr of The Smiths) and other side projects ran beside the albums.",
+    "zh": "1980 年由 Joy Division 在 Ian Curtis 去世后重组：Sumner、Hook、Morris，加上键盘手 Gillian Gilbert。Factory、Peter Saville 封面与 Hacienda 俱乐部构成 1980 年代背景。《Blue Monday》成为英国史上最畅销的 12 英寸单曲。Sumner 与 The Smiths 的 Johnny Marr 的 Electronic 等分支与专辑并行。"
   },
   "whyMatters": {
     "en": "Manchester band formed in 1980 from Joy Division’s remaining members, plus Gillian Gilbert. From Movement (1981) through Technique (1989): sequencers, drum machines, and Hook’s high bass over Sumner’s dry vocal.",
@@ -143,11 +154,21 @@
         "zh": "从 Joy Division 到 New Order"
       },
       "body": {
-        "en": "Remaining Joy Division members rename after Curtis’s May 1980 death. Ceremony (1981) sets a Curtis lyric to new music. Movement (1981) stays close to Joy Division’s monochrome sound; Gillian Gilbert joins on keys.\n\nSumner moves to frontman and guitar; Hook’s bass stays high on the neck and melodic.",
-        "zh": "Joy Division 余部在 Curtis 1980 年 5 月去世后改名。《Ceremony》（1981）为 Curtis 歌词配新曲。《Movement》（1981）贴近 Joy Division 的单色声音；Gillian Gilbert 加入键盘。\n\nSumner 转主唱与吉他；Hook 贝斯仍在高把位、偏旋律。"
+        "en": "Bass often carries the melody instead of only the root. Blue Monday (1983) set a 12-inch sales mark in the UK and sits beside Joy Division’s Love Will Tear Us Apart as the catalog’s twin landmarks.",
+        "zh": "贝斯常负责旋律而不只是根音。《Blue Monday》（1983）刷新英国 12 英寸销量纪录，与 Joy Division 的《Love Will Tear Us Apart》并列成为曲库两座坐标。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "post-punk"
+      "soundGenre": "post-punk",
+      "stickyImage": {
+        "src": "/media/bands/new-order-sfx-dublin-1983.jpg",
+        "alt": {
+          "en": "New Order at SFX, Dublin, 1983",
+          "zh": "New Order，都柏林 SFX，1983"
+        },
+        "credit": "Luke Brehony",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2._New_Order_playing_SFX_Dublin_1983.jpg"
+      }
     },
     {
       "id": "lineup-versions",
@@ -169,8 +190,8 @@
         "zh": "Technique 与 Hook 离队"
       },
       "body": {
-        "en": "Technique (1989) was partly recorded in Ibiza; True Faith and Fine Time add more house-adjacent programming.\n\nHook’s high, melodic, chorus-heavy bass marks the band’s sound for about 27 years. He exits in 2007; Sumner, Morris, and Gilbert continue.",
-        "zh": "《Technique》（1989）部分在 Ibiza 录音；《True Faith》与《Fine Time》加入更多接近 house 的程序化写法。\n\nHook 高音、旋律、多 chorus 的贝斯标记乐队约 27 年。他于 2007 年离队；Sumner、Morris、Gilbert 继续。"
+        "en": "Cross-band threads in the book: Marr/Smiths via Electronic; Pet Shop Boys; Kraftwerk’s Bartos; Smashing Pumpkins’ Corgan on the Get Ready return; comparison to The Doors’ post-Morrison doubt at the Joy Division → New Order handoff.",
+        "zh": "书中的跨乐队线索：经 Electronic 连到 Marr／Smiths；Pet Shop Boys；Kraftwerk 的 Bartos；《Get Ready》回归时的 Billy Corgan；Joy Division → New Order 交接处对标 The Doors 在 Morrison 之后的不确定。"
       },
       "stickyVisual": "influence",
       "soundGenre": "post-punk"
@@ -234,13 +255,12 @@
   ],
   "lineupVersions": [
     {
-      "id": "peak",
+      "id": "classic-80s",
       "label": {
-        "en": "Classic four with Gilbert",
-        "zh": "含 Gilbert 的经典四人"
+        "en": "Classic four",
+        "zh": "经典四人"
       },
       "years": "1980–2001",
-      "peak": true,
       "members": [
         {
           "name": "Bernard Sumner",
@@ -262,8 +282,43 @@
         }
       ],
       "note": {
-        "en": "Gilbert on keys; Hook high bass; Factory dance-rock period.",
-        "zh": "Gilbert 键盘；Hook 高音贝斯；Factory 舞曲摇滚时期。"
+        "en": "Movement (1981) then Temptation / Blue Monday. Power, Corruption & Lies through Technique. Hook → Revenge; Gilbert/Morris → The Other Two; Sumner + Marr → Electronic (also worked with Pet Shop Boys and Kraftwerk’s Karl Bartos).",
+        "zh": "《Movement》（1981）之后是《Temptation》《Blue Monday》。《Power, Corruption & Lies》到《Technique》。Hook → Revenge；Gilbert/Morris → The Other Two；Sumner + Marr → Electronic（并与 Pet Shop Boys、Kraftwerk 的 Karl Bartos 合作）。"
+      }
+    },
+    {
+      "id": "post-hook",
+      "label": {
+        "en": "Without Hook",
+        "zh": "Hook 缺席"
+      },
+      "years": "2011–present",
+      "members": [
+        {
+          "name": "Bernard Sumner",
+          "role": "Vocals, Guitar",
+          "personSlug": "bernard-sumner"
+        },
+        {
+          "name": "Stephen Morris",
+          "role": "Drums"
+        },
+        {
+          "name": "Gillian Gilbert",
+          "role": "Keys"
+        },
+        {
+          "name": "Phil Cunningham",
+          "role": "Guitar, Keys"
+        },
+        {
+          "name": "Tom Chapman",
+          "role": "Bass"
+        }
+      ],
+      "note": {
+        "en": "Phil Cunningham (ex-Marion) replaced Gilbert for Get Ready-era work with Billy Corgan’s support; Hook left; 2011 return without Hook, Gilbert back, Chapman on bass.",
+        "zh": "Phil Cunningham（前 Marion）在《Get Ready》时期接替 Gilbert，录音与巡演有 Billy Corgan 支持；Hook 离开；2011 年 Hook 缺席回归，Gilbert 回来，Chapman 弹贝斯。"
       }
     }
   ],

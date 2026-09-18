@@ -12,8 +12,8 @@
     "post-punk"
   ],
   "whyMatters": {
-    "en": "London punk band formed in 1976. Early CBS singles stay fast; London Calling (1979) and later albums add reggae, rockabilly, and longer songwriting.",
-    "zh": "伦敦朋克乐队，1976 年成立。早期 CBS 单曲偏快；《London Calling》（1979）及后续专辑加入雷鬼、rockabilly 与更长的写歌幅度。"
+    "en": "London punk band, 1976–1986. With Sex Pistols they mark early UK punk; London Calling and Combat Rock widen the writing into reggae and rockabilly.",
+    "zh": "伦敦朋克乐队，1976–1986。与 Sex Pistols 同为早期英国朋克代表；《London Calling》与《Combat Rock》把写法扩到雷鬼与 rockabilly。"
   },
   "members": [
     {
@@ -36,6 +36,36 @@
       "name": "Topper Headon",
       "role": "Drums",
       "years": "1977–1982"
+    },
+    {
+      "name": "Terry Chimes",
+      "role": "Drums",
+      "years": "1976–1977; 1982–1983"
+    },
+    {
+      "name": "Keith Levene",
+      "role": "Guitar",
+      "years": "1976"
+    },
+    {
+      "name": "Rob Harper",
+      "role": "Drums",
+      "years": "1976"
+    },
+    {
+      "name": "Nick Sheppard",
+      "role": "Guitar",
+      "years": "1983–1986"
+    },
+    {
+      "name": "Vince White",
+      "role": "Guitar",
+      "years": "1983–1986"
+    },
+    {
+      "name": "Pete Howard",
+      "role": "Drums",
+      "years": "1983–1986"
     }
   ],
   "essentialTracks": [
@@ -110,6 +140,7 @@
     "Should I stay or should I go?"
   ],
   "relatedBands": [
+    "sex-pistols",
     "joy-division",
     "the-strokes"
   ],
@@ -127,8 +158,8 @@
   },
   "decisive": true,
   "body": {
-    "en": "The Clash formed in London in 1976. Early CBS singles and the debut The Clash (1977) are fast punk. Give ’Em Enough Rope (1978) and London Calling (1979) widen styles; Sandinista! (1980) is a long triple set; Combat Rock (1982) yields radio hits including Should I Stay or Should I Go.\n\nJoe Strummer and Mick Jones handle most vocals and writing; Paul Simonon on bass; Topper Headon on drums for the classic years. The catalog runs longer than Sex Pistols and mixes reggae, rockabilly, and reportage lyrics with punk tempos.",
-    "zh": "The Clash 于 1976 年在伦敦成立。早期 CBS 单曲与首专《The Clash》（1977）是快朋克。《Give ’Em Enough Rope》（1978）与《London Calling》（1979）扩展风格；《Sandinista!》（1980）是长篇三碟；《Combat Rock》（1982）交出电台热单，包括《Should I Stay or Should I Go》。\n\nJoe Strummer 与 Mick Jones 负责主要人声与写作；Paul Simonon 贝斯；经典年鼓手为 Topper Headon。目录长过 Sex Pistols，并在朋克速度上混入雷鬼、rockabilly 与报道式歌词。"
+    "en": "London punk band, 1976–1986. Bernie Rhodes brought Paul Simonon to Mick Jones and recruited Joe Strummer from The 101’ers. Early support slots for Sex Pistols; Keith Levene soon left and later joined Public Image Ltd. Topper Headon settled the classic drums seat. London Calling (1979, Guy Stevens) and Combat Rock (1982) are the widest-heard albums.",
+    "zh": "伦敦朋克乐队，1976–1986。Bernie Rhodes 把 Paul Simonon 带到 Mick Jones 身边，并请来 The 101’ers 的 Joe Strummer。早期为 Sex Pistols 暖场；Keith Levene 很快离队，后加入 Public Image Ltd。Topper Headon 固定鼓位。《London Calling》（1979，Guy Stevens 制作）与《Combat Rock》（1982）是流传最广的专辑。"
   },
   "narrative": [
     {
@@ -138,8 +169,8 @@
         "zh": "朋克与其他风格"
       },
       "body": {
-        "en": "The Clash keep punk tempos and three-chord writing, then add reggae riddims, piano rockers, and longer album structures.\n\nThat mix sits inside the late-1970s London punk generation rather than outside it.",
-        "zh": "The Clash 保留朋克速度与三和弦写法，再加入雷鬼 riddim、钢琴摇滚与更长的专辑结构。\n\n这种混搭仍在 1970 年代末伦敦朋克一代内部。"
+        "en": "Pete Townshend is quoted in the book: hearing The Clash felt like hearing life, and getting strength to face it.\n\n1976 UK punk made Clash and Sex Pistols the two best-known names.",
+        "zh": "书中引 Pete Townshend：听 The Clash 像听到人生，并得到面对人生的力量。\n\n1976 年英国朋克里，Clash 与 Sex Pistols 是最知名的两支。"
       },
       "stickyVisual": "thesis",
       "soundGenre": "punk"
@@ -165,25 +196,45 @@
         "zh": "《Should I Stay or Should I Go》"
       },
       "body": {
-        "en": "From Combat Rock (1982): short chord cycle, call-and-response vocal. It reached wider radio play than many earlier tracks.\n\nStraight to Hell from the same album shows the slower, reportage side.",
-        "zh": "出自《Combat Rock》（1982）：短和弦循环、呼应人声。电台播放面宽过许多早期曲目。\n\n同专《Straight to Hell》则是较慢、报道式的一面。"
+        "en": "Combat Rock (1982) became the biggest seller, with Rock the Casbah and Should I Stay or Should I Go—the latter the band’s only US #1 single. Jones said the song concerned his relationship with Ellen Foley.",
+        "zh": "《Combat Rock》（1982）成为销量最高的专辑，含《Rock the Casbah》与《Should I Stay or Should I Go》——后者是乐队唯一美国冠军单曲。Jones 说这首歌与他和 Ellen Foley 的感情有关。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
-      "soundGenre": "punk"
+      "soundGenre": "punk",
+      "stickyImage": {
+        "src": "/media/bands/the-clash-san-diego-1982.jpg",
+        "alt": {
+          "en": "The Clash in San Diego, 1982",
+          "zh": "The Clash，圣迭戈，1982"
+        },
+        "credit": "via Wikimedia Commons",
+        "license": "CC BY-SA",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Clash_in_San_Diego,_1982.jpg"
+      }
     },
     {
       "id": "dna",
       "title": {
-        "en": "Politics and style mix",
-        "zh": "政治与风格混搭"
+        "en": "Lineup, PiL, and producers",
+        "zh": "编制、PiL 与制作人"
       },
       "body": {
-        "en": "Later political punk and indie bands cite the permission to mix reggae, funk, and rockabilly with punk. Strummer–Jones writing tensions are part of the documented personnel history.\n\nThe method is curiosity under short song forms, not one fixed tempo.",
-        "zh": "后来政治朋克与 indie 常引用其把雷鬼、funk、rockabilly 与朋克混写的做法。Strummer 与 Jones 的写作张力属有文献的人事史。\n\n方法是短歌形式下的风格好奇，而非单一固定速度。"
+        "en": "Strummer came from The 101’ers. Levene’s exit path led to Public Image Ltd with Lydon.\n\nPearlman (Blue Öyster Cult) and Stevens (Mott the Hoople) mark the late-1970s studio steps. After Headon’s firing and Jones’s exit, the late lineup cut Cut the Crap and stopped in 1986. Strummer died in 2002.",
+        "zh": "Strummer 来自 The 101’ers。Levene 离队后与 Lydon 进入 Public Image Ltd。\n\nPearlman（Blue Öyster Cult）与 Stevens（Mott the Hoople）对应 1970 年代末的制作节点。Headon 被解雇、Jones 离队后，晚期阵容录制《Cut the Crap》，1986 年停止。Strummer 于 2002 年去世。"
       },
       "stickyVisual": "dna",
-      "soundGenre": "punk"
+      "soundGenre": "punk",
+      "stickyImage": {
+        "src": "/media/bands/the-clash-mick-jones-1978.jpg",
+        "alt": {
+          "en": "Mick Jones of The Clash, 1978",
+          "zh": "The Clash 的 Mick Jones，1978"
+        },
+        "credit": "via Wikimedia Commons",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mick_Jones_of_the_Clash,_1978.jpg"
+      }
     },
     {
       "id": "quote",
@@ -220,13 +271,47 @@
   },
   "lineupVersions": [
     {
+      "id": "early-1976",
+      "label": {
+        "en": "1976 formation",
+        "zh": "1976 组建"
+      },
+      "years": "1976",
+      "members": [
+        {
+          "name": "Joe Strummer",
+          "role": "Vocals, Guitar",
+          "personSlug": "joe-strummer"
+        },
+        {
+          "name": "Mick Jones",
+          "role": "Guitar, Vocals"
+        },
+        {
+          "name": "Paul Simonon",
+          "role": "Bass"
+        },
+        {
+          "name": "Keith Levene",
+          "role": "Guitar"
+        },
+        {
+          "name": "Terry Chimes",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Levene was dismissed early; he later joined John Lydon’s Public Image Ltd. Chimes disliked spit-and-bottle gigs; Rob Harper briefly covered drums before Chimes returned for the debut LP, then Headon took over.",
+        "zh": "Levene 早期被解雇，后加入 John Lydon 的 Public Image Ltd。Chimes 不喜欢吐痰扔瓶子的现场；Rob Harper 短暂顶鼓，首张 LP 时 Chimes 又回来帮忙，随后由 Headon 接任。"
+      }
+    },
+    {
       "id": "peak",
       "label": {
         "en": "Classic four",
-        "zh": "经典四人组"
+        "zh": "经典四人"
       },
       "years": "1977–1982",
-      "peak": true,
       "members": [
         {
           "name": "Joe Strummer",
@@ -247,8 +332,43 @@
         }
       ],
       "note": {
-        "en": "Strummer/Jones writing; reggae and funk appear on mid-period albums.",
-        "zh": "Strummer/Jones 写作；中期专辑出现雷鬼与 funk。"
+        "en": "Give ’Em Enough Rope: Sandy Pearlman (Blue Öyster Cult). London Calling: Guy Stevens (early Mott the Hoople). Headon fired April 1982 over heroin; Chimes returned for Combat Rock.",
+        "zh": "《Give ’Em Enough Rope》由 Sandy Pearlman（Blue Öyster Cult）制作。《London Calling》由 Guy Stevens（Mott the Hoople 早期）制作。1982 年 4 月 Headon 因海洛因被解雇；Chimes 回归参与《Combat Rock》。"
+      }
+    },
+    {
+      "id": "late",
+      "label": {
+        "en": "Post-Jones",
+        "zh": "Jones 离队后"
+      },
+      "years": "1983–1986",
+      "members": [
+        {
+          "name": "Joe Strummer",
+          "role": "Vocals, Guitar",
+          "personSlug": "joe-strummer"
+        },
+        {
+          "name": "Paul Simonon",
+          "role": "Bass"
+        },
+        {
+          "name": "Nick Sheppard",
+          "role": "Guitar"
+        },
+        {
+          "name": "Vince White",
+          "role": "Guitar"
+        },
+        {
+          "name": "Pete Howard",
+          "role": "Drums"
+        }
+      ],
+      "note": {
+        "en": "Jones left 1983 → General Public, then Big Audio Dynamite. Cut the Crap (1985) was the last studio album; the band dissolved in 1986.",
+        "zh": "Jones 于 1983 年离队，先后加入 General Public、成立 Big Audio Dynamite。《Cut the Crap》（1985）是最后一张录音室专辑；1986 年解散。"
       }
     }
   ]

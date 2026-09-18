@@ -115,7 +115,7 @@
       "stickyVisual": "thesis",
       "soundGenre": "rock-n-roll",
       "stickyImage": {
-        "src": "/media/bands/chuck-berry-circa-1958.jpg",
+        "src": "/media/bands/chuck-berry-1958-face.jpg",
         "alt": {
           "en": "Chuck Berry publicity photo, circa 1958",
           "zh": "Chuck Berry 宣传照，约 1958"
@@ -139,14 +139,14 @@
       "sceneIndex": 0,
       "soundGenre": "rock-n-roll",
       "stickyImage": {
-        "src": "/media/bands/chuck-berry-maybellene-ad-1955.jpg",
+        "src": "/media/bands/chuck-berry-1958-closeup.jpg",
         "alt": {
-          "en": "Billboard magazine ad for Chuck Berry’s Maybellene, 1955",
-          "zh": "Chuck Berry《Maybellene》Billboard 广告，1955"
+          "en": "Chuck Berry, circa 1958 — era of Maybellene and Chess singles",
+          "zh": "Chuck Berry，约 1958——《Maybellene》与 Chess 单曲时期"
         },
-        "credit": "Chess Records / Billboard",
+        "credit": "Pickwick Records",
         "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maybellene_-_Billboard_ad_1955.jpg"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chuck_Berry_circa_1958.jpg"
       }
     },
     {
@@ -163,14 +163,14 @@
       "sceneIndex": 1,
       "soundGenre": "rock-n-roll",
       "stickyImage": {
-        "src": "/media/bands/chuck-berry-johnny-b-goode-single.png",
+        "src": "/media/bands/chuck-berry-1971-face.jpg",
         "alt": {
-          "en": "US Chess single label for Johnny B. Goode",
-          "zh": "《Johnny B. Goode》美国 Chess 单曲标签"
+          "en": "Chuck Berry performing, 1971",
+          "zh": "Chuck Berry 舞台演出，1971"
         },
-        "credit": "Chess Records",
+        "credit": "1950s Rock & Roll Revival promotional photo",
         "license": "Public domain",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Johnny_B_Goode_by_Chuck_Berry_US_single_side-A.png"
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chuck_Berry_1971.jpg"
       }
     },
     {
@@ -186,10 +186,10 @@
       "stickyVisual": "dna",
       "soundGenre": "rock-n-roll",
       "stickyImage": {
-        "src": "/media/bands/chuck-berry-circa-1958.jpg",
+        "src": "/media/bands/chuck-berry-1958-stage.jpg",
         "alt": {
-          "en": "Chuck Berry, circa 1958 — repertoire later covered in Britain",
-          "zh": "Chuck Berry，约 1958——其曲目后来被英国乐队翻唱"
+          "en": "Chuck Berry with Gibson, circa 1958",
+          "zh": "Chuck Berry 与 Gibson，约 1958"
         },
         "credit": "Pickwick Records",
         "license": "Public domain",
@@ -210,10 +210,10 @@
       "quoteIndex": 0,
       "soundGenre": "rock-n-roll",
       "stickyImage": {
-        "src": "/media/bands/chuck-berry-1971-live.jpg",
+        "src": "/media/bands/chuck-berry-1971-guitar.jpg",
         "alt": {
-          "en": "Chuck Berry performing, 1971",
-          "zh": "Chuck Berry 舞台演出，1971"
+          "en": "Chuck Berry on stage, 1971",
+          "zh": "Chuck Berry 舞台，1971"
         },
         "credit": "1950s Rock & Roll Revival promotional photo",
         "license": "Public domain",
