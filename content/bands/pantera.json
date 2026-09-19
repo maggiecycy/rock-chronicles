@@ -33,6 +33,16 @@
       "name": "Vinnie Paul",
       "role": "Drums",
       "years": "1981–2003"
+    },
+    {
+      "name": "Donnie Hart",
+      "role": "Vocals",
+      "years": "early 1980s"
+    },
+    {
+      "name": "Terry Glaze",
+      "role": "Vocals",
+      "years": "1981–1987"
     }
   ],
   "essentialTracks": [
@@ -64,7 +74,9 @@
   "relatedBands": [
     "metallica",
     "slayer",
-    "megadeth"
+    "megadeth",
+    "kiss",
+    "black-sabbath"
   ],
   "influenceFrom": [
     "slayer",
@@ -80,8 +92,8 @@
     "zh": "Dimebag / Anselmo 的 groove metal；Walk 是中速掌闷参照。"
   },
   "body": {
-    "en": "Formed in 1981 in Arlington, Texas (early glam albums exist). Cowboys from Hell (1990) onward is the relevant era—Dimebag Darrell's pinched harmonics, Rex Brown's bass, Vinnie Paul's clicky kick, Phil Anselmo's bark.\n\nWalk (1992) centers groove over speed. They shift US metal away from thrash racing toward stalled, palm-muted riffs that nu-metal and metalcore later inherit.",
-    "zh": "1981 年于德州 Arlington 组建（早期有 glam 专辑）。自 Cowboys from Hell（1990）起为相关时期——Dimebag Darrell 捏音泛音、Rex Brown 贝斯、Vinnie Paul 咔嗒底鼓、Phil Anselmo 吠叫。\n\nWalk（1992）以 groove 重于速度。他们把美国金属从 thrash 竞速推向停顿式掌闷 riff，后为 nu-metal 与 metalcore 继承。"
+    "en": "Formed in 1981 in Arlington, Texas (early glam albums exist). Cowboys from Hell (1990) onward is the relevant era—Dimebag Darrell's pinched harmonics, Rex Brown's bass, Vinnie Paul's clicky kick, Phil Anselmo's bark.\n\nWalk (1992) centers groove over speed. They shift US metal away from thrash racing toward stalled, palm-muted riffs that nu-metal and metalcore later inherit.\n\nDarrell Abbott and Vinnie Paul Abbott started the band in Arlington, Texas, in 1981, first as Kiss-style glam built around Darrell’s playing. Rex Brown (“Rexx Rocker”) joined; Terry Glaze was the longest-serving early singer. Four albums came out on their own Metal Magic label. Glaze was replaced by Philip Anselmo in 1987 and the set moved toward hard rock and thrash; Atco, under Atlantic, signed them. Cowboys from Hell (1990) is the book’s marker for the synced riff and double-kick sound. Vulgar Display of Power (1992) answered the thrash audience with Walk, A New Level, and Fucking Hostile. On the world tour Darrell, now called Dimebag, was placed after Eddie Van Halen and Randy Rhoads in guitar-hero talk. Far Beyond Driven (1994) unexpectedly hit US #1; The Great Southern Trendkill (1996) followed. The book cites Anselmo’s 1996 heroin overdose and Reinventing the Steel (2000) failing to stop the slide. After 9/11, grounded in an Irish hotel, the band argued and split. Anselmo went to Superjoint Ritual, then Down, with Brown also in Down; the Abbott brothers formed Damageplan. On 8 December 2004 a fan shot Darrell on stage. In 2012 Vinnie Paul floated a reunion with Zakk Wylde on guitar; Anselmo, via the Chinese edition, said a stage without Dimebag on his left would feel wrong.",
+    "zh": "1981 年于德州 Arlington 组建（早期有 glam 专辑）。自 Cowboys from Hell（1990）起为相关时期——Dimebag Darrell 捏音泛音、Rex Brown 贝斯、Vinnie Paul 咔嗒底鼓、Phil Anselmo 吠叫。\n\nWalk（1992）以 groove 重于速度。他们把美国金属从 thrash 竞速推向停顿式掌闷 riff，后为 nu-metal 与 metalcore 继承。\n\nDarrell Abbott 与 Vinnie Paul Abbott 1981 年在得克萨斯阿灵顿建队，最初是围绕 Darrell 技巧的 Kiss 式迷惑摇滚。Rex Brown（“Rexx Rocker”）加入；Terry Glaze 是早期待得最久的歌手。四张专辑由自有厂牌 Metal Magic 发行。1987 年 Philip Anselmo 接替 Glaze，方向转向硬摇滚与鞭挞；Atlantic 下属 Atco 签约。Cowboys from Hell（1990）是书中同步连复段与双踩的标记。Vulgar Display of Power（1992）用 Walk、A New Level、Fucking Hostile 回应鞭挞听众。世界巡演中 Darrell（此时称 Dimebag）被放在 Eddie Van Halen 与 Randy Rhoads 之后的吉他英雄序列里。Far Beyond Driven（1994）意外成为美国榜冠军；随后 The Great Southern Trendkill（1996）。书中写 Anselmo 1996 年海洛因过量，以及 Reinventing the Steel（2000）没能止住下滑。9·11 之后飞机停飞，乐队困在爱尔兰酒店里争吵并解散。Anselmo 去 Superjoint Ritual，再去 Down，Brown 也加入 Down；Abbott 兄弟组建 Damageplan。2004 年 12 月 8 日一名歌迷在台上开枪打死 Darrell。2012 年 Vinnie Paul 提议由 Zakk Wylde 担任吉他重组；中文版所引 Anselmo 说，左边没有 Dimebag 的舞台他会不舒服。"
   },
   "scenes": [
     {
@@ -178,7 +190,17 @@
         "zh": "Far Beyond Driven（1994）美国 #1 debut——5 Minutes Alone 与 I'm Broken 延伸 groove 写法。Strength Beyond Strength 极端速度开场。\n\nAnselmo 海洛因问题与 Dimebag/Rex/Vinnie side project 后乐队分裂。Dimebag 2004 年台上遇害。\n\ngroove metal 遗产：nu-metal 与 metalcore 引 Pantera 的停顿式掌闷 riff。"
       },
       "stickyVisual": "influence",
-      "soundGenre": "thrash-metal"
+      "soundGenre": "thrash-metal",
+      "stickyImage": {
+        "src": "/media/bands/pantera-anselmo-2023.jpg",
+        "alt": {
+          "en": "Phil Anselmo with Pantera, 2023",
+          "zh": "Phil Anselmo 与 Pantera，2023"
+        },
+        "credit": "Miguel",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Philip_Anselmo_Pantera_2023_(cropped).jpg"
+      }
     },
     {
       "id": "scene-0",
@@ -192,7 +214,17 @@
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
-      "soundGenre": "thrash-metal"
+      "soundGenre": "thrash-metal",
+      "stickyImage": {
+        "src": "/media/bands/pantera-dimebag.jpg",
+        "alt": {
+          "en": "Dimebag Darrell with Pantera at The Bayou, Washington, D.C., on the Cowboys from Hell tour",
+          "zh": "Dimebag Darrell 与 Pantera，华盛顿 The Bayou，Cowboys from Hell 巡演"
+        },
+        "credit": "Rik Goldman",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dimebag_Darrell_with_Pantera.jpg"
+      }
     },
     {
       "id": "scene-1",
@@ -265,8 +297,8 @@
         }
       ],
       "note": {
-        "en": "Abbott brothers rhythm section plus Anselmo bark; groove metal peak.",
-        "zh": "Abbott 兄弟节奏段加 Anselmo 吼；groove metal 峰值。"
+        "en": "Glaze sang the Metal Magic glam albums. Anselmo from 1987 is the Cowboys / Vulgar / Far Beyond Driven lineup. Damageplan and Down are the post-split bands in the entry.",
+        "zh": "Glaze 唱 Metal Magic 时期的迷惑摇滚专辑。1987 年起的 Anselmo 是 Cowboys / Vulgar / Far Beyond Driven 阵容。条目里解散后的乐队是 Damageplan 与 Down。"
       }
     }
   ],

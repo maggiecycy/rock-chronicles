@@ -33,6 +33,11 @@
       "name": "Dave Lombardo",
       "role": "Drums",
       "years": "1981–1986; 1987–1992; 2001–2013"
+    },
+    {
+      "name": "Paul Bostaph",
+      "role": "Drums",
+      "years": "1990s–2010s"
     }
   ],
   "essentialTracks": [
@@ -64,7 +69,8 @@
   "relatedBands": [
     "metallica",
     "megadeth",
-    "motorhead"
+    "motorhead",
+    "iron-maiden"
   ],
   "influenceFrom": [
     "motorhead",
@@ -79,8 +85,8 @@
     "zh": "Hanneman / King 的 thrash；Raining Blood 是 Reign in Blood 的 B 面收尾。"
   },
   "body": {
-    "en": "Formed in 1981 in Huntington Park, California. Show No Mercy through South of Heaven document the classic Araya / Hanneman / King / Lombardo lineup—chromatic riffs, blast-adjacent tempos, dry vocal bark.\n\nRaining Blood (1986) closes Reign in Blood's 29-minute runtime. They are the Big Four's most extreme commercial reference: less melody than Metallica, less technical display than Megadeth, more relentless tempo.",
-    "zh": "1981 年于加州亨廷顿公园组建。从 Show No Mercy 到 South of Heaven 记录经典 Araya / Hanneman / King / Lombardo 阵容——半音 riff、近 blast 速度、干吠人声。\n\nRaining Blood（1986）收束 Reign in Blood 约 29 分钟片长。他们是 Big Four 里最极端的商业参照：旋律少于 Metallica，炫技少于 Megadeth，速度更不停歇。"
+    "en": "Formed in 1981 in Huntington Park, California. Show No Mercy through South of Heaven document the classic Araya / Hanneman / King / Lombardo lineup—chromatic riffs, blast-adjacent tempos, dry vocal bark.\n\nRaining Blood (1986) closes Reign in Blood's 29-minute runtime. They are the Big Four's most extreme commercial reference: less melody than Metallica, less technical display than Megadeth, more relentless tempo.\n\nKerry King and Jeff Hanneman started the band; Tom Araya, then a respiratory therapist, put his savings into the first album, and Dave Lombardo played drums. For several years they covered Iron Maiden. Show No Mercy (1983) is the first own-direction record. Hell Awaits (1985) is where the book says the lyrics caught up with the playing and helped set off death metal. Rick Rubin signed them to Def Jam. Reign in Blood (1986) is the commercial break. The next three albums charted higher each time; Divine Intervention (1994) entered the US top 10. The entry notes criticism over Satanism and Nazi imagery in the lyrics. Kerry King in 2001, via the Chinese edition: the church and the religious right now had more to worry about than Slayer. Grammys went to Eyes of the Insane (2006, from Christ Illusion, US #5) and Final Six (2007). The book keeps them in the Big Four with Metallica, Anthrax, and Megadeth.",
+    "zh": "1981 年于加州亨廷顿公园组建。从 Show No Mercy 到 South of Heaven 记录经典 Araya / Hanneman / King / Lombardo 阵容——半音 riff、近 blast 速度、干吠人声。\n\nRaining Blood（1986）收束 Reign in Blood 约 29 分钟片长。他们是 Big Four 里最极端的商业参照：旋律少于 Metallica，炫技少于 Megadeth，速度更不停歇。\n\nKerry King 与 Jeff Hanneman 建队；当时做呼吸治疗师的 Tom Araya 用积蓄做第一张专辑，Dave Lombardo 打鼓。有好几年他们翻唱 Iron Maiden。Show No Mercy（1983）是转向自己方向的第一张。书中写 Hell Awaits（1985）歌词赶上了演奏，并促发死亡金属。Rick Rubin 把他们签进 Def Jam。Reign in Blood（1986）是商业突破。随后三张专辑排位一张比一张高；Divine Intervention（1994）进入美国前十。条目记下歌词涉及恶魔崇拜与纳粹意象所受到的批评。中文版所引 Kerry King 2001 年的话：教会和宗教右派现在有比 Slayer 更需要担心的事。格莱美发给 Eyes of the Insane（2006，出自美国第 5 的 Christ Illusion）与 Final Six（2007）。书中把他们与 Metallica、Anthrax、Megadeth 同列“四大”。"
   },
   "scenes": [
     {
@@ -177,7 +183,17 @@
         "zh": "South of Heaven（1988）刻意降 BPM——标题曲显示 Slayer 能撑住中速威胁。\n\nSeasons in the Abyss（1990）平衡速度（War Ensemble）与 groove（标题曲）——经典阵容最后巅峰。\n\nHanneman 2013 年去世与 2019 告别巡演终结乐队；Reign 仍是引用专辑。"
       },
       "stickyVisual": "influence",
-      "soundGenre": "thrash-metal"
+      "soundGenre": "thrash-metal",
+      "stickyImage": {
+        "src": "/media/bands/slayer-wacken-2019.jpg",
+        "alt": {
+          "en": "Slayer at Wacken Open Air, 2019",
+          "zh": "Slayer，Wacken Open Air，2019"
+        },
+        "credit": "Sven Mandel",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slayer_Wacken_Open_Air_2019.jpg"
+      }
     },
     {
       "id": "scene-0",
@@ -191,7 +207,17 @@
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
-      "soundGenre": "thrash-metal"
+      "soundGenre": "thrash-metal",
+      "stickyImage": {
+        "src": "/media/bands/slayer-araya-2006.jpg",
+        "alt": {
+          "en": "Tom Araya with Slayer, 2006",
+          "zh": "Tom Araya 与 Slayer，2006"
+        },
+        "credit": "Daigo Oliva",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slayer_-_tom_araya_-_live_2006.jpg"
+      }
     },
     {
       "id": "scene-1",
@@ -234,6 +260,12 @@
       "speaker": "Tom Araya",
       "source": "Press interview excerpt",
       "year": 1987
+    },
+    {
+      "text": "The church and the religious right now have more to worry about than Slayer. (Chinese-edition wording.)",
+      "speaker": "Kerry King",
+      "source": "《摇滚编年史》",
+      "year": 2001
     }
   ],
   "lineupVersions": [
@@ -264,8 +296,8 @@
         }
       ],
       "note": {
-        "en": "Hanneman/King dual guitar; Lombardo double-kick drive.",
-        "zh": "Hanneman/King 双吉他；Lombardo 双踩驱动。"
+        "en": "Araya, King, Hanneman, Lombardo through Reign in Blood. The book chart also lists Paul Bostaph on drums beside Lombardo’s gaps. Early set lists included Iron Maiden covers.",
+        "zh": "Reign in Blood 时期为 Araya、King、Hanneman、Lombardo。书中年表在 Lombardo 缺席处还列了鼓手 Paul Bostaph。早期曲目包括 Iron Maiden 翻唱。"
       }
     }
   ],

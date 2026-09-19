@@ -44,6 +44,21 @@
       "name": "Chris Poland",
       "role": "Guitar",
       "years": "1984–1987"
+    },
+    {
+      "name": "Gar Samuelson",
+      "role": "Drums",
+      "years": "1984–1987"
+    },
+    {
+      "name": "Chris Broderick",
+      "role": "Guitar",
+      "years": "2000s"
+    },
+    {
+      "name": "Shawn Drover",
+      "role": "Drums",
+      "years": "2000s"
     }
   ],
   "essentialTracks": [
@@ -157,8 +172,8 @@
     "zh": "Mustaine 被 Metallica 开除后的 thrash；Rust in Peace 是技术峰值。"
   },
   "body": {
-    "en": "Formed in 1983 after Mustaine left Metallica. Peace Sells builds the US thrash profile. Rust in Peace (1990) with Friedman and Menza is the precision thrash peak. Countdown to Extinction adds radio cuts.\n\nLineup churn is constant; Mustaine and riff density stay central. Rivalry with Metallica remains the origin story.",
-    "zh": "Mustaine 离开 Metallica 后于 1983 组建。Peace Sells 建立美国 thrash 轮廓。与 Friedman、Menza 的 Rust in Peace（1990）是精密 thrash 峰值。Countdown to Extinction 加入电台曲。\n\n阵容动荡是常量；Mustaine 与 riff 密度仍居中心。与 Metallica 的对峙仍是起源故事。"
+    "en": "Formed in 1983 after Mustaine left Metallica. Peace Sells builds the US thrash profile. Rust in Peace (1990) with Friedman and Menza is the precision thrash peak. Countdown to Extinction adds radio cuts.\n\nLineup churn is constant; Mustaine and riff density stay central. Rivalry with Metallica remains the origin story.\n\nThe book files Megadeth with Metallica, Slayer, and Anthrax as the thrash Big Four. Mustaine, just out of Metallica, formed the band in 1984 with David Ellefson. He later called Killing Is My Business… and Business Is Good! (1985) a $4,000 mess. Peace Sells… but Who’s Buying? (1986) is the first hit album, with Chris Poland and Gar Samuelson; the book says all four were using drugs and that Mustaine’s public insults put the band at odds with Slayer and Pantera. Marty Friedman and Nick Menza play on So Far, So Good… So What! (1988) and Rust in Peace (1990). Countdown to Extinction (1992) and Youthanasia (1994) made the US top 5. Cryptic Writings (1997) was the last US top-10 million-seller in the entry; Risk (1999) and The World Needs a Hero (2001) move softer. An arm injury stopped Mustaine playing; Ellefson sued; the band stopped. The System Has Failed (2004) is the return. Ellefson came back in 2010 for the Big Four tour Metallica put together, and for Th1rt3en.",
+    "zh": "Mustaine 离开 Metallica 后于 1983 组建。Peace Sells 建立美国 thrash 轮廓。与 Friedman、Menza 的 Rust in Peace（1990）是精密 thrash 峰值。Countdown to Extinction 加入电台曲。\n\n阵容动荡是常量；Mustaine 与 riff 密度仍居中心。与 Metallica 的对峙仍是起源故事。\n\n书中把 Megadeth 与 Metallica、Slayer、Anthrax 并列为鞭挞金属“四大”。刚离开 Metallica 的 Mustaine 1984 年与 David Ellefson 建队。他后来说 Killing Is My Business… and Business Is Good!（1985）是用 4000 美元做成的烂录音。Peace Sells… but Who’s Buying?（1986）是首张热门专辑，吉他 Chris Poland、鼓 Gar Samuelson；书中写当时四人都在用毒品，Mustaine 当众嘲讽还与 Slayer、Pantera 结怨。Marty Friedman 与 Nick Menza 参加 So Far, So Good… So What!（1988）和 Rust in Peace（1990）。Countdown to Extinction（1992）与 Youthanasia（1994）进美国前五。条目里 Cryptic Writings（1997）是最后一张美国前十的百万销量专辑；Risk（1999）与 The World Needs a Hero（2001）转向更柔。Mustaine 手臂受伤不能弹吉他；Ellefson 起诉；乐队停下。The System Has Failed（2004）是回归。Ellefson 2010 年回来，参加 Metallica 发起的“四大”巡演，并录 Th1rt3en。"
   },
   "narrative": [
     {
@@ -198,7 +213,17 @@
         "zh": "Mustaine：Jackson/Flying V thrash riff、咆哮人声。Friedman：新古典与异域主音。Ellefson：精密交替拨贝斯。Menza：双底鼓清晰。\n\nFriedman 与 Menza 离开后，即使乐队名在，密度也降。"
       },
       "stickyVisual": "members",
-      "soundGenre": "heavy-metal"
+      "soundGenre": "heavy-metal",
+      "stickyImage": {
+        "src": "/media/bands/megadeth-mustaine-madrid-2008.jpg",
+        "alt": {
+          "en": "Dave Mustaine with Megadeth, Madrid, 2008",
+          "zh": "Dave Mustaine 与 Megadeth，马德里，2008"
+        },
+        "credit": "Mario",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dave_Mustaine_-_Megadeth_-_Live_Madrid_2008_(2300633605).jpg"
+      }
     },
     {
       "id": "holy-wars",
@@ -239,7 +264,17 @@
         "zh": "起源故事（开除）让 Metallica 链接可见。Rust in Peace 仍是精密引用，旁边是 Slayer 攻击与 Metallica 律动。\n\n枢纽人物：Mustaine。尚无 Hetfield person——仅乐队级边。"
       },
       "stickyVisual": "influence",
-      "soundGenre": "heavy-metal"
+      "soundGenre": "heavy-metal",
+      "stickyImage": {
+        "src": "/media/bands/megadeth-o2-2018.jpg",
+        "alt": {
+          "en": "Megadeth at The O2, London, 16 June 2018",
+          "zh": "Megadeth，伦敦 The O2，2018 年 6 月 16 日"
+        },
+        "credit": "Kreepin Deth",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Megadeth_Live_at_The_O2_2018-06-16.jpg"
+      }
     }
   ],
   "lineupVersions": [
@@ -273,8 +308,8 @@
         }
       ],
       "note": {
-        "en": "Technical thrash peak catalog.",
-        "zh": "技术 thrash 巅峰目录。"
+        "en": "Friedman and Menza from So Far, So Good… So What! through Rust in Peace, Countdown to Extinction, and Youthanasia.",
+        "zh": "Friedman 与 Menza 从 So Far, So Good… So What! 到 Rust in Peace、Countdown to Extinction、Youthanasia。"
       }
     },
     {
@@ -301,8 +336,8 @@
         }
       ],
       "note": {
-        "en": "Earlier raw thrash face.",
-        "zh": "更早的生猛 thrash 脸。"
+        "en": "Mustaine, Ellefson, Poland, Samuelson. Book: drug use and public feuds with Slayer and Pantera in this stretch.",
+        "zh": "Mustaine、Ellefson、Poland、Samuelson。书中写这一段有毒品，并与 Slayer、Pantera 公开结怨。"
       }
     }
   ],

@@ -45,6 +45,26 @@
       "name": "Nicko McBrain",
       "role": "Drums",
       "years": "1982–present"
+    },
+    {
+      "name": "Dennis Stratton",
+      "role": "Guitar",
+      "years": "1979–1980"
+    },
+    {
+      "name": "Clive Burr",
+      "role": "Drums",
+      "years": "1979–1982"
+    },
+    {
+      "name": "Janick Gers",
+      "role": "Guitar",
+      "years": "1990–present"
+    },
+    {
+      "name": "Blaze Bayley",
+      "role": "Vocals",
+      "years": "1994–1999"
     }
   ],
   "essentialTracks": [
@@ -137,6 +157,11 @@
       "speaker": "Bruce Dickinson",
       "source": "On replacing Di'Anno · press",
       "year": 1982
+    },
+    {
+      "text": "My heart and soul went to Britain, to Iron Maiden. (Chinese-edition wording; not a verified English original.)",
+      "speaker": "Lars Ulrich",
+      "source": "《摇滚编年史》"
     }
   ],
   "lyricQuotes": [
@@ -163,8 +188,8 @@
     "zh": "Harris 疾驰金属；Di'Anno 后换 Dickinson；The Trooper 是双主音参照曲。"
   },
   "body": {
-    "en": "Formed in London in 1975 by Steve Harris. The early-1980s breakthrough is Killers, The Number of the Beast, and Piece of Mind—Harris’s eighth-note bass gallop, twin leads, and Bruce Dickinson’s operatic mid-high range.\n\nThe Trooper (1983) is the clearest single-track example of that method. The Eddie mascot and long tours support the live brand; musically the band scales New Wave of British Heavy Metal to arenas without thrash BPM.",
-    "zh": "1975 年由 Steve Harris 于伦敦组建。1980 年代初的突破是 Killers、The Number of the Beast 与 Piece of Mind——Harris 的八分音符贝斯疾驰、双主音、Bruce Dickinson 的歌剧式中高音区。\n\nThe Trooper（1983）是这套方法最清晰的单曲范例。Eddie 吉祥物与长巡演支撑现场品牌；音乐上乐队把 NWOBHM 扩到体育场，却不走 thrash BPM。"
+    "en": "Formed in London in 1975 by Steve Harris. The early-1980s breakthrough is Killers, The Number of the Beast, and Piece of Mind—Harris’s eighth-note bass gallop, twin leads, and Bruce Dickinson’s operatic mid-high range.\n\nThe Trooper (1983) is the clearest single-track example of that method. The Eddie mascot and long tours support the live brand; musically the band scales New Wave of British Heavy Metal to arenas without thrash BPM.\n\nHarris formed the band in 1975. The first stable record lineup was Di’Anno, Murray, Dennis Stratton, and Clive Burr. Self-released Soundhouse Tapes (1979) sold out to the fan club. Iron Maiden (1980) hit UK #4 and led the NWOBHM shelf with Def Leppard, Saxon, and Diamond Head. Stratton was out before Killers (1981); Adrian Smith came in. Di’Anno was fired and Bruce Dickinson arrived from Samson for The Number of the Beast (1982), UK #1; Run to the Hills made the UK top 10. Nicko McBrain replaced Burr in 1982. The World Slavery Tour (1984–85) was issued as Live After Death. Donington Monsters of Rock 1988 and Seventh Son of a Seventh Son (UK #1 the same year) sit in the book as the live and studio peaks. Dickinson left in 1993; Smith left; Janick Gers (ex-Gillan) and Blaze Bayley (Wolfsbane) came in for The X Factor (1995) and Virtual XI (1998). Dickinson and Smith returned in 1999; Gers stayed, so the band ran three guitars. Brave New World (2000), Dance of Death (2003), and A Matter of Life and Death (2006) followed. From 2008 to 2011 Dickinson flew the band and about 12 tons of gear on a Boeing 757, Ed Force One, filmed as Flight 666.",
+    "zh": "1975 年由 Steve Harris 于伦敦组建。1980 年代初的突破是 Killers、The Number of the Beast 与 Piece of Mind——Harris 的八分音符贝斯疾驰、双主音、Bruce Dickinson 的歌剧式中高音区。\n\nThe Trooper（1983）是这套方法最清晰的单曲范例。Eddie 吉祥物与长巡演支撑现场品牌；音乐上乐队把 NWOBHM 扩到体育场，却不走 thrash BPM。\n\nHarris 1975 年建队。第一套稳定录音阵容是 Di’Anno、Murray、Dennis Stratton、Clive Burr。1980 年同名专辑英国榜第 4，与 Def Leppard、Saxon、Diamond Head 同列 NWOBHM。Killers（1981）前 Stratton 离队，Adrian Smith 进入。Di’Anno 被换下，来自 Samson 的 Bruce Dickinson 唱 The Number of the Beast（1982，英国榜首）；Run to the Hills 进英国前十。1982 年 Nicko McBrain 接替 Burr。World Slavery Tour（1984–85）收成 Live After Death。书中把 1988 年 Donington Monsters of Rock 与同年英国榜首的 Seventh Son of a Seventh Son 当作现场与录音峰值。1993 年 Dickinson 离队，Smith 也离开；Janick Gers（前 Gillan）与 Blaze Bayley（Wolfsbane）录 The X Factor（1995）和 Virtual XI（1998）。1999 年 Dickinson 与 Smith 回归，Gers 留下，于是三把吉他。随后是 Brave New World（2000）、Dance of Death（2003）、A Matter of Life and Death（2006）。2008–2011 年 Dickinson 驾驶波音 757“Ed Force One”，载乐队与约 12 吨设备巡演，纪录片《Flight 666》记录此事。"
   },
   "narrative": [
     {
@@ -205,7 +230,17 @@
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
-      "soundGenre": "heavy-metal"
+      "soundGenre": "heavy-metal",
+      "stickyImage": {
+        "src": "/media/bands/iron-maiden-bercy.jpg",
+        "alt": {
+          "en": "Iron Maiden at Bercy, Paris, 1 July 2008",
+          "zh": "Iron Maiden，巴黎贝尔西体育馆，2008 年 7 月 1 日"
+        },
+        "credit": "Metalheart",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iron_Maiden_in_the_Palais_Omnisports_of_Paris-Bercy_(France).jpg"
+      }
     },
     {
       "id": "members",
@@ -218,7 +253,17 @@
         "zh": "Harris 从贝斯写作并驱动。Murray 与 Smith 交换和声主音多于炫技对决。Dickinson 中高音区承载叙事歌词压在疾驰上。\n\nDi'Anno 章节仍是街头金属引用。"
       },
       "stickyVisual": "members",
-      "soundGenre": "heavy-metal"
+      "soundGenre": "heavy-metal",
+      "stickyImage": {
+        "src": "/media/bands/iron-maiden-sonisphere-2013.jpg",
+        "alt": {
+          "en": "Steve Harris, Adrian Smith, and Bruce Dickinson at Sonisphere, Madrid, 2013",
+          "zh": "Steve Harris、Adrian Smith 与 Bruce Dickinson，马德里 Sonisphere，2013"
+        },
+        "credit": "dr_zoidberg",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steve_Harris,_Adrian_Smith,_Bruce_Dickinson_live_2013_(Sonisphere,_Madrid,_Spain).jpg"
+      }
     },
     {
       "id": "quote",
@@ -241,8 +286,8 @@
         "zh": "Thrash 峰值前的体育场金属"
       },
       "body": {
-        "en": "Metallica and other 80s metal acts cite gallop rhythm and twin-lead writing. Maiden keep concept albums and long tours as a stable live practice.\n\nNWOBHM scaled without losing the Harris pocket.",
-        "zh": "Metallica 与其他 80 年代金属引用疾驰节奏与双主音写作。Maiden 把概念专集与长巡演当作稳定的现场做法。\n\nNWOBHM 放大而不丢 Harris 律动。"
+        "en": "Metallica and other 80s metal acts cite gallop rhythm and twin-lead writing. Maiden keep concept albums and long tours as a stable live practice.\n\nNWOBHM scaled without losing the Harris pocket.\n\nLars Ulrich, quoted in the Chinese edition: his heart and soul had gone to Britain, to Iron Maiden. The book later pairs Maiden with Metallica as the arena-metal acts still touring at that scale after the 1990s.",
+        "zh": "Metallica 与其他 80 年代金属引用疾驰节奏与双主音写作。Maiden 把概念专集与长巡演当作稳定的现场做法。\n\nNWOBHM 放大而不丢 Harris 律动。\n\n中文版所引 Lars Ulrich：他的心与魂去了英国，在 Iron Maiden 那里。后文把 Maiden 与 Metallica 并列，视为 90 年代之后仍维持这一巡演规模的金属乐队。"
       },
       "stickyVisual": "influence",
       "soundGenre": "heavy-metal"
@@ -281,8 +326,8 @@
         }
       ],
       "note": {
-        "en": "Iron Maiden / Killers; street bark over early gallop forms.",
-        "zh": "Iron Maiden / Killers；街头吠叫压在早期疾驰形式上。"
+        "en": "Di’Anno, Murray, Stratton, Burr, Harris. Smith replaced Stratton for Killers (1981).",
+        "zh": "Di’Anno、Murray、Stratton、Burr、Harris。Killers（1981）由 Smith 接替 Stratton。"
       }
     },
     {
@@ -318,8 +363,8 @@
         }
       ],
       "note": {
-        "en": "Beast through Seventh Son citation years; McBrain from Piece of Mind.",
-        "zh": "Beast 至 Seventh Son 引用年；McBrain 自 Piece of Mind 起。"
+        "en": "Dickinson from Samson; McBrain replaced Burr in 1982. Gers joined around 1990 and stayed when Smith returned in 1999. Bayley sang 1994–1999.",
+        "zh": "Dickinson 来自 Samson；1982 年 McBrain 接替 Burr。Gers 约 1990 年加入，1999 年 Smith 回归后仍留下。Bayley 主唱 1994–1999。"
       }
     }
   ],

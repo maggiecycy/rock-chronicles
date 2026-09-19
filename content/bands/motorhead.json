@@ -39,6 +39,31 @@
       "name": "Mikkey Dee",
       "role": "Drums",
       "years": "1992–2015"
+    },
+    {
+      "name": "Larry Wallis",
+      "role": "Guitar",
+      "years": "1975"
+    },
+    {
+      "name": "Lucas Fox",
+      "role": "Drums",
+      "years": "1975"
+    },
+    {
+      "name": "Brian Robertson",
+      "role": "Guitar",
+      "years": "1982–1983"
+    },
+    {
+      "name": "Pete Gill",
+      "role": "Drums",
+      "years": "1984–1987"
+    },
+    {
+      "name": "Michael \"Würzel\" Burston",
+      "role": "Guitar",
+      "years": "1984–1995"
     }
   ],
   "essentialTracks": [
@@ -85,8 +110,8 @@
     "zh": "英国速度/重型摇滚；Ace of Spades 是三和弦速度参照。"
   },
   "body": {
-    "en": "Formed in 1975 after Lemmy left Hawkwind. Overkill, Ace of Spades, and No Sleep 'til Hammersmith document the classic Lemmy / Eddie Clarke / Phil Taylor attack—bass played like rhythm guitar, shouted vocal, 4/4 charge.\n\nAce of Spades (1980) is the citation track when thrash and hardcore bands name Motörhead as a tempo ancestor. The craft is relentlessness and midrange grit in the mix, not progressive form.",
-    "zh": "Lemmy 离开 Hawkwind 后于 1975 年组建。Overkill、Ace of Spades 与 No Sleep 'til Hammersmith 记录经典 Lemmy / Eddie Clarke / Phil Taylor 攻击——贝斯按节奏吉他弹、喊叫人声、4/4 冲锋。\n\nAce of Spades（1980）是 thrash 与 hardcore 乐队点名 Motörhead 为速度祖先时的引用曲。工艺在于不停歇与混音中频砂感，而非 progressive 曲式。"
+    "en": "Formed in 1975 after Lemmy left Hawkwind. Overkill, Ace of Spades, and No Sleep 'til Hammersmith document the classic Lemmy / Eddie Clarke / Phil Taylor attack—bass played like rhythm guitar, shouted vocal, 4/4 charge.\n\nAce of Spades (1980) is the citation track when thrash and hardcore bands name Motörhead as a tempo ancestor. The craft is relentlessness and midrange grit in the mix, not progressive form.\n\nLemmy had played R&B and psychedelic groups, road-managed Jimi Hendrix, then joined Hawkwind. Hawkwind fired him after a 1975 North American drug bust. He named the new band after his last Hawkwind song, Motörhead (an amphetamine user); he had first wanted the name Bastard. Larry Wallis and Lucas Fox were brief. The set lineup was Lemmy, “Fast” Eddie Clarke, and Phil “Philthy Animal” Taylor: Overkill (1979), Ace of Spades (1980), and the UK #1 live album No Sleep ’til Hammersmith (1981). Clarke and Taylor were gone by 1982. Brian Robertson (Thin Lizzy) and Pete Gill (ex-Saxon) came in; Robertson left in 1983 over stage clothes and a refusal to play old songs. Phil Campbell (ex-Persian Risk) and Michael “Würzel” Burston, who got in by sending Lemmy a cassette, replaced him. Taylor returned for Rock ’n’ Roll (1987), which includes a Michael Palin cameo. Mikkey Dee is on Bastards (1993). From 1995 the band was a trio after Würzel left (he died in 2011). Inferno (2004) has Steve Vai as a guest; Kiss of Death (2006) has C.C. DeVille (Poison) and Mike Inez (Alice in Chains). Motörizer (2008) and The Wörld Is Yours (2010) were the first albums in the entry to reach the Billboard top 100, more than 30 years after the start.",
+    "zh": "Lemmy 离开 Hawkwind 后于 1975 年组建。Overkill、Ace of Spades 与 No Sleep 'til Hammersmith 记录经典 Lemmy / Eddie Clarke / Phil Taylor 攻击——贝斯按节奏吉他弹、喊叫人声、4/4 冲锋。\n\nAce of Spades（1980）是 thrash 与 hardcore 乐队点名 Motörhead 为速度祖先时的引用曲。工艺在于不停歇与混音中频砂感，而非 progressive 曲式。\n\nLemmy 在 R&B 与迷幻乐队待过，给 Jimi Hendrix 当过巡演经理，然后加入 Hawkwind。1975 年北美一次缉毒后 Hawkwind 把他开除。新乐队用他为 Hawkwind 写的最后一首歌命名：Motörhead（指服用安非他命的人）；他原本想叫 Bastard。Larry Wallis 与 Lucas Fox 时间很短。固定阵容是 Lemmy、“Fast” Eddie Clarke 与 Phil “Philthy Animal” Taylor：Overkill（1979）、Ace of Spades（1980），以及英国榜首现场专辑 No Sleep ’til Hammersmith（1981）。到 1982 年 Clarke 与 Taylor 都离开。Brian Robertson（Thin Lizzy）与 Pete Gill（前 Saxon）加入；1983 年 Robertson 因舞台装扮和不愿演奏老歌离队。Phil Campbell（前 Persian Risk）与给 Lemmy 寄盒带入选的 Michael “Würzel” Burston 接替。Taylor 为 Rock ’n’ Roll（1987）回归，其中有 Michael Palin 客串。Mikkey Dee 打 Bastards（1993）。1995 年起 Würzel 离队，乐队成为三人（他 2011 年去世）。Inferno（2004）有 Steve Vai 客席；Kiss of Death（2006）有 C.C. DeVille（Poison）与 Mike Inez（Alice in Chains）。Motörizer（2008）与 The Wörld Is Yours（2010）是条目中成立 30 多年后第一次进入公告牌专辑前 100 的唱片。"
   },
   "scenes": [
     {
@@ -168,7 +193,17 @@
         "zh": "Ace of Spades（1980）标题曲以 Lemmy 贝斯 riff 开场——E 小调 gallop 约 140 BPM。Clarke 吉他双根音；无键盘垫。\n\n专辑混快曲（Ace of Spades、Shoot You in the Back）与慢曲（Live to Win、Leave Me Alone）——速度金属内的动态幅度。\n\nNo Sleep 'til Hammersmith（1981）成现场演出参照。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/motorhead-lemmy-1982.jpg",
+        "alt": {
+          "en": "Lemmy Kilmister with Motörhead, St Albans, 1982",
+          "zh": "Lemmy Kilmister 与 Motörhead，圣奥尔本斯，1982"
+        },
+        "credit": "PS Parrot",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lemmy_-_Motorhead_-_St.Albans_1982.jpg"
+      }
     },
     {
       "id": "legacy",
@@ -181,7 +216,17 @@
         "zh": "Clarke 1982 年离队；Phil Campbell 加入双吉他时期。Iron Fist 与 Killed by Death 延伸速度写法。\n\nMetallica、Slayer、Anthrax 引 Motörhead 的速度与态度——非 riff 复杂度。\n\nLemmy 运营乐队至 2015 年去世；四十年现场可靠为次要遗产。"
       },
       "stickyVisual": "influence",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/motorhead-masters-2007.jpg",
+        "alt": {
+          "en": "Lemmy Kilmister with Motörhead at Masters of Rock, 2007",
+          "zh": "Lemmy Kilmister 与 Motörhead，Masters of Rock，2007"
+        },
+        "credit": "Kaja Konarska",
+        "license": "CC BY-SA 2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masters_of_Rock_2007_-_Motörhead_-_Lemmy_Kilmister_-_7.jpg"
+      }
     },
     {
       "id": "scene-0",
@@ -269,8 +314,8 @@
         }
       ],
       "note": {
-        "en": "Ace of Spades / Overkill era; speed bridging metal and punk audiences.",
-        "zh": "Ace of Spades / Overkill 期；速度连接金属与朋克听众。"
+        "en": "Clarke / Taylor trio through Hammersmith. Later book chairs: Robertson (Thin Lizzy), Gill (Saxon), Campbell, Würzel, then Dee. Trio again after Würzel left in 1995.",
+        "zh": "Clarke / Taylor 三人组直到 Hammersmith。书中后来的座位：Robertson（Thin Lizzy）、Gill（Saxon）、Campbell、Würzel，然后 Dee。1995 年 Würzel 离队后再成三人。"
       }
     }
   ],

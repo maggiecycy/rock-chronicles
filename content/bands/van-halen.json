@@ -45,6 +45,16 @@
       "role": "Bass, Backing Vocals",
       "years": "1974–2006",
       "personSlug": "michael-anthony"
+    },
+    {
+      "name": "Gary Cherone",
+      "role": "Vocals",
+      "years": "1996–1999"
+    },
+    {
+      "name": "Wolfgang Van Halen",
+      "role": "Bass",
+      "years": "2006–2020"
     }
   ],
   "essentialTracks": [
@@ -147,7 +157,10 @@
     "ac-dc",
     "deep-purple",
     "guns-n-roses",
-    "led-zeppelin"
+    "led-zeppelin",
+    "black-sabbath",
+    "kiss",
+    "red-hot-chili-peppers"
   ],
   "influenceFrom": [
     "led-zeppelin",
@@ -162,8 +175,8 @@
     "zh": "Eddie Van Halen 时期 hard rock；Eruption 是技术展示；Roth 与 Hagar 分裂目录。"
   },
   "body": {
-    "en": "Formed in 1972. The debut (1978, Ted Templeman) put Eddie’s tapping and brown-sound midrange beside Roth’s showman vocal and Anthony’s high harmonies. 1984 adds OBX synth hits. In 1985 Roth leaves and Hagar joins; 5150 opens a multi-platinum chapter.\n\nEruption remains the instrumental citation; Jump is the mass single; the singer swap is the chronicle structure.",
-    "zh": "1972 年组建。首专（1978，Ted Templeman）把 Eddie 的 tapping 与棕色中频，配上 Roth 表演人声与 Anthony 高和声。1984 加入 OBX 合成器热单。1985 年 Roth 离开、Hagar 加入；5150 打开多白金章节。\n\nEruption 仍是器乐引用；Jump 是大众单曲；主唱替换是编年史结构。"
+    "en": "Formed in 1972. The debut (1978, Ted Templeman) put Eddie’s tapping and brown-sound midrange beside Roth’s showman vocal and Anthony’s high harmonies. 1984 adds OBX synth hits. In 1985 Roth leaves and Hagar joins; 5150 opens a multi-platinum chapter.\n\nEruption remains the instrumental citation; Jump is the mass single; the singer swap is the chronicle structure.\n\nThe book dates the classic four — David Lee Roth, Eddie Van Halen, Michael Anthony, Alex Van Halen — to the 1978 notices, when they opened for Black Sabbath. The entry repeats the story that they pushed a struggling Sabbath off its own stage. Roth said Gene Simmons tried to take Eddie for Kiss. Eddie’s scalar material is filed next to Ritchie Blackmore; the book says the fast fretboard tapping was his own, and that he first played with his back to the crowd so other guitarists could not copy it. Eruption is on the 1978 debut, a US diamond record. Covers of Oh, Pretty Woman and Dancing in the Street pulled arena crowds. Jump (1984), keyboard-led, was their only US #1; Roth left and hired Steve Vai for Eat ’Em and Smile (1986). Sammy Hagar, from Montrose, sang four straight US #1 albums. The 1988 Monsters of Rock tour is the book’s picture of that run. Balance (1995) is called a miss; Hagar left. Gary Cherone of Extreme sang Van Halen III (1998) and left in 1999. Eddie’s son Wolfgang replaced Anthony about two years after the 2004 tour. Roth returned for a 2008 tour and A Different Kind of Truth (2012). Hagar later formed Chickenfoot with Red Hot Chili Peppers drummer Chad Smith.",
+    "zh": "1972 年组建。首专（1978，Ted Templeman）把 Eddie 的 tapping 与棕色中频，配上 Roth 表演人声与 Anthony 高和声。1984 加入 OBX 合成器热单。1985 年 Roth 离开、Hagar 加入；5150 打开多白金章节。\n\nEruption 仍是器乐引用；Jump 是大众单曲；主唱替换是编年史结构。\n\n书中把经典四人——David Lee Roth、Eddie Van Halen、Michael Anthony、Alex Van Halen——标在 1978 年被人注意到的时候，当时他们为 Black Sabbath 暖场。条目重复了他们把处境不好的 Sabbath 从自己的舞台上挤下去的说法。Roth 说 Gene Simmons 曾想把 Eddie 挖去 Kiss。Eddie 的音阶材料被放在 Ritchie Blackmore 旁边；书中写快速指板点弦是他自己的，而且他起初背对观众演奏，以免其他吉他手抄。Eruption 在 1978 年首张专辑上，该专辑后成美国钻石唱片。翻唱 Oh, Pretty Woman 与 Dancing in the Street 把人引进体育场。Jump（1984）以键盘为主，是他们唯一的美国冠军单曲；Roth 离开，并为 Eat ’Em and Smile（1986）请来 Steve Vai。来自 Montrose 的 Sammy Hagar 唱了连续四张美国榜首专辑。1988 年 Monsters of Rock 巡演是书中这段时期的现场标记。Balance（1995）被写成失利；Hagar 离开。Extreme 的 Gary Cherone 唱 Van Halen III（1998），1999 年退出。2004 年巡演约两年后，Eddie 的儿子 Wolfgang 接替 Anthony。Roth 为 2008 年巡演与 A Different Kind of Truth（2012）回归。Hagar 后来与 Red Hot Chili Peppers 鼓手 Chad Smith 组建 Chickenfoot。"
   },
   "narrative": [
     {
@@ -190,7 +203,17 @@
         "zh": "编年史巅峰剪影：Roth / Eddie / Alex / Anthony（1978–85）。1985 Hagar 加入；5150–Balance 是粉丝称 Van Hagar 的电台金属章节。2007 年起 Roth 回归重聚巡演。\n\n同一吉他内核；两套人声写法。巅峰旗留在 Roth 经典期。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/van-halen-1978.jpg",
+        "alt": {
+          "en": "Van Halen live, 1978",
+          "zh": "Van Halen 现场，1978"
+        },
+        "credit": "Billboard",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Van_Halen_(1978).jpg"
+      }
     },
     {
       "id": "members",
@@ -217,7 +240,17 @@
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/van-halen-eddie-2004.jpg",
+        "alt": {
+          "en": "Eddie Van Halen live, 11 August 2004",
+          "zh": "Eddie Van Halen 现场，2004 年 8 月 11 日"
+        },
+        "credit": "Mogwai73",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edward_Van_Halen_live_2004-08-11.jpg"
+      }
     },
     {
       "id": "jump",
@@ -240,8 +273,8 @@
         "zh": "吉他标准与主唱替换案例"
       },
       "body": {
-        "en": "Technique influence is permanent. Catalog debate (Roth vs Hagar) is permanent too. Guns N' Roses and 80s LA hard rock inherit the high-gain precision expectation.\n\nChronicle value: gear method and lineup versioning under one name.",
-        "zh": "技术影响是永久的。目录争论（Roth vs Hagar）也是。Guns N' Roses 与 80 年代洛杉矶 hard rock 继承高增益精度预期。\n\n编年史价值：一个名字下同时有装备方法与阵容版本化。"
+        "en": "Technique influence is permanent. Catalog debate (Roth vs Hagar) is permanent too. Guns N' Roses and 80s LA hard rock inherit the high-gain precision expectation.\n\nChronicle value: gear method and lineup versioning under one name.\n\nBlackmore, via the Chinese edition, called Van Halen very good. The Sabbath opening slot and the Simmons/Kiss approach are the cross-band nodes in the entry.",
+        "zh": "技术影响是永久的。目录争论（Roth vs Hagar）也是。Guns N' Roses 与 80 年代洛杉矶 hard rock 继承高增益精度预期。\n\n编年史价值：一个名字下同时有装备方法与阵容版本化。\n\n中文版写 Blackmore 称 Van Halen“非常厉害”。为 Sabbath 暖场，以及 Simmons 想把 Eddie 挖去 Kiss，是条目里的跨乐队节点。"
       },
       "stickyVisual": "influence",
       "soundGenre": "hard-rock"
@@ -279,8 +312,8 @@
         }
       ],
       "note": {
-        "en": "Debut through 1984; tapping and showman peak.",
-        "zh": "首专至 1984；tapping 与表演人峰值。"
+        "en": "Roth, Eddie, Anthony, Alex. Opened for Sabbath in 1978. Roth left after Jump; his next album used Steve Vai.",
+        "zh": "Roth、Eddie、Anthony、Alex。1978 年为 Sabbath 暖场。Jump 之后 Roth 离开；下一张专辑用了 Steve Vai。"
       }
     },
     {
@@ -313,8 +346,8 @@
         }
       ],
       "note": {
-        "en": "Melodic radio hard rock; Van Hagar catalog.",
-        "zh": "旋律电台 hard rock；Van Hagar 目录。"
+        "en": "Hagar from Montrose; four US #1 albums, then Balance and his exit. Cherone (Extreme) sang Van Halen III. Wolfgang later took Anthony’s bass chair. Roth returned for the 2012 album.",
+        "zh": "Hagar 来自 Montrose；四张美国榜首专辑，然后是 Balance 与离队。Cherone（Extreme）唱 Van Halen III。后来 Wolfgang 接了 Anthony 的贝斯。Roth 为 2012 年专辑回归。"
       }
     }
   ],

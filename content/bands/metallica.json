@@ -15,23 +15,49 @@
     {
       "name": "James Hetfield",
       "role": "Vocals, Guitar",
-      "years": "1982–1986",
+      "years": "1981–present",
       "personSlug": "james-hetfield"
     },
     {
       "name": "Lars Ulrich",
       "role": "Drums",
-      "years": "1982–1986"
+      "years": "1981–present"
     },
     {
       "name": "Kirk Hammett",
       "role": "Guitar",
-      "years": "1982–1986"
+      "years": "1983–present"
     },
     {
       "name": "Cliff Burton",
       "role": "Bass",
       "years": "1982–1986"
+    },
+    {
+      "name": "Lloyd Grant",
+      "role": "Guitar",
+      "years": "1981"
+    },
+    {
+      "name": "Dave Mustaine",
+      "role": "Guitar",
+      "years": "1981–1983",
+      "personSlug": "dave-mustaine"
+    },
+    {
+      "name": "Ron McGovney",
+      "role": "Bass",
+      "years": "1981–1982"
+    },
+    {
+      "name": "Jason Newsted",
+      "role": "Bass",
+      "years": "1987–2003"
+    },
+    {
+      "name": "Robert Trujillo",
+      "role": "Bass",
+      "years": "2003–present"
     }
   ],
   "essentialTracks": [
@@ -105,7 +131,12 @@
   ],
   "relatedBands": [
     "black-sabbath",
-    "led-zeppelin"
+    "led-zeppelin",
+    "megadeth",
+    "slayer",
+    "guns-n-roses",
+    "alice-in-chains",
+    "judas-priest"
   ],
   "influenceFrom": [
     "black-sabbath",
@@ -118,8 +149,8 @@
   },
   "decisive": true,
   "body": {
-    "en": "Formed in 1981. Kill ’Em All through …And Justice for All document thrash precision across the Cliff Burton and Jason Newsted bass eras; the Black Album (Bob Rock) shortens songs for rock radio.\n\nMaster of Puppets (1986), One (1988), and Enter Sandman (1991) show long thrash forms, ballad-metal drama, and riff-chorus mainstream writing.",
-    "zh": "1981 年组建。从 Kill ’Em All 到 …And Justice for All 记录 thrash 精密，覆盖 Cliff Burton 与 Jason Newsted 贝斯时期；黑专（Bob Rock）缩短歌曲以进摇滚电台。\n\nMaster of Puppets（1986）、One（1988）、Enter Sandman（1991）展示长 thrash 曲式、谣曲—金属戏剧，以及 riff-副歌主流写法。"
+    "en": "Formed in 1981. Kill ’Em All through …And Justice for All document thrash precision across the Cliff Burton and Jason Newsted bass eras; the Black Album (Bob Rock) shortens songs for rock radio.\n\nMaster of Puppets (1986), One (1988), and Enter Sandman (1991) show long thrash forms, ballad-metal drama, and riff-chorus mainstream writing.\n\nHetfield answered Ulrich’s ad; the first single Hit the Lights used roommate Ron McGovney on bass and Lloyd Grant as a temporary guitarist, then Dave Mustaine. After Cliff Burton replaced McGovney they moved north to Burton’s Bay Area. Record-store owner Jon Zazula got Megaforce to issue Kill ’Em All (1983) once Kirk Hammett, from Exodus, had replaced Mustaine. Ride the Lightning (1984) and Master of Puppets (1986) followed a US tour with Ozzy Osbourne. Burton died in a tour-bus crash in Sweden in 1986. Jason Newsted, from Flotsam and Jetsam, first appears on The $5.98 E.P.: Garage Days Re-Revisited (1987) and …And Justice for All (1988). The Black Album (1991) dropped the early thrash writing, pushed the bass up, and sold about 15 million in the US. The book says the tense 1992 co-headline with Guns N’ Roses left Metallica ahead. Garage Inc. (1998) and S&M (1999, with the San Francisco Symphony) came next. St. Anger (2003) and the film Some Kind of Monster cover rehab and Newsted’s exit; Robert Trujillo, from Suicidal Tendencies and Ozzy Osbourne’s band, took bass. Death Magnetic (2008), the 2010 Big Four tour, and Rock and Roll Hall of Fame induction sit in the same year in the entry. The December 2011 30th-anniversary shows used guests Dave Mustaine, Ozzy Osbourne, Geezer Butler, Jerry Cantrell, and Rob Halford.",
+    "zh": "1981 年组建。从 Kill ’Em All 到 …And Justice for All 记录 thrash 精密，覆盖 Cliff Burton 与 Jason Newsted 贝斯时期；黑专（Bob Rock）缩短歌曲以进摇滚电台。\n\nMaster of Puppets（1986）、One（1988）、Enter Sandman（1991）展示长 thrash 曲式、谣曲—金属戏剧，以及 riff-副歌主流写法。\n\nHetfield 回应 Ulrich 的广告；第一首单曲 Hit the Lights 用室友 Ron McGovney 弹贝斯、Lloyd Grant 临时吉他，随后是 Dave Mustaine。Cliff Burton 接替 McGovney 后，乐队北迁到 Burton 所在的湾区。唱片店老板 Jon Zazula 促成 Megaforce 发行 Kill ’Em All（1983），此时来自 Exodus 的 Kirk Hammett 已接替 Mustaine。Ride the Lightning（1984）与 Master of Puppets（1986）在与 Ozzy Osbourne 的美国巡演之后。Burton 1986 年死于瑞典巡演大巴车祸。来自 Flotsam and Jetsam 的 Jason Newsted 首次以成员身份出现在 The $5.98 E.P.: Garage Days Re-Revisited（1987）和 …And Justice for All（1988）。黑专（1991）拿掉早期鞭挞写法、加重贝斯，仅美国约卖 1500 万张。书中写 1992 年与 Guns N’ Roses 紧张的联合主打以 Metallica 占上风结束。随后是 Garage Inc.（1998）与 S&M（1999，旧金山交响乐团）。St. Anger（2003）与电影 Some Kind of Monster 记录戒瘾与 Newsted 离队；来自 Suicidal Tendencies 与 Ozzy Osbourne 乐队的 Robert Trujillo 接贝斯。Death Magnetic（2008）、2010 年“四大”巡演与摇滚名人堂入选写在同一段。2011 年 12 月 30 周年演出的嘉宾有 Dave Mustaine、Ozzy Osbourne、Geezer Butler、Jerry Cantrell 与 Rob Halford。"
   },
   "narrative": [
     {
@@ -142,11 +173,21 @@
         "zh": "Burton 时期 vs Newsted/Rock 时期"
       },
       "body": {
-        "en": "Cliff Burton’s years are the progressive-thrash citation. Post-1986 bass change and 1991 production shift create distinct versions under one name.\n\nHammett after Mustaine: lead-guitar continuity with a different origin story.",
-        "zh": "Cliff Burton 年代是 progressive thrash 引用。1986 后换贝斯与 1991 制作转向造就同名下的不同版本。\n\nMustaine 之后的 Hammett：主音吉他连续，起源故事不同。"
+        "en": "Cliff Burton’s years are the progressive-thrash citation. Post-1986 bass change and 1991 production shift create distinct versions under one name.\n\nHammett after Mustaine: lead-guitar continuity with a different origin story.\n\nEarly chairs also include McGovney and a short Grant guitar credit on Hit the Lights. The 2011 anniversary bills put Mustaine, Butler (Black Sabbath), Cantrell (Alice in Chains), and Halford (Judas Priest) on the same stage.",
+        "zh": "Cliff Burton 年代是 progressive thrash 引用。1986 后换贝斯与 1991 制作转向造就同名下的不同版本。\n\nMustaine 之后的 Hammett：主音吉他连续，起源故事不同。\n\n早期座位还包括 McGovney，以及 Hit the Lights 上很短的 Grant 吉他署名。2011 年周年演出把 Mustaine、Butler（Black Sabbath）、Cantrell（Alice in Chains）与 Halford（Judas Priest）放到同一舞台。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "heavy-metal"
+      "soundGenre": "heavy-metal",
+      "stickyImage": {
+        "src": "/media/bands/metallica-hammett-madrid-2009.jpg",
+        "alt": {
+          "en": "Kirk Hammett with Metallica, Madrid, 2009",
+          "zh": "Kirk Hammett 与 Metallica，马德里，2009"
+        },
+        "credit": "Alberto Cabello",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kirk_Hammett_Madrid_2009.jpg"
+      }
     },
     {
       "id": "scene-0",
@@ -174,7 +215,17 @@
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
-      "soundGenre": "heavy-metal"
+      "soundGenre": "heavy-metal",
+      "stickyImage": {
+        "src": "/media/bands/metallica-san-siro-2019.jpg",
+        "alt": {
+          "en": "Metallica at San Siro, Milan, 8 May 2019",
+          "zh": "Metallica，米兰 San Siro，2019 年 5 月 8 日"
+        },
+        "credit": "Dennis Radaelli",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Metallica_at_Ippodromo_San_Siro,_Milan,_May_8th,_2019.jpg"
+      }
     },
     {
       "id": "dna",
@@ -233,8 +284,8 @@
         }
       ],
       "note": {
-        "en": "Cliff Burton progressive-thrash peak years.",
-        "zh": "Cliff Burton progressive thrash 巅峰年。"
+        "en": "Mustaine out, Hammett (ex-Exodus) in before Kill ’Em All. Burton died in the 1986 Sweden bus crash after the Ozzy US tour.",
+        "zh": "Kill ’Em All 前 Mustaine 离队，Hammett（前 Exodus）进入。与 Ozzy 美国巡演之后，Burton 死于 1986 年瑞典大巴车祸。"
       }
     },
     {
@@ -264,8 +315,8 @@
         }
       ],
       "note": {
-        "en": "Newsted / Black Album–era mainstream turn.",
-        "zh": "Newsted / 黑专时期主流转折。"
+        "en": "Newsted from Flotsam and Jetsam, first on the 1987 Garage Days EP. Trujillo, ex-Suicidal Tendencies and Ozzy’s bassist, replaced him around St. Anger (2003).",
+        "zh": "Newsted 来自 Flotsam and Jetsam，首次出现在 1987 年 Garage Days EP。约在 St. Anger（2003）前后，前 Suicidal Tendencies、Ozzy 乐队贝斯手 Trujillo 接替。"
       }
     }
   ],

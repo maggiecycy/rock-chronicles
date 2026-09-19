@@ -48,6 +48,16 @@
       "role": "Vocals",
       "years": "1996–2003",
       "personSlug": "ripper-owens"
+    },
+    {
+      "name": "Al Atkins",
+      "role": "Vocals",
+      "years": "1969–1973"
+    },
+    {
+      "name": "Richie Faulkner",
+      "role": "Guitar",
+      "years": "2011–present"
     }
   ],
   "essentialTracks": [
@@ -137,6 +147,12 @@
       "speaker": "Glenn Tipton",
       "source": "Guitar interview excerpt",
       "year": 1980
+    },
+    {
+      "text": "What we want in the long run is to be treated as leaders of the music we play — heavy metal. (Chinese-edition wording.)",
+      "speaker": "K.K. Downing",
+      "source": "Kerrang!, via 《摇滚编年史》",
+      "year": 1987
     }
   ],
   "lyricQuotes": [
@@ -164,8 +180,8 @@
     "zh": "Halford 加双吉他金属；British Steel 至 Painkiller 经典峰值。"
   },
   "body": {
-    "en": "Formed in 1969. Halford with Tipton/Downing twin leads define the leather-metal image. British Steel shortens songs for radio; Painkiller (1990) with Scott Travis raises tempo and double-bass density.\n\nThe classic peak runs from the Halford leather years through Painkiller.",
-    "zh": "1969 年组建。Halford 与 Tipton/Downing 双主音定义皮衣金属形象。British Steel 为电台缩短歌曲；与 Scott Travis 的 Painkiller（1990）提高速度与双底鼓密度。\n\n经典峰值从 Halford 皮衣期延续到 Painkiller。"
+    "en": "Formed in 1969. Halford with Tipton/Downing twin leads define the leather-metal image. British Steel shortens songs for radio; Painkiller (1990) with Scott Travis raises tempo and double-bass density.\n\nThe classic peak runs from the Halford leather years through Painkiller.\n\nFormed in 1969 by singer Al Atkins, K.K. Downing, Ian Hill, and drummer John Ellis. The name came from Atkins’ earlier band, itself named from Bob Dylan’s The Ballad of Frankie Lee and Judas Priest. Atkins left in 1973; Rob Halford replaced him. Glenn Tipton, from the Flying Hat Band, joined the next year. Roger Glover produced Sin After Sin (1977), with Simon Phillips on drums; the album covers Joan Baez’s Diamonds and Rust. Stained Class (1978) includes Exciter and a Gary Wright cover, Better By You, Better Than Me. British Steel (1980) hit UK #4, with Living After Midnight and Breaking the Law. The book says US sales then passed Iron Maiden. Screaming for Vengeance (1982) went double platinum. Turbo (1986) added keyboards; UK listeners objected, US sales still went platinum. A 1990 Nevada case claimed backmasked messages in Beyond the Realms of Death had pushed two teenagers toward suicide in 1985; the case was dismissed. Scott Travis played on Painkiller (1990). Halford left in 1992 for Fight. Tim “Ripper” Owens, from a Priest tribute band, sang the next two studio albums. Halford returned for Angel of Retribution (2005). Downing left before the 2011 Epitaph tour; Richie Faulkner took the guitar chair. The Chosen Few (2011) collects songs picked by Alice Cooper, Ozzy Osbourne, Metallica, Slayer, Whitesnake, Scorpions, Def Leppard, and Guns N’ Roses.",
+    "zh": "1969 年组建。Halford 与 Tipton/Downing 双主音定义皮衣金属形象。British Steel 为电台缩短歌曲；与 Scott Travis 的 Painkiller（1990）提高速度与双底鼓密度。\n\n经典峰值从 Halford 皮衣期延续到 Painkiller。\n\n1969 年由歌手 Al Atkins、K.K. Downing、Ian Hill 与鼓手 John Ellis 组建。队名来自 Atkins 先前的乐队，那支乐队则取自 Bob Dylan 的 The Ballad of Frankie Lee and Judas Priest。Atkins 1973 年离开，Rob Halford 接任。次年 Glenn Tipton（Flying Hat Band）加入。Roger Glover 制作 Sin After Sin（1977），鼓手 Simon Phillips；专辑翻唱 Joan Baez 的 Diamonds and Rust。Stained Class（1978）含 Exciter 与 Gary Wright 的 Better By You, Better Than Me。British Steel（1980）英国榜第 4，单曲 Living After Midnight 与 Breaking the Law。书中写此时美国销量已超过 Iron Maiden。Screaming for Vengeance（1982）双白金。Turbo（1986）加入键盘；英国听众不满，美国仍达白金。1990 年内华达诉讼称 Beyond the Realms of Death 的倒放信息推动 1985 年两名少年自杀；案子被驳回。Scott Travis 打 Painkiller（1990）。Halford 1992 年离队去做 Fight。Tim “Ripper” Owens 来自一支 Priest 翻唱乐队，唱了随后两张录音室专辑。Halford 为 Angel of Retribution（2005）回归。2011 年 Epitaph 巡演前 Downing 离队，Richie Faulkner 接吉他。The Chosen Few（2011）的曲目由 Alice Cooper、Ozzy Osbourne、Metallica、Slayer、Whitesnake、Scorpions、Def Leppard 与 Guns N’ Roses 选出。"
   },
   "narrative": [
     {
@@ -192,7 +208,17 @@
         "zh": "巅峰：Halford / Tipton / Downing / Hill，后期加 Travis。90 年代 Ripper Owens 章节夹在 Halford 两期之间。Halford 2003 回归。\n\n编年史巅峰 = 皮衣 Halford 双吉他期至 Painkiller。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "heavy-metal"
+      "soundGenre": "heavy-metal",
+      "stickyImage": {
+        "src": "/media/bands/judas-priest-halford-hellfest-2018.jpg",
+        "alt": {
+          "en": "Rob Halford with Judas Priest at Hellfest, 2018",
+          "zh": "Rob Halford 与 Judas Priest，Hellfest，2018"
+        },
+        "credit": "Tilly Antoine",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rob_Halford_au_Hellfest_2018.jpg"
+      }
     },
     {
       "id": "members",
@@ -233,7 +259,17 @@
       },
       "stickyVisual": "scene",
       "sceneIndex": 1,
-      "soundGenre": "heavy-metal"
+      "soundGenre": "heavy-metal",
+      "stickyImage": {
+        "src": "/media/bands/judas-priest-halford-tons-of-rock.jpg",
+        "alt": {
+          "en": "Rob Halford with Judas Priest at Tons of Rock",
+          "zh": "Rob Halford 与 Judas Priest，Tons of Rock"
+        },
+        "credit": "Birgit Fostervold",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rob_Halford,_Judas_Priest_at_Tons_of_Rock_(53847929479).jpg"
+      }
     },
     {
       "id": "legacy",
@@ -242,8 +278,8 @@
         "zh": "金属外观与双主音写作"
       },
       "body": {
-        "en": "Leather look and twin-lead writing feed Maiden, Megadeth, and arena metal. Birmingham metal map: Sabbath doom, Priest speed and image.\n\nHalford’s voice remains the main citation.",
-        "zh": "皮衣外观与双主音写作影响 Maiden、Megadeth 与体育场金属。伯明翰金属地图：Sabbath doom，Priest 速度与形象。\n\nHalford 人声仍是主要引用。"
+        "en": "Leather look and twin-lead writing feed Maiden, Megadeth, and arena metal. Birmingham metal map: Sabbath doom, Priest speed and image.\n\nHalford’s voice remains the main citation.\n\nK.K. Downing to Kerrang! in 1987, via the Chinese edition: what they wanted long-term was to be treated as leaders of the music they played, heavy metal.",
+        "zh": "皮衣外观与双主音写作影响 Maiden、Megadeth 与体育场金属。伯明翰金属地图：Sabbath doom，Priest 速度与形象。\n\nHalford 人声仍是主要引用。\n\n中文版所引 K.K. Downing 1987 年对 Kerrang! 说：长远要的是被当成他们所做的那种音乐——重金属——的带头人。"
       },
       "stickyVisual": "influence",
       "soundGenre": "heavy-metal"
@@ -283,8 +319,8 @@
         }
       ],
       "note": {
-        "en": "British Steel through Painkiller peak window (Travis from 1989).",
-        "zh": "British Steel 至 Painkiller 巅峰窗（Travis 自 1989）。"
+        "en": "Halford from 1973, Tipton from 1974. Glover/Phillips on Sin After Sin. Travis from Painkiller (1990). Faulkner replaced Downing in 2011.",
+        "zh": "Halford 自 1973，Tipton 自 1974。Sin After Sin 为 Glover / Phillips。Travis 自 Painkiller（1990）。2011 年 Faulkner 接替 Downing。"
       }
     },
     {
@@ -319,8 +355,8 @@
         }
       ],
       "note": {
-        "en": "Jugulator / Demolition between Halford eras.",
-        "zh": "夹在 Halford 两期之间的 Jugulator / Demolition。"
+        "en": "Owens came from a tribute band after Halford left for Fight in 1992. The book sets this next to Dickinson leaving Maiden: both bands sold less without the singer.",
+        "zh": "1992 年 Halford 去做 Fight 之后，Owens 来自翻唱乐队。书中把这事与 Dickinson 离开 Maiden 并列：两支乐队在主唱离开后成绩都下去了。"
       }
     }
   ],
