@@ -35,6 +35,11 @@
       "name": "Dave Rowntree",
       "role": "Drums",
       "years": "1988–present"
+    },
+    {
+      "name": "Simon Tong",
+      "role": "Guitar",
+      "years": "2002–2003"
     }
   ],
   "essentialTracks": [
@@ -134,7 +139,11 @@
     "oasis",
     "pulp",
     "suede",
-    "radiohead"
+    "radiohead",
+    "the-kinks",
+    "the-clash",
+    "the-verve",
+    "the-who"
   ],
   "influenceFrom": [
     "the-kinks",
@@ -150,8 +159,8 @@
     "zh": "Albarn / Coxon 的 Britpop，1988 年至今。《Parklife》与《Song 2》是主要参照；《Think Tank》是无 Coxon 时期。"
   },
   "body": {
-    "en": "Blur formed in Colchester in 1988. Leisure (1991) and Modern Life Is Rubbish (1993) set the early UK indie base. Parklife (1994) and The Great Escape (1995) reached UK #1 and were widely covered against Oasis in the mid-90s chart press.\n\nBlur (1997) includes Song 2, a short loud/quiet track that charted in the US. Coxon’s guitar—noise, feedback, short chops—marks the four-piece sound through 13 (1999). He left before Think Tank (2003); later reunions restore the classic lineup. Albarn also formed Gorillaz outside this band.",
-    "zh": "Blur 于 1988 年在科尔切斯特成立。《Leisure》（1991）与《Modern Life Is Rubbish》（1993）建立早期英国 indie 基础。《Parklife》（1994）与《The Great Escape》（1995）登上英国榜冠军，并在 90 年代中期媒体上常与 Oasis 对照报道。\n\n《Blur》（1997）含《Song 2》，短强弱单曲，进入美国榜。Coxon 的吉他——噪声、反馈、短切分——贯穿四人组至《13》（1999）。他在《Think Tank》（2003）前离队；后期重聚恢复经典阵容。Albarn 另组建 Gorillaz。"
+    "en": "Blur formed in Colchester in 1988. Leisure (1991) and Modern Life Is Rubbish (1993) set the early UK indie base. Parklife (1994) and The Great Escape (1995) reached UK #1 and were widely covered against Oasis in the mid-90s chart press.\n\nBlur (1997) includes Song 2, a short loud/quiet track that charted in the US. Coxon’s guitar—noise, feedback, short chops—marks the four-piece sound through 13 (1999). He left before Think Tank (2003); later reunions restore the classic lineup. Albarn also formed Gorillaz outside this band.\n\nAlbarn and Coxon met at school in Essex, then played in Circus at Goldsmiths with Dave Rowntree. Alex James joined on bass. The group was Seymour until Food Records, under EMI, required the name Blur in 1989. Leisure (1991) sold on the back of There’s No Other Way, a UK top 10. After a 1992 US tour they nearly split. Modern Life Is Rubbish (1993) draws on The Kinks, The Jam, and Small Faces.\n\nParklife (1994) uses Phil Daniels, from the Who film Quadrophenia, and Laetitia Sadier of Stereolab. In August 1995 Country House and Oasis’s Roll with It came out the same week; Country House took the UK #1. The Great Escape (1995) followed that press fight. Blur (1997) cites Pavement; Song 2 is the US radio track, Beetlebum a second UK #1. 13 (1999), produced by William Orbit, covers the split with Justine Frischmann of Elastica. Albarn and Jamie Hewlett then started Gorillaz, later using Mick Jones and Paul Simonon of The Clash. Coxon was fired during the Think Tank (2003) sessions. Simon Tong, from The Verve, played the tour. The four played Glastonbury 2009, Hyde Park, the 2012 Olympics closing ceremony, and headlined Coachella 2013.",
+    "zh": "Blur 于 1988 年在科尔切斯特成立。《Leisure》（1991）与《Modern Life Is Rubbish》（1993）建立早期英国 indie 基础。《Parklife》（1994）与《The Great Escape》（1995）登上英国榜冠军，并在 90 年代中期媒体上常与 Oasis 对照报道。\n\n《Blur》（1997）含《Song 2》，短强弱单曲，进入美国榜。Coxon 的吉他——噪声、反馈、短切分——贯穿四人组至《13》（1999）。他在《Think Tank》（2003）前离队；后期重聚恢复经典阵容。Albarn 另组建 Gorillaz。\n\nAlbarn 与 Coxon 在埃塞克斯的学校认识，后来在金史密斯学院的 Circus 里和 Dave Rowntree 一起演奏。Alex James 加入弹贝斯。乐队当时叫 Seymour，1989 年百代旗下 Food 要求改名 Blur。《Leisure》（1991）靠英国榜前 10 的《There’s No Other Way》卖出去。1992 年美国巡演后他们几乎散掉。《Modern Life Is Rubbish》（1993）借用 The Kinks、The Jam 与 Small Faces。\n\n《Parklife》（1994）用了 Who 电影《四重人格》的 Phil Daniels，以及 Stereolab 的 Laetitia Sadier。1995 年 8 月《Country House》与 Oasis 的《Roll with It》同一周发行，《Country House》拿到英国榜首。随后是《The Great Escape》（1995）。《Blur》（1997）引用 Pavement；《Song 2》是美国电台曲，《Beetlebum》是第二首英国冠军。《13》（1999）由 William Orbit 制作，写到与 Elastica 的 Justine Frischmann 分手。Albarn 与 Jamie Hewlett 随后组建 Gorillaz，后来用了 The Clash 的 Mick Jones 与 Paul Simonon。录《Think Tank》（2003）时 Coxon 被解雇。来自 The Verve 的 Simon Tong 参加宣传巡演。四人组 2009 年格拉斯顿伯里复合，之后有海德公园、2012 年奥运会闭幕式，以及 2013 年 Coachella 主打。"
   },
   "narrative": [
     {
@@ -174,11 +183,21 @@
         "zh": "经典四人组与 Think Tank"
       },
       "body": {
-        "en": "Damon Albarn, Graham Coxon, Alex James, and Dave Rowntree are the best-known lineup from Modern Life Is Rubbish through 13.\n\nCoxon left before Think Tank (2003). Electronic parts and guests covered the guitar role. Reunions from 2009 onward restore the four-piece.",
-        "zh": "Damon Albarn、Graham Coxon、Alex James 与 Dave Rowntree 是从《Modern Life Is Rubbish》到《13》最熟悉的阵容。\n\nCoxon 在《Think Tank》（2003）前离队。电子音色与客座乐手填补吉他。2009 年起的重聚恢复四人组。"
+        "en": "Damon Albarn, Graham Coxon, Alex James, and Dave Rowntree are the best-known lineup from Modern Life Is Rubbish through 13.\n\nCoxon left before Think Tank (2003). Electronic parts and guests covered the guitar role. Reunions from 2009 onward restore the four-piece.\n\nThe only chair change in the entry is Coxon’s 2002 exit and 2009 return. Tong covers the gap, shared with The Verve.",
+        "zh": "Damon Albarn、Graham Coxon、Alex James 与 Dave Rowntree 是从《Modern Life Is Rubbish》到《13》最熟悉的阵容。\n\nCoxon 在《Think Tank》（2003）前离队。电子音色与客座乐手填补吉他。2009 年起的重聚恢复四人组。\n\n条目里唯一的换人是 Coxon 2002 年离开、2009 年回来。空档由 The Verve 的 Simon Tong 补上。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "britpop"
+      "soundGenre": "britpop",
+      "stickyImage": {
+        "src": "/media/bands/blur-hyde-park-2009.jpg",
+        "alt": {
+          "en": "Blur at Hyde Park, London, 3 July 2009",
+          "zh": "Blur，伦敦海德公园，2009 年 7 月 3 日"
+        },
+        "credit": "Martin Pettitt",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blur_Concert_Hyde_Park_3_July_2009_(08).jpg"
+      }
     },
     {
       "id": "parklife",
@@ -292,8 +311,8 @@
         }
       ],
       "note": {
-        "en": "Coxon exits; Think Tank leans electronic and art-rock.",
-        "zh": "Coxon 离队；《Think Tank》偏电子与 art-rock。"
+        "en": "Coxon exits; Think Tank leans electronic and art-rock.\n\nCoxon was out for the Think Tank tour. Simon Tong, ex-Verve, played guitar, then stayed with Gorillaz and The Good, the Bad & the Queen.",
+        "zh": "Coxon 离队；《Think Tank》偏电子与 art-rock。\n\nThink Tank 巡演没有 Coxon。前 Verve 的 Simon Tong 担任吉他，后来留在 Gorillaz 和 The Good, the Bad & the Queen。"
       }
     }
   ],
