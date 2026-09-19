@@ -36,6 +36,16 @@
       "name": "Matt Helders",
       "role": "Drums, Vocals",
       "years": "2002–present"
+    },
+    {
+      "name": "Glyn Jones",
+      "role": "Vocals",
+      "years": "2002"
+    },
+    {
+      "name": "Andy Nicholson",
+      "role": "Bass",
+      "years": "2002–2006"
     }
   ],
   "essentialTracks": [
@@ -128,7 +138,9 @@
   ],
   "relatedBands": [
     "radiohead",
-    "the-rolling-stones"
+    "the-rolling-stones",
+    "queens-of-the-stone-age",
+    "the-strokes"
   ],
   "influenceFrom": [
     "the-rolling-stones",
@@ -141,8 +153,8 @@
     "zh": "Turner 领衔的谢菲尔德 indie/alt，2002 年至今。《Dancefloor》与《Do I Wanna Know?》标记早期与 AM 时期两极。"
   },
   "body": {
-    "en": "Arctic Monkeys formed in Sheffield in 2002. Online demos spread before Domino released Whatever People Say I Am, That’s What I’m Not (2006)—rapid indie-punk diction and Helders’s drums. Favourite Worst Nightmare (2007) kept the speed. Andy Nicholson left on bass; Nick O’Malley settled in the seat.\n\nAM (2013) slowed grooves, added falsetto hooks, and reached global rock radio. I Bet You Look Good on the Dancefloor (2005) and Do I Wanna Know? (2013) are the clearest era markers.",
-    "zh": "Arctic Monkeys 于 2002 年在谢菲尔德成立。网络 demo 先于 Domino 发行的《Whatever People Say I Am, That’s What I’m Not》（2006）传播——快速 indie-punk 吐字与 Helders 鼓。《Favourite Worst Nightmare》（2007）保持速度。贝斯手 Andy Nicholson 离队后，Nick O’Malley 固定下来。\n\n《AM》（2013）放慢 groove、加入假声钩子，并进入全球摇滚电台。《I Bet You Look Good on the Dancefloor》（2005）与《Do I Wanna Know?》（2013）是最清楚的时期标记。"
+    "en": "Arctic Monkeys formed in Sheffield in 2002. Online demos spread before Domino released Whatever People Say I Am, That’s What I’m Not (2006)—rapid indie-punk diction and Helders’s drums. Favourite Worst Nightmare (2007) kept the speed. Andy Nicholson left on bass; Nick O’Malley settled in the seat.\n\nAM (2013) slowed grooves, added falsetto hooks, and reached global rock radio. I Bet You Look Good on the Dancefloor (2005) and Do I Wanna Know? (2013) are the clearest era markers.\n\nSheffield, 2002: Glyn Jones sang, Alex Turner and Jamie Cook played guitar, Matt Helders drums, Andy Nicholson bass. Jones left quickly. Turner took vocals. In 2005 I Bet You Look Good on the Dancefloor and When the Sun Goes Down were UK #1 singles. They handed live copies to the crowd; listeners then put the songs online. The band signed to Laurence Bell’s Domino and turned down larger labels. Whatever People Say I Am, That’s What I’m Not (January 2006) is, in the book’s line, the fastest-selling UK album to that date, and a US top 20. Nicholson left before the first US tour. Nick O’Malley played bass and stayed. Favourite Worst Nightmare is 2007.\n\nTurner and Miles Kane recorded The Age of the Understatement (2008) as The Last Shadow Puppets, another UK #1. The four reconvened for Humbug (2009), produced with Josh Homme of Queens of the Stone Age. Suck It and See is 2011. AM (2013) is the fifth UK #1 in a row.",
+    "zh": "Arctic Monkeys 于 2002 年在谢菲尔德成立。网络 demo 先于 Domino 发行的《Whatever People Say I Am, That’s What I’m Not》（2006）传播——快速 indie-punk 吐字与 Helders 鼓。《Favourite Worst Nightmare》（2007）保持速度。贝斯手 Andy Nicholson 离队后，Nick O’Malley 固定下来。\n\n《AM》（2013）放慢 groove、加入假声钩子，并进入全球摇滚电台。《I Bet You Look Good on the Dancefloor》（2005）与《Do I Wanna Know?》（2013）是最清楚的时期标记。\n\n2002 年，谢菲尔德：Glyn Jones 主唱，Alex Turner 与 Jamie Cook 吉他，Matt Helders 鼓，Andy Nicholson 贝斯。Jones 很快离开，Turner 接主唱。2005 年《I Bet You Look Good on the Dancefloor》与《When the Sun Goes Down》是英国单曲冠军。他们把现场拷贝发给观众，歌曲随后出现在网上。乐队签给 Laurence Bell 的 Domino，没有签更大的公司。《Whatever People Say I Am, That’s What I’m Not》（2006 年 1 月）在书中被写成当时英国卖得最快的专辑，并进入美国前 20。Nicholson 在首次美国巡演前退出。Nick O’Malley 打贝斯并留下。《Favourite Worst Nightmare》是 2007 年。\n\nTurner 与 Miles Kane 以 The Last Shadow Puppets 录了《The Age of the Understatement》（2008），又是英国冠军。四人回到《Humbug》（2009），与 Queens of the Stone Age 的 Josh Homme 共同制作。《Suck It and See》是 2011 年。《AM》（2013）是连续第五张英国冠军专辑。"
   },
   "narrative": [
     {
@@ -165,12 +177,22 @@
         "zh": "《I Bet You Look Good on the Dancefloor》"
       },
       "body": {
-        "en": "Fast downstrokes, syllable-dense Turner vocal, and Helders fills. A 2005/06 UK indie chart single from the debut cycle.\n\nIt documents the band before the slower AM production.",
-        "zh": "快速下行扫弦、音节密集的 Turner 人声与 Helders 加花。2005/06 英国 indie 榜单曲，属出道周期。\n\n记录较慢的 AM 制作之前的乐队状态。"
+        "en": "Fast downstrokes, syllable-dense Turner vocal, and Helders fills. A 2005/06 UK indie chart single from the debut cycle.\n\nIt documents the band before the slower AM production.\n\nThe 2005 UK #1 is a Domino single. The debut album is on the same independent label. Homme’s name sits on Humbug, the 2009 album.",
+        "zh": "快速下行扫弦、音节密集的 Turner 人声与 Helders 加花。2005/06 英国 indie 榜单曲，属出道周期。\n\n记录较慢的 AM 制作之前的乐队状态。\n\n2005 年的英国冠军是 Domino 的单曲。首专也在这家独立厂牌。Homme 的名字挂在 2009 年的《Humbug》上。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 0,
-      "soundGenre": "indie-rock"
+      "soundGenre": "indie-rock",
+      "stickyImage": {
+        "src": "/media/bands/arctic-monkeys-norwich-2005.jpg",
+        "alt": {
+          "en": "Alex Turner with Arctic Monkeys, Norwich, 2005",
+          "zh": "Alex Turner 与 Arctic Monkeys，诺里奇，2005"
+        },
+        "credit": "Bleeding Mole",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alex_Turner_Arctic_Monkeys_Nowrich_2005.jpg"
+      }
     },
     {
       "id": "diwk",
@@ -259,8 +281,8 @@
         }
       ],
       "note": {
-        "en": "Sheffield indie into AM polish; O’Malley fixed after early bass change.",
-        "zh": "谢菲尔德 indie 到 AM 抛光；早期换贝斯后 O’Malley 固定。"
+        "en": "Sheffield indie into AM polish; O’Malley fixed after early bass change.\n\nJones is the first singer. Nicholson plays bass until the first US tour. O’Malley is the bassist from then on.",
+        "zh": "谢菲尔德 indie 到 AM 抛光；早期换贝斯后 O’Malley 固定。\n\nJones 是第一任主唱。Nicholson 打到首次美国巡演。之后的贝斯是 O’Malley。"
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "name": "The Strokes",
   "slug": "the-strokes",
-  "formed": 1998,
+  "formed": 1999,
   "origin": "New York, USA",
   "primaryEra": "2000s-revival",
   "genres": [
@@ -115,7 +115,11 @@
   "relatedBands": [
     "arctic-monkeys",
     "the-clash",
-    "joy-division"
+    "joy-division",
+    "the-rolling-stones",
+    "radiohead",
+    "kings-of-leon",
+    "the-libertines"
   ],
   "influenceFrom": [
     "the-clash",
@@ -130,8 +134,8 @@
   },
   "decisive": true,
   "body": {
-    "en": "The Strokes formed in New York in 1998. Is This It (2001, RCA/Rough Trade) and Room on Fire (2003) fixed Casablancas’s half-spoken vocal, interlocking Valensi/Hammond guitars, Fraiture bass, Moretti drums, and a dry, compressed mix.\n\nLast Nite (2001) and Reptilia (2003) are the most-cited singles. The five-piece lineup stayed intact through the debut era. Later albums experiment with longer forms and different production; early citations still center on the first two records.",
-    "zh": "The Strokes 于 1998 年在纽约成立。《Is This It》（2001，RCA/Rough Trade）与《Room on Fire》（2003）定型 Casablancas 半说唱式人声、Valensi/Hammond 交织吉他、Fraiture 贝斯、Moretti 鼓，以及偏干、压缩的混音。\n\n《Last Nite》（2001）与《Reptilia》（2003）是最常被引用的单曲。出道期五人阵容未变。后期专辑尝试更长曲式与不同制作；引用仍多集中在前两张。"
+    "en": "The Strokes formed in New York in 1998. Is This It (2001, RCA/Rough Trade) and Room on Fire (2003) fixed Casablancas’s half-spoken vocal, interlocking Valensi/Hammond guitars, Fraiture bass, Moretti drums, and a dry, compressed mix.\n\nLast Nite (2001) and Reptilia (2003) are the most-cited singles. The five-piece lineup stayed intact through the debut era. Later albums experiment with longer forms and different production; early citations still center on the first two records.\n\nJulian Casablancas, Nick Valensi, and Fabrizio Moretti met at Dwight School in Manhattan. At 13, Casablancas met guitarist Albert Hammond Jr. at Institut Le Rosey in Switzerland. Nikolai Fraiture completed the five. The name The Strokes dates from 1999. In January 2001 Rough Trade in London issued the three-song Modern Age EP. In March they recorded with Gordon Raphael in the East Village. Is This It came out that summer and reached US #33. The UK #1 that year was Slipknot’s Iowa, not this album. The entry lists The Hives, The Libertines, Arctic Monkeys, Kings of Leon, and The Vines among bands that followed them onto charts. They opened two dates on The Rolling Stones’ 2002 Licks tour. Room on Fire (2003) started with Radiohead producer Nigel Godrich, then went back to Raphael. 12:51 is built on Valensi’s synth-like guitar figure. First Impressions of Earth was their first UK #1. After a long break they reconvened in 2009. Angles (2011) reached US #4 and UK #3. Casablancas recorded his vocals away from the band. Valensi, Chinese-edition wording, said he would not make another album that way.",
+    "zh": "The Strokes 于 1998 年在纽约成立。《Is This It》（2001，RCA/Rough Trade）与《Room on Fire》（2003）定型 Casablancas 半说唱式人声、Valensi/Hammond 交织吉他、Fraiture 贝斯、Moretti 鼓，以及偏干、压缩的混音。\n\n《Last Nite》（2001）与《Reptilia》（2003）是最常被引用的单曲。出道期五人阵容未变。后期专辑尝试更长曲式与不同制作；引用仍多集中在前两张。\n\nJulian Casablancas、Nick Valensi 与 Fabrizio Moretti 在曼哈顿德怀特学校认识。13 岁时，Casablancas 在瑞士萝实学院认识吉他手 Albert Hammond Jr.。Nikolai Fraiture 补齐五人。The Strokes 这个名字从 1999 年开始。2001 年 1 月，伦敦 Rough Trade 发行三首歌的《Modern Age》EP。3 月他们在东村与 Gordon Raphael 录音。《Is This It》那年夏天发行，美国第 33。当年英国专辑榜首是 Slipknot 的《Iowa》。条目把 The Hives、The Libertines、Arctic Monkeys、Kings of Leon、The Vines 列为随后上榜的乐队。他们给 The Rolling Stones 2002 年《Licks》巡演开了两场。《Room on Fire》（2003）先找了 Radiohead 的制作人 Nigel Godrich，再回到 Raphael。《12:51》建在 Valensi 那条类似合成器的吉他句上。《First Impressions of Earth》是他们第一张英国冠军。长休之后，2009 年重新聚齐。《Angles》（2011）美国第 4、英国第 3。Casablancas 的人声是分开录的。中文版所引 Valensi：下一张要是还这样，他就不做了。"
   },
   "narrative": [
     {
@@ -141,11 +145,21 @@
         "zh": "nu-metal 电台之后的压缩车库流行"
       },
       "body": {
-        "en": "Around 2001, US rock radio still carried a lot of nu-metal and polished alternative. The Strokes released short songs with dry production, post-punk guitar chatter, and a NYC downtown image.\n\nIs This It arrived early in that cycle and became a reference point for UK and US indie bands over the next several years.",
-        "zh": "2001 年前后，美国摇滚电台仍有大量 nu-metal 与抛光 alternative。The Strokes 推出短歌、干制作、后朋克式吉他碎语，以及纽约市中心形象。\n\n《Is This It》较早进入这一周期，成为此后数年英美 indie 乐队的参照点。"
+        "en": "Around 2001, US rock radio still carried a lot of nu-metal and polished alternative. The Strokes released short songs with dry production, post-punk guitar chatter, and a NYC downtown image.\n\nIs This It arrived early in that cycle and became a reference point for UK and US indie bands over the next several years.\n\nRough Trade’s Modern Age EP is the 2001 release. The two Stones support slots are the live node. Libertines, Arctic Monkeys, and Kings of Leon are the UK names in the same paragraph.",
+        "zh": "2001 年前后，美国摇滚电台仍有大量 nu-metal 与抛光 alternative。The Strokes 推出短歌、干制作、后朋克式吉他碎语，以及纽约市中心形象。\n\n《Is This It》较早进入这一周期，成为此后数年英美 indie 乐队的参照点。\n\nRough Trade 的《Modern Age》EP 是 2001 年的发行。给 Stones 暖场的两场是现场节点。Libertines、Arctic Monkeys 与 Kings of Leon 写在同一段里。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "indie-rock"
+      "soundGenre": "indie-rock",
+      "stickyImage": {
+        "src": "/media/bands/the-strokes-casablancas-2002.jpg",
+        "alt": {
+          "en": "Julian Casablancas of The Strokes, 2002",
+          "zh": "The Strokes 的 Julian Casablancas，2002"
+        },
+        "credit": "Roger Woolman",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Julian_Casablancas_2002.jpg"
+      }
     },
     {
       "id": "scene-0",
@@ -252,8 +266,8 @@
         }
       ],
       "note": {
-        "en": "Stable five-piece; Is This It and Room on Fire as the citation core.",
-        "zh": "稳定五人组；《Is This It》与《Room on Fire》为引用核心。"
+        "en": "Stable five-piece; Is This It and Room on Fire as the citation core.\n\nThe five do not change. Godrich is a studio name on the abandoned Room on Fire start, not a member.",
+        "zh": "稳定五人组；《Is This It》与《Room on Fire》为引用核心。\n\n五人没有换。Godrich 只出现在《Room on Fire》开头没完成的录音室名单里。"
       }
     }
   ]

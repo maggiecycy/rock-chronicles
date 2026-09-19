@@ -1,7 +1,7 @@
 {
   "name": "Queens of the Stone Age",
   "slug": "queens-of-the-stone-age",
-  "formed": 1996,
+  "formed": 1997,
   "origin": "California, USA",
   "primaryEra": "2000s-revival",
   "genres": [
@@ -35,6 +35,21 @@
     {
       "name": "Troy Van Leeuwen",
       "role": "Guitar",
+      "years": "2002–present"
+    },
+    {
+      "name": "Joey Castillo",
+      "role": "Drums",
+      "years": "2002–2012"
+    },
+    {
+      "name": "Dean Fertita",
+      "role": "Keyboards, Guitar",
+      "years": "2007–present"
+    },
+    {
+      "name": "Michael Shuman",
+      "role": "Bass",
       "years": "2007–present"
     }
   ],
@@ -66,7 +81,9 @@
   ],
   "relatedBands": [
     "them-crooked-vultures",
-    "foo-fighters"
+    "foo-fighters",
+    "led-zeppelin",
+    "arctic-monkeys"
   ],
   "influenceFrom": [
     "black-sabbath",
@@ -80,8 +97,8 @@
     "zh": "Kyuss 之后 Homme 领衔的 hard rock/alt；《Songs for the Deaf》是主要电台专辑；通向 Them Crooked Vultures。"
   },
   "body": {
-    "en": "Queens of the Stone Age formed in California in 1996 after Kyuss ended. Early records and Songs for the Deaf (2002, Dave Grohl on drums) fixed Homme’s tuned-down, repetitive riff writing, Nick Oliveri’s bass era, and Mark Lanegan guest vocals.\n\nHomme later formed Them Crooked Vultures with Grohl and John Paul Jones (2009), carrying related groove and dry production ideas. Emphasis stays on repeating riffs and desert-dry mixes, not shred display. Lineups rotate around Homme.",
-    "zh": "Queens of the Stone Age 于 1996 年在加州 Kyuss 结束后成立。早期唱片与《Songs for the Deaf》（2002，Dave Grohl 鼓）定型 Homme 降调反复 riff、Nick Oliveri 贝斯时期与 Mark Lanegan 客串人声。\n\nHomme 后来与 Grohl、John Paul Jones 组建 Them Crooked Vultures（2009），延续相关 groove 与干燥制作思路。重点仍是反复 riff 与沙漠干混音，而非速弹展示。阵容围绕 Homme 轮换。"
+    "en": "Queens of the Stone Age formed in California in 1996 after Kyuss ended. Early records and Songs for the Deaf (2002, Dave Grohl on drums) fixed Homme’s tuned-down, repetitive riff writing, Nick Oliveri’s bass era, and Mark Lanegan guest vocals.\n\nHomme later formed Them Crooked Vultures with Grohl and John Paul Jones (2009), carrying related groove and dry production ideas. Emphasis stays on repeating riffs and desert-dry mixes, not shred display. Lineups rotate around Homme.\n\nJosh Homme started the band after Kyuss. The book’s header date is 1997. The debut Queens of the Stone Age (1998) reached US #122 and UK #48. Nick Oliveri, also from Kyuss, is on Rated R (2000) and Songs for the Deaf (2002). Singles include Feel Good Hit of the Summer, The Lost Art of Keeping a Secret, No One Knows, and First It Giveth. Dave Grohl of Foo Fighters and Mark Lanegan of Screaming Trees play on Songs for the Deaf. Homme then fired Oliveri. Grohl and Lanegan went back to their own bands. The later names in the entry are drummer Joey Castillo, guitarist Troy Van Leeuwen, keyboardist Dean Fertita, and bassist Michael Shuman. Lullabies to Paralyze (2005) reached US #5. Era Vulgaris is 2007. Homme also recorded the Desert Sessions series, and with Grohl and John Paul Jones of Led Zeppelin formed Them Crooked Vultures. He produced Arctic Monkeys’ Humbug.",
+    "zh": "Queens of the Stone Age 于 1996 年在加州 Kyuss 结束后成立。早期唱片与《Songs for the Deaf》（2002，Dave Grohl 鼓）定型 Homme 降调反复 riff、Nick Oliveri 贝斯时期与 Mark Lanegan 客串人声。\n\nHomme 后来与 Grohl、John Paul Jones 组建 Them Crooked Vultures（2009），延续相关 groove 与干燥制作思路。重点仍是反复 riff 与沙漠干混音，而非速弹展示。阵容围绕 Homme 轮换。\n\nJosh Homme 在 Kyuss 之后组建这支乐队。书中抬头是 1997 年。首张《Queens of the Stone Age》（1998）美国第 122、英国第 48。同为前 Kyuss 的 Nick Oliveri 参加了《Rated R》（2000）与《Songs for the Deaf》（2002）。单曲包括《Feel Good Hit of the Summer》《The Lost Art of Keeping a Secret》《No One Knows》《First It Giveth》。Foo Fighters 的 Dave Grohl 与 Screaming Trees 的 Mark Lanegan 参加了《Songs for the Deaf》。随后 Homme 开除 Oliveri。Grohl 与 Lanegan 回到各自的乐队。条目里后期的名字是鼓手 Joey Castillo、吉他 Troy Van Leeuwen、键盘 Dean Fertita、贝斯 Michael Shuman。《Lullabies to Paralyze》（2005）美国第 5。《Era Vulgaris》是 2007 年。Homme 还以 Desert Sessions 录一系列作品，并与 Grohl、Led Zeppelin 的 John Paul Jones 组成 Them Crooked Vultures。他制作了 Arctic Monkeys 的《Humbug》。"
   },
   "whyMatters": {
     "en": "Josh Homme’s desert-rock project after Kyuss. From Queens of the Stone Age (1998) through Songs for the Deaf (2002), down-tuned repeating riffs and rotating lineups defined the band; Homme later carried related methods into Them Crooked Vultures.",
@@ -163,11 +180,21 @@
         "zh": "Songs for the Deaf：Grohl 打鼓"
       },
       "body": {
-        "en": "Homme produces and Grohl drums on Songs for the Deaf (2002)—No One Knows and Go with the Flow hit US rock radio.\n\nThe mix is dry and mid-forward; riffs repeat with micro-variation rather than long solos. The album title references desert highway radio static as a production idea.",
-        "zh": "Homme 制作、Grohl 打鼓于《Songs for the Deaf》（2002）——《No One Knows》与《Go with the Flow》打进美国 rock 电台。\n\n混音干、中频前置；riff 反复带微变化，而非长独奏。专辑名指沙漠公路电台静电，作为制作想法。"
+        "en": "Homme produces and Grohl drums on Songs for the Deaf (2002)—No One Knows and Go with the Flow hit US rock radio.\n\nThe mix is dry and mid-forward; riffs repeat with micro-variation rather than long solos. The album title references desert highway radio static as a production idea.\n\nKyuss is the prior band for Homme and Oliveri. Grohl and John Paul Jones meet Homme again in Them Crooked Vultures. Humbug is the Arctic Monkeys session.",
+        "zh": "Homme 制作、Grohl 打鼓于《Songs for the Deaf》（2002）——《No One Knows》与《Go with the Flow》打进美国 rock 电台。\n\n混音干、中频前置；riff 反复带微变化，而非长独奏。专辑名指沙漠公路电台静电，作为制作想法。\n\nKyuss 是 Homme 与 Oliveri 的前一支乐队。Grohl 与 John Paul Jones 在 Them Crooked Vultures 里再和 Homme 一起。《Humbug》是给 Arctic Monkeys 做的专辑。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/queens-of-the-stone-age-acl-2007.jpg",
+        "alt": {
+          "en": "Queens of the Stone Age, Austin City Limits, 14 September 2007",
+          "zh": "Queens of the Stone Age，Austin City Limits，2007 年 9 月 14 日"
+        },
+        "credit": "Bruce Turner",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queens_of_the_Stone_Age_at_Austin_City_Limits_Music_Festival_2007.jpg"
+      }
     },
     {
       "id": "legacy",
@@ -269,8 +296,8 @@
         }
       ],
       "note": {
-        "en": "Oliveri/Lanegan/Grohl period; Homme desert riff writing.",
-        "zh": "Oliveri/Lanegan/Grohl 时期；Homme 沙漠 riff 写法。"
+        "en": "Oliveri/Lanegan/Grohl period; Homme desert riff writing.\n\nOliveri and Grohl are the Songs for the Deaf chairs. Castillo, Van Leeuwen, Fertita, and Shuman are the names after that album. The book does not print each join year.",
+        "zh": "Oliveri/Lanegan/Grohl 时期；Homme 沙漠 riff 写法。\n\nOliveri 与 Grohl 是《Songs for the Deaf》的位子。Castillo、Van Leeuwen、Fertita、Shuman 是这张专辑之后条目里的名字。书中没有逐个写加入年份。"
       }
     }
   ],

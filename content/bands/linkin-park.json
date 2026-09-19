@@ -70,7 +70,8 @@
   "relatedBands": [
     "system-of-a-down",
     "deftones",
-    "evanescence"
+    "evanescence",
+    "metallica"
   ],
   "influenceFrom": [
     "rage-against-the-machine",
@@ -85,8 +86,8 @@
     "zh": "Bennington / Shinoda 双人声 nu-metal；Hybrid Theory（2000）是早期目录在摇滚电台上的主要参照。"
   },
   "body": {
-    "en": "Formed in 1996 as Xero in Agoura Hills. Hybrid Theory and Meteora combine DJ/sample beds, downtuned guitars, Shinoda’s rap verses, and Bennington’s melodic choruses.\n\nIn the End (2000) shows the verse/chorus layout many 2000s bands used. Later albums add electronic and concept turns; the 2000–03 catalog is the main reference for how rock radio sounded on MTV and in retail spaces of that period.",
-    "zh": "1996 年于阿古拉山以 Xero 组建。Hybrid Theory 与 Meteora 结合 DJ/采样铺底、降调吉他、Shinoda 的 rap 主歌与 Bennington 的旋律副歌。\n\nIn the End（2000）展示许多 2000 年代乐队采用的主副歌布局。后期专辑加入电子与概念转向；2000–03 目录是该时期 MTV 与零售空间摇滚电台声景的主要参照。"
+    "en": "Formed in 1996 as Xero in Agoura Hills. Hybrid Theory and Meteora combine DJ/sample beds, downtuned guitars, Shinoda’s rap verses, and Bennington’s melodic choruses.\n\nIn the End (2000) shows the verse/chorus layout many 2000s bands used. Later albums add electronic and concept turns; the 2000–03 catalog is the main reference for how rock radio sounded on MTV and in retail spaces of that period.\n\nThe first name was Xero: Mike Shinoda, Rob Bourdon, and Brad Delson after high school. Joe Hahn, Dave Farrell (called Phoenix), and Chester Bennington joined. The name became Hybrid Theory, then Linkin Park, after Lincoln Park in Santa Monica. Hybrid Theory (2000) is, in the book, the best-selling album of that year. The remix album Reanimation (2002) includes Jonathan Davis of Korn, Aaron Lewis of Staind, and Stephen Carpenter of Deftones. Meteora (2003) was a chart #1 in several countries. Collision Course (2004), with Jay-Z, was a US #1. The touring bill also included Metallica. Jay-Z, Chinese-edition wording, said they were precise when the two acts shared a stage. Minutes to Midnight (2007) was produced by Rick Rubin. Road to Revolution: Live at Milton Keynes (2008) keeps a Jay-Z guest spot. New Divide, from the Transformers soundtrack, is a double-platinum single in the entry. A Thousand Suns (2010) is another Rubin album, then Living Things (2012) and The Hunting Party (2014).",
+    "zh": "1996 年于阿古拉山以 Xero 组建。Hybrid Theory 与 Meteora 结合 DJ/采样铺底、降调吉他、Shinoda 的 rap 主歌与 Bennington 的旋律副歌。\n\nIn the End（2000）展示许多 2000 年代乐队采用的主副歌布局。后期专辑加入电子与概念转向；2000–03 目录是该时期 MTV 与零售空间摇滚电台声景的主要参照。\n\n最初叫 Xero：高中之后的 Mike Shinoda、Rob Bourdon、Brad Delson。Joe Hahn、Dave Farrell（人称 Phoenix）与 Chester Bennington 加入。名字改成 Hybrid Theory，再改成 Linkin Park，取自圣莫尼卡的 Lincoln Park。《Hybrid Theory》（2000）在书中被写成当年销量最高的专辑。混音专辑《Reanimation》（2002）有 Korn 的 Jonathan Davis、Staind 的 Aaron Lewis、Deftones 的 Stephen Carpenter。《Meteora》（2003）在多国拿到榜首。与 Jay-Z 的《Collision Course》（2004）是美国冠军。巡演阵容里还有 Metallica。中文版所引 Jay-Z：两班人同台时他们很准。《Minutes to Midnight》（2007）由 Rick Rubin 制作。《Road to Revolution: Live at Milton Keynes》（2008）保留了 Jay-Z 的客串。《New Divide》来自《变形金刚》原声，条目里写成双白金单曲。《A Thousand Suns》（2010）仍由 Rubin 制作，随后是《Living Things》（2012）与《The Hunting Party》（2014）。"
   },
   "scenes": [
     {
@@ -173,11 +174,21 @@
         "zh": "Hybrid Theory/Meteora 经典六人组"
       },
       "body": {
-        "en": "Bennington joined in 1999. The six—Bennington, Shinoda, Delson, Bourdon, Farrell, Hahn—recorded Hybrid Theory and Meteora. Shinoda is the main writer/producer; Hahn holds the DJ/samples chair.\n\nAfter Bennington’s death in 2017 the lineup changed; catalog peak remains the 2000–03 six-piece.",
-        "zh": "Bennington 于 1999 年加入。六人——Bennington、Shinoda、Delson、Bourdon、Farrell、Hahn——录制 Hybrid Theory 与 Meteora。Shinoda 是主要写作/制作；Hahn 负责 DJ/采样。\n\n2017 年 Bennington 去世后阵容变动；目录峰值仍是 2000–03 六人组。"
+        "en": "Bennington joined in 1999. The six—Bennington, Shinoda, Delson, Bourdon, Farrell, Hahn—recorded Hybrid Theory and Meteora. Shinoda is the main writer/producer; Hahn holds the DJ/samples chair.\n\nAfter Bennington’s death in 2017 the lineup changed; catalog peak remains the 2000–03 six-piece.\n\nFarrell is the member called Phoenix. Carpenter’s spot on Reanimation and the 2004 Metallica/Jay-Z bill are the shared live and guest nodes.",
+        "zh": "Bennington 于 1999 年加入。六人——Bennington、Shinoda、Delson、Bourdon、Farrell、Hahn——录制 Hybrid Theory 与 Meteora。Shinoda 是主要写作/制作；Hahn 负责 DJ/采样。\n\n2017 年 Bennington 去世后阵容变动；目录峰值仍是 2000–03 六人组。\n\nFarrell 就是被叫作 Phoenix 的那一位。《Reanimation》上的 Carpenter，以及 2004 年与 Metallica、Jay-Z 的巡演，是共用的客串和现场。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "heavy-metal"
+      "soundGenre": "heavy-metal",
+      "stickyImage": {
+        "src": "/media/bands/linkin-park-carnivores-2014.jpg",
+        "alt": {
+          "en": "Linkin Park on the Carnivores Tour, 2014",
+          "zh": "Linkin Park，Carnivores 巡演，2014"
+        },
+        "credit": "Kristina Servant",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Linkin_Park_The_Carnivores_Tour_2014_10.jpg"
+      }
     },
     {
       "id": "legacy",
@@ -285,8 +296,8 @@
         }
       ],
       "note": {
-        "en": "Bennington/Shinoda dual vocal; Hahn scratch as texture.",
-        "zh": "Bennington/Shinoda 双人声；Hahn 刮擦作织体。"
+        "en": "Bennington/Shinoda dual vocal; Hahn scratch as texture.\n\nXero is Shinoda, Bourdon, Delson. Hahn, Farrell, and Bennington complete the six. The entry records no later exits.",
+        "zh": "Bennington/Shinoda 双人声；Hahn 刮擦作织体。\n\nXero 是 Shinoda、Bourdon、Delson。Hahn、Farrell、Bennington 补成六人。条目没有写后来的离队。"
       }
     }
   ],

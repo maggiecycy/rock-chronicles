@@ -33,6 +33,21 @@
       "name": "Ronnie Vannucci Jr.",
       "role": "Drums",
       "years": "2002–present"
+    },
+    {
+      "name": "Dell Neal",
+      "role": "Bass",
+      "years": "2001–2002"
+    },
+    {
+      "name": "Matt Norcross",
+      "role": "Drums",
+      "years": "2001–2002"
+    },
+    {
+      "name": "Brian Havens",
+      "role": "Drums",
+      "years": "2002"
     }
   ],
   "essentialTracks": [
@@ -59,7 +74,10 @@
   ],
   "relatedBands": [
     "the-strokes",
-    "interpol"
+    "interpol",
+    "new-order",
+    "david-bowie",
+    "coldplay"
   ],
   "influenceFrom": [
     "the-strokes",
@@ -73,8 +91,8 @@
     "zh": "Brandon Flowers 拉斯维加斯新浪潮复兴；《Mr. Brightside》是长寿 alt 单曲，《Hot Fuss》是合成器—吉他首专。"
   },
   "body": {
-    "en": "The Killers formed in Las Vegas in 2001. Hot Fuss (2004) established Flowers’s baritone, Dave Keuning’s delayed guitar, synth leads, and large choruses. Alan Moulder and Flood mixes kept brightness on radio.\n\nSam's Town (2006) shifted toward heartland-rock scale—When You Were Young. Mr. Brightside (2003/04) remains the permanent chart object, re-entering the UK Top 40 in later years.",
-    "zh": "The Killers 于 2001 年在拉斯维加斯成立。《Hot Fuss》（2004）确立 Flowers 男中音、Dave Keuning 延时吉他、合成器主音与大副歌。Alan Moulder 与 Flood 混音保持电台亮度。\n\n《Sam's Town》（2006）转向 heartland rock 体量——《When You Were Young》。《Mr. Brightside》（2003/04）仍是长期榜单对象，后来年份多次重进英国 Top 40。"
+    "en": "The Killers formed in Las Vegas in 2001. Hot Fuss (2004) established Flowers’s baritone, Dave Keuning’s delayed guitar, synth leads, and large choruses. Alan Moulder and Flood mixes kept brightness on radio.\n\nSam's Town (2006) shifted toward heartland-rock scale—When You Were Young. Mr. Brightside (2003/04) remains the permanent chart object, re-entering the UK Top 40 in later years.\n\nThe name comes from the video for New Order’s Crystal. The entry also lists David Bowie, Bruce Springsteen, and Pet Shop Boys as early references. In 2001 Brandon Flowers and Dave Keuning started in Las Vegas, sometimes with bassist Dell Neal and drummer Matt Norcross. The next year Brian Havens replaced Norcross. Ronnie Vannucci Jr. then became the long-term drummer. Mark Stoermer completed the four. UK indie label Lizard King noticed them. They later signed to Island. Hot Fuss (2004) was a UK #1. The book puts US sales at 3 million. Singles include Mr. Brightside, Somebody Told Me, and All These Things That I’ve Done. At a 2005 show, Robbie Williams, Coldplay, and U2 also sang All These Things That I’ve Done. Sam’s Town (2006) was another UK #1 and a US #2. Day & Age (2008) was a UK #1 and a US #6. Live at the Royal Albert Hall is 2009. Hyde Park shows followed in 2009 and 2011.",
+    "zh": "The Killers 于 2001 年在拉斯维加斯成立。《Hot Fuss》（2004）确立 Flowers 男中音、Dave Keuning 延时吉他、合成器主音与大副歌。Alan Moulder 与 Flood 混音保持电台亮度。\n\n《Sam's Town》（2006）转向 heartland rock 体量——《When You Were Young》。《Mr. Brightside》（2003/04）仍是长期榜单对象，后来年份多次重进英国 Top 40。\n\n乐队名来自 New Order 歌曲《Crystal》的音乐视频。条目里列出的早期参照还有 David Bowie、Bruce Springsteen 与 Pet Shop Boys。2001 年 Brandon Flowers 与 Dave Keuning 在拉斯维加斯开始，有时加上贝斯 Dell Neal、鼓 Matt Norcross。次年 Brian Havens 接鼓。Ronnie Vannucci Jr. 随后成为长期鼓手。Mark Stoermer 补齐四人。英国独立厂牌 Lizard King 先注意到他们，后来签给 Island。《Hot Fuss》（2004）英国冠军。书中把美国销量写成 300 万张。单曲包括《Mr. Brightside》《Somebody Told Me》《All These Things That I’ve Done》。2005 年一场演出上，Robbie Williams、Coldplay 与 U2 也唱了《All These Things That I’ve Done》。《Sam’s Town》（2006）又是英国冠军、美国第 2。《Day & Age》（2008）英国冠军、美国第 6。《Live at the Royal Albert Hall》是 2009 年。海德公园演出在 2009 年与 2011 年。"
   },
   "scenes": [
     {
@@ -156,11 +174,21 @@
         "zh": "Hot Fuss 起的经典四人组"
       },
       "body": {
-        "en": "Flowers and Keuning founded the band; Stoermer and Vannucci joined in 2002 for the Hot Fuss sessions. Stoermer paused 2016–2020; the core trio recorded Wonderful Wonderful.\n\nLive presentation stays four-piece rock with synth triggers.",
-        "zh": "Flowers 与 Keuning 创始；Stoermer 与 Vannucci 2002 年加入《Hot Fuss》录音。Stoermer 2016–2020 暂停；核心三人组录《Wonderful Wonderful》。\n\n现场仍是带合成器触发的四人摇滚。"
+        "en": "Flowers and Keuning founded the band; Stoermer and Vannucci joined in 2002 for the Hot Fuss sessions. Stoermer paused 2016–2020; the core trio recorded Wonderful Wonderful.\n\nLive presentation stays four-piece rock with synth triggers.\n\nThe New Order video supplies the name. The 2005 cover of All These Things That I’ve Done ties the band to Coldplay and U2 on one bill.",
+        "zh": "Flowers 与 Keuning 创始；Stoermer 与 Vannucci 2002 年加入《Hot Fuss》录音。Stoermer 2016–2020 暂停；核心三人组录《Wonderful Wonderful》。\n\n现场仍是带合成器触发的四人摇滚。\n\n名字来自 New Order 的视频。2005 年翻唱《All These Things That I’ve Done》把他们和 Coldplay、U2 放在同一场。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "alternative"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/the-killers-krakow-2012.jpg",
+        "alt": {
+          "en": "Brandon Flowers with The Killers, Kraków, 2012",
+          "zh": "Brandon Flowers 与 The Killers，克拉科夫，2012"
+        },
+        "credit": "Piotr Drabik",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brandon_Flowers_-_The_Killers_-_Coke_Live_Music_Festival_2012.jpg"
+      }
     },
     {
       "id": "influence",
@@ -260,8 +288,8 @@
         }
       ],
       "note": {
-        "en": "Las Vegas new-wave revival; Keuning delayed-guitar era.",
-        "zh": "拉斯维加斯新浪潮复兴；Keuning 延时吉他期。"
+        "en": "Las Vegas new-wave revival; Keuning delayed-guitar era.\n\nNeal and Norcross are the 2001 guests. Havens is the short 2002 drum chair. Vannucci and Stoermer lock the four used on Hot Fuss.",
+        "zh": "拉斯维加斯新浪潮复兴；Keuning 延时吉他期。\n\nNeal 与 Norcross 是 2001 年的客席。Havens 是 2002 年很短的鼓位。Vannucci 与 Stoermer 固定下《Hot Fuss》的四人。"
       }
     }
   ],
