@@ -142,7 +142,9 @@
   "relatedBands": [
     "nirvana",
     "pink-floyd",
-    "king-crimson"
+    "king-crimson",
+    "r-e-m",
+    "talking-heads"
   ],
   "influenceFrom": [
     "pink-floyd",
@@ -157,8 +159,8 @@
     "zh": "Yorke / Greenwood 五人组；Paranoid Android 与 Kid A 分别标记多段结构与电子制作。"
   },
   "body": {
-    "en": "Formed in 1985 as On a Friday. Pablo Honey and The Bends established guitar-band writing; OK Computer expanded multi-section songs and studio detail; Kid A and Amnesiac foreground electronics and jazz-influenced rhythm sections.\n\nParanoid Android (1997) places prog-length form on alternative radio. Everything in Its Right Place (2000) opens Kid A with sequenced keys rather than lead guitar.",
-    "zh": "1985 年组建，曾用名 On a Friday。Pablo Honey 与 The Bends 确立吉他乐队写法；OK Computer 扩展多段体与录音室细节；Kid A 与 Amnesiac 突出电子与带爵士色彩的节奏组。\n\nParanoid Android（1997）把 prog 时长放进 alternative 电台。Everything in Its Right Place（2000）以音序键盘而非主音吉他打开 Kid A。"
+    "en": "Formed in 1985 as On a Friday. Pablo Honey and The Bends established guitar-band writing; OK Computer expanded multi-section songs and studio detail; Kid A and Amnesiac foreground electronics and jazz-influenced rhythm sections.\n\nParanoid Android (1997) places prog-length form on alternative radio. Everything in Its Right Place (2000) opens Kid A with sequenced keys rather than lead guitar.\n\nThe same five first played as On a Friday in Oxfordshire. The name Radiohead came from a Talking Heads song. Pablo Honey (1993) and Creep tied them, in US radio and in the film Clueless, to grunge and to the tag “mope rock.” The Bends (1995) had five UK hits, including Fake Plastic Trees. They toured with R.E.M. that year. A Stipe line, Chinese-edition wording: Radiohead were so good they scared him. OK Computer (1997) followed.\n\nAt Glastonbury 1997, Colin Greenwood said, in the Chinese edition, that they thought they might blow the set. The book lists that show among the festival’s cited performances. Kid A (2000) hit US #1; Amnesiac (2001) followed. In Rainbows (2007) went out as a pay-what-you-want download. Jonny Greenwood scored There Will Be Blood the same year. The King of Limbs is 2011.",
+    "zh": "1985 年组建，曾用名 On a Friday。Pablo Honey 与 The Bends 确立吉他乐队写法；OK Computer 扩展多段体与录音室细节；Kid A 与 Amnesiac 突出电子与带爵士色彩的节奏组。\n\nParanoid Android（1997）把 prog 时长放进 alternative 电台。Everything in Its Right Place（2000）以音序键盘而非主音吉他打开 Kid A。\n\n同样五人最早在牛津郡以 On a Friday 演出。Radiohead 这个名字来自 Talking Heads 的一首歌。《Pablo Honey》（1993）与《Creep》在美国电台和电影《独领风骚》里，被放进 grunge 和 “mope rock” 这个叫法。《The Bends》（1995）有五首英国热单，包括《Fake Plastic Trees》。同年他们与 R.E.M. 一起巡演。中文版所引 Stipe：Radiohead 好到让他害怕。随后是《OK Computer》（1997）。\n\n1997 年格拉斯顿伯里，中文版所引 Colin Greenwood：他们觉得自己可能会搞砸。书中把这场列入该音乐节被反复引用的演出。《Kid A》（2000）登上美国榜首；《Amnesiac》（2001）接着发行。《In Rainbows》（2007）用“想付多少就付多少”的下载方式发行。同年 Jonny Greenwood 为电影《血色将至》配乐。《The King of Limbs》是 2011 年。"
   },
   "narrative": [
     {
@@ -181,11 +183,21 @@
         "zh": "稳定五人组"
       },
       "body": {
-        "en": "Lineup churn is rare: Yorke, Jonny Greenwood, O’Brien, Colin Greenwood, and Selway remain the catalog band.\n\nSide projects (Yorke solo, Atoms for Peace) run beside Radiohead rather than replacing members. Album eras differ by approach, not by singer swaps.",
-        "zh": "阵容更替很少：Yorke、Jonny Greenwood、O’Brien、Colin Greenwood、Selway 是目录固定成员。\n\n旁支项目（Yorke 独唱、Atoms for Peace）与 Radiohead 并行，不替换成员。专辑分期按方法区分，不按换主唱区分。"
+        "en": "Lineup churn is rare: Yorke, Jonny Greenwood, O’Brien, Colin Greenwood, and Selway remain the catalog band.\n\nSide projects (Yorke solo, Atoms for Peace) run beside Radiohead rather than replacing members. Album eras differ by approach, not by singer swaps.\n\nNo chair changes in the entry. The early name was On a Friday. Side work sits beside the five: Yorke’s The Eraser (2006), Greenwood’s film score.",
+        "zh": "阵容更替很少：Yorke、Jonny Greenwood、O’Brien、Colin Greenwood、Selway 是目录固定成员。\n\n旁支项目（Yorke 独唱、Atoms for Peace）与 Radiohead 并行，不替换成员。专辑分期按方法区分，不按换主唱区分。\n\n条目里没有换人。早期名字是 On a Friday。五人之外的工作是 Yorke 的《The Eraser》（2006），以及 Greenwood 的电影配乐。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "alternative"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/radiohead-blackpool-yorke.jpg",
+        "alt": {
+          "en": "Thom Yorke with Radiohead, Blackpool",
+          "zh": "Thom Yorke 与 Radiohead，黑池"
+        },
+        "credit": "Drown",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Radiohead_Blackpool_Thom_Yorke_guitar.jpg"
+      }
     },
     {
       "id": "android",
@@ -208,8 +220,8 @@
         "zh": "Kid A"
       },
       "body": {
-        "en": "Sequenced parts and processed piano open the album; guitars sit further back. Jazz players and electronics appear in the session credits.\n\nCommercial risk is documented in the press; the musical change is fewer guitar-led singles inside a well-known rock catalog.",
-        "zh": "音序声部与处理后的钢琴打开专辑；吉他位置后移。爵士乐手与电子出现在录音名单。\n\n商业风险有当时媒体记录；音乐变化是在知名摇滚目录里减少吉他主导单曲。"
+        "en": "Sequenced parts and processed piano open the album; guitars sit further back. Jazz players and electronics appear in the session credits.\n\nCommercial risk is documented in the press; the musical change is fewer guitar-led singles inside a well-known rock catalog.\n\nGlastonbury 1997 is the live node before Kid A. In Rainbows is the 2007 download release. The five stay.",
+        "zh": "音序声部与处理后的钢琴打开专辑；吉他位置后移。爵士乐手与电子出现在录音名单。\n\n商业风险有当时媒体记录；音乐变化是在知名摇滚目录里减少吉他主导单曲。\n\n1997 年格拉斯顿伯里是《Kid A》之前条目里的现场节点。《In Rainbows》是 2007 年的下载发行。五人不动。"
       },
       "stickyVisual": "scene",
       "sceneIndex": 2,

@@ -47,6 +47,26 @@
       "role": "Drums",
       "years": "1998–present",
       "personSlug": "matt-cameron"
+    },
+    {
+      "name": "Matt Chamberlain",
+      "role": "Drums",
+      "years": "1991"
+    },
+    {
+      "name": "Dave Abbruzzese",
+      "role": "Drums",
+      "years": "1991–1994"
+    },
+    {
+      "name": "Jack Irons",
+      "role": "Drums",
+      "years": "1994–1998"
+    },
+    {
+      "name": "Boom Gaspar",
+      "role": "Keyboards",
+      "years": "2002–present"
     }
   ],
   "essentialTracks": [
@@ -150,7 +170,9 @@
     "nirvana",
     "soundgarden",
     "alice-in-chains",
-    "foo-fighters"
+    "foo-fighters",
+    "red-hot-chili-peppers",
+    "rage-against-the-machine"
   ],
   "influenceFrom": [
     "led-zeppelin",
@@ -166,8 +188,8 @@
     "zh": "Vedder / McCready / Gossard 的西雅图 grunge，1990 年至今。《Alive》与《Jeremy》是 Ten 时期的主要入口。"
   },
   "body": {
-    "en": "Pearl Jam formed in Seattle in 1990 from Green River and Mother Love Bone members plus Eddie Vedder. Ten (1991) and Vs. (1993) put them on MTV and rock radio beside Nirvana and Soundgarden. Vitalogy (1994) and later albums extend the catalog.\n\nAlive (1991) is a core reference track here. Musically: open chords, McCready leads, Vedder’s baritone. Later history includes bootleg-heavy touring and the mid-90s Ticketmaster dispute.",
-    "zh": "Pearl Jam 于 1990 年在西雅图成立，成员来自 Green River、Mother Love Bone，并加入 Eddie Vedder。《Ten》（1991）与《Vs.》（1993）使其进入 MTV 与摇滚电台，与 Nirvana、Soundgarden 并列。《Vitalogy》（1994）及之后专辑延续目录。\n\n《Alive》（1991）是此处核心参照曲。音乐上：开放和弦、McCready 主音、Vedder 男中音。后期记录包括大量现场录音巡演与 90 年代中期 Ticketmaster 争端。"
+    "en": "Pearl Jam formed in Seattle in 1990 from Green River and Mother Love Bone members plus Eddie Vedder. Ten (1991) and Vs. (1993) put them on MTV and rock radio beside Nirvana and Soundgarden. Vitalogy (1994) and later albums extend the catalog.\n\nAlive (1991) is a core reference track here. Musically: open chords, McCready leads, Vedder’s baritone. Later history includes bootleg-heavy touring and the mid-90s Ticketmaster dispute.\n\nAfter Green River, Stone Gossard and Jeff Ament formed Mother Love Bone with Andrew Wood. Temple of the Dog (1991) used Chris Cornell, Matt Cameron, Mike McCready, and Eddie Vedder. They asked Jack Irons, ex-Red Hot Chili Peppers; he declined and sent Vedder. The first band name was Mookie Blaylock. Pearl Jam, 1991, points the “jam” at Neil Young. Ten (1991) includes cello from Walter Gray of the Kronos Quartet. Krusen was fired. They auditioned Brad Wilk, later of Rage Against the Machine, then kept Matt Chamberlain for about two months. Dave Abbruzzese played Lollapalooza 1992. The book’s US figure for Ten is 3 million, past Nevermind.\n\nVs. (1993) is the first record with Brendan O’Brien. On Vitalogy, drums moved from Abbruzzese to Jack Irons. McCready’s Mad Season included Layne Staley. Mirror Ball (1995) is the Neil Young collaboration. Cameron replaced Irons around Yield (1998). Boom Gaspar plays keys from Riot Act (2002). In 2004 they joined Bruce Springsteen on the Vote for Change tour. Backspacer (2009) was a US #1, O’Brien producing again. The 2012 Isle of Wight bill also had Springsteen and Tom Petty.",
+    "zh": "Pearl Jam 于 1990 年在西雅图成立，成员来自 Green River、Mother Love Bone，并加入 Eddie Vedder。《Ten》（1991）与《Vs.》（1993）使其进入 MTV 与摇滚电台，与 Nirvana、Soundgarden 并列。《Vitalogy》（1994）及之后专辑延续目录。\n\n《Alive》（1991）是此处核心参照曲。音乐上：开放和弦、McCready 主音、Vedder 男中音。后期记录包括大量现场录音巡演与 90 年代中期 Ticketmaster 争端。\n\nGreen River 结束后，Stone Gossard 与 Jeff Ament 和 Andrew Wood 组成 Mother Love Bone。《Temple of the Dog》（1991）的阵容有 Chris Cornell、Matt Cameron、Mike McCready 与 Eddie Vedder。他们想拉前 Red Hot Chili Peppers 鼓手 Jack Irons；Irons 拒绝，把 Vedder 介绍过来。最初乐队名叫 Mookie Blaylock。1991 年改名 Pearl Jam，书中写 “jam” 是向 Neil Young 致意。《Ten》（1991）有 Kronos Quartet 的 Walter Gray 拉大提琴。Krusen 被开除。他们面试了后来加入 Rage Against the Machine 的 Brad Wilk，然后用 Matt Chamberlain 大约两个月。Dave Abbruzzese 打了 1992 年 Lollapalooza。书中写《Ten》美国销量最终 300 万，超过《Nevermind》。\n\n《Vs.》（1993）是与 Brendan O’Brien 合作的第一张。录《Vitalogy》时，鼓从 Abbruzzese 交给 Jack Irons。McCready 的 Mad Season 有 Layne Staley。《Mirror Ball》（1995）是与 Neil Young 的合作。Cameron 在《Yield》（1998）前后接替 Irons。Boom Gaspar 从《Riot Act》（2002）起担任键盘。2004 年他们与 Bruce Springsteen 参加 Vote for Change 巡演。《Backspacer》（2009）是美国冠军专辑，仍由 O’Brien 制作。2012 年怀特岛音乐节的阵容里还有 Springsteen 与 Tom Petty。"
   },
   "narrative": [
     {
@@ -190,8 +212,8 @@
         "zh": "Ten 时期五人"
       },
       "body": {
-        "en": "Vedder, McCready, Gossard, Ament, and Krusen recorded Ten. The drum seat later rotated (Abbruzzese, Irons, Cameron); the guitar and vocal core stayed.\n\nRadio memory of the debut still centers on that five.",
-        "zh": "Vedder、McCready、Gossard、Ament 与 Krusen 录制《Ten》。鼓席后来轮换（Abbruzzese、Irons、Cameron）；吉他与人声核心保留。\n\n首专的电台记忆仍集中在这五人。"
+        "en": "Vedder, McCready, Gossard, Ament, and Krusen recorded Ten. The drum seat later rotated (Abbruzzese, Irons, Cameron); the guitar and vocal core stayed.\n\nRadio memory of the debut still centers on that five.\n\nTemple of the Dog is the pre-Ten session with Cornell and Cameron. Lollapalooza 1992 is the Abbruzzese lineup. Irons, who had declined the first offer, plays from Vitalogy until Cameron.",
+        "zh": "Vedder、McCready、Gossard、Ament 与 Krusen 录制《Ten》。鼓席后来轮换（Abbruzzese、Irons、Cameron）；吉他与人声核心保留。\n\n首专的电台记忆仍集中在这五人。\n\n《Temple of the Dog》是 Ten 之前与 Cornell、Cameron 的合作。1992 年 Lollapalooza 是 Abbruzzese 的鼓。当初拒绝加入的 Irons，从《Vitalogy》打到 Cameron 之前。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "grunge"
@@ -248,7 +270,17 @@
         "zh": "《Vs.》《Vitalogy》与后期专辑延长职业线。官方与非官方现场录音，以及反黄牛行动，是巡演运作的一部分。\n\n部分西雅图同辈放缓或解散；Pearl Jam 在之后数十年仍保持较长巡演日程。"
       },
       "stickyVisual": "influence",
-      "soundGenre": "alternative"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/pearl-jam-berlin-2006.jpg",
+        "alt": {
+          "en": "Eddie Vedder with Pearl Jam, Berlin, September 2006",
+          "zh": "Eddie Vedder 与 Pearl Jam，柏林，2006 年 9 月"
+        },
+        "credit": "deep_schismic",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eddie_Vedder_and_Pearl_Jam_live_in_Berlin_September_2006.jpg"
+      }
     }
   ],
   "lineupVersions": [
@@ -286,8 +318,8 @@
         }
       ],
       "note": {
-        "en": "Debut album citation lineup; Krusen left after Ten.",
-        "zh": "首专引用阵容；Krusen 在《Ten》后离队。"
+        "en": "Debut album citation lineup; Krusen left after Ten.\n\nAfter Krusen: a Wilk audition, two months of Matt Chamberlain, then Abbruzzese through Lollapalooza 1992. Irons takes over on Vitalogy.",
+        "zh": "首专引用阵容；Krusen 在《Ten》后离队。\n\nKrusen 之后：面试过 Wilk，Matt Chamberlain 大约两个月，然后 Abbruzzese 打到 1992 年 Lollapalooza。Irons 在《Vitalogy》接鼓。"
       }
     },
     {
@@ -324,8 +356,8 @@
         }
       ],
       "note": {
-        "en": "Former Soundgarden drummer; long touring stability.",
-        "zh": "前 Soundgarden 鼓手；长期巡演编制较稳定。"
+        "en": "Former Soundgarden drummer; long touring stability.\n\nCameron arrived from Soundgarden after that band split. Gaspar is the live keyboard chair from Riot Act.",
+        "zh": "前 Soundgarden 鼓手；长期巡演编制较稳定。\n\nSoundgarden 解散后 Cameron 加入。Gaspar 从《Riot Act》起是现场键盘。"
       }
     }
   ],

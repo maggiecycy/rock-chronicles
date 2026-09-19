@@ -40,6 +40,16 @@
       "name": "Hiro Yamamoto",
       "role": "Bass",
       "years": "1984–1989"
+    },
+    {
+      "name": "Scott Sundquist",
+      "role": "Drums",
+      "years": "1985–1986"
+    },
+    {
+      "name": "Jason Everman",
+      "role": "Bass",
+      "years": "1989–1990"
     }
   ],
   "essentialTracks": [
@@ -141,7 +151,10 @@
     "pearl-jam",
     "alice-in-chains",
     "led-zeppelin",
-    "black-sabbath"
+    "black-sabbath",
+    "guns-n-roses",
+    "metallica",
+    "rage-against-the-machine"
   ],
   "influenceFrom": [
     "led-zeppelin",
@@ -157,8 +170,8 @@
     "zh": "Cornell–Thayil 的西雅图 grunge/hard-rock，1984–97 与 2010–17。《Superunknown》是大众峰值。"
   },
   "body": {
-    "en": "Soundgarden formed in Seattle in 1984. Early releases on Sub Pop preceded a major-label period. Badmotorfinger (1991) uses odd meters and drop tunings; Superunknown (1994) brought Black Hole Sun to MTV. The band split in 1997 and reunited 2010–17.\n\nDrop tunings, Thayil’s riff writing, and Cornell’s wide vocal range keep Sabbath/Zeppelin hard-rock weight inside the Seattle grunge catalog.",
-    "zh": "Soundgarden 于 1984 年在西雅图成立。早期在 Sub Pop 发行，后转大厂。《Badmotorfinger》（1991）多用奇数拍与降调；《Superunknown》（1994）把《Black Hole Sun》送上 MTV。1997 年解散，2010–17 重聚。\n\n降调、Thayil 的 riff 写法与 Cornell 的宽音域，使 Sabbath/Zeppelin 式 hard-rock 重量留在西雅图 grunge 目录里。"
+    "en": "Soundgarden formed in Seattle in 1984. Early releases on Sub Pop preceded a major-label period. Badmotorfinger (1991) uses odd meters and drop tunings; Superunknown (1994) brought Black Hole Sun to MTV. The band split in 1997 and reunited 2010–17.\n\nDrop tunings, Thayil’s riff writing, and Cornell’s wide vocal range keep Sabbath/Zeppelin hard-rock weight inside the Seattle grunge catalog.\n\nCornell, Kim Thayil, and Hiro Yamamoto started in 1984. The name comes from A Sound Garden, a sculpture at Seattle’s Sand Point that roars when the wind hits the pipes. Scott Sundquist joined so Cornell could leave the kit. Matt Cameron, from Skin Yard, replaced Sundquist; both bands appear on a 1986 CZ Records compilation. Screaming Life (1987) and Fopp (1988) came out on Sub Pop, Nirvana’s first label. Ultramega OK (1988) is on SST. The same year they signed to A&M. The book calls them the first grunge band on a major. Louder Than Love (1989): the entry says it prompted Kirk Hammett to write Enter Sandman.\n\nYamamoto went back to school. Jason Everman, from Nirvana, played bass, then Ben Shepherd, for Badmotorfinger (1991), issued two weeks after Nevermind. A Guns N’ Roses tour followed; that camp’s nickname in the book is Frowngarden. Superunknown (1994) hit US #1, with Black Hole Sun and Spoonman. They played the 1996 Lollapalooza second stage and split in 1997. Cornell’s gap includes Audioslave with the Rage Against the Machine instrumental trio, while Cameron joined Pearl Jam. A secret Seattle show and Lollapalooza 2010 preceded a sixth album at the end of 2012.",
+    "zh": "Soundgarden 于 1984 年在西雅图成立。早期在 Sub Pop 发行，后转大厂。《Badmotorfinger》（1991）多用奇数拍与降调；《Superunknown》（1994）把《Black Hole Sun》送上 MTV。1997 年解散，2010–17 重聚。\n\n降调、Thayil 的 riff 写法与 Cornell 的宽音域，使 Sabbath/Zeppelin 式 hard-rock 重量留在西雅图 grunge 目录里。\n\nCornell、Kim Thayil 与 Hiro Yamamoto 1984 年组建。名字来自西雅图砂点的雕塑 A Sound Garden，风穿过管子时会响。Scott Sundquist 加入，Cornell 才能离开鼓位。Skin Yard 的 Matt Cameron 接替 Sundquist；两支乐队都出现在 1986 年 CZ Records 的合辑上。《Screaming Life》（1987）与《Fopp》（1988）由 Sub Pop 发行，这也是 Nirvana 的第一家厂牌。《Ultramega OK》（1988）在 SST。同年他们签给 A&M。书中称他们是第一支签到大厂牌的 grunge 乐队。《Louder Than Love》（1989）：条目写这张唱片促使 Kirk Hammett 写出《Enter Sandman》。\n\nYamamoto 回学校。来自 Nirvana 的 Jason Everman 先弹贝斯，然后是 Ben Shepherd，专辑《Badmotorfinger》（1991）在《Nevermind》两周后发行。随后与 Guns N’ Roses 巡演；书中写对方称他们为 Frowngarden。《Superunknown》（1994）美国榜首，单曲有《Black Hole Sun》与《Spoonman》。1996 年 Lollapalooza 他们在第二舞台，1997 年解散。Cornell 的空档包括与 Rage Against the Machine 乐器组组成的 Audioslave，同时 Cameron 加入 Pearl Jam。2010 年西雅图秘密演出和同年 Lollapalooza 之后，2012 年年底有第六张录音室专辑。"
   },
   "narrative": [
     {
@@ -181,11 +194,21 @@
         "zh": "Shepherd 时期四人"
       },
       "body": {
-        "en": "Hiro Yamamoto played bass in the early years. The peak studio lineup is Cornell, Thayil, Shepherd, and Cameron on Badmotorfinger through Down on the Upside.\n\nThat four is the usual citation for the MTV years.",
-        "zh": "早期贝斯为 Hiro Yamamoto。巅峰录音编制是 Cornell、Thayil、Shepherd 与 Cameron，覆盖《Badmotorfinger》到《Down on the Upside》。\n\nMTV 时期通常引用这四人。"
+        "en": "Hiro Yamamoto played bass in the early years. The peak studio lineup is Cornell, Thayil, Shepherd, and Cameron on Badmotorfinger through Down on the Upside.\n\nThat four is the usual citation for the MTV years.\n\nSub Pop is the shared early label with Nirvana. The Guns N’ Roses tour sits on Badmotorfinger. Audioslave is Cornell with Morello, Wilk, and Commerford.",
+        "zh": "早期贝斯为 Hiro Yamamoto。巅峰录音编制是 Cornell、Thayil、Shepherd 与 Cameron，覆盖《Badmotorfinger》到《Down on the Upside》。\n\nMTV 时期通常引用这四人。\n\nSub Pop 是与 Nirvana 共用的早期厂牌。与 Guns N’ Roses 的巡演挂在《Badmotorfinger》上。Audioslave 是 Cornell 加上 Morello、Wilk、Commerford。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "grunge"
+      "soundGenre": "grunge",
+      "stickyImage": {
+        "src": "/media/bands/soundgarden-cornell-thayil-2015.jpg",
+        "alt": {
+          "en": "Chris Cornell and Kim Thayil with Soundgarden, 2015",
+          "zh": "Chris Cornell 与 Kim Thayil，Soundgarden，2015"
+        },
+        "credit": "Sara",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chris_Cornell_%26_Kim_Thayil_live_2015.jpg"
+      }
     },
     {
       "id": "members",
@@ -272,8 +295,8 @@
         }
       ],
       "note": {
-        "en": "Peak studio and MTV years.",
-        "zh": "巅峰录音与 MTV 时期。"
+        "en": "Peak studio and MTV years.\n\nSundquist is the first extra drummer. Everman is the bass between Yamamoto and Shepherd. Cameron later splits time with Pearl Jam.",
+        "zh": "巅峰录音与 MTV 时期。\n\nSundquist 是第一位专任鼓手。Everman 是 Yamamoto 与 Shepherd 之间的贝斯。Cameron 后来与 Pearl Jam 重叠。"
       }
     }
   ],

@@ -33,6 +33,16 @@
       "name": "Sean Kinney",
       "role": "Drums",
       "years": "1987–present"
+    },
+    {
+      "name": "Mike Inez",
+      "role": "Bass",
+      "years": "1993–present"
+    },
+    {
+      "name": "William DuVall",
+      "role": "Vocals",
+      "years": "2006–present"
     }
   ],
   "essentialTracks": [
@@ -60,7 +70,11 @@
   "relatedBands": [
     "soundgarden",
     "pearl-jam",
-    "nirvana"
+    "nirvana",
+    "guns-n-roses",
+    "slayer",
+    "tool",
+    "black-sabbath"
   ],
   "influenceFrom": [
     "black-sabbath",
@@ -76,8 +90,8 @@
     "zh": "Staley / Cantrell 和声 grunge-metal，1987 年至今。《Dirt》是降调电台高峰。"
   },
   "body": {
-    "en": "Alice in Chains formed in Seattle in 1987. Facelift (1990) brought talk-box riffs and close vocal thirds to US rock radio. Dirt (1992) centers Cantrell’s drop-D riffs, Staley’s tenor, and addiction-era lyrics.\n\nMan in the Box (1990) remains a common entry. They share the Seattle map with Soundgarden and Pearl Jam; Cantrell’s riff writing keeps a clearer metal lineage.",
-    "zh": "Alice in Chains 于 1987 年在西雅图成立。《Facelift》（1990）把 talk-box riff 与贴近三度和声送上美国摇滚电台。《Dirt》（1992）以 Cantrell 的 drop-D riff、Staley 男高音与成瘾题材歌词为中心。\n\n《Man in the Box》（1990）仍是常见入口。与 Soundgarden、Pearl Jam 同属西雅图地图；Cantrell 的 riff 写作更贴近 metal 谱系。"
+    "en": "Alice in Chains formed in Seattle in 1987. Facelift (1990) brought talk-box riffs and close vocal thirds to US rock radio. Dirt (1992) centers Cantrell’s drop-D riffs, Staley’s tenor, and addiction-era lyrics.\n\nMan in the Box (1990) remains a common entry. They share the Seattle map with Soundgarden and Pearl Jam; Cantrell’s riff writing keeps a clearer metal lineage.\n\nFace Lift (1990) went gold after a year on the road. Sap (1992) is the acoustic EP with Ann Wilson (Heart), Mark Arm (Mudhoney), and Chris Cornell. Dirt (1992) hit US #6; Would? is for Andrew Wood of Mother Love Bone. Mike Inez, from Ozzy Osbourne’s band, replaced Mike Starr on that tour. The record also covers Black Sabbath’s Iron Gland with Tom Araya (Slayer). Jar of Flies (1994) was the first EP at US #1.\n\nAlice in Chains (1995) was a second US #1, then an MTV Unplugged. Staley died in 2002. Cantrell, Kinney, and Inez restarted in 2005. William DuVall took vocals before Black Gives Way to Blue (2009). Restart bills used guests including Maynard James Keenan (Tool), Duff McKagan, Phil Anselmo, and Ann Wilson.",
+    "zh": "Alice in Chains 于 1987 年在西雅图成立。《Facelift》（1990）把 talk-box riff 与贴近三度和声送上美国摇滚电台。《Dirt》（1992）以 Cantrell 的 drop-D riff、Staley 男高音与成瘾题材歌词为中心。\n\n《Man in the Box》（1990）仍是常见入口。与 Soundgarden、Pearl Jam 同属西雅图地图；Cantrell 的 riff 写作更贴近 metal 谱系。\n\n《Face Lift》（1990）巡演一年后达到金唱片。《Sap》（1992）是木吉他 EP，客席有 Ann Wilson（Heart）、Mark Arm（Mudhoney）与 Chris Cornell。《Dirt》（1992）美国榜第 6；《Would?》写给 Mother Love Bone 的 Andrew Wood。该巡演上，Ozzy Osbourne 乐队的 Mike Inez 接替 Mike Starr。专辑里还有翻唱 Black Sabbath 的《Iron Gland》，Slayer 的 Tom Araya 参加。《Jar of Flies》（1994）是第一张登上美国榜首的 EP。\n\n《Alice in Chains》（1995）是第二张美国冠军专辑，随后有一场 MTV Unplugged。Staley 2002 年去世。Cantrell、Kinney 与 Inez 2005 年重组。William DuVall 在《Black Gives Way to Blue》（2009）之前接主唱。重组演出的客席包括 Maynard James Keenan（Tool）、Duff McKagan、Phil Anselmo 与 Ann Wilson。"
   },
   "scenes": [
     {
@@ -159,11 +173,21 @@
         "zh": "Staley 时期与 DuVall 回归"
       },
       "body": {
-        "en": "Peak four: Staley, Cantrell, Kinney, and Starr on Facelift; Mike Inez replaces Starr for Dirt and Jar of Flies. Staley’s last recordings taper in the mid-1990s; William DuVall joins for 2006 reunion shows.\n\nCatalog citation still centers Staley/Cantrell harmony on Dirt. The DuVall chapter extends touring more than first-citation radio memory.",
-        "zh": "巅峰四人：Staley、Cantrell、Kinney、Starr 录《Facelift》；Mike Inez 替 Starr 录《Dirt》与《Jar of Flies》。Staley 最后录音收束于 1990 年代中期；William DuVall 在 2006 重聚演出加入。\n\n目录引用仍集中在《Dirt》上的 Staley/Cantrell 和声。DuVall 章节更多延长巡演，而非首引层电台记忆。"
+        "en": "Peak four: Staley, Cantrell, Kinney, and Starr on Facelift; Mike Inez replaces Starr for Dirt and Jar of Flies. Staley’s last recordings taper in the mid-1990s; William DuVall joins for 2006 reunion shows.\n\nCatalog citation still centers Staley/Cantrell harmony on Dirt. The DuVall chapter extends touring more than first-citation radio memory.\n\nThe Dirt tour swapped Starr for Mike Inez. After Staley’s death the 2005 restart used guest singers, then William DuVall.",
+        "zh": "巅峰四人：Staley、Cantrell、Kinney、Starr 录《Facelift》；Mike Inez 替 Starr 录《Dirt》与《Jar of Flies》。Staley 最后录音收束于 1990 年代中期；William DuVall 在 2006 重聚演出加入。\n\n目录引用仍集中在《Dirt》上的 Staley/Cantrell 和声。DuVall 章节更多延长巡演，而非首引层电台记忆。\n\nDirt 巡演把 Starr 换成 Mike Inez。Staley 去世后，2005 年重组先用客席主唱，再由 William DuVall 固定担任。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "heavy-metal"
+      "soundGenre": "heavy-metal",
+      "stickyImage": {
+        "src": "/media/bands/alice-in-chains-bbk.jpg",
+        "alt": {
+          "en": "Alice in Chains live at BBK",
+          "zh": "Alice in Chains，BBK 现场"
+        },
+        "credit": "Alberto Cabello",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alice_in_Chains_liveBBK.jpg"
+      }
     },
     {
       "id": "legacy",
@@ -264,8 +288,8 @@
         }
       ],
       "note": {
-        "en": "Cantrell riffs + Staley harmony; Starr era through Dirt.",
-        "zh": "Cantrell riff + Staley 和声；Starr 时期贯穿《Dirt》。"
+        "en": "Cantrell riffs + Staley harmony; Starr era through Dirt.\n\nStarr left on the Dirt tour; Inez stayed. DuVall sings from the 2005 restart. Starr died in 2011.",
+        "zh": "Cantrell riff + Staley 和声；Starr 时期贯穿《Dirt》。\n\nStarr 在 Dirt 巡演期间离开，Inez 留下。DuVall 从 2005 年重组起担任主唱。Starr 2011 年去世。"
       }
     }
   ],

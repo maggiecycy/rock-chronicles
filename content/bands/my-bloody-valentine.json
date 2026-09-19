@@ -35,6 +35,16 @@
       "name": "Colm Ó Cíosóig",
       "role": "Drums",
       "years": "1983–present"
+    },
+    {
+      "name": "Dave Conway",
+      "role": "Vocals",
+      "years": "1983–1987"
+    },
+    {
+      "name": "Tina Durkin",
+      "role": "Keyboards",
+      "years": "1983–1986"
     }
   ],
   "essentialTracks": [
@@ -152,8 +162,8 @@
     "zh": "Shields / Butcher / Googe / Ó Cíosóig；Loveless 定下 shoegaze 制作参照。"
   },
   "body": {
-    "en": "Formed in 1983. Isn’t Anything (1988) and Loveless (1991) on Creation Records define the sound: tremolo-arm pitch glide, sampled guitar layers, Bilinda Butcher / Shields vocal blend low in the mix.\n\nOnly Shallow (1991) is the entry cut—drums upfront, guitars as harmonic fog. Studio time and Shields’s process are part of the historical record; texture carries the composition. Shoegaze names the scene; genres here stay indie-rock / alternative.",
-    "zh": "1983 年组建。Creation 厂牌上的 Isn’t Anything（1988）与 Loveless（1991）定义声音：颤音臂音高滑动、采样吉他层、Bilinda Butcher / Shields 人声埋在混音低处。\n\nOnly Shallow（1991）是入口——鼓靠前，吉他作和声雾。录音室时间与 Shields 工艺是历史记录的一部分；纹理承载作曲。场景标签是 shoegaze；此处 genres 仍用 indie-rock / alternative。"
+    "en": "Formed in 1983. Isn’t Anything (1988) and Loveless (1991) on Creation Records define the sound: tremolo-arm pitch glide, sampled guitar layers, Bilinda Butcher / Shields vocal blend low in the mix.\n\nOnly Shallow (1991) is the entry cut—drums upfront, guitars as harmonic fog. Studio time and Shields’s process are part of the historical record; texture carries the composition. Shoegaze names the scene; genres here stay indie-rock / alternative.\n\nShields, Colm Ó Cíosóig, singer Dave Conway, and keyboardist Tina Durkin left Dublin for the Netherlands, then Berlin, and cut This Is Your Bloody Valentine (1985). In London, Durkin left and Debbie Googe joined. After Ecstasy (1987), Bilinda Butcher replaced Conway. Isn’t Anything (1988) is the first album. Loveless (1991) cost about £250,000, reached UK #24, and ended the Creation deal. An Eno line, Chinese-edition wording: Soon set a new standard for pop.\n\nOn tour they held one chord in You Made Me Realise for about ten minutes. A 2008 reunion played the London ICA loud enough that the venue handed out earplugs. mbv came out in 2013. In 2012 Googe also played part-time with Primal Scream.",
+    "zh": "1983 年组建。Creation 厂牌上的 Isn’t Anything（1988）与 Loveless（1991）定义声音：颤音臂音高滑动、采样吉他层、Bilinda Butcher / Shields 人声埋在混音低处。\n\nOnly Shallow（1991）是入口——鼓靠前，吉他作和声雾。录音室时间与 Shields 工艺是历史记录的一部分；纹理承载作曲。场景标签是 shoegaze；此处 genres 仍用 indie-rock / alternative。\n\nShields、Colm Ó Cíosóig、主唱 Dave Conway 与键盘 Tina Durkin 离开都柏林，先到荷兰再去柏林，录了《This Is Your Bloody Valentine》（1985）。到伦敦后 Durkin 离开，Debbie Googe 加入。《Ecstasy》（1987）之后，Bilinda Butcher 接替 Conway。《Isn’t Anything》（1988）是第一张专辑。《Loveless》（1991）花费约 25 万英镑，英国榜第 24，Creation 不再支持。中文版所引 Brian Eno：收尾曲《Soon》给流行乐立了一个新标准。\n\n巡演演奏《You Made Me Realise》时，他们在同一和弦上停大约十分钟。2008 年重组在伦敦 ICA 演出，场馆向观众发耳塞。《mbv》2013 年发行。2012 年 Googe 还以兼职身份加入 Primal Scream。"
   },
   "narrative": [
     {
@@ -203,11 +213,21 @@
         "zh": "颤音臂、采样、埋入混音"
       },
       "body": {
-        "en": "Shields’s Jazzmaster / tremolo technique glides pitch inside chords. Guitar layers are sampled and stacked. Butcher and Shields share soft, low vocals.\n\nLive “holocaust” noise sections extend You Made Me Realise practice into long endurance passages.",
-        "zh": "Shields 的 Jazzmaster / 颤音臂技术在和弦内滑动音高。吉他层被采样堆叠。Butcher 与 Shields 共享柔、低人声。\n\n现场 holocaust 噪声段把 You Made Me Realise 实践拉成长耐力段落。"
+        "en": "Shields’s Jazzmaster / tremolo technique glides pitch inside chords. Guitar layers are sampled and stacked. Butcher and Shields share soft, low vocals.\n\nLive “holocaust” noise sections extend You Made Me Realise practice into long endurance passages.\n\nThe ten-minute one-chord passage in You Made Me Realise is the live detail in the entry. The 2008 ICA shows used the same volume; the venue issued earplugs.",
+        "zh": "Shields 的 Jazzmaster / 颤音臂技术在和弦内滑动音高。吉他层被采样堆叠。Butcher 与 Shields 共享柔、低人声。\n\n现场 holocaust 噪声段把 You Made Me Realise 实践拉成长耐力段落。\n\n《You Made Me Realise》里大约十分钟的单和弦是条目里的现场细节。2008 年 ICA 用同样的音量，场馆发了耳塞。"
       },
       "stickyVisual": "dna",
-      "soundGenre": "indie-rock"
+      "soundGenre": "indie-rock",
+      "stickyImage": {
+        "src": "/media/bands/my-bloody-valentine-16.jpg",
+        "alt": {
+          "en": "My Bloody Valentine live",
+          "zh": "My Bloody Valentine 现场"
+        },
+        "credit": "Graham Racher",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:My_Bloody_Valentine-16.jpg"
+      }
     },
     {
       "id": "quote",
@@ -267,8 +287,8 @@
         }
       ],
       "note": {
-        "en": "Isn’t Anything / Loveless citation lineup; Shields / Butcher dual vocals.",
-        "zh": "Isn’t Anything / Loveless 引用阵容；Shields / Butcher 双人声。"
+        "en": "Isn’t Anything / Loveless citation lineup; Shields / Butcher dual vocals.\n\nConway sang until 1987. Durkin played keys before Googe. Butcher is the second singer and guitar.",
+        "zh": "Isn’t Anything / Loveless 引用阵容；Shields / Butcher 双人声。\n\nConway 唱到 1987 年。Durkin 在 Googe 之前弹键盘。Butcher 是第二任主唱兼吉他。"
       }
     }
   ],

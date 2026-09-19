@@ -17,13 +17,13 @@
     {
       "name": "Kurt Cobain",
       "role": "Vocals, Guitar",
-      "years": "1990–1994",
+      "years": "1987–1994",
       "personSlug": "kurt-cobain"
     },
     {
       "name": "Krist Novoselic",
       "role": "Bass",
-      "years": "1990–1994"
+      "years": "1987–1994"
     },
     {
       "name": "Dave Grohl",
@@ -36,6 +36,41 @@
       "role": "Guitar",
       "years": "1993–1994",
       "personSlug": "pat-smear"
+    },
+    {
+      "name": "Aaron Burckhard",
+      "role": "Drums",
+      "years": "1987"
+    },
+    {
+      "name": "Dave Foster",
+      "role": "Drums",
+      "years": "1987–1988"
+    },
+    {
+      "name": "Dale Crover",
+      "role": "Drums",
+      "years": "1988"
+    },
+    {
+      "name": "Chad Channing",
+      "role": "Drums",
+      "years": "1988–1990"
+    },
+    {
+      "name": "Jason Everman",
+      "role": "Guitar",
+      "years": "1989"
+    },
+    {
+      "name": "Dan Peters",
+      "role": "Drums",
+      "years": "1990"
+    },
+    {
+      "name": "Lori Goldston",
+      "role": "Cello",
+      "years": "1993–1994"
     }
   ],
   "essentialTracks": [
@@ -127,7 +162,12 @@
   ],
   "relatedBands": [
     "radiohead",
-    "led-zeppelin"
+    "led-zeppelin",
+    "pixies",
+    "soundgarden",
+    "alice-in-chains",
+    "pearl-jam",
+    "foo-fighters"
   ],
   "influenceFrom": [
     "led-zeppelin"
@@ -140,8 +180,8 @@
     "zh": "Cobain / Novoselic / Grohl 的 grunge，1987–94。《Smells Like Teen Spirit》与《Nevermind》是 1991 年的主要参照。"
   },
   "body": {
-    "en": "Nirvana formed in Aberdeen, Washington, in 1987. Bleach (1989, Sub Pop) was recorded with Chad Channing on drums. Dave Grohl joined in 1990. Nevermind (1991, DGC; produced with Butch Vig) reached Billboard 200 #1. In Utero (1993; Steve Albini) followed on the same label.\n\nThe core writing is quiet verse / loud chorus, Cobain’s melody under fuzz, Novoselic’s wide bass lines, and Grohl’s hard kick. Later 1990s rock radio and many bands reused the dynamic shape.",
-    "zh": "Nirvana 于 1987 年在华盛顿州阿伯丁成立。《Bleach》（1989，Sub Pop）录制时鼓手为 Chad Channing。Dave Grohl 于 1990 年加入。《Nevermind》（1991，DGC；Butch Vig 参与制作）登上 Billboard 200 冠军。《In Utero》（1993；Steve Albini）同在该厂牌发行。\n\n写法以轻主歌/响副歌为主：Cobain 的旋律压在 fuzz 下，Novoselic 贝斯线较宽，Grohl 底鼓偏硬。后来 1990 年代摇滚电台与许多乐队沿用了这套动态。"
+    "en": "Nirvana formed in Aberdeen, Washington, in 1987. Bleach (1989, Sub Pop) was recorded with Chad Channing on drums. Dave Grohl joined in 1990. Nevermind (1991, DGC; produced with Butch Vig) reached Billboard 200 #1. In Utero (1993; Steve Albini) followed on the same label.\n\nThe core writing is quiet verse / loud chorus, Cobain’s melody under fuzz, Novoselic’s wide bass lines, and Grohl’s hard kick. Later 1990s rock radio and many bands reused the dynamic shape.\n\nCobain and Novoselic started the band in 1987. Drums before Grohl ran through Aaron Burckhard, Dave Foster, Dale Crover (three songs), and Chad Channing. Bleach (1989) came out on Sub Pop. Jason Everman is the extra guitar credit; he later played bass in Soundgarden. Dan Peters (Mudhoney) sits on the timeline just before Grohl. Nevermind (1991) on DGC, with Grohl: the book says US sales ran about 400,000 a week by year-end and took the #1 slot from Michael Jackson’s Dangerous. A Cobain line, Chinese-edition wording: the first time he heard Pixies, he felt he belonged in that band, or in one copying them.\n\nIn Utero (1993) also hit US #1. Pat Smear played the last tours. Lori Goldston played cello on the 1993 MTV Unplugged, released in 1994. Cobain died on 5 April 1994.",
+    "zh": "Nirvana 于 1987 年在华盛顿州阿伯丁成立。《Bleach》（1989，Sub Pop）录制时鼓手为 Chad Channing。Dave Grohl 于 1990 年加入。《Nevermind》（1991，DGC；Butch Vig 参与制作）登上 Billboard 200 冠军。《In Utero》（1993；Steve Albini）同在该厂牌发行。\n\n写法以轻主歌/响副歌为主：Cobain 的旋律压在 fuzz 下，Novoselic 贝斯线较宽，Grohl 底鼓偏硬。后来 1990 年代摇滚电台与许多乐队沿用了这套动态。\n\nCobain 与 Novoselic 1987 年组建乐队。Grohl 之前的鼓手依次是 Aaron Burckhard、Dave Foster、Dale Crover（三首歌）与 Chad Channing。《Bleach》（1989）由 Sub Pop 发行。Jason Everman 是额外的吉他署名，后来在 Soundgarden 弹贝斯。Dan Peters（Mudhoney）排在 Grohl 之前。《Nevermind》（1991）在 DGC，鼓手是 Grohl：书中写到年底美国每周约卖 40 万张，并把 Michael Jackson《Dangerous》挤下榜首。中文版所引 Cobain：他第一次听到 Pixies 时，觉得自己该在那支乐队里，或至少在一支模仿他们的乐队里。\n\n《In Utero》（1993）同样登上美国榜首。Pat Smear 参加最后几轮巡演。Lori Goldston 在 1993 年 MTV Unplugged 拉大提琴，唱片 1994 年发行。Cobain 1994 年 4 月 5 日去世。"
   },
   "narrative": [
     {
@@ -164,8 +204,8 @@
         "zh": "Bleach 阵容与 Grohl 三人组"
       },
       "body": {
-        "en": "Bleach documents the Sub Pop years with Chad Channing on drums. Cobain, Novoselic, and Grohl are the lineup most cited for Nevermind and In Utero.\n\nEarlier drummers matter to the early catalog; MTV-scale memory centers on Grohl’s kit from 1990–94.",
-        "zh": "《Bleach》记录 Sub Pop 时期，鼓手为 Chad Channing。Cobain、Novoselic 与 Grohl 是《Nevermind》《In Utero》最常被引用的编制。\n\n更早的鼓手属于早期目录；MTV 尺度的记忆集中在 1990–94 年 Grohl 的鼓组。"
+        "en": "Bleach documents the Sub Pop years with Chad Channing on drums. Cobain, Novoselic, and Grohl are the lineup most cited for Nevermind and In Utero.\n\nEarlier drummers matter to the early catalog; MTV-scale memory centers on Grohl’s kit from 1990–94.\n\nThe pre-Grohl drum chair changes four times. Everman moves on to Soundgarden’s bass. Goldston plays cello on the Unplugged session.",
+        "zh": "《Bleach》记录 Sub Pop 时期，鼓手为 Chad Channing。Cobain、Novoselic 与 Grohl 是《Nevermind》《In Utero》最常被引用的编制。\n\n更早的鼓手属于早期目录；MTV 尺度的记忆集中在 1990–94 年 Grohl 的鼓组。\n\nGrohl 之前鼓的位子换了四次。Everman 后来去 Soundgarden 弹贝斯。Goldston 在 Unplugged 拉大提琴。"
       },
       "stickyVisual": "lineupVersions",
       "soundGenre": "grunge"
@@ -249,8 +289,8 @@
         }
       ],
       "note": {
-        "en": "Bleach-era lineup before Grohl joined.",
-        "zh": "Grohl 加入前的 Bleach 时期阵容。"
+        "en": "Bleach-era lineup before Grohl joined.\n\nBleach drummers are Burckhard, Foster, Crover, and Channing. Everman is the 1989 guitar credit. Peters (Mudhoney) plays before Grohl joins.",
+        "zh": "Grohl 加入前的 Bleach 时期阵容。\n\n《Bleach》时期鼓手是 Burckhard、Foster、Crover 与 Channing。Everman 是 1989 年的吉他署名。Peters（Mudhoney）在 Grohl 加入前打过鼓。"
       }
     },
     {

@@ -36,6 +36,16 @@
       "name": "Chris Shiflett",
       "role": "Guitar",
       "years": "1999–present"
+    },
+    {
+      "name": "William Goldsmith",
+      "role": "Drums",
+      "years": "1995–1997"
+    },
+    {
+      "name": "Franz Stahl",
+      "role": "Guitar",
+      "years": "1997–1999"
     }
   ],
   "essentialTracks": [
@@ -67,7 +77,10 @@
   "relatedBands": [
     "nirvana",
     "them-crooked-vultures",
-    "queens-of-the-stone-age"
+    "queens-of-the-stone-age",
+    "motorhead",
+    "led-zeppelin",
+    "pixies"
   ],
   "influenceFrom": [
     "nirvana"
@@ -80,8 +93,8 @@
     "zh": "Grohl 领衔的 alt-rock，1994 年至今。Nirvana 之后鼓手转主唱；《Everlong》是《The Colour and the Shape》的核心参照。"
   },
   "body": {
-    "en": "Foo Fighters began in 1994 with Grohl playing most instruments on the debut. Nate Mendel, Pat Smear, and later Taylor Hawkins stabilized the live band. The Colour and the Shape (1997) fixed quiet-loud radio hooks such as Everlong.\n\nGraph links: Nirvana drummer → Foo Fighters frontman → Them Crooked Vultures. Musical constants are compressed guitars, stacked choruses, and long touring schedules.",
-    "zh": "Foo Fighters 始于 1994 年，首专大半乐器由 Grohl 亲自演奏。Nate Mendel、Pat Smear 与后来的 Taylor Hawkins 稳定现场编制。《The Colour and the Shape》（1997）定型《Everlong》一类强弱电台钩子。\n\n图谱关联：Nirvana 鼓手 → Foo Fighters 主唱 → Them Crooked Vultures。音乐常量是压缩吉他、堆叠副歌与长期巡演。"
+    "en": "Foo Fighters began in 1994 with Grohl playing most instruments on the debut. Nate Mendel, Pat Smear, and later Taylor Hawkins stabilized the live band. The Colour and the Shape (1997) fixed quiet-loud radio hooks such as Everlong.\n\nGraph links: Nirvana drummer → Foo Fighters frontman → Them Crooked Vultures. Musical constants are compressed guitars, stacked choruses, and long touring schedules.\n\nThe 1995 album is mostly Grohl; Greg Dulli (Afghan Whigs) is the other player named. Nate Mendel and William Goldsmith came from Sunny Day Real Estate, with Pat Smear. Goldsmith and Smear left inside two years. Grohl re-cut the drums on The Colour and the Shape (1997). Taylor Hawkins, from Alanis Morissette’s band, replaced Goldsmith. Franz Stahl, from Grohl’s earlier band Scream, left before There Is Nothing Left to Lose (1999). Chris Shiflett joined for that tour.\n\nGrohl then played on Queens of the Stone Age’s Songs for the Deaf (2002). Hyde Park, London, 2006, drew about 85,000, with Motörhead and Queen’s Brian May and Roger Taylor. Wembley 2008 added Jimmy Page and John Paul Jones. Wasting Light (2011), produced by Butch Vig, brought Smear back, plus Krist Novoselic and Bob Mould (Hüsker Dü). A 2011 Hawkins line, Chinese-edition wording, Classic Rock: they are just a rock band.",
+    "zh": "Foo Fighters 始于 1994 年，首专大半乐器由 Grohl 亲自演奏。Nate Mendel、Pat Smear 与后来的 Taylor Hawkins 稳定现场编制。《The Colour and the Shape》（1997）定型《Everlong》一类强弱电台钩子。\n\n图谱关联：Nirvana 鼓手 → Foo Fighters 主唱 → Them Crooked Vultures。音乐常量是压缩吉他、堆叠副歌与长期巡演。\n\n1995 年同名专辑主要是 Grohl；书中点名的另一位乐手是 Afghan Whigs 的 Greg Dulli。Nate Mendel 与 William Goldsmith 来自 Sunny Day Real Estate，再加上 Pat Smear。不到两年，Goldsmith 与 Smear 离开。Grohl 重录了《The Colour and the Shape》（1997）的鼓。Alanis Morissette 乐队的 Taylor Hawkins 接替 Goldsmith。Franz Stahl 来自 Grohl 加入 Nirvana 之前的 Scream，在《There Is Nothing Left to Lose》（1999）开录前离开。Chris Shiflett 参加该专辑的宣传巡演。\n\nGrohl 随后参加 Queens of the Stone Age《Songs for the Deaf》（2002）。2006 年伦敦海德公园约 8.5 万人，同台有 Motörhead，以及 Queen 的 Brian May 与 Roger Taylor。2008 年温布利加上 Jimmy Page 与 John Paul Jones。《Wasting Light》（2011）由 Butch Vig 制作，Smear 回来，客席有 Krist Novoselic 与 Hüsker Dü 的 Bob Mould。中文版所引 Hawkins 2011 年对《Classic Rock》说：他们只是一支摇滚乐队。"
   },
   "whyMatters": {
     "en": "Dave Grohl’s post-Nirvana band, formed in 1994. From the self-titled debut (1995) a one-man demo project became a long-running alternative/hard-rock touring act.",
@@ -168,11 +181,21 @@
         "zh": "《The Colour and the Shape》"
       },
       "body": {
-        "en": "Taylor Hawkins replaced William Goldsmith on drums mid-sessions. Everlong, Monkey Wrench, and My Hero define the quiet-loud FM face of the album.\n\nGrohl and producer Gil Norton push guitar layering; Mendel’s bass locks to Hawkins’ open hi-hat groove.\n\nMulti-million sales fixed Grohl as a frontman, not only as Nirvana’s drummer.",
-        "zh": "Taylor Hawkins 在录音中途接替 William Goldsmith 打鼓。《Everlong》《Monkey Wrench》《My Hero》定义专辑的强弱 FM 面孔。\n\nGrohl 与制作人 Gil Norton 推进吉他叠轨；Mendel 贝斯咬住 Hawkins 的开放 hi-hat groove。\n\n数百万销量把 Grohl 固定为主唱身份，而不仅是 Nirvana 鼓手。"
+        "en": "Taylor Hawkins replaced William Goldsmith on drums mid-sessions. Everlong, Monkey Wrench, and My Hero define the quiet-loud FM face of the album.\n\nGrohl and producer Gil Norton push guitar layering; Mendel’s bass locks to Hawkins’ open hi-hat groove.\n\nMulti-million sales fixed Grohl as a frontman, not only as Nirvana’s drummer.\n\nSunny Day Real Estate sent Mendel and Goldsmith. Scream sent Franz Stahl for a short guitar stint. Hawkins arrived from Morissette’s touring band.",
+        "zh": "Taylor Hawkins 在录音中途接替 William Goldsmith 打鼓。《Everlong》《Monkey Wrench》《My Hero》定义专辑的强弱 FM 面孔。\n\nGrohl 与制作人 Gil Norton 推进吉他叠轨；Mendel 贝斯咬住 Hawkins 的开放 hi-hat groove。\n\n数百万销量把 Grohl 固定为主唱身份，而不仅是 Nirvana 鼓手。\n\nSunny Day Real Estate 送来 Mendel 与 Goldsmith。Scream 的 Franz Stahl 短时担任吉他。Hawkins 来自 Morissette 的巡演乐队。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "alternative"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/foo-fighters-grohl-stage.jpg",
+        "alt": {
+          "en": "Dave Grohl with Foo Fighters on stage",
+          "zh": "Dave Grohl 与 Foo Fighters 在台上"
+        },
+        "credit": "Richard Riley",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Foo_Fighters_Stage_with_Dave_Grohl_(169898458).jpg"
+      }
     },
     {
       "id": "legacy",
@@ -278,8 +301,8 @@
         }
       ],
       "note": {
-        "en": "Hawkins drums + Smear/Shiflett guitars; arena alt-rock core.",
-        "zh": "Hawkins 鼓 + Smear/Shiflett 吉他；体育场 alt-rock 核心编制。"
+        "en": "Hawkins drums + Smear/Shiflett guitars; arena alt-rock core.\n\nGoldsmith played before Hawkins. Stahl filled Smear’s chair until 1999. Smear is back by Wasting Light (2011).",
+        "zh": "Hawkins 鼓 + Smear/Shiflett 吉他；体育场 alt-rock 核心编制。\n\nHawkins 之前是 Goldsmith。Stahl 补 Smear 的吉他到 1999 年。到《Wasting Light》（2011）Smear 已回到台上。"
       }
     }
   ],

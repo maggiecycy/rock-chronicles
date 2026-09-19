@@ -61,7 +61,10 @@
   "relatedBands": [
     "tool",
     "linkin-park",
-    "system-of-a-down"
+    "system-of-a-down",
+    "soundgarden",
+    "nirvana",
+    "alice-in-chains"
   ],
   "influenceFrom": [
     "black-sabbath",
@@ -76,8 +79,8 @@
     "zh": "de la Rocha / Morello 四人组；Killing in the Name 是 1992 年引用曲。"
   },
   "body": {
-    "en": "Formed in 1991 in Los Angeles. The debut and Evil Empire pair de la Rocha’s metered shout with Morello’s effects-led solos, Commerford’s funk bass, and Wilk’s dry drums—DJ-like textures without a sampler.\n\nKilling in the Name (1992) is the main citation track. The band sat at the 1990s overlap of metal radio and protest lyric, before later nu-metal’s pop polish.",
-    "zh": "1991 年于洛杉矶组建。首专与 Evil Empire 把 de la Rocha 按拍喊唱、Morello 效果器主导独奏、Commerford funk 贝斯与 Wilk 干鼓配在一起——类似 DJ 的质感，但无采样器。\n\nKilling in the Name（1992）是主要引用曲。乐队位于 1990 年代金属电台与抗议歌词的交汇处，早于后期 nu-metal 的流行抛光。"
+    "en": "Formed in 1991 in Los Angeles. The debut and Evil Empire pair de la Rocha’s metered shout with Morello’s effects-led solos, Commerford’s funk bass, and Wilk’s dry drums—DJ-like textures without a sampler.\n\nKilling in the Name (1992) is the main citation track. The band sat at the 1990s overlap of metal radio and protest lyric, before later nu-metal’s pop polish.\n\nMorello put the four together in 1991: Zack de la Rocha, Tim Commerford, and Brad Wilk, who had auditioned for Morello’s earlier band Lock Up. The 1992 debut put Killing in the Name, Bullet in the Head, Know Your Enemy, and Wake Up on MTV and rock radio. The entry sets that record beside Nirvana. Evil Empire, The Battle of Los Angeles, and the covers set Renegades followed. The book says none of them passed the debut.\n\nFrom the 2000 pause until the 2007 return, Morello, Wilk, and Commerford made three US top-10 albums with Chris Cornell as Audioslave. A 2009 Facebook campaign sent Killing in the Name to the UK Christmas #1. They played a free London show the next summer.",
+    "zh": "1991 年于洛杉矶组建。首专与 Evil Empire 把 de la Rocha 按拍喊唱、Morello 效果器主导独奏、Commerford funk 贝斯与 Wilk 干鼓配在一起——类似 DJ 的质感，但无采样器。\n\nKilling in the Name（1992）是主要引用曲。乐队位于 1990 年代金属电台与抗议歌词的交汇处，早于后期 nu-metal 的流行抛光。\n\nMorello 1991 年把四人凑齐：Zack de la Rocha、Tim Commerford，以及曾参加 Morello 前乐队 Lock Up 面试的 Brad Wilk。1992 年同名专辑让《Killing in the Name》《Bullet in the Head》《Know Your Enemy》《Wake Up》进了 MTV 和摇滚电台。条目把这张唱片放在 Nirvana 旁边。后面是《Evil Empire》《The Battle of Los Angeles》和翻唱集《Renegades》。书中写它们都没有超过首张。\n\n2000 年停摆到 2007 年回归之间，Morello、Wilk、Commerford 与 Chris Cornell 以 Audioslave 做了三张美国榜前 10 专辑。2009 年一场 Facebook 行动让《Killing in the Name》成为英国圣诞节冠军单曲。次年夏天他们在伦敦办了一场免费演出。"
   },
   "scenes": [
     {
@@ -172,11 +175,21 @@
         "zh": "nu-metal 抛光之前"
       },
       "body": {
-        "en": "Linkin Park later used verse-rap / chorus-sing splits with DJ beds and pop hooks. Tool shared political-metal festival audiences with RATM in the 1990s.\n\nMorello’s effect-chain solos are widely copied; later bands often take the guitar method more than the slogans.",
-        "zh": "Linkin Park 后来使用 rap 主歌 / 唱副歌分工，并加入 DJ 铺底与 pop hook。Tool 在 1990 年代音乐节与 RATM 共享政治 metal 听众。\n\nMorello 的效果链独奏被广泛模仿；后来乐队多取吉他方法，少取口号本身。"
+        "en": "Linkin Park later used verse-rap / chorus-sing splits with DJ beds and pop hooks. Tool shared political-metal festival audiences with RATM in the 1990s.\n\nMorello’s effect-chain solos are widely copied; later bands often take the guitar method more than the slogans.\n\nAudioslave is the shared project with Soundgarden’s singer. The 2010 free London show answers the 2009 UK Christmas #1.",
+        "zh": "Linkin Park 后来使用 rap 主歌 / 唱副歌分工，并加入 DJ 铺底与 pop hook。Tool 在 1990 年代音乐节与 RATM 共享政治 metal 听众。\n\nMorello 的效果链独奏被广泛模仿；后来乐队多取吉他方法，少取口号本身。\n\nAudioslave 是与 Soundgarden 主唱的共同项目。2010 年伦敦免费演出，对应 2009 年英国圣诞节冠军单曲。"
       },
       "stickyVisual": "influence",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/rage-against-the-machine-live.jpg",
+        "alt": {
+          "en": "Rage Against the Machine on stage",
+          "zh": "Rage Against the Machine 在台上"
+        },
+        "credit": "Penner",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rage_Against_The_Machine.jpg"
+      }
     },
     {
       "id": "scene-0",
@@ -264,8 +277,8 @@
         }
       ],
       "note": {
-        "en": "Morello FX as lead voice; de la Rocha political vocals.",
-        "zh": "Morello 效果器作主声部；de la Rocha 政治人声。"
+        "en": "Morello FX as lead voice; de la Rocha political vocals.\n\nThe four do not change in the entry. The gap band is Audioslave: the same instrumental trio plus Cornell.",
+        "zh": "Morello 效果器作主声部；de la Rocha 政治人声。\n\n条目里四人没有换过。空档期的乐队是 Audioslave：同一套乐器组加上 Cornell。"
       }
     }
   ],
