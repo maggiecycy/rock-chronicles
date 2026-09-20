@@ -286,7 +286,8 @@
         },
         {
           "name": "Andy Summers",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "andy-summers"
         },
         {
           "name": "Stewart Copeland",

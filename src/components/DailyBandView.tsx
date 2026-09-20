@@ -10,15 +10,19 @@ export function DailyBandView({ index }: { index: DailyBandIndex }) {
 
   return (
     <main className="mx-auto max-w-3xl px-4 py-10 sm:px-6 sm:py-14">
-      <p className="text-xs font-medium uppercase tracking-[0.25em] text-muted">
-        {t.daily.eyebrow}
-      </p>
+      {t.daily.eyebrow ? (
+        <p className="text-xs font-medium uppercase tracking-[0.25em] text-muted">
+          {t.daily.eyebrow}
+        </p>
+      ) : null}
       <h1 className="font-display mt-2 text-4xl font-semibold tracking-tight sm:text-5xl">
         {loc(index.title, locale)}
       </h1>
-      <p className="mt-4 max-w-2xl text-base leading-relaxed text-ink-soft sm:text-lg">
-        {loc(index.intro, locale)}
-      </p>
+      {loc(index.intro, locale) ? (
+        <p className="mt-4 max-w-2xl text-base leading-relaxed text-ink-soft sm:text-lg">
+          {loc(index.intro, locale)}
+        </p>
+      ) : null}
 
       <ol className="mt-10 divide-y divide-ink/15 border-2 border-ink">
         {index.days.map((d) => (

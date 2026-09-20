@@ -1,0 +1,29 @@
+{
+  "name": "Richard Wright",
+  "slug": "richard-wright",
+  "born": 1943,
+  "origin": "London, England",
+  "roles": [
+    "Keys",
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Pink Floyd keyboardist; pads, electric piano, and harmony vocals across the classic albums.",
+    "zh": "Pink Floyd 键盘手；经典专辑中的 pad、电钢琴与和声。"
+  },
+  "body": {
+    "en": "Born 1943, London. Founding keyboardist. Electric piano, organ, and synth pads define much of the mid-1970s texture.\n\nDies 2008.",
+    "zh": "1943 年生于伦敦。创始键盘手。电钢琴、风琴与合成器 pad 构成 1970 年代中期大量织体。\n\n2008 年去世。"
+  },
+  "tenures": [
+    {
+      "bandName": "Pink Floyd",
+      "bandSlug": "pink-floyd",
+      "role": "Keys, Vocals",
+      "from": 1965,
+      "to": 2008
+    }
+  ],
+  "relatedPeople": []
+}

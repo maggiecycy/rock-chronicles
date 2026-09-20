@@ -1,4 +1,4 @@
-import { useDatabase } from "@/lib/db";
+import { readFromDatabase } from "@/lib/db";
 import type {
   Band,
   Era,
@@ -77,7 +77,7 @@ function preferLocalJson(): boolean {
 }
 
 async function bandFromDbOrJson(slug: string): Promise<Band | undefined> {
-  if (useDatabase()) {
+  if (readFromDatabase()) {
     try {
       const row = await dbBand(slug);
       if (row) return row;
@@ -89,7 +89,7 @@ async function bandFromDbOrJson(slug: string): Promise<Band | undefined> {
 }
 
 async function bandsFromDbOrJson(): Promise<Band[]> {
-  if (useDatabase()) {
+  if (readFromDatabase()) {
     try {
       const rows = await dbAllBands();
       if (rows.length > 0) return rows;
@@ -102,7 +102,7 @@ async function bandsFromDbOrJson(): Promise<Band[]> {
 
 export async function getAllEras(): Promise<Era[]> {
   if (preferLocalJson()) return getAllErasFromJson();
-  if (useDatabase()) {
+  if (readFromDatabase()) {
     try {
       const rows = await dbAllEras();
       if (rows.length > 0) return rows;
@@ -115,7 +115,7 @@ export async function getAllEras(): Promise<Era[]> {
 
 export async function getEra(slug: string): Promise<Era | undefined> {
   if (preferLocalJson()) return getEraFromJson(slug);
-  if (useDatabase()) {
+  if (readFromDatabase()) {
     try {
       const row = await dbEra(slug);
       if (row) return row;
@@ -150,7 +150,7 @@ export async function getBandsByEra(eraSlug: string): Promise<Band[]> {
 
 export async function getAllGenres(): Promise<Genre[]> {
   if (preferLocalJson()) return getAllGenresFromJson();
-  if (useDatabase()) {
+  if (readFromDatabase()) {
     try {
       const rows = await dbAllGenres();
       if (rows.length > 0) return rows;
@@ -163,7 +163,7 @@ export async function getAllGenres(): Promise<Genre[]> {
 
 export async function getGenre(slug: string): Promise<Genre | undefined> {
   if (preferLocalJson()) return getGenreFromJson(slug);
-  if (useDatabase()) {
+  if (readFromDatabase()) {
     try {
       const row = await dbGenre(slug);
       if (row) return row;
@@ -176,7 +176,7 @@ export async function getGenre(slug: string): Promise<Genre | undefined> {
 
 export async function getGenreLinks(): Promise<GenreLink[]> {
   if (preferLocalJson()) return getGenreLinksFromJson();
-  if (useDatabase()) {
+  if (readFromDatabase()) {
     try {
       return await dbGenreLinks();
     } catch {
@@ -208,7 +208,7 @@ export async function getAllPeople(): Promise<Person[]> {
   const people = preferLocalJson()
     ? getAllPeopleFromJson()
     : await (async () => {
-        if (useDatabase()) {
+        if (readFromDatabase()) {
           try {
             const rows = await dbAllPeople();
             if (rows.length > 0) return rows;
@@ -225,7 +225,7 @@ export async function getPerson(slug: string): Promise<Person | undefined> {
   let person: Person | undefined;
   if (preferLocalJson()) {
     person = getPersonFromJson(slug);
-  } else if (useDatabase()) {
+  } else if (readFromDatabase()) {
     try {
       person = await dbPerson(slug);
     } catch {
@@ -257,7 +257,7 @@ export async function getPeopleForBand(bandSlug: string): Promise<Person[]> {
 
 export async function getAllGuides(): Promise<GuideArticle[]> {
   if (preferLocalJson()) return getAllGuidesFromJson();
-  if (useDatabase()) {
+  if (readFromDatabase()) {
     try {
       const rows = await dbAllGuides();
       if (rows.length > 0) return rows;
@@ -271,7 +271,7 @@ export async function getAllGuides(): Promise<GuideArticle[]> {
 /** Guides shown on /guide — excludes child sections. */
 export async function getTopLevelGuides(): Promise<GuideArticle[]> {
   if (preferLocalJson()) return getTopLevelGuidesFromJson();
-  if (useDatabase()) {
+  if (readFromDatabase()) {
     try {
       const rows = await dbAllGuides();
       if (rows.length > 0) {
@@ -301,7 +301,7 @@ export async function getGuide(
   slug: string,
 ): Promise<GuideArticle | undefined> {
   if (preferLocalJson()) return getGuideFromJson(slug);
-  if (useDatabase()) {
+  if (readFromDatabase()) {
     try {
       const row = await dbGuide(slug);
       if (row) return row;
@@ -314,7 +314,7 @@ export async function getGuide(
 
 export async function getAllTropes(): Promise<Trope[]> {
   if (preferLocalJson()) return getAllTropesFromJson();
-  if (useDatabase()) {
+  if (readFromDatabase()) {
     try {
       const tropes = await dbAllTropes();
       if (tropes.length > 0) {
@@ -333,7 +333,7 @@ export async function getAllTropes(): Promise<Trope[]> {
 
 export async function getTrope(slug: string): Promise<Trope | undefined> {
   if (preferLocalJson()) return getTropeFromJson(slug);
-  if (useDatabase()) {
+  if (readFromDatabase()) {
     try {
       const row = await dbTrope(slug);
       if (row) return row;
@@ -346,7 +346,7 @@ export async function getTrope(slug: string): Promise<Trope | undefined> {
 
 export async function getAllLives(): Promise<LiveEvent[]> {
   if (preferLocalJson()) return getAllLivesFromJson();
-  if (useDatabase()) {
+  if (readFromDatabase()) {
     try {
       const rows = await dbAllLives();
       if (rows.length > 0) return rows;
@@ -359,7 +359,7 @@ export async function getAllLives(): Promise<LiveEvent[]> {
 
 export async function getLive(slug: string): Promise<LiveEvent | undefined> {
   if (preferLocalJson()) return getLiveFromJson(slug);
-  if (useDatabase()) {
+  if (readFromDatabase()) {
     try {
       const row = await dbLive(slug);
       if (row) return row;

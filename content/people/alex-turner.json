@@ -1,0 +1,28 @@
+{
+  "name": "Alex Turner",
+  "slug": "alex-turner",
+  "born": 1986,
+  "origin": "Sheffield, England",
+  "roles": [
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Arctic Monkeys frontman; Sheffield lyric detail and guitar from Whatever People Say onward.",
+    "zh": "Arctic Monkeys 主唱；从《Whatever People Say》起的谢菲尔德细节歌词与吉他。"
+  },
+  "body": {
+    "en": "Born 1986, Sheffield. Principal writer and vocalist. Early records lean on local detail and tight guitar; later albums stretch arrangement and delivery.",
+    "zh": "1986 年生于谢菲尔德。主要写歌与主唱。早期唱片偏本地细节与紧吉他；后期专辑拉开编曲与唱法。"
+  },
+  "tenures": [
+    {
+      "bandName": "Arctic Monkeys",
+      "bandSlug": "arctic-monkeys",
+      "role": "Vocals, Guitar",
+      "from": 2002
+    }
+  ],
+  "relatedPeople": []
+}

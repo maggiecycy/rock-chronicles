@@ -16,7 +16,8 @@
     {
       "name": "Grian Chatten",
       "role": "Vocals",
-      "years": "2017–present"
+      "years": "2017–present",
+      "personSlug": "grian-chatten"
     },
     {
       "name": "Carlos O'Connell",
@@ -231,7 +232,8 @@
       "members": [
         {
           "name": "Grian Chatten",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "grian-chatten"
         },
         {
           "name": "Carlos O'Connell",

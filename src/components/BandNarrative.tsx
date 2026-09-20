@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { motion, useInView } from "framer-motion";
+import { motion, useInView, useReducedMotion } from "framer-motion";
 import { TagPill } from "@/components/TagPill";
 import { PullQuote } from "@/components/PullQuote";
 import { EntityHeroImage } from "@/components/EntityHeroImage";
@@ -11,7 +11,7 @@ import { useSound } from "@/components/SoundProvider";
 import { useLocale } from "@/i18n/LocaleProvider";
 import { loc, type Localized } from "@/i18n/config";
 import { getTracksByBand } from "@/lib/audio";
-import type { Band, EntityImage, Genre, StickyVisual } from "@/lib/types";
+import type { Band, EntityImage, Genre, NarrativeChapter, StickyVisual } from "@/lib/types";
 
 interface BandNarrativeProps {
   band: Band;
@@ -65,15 +65,16 @@ function StickyPanel({
   stickyImage?: EntityImage;
 }) {
   const { locale, t } = useLocale();
+  const reduceMotion = useReducedMotion();
   const scene = band.scenes?.[sceneIndex ?? 0];
   const quote = band.interviewQuotes?.[quoteIndex ?? 0];
 
   return (
     <motion.div
       key={`${visual}-${sceneIndex}-${quoteIndex}-${stickyImage?.src ?? ""}`}
-      initial={{ opacity: 0, y: 12 }}
+      initial={reduceMotion ? false : { opacity: 0, y: 12 }}
       animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 0.35 }}
+      transition={reduceMotion ? { duration: 0 } : { duration: 0.35 }}
       className="border-2 border-ink bg-paper p-5 sm:p-6"
     >
       {stickyImage && (
@@ -307,6 +308,142 @@ function StickyPanel({
   );
 }
 
+function mobileSummary(
+  band: Band,
+  genres: Genre[],
+  related: Band[],
+  chapter: NarrativeChapter,
+  locale: "en" | "zh",
+  t: ReturnType<typeof useLocale>["t"],
+): string {
+  const visual = chapter.stickyVisual;
+  if (visual === "thesis") {
+    return loc(band.whyMatters ?? band.shortBio, locale);
+  }
+  if (visual === "members") {
+    return band.members
+      .slice(0, 4)
+      .map((m) => m.name)
+      .join(" · ");
+  }
+  if (visual === "lineupVersions") {
+    const peak =
+      band.lineupVersions?.find((v) => v.peak) ?? band.lineupVersions?.[0];
+    if (!peak) return loc(chapter.title, locale);
+    return `${loc(peak.label, locale)} · ${peak.years}`;
+  }
+  if (visual === "scene") {
+    const scene = band.scenes?.[chapter.sceneIndex ?? 0];
+    if (!scene) return loc(chapter.title, locale);
+    const note = scene.note ? loc(scene.note, locale) : scene.membersOnStage.join(" · ");
+    return `${scene.track} (${scene.year}) · ${note}`;
+  }
+  if (visual === "quote") {
+    const quote = band.interviewQuotes?.[chapter.quoteIndex ?? 0];
+    return quote ? `“${quote.text}” — ${quote.speaker}` : loc(chapter.title, locale);
+  }
+  if (visual === "dna") {
+    const genreNames = genres.map((g) => loc(g.name, locale)).join(" · ");
+    const relatedNames = related
+      .slice(0, 3)
+      .map((b) => b.name)
+      .join(" · ");
+    return [genreNames, relatedNames].filter(Boolean).join(" · ") || t.band.related;
+  }
+  if (visual === "influence") {
+    const from = band.influenceFrom.slice(0, 2).join(" · ");
+    const to = band.influenced.slice(0, 2).join(" · ");
+    return [from && `${t.band.from}: ${from}`, to && `${t.band.influenced}: ${to}`]
+      .filter(Boolean)
+      .join(" · ");
+  }
+  if (visual === "tracks") {
+    return band.essentialTracks
+      .slice(0, 3)
+      .map((tr) => tr.title)
+      .join(" · ");
+  }
+  return loc(chapter.title, locale);
+}
+
+function MobileStickyBar({
+  band,
+  genres,
+  related,
+  chapter,
+  chapterIndex,
+  chapterCount,
+  onPrev,
+  onNext,
+}: {
+  band: Band;
+  genres: Genre[];
+  related: Band[];
+  chapter: NarrativeChapter;
+  chapterIndex: number;
+  chapterCount: number;
+  onPrev: () => void;
+  onNext: () => void;
+}) {
+  const { locale, t } = useLocale();
+  const scene = band.scenes?.[chapter.sceneIndex ?? 0];
+  const title =
+    chapter.stickyVisual === "scene" && scene
+      ? scene.track
+      : loc(chapter.title, locale);
+  const summary = mobileSummary(band, genres, related, chapter, locale, t);
+  const img = chapter.stickyImage;
+
+  return (
+    <div className="pointer-events-none fixed inset-x-0 bottom-16 z-40 lg:hidden">
+      <div className="pointer-events-auto mx-auto max-w-6xl border-t-2 border-ink bg-paper/95 px-3 py-2.5 shadow-[0_-8px_24px_rgba(0,0,0,0.06)] backdrop-blur-sm sm:px-6">
+        <div className="flex items-stretch gap-3">
+          {img && (
+            <div className="relative h-14 w-14 shrink-0 overflow-hidden border border-ink/40 bg-paper-deep">
+              {/* eslint-disable-next-line @next/next/no-img-element -- mobile sticky thumb */}
+              <img
+                src={img.src}
+                alt={loc(img.alt, locale)}
+                className="h-full w-full object-cover object-top"
+              />
+            </div>
+          )}
+          <div className="min-w-0 flex-1">
+            <p className="text-[10px] font-medium uppercase tracking-[0.16em] text-muted">
+              {String(chapterIndex + 1).padStart(2, "0")} /{" "}
+              {String(chapterCount).padStart(2, "0")}
+            </p>
+            <p className="truncate text-sm font-medium leading-snug">{title}</p>
+            <p className="mt-0.5 line-clamp-2 text-xs leading-snug text-ink-soft">
+              {summary}
+            </p>
+          </div>
+          <div className="flex shrink-0 flex-col justify-center gap-1">
+            <button
+              type="button"
+              onClick={onPrev}
+              disabled={chapterIndex <= 0}
+              aria-label={t.player.prev}
+              className="border border-ink px-2 py-1 text-[10px] font-medium uppercase tracking-wider enabled:hover:bg-ink/10 disabled:opacity-30"
+            >
+              ↑
+            </button>
+            <button
+              type="button"
+              onClick={onNext}
+              disabled={chapterIndex >= chapterCount - 1}
+              aria-label={t.player.next}
+              className="border border-ink px-2 py-1 text-[10px] font-medium uppercase tracking-wider enabled:hover:bg-ink/10 disabled:opacity-30"
+            >
+              ↓
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 export function BandNarrative({
   band,
   genres,
@@ -315,6 +452,7 @@ export function BandNarrative({
   eraSlug,
 }: BandNarrativeProps) {
   const { locale, t } = useLocale();
+  const reduceMotion = useReducedMotion();
   const chapters = band.narrative ?? [];
   const listenTracks = getTracksByBand(band.slug);
   const { playGenre, enabled } = useSound();
@@ -348,9 +486,12 @@ export function BandNarrative({
         Math.max(0, activeIdx + dir),
       );
       const el = document.getElementById(`chapter-${chapters[next]?.id}`);
-      el?.scrollIntoView({ behavior: "smooth", block: "center" });
+      el?.scrollIntoView({
+        behavior: reduceMotion ? "auto" : "smooth",
+        block: "center",
+      });
     },
-    [activeIdx, chapters],
+    [activeIdx, chapters, reduceMotion],
   );
 
   useEffect(() => {
@@ -470,7 +611,7 @@ export function BandNarrative({
 
       {/* Scrolly body */}
       <div className="mx-auto grid max-w-6xl gap-8 px-4 lg:grid-cols-[1.15fr_0.85fr] sm:px-6">
-        <div>
+        <div className="pb-28 lg:pb-0">
           {chapters.map((ch, index) => (
             <ChapterObserver
               key={ch.id}
@@ -546,16 +687,19 @@ export function BandNarrative({
         </aside>
       </div>
 
-      {/* Mobile sticky strip — sit above MiniPlayer */}
-      <div className="sticky bottom-20 border-t-2 border-ink bg-paper p-3 lg:hidden">
-        {active && (
-          <p className="truncate text-sm font-medium">
-            {active.stickyVisual === "scene" && band.scenes?.[active.sceneIndex ?? 0]
-              ? band.scenes[active.sceneIndex ?? 0].track
-              : loc(active.title, locale)}
-          </p>
-        )}
-      </div>
+      {/* Mobile chrome — thumb + summary + chapter nav, fixed above MiniPlayer */}
+      {active && (
+        <MobileStickyBar
+          band={band}
+          genres={genres}
+          related={related}
+          chapter={active}
+          chapterIndex={activeIdx}
+          chapterCount={chapters.length}
+          onPrev={() => go(-1)}
+          onNext={() => go(1)}
+        />
+      )}
 
       {/* Listen preview queue */}
       {listenTracks.length > 0 && (

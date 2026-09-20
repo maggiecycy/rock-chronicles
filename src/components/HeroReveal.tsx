@@ -40,7 +40,7 @@ export function HeroReveal() {
     >
       <div
         aria-hidden
-        className={`pointer-events-none absolute inset-0 z-0 transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] will-change-transform ${
+        className={`pointer-events-none absolute inset-0 z-0 will-change-transform motion-safe:transition-transform motion-safe:duration-500 motion-safe:ease-[cubic-bezier(0.22,1,0.36,1)] ${
           revealed ? "translate-x-0" : "translate-x-full"
         }`}
       >

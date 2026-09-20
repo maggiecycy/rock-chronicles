@@ -1,0 +1,28 @@
+{
+  "name": "Charlie Watts",
+  "slug": "charlie-watts",
+  "born": 1941,
+  "origin": "London, England",
+  "roles": [
+    "Drums"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Rolling Stones drummer from 1963; jazz-informed pocket behind the guitars.",
+    "zh": "1963 年起 Rolling Stones 鼓手；爵士语汇的 pocket 托住吉他。"
+  },
+  "body": {
+    "en": "Born 1941, London. Joins the Stones in 1963. Drum feel stays closer to jazz pocket than hard-rock blast.\n\nDies 2021. Core studio and tour drummer for nearly six decades.",
+    "zh": "1941 年生于伦敦。1963 年加入 Stones。鼓感更近爵士 pocket，而非硬摇轰击。\n\n2021 年去世。近六十年核心录音与巡演鼓手。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Rolling Stones",
+      "bandSlug": "the-rolling-stones",
+      "role": "Drums",
+      "from": 1963,
+      "to": 2021
+    }
+  ],
+  "relatedPeople": []
+}

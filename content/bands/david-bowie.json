@@ -379,7 +379,8 @@
         },
         {
           "name": "Robert Fripp",
-          "role": "Guitar (Heroes)"
+          "role": "Guitar (Heroes)",
+          "personSlug": "robert-fripp"
         }
       ],
       "note": {

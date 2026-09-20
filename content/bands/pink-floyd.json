@@ -20,22 +20,26 @@
     {
       "name": "Syd Barrett",
       "role": "Guitar, Vocals",
-      "years": "1965–1968"
+      "years": "1965–1968",
+      "personSlug": "syd-barrett"
     },
     {
       "name": "Roger Waters",
       "role": "Bass, Vocals",
-      "years": "1965–1985"
+      "years": "1965–1985",
+      "personSlug": "roger-waters"
     },
     {
       "name": "Richard Wright",
       "role": "Keys, Vocals",
-      "years": "1965–1979; 1987–2008"
+      "years": "1965–1979; 1987–2008",
+      "personSlug": "richard-wright"
     },
     {
       "name": "Nick Mason",
       "role": "Drums",
-      "years": "1965–2014"
+      "years": "1965–2014",
+      "personSlug": "nick-mason"
     },
     {
       "name": "Bob Klose",
@@ -45,7 +49,8 @@
     {
       "name": "David Gilmour",
       "role": "Guitar, Vocals",
-      "years": "1968–2014"
+      "years": "1968–2014",
+      "personSlug": "david-gilmour"
     }
   ],
   "essentialTracks": [
@@ -308,19 +313,23 @@
       "members": [
         {
           "name": "Syd Barrett",
-          "role": "Guitar, Vocals"
+          "role": "Guitar, Vocals",
+          "personSlug": "syd-barrett"
         },
         {
           "name": "Roger Waters",
-          "role": "Bass, Vocals"
+          "role": "Bass, Vocals",
+          "personSlug": "roger-waters"
         },
         {
           "name": "Richard Wright",
-          "role": "Keys"
+          "role": "Keys",
+          "personSlug": "richard-wright"
         },
         {
           "name": "Nick Mason",
-          "role": "Drums"
+          "role": "Drums",
+          "personSlug": "nick-mason"
         }
       ],
       "note": {
@@ -339,19 +348,23 @@
       "members": [
         {
           "name": "David Gilmour",
-          "role": "Guitar, Vocals"
+          "role": "Guitar, Vocals",
+          "personSlug": "david-gilmour"
         },
         {
           "name": "Roger Waters",
-          "role": "Bass, Vocals"
+          "role": "Bass, Vocals",
+          "personSlug": "roger-waters"
         },
         {
           "name": "Richard Wright",
-          "role": "Keys, Vocals"
+          "role": "Keys, Vocals",
+          "personSlug": "richard-wright"
         },
         {
           "name": "Nick Mason",
-          "role": "Drums"
+          "role": "Drums",
+          "personSlug": "nick-mason"
         }
       ],
       "note": {
@@ -369,15 +382,18 @@
       "members": [
         {
           "name": "David Gilmour",
-          "role": "Guitar, Vocals"
+          "role": "Guitar, Vocals",
+          "personSlug": "david-gilmour"
         },
         {
           "name": "Nick Mason",
-          "role": "Drums"
+          "role": "Drums",
+          "personSlug": "nick-mason"
         },
         {
           "name": "Richard Wright",
-          "role": "Keys"
+          "role": "Keys",
+          "personSlug": "richard-wright"
         }
       ],
       "note": {

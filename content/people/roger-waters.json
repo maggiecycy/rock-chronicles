@@ -1,0 +1,29 @@
+{
+  "name": "Roger Waters",
+  "slug": "roger-waters",
+  "born": 1943,
+  "origin": "Great Bookham, England",
+  "roles": [
+    "Bass",
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Pink Floyd bassist and primary lyric writer through The Wall era.",
+    "zh": "Pink Floyd 贝斯手；至《The Wall》时期主要作词人。"
+  },
+  "body": {
+    "en": "Born 1943. Bassist from the start. After Barrett leaves, takes more lyric and concept lead through Dark Side, Wish You Were Here, Animals, and The Wall.\n\nLeaves in the mid-1980s; later solo and The Wall tour projects.",
+    "zh": "1943 年生。从一开始任贝斯。Barrett 离队后，在《Dark Side》《Wish You Were Here》《Animals》《The Wall》中承担更多歌词与概念主线。\n\n1980 年代中期离队；后有个人与 The Wall 巡演项目。"
+  },
+  "tenures": [
+    {
+      "bandName": "Pink Floyd",
+      "bandSlug": "pink-floyd",
+      "role": "Bass, Vocals",
+      "from": 1965,
+      "to": 1985
+    }
+  ],
+  "relatedPeople": []
+}

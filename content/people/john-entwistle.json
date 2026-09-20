@@ -1,0 +1,28 @@
+{
+  "name": "John Entwistle",
+  "slug": "john-entwistle",
+  "born": 1944,
+  "origin": "London, England",
+  "roles": [
+    "Bass"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Who bassist; loud, lead-like bass lines under Townshend’s chords.",
+    "zh": "The Who 贝斯手；在 Townshend 和弦下走偏主音式的大声部贝斯线。"
+  },
+  "body": {
+    "en": "Born 1944, London. Bass parts often carry melodic counter-lines at high stage volume. Dies 2002.",
+    "zh": "1944 年生于伦敦。贝斯常以高舞台音量走旋律对位。2002 年去世。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Who",
+      "bandSlug": "the-who",
+      "role": "Bass",
+      "from": 1964,
+      "to": 2002
+    }
+  ],
+  "relatedPeople": []
+}

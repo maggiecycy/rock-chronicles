@@ -3,6 +3,7 @@ import {
   getAllEras,
   getEra,
   getBandsByEra,
+  getAllBands,
   getAllGenres,
 } from "@/lib/content";
 import { EraView } from "@/components/EraView";
@@ -28,12 +29,20 @@ export default async function EraPage({ params }: PageProps) {
   const era = await getEra(slug);
   if (!era) notFound();
 
-  const [bands, allGenres] = await Promise.all([
+  const [bands, allBands, allGenres] = await Promise.all([
     getBandsByEra(era.slug),
+    getAllBands(),
     getAllGenres(),
   ]);
   const primary = bands.filter((b) => b.primaryEra === era.slug);
   const genres = allGenres.filter((g) => era.genres.includes(g.slug));
 
-  return <EraView era={era} genres={genres} primary={primary} />;
+  return (
+    <EraView
+      era={era}
+      genres={genres}
+      primary={primary}
+      catalog={allBands}
+    />
+  );
 }

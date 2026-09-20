@@ -1,0 +1,27 @@
+{
+  "name": "Nick Mason",
+  "slug": "nick-mason",
+  "born": 1944,
+  "origin": "Birmingham, England",
+  "roles": [
+    "Drums"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Pink Floyd drummer from the start; only constant member across all studio eras.",
+    "zh": "Pink Floyd 从一开始的鼓手；各录音室阶段唯一始终在册成员。"
+  },
+  "body": {
+    "en": "Born 1944. Drummer on every Pink Floyd studio era. Keeps the pulse under long-form and concept pieces.\n\nLater Saucerful of Secrets live projects revisit early material.",
+    "zh": "1944 年生。Pink Floyd 各录音室阶段鼓手。在长曲与概念作品下托住节奏。\n\n后来的 Saucerful of Secrets 现场项目重访早期曲目。"
+  },
+  "tenures": [
+    {
+      "bandName": "Pink Floyd",
+      "bandSlug": "pink-floyd",
+      "role": "Drums",
+      "from": 1965
+    }
+  ],
+  "relatedPeople": []
+}

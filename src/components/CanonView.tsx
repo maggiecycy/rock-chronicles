@@ -26,9 +26,11 @@ export function CanonView({
 
   return (
     <main className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-14">
-      <p className="text-xs font-medium uppercase tracking-[0.25em] text-accent">
-        {t.canon.eyebrow}
-      </p>
+      {t.canon.eyebrow ? (
+        <p className="text-xs font-medium uppercase tracking-[0.25em] text-accent">
+          {t.canon.eyebrow}
+        </p>
+      ) : null}
       <h1 className="font-display mt-3 text-4xl font-semibold tracking-tight sm:text-5xl">
         {loc(canon.title, locale)}
       </h1>
@@ -165,7 +167,9 @@ export function CanonView({
             <h2 className="font-display text-2xl font-semibold">
               {t.canon.resources}
             </h2>
-            <p className="mt-2 text-sm text-muted">{t.canon.resourcesHint}</p>
+            {t.canon.resourcesHint ? (
+              <p className="mt-2 text-sm text-muted">{t.canon.resourcesHint}</p>
+            ) : null}
             {(
               [
                 ["forums", t.canon.forums, canon.resources.forums],

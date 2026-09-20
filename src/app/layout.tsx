@@ -8,8 +8,7 @@ export const metadata: Metadata = {
     default: "Rock Chronicles",
     template: "%s · Rock Chronicles",
   },
-  description:
-    "An interactive rock chronicle: long-scroll narratives, timeline, genre map, and node-triggered soundscapes.",
+  description: "Rock history reference: bands, eras, genres, people.",
 };
 
 export default function RootLayout({

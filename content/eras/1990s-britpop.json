@@ -12,18 +12,18 @@
     "zh": "英国吉他乐队用六十年代谱系与阶级歌词争榜。"
   },
   "sound": {
-    "en": "Big Noel-style choruses, jangly indie, Madchester residue, northern accent vocals",
-    "zh": "Noel 式大副歌、叮当 Indie、Madchester 余韵、北方口音人声"
+    "en": "Noel-style stacked choruses, Rickenbacker/jangly indie arpeggios, Madchester shuffle residue, northern accent vocals, loud-quiet verse–chorus that stays mid-tempo",
+    "zh": "Noel 式叠副歌、Rickenbacker/叮当 Indie 分解、Madchester shuffle 余韵、北方口音人声、中速 loud-quiet 主副歌"
   },
   "anchorBands": [
     "oasis",
     "blur",
     "pulp",
     "the-stone-roses",
-    "the-verve"
+    "the-verve",
+    "suede"
   ],
   "alsoNotable": [
-    "Suede",
     "The Libertines",
     "Arctic Monkeys"
   ],
@@ -33,8 +33,8 @@
     "alternative"
   ],
   "body": {
-    "en": "Britpop is not UK grunge. It argues for Beatles/Kinks lineage, class storytelling, and NME/chart competition as a national sport. Kept separate so Oasis and Nirvana are not filed under one label.",
-    "zh": "Britpop 不是英国版 Grunge。它主张 Beatles/Kinks 谱系、阶级叙事，以及把 NME/榜单竞争当国民运动。与 Grunge 分开，免得 Oasis 和 Nirvana 被归成同一标签。"
+    "en": "Stone Roses (1989) and Madchester club nights set a UK guitar template before the mid-1990s chart fight: baggy drums, chiming guitars, northern vocals.\n\nOasis (Definitely Maybe, 1994; Morning Glory, 1995) push Noel Gallagher’s stacked choruses and Beatles/Kinks chord vocabulary onto BBC and NME covers. Blur’s Parklife (1994) and The Great Escape (1995) answer with London character sketches and sharper production. Pulp’s Different Class (1995) puts Jarvis Cocker’s class detail on the same chart board. Suede’s early singles (1992–93) keep glam guitar and androgynous vocal up front.\n\nThe 1995 Oasis–Blur singles week makes NME/chart competition a national story. The Verve’s Urban Hymns (1997) lands later with string pads and Richard Ashcroft’s sustained vocal. By the early 2000s the press label thins out; Libertines and then Arctic Monkeys carry UK guitar into the next decade under different tags.",
+    "zh": "Stone Roses（1989）与 Madchester 俱乐部夜场在 1990 年代中期榜单战之前定下英国吉他模板：宽松鼓点、叮当吉他、北方人声。\n\nOasis（《Definitely Maybe》1994；《Morning Glory》1995）把 Noel Gallagher 的叠副歌与 Beatles/Kinks 和弦语汇送上 BBC 与 NME 封面。Blur 的《Parklife》（1994）与《The Great Escape》（1995）用伦敦人物素描与更利落制作回应。Pulp 的《Different Class》（1995）把 Jarvis Cocker 的阶级细节推上同一榜面。Suede 早期单曲（1992–93）把 glam 吉他与中性唱腔放在前排。\n\n1995 年 Oasis–Blur 同周单曲战让 NME/榜单竞争成为全国话题。The Verve《Urban Hymns》（1997）稍后以弦乐 pad 与 Richard Ashcroft 的延音人声进入。2000 年代初媒体标签变淡；Libertines 与其后 Arctic Monkeys 把英国吉他带进下一年代，换用别的标签。"
   },
   "navLabel": {
     "en": "Britpop",

@@ -280,15 +280,18 @@
       "members": [
         {
           "name": "Joey Ramone",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "joey-ramone"
         },
         {
           "name": "Johnny Ramone",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "johnny-ramone"
         },
         {
           "name": "Dee Dee Ramone",
-          "role": "Bass"
+          "role": "Bass",
+          "personSlug": "dee-dee-ramone"
         },
         {
           "name": "Tommy Ramone",
@@ -310,15 +313,18 @@
       "members": [
         {
           "name": "Joey Ramone",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "joey-ramone"
         },
         {
           "name": "Johnny Ramone",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "johnny-ramone"
         },
         {
           "name": "Dee Dee Ramone",
-          "role": "Bass"
+          "role": "Bass",
+          "personSlug": "dee-dee-ramone"
         },
         {
           "name": "Marky Ramone",

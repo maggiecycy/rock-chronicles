@@ -1002,195 +1002,35 @@
     }
   },
   "people": {
-    "bernard-sumner": {
-      "src": "/media/people/bernard-sumner.jpg",
+    "alex-lifeson": {
+      "src": "/media/people/alex-lifeson.jpg",
       "alt": {
-        "en": "Bernard Sumner, live at the Hammerstein Ballroom, New York City, 2005.",
-        "zh": "Bernard Sumner（Wikimedia Commons）"
-      },
-      "credit": "Transferred from en.wikipedia to Commons. Transfer was stated to be made by User:Telrúnya.",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barney2005.jpg"
-    },
-    "dave-grohl": {
-      "src": "/media/people/dave-grohl.jpg",
-      "alt": {
-        "en": "Dave Grohl playing with Scream",
-        "zh": "Dave Grohl（Wikimedia Commons）"
-      },
-      "credit": "www.spiritspirit.de",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dave_Grohl_1989.jpg"
-    },
-    "liam-gallagher": {
-      "src": "/media/people/liam-gallagher.jpg",
-      "alt": {
-        "en": "Liam Gallagher en concert lors du festival des vieilles charrues 2018.",
-        "zh": "Liam Gallagher（Wikimedia Commons）"
-      },
-      "credit": "Own work",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Festival_des_Vieilles_Charrues_2018_-_Liam_Gallagher_-_013.jpg"
-    },
-    "noel-gallagher": {
-      "src": "/media/people/noel-gallagher.jpg",
-      "alt": {
-        "en": "Noel Gallagher's High Flying Birds live at Pistoia Blues, Italy, on July 8th 2019",
-        "zh": "Noel Gallagher（Wikimedia Commons）"
-      },
-      "credit": "Own work",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noel_Gallagher_2019.jpg"
-    },
-    "eric-clapton": {
-      "src": "/media/people/eric-clapton.jpg",
-      "alt": {
-        "en": "Eric Clapton",
-        "zh": "Eric Clapton（Wikimedia Commons）"
+        "en": "Alex Lifeson, 2007",
+        "zh": "Alex Lifeson, 2007（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eric_Clapton_1.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alex_Lifeson_2007.jpg"
     },
-    "jimmy-page": {
-      "src": "/media/people/jimmy-page.jpg",
+    "alex-van-halen": {
+      "src": "/media/people/alex-van-halen.jpg",
       "alt": {
-        "en": "Jimmy Page, early career publicity photo",
-        "zh": "Jimmy Page（Wikimedia Commons）"
-      },
-      "credit": "Publicity photograph",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jimmy_Page_early.jpg"
-    },
-    "john-paul-jones": {
-      "src": "/media/people/john-paul-jones.jpg",
-      "alt": {
-        "en": "John Paul Jones, 2010",
-        "zh": "John Paul Jones（Wikimedia Commons）"
+        "en": "Alex Van Halen live",
+        "zh": "Alex Van Halen（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Paul_Jones_-_2010.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alex_Van_Halen_-_Van_Halen_Live.jpg"
     },
-    "josh-homme": {
-      "src": "/media/people/josh-homme.jpg",
+    "andy-summers": {
+      "src": "/media/people/andy-summers.jpg",
       "alt": {
-        "en": "Josh Homme",
-        "zh": "Josh Homme（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Josh_Homme_mg_5648.jpg"
-    },
-    "kurt-cobain": {
-      "src": "/media/people/kurt-cobain.jpg",
-      "alt": {
-        "en": "Kurt Cobain at the 1992 MTV Video Music Awards",
-        "zh": "Kurt Cobain（Wikimedia Commons）"
-      },
-      "credit": "P.B. Rage",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nirvana_around_1992_(cropped).jpg"
-    },
-    "ozzy-osbourne": {
-      "src": "/media/people/ozzy-osbourne.jpg",
-      "alt": {
-        "en": "Ozzy Osbourne, 1973",
-        "zh": "Ozzy Osbourne（Wikimedia Commons）"
-      },
-      "credit": "Press photograph",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ozzy_Osbourne_1973.JPG"
-    },
-    "paul-mccartney": {
-      "src": "/media/people/paul-mccartney.jpg",
-      "alt": {
-        "en": "Paul McCartney with Wings, 1976",
-        "zh": "Paul Mccartney（Wikimedia Commons）"
-      },
-      "credit": "Jim Summaria",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_McCartney_with_Linda_McCartney_-_Wings_-_1976.jpg"
-    },
-    "peter-hook": {
-      "src": "/media/people/peter-hook.jpg",
-      "alt": {
-        "en": "Peter Hook",
-        "zh": "Peter Hook（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peter_Hook.jpg"
-    },
-    "robert-fripp": {
-      "src": "/media/people/robert-fripp.jpg",
-      "alt": {
-        "en": "Robert Fripp",
-        "zh": "Robert Fripp（Wikimedia Commons）"
+        "en": "Andy Summers, 1989",
+        "zh": "Andy Summers, 1989（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Fripp.jpg"
-    },
-    "robert-plant": {
-      "src": "/media/people/robert-plant.jpg",
-      "alt": {
-        "en": "Robert Plant, 2022",
-        "zh": "Robert Plant（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Plant_(2022).jpg"
-    },
-    "ronnie-james-dio": {
-      "src": "/media/people/ronnie-james-dio.jpg",
-      "alt": {
-        "en": "Ronnie James Dio, 2009",
-        "zh": "Ronnie James Dio（Wikimedia Commons）"
-      },
-      "credit": "Diego Torres",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ronnie_James_Dio_(3538742389).jpg"
-    },
-    "thom-yorke": {
-      "src": "/media/people/thom-yorke.jpg",
-      "alt": {
-        "en": "Thom Yorke",
-        "zh": "Thom Yorke（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thom_Yorke.jpg"
-    },
-    "tony-iommi": {
-      "src": "/media/people/tony-iommi.jpg",
-      "alt": {
-        "en": "Tony Iommi",
-        "zh": "Tony Iommi（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tony_Iommi_(3538744187).jpg"
-    },
-    "slash": {
-      "src": "/media/people/slash.jpg",
-      "alt": {
-        "en": "Slash, 2017",
-        "zh": "Slash, 2017（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slash,_Guitarist_of_Guns_N'_Roses_in_2017.jpg"
-    },
-    "freddie-mercury": {
-      "src": "/media/people/freddie-mercury.jpg",
-      "alt": {
-        "en": "Freddie Mercury in Montreux",
-        "zh": "Freddie Mercury in Montreux（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freddie_Mercury_-_Montreux_03.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andy_Summers_1989.jpg"
     },
     "angus-young": {
       "src": "/media/people/angus-young.jpg",
@@ -1202,136 +1042,6 @@
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angus_Young_Tacoma.jpg"
     },
-    "lemmy-kilmister": {
-      "src": "/media/people/lemmy-kilmister.jpg",
-      "alt": {
-        "en": "Lemmy Kilmister",
-        "zh": "Lemmy Kilmister（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lemmy_Kilmister.jpg"
-    },
-    "james-hetfield": {
-      "src": "/media/people/james-hetfield.jpg",
-      "alt": {
-        "en": "James Hetfield, 2017",
-        "zh": "James Hetfield, 2017（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Hetfield_2017.jpg"
-    },
-    "stevie-nicks": {
-      "src": "/media/people/stevie-nicks.jpg",
-      "alt": {
-        "en": "Stevie Nicks, 1977",
-        "zh": "Stevie Nicks, 1977（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stevie_Nicks_(1977).JPG"
-    },
-    "flea": {
-      "src": "/media/people/flea.jpg",
-      "alt": {
-        "en": "Flea, 2016",
-        "zh": "Flea, 2016（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016_Red_Hot_Chili_Peppers_-_Michael_Flea_Balzary_(cropped).jpg"
-    },
-    "brian-may": {
-      "src": "/media/people/brian-may.jpg",
-      "alt": {
-        "en": "Brian May, 2007",
-        "zh": "Brian May, 2007（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brian_May_(2007).jpg"
-    },
-    "joe-strummer": {
-      "src": "/media/people/joe-strummer.jpg",
-      "alt": {
-        "en": "Joe Strummer live",
-        "zh": "Joe Strummer live（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joe_Strummer_Live_by_Joe_Kerrigan.jpg"
-    },
-    "jim-morrison": {
-      "src": "/media/people/jim-morrison.jpg",
-      "alt": {
-        "en": "Jim Morrison, 1969",
-        "zh": "Jim Morrison, 1969（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jim_Morrison_1969.JPG"
-    },
-    "sting": {
-      "src": "/media/people/sting.jpg",
-      "alt": {
-        "en": "Sting",
-        "zh": "Sting（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sting_(The_Police)_(4934544201).jpg"
-    },
-    "robert-smith": {
-      "src": "/media/people/robert-smith.jpg",
-      "alt": {
-        "en": "Robert Smith at Roskilde 2012",
-        "zh": "Robert Smith at Roskilde 2012（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Smith_-_The_Cure_-_Roskilde_Festival_2012_-_Orange_Stage.jpg"
-    },
-    "mark-knopfler": {
-      "src": "/media/people/mark-knopfler.jpg",
-      "alt": {
-        "en": "Mark Knopfler",
-        "zh": "Mark Knopfler（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mark_Knopfler.jpg"
-    },
-    "bruce-dickinson": {
-      "src": "/media/people/bruce-dickinson.jpg",
-      "alt": {
-        "en": "Bruce Dickinson",
-        "zh": "Bruce Dickinson（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruce_Dickinson.jpg"
-    },
-    "david-bowie": {
-      "src": "/media/people/david-bowie.jpg",
-      "alt": {
-        "en": "David Bowie, 1974",
-        "zh": "David Bowie, 1974（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Bowie_1974.JPG"
-    },
-    "eddie-van-halen": {
-      "src": "/media/people/eddie-van-halen.jpg",
-      "alt": {
-        "en": "Eddie Van Halen",
-        "zh": "Eddie Van Halen（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eddie_Van_Halen_(Cropped).jpg"
-    },
     "axl-rose": {
       "src": "/media/people/axl-rose.jpg",
       "alt": {
@@ -1342,25 +1052,25 @@
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Axl_Rose_sings_in_London_2022.jpg"
     },
-    "tom-morello": {
-      "src": "/media/people/tom-morello.jpg",
+    "bernard-sumner": {
+      "src": "/media/people/bernard-sumner.jpg",
       "alt": {
-        "en": "Tom Morello",
-        "zh": "Tom Morello（Wikimedia Commons）"
+        "en": "Bernard Sumner, live at the Hammerstein Ballroom, New York City, 2005.",
+        "zh": "Bernard Sumner（Wikimedia Commons）"
+      },
+      "credit": "Transferred from en.wikipedia to Commons. Transfer was stated to be made by User:Telrúnya.",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barney2005.jpg"
+    },
+    "bilinda-butcher": {
+      "src": "/media/people/bilinda-butcher.jpg",
+      "alt": {
+        "en": "Bilinda Butcher, 2008",
+        "zh": "Bilinda Butcher（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_Morello_-_RATM_-_Big_Day_Out.jpg"
-    },
-    "lou-reed": {
-      "src": "/media/people/lou-reed.jpg",
-      "alt": {
-        "en": "Lou Reed, 1966",
-        "zh": "Lou Reed, 1966（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lou_Reed_1966(cropped).jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bilinda_Butcher_%282008%29.jpg"
     },
     "billie-joe-armstrong": {
       "src": "/media/people/billie-joe-armstrong.jpg",
@@ -1372,95 +1082,25 @@
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Billie_Joe_Armstrong_in_2009.jpg"
     },
-    "michael-stipe": {
-      "src": "/media/people/michael-stipe.jpg",
+    "billy-corgan": {
+      "src": "/media/people/billy-corgan.jpg",
       "alt": {
-        "en": "Michael Stipe",
-        "zh": "Michael Stipe（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michael_Stipe_by_David_Shankbone.jpg"
-    },
-    "jack-white": {
-      "src": "/media/people/jack-white.jpg",
-      "alt": {
-        "en": "Jack White with The White Stripes",
-        "zh": "Jack White with The White Stripes（Wikimedia Commons）"
+        "en": "Billy Corgan",
+        "zh": "Billy Corgan（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jack_&_Meg,_The_White_Stripes.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Billy_Corgan.jpg"
     },
-    "brian-wilson": {
-      "src": "/media/people/brian-wilson.jpg",
+    "black-francis": {
+      "src": "/media/people/black-francis.jpg",
       "alt": {
-        "en": "Brian Wilson",
-        "zh": "Brian Wilson（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brian_Wilson_(7314673472)_(tall).jpg"
-    },
-    "chris-cornell": {
-      "src": "/media/people/chris-cornell.jpg",
-      "alt": {
-        "en": "Chris Cornell",
-        "zh": "Chris Cornell（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chris_Cornell_Soundgarden_(253661679).jpeg"
-    },
-    "dolores-oriordan": {
-      "src": "/media/people/dolores-oriordan.jpg",
-      "alt": {
-        "en": "Dolores O'Riordan",
-        "zh": "Dolores O'Riordan（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dolores_O'riordan_of_the_Cranberries_(7050195855).jpg"
-    },
-    "john-lydon": {
-      "src": "/media/people/john-lydon.jpg",
-      "alt": {
-        "en": "John Lydon, 2013",
-        "zh": "John Lydon, 2013（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_lydon_live_27_10_2013_photo_13.JPG"
-    },
-    "kim-gordon": {
-      "src": "/media/people/kim-gordon.jpg",
-      "alt": {
-        "en": "Kim Gordon",
-        "zh": "Kim Gordon（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_bw_(471470885).jpg"
-    },
-    "trent-reznor": {
-      "src": "/media/people/trent-reznor.jpg",
-      "alt": {
-        "en": "Trent Reznor, Lollapalooza 1991",
-        "zh": "Trent Reznor, Lollapalooza 1991（Wikimedia Commons）"
+        "en": "Black Francis",
+        "zh": "Black Francis（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trent_Reznor_Lollapalooza_1991.jpg"
-    },
-    "eddie-vedder": {
-      "src": "/media/people/eddie-vedder.jpg",
-      "alt": {
-        "en": "Eddie Vedder",
-        "zh": "Eddie Vedder（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eddie_Vedder,_Pearl_Jam,_BST_Hyde_Park_2022.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Francis.jpg"
     },
     "bon-scott": {
       "src": "/media/people/bon-scott.jpg",
@@ -1482,365 +1122,45 @@
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brian_Johnson.jpg"
     },
-    "damon-albarn": {
-      "src": "/media/people/damon-albarn.jpg",
+    "brian-may": {
+      "src": "/media/people/brian-may.jpg",
       "alt": {
-        "en": "Damon Albarn",
-        "zh": "Damon Albarn（Wikimedia Commons）"
+        "en": "Brian May, 2007",
+        "zh": "Brian May, 2007（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Damon_Albarn_mg_6633.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brian_May_(2007).jpg"
     },
-    "dave-mustaine": {
-      "src": "/media/people/dave-mustaine.jpg",
+    "brian-wilson": {
+      "src": "/media/people/brian-wilson.jpg",
       "alt": {
-        "en": "Dave Mustaine, 2011",
-        "zh": "Dave Mustaine, 2011（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dave_Mustaine_2011.jpg"
-    },
-    "david-lee-roth": {
-      "src": "/media/people/david-lee-roth.jpg",
-      "alt": {
-        "en": "David Lee Roth, 2014",
-        "zh": "David Lee Roth, 2014（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Lee_Roth_2014.jpg"
-    },
-    "geezer-butler": {
-      "src": "/media/people/geezer-butler.jpg",
-      "alt": {
-        "en": "Geezer Butler",
-        "zh": "Geezer Butler（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geezer_Butler_(3538741175).jpg"
-    },
-    "ian-gillan": {
-      "src": "/media/people/ian-gillan.jpg",
-      "alt": {
-        "en": "Ian Gillan, 1971",
-        "zh": "Ian Gillan, 1971（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ian_Gillan_1971.jpg"
-    },
-    "john-cale": {
-      "src": "/media/people/john-cale.jpg",
-      "alt": {
-        "en": "John Cale, 2006",
-        "zh": "John Cale, 2006（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Cale_(2006).jpg"
-    },
-    "johnny-marr": {
-      "src": "/media/people/johnny-marr.jpg",
-      "alt": {
-        "en": "Johnny Marr, 2012",
-        "zh": "Johnny Marr, 2012（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Johnny_Marr_University_of_Salford_2012_crop.jpg"
-    },
-    "kim-deal": {
-      "src": "/media/people/kim-deal.jpg",
-      "alt": {
-        "en": "Kim Deal, 2009",
-        "zh": "Kim Deal, 2009（Wikimedia Commons）"
+        "en": "Brian Wilson",
+        "zh": "Brian Wilson（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KimDealPixies2009.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brian_Wilson_(7314673472)_(tall).jpg"
     },
-    "matt-cameron": {
-      "src": "/media/people/matt-cameron.jpg",
+    "bruce-dickinson": {
+      "src": "/media/people/bruce-dickinson.jpg",
       "alt": {
-        "en": "Matt Cameron, 2013",
-        "zh": "Matt Cameron, 2013（Wikimedia Commons）"
+        "en": "Bruce Dickinson",
+        "zh": "Bruce Dickinson（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matt_Cameron_live_in_2013.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruce_Dickinson.jpg"
     },
-    "pat-smear": {
-      "src": "/media/people/pat-smear.jpg",
+    "chris-cornell": {
+      "src": "/media/people/chris-cornell.jpg",
       "alt": {
-        "en": "Pat Smear, 2018",
-        "zh": "Pat Smear, 2018（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pat_Smear_-_Foo_Fighters_-_Rock_am_Ring_2018_(cropped).jpg"
-    },
-    "ray-davies": {
-      "src": "/media/people/ray-davies.jpg",
-      "alt": {
-        "en": "Ray Davies, 2011",
-        "zh": "Ray Davies, 2011（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ray_Davies_of_the_Kinks_2011.jpg"
-    },
-    "ritchie-blackmore": {
-      "src": "/media/people/ritchie-blackmore.jpg",
-      "alt": {
-        "en": "Ritchie Blackmore, 1977",
-        "zh": "Ritchie Blackmore, 1977（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ritchie_Blackmore_1977.jpg"
-    },
-    "rob-halford": {
-      "src": "/media/people/rob-halford.jpg",
-      "alt": {
-        "en": "Rob Halford",
-        "zh": "Rob Halford（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rob_Halford_of_Judas_Priest.jpg"
-    },
-    "roger-glover": {
-      "src": "/media/people/roger-glover.jpg",
-      "alt": {
-        "en": "Roger Glover, 1971",
-        "zh": "Roger Glover, 1971（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roger_Glover_1971.jpg"
-    },
-    "sammy-hagar": {
-      "src": "/media/people/sammy-hagar.jpg",
-      "alt": {
-        "en": "Sammy Hagar, 2009",
-        "zh": "Sammy Hagar, 2009（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sammy_Hagar_2009.jpg"
-    },
-    "tina-weymouth": {
-      "src": "/media/people/tina-weymouth.jpg",
-      "alt": {
-        "en": "Tina Weymouth, 2010",
-        "zh": "Tina Weymouth, 2010（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tina_Weymouth_2010.jpg"
-    },
-    "neil-peart": {
-      "src": "/media/people/neil-peart.jpg",
-      "alt": {
-        "en": "Neil Peart",
-        "zh": "Neil Peart（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NeilPeart.JPG"
-    },
-    "geddy-lee": {
-      "src": "/media/people/geddy-lee.jpg",
-      "alt": {
-        "en": "Geddy Lee, 2007",
-        "zh": "Geddy Lee, 2007（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geddy_Lee_2007.jpg"
-    },
-    "alex-lifeson": {
-      "src": "/media/people/alex-lifeson.jpg",
-      "alt": {
-        "en": "Alex Lifeson, 2007",
-        "zh": "Alex Lifeson, 2007（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alex_Lifeson_2007.jpg"
-    },
-    "morrissey": {
-      "src": "/media/people/morrissey.jpg",
-      "alt": {
-        "en": "Morrissey",
-        "zh": "Morrissey（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morrissey_crop_tie.jpg"
-    },
-    "david-byrne": {
-      "src": "/media/people/david-byrne.jpg",
-      "alt": {
-        "en": "David Byrne, 1999",
-        "zh": "David Byrne, 1999（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Byrne_1999.jpg"
-    },
-    "billy-corgan": {
-      "src": "/media/people/billy-corgan.jpg",
-      "alt": {
-        "en": "Billy Corgan",
-        "zh": "Billy Corgan（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Billy_Corgan.jpg"
-    },
-    "malcolm-young": {
-      "src": "/media/people/malcolm-young.jpg",
-      "alt": {
-        "en": "Malcolm Young, 2010",
-        "zh": "Malcolm Young, 2010（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malcolm_Young_en_2010.jpg"
-    },
-    "roger-taylor": {
-      "src": "/media/people/roger-taylor.jpg",
-      "alt": {
-        "en": "Roger Taylor, 2008",
-        "zh": "Roger Taylor, 2008（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roger_Taylor_Vienna_1.11.2008.jpg"
-    },
-    "john-deacon": {
-      "src": "/media/people/john-deacon.jpg",
-      "alt": {
-        "en": "John Deacon, 1977",
-        "zh": "John Deacon, 1977（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Deacon_(1977).jpg"
-    },
-    "andy-summers": {
-      "src": "/media/people/andy-summers.jpg",
-      "alt": {
-        "en": "Andy Summers, 1989",
-        "zh": "Andy Summers, 1989（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andy_Summers_1989.jpg"
-    },
-    "joey-ramone": {
-      "src": "/media/people/joey-ramone.jpg",
-      "alt": {
-        "en": "Joey Ramone",
-        "zh": "Joey Ramone（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joey_Ramone.jpg"
-    },
-    "sid-vicious": {
-      "src": "/media/people/sid-vicious.jpg",
-      "alt": {
-        "en": "Sid Vicious, 1978",
-        "zh": "Sid Vicious, 1978（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sid_Vicious_1978_(cropped).jpg"
-    },
-    "johnny-ramone": {
-      "src": "/media/people/johnny-ramone.jpg",
-      "alt": {
-        "en": "The Ramones",
-        "zh": "The Ramones（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "Public domain",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramones_rocket_to_russia_photo.jpg"
-    },
-    "dee-dee-ramone": {
-      "src": "/media/people/dee-dee-ramone.jpg",
-      "alt": {
-        "en": "Dee Dee Ramone",
-        "zh": "Dee Dee Ramone（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dee_Dee_Ramone.jpg"
-    },
-    "lindsey-buckingham": {
-      "src": "/media/people/lindsey-buckingham.jpg",
-      "alt": {
-        "en": "Lindsey Buckingham",
-        "zh": "Lindsey Buckingham（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lindsey_Buckingham.jpg"
-    },
-    "graham-coxon": {
-      "src": "/media/people/graham-coxon.jpg",
-      "alt": {
-        "en": "Graham Coxon",
-        "zh": "Graham Coxon（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Graham_Coxon.jpg"
-    },
-    "black-francis": {
-      "src": "/media/people/black-francis.jpg",
-      "alt": {
-        "en": "Black Francis",
-        "zh": "Black Francis（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Francis.jpg"
-    },
-    "kim-thayil": {
-      "src": "/media/people/kim-thayil.jpg",
-      "alt": {
-        "en": "Kim Thayil",
-        "zh": "Kim Thayil（Wikimedia Commons）"
+        "en": "Chris Cornell",
+        "zh": "Chris Cornell（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chris_Cornell_&_Kim_Thayil_live_2015.jpg"
-    },
-    "alex-van-halen": {
-      "src": "/media/people/alex-van-halen.jpg",
-      "alt": {
-        "en": "Alex Van Halen live",
-        "zh": "Alex Van Halen（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alex_Van_Halen_-_Van_Halen_Live.jpg"
-    },
-    "bilinda-butcher": {
-      "src": "/media/people/bilinda-butcher.jpg",
-      "alt": {
-        "en": "Bilinda Butcher, 2008",
-        "zh": "Bilinda Butcher（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bilinda_Butcher_%282008%29.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chris_Cornell_Soundgarden_(253661679).jpeg"
     },
     "cliff-williams": {
       "src": "/media/people/cliff-williams.jpg",
@@ -1852,6 +1172,16 @@
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:CliffWilliams.JPG"
     },
+    "damon-albarn": {
+      "src": "/media/people/damon-albarn.jpg",
+      "alt": {
+        "en": "Damon Albarn",
+        "zh": "Damon Albarn（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Damon_Albarn_mg_6633.jpg"
+    },
     "dave-ellefson": {
       "src": "/media/people/dave-ellefson.jpg",
       "alt": {
@@ -1862,6 +1192,76 @@
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dave_Ellefson.JPG"
     },
+    "dave-grohl": {
+      "src": "/media/people/dave-grohl.jpg",
+      "alt": {
+        "en": "Dave Grohl playing with Scream",
+        "zh": "Dave Grohl（Wikimedia Commons）"
+      },
+      "credit": "www.spiritspirit.de",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dave_Grohl_1989.jpg"
+    },
+    "dave-mustaine": {
+      "src": "/media/people/dave-mustaine.jpg",
+      "alt": {
+        "en": "Dave Mustaine, 2011",
+        "zh": "Dave Mustaine, 2011（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dave_Mustaine_2011.jpg"
+    },
+    "david-bowie": {
+      "src": "/media/people/david-bowie.jpg",
+      "alt": {
+        "en": "David Bowie, 1974",
+        "zh": "David Bowie, 1974（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Bowie_1974.JPG"
+    },
+    "david-byrne": {
+      "src": "/media/people/david-byrne.jpg",
+      "alt": {
+        "en": "David Byrne, 1999",
+        "zh": "David Byrne, 1999（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Byrne_1999.jpg"
+    },
+    "david-lee-roth": {
+      "src": "/media/people/david-lee-roth.jpg",
+      "alt": {
+        "en": "David Lee Roth, 2014",
+        "zh": "David Lee Roth, 2014（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Lee_Roth_2014.jpg"
+    },
+    "dee-dee-ramone": {
+      "src": "/media/people/dee-dee-ramone.jpg",
+      "alt": {
+        "en": "Dee Dee Ramone",
+        "zh": "Dee Dee Ramone（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dee_Dee_Ramone.jpg"
+    },
+    "dolores-oriordan": {
+      "src": "/media/people/dolores-oriordan.jpg",
+      "alt": {
+        "en": "Dolores O'Riordan",
+        "zh": "Dolores O'Riordan（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dolores_O'riordan_of_the_Cranberries_(7050195855).jpg"
+    },
     "duff-mckagan": {
       "src": "/media/people/duff-mckagan.jpg",
       "alt": {
@@ -1871,6 +1271,76 @@
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duff_McKagan_2012.JPG"
+    },
+    "eddie-van-halen": {
+      "src": "/media/people/eddie-van-halen.jpg",
+      "alt": {
+        "en": "Eddie Van Halen",
+        "zh": "Eddie Van Halen（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eddie_Van_Halen_(Cropped).jpg"
+    },
+    "eddie-vedder": {
+      "src": "/media/people/eddie-vedder.jpg",
+      "alt": {
+        "en": "Eddie Vedder",
+        "zh": "Eddie Vedder（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eddie_Vedder,_Pearl_Jam,_BST_Hyde_Park_2022.jpg"
+    },
+    "eric-clapton": {
+      "src": "/media/people/eric-clapton.jpg",
+      "alt": {
+        "en": "Eric Clapton",
+        "zh": "Eric Clapton（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eric_Clapton_1.jpg"
+    },
+    "flea": {
+      "src": "/media/people/flea.jpg",
+      "alt": {
+        "en": "Flea, 2016",
+        "zh": "Flea, 2016（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016_Red_Hot_Chili_Peppers_-_Michael_Flea_Balzary_(cropped).jpg"
+    },
+    "freddie-mercury": {
+      "src": "/media/people/freddie-mercury.jpg",
+      "alt": {
+        "en": "Freddie Mercury in Montreux",
+        "zh": "Freddie Mercury in Montreux（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freddie_Mercury_-_Montreux_03.jpg"
+    },
+    "geddy-lee": {
+      "src": "/media/people/geddy-lee.jpg",
+      "alt": {
+        "en": "Geddy Lee, 2007",
+        "zh": "Geddy Lee, 2007（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geddy_Lee_2007.jpg"
+    },
+    "geezer-butler": {
+      "src": "/media/people/geezer-butler.jpg",
+      "alt": {
+        "en": "Geezer Butler",
+        "zh": "Geezer Butler（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geezer_Butler_(3538741175).jpg"
     },
     "glen-matlock": {
       "src": "/media/people/glen-matlock.jpg",
@@ -1892,6 +1362,36 @@
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glenn_Tipton_en_2008_au_Luxembourg.jpg"
     },
+    "graham-coxon": {
+      "src": "/media/people/graham-coxon.jpg",
+      "alt": {
+        "en": "Graham Coxon",
+        "zh": "Graham Coxon（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Graham_Coxon.jpg"
+    },
+    "ian-curtis": {
+      "src": "/media/people/ian-curtis.jpg",
+      "alt": {
+        "en": "Ian Curtis, studio portrait, arms crossed",
+        "zh": "Ian Curtis 肖像，双臂交叉"
+      },
+      "credit": "Portrait supplied for this archive",
+      "license": "User-supplied",
+      "sourceUrl": ""
+    },
+    "ian-gillan": {
+      "src": "/media/people/ian-gillan.jpg",
+      "alt": {
+        "en": "Ian Gillan, 1971",
+        "zh": "Ian Gillan, 1971（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ian_Gillan_1971.jpg"
+    },
     "izzy-stradlin": {
       "src": "/media/people/izzy-stradlin.jpg",
       "alt": {
@@ -1901,6 +1401,46 @@
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Izzy_Stradlin_2012.jpg"
+    },
+    "jack-white": {
+      "src": "/media/people/jack-white.jpg",
+      "alt": {
+        "en": "Jack White with The White Stripes",
+        "zh": "Jack White with The White Stripes（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jack_&_Meg,_The_White_Stripes.jpg"
+    },
+    "james-hetfield": {
+      "src": "/media/people/james-hetfield.jpg",
+      "alt": {
+        "en": "James Hetfield, 2017",
+        "zh": "James Hetfield, 2017（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Hetfield_2017.jpg"
+    },
+    "jerry-cantrell": {
+      "src": "/media/people/jerry-cantrell.jpg",
+      "alt": {
+        "en": "Jerry Cantrell live, 2013",
+        "zh": "Jerry Cantrell 现场，2013"
+      },
+      "credit": "molses terrero",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerry_Cantrell_live_2013.jpg"
+    },
+    "jim-morrison": {
+      "src": "/media/people/jim-morrison.jpg",
+      "alt": {
+        "en": "Jim Morrison, 1969",
+        "zh": "Jim Morrison, 1969（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jim_Morrison_1969.JPG"
     },
     "jimmy-chamberlin": {
       "src": "/media/people/jimmy-chamberlin.jpg",
@@ -1912,75 +1452,95 @@
       "license": "CC BY-SA 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jimmy_Chamberlin_Copyright_Matthew_Drewicz_2005-2007.JPG"
     },
-    "mike-mccready": {
-      "src": "/media/people/mike-mccready.jpg",
+    "jimmy-page": {
+      "src": "/media/people/jimmy-page.jpg",
       "alt": {
-        "en": "Mike McCready",
-        "zh": "Mike McCready（Wikimedia Commons）"
+        "en": "Jimmy Page, early career publicity photo",
+        "zh": "Jimmy Page（Wikimedia Commons）"
+      },
+      "credit": "Publicity photograph",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jimmy_Page_early.jpg"
+    },
+    "joe-strummer": {
+      "src": "/media/people/joe-strummer.jpg",
+      "alt": {
+        "en": "Joe Strummer live",
+        "zh": "Joe Strummer live（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mike_McCready.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joe_Strummer_Live_by_Joe_Kerrigan.jpg"
     },
-    "paul-di-anno": {
-      "src": "/media/people/paul-di-anno.jpg",
+    "joey-ramone": {
+      "src": "/media/people/joey-ramone.jpg",
       "alt": {
-        "en": "Paul Di'Anno",
-        "zh": "Paul Di'Anno（Wikimedia Commons）"
+        "en": "Joey Ramone",
+        "zh": "Joey Ramone（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_Di%27Anno.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joey_Ramone.jpg"
     },
-    "ripper-owens": {
-      "src": "/media/people/ripper-owens.jpg",
+    "john-cale": {
+      "src": "/media/people/john-cale.jpg",
       "alt": {
-        "en": "Tim Ripper Owens, 2019",
-        "zh": "Tim \"Ripper\" Owens（Wikimedia Commons）"
+        "en": "John Cale, 2006",
+        "zh": "John Cale, 2006（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tim_Ripper_Owens_2019_%28cropped%29.jpg"
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Cale_(2006).jpg"
     },
-    "simon-gallup": {
-      "src": "/media/people/simon-gallup.jpg",
+    "john-deacon": {
+      "src": "/media/people/john-deacon.jpg",
       "alt": {
-        "en": "Simon Gallup, 2012",
-        "zh": "Simon Gallup（Wikimedia Commons）"
+        "en": "John Deacon, 1977",
+        "zh": "John Deacon, 1977（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Deacon_(1977).jpg"
+    },
+    "john-lydon": {
+      "src": "/media/people/john-lydon.jpg",
+      "alt": {
+        "en": "John Lydon, 2013",
+        "zh": "John Lydon, 2013（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simon_Gallup_2012.jpeg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_lydon_live_27_10_2013_photo_13.JPG"
     },
-    "steve-jones": {
-      "src": "/media/people/steve-jones.jpg",
+    "john-paul-jones": {
+      "src": "/media/people/john-paul-jones.jpg",
       "alt": {
-        "en": "Steve Jones, 2008",
-        "zh": "Steve Jones（Wikimedia Commons）"
+        "en": "John Paul Jones, 2010",
+        "zh": "John Paul Jones（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camp_Freddy_-_Steve_Jones_-_2008.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Paul_Jones_-_2010.jpg"
     },
-    "stone-gossard": {
-      "src": "/media/people/stone-gossard.jpg",
+    "johnny-marr": {
+      "src": "/media/people/johnny-marr.jpg",
       "alt": {
-        "en": "Stone Gossard, 2014",
-        "zh": "Stone Gossard（Wikimedia Commons）"
+        "en": "Johnny Marr, 2012",
+        "zh": "Johnny Marr, 2012（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stone_Gossard_2014.jpg"
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Johnny_Marr_University_of_Salford_2012_crop.jpg"
     },
-    "thurston-moore": {
-      "src": "/media/people/thurston-moore.jpg",
+    "johnny-ramone": {
+      "src": "/media/people/johnny-ramone.jpg",
       "alt": {
-        "en": "Thurston Moore, 2013",
-        "zh": "Thurston Moore（Wikimedia Commons）"
+        "en": "The Ramones",
+        "zh": "The Ramones（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chelsea_Light_Moving_-_Thurston_Moore_%28Traumzeit_Festival_2013%29_IMGP7514_smial_wp.jpg"
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramones_rocket_to_russia_photo.jpg"
     },
     "jon-lord": {
       "src": "/media/people/jon-lord.jpg",
@@ -1992,6 +1552,16 @@
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jon_Lord_1990.jpg"
     },
+    "josh-homme": {
+      "src": "/media/people/josh-homme.jpg",
+      "alt": {
+        "en": "Josh Homme",
+        "zh": "Josh Homme（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Josh_Homme_mg_5648.jpg"
+    },
     "kevin-shields": {
       "src": "/media/people/kevin-shields.jpg",
       "alt": {
@@ -2001,6 +1571,106 @@
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kevin_Shields_-_April_2009.jpg"
+    },
+    "kim-deal": {
+      "src": "/media/people/kim-deal.jpg",
+      "alt": {
+        "en": "Kim Deal, 2009",
+        "zh": "Kim Deal, 2009（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KimDealPixies2009.jpg"
+    },
+    "kim-gordon": {
+      "src": "/media/people/kim-gordon.jpg",
+      "alt": {
+        "en": "Kim Gordon",
+        "zh": "Kim Gordon（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_bw_(471470885).jpg"
+    },
+    "kim-thayil": {
+      "src": "/media/people/kim-thayil.jpg",
+      "alt": {
+        "en": "Kim Thayil",
+        "zh": "Kim Thayil（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chris_Cornell_&_Kim_Thayil_live_2015.jpg"
+    },
+    "kurt-cobain": {
+      "src": "/media/people/kurt-cobain.jpg",
+      "alt": {
+        "en": "Kurt Cobain at the 1992 MTV Video Music Awards",
+        "zh": "Kurt Cobain（Wikimedia Commons）"
+      },
+      "credit": "P.B. Rage",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nirvana_around_1992_(cropped).jpg"
+    },
+    "lemmy-kilmister": {
+      "src": "/media/people/lemmy-kilmister.jpg",
+      "alt": {
+        "en": "Lemmy Kilmister",
+        "zh": "Lemmy Kilmister（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lemmy_Kilmister.jpg"
+    },
+    "liam-gallagher": {
+      "src": "/media/people/liam-gallagher.jpg",
+      "alt": {
+        "en": "Liam Gallagher en concert lors du festival des vieilles charrues 2018.",
+        "zh": "Liam Gallagher（Wikimedia Commons）"
+      },
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Festival_des_Vieilles_Charrues_2018_-_Liam_Gallagher_-_013.jpg"
+    },
+    "lindsey-buckingham": {
+      "src": "/media/people/lindsey-buckingham.jpg",
+      "alt": {
+        "en": "Lindsey Buckingham",
+        "zh": "Lindsey Buckingham（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lindsey_Buckingham.jpg"
+    },
+    "lou-reed": {
+      "src": "/media/people/lou-reed.jpg",
+      "alt": {
+        "en": "Lou Reed, 1966",
+        "zh": "Lou Reed, 1966（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lou_Reed_1966(cropped).jpg"
+    },
+    "malcolm-young": {
+      "src": "/media/people/malcolm-young.jpg",
+      "alt": {
+        "en": "Malcolm Young, 2010",
+        "zh": "Malcolm Young, 2010（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malcolm_Young_en_2010.jpg"
+    },
+    "mark-knopfler": {
+      "src": "/media/people/mark-knopfler.jpg",
+      "alt": {
+        "en": "Mark Knopfler",
+        "zh": "Mark Knopfler（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mark_Knopfler.jpg"
     },
     "marty-friedman": {
       "src": "/media/people/marty-friedman.jpg",
@@ -2012,6 +1682,16 @@
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marty_Friedman_-_01.jpg"
     },
+    "matt-cameron": {
+      "src": "/media/people/matt-cameron.jpg",
+      "alt": {
+        "en": "Matt Cameron, 2013",
+        "zh": "Matt Cameron, 2013（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matt_Cameron_live_in_2013.jpg"
+    },
     "michael-anthony": {
       "src": "/media/people/michael-anthony.jpg",
       "alt": {
@@ -2021,6 +1701,76 @@
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michael_Anthony_%28bassist%29.jpg"
+    },
+    "michael-stipe": {
+      "src": "/media/people/michael-stipe.jpg",
+      "alt": {
+        "en": "Michael Stipe",
+        "zh": "Michael Stipe（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michael_Stipe_by_David_Shankbone.jpg"
+    },
+    "mike-mccready": {
+      "src": "/media/people/mike-mccready.jpg",
+      "alt": {
+        "en": "Mike McCready",
+        "zh": "Mike McCready（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mike_McCready.jpg"
+    },
+    "morrissey": {
+      "src": "/media/people/morrissey.jpg",
+      "alt": {
+        "en": "Morrissey",
+        "zh": "Morrissey（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morrissey_crop_tie.jpg"
+    },
+    "neil-peart": {
+      "src": "/media/people/neil-peart.jpg",
+      "alt": {
+        "en": "Neil Peart",
+        "zh": "Neil Peart（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NeilPeart.JPG"
+    },
+    "noel-gallagher": {
+      "src": "/media/people/noel-gallagher.jpg",
+      "alt": {
+        "en": "Noel Gallagher's High Flying Birds live at Pistoia Blues, Italy, on July 8th 2019",
+        "zh": "Noel Gallagher（Wikimedia Commons）"
+      },
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noel_Gallagher_2019.jpg"
+    },
+    "ozzy-osbourne": {
+      "src": "/media/people/ozzy-osbourne.jpg",
+      "alt": {
+        "en": "Ozzy Osbourne, 1973",
+        "zh": "Ozzy Osbourne（Wikimedia Commons）"
+      },
+      "credit": "Press photograph",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ozzy_Osbourne_1973.JPG"
+    },
+    "pat-smear": {
+      "src": "/media/people/pat-smear.jpg",
+      "alt": {
+        "en": "Pat Smear, 2018",
+        "zh": "Pat Smear, 2018（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pat_Smear_-_Foo_Fighters_-_Rock_am_Ring_2018_(cropped).jpg"
     },
     "paul-cook": {
       "src": "/media/people/paul-cook.jpg",
@@ -2032,45 +1782,35 @@
       "license": "CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_Cook_Lucca_2023.jpg"
     },
-    "ray-manzarek": {
-      "src": "/media/people/ray-manzarek.jpg",
+    "paul-di-anno": {
+      "src": "/media/people/paul-di-anno.jpg",
       "alt": {
-        "en": "Ray Manzarek, 2007",
-        "zh": "Ray Manzarek（Wikimedia Commons）"
+        "en": "Paul Di'Anno",
+        "zh": "Paul Di'Anno（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
       "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ray_Manzarek_in_Jan_2007.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_Di%27Anno.jpg"
     },
-    "steve-harris": {
-      "src": "/media/people/steve-harris.jpg",
+    "paul-mccartney": {
+      "src": "/media/people/paul-mccartney.jpg",
       "alt": {
-        "en": "Steve Harris",
-        "zh": "Steve Harris（Wikimedia Commons）"
+        "en": "Paul McCartney with Wings, 1976",
+        "zh": "Paul Mccartney（Wikimedia Commons）"
       },
-      "credit": "Photographer via Wikimedia Commons",
+      "credit": "Jim Summaria",
       "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steve_Harris_Costa_Rica.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_McCartney_with_Linda_McCartney_-_Wings_-_1976.jpg"
     },
-    "steven-adler": {
-      "src": "/media/people/steven-adler.jpg",
+    "peter-hook": {
+      "src": "/media/people/peter-hook.jpg",
       "alt": {
-        "en": "Steven Adler",
-        "zh": "Steven Adler（Wikimedia Commons）"
+        "en": "Peter Hook",
+        "zh": "Peter Hook（Wikimedia Commons）"
       },
       "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:StevenAdlerGilbyClarke.jpg"
-    },
-    "stewart-copeland": {
-      "src": "/media/people/stewart-copeland.jpg",
-      "alt": {
-        "en": "Stewart Copeland, 2007",
-        "zh": "Stewart Copeland（Wikimedia Commons）"
-      },
-      "credit": "Photographer via Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stewart_Copeland_2007.jpg"
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peter_Hook.jpg"
     },
     "phil-rudd": {
       "src": "/media/people/phil-rudd.jpg",
@@ -2082,15 +1822,285 @@
       "license": "CC BY-SA 2.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:PhilRudd.JPG"
     },
-    "ian-curtis": {
-      "src": "/media/people/ian-curtis.jpg",
+    "ray-davies": {
+      "src": "/media/people/ray-davies.jpg",
       "alt": {
-        "en": "Ian Curtis, studio portrait, arms crossed",
-        "zh": "Ian Curtis 肖像，双臂交叉"
+        "en": "Ray Davies, 2011",
+        "zh": "Ray Davies, 2011（Wikimedia Commons）"
       },
-      "credit": "Portrait supplied for this archive",
-      "license": "User-supplied",
-      "sourceUrl": ""
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ray_Davies_of_the_Kinks_2011.jpg"
+    },
+    "ray-manzarek": {
+      "src": "/media/people/ray-manzarek.jpg",
+      "alt": {
+        "en": "Ray Manzarek, 2007",
+        "zh": "Ray Manzarek（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ray_Manzarek_in_Jan_2007.jpg"
+    },
+    "ripper-owens": {
+      "src": "/media/people/ripper-owens.jpg",
+      "alt": {
+        "en": "Tim Ripper Owens, 2019",
+        "zh": "Tim \"Ripper\" Owens（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tim_Ripper_Owens_2019_%28cropped%29.jpg"
+    },
+    "ritchie-blackmore": {
+      "src": "/media/people/ritchie-blackmore.jpg",
+      "alt": {
+        "en": "Ritchie Blackmore, 1977",
+        "zh": "Ritchie Blackmore, 1977（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ritchie_Blackmore_1977.jpg"
+    },
+    "rob-halford": {
+      "src": "/media/people/rob-halford.jpg",
+      "alt": {
+        "en": "Rob Halford",
+        "zh": "Rob Halford（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rob_Halford_of_Judas_Priest.jpg"
+    },
+    "robert-fripp": {
+      "src": "/media/people/robert-fripp.jpg",
+      "alt": {
+        "en": "Robert Fripp",
+        "zh": "Robert Fripp（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Fripp.jpg"
+    },
+    "robert-plant": {
+      "src": "/media/people/robert-plant.jpg",
+      "alt": {
+        "en": "Robert Plant, 2022",
+        "zh": "Robert Plant（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Plant_(2022).jpg"
+    },
+    "robert-smith": {
+      "src": "/media/people/robert-smith.jpg",
+      "alt": {
+        "en": "Robert Smith at Roskilde 2012",
+        "zh": "Robert Smith at Roskilde 2012（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Smith_-_The_Cure_-_Roskilde_Festival_2012_-_Orange_Stage.jpg"
+    },
+    "roger-glover": {
+      "src": "/media/people/roger-glover.jpg",
+      "alt": {
+        "en": "Roger Glover, 1971",
+        "zh": "Roger Glover, 1971（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roger_Glover_1971.jpg"
+    },
+    "roger-taylor": {
+      "src": "/media/people/roger-taylor.jpg",
+      "alt": {
+        "en": "Roger Taylor, 2008",
+        "zh": "Roger Taylor, 2008（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roger_Taylor_Vienna_1.11.2008.jpg"
+    },
+    "ronnie-james-dio": {
+      "src": "/media/people/ronnie-james-dio.jpg",
+      "alt": {
+        "en": "Ronnie James Dio, 2009",
+        "zh": "Ronnie James Dio（Wikimedia Commons）"
+      },
+      "credit": "Diego Torres",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ronnie_James_Dio_(3538742389).jpg"
+    },
+    "sammy-hagar": {
+      "src": "/media/people/sammy-hagar.jpg",
+      "alt": {
+        "en": "Sammy Hagar, 2009",
+        "zh": "Sammy Hagar, 2009（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sammy_Hagar_2009.jpg"
+    },
+    "sid-vicious": {
+      "src": "/media/people/sid-vicious.jpg",
+      "alt": {
+        "en": "Sid Vicious, 1978",
+        "zh": "Sid Vicious, 1978（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sid_Vicious_1978_(cropped).jpg"
+    },
+    "simon-gallup": {
+      "src": "/media/people/simon-gallup.jpg",
+      "alt": {
+        "en": "Simon Gallup, 2012",
+        "zh": "Simon Gallup（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simon_Gallup_2012.jpeg"
+    },
+    "slash": {
+      "src": "/media/people/slash.jpg",
+      "alt": {
+        "en": "Slash, 2017",
+        "zh": "Slash, 2017（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slash,_Guitarist_of_Guns_N'_Roses_in_2017.jpg"
+    },
+    "steve-harris": {
+      "src": "/media/people/steve-harris.jpg",
+      "alt": {
+        "en": "Steve Harris",
+        "zh": "Steve Harris（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steve_Harris_Costa_Rica.jpg"
+    },
+    "steve-jones": {
+      "src": "/media/people/steve-jones.jpg",
+      "alt": {
+        "en": "Steve Jones, 2008",
+        "zh": "Steve Jones（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camp_Freddy_-_Steve_Jones_-_2008.jpg"
+    },
+    "steven-adler": {
+      "src": "/media/people/steven-adler.jpg",
+      "alt": {
+        "en": "Steven Adler",
+        "zh": "Steven Adler（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:StevenAdlerGilbyClarke.jpg"
+    },
+    "stevie-nicks": {
+      "src": "/media/people/stevie-nicks.jpg",
+      "alt": {
+        "en": "Stevie Nicks, 1977",
+        "zh": "Stevie Nicks, 1977（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stevie_Nicks_(1977).JPG"
+    },
+    "stewart-copeland": {
+      "src": "/media/people/stewart-copeland.jpg",
+      "alt": {
+        "en": "Stewart Copeland, 2007",
+        "zh": "Stewart Copeland（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stewart_Copeland_2007.jpg"
+    },
+    "sting": {
+      "src": "/media/people/sting.jpg",
+      "alt": {
+        "en": "Sting",
+        "zh": "Sting（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sting_(The_Police)_(4934544201).jpg"
+    },
+    "stone-gossard": {
+      "src": "/media/people/stone-gossard.jpg",
+      "alt": {
+        "en": "Stone Gossard, 2014",
+        "zh": "Stone Gossard（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stone_Gossard_2014.jpg"
+    },
+    "thom-yorke": {
+      "src": "/media/people/thom-yorke.jpg",
+      "alt": {
+        "en": "Thom Yorke",
+        "zh": "Thom Yorke（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thom_Yorke.jpg"
+    },
+    "thurston-moore": {
+      "src": "/media/people/thurston-moore.jpg",
+      "alt": {
+        "en": "Thurston Moore, 2013",
+        "zh": "Thurston Moore（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chelsea_Light_Moving_-_Thurston_Moore_%28Traumzeit_Festival_2013%29_IMGP7514_smial_wp.jpg"
+    },
+    "tina-weymouth": {
+      "src": "/media/people/tina-weymouth.jpg",
+      "alt": {
+        "en": "Tina Weymouth, 2010",
+        "zh": "Tina Weymouth, 2010（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tina_Weymouth_2010.jpg"
+    },
+    "tom-morello": {
+      "src": "/media/people/tom-morello.jpg",
+      "alt": {
+        "en": "Tom Morello",
+        "zh": "Tom Morello（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_Morello_-_RATM_-_Big_Day_Out.jpg"
+    },
+    "tony-iommi": {
+      "src": "/media/people/tony-iommi.jpg",
+      "alt": {
+        "en": "Tony Iommi",
+        "zh": "Tony Iommi（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tony_Iommi_(3538744187).jpg"
+    },
+    "trent-reznor": {
+      "src": "/media/people/trent-reznor.jpg",
+      "alt": {
+        "en": "Trent Reznor, Lollapalooza 1991",
+        "zh": "Trent Reznor, Lollapalooza 1991（Wikimedia Commons）"
+      },
+      "credit": "Photographer via Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trent_Reznor_Lollapalooza_1991.jpg"
     }
   }
 }

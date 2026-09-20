@@ -16,15 +16,19 @@ export function TropesView({ tropes }: { tropes: Trope[] }) {
 
   return (
     <main className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-14">
-      <p className="text-xs font-medium uppercase tracking-[0.25em] text-muted">
-        {t.tropes.eyebrow}
-      </p>
+      {t.tropes.eyebrow ? (
+        <p className="text-xs font-medium uppercase tracking-[0.25em] text-muted">
+          {t.tropes.eyebrow}
+        </p>
+      ) : null}
       <h1 className="font-display mt-2 text-4xl font-semibold tracking-tight sm:text-5xl">
         {t.tropes.title}
       </h1>
-      <p className="mt-4 max-w-2xl text-base leading-relaxed text-ink-soft sm:text-lg">
-        {t.tropes.intro}
-      </p>
+      {t.tropes.intro ? (
+        <p className="mt-4 max-w-2xl text-base leading-relaxed text-ink-soft sm:text-lg">
+          {t.tropes.intro}
+        </p>
+      ) : null}
 
       <ul className="mt-10 grid gap-6 lg:grid-cols-2">
         {tropes.map((trope) => (
@@ -83,12 +87,20 @@ export function TropesView({ tropes }: { tropes: Trope[] }) {
         ))}
       </ul>
 
-      <p className="mt-10 text-sm text-ink-soft">
-        {t.tropes.moreHint}{" "}
-        <Link href="/guide" className="underline-offset-2 hover:underline">
-          {t.nav.guide}
-        </Link>
-      </p>
+      {t.tropes.moreHint ? (
+        <p className="mt-10 text-sm text-ink-soft">
+          {t.tropes.moreHint}{" "}
+          <Link href="/guide" className="underline-offset-2 hover:underline">
+            {t.nav.guide}
+          </Link>
+        </p>
+      ) : (
+        <p className="mt-10 text-sm text-ink-soft">
+          <Link href="/guide" className="underline-offset-2 hover:underline">
+            {t.guide.back}
+          </Link>
+        </p>
+      )}
     </main>
   );
 }

@@ -164,7 +164,17 @@
         "zh": "Gahan 是现场人声；Gore 写大部分歌。Alan Wilder（1982–95）加厚鼓编程与编曲——《Violator》与《Songs of Faith and Devotion》为峰。\n\nFletcher 守键盘席至 2022；Wilder 离队标记 1995 后制作转向。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "post-punk"
+      "soundGenre": "post-punk",
+      "stickyImage": {
+        "src": "/media/bands/depeche-mode-pepsi-2017.jpg",
+        "alt": {
+          "en": "Depeche Mode at Pepsi Center, 25 August 2017",
+          "zh": "Depeche Mode，Pepsi Center，2017 年 8 月 25 日"
+        },
+        "credit": "Julio Enriquez",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Depeche_Mode_Pepsi_Center_08.25.17_(36705236751).jpg"
+      }
     },
     {
       "id": "legacy",

@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
-import { motion, useMotionValueEvent, useScroll, useSpring } from "framer-motion";
+import { motion, useMotionValueEvent, useReducedMotion, useScroll, useSpring } from "framer-motion";
 import type { Band, Era } from "@/lib/types";
 import { eraNavLabel } from "@/lib/era-nav";
 import { loc } from "@/i18n/config";
@@ -17,19 +17,27 @@ function EraCard({
   era,
   bands,
   active,
+  reduceMotion,
 }: {
   era: Era;
   bands: Band[];
   active: boolean;
+  reduceMotion: boolean;
 }) {
   const { locale, t } = useLocale();
 
   return (
     <article
-      className={`relative w-[min(78vw,26rem)] shrink-0 border-2 border-ink bg-paper p-6 transition-[transform,opacity,box-shadow] duration-300 ease-out ${
-        active
-          ? "z-10 scale-100 opacity-100 shadow-[4px_6px_0_0_rgba(22,21,19,0.12)]"
-          : "scale-[0.96] opacity-55"
+      className={`relative w-[min(78vw,26rem)] shrink-0 border-2 border-ink bg-paper p-6 ${
+        reduceMotion
+          ? active
+            ? "z-10 opacity-100"
+            : "opacity-70"
+          : `transition-[transform,opacity,box-shadow] duration-300 ease-out ${
+              active
+                ? "z-10 scale-100 opacity-100 shadow-[4px_6px_0_0_rgba(22,21,19,0.12)]"
+                : "scale-[0.96] opacity-55"
+            }`
       }`}
     >
       <div
@@ -87,6 +95,7 @@ function EraCard({
 
 export function TimelineRail({ eras, bandsByEra }: TimelineRailProps) {
   const { t, locale } = useLocale();
+  const reduceMotion = useReducedMotion() ?? false;
   const scrollerRef = useRef<HTMLDivElement>(null);
   const dragRef = useRef({ active: false, startX: 0, scrollLeft: 0 });
   const [progress, setProgress] = useState(0);
@@ -96,9 +105,9 @@ export function TimelineRail({ eras, bandsByEra }: TimelineRailProps) {
 
   const { scrollXProgress } = useScroll({ container: scrollerRef });
   const smoothProgress = useSpring(scrollXProgress, {
-    stiffness: 120,
-    damping: 28,
-    mass: 0.4,
+    stiffness: reduceMotion ? 1000 : 120,
+    damping: reduceMotion ? 100 : 28,
+    mass: reduceMotion ? 0.01 : 0.4,
   });
 
   useMotionValueEvent(smoothProgress, "change", (v) => {
@@ -114,26 +123,32 @@ export function TimelineRail({ eras, bandsByEra }: TimelineRailProps) {
     setActiveIndex(idx);
   });
 
-  const scrollBy = useCallback((dir: -1 | 1) => {
-    const el = scrollerRef.current;
-    if (!el) return;
-    el.scrollBy({
-      left: dir * Math.min(el.clientWidth * 0.75, 420),
-      behavior: "smooth",
-    });
-  }, []);
+  const scrollBy = useCallback(
+    (dir: -1 | 1) => {
+      const el = scrollerRef.current;
+      if (!el) return;
+      el.scrollBy({
+        left: dir * Math.min(el.clientWidth * 0.75, 420),
+        behavior: reduceMotion ? "auto" : "smooth",
+      });
+    },
+    [reduceMotion],
+  );
 
-  const jumpTo = useCallback((index: number) => {
-    const el = scrollerRef.current;
-    if (!el) return;
-    // children: [spacer, ...cards, spacer]
-    const child = el.children[index + 1] as HTMLElement | undefined;
-    child?.scrollIntoView({
-      behavior: "smooth",
-      inline: "center",
-      block: "nearest",
-    });
-  }, []);
+  const jumpTo = useCallback(
+    (index: number) => {
+      const el = scrollerRef.current;
+      if (!el) return;
+      // children: [spacer, ...cards, spacer]
+      const child = el.children[index + 1] as HTMLElement | undefined;
+      child?.scrollIntoView({
+        behavior: reduceMotion ? "auto" : "smooth",
+        inline: "center",
+        block: "nearest",
+      });
+    },
+    [reduceMotion],
+  );
 
   useEffect(() => {
     const el = scrollerRef.current;
@@ -248,7 +263,9 @@ export function TimelineRail({ eras, bandsByEra }: TimelineRailProps) {
 
         <div
           ref={scrollerRef}
-          className="relative z-10 flex cursor-grab gap-6 overflow-x-auto pb-8 select-none scroll-smooth focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent [scrollbar-width:thin]"
+          className={`relative z-10 flex cursor-grab gap-6 overflow-x-auto pb-8 select-none focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent [scrollbar-width:thin] ${
+            reduceMotion ? "" : "scroll-smooth"
+          }`}
           tabIndex={0}
           role="region"
           aria-label="Rock history timeline"
@@ -279,6 +296,7 @@ export function TimelineRail({ eras, bandsByEra }: TimelineRailProps) {
               era={era}
               bands={bandsByEra[era.slug] ?? []}
               active={index === activeIndex}
+              reduceMotion={reduceMotion}
             />
           ))}
           <div className="w-[8vw] shrink-0 sm:w-12" aria-hidden />

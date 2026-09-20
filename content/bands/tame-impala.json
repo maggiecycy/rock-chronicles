@@ -17,7 +17,8 @@
     {
       "name": "Kevin Parker",
       "role": "Multi-instrumentalist",
-      "years": "2007–present"
+      "years": "2007–present",
+      "personSlug": "kevin-parker"
     }
   ],
   "essentialTracks": [
@@ -116,7 +117,17 @@
         "zh": "Tame Impala 显示：主要一人录音的项目可经精密制作与现场乐队外壳扩到音乐节。\n\nParker 的录音室方法即唱片上的乐队；巡演成员现场演绎混音。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "psychedelic"
+      "soundGenre": "psychedelic",
+      "stickyImage": {
+        "src": "/media/bands/tame-impala-somerville-2009.jpg",
+        "alt": {
+          "en": "Tame Impala at Somerville Auditorium, 26 April 2009",
+          "zh": "Tame Impala，Somerville Auditorium，2009 年 4 月 26 日"
+        },
+        "credit": "Stuart Sevastos",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tame_Impala_@_Somerville_Auditorium_(26_4_2009)_(3493410996).jpg"
+      }
     },
     {
       "id": "scene-0",
@@ -204,7 +215,8 @@
       "members": [
         {
           "name": "Kevin Parker",
-          "role": "Vocals, Instruments, Production"
+          "role": "Vocals, Instruments, Production",
+          "personSlug": "kevin-parker"
         }
       ],
       "note": {

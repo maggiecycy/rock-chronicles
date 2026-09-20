@@ -161,7 +161,17 @@
         "zh": "峰值单元：Barât 与 Doherty 吉他/人声、Hassall 贝斯、Powell 鼓。Doherty 缺席与 2004 分裂打断进程；重聚在音乐节恢复四人组。\n\nMick Jones 制作署名标记早期磁带上的 Clash 渊源。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "indie-rock"
+      "soundGenre": "indie-rock",
+      "stickyImage": {
+        "src": "/media/bands/the-libertines-carl-barat.jpg",
+        "alt": {
+          "en": "Carl Barât of The Libertines",
+          "zh": "The Libertines 的 Carl Barât"
+        },
+        "credit": "Paolo Didonè",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carl_Bar%C3%A2t.jpg"
+      }
     },
     {
       "id": "influence",

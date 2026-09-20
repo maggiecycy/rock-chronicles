@@ -1,0 +1,28 @@
+{
+  "name": "Pete Townshend",
+  "slug": "pete-townshend",
+  "born": 1945,
+  "origin": "London, England",
+  "roles": [
+    "Guitar",
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Who guitarist and principal songwriter; power chords, windmill stroke, rock-opera form.",
+    "zh": "The Who 吉他手与主要写歌人；强力和弦、风车拨弦、摇滚歌剧结构。"
+  },
+  "body": {
+    "en": "Born 1945, London. Writes most Who material from My Generation through Quadrophenia. Rickenbacker and later Gibson power-chord attack; windmill stroke on stage.\n\nConcepts Tommy and Quadrophenia shape album-length Who records.",
+    "zh": "1945 年生于伦敦。从《My Generation》到《Quadrophenia》写大部分曲目。Rickenbacker 与后来 Gibson 的强力和弦；舞台风车拨弦。\n\n《Tommy》《Quadrophenia》定下专辑尺度的 Who 结构。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Who",
+      "bandSlug": "the-who",
+      "role": "Guitar, Vocals",
+      "from": 1964
+    }
+  ],
+  "relatedPeople": []
+}

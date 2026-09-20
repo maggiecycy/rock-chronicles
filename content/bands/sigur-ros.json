@@ -158,7 +158,17 @@
         "zh": "1994–2012 核心现场单元：Jónsi、Georg Hólmar、Orri、Kjartan——弓吉他、贝斯、鼓、键盘与铜管编配。\n\nKjartan 2012 年离队减少台上键盘与铜管；后期巡演用扩展编制。\n\nJónsi 弓技法与假声经阵容变化保持恒定。冰岛录音条件与长混响尾是制作文献的一部分。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "alternative"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/sigur-ros-jonsi.jpg",
+        "alt": {
+          "en": "Jónsi of Sigur Rós",
+          "zh": "Sigur Rós 的 Jónsi"
+        },
+        "credit": "Radek Oliwa",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:J%C3%B3nsi_(J%C3%B3n_%C3%9E%C3%B3r_Birgisson)_(8070697262).jpg"
+      }
     },
     {
       "id": "influence",

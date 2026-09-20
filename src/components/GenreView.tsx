@@ -83,7 +83,9 @@ export function GenreView({
           <h2 className="font-display text-2xl font-semibold">
             {t.genres.pioneers}
           </h2>
-          <p className="mt-2 text-sm text-muted">{t.genres.pioneersHint}</p>
+          {t.genres.pioneersHint ? (
+            <p className="mt-2 text-sm text-muted">{t.genres.pioneersHint}</p>
+          ) : null}
           <ul className="mt-4 flex flex-wrap gap-2">
             {genre.pioneerBands!.map((slug) => {
               const band = bands.find((b) => b.slug === slug);

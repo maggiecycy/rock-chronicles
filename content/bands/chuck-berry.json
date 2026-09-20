@@ -20,7 +20,8 @@
     {
       "name": "Chuck Berry",
       "role": "Vocals, Guitar",
-      "years": "1955–2017"
+      "years": "1955–2017",
+      "personSlug": "chuck-berry"
     }
   ],
   "essentialTracks": [
@@ -250,7 +251,8 @@
       "members": [
         {
           "name": "Chuck Berry",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "chuck-berry"
         },
         {
           "name": "Johnnie Johnson",

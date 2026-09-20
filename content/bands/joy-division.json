@@ -21,12 +21,14 @@
     {
       "name": "Bernard Sumner",
       "role": "Guitar",
-      "years": "1976–1980"
+      "years": "1976–1980",
+      "personSlug": "bernard-sumner"
     },
     {
       "name": "Peter Hook",
       "role": "Bass",
-      "years": "1976–1980"
+      "years": "1976–1980",
+      "personSlug": "peter-hook"
     },
     {
       "name": "Stephen Morris",
@@ -136,7 +138,17 @@
         "zh": "空间感、贝斯与 Curtis 的人声是核心。Hook 后来说，Hannett 对鼓与乐器的处理把阴郁写进了唱片。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "post-punk"
+      "soundGenre": "post-punk",
+      "stickyImage": {
+        "src": "/media/bands/joy-division-peter-hook.jpg",
+        "alt": {
+          "en": "Peter Hook of Joy Division and New Order, East Finchley",
+          "zh": "Joy Division / New Order 的 Peter Hook，东芬奇利"
+        },
+        "credit": "Mark Kobayashi-Hillary",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hooky_from_Joy_Division_and_New_Order_in_East_Finchley_(1479770692).jpg"
+      }
     },
     {
       "id": "scene-0",

@@ -147,7 +147,17 @@
         "zh": "Jack White 负责 riff、主音与钢琴叠录。Meg White 保持直鼓型，少用炫技 fill。\n\n常规意义上无替补阵容：双人限制贯穿 1997–2011。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "indie-rock"
+      "soundGenre": "indie-rock",
+      "stickyImage": {
+        "src": "/media/bands/the-white-stripes-2007.jpg",
+        "alt": {
+          "en": "The White Stripes curtain call, 2007",
+          "zh": "The White Stripes 谢幕，2007"
+        },
+        "credit": "Lindsey T",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:TheWhiteStripes_2007.jpg"
+      }
     },
     {
       "id": "influence",

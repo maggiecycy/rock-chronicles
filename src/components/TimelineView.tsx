@@ -19,9 +19,11 @@ export function TimelineView({
   return (
     <main className="pb-16">
       <header className="mx-auto max-w-6xl px-4 pt-10 sm:px-6 sm:pt-14">
-        <p className="text-xs font-medium uppercase tracking-[0.25em] text-muted">
-          {t.timeline.exploreLayer}
-        </p>
+        {t.timeline.exploreLayer ? (
+          <p className="text-xs font-medium uppercase tracking-[0.25em] text-muted">
+            {t.timeline.exploreLayer}
+          </p>
+        ) : null}
         <h1 className="font-display mt-2 text-4xl font-semibold tracking-tight sm:text-5xl">
           {t.timeline.title}
         </h1>

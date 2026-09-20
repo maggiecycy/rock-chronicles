@@ -36,6 +36,6 @@ export function isDatabaseConfigured(): boolean {
 }
 
 /** Feature flag: read content entities from MySQL via Prisma. */
-export function useDatabase(): boolean {
+export function readFromDatabase(): boolean {
   return process.env.USE_DATABASE === "true" && isDatabaseConfigured();
 }

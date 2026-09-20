@@ -67,7 +67,12 @@
     "The car's on fire and there's no driver at the wheel",
     "And the seats were stolen by convertibles"
   ],
-  "relatedBands": [],
+  "relatedBands": [
+    "mogwai",
+    "explosions-in-the-sky",
+    "sigur-ros",
+    "sonic-youth"
+  ],
   "influenceFrom": [
     "sonic-youth",
     "radiohead"

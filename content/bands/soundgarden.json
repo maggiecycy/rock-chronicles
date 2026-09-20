@@ -23,7 +23,8 @@
     {
       "name": "Kim Thayil",
       "role": "Guitar",
-      "years": "1984–1997; 2010–2017"
+      "years": "1984–1997; 2010–2017",
+      "personSlug": "kim-thayil"
     },
     {
       "name": "Ben Shepherd",
@@ -282,7 +283,8 @@
         },
         {
           "name": "Kim Thayil",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "kim-thayil"
         },
         {
           "name": "Ben Shepherd",

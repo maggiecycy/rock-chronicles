@@ -1,0 +1,28 @@
+{
+  "name": "Jerry Cantrell",
+  "slug": "jerry-cantrell",
+  "born": 1966,
+  "origin": "Tacoma, Washington, USA",
+  "roles": [
+    "Guitar",
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Alice in Chains guitarist and songwriter; harmony vocals with Staley, then the post-2006 front line with DuVall.",
+    "zh": "Alice in Chains 吉他手与写歌人；与 Staley 和声，2006 年后与 DuVall 分担主唱线。"
+  },
+  "body": {
+    "en": "Born 1966. Co-founder of Alice in Chains. Writes much of the catalog from Facelift through Dirt and beyond. After Staley’s death he continues with William DuVall.\n\nGuitar and twin-vocal arrangements sit at the center of the band’s records.",
+    "zh": "1966 年生。Alice in Chains 联合创始人。从《Facelift》到《Dirt》及之后大量写歌。Staley 去世后与 William DuVall 继续。\n\n吉他与双人声编排是乐队唱片的核心。"
+  },
+  "tenures": [
+    {
+      "bandName": "Alice in Chains",
+      "bandSlug": "alice-in-chains",
+      "role": "Guitar, Vocals",
+      "from": 1987
+    }
+  ],
+  "relatedPeople": []
+}

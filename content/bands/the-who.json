@@ -17,17 +17,20 @@
     {
       "name": "Pete Townshend",
       "role": "Guitar, Vocals",
-      "years": "1964–present"
+      "years": "1964–present",
+      "personSlug": "pete-townshend"
     },
     {
       "name": "Roger Daltrey",
       "role": "Vocals",
-      "years": "1964–present"
+      "years": "1964–present",
+      "personSlug": "roger-daltrey"
     },
     {
       "name": "John Entwistle",
       "role": "Bass",
-      "years": "1964–2002"
+      "years": "1964–2002",
+      "personSlug": "john-entwistle"
     },
     {
       "name": "Doug Sandom",
@@ -37,7 +40,8 @@
     {
       "name": "Keith Moon",
       "role": "Drums",
-      "years": "1964–1978"
+      "years": "1964–1978",
+      "personSlug": "keith-moon"
     },
     {
       "name": "Kenney Jones",
@@ -357,19 +361,23 @@
       "members": [
         {
           "name": "Roger Daltrey",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "roger-daltrey"
         },
         {
           "name": "Pete Townshend",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "pete-townshend"
         },
         {
           "name": "John Entwistle",
-          "role": "Bass"
+          "role": "Bass",
+          "personSlug": "john-entwistle"
         },
         {
           "name": "Keith Moon",
-          "role": "Drums"
+          "role": "Drums",
+          "personSlug": "keith-moon"
         }
       ],
       "note": {
@@ -387,15 +395,18 @@
       "members": [
         {
           "name": "Roger Daltrey",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "roger-daltrey"
         },
         {
           "name": "Pete Townshend",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "pete-townshend"
         },
         {
           "name": "John Entwistle",
-          "role": "Bass"
+          "role": "Bass",
+          "personSlug": "john-entwistle"
         },
         {
           "name": "Kenney Jones",

@@ -1,0 +1,29 @@
+{
+  "name": "Kevin Parker",
+  "slug": "kevin-parker",
+  "born": 1986,
+  "origin": "Perth, Australia",
+  "roles": [
+    "Multi-instrumentalist",
+    "Vocals",
+    "Production"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Tame Impala writer/producer; multi-tracked psych-pop recorded largely alone, then toured with a band.",
+    "zh": "Tame Impala 写歌/制作人；心理流行多轨大多独自录制，再以乐队编制巡演。"
+  },
+  "body": {
+    "en": "Born 1986, Perth. Writes, plays, and produces Tame Impala studio records largely as a solo multi-track process. Live shows use a full band around his parts.",
+    "zh": "1986 年生于珀斯。Tame Impala 录音室作品多为独自多轨写奏制。现场用完整乐队围绕其声部。"
+  },
+  "tenures": [
+    {
+      "bandName": "Tame Impala",
+      "bandSlug": "tame-impala",
+      "role": "Multi-instrumentalist, Vocals, Production",
+      "from": 2007
+    }
+  ],
+  "relatedPeople": []
+}

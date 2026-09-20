@@ -1,4 +1,4 @@
-import { readFileSync } from "fs";
+import { readFileSync, statSync } from "fs";
 import { join } from "path";
 import type { Localized } from "@/i18n/config";
 
@@ -24,7 +24,7 @@ let cachedMtime = 0;
 
 export function getDailyBandIndex(): DailyBandIndex {
   const path = join(process.cwd(), "content/daily/one-band-a-day.json");
-  const { mtimeMs } = require("fs").statSync(path);
+  const { mtimeMs } = statSync(path);
   if (cached && cachedMtime === mtimeMs) return cached;
   cached = JSON.parse(readFileSync(path, "utf8")) as DailyBandIndex;
   cachedMtime = mtimeMs;

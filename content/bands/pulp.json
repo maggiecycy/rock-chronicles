@@ -166,7 +166,17 @@
         "zh": "Russell Senior 在《Different Class》前加入小提琴与棱角吉他；1997 年《This Is Hardcore》前离队。Doyle 的键盘与 Mackey 的贝斯仍是和声底。\n\nNick Banks（1991 年起鼓）与吉他手 Mark Webber 一起完成巅峰五人组。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "indie-rock"
+      "soundGenre": "indie-rock",
+      "stickyImage": {
+        "src": "/media/bands/pulp-jarvis-sziget-2011.jpg",
+        "alt": {
+          "en": "Jarvis Cocker of Pulp at Sziget Festival, 10 August 2011",
+          "zh": "Pulp 的 Jarvis Cocker，Sziget，2011 年 8 月 10 日"
+        },
+        "credit": "Derzsi Elekes Andor",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jarvis_Cocker_Sziget_2011.08.10_(3).JPG"
+      }
     },
     {
       "id": "influence",

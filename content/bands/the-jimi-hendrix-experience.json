@@ -21,7 +21,8 @@
     {
       "name": "Jimi Hendrix",
       "role": "Vocals, Guitar",
-      "years": "1966–1969"
+      "years": "1966–1969",
+      "personSlug": "jimi-hendrix"
     },
     {
       "name": "Noel Redding",
@@ -331,7 +332,8 @@
       "members": [
         {
           "name": "Jimi Hendrix",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "jimi-hendrix"
         },
         {
           "name": "Noel Redding",
@@ -357,7 +359,8 @@
       "members": [
         {
           "name": "Jimi Hendrix",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "jimi-hendrix"
         },
         {
           "name": "Mitch Mitchell",
@@ -387,7 +390,8 @@
       "members": [
         {
           "name": "Jimi Hendrix",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "jimi-hendrix"
         },
         {
           "name": "Billy Cox",

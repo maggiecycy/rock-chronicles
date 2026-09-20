@@ -10,17 +10,21 @@ export function GuideIndex({ articles }: { articles: GuideArticle[] }) {
 
   return (
     <main className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-14">
-      <p className="text-xs font-medium uppercase tracking-[0.25em] text-muted">
-        {t.guide.eyebrow}
-      </p>
+      {t.guide.eyebrow ? (
+        <p className="text-xs font-medium uppercase tracking-[0.25em] text-muted">
+          {t.guide.eyebrow}
+        </p>
+      ) : null}
       <h1 className="font-display mt-2 text-4xl font-semibold tracking-tight sm:text-5xl">
         {t.guide.title}
       </h1>
 
       <section className="mt-8 border-2 border-ink p-5 sm:p-6">
-        <p className="text-xs font-medium uppercase tracking-[0.25em] text-accent">
-          {t.daily.eyebrow}
-        </p>
+        {t.daily.eyebrow ? (
+          <p className="text-xs font-medium uppercase tracking-[0.25em] text-accent">
+            {t.daily.eyebrow}
+          </p>
+        ) : null}
         <h2 className="font-display mt-2 text-2xl font-semibold sm:text-3xl">
           {t.daily.cardTitle}
         </h2>
@@ -71,7 +75,9 @@ export function GuideIndex({ articles }: { articles: GuideArticle[] }) {
               <p className="font-display text-xl font-semibold">
                 {t.guide.tropesCard}
               </p>
-              <p className="mt-2 text-sm opacity-80">{t.guide.tropesCardHint}</p>
+              {t.guide.tropesCardHint ? (
+                <p className="mt-2 text-sm opacity-80">{t.guide.tropesCardHint}</p>
+              ) : null}
             </Link>
           </li>
           <li>
@@ -82,7 +88,9 @@ export function GuideIndex({ articles }: { articles: GuideArticle[] }) {
               <p className="font-display text-xl font-semibold">
                 {t.guide.livesCard}
               </p>
-              <p className="mt-2 text-sm opacity-80">{t.guide.livesCardHint}</p>
+              {t.guide.livesCardHint ? (
+                <p className="mt-2 text-sm opacity-80">{t.guide.livesCardHint}</p>
+              ) : null}
             </Link>
           </li>
         </ul>

@@ -165,7 +165,17 @@
         "zh": "Ænima（1996）加 Stinkfist 与 Forty Six & 2——Chancellor 贝斯音色与 Jones 视觉艺术包装加深唱片身份。\n\nLateralus（2001）推 Fibonacci 启发结构；Schism 的 5/8–7/8 切换进入 MTV 轮播。\n\nCarey 套鼓扩展（roto tom、tabla、电子）——prog metal 侧重打击乐。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "progressive-rock"
+      "soundGenre": "progressive-rock",
+      "stickyImage": {
+        "src": "/media/bands/tool-barcelona-2006.jpg",
+        "alt": {
+          "en": "Tool live in Barcelona, 2006",
+          "zh": "Tool，巴塞罗那现场，2006"
+        },
+        "credit": "Jon Iraundegui",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tool_live_barcelona_2006.jpg"
+      }
     },
     {
       "id": "legacy",

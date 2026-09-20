@@ -161,7 +161,17 @@
         "zh": "1997–2010 定义阵容：Banks、Kessler、Carlos D、Fogarino——双吉他/贝斯分工，台上无键盘。\n\n《Antics》（2004）录音室加风琴质感，现场仍四人名。Carlos D 2010 年离队改变贝斯分工；Bright Lights 与 Antics 仍是引用核心。\n\nFogarino 干、靠前的鼓组让歌曲保持中速。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "post-punk"
+      "soundGenre": "post-punk",
+      "stickyImage": {
+        "src": "/media/bands/interpol-banks-sziget-2011.jpg",
+        "alt": {
+          "en": "Paul Banks of Interpol, Sziget Festival, 2011",
+          "zh": "Interpol 的 Paul Banks，Sziget，2011"
+        },
+        "credit": "Derzsi Elekes Andor",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_Banks,_Interpol_(NYC)_Sziget_2011_(4).JPG"
+      }
     },
     {
       "id": "influence",

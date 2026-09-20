@@ -1,0 +1,28 @@
+{
+  "name": "Keith Moon",
+  "slug": "keith-moon",
+  "born": 1946,
+  "origin": "London, England",
+  "roles": [
+    "Drums"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Who drummer; tom-heavy fills and unstable pulse on 1960s–70s records.",
+    "zh": "The Who 鼓手；1960–70 年代唱片上偏 tom 的加花与不稳定脉冲。"
+  },
+  "body": {
+    "en": "Born 1946, London. Joins mid-1960s. Drumming favors fills and crash over strict backbeat. Dies 1978.",
+    "zh": "1946 年生于伦敦。1960 年代中期加入。鼓点偏加花与吊镲，而非死板背拍。1978 年去世。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Who",
+      "bandSlug": "the-who",
+      "role": "Drums",
+      "from": 1964,
+      "to": 1978
+    }
+  ],
+  "relatedPeople": []
+}

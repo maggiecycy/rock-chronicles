@@ -298,7 +298,8 @@
       "members": [
         {
           "name": "Robert Smith",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "robert-smith"
         },
         {
           "name": "Lol Tolhurst",
@@ -310,7 +311,8 @@
         },
         {
           "name": "Simon Gallup",
-          "role": "Bass"
+          "role": "Bass",
+          "personSlug": "simon-gallup"
         },
         {
           "name": "Matthieu Hartley",
@@ -332,11 +334,13 @@
       "members": [
         {
           "name": "Robert Smith",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "robert-smith"
         },
         {
           "name": "Simon Gallup",
-          "role": "Bass"
+          "role": "Bass",
+          "personSlug": "simon-gallup"
         },
         {
           "name": "Porl Thompson",

@@ -18,17 +18,20 @@
     {
       "name": "Mick Jagger",
       "role": "Vocals",
-      "years": "1962–present"
+      "years": "1962–present",
+      "personSlug": "mick-jagger"
     },
     {
       "name": "Keith Richards",
       "role": "Guitar",
-      "years": "1962–present"
+      "years": "1962–present",
+      "personSlug": "keith-richards"
     },
     {
       "name": "Charlie Watts",
       "role": "Drums",
-      "years": "1963–2021"
+      "years": "1963–2021",
+      "personSlug": "charlie-watts"
     },
     {
       "name": "Ronnie Wood",
@@ -38,7 +41,8 @@
     {
       "name": "Brian Jones",
       "role": "Guitar, Multi-instrument",
-      "years": "1962–1969"
+      "years": "1962–1969",
+      "personSlug": "brian-jones"
     },
     {
       "name": "Bill Wyman",
@@ -393,15 +397,18 @@
       "members": [
         {
           "name": "Mick Jagger",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "mick-jagger"
         },
         {
           "name": "Keith Richards",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "keith-richards"
         },
         {
           "name": "Brian Jones",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "brian-jones"
         },
         {
           "name": "Dick Taylor",
@@ -431,15 +438,18 @@
       "members": [
         {
           "name": "Mick Jagger",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "mick-jagger"
         },
         {
           "name": "Keith Richards",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "keith-richards"
         },
         {
           "name": "Brian Jones",
-          "role": "Guitar, Multi-instrument"
+          "role": "Guitar, Multi-instrument",
+          "personSlug": "brian-jones"
         },
         {
           "name": "Bill Wyman",
@@ -447,7 +457,8 @@
         },
         {
           "name": "Charlie Watts",
-          "role": "Drums"
+          "role": "Drums",
+          "personSlug": "charlie-watts"
         }
       ],
       "note": {
@@ -466,11 +477,13 @@
       "members": [
         {
           "name": "Mick Jagger",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "mick-jagger"
         },
         {
           "name": "Keith Richards",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "keith-richards"
         },
         {
           "name": "Mick Taylor",
@@ -482,7 +495,8 @@
         },
         {
           "name": "Charlie Watts",
-          "role": "Drums"
+          "role": "Drums",
+          "personSlug": "charlie-watts"
         }
       ],
       "note": {
@@ -500,11 +514,13 @@
       "members": [
         {
           "name": "Mick Jagger",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "mick-jagger"
         },
         {
           "name": "Keith Richards",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "keith-richards"
         },
         {
           "name": "Ronnie Wood",
@@ -512,7 +528,8 @@
         },
         {
           "name": "Charlie Watts",
-          "role": "Drums"
+          "role": "Drums",
+          "personSlug": "charlie-watts"
         },
         {
           "name": "Darryl Jones",

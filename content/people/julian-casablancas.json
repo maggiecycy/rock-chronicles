@@ -1,0 +1,27 @@
+{
+  "name": "Julian Casablancas",
+  "slug": "julian-casablancas",
+  "born": 1978,
+  "origin": "New York, New York, USA",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Strokes vocalist; clipped NYC delivery on Is This It–era singles.",
+    "zh": "The Strokes 主唱；《Is This It》时期纽约式短促咬字。"
+  },
+  "body": {
+    "en": "Born 1978, New York. Lead vocals and much of the lyric on early Strokes records. Later solo and The Voidz projects.",
+    "zh": "1978 年生于纽约。早期 Strokes 唱片主唱与大量歌词。后有个人与 The Voidz 项目。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Strokes",
+      "bandSlug": "the-strokes",
+      "role": "Vocals",
+      "from": 1998
+    }
+  ],
+  "relatedPeople": []
+}

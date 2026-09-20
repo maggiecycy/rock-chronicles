@@ -1,0 +1,27 @@
+{
+  "name": "Grian Chatten",
+  "slug": "grian-chatten",
+  "born": 1995,
+  "origin": "Buncrana, Ireland",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Fontaines D.C. vocalist; spoken-sung delivery over post-punk guitar.",
+    "zh": "Fontaines D.C. 主唱；后朋克吉他上的说唱式咬字。"
+  },
+  "body": {
+    "en": "Born 1995. Lead vocals and lyric focus for Fontaines D.C. from Dogrel onward. Delivery sits between spoken cadence and sung hooks.",
+    "zh": "1995 年生。从《Dogrel》起 Fontaines D.C. 主唱与歌词重心。唱法介于口语节奏与副歌旋律之间。"
+  },
+  "tenures": [
+    {
+      "bandName": "Fontaines D.C.",
+      "bandSlug": "fontaines-dc",
+      "role": "Vocals",
+      "from": 2017
+    }
+  ],
+  "relatedPeople": []
+}

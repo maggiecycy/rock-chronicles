@@ -1,0 +1,29 @@
+{
+  "name": "Elvis Presley",
+  "slug": "elvis-presley",
+  "born": 1935,
+  "origin": "Tupelo, Mississippi, USA",
+  "roles": [
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Sun and RCA vocalist; 1950s rock & roll and TV-era pop crossover.",
+    "zh": "Sun 与 RCA 主唱；1950 年代摇滚与电视时代流行交叉。"
+  },
+  "body": {
+    "en": "Born 1935, Tupelo. Sun Records singles from 1954, then RCA. Guitar mostly rhythm under the vocal.\n\nTV appearances and film contracts put rock & roll in US living rooms. Dies 1977.",
+    "zh": "1935 年生于 Tupelo。1954 年起 Sun 单曲，后转 RCA。吉他多为伴奏节奏。\n\n电视与电影合同把摇滚送进美国客厅。1977 年去世。"
+  },
+  "tenures": [
+    {
+      "bandName": "Elvis Presley",
+      "bandSlug": "elvis-presley",
+      "role": "Vocals, Guitar",
+      "from": 1954,
+      "to": 1977
+    }
+  ],
+  "relatedPeople": []
+}

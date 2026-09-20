@@ -2,11 +2,11 @@
   "version": 1,
   "title": {
     "en": "One band a day",
-    "zh": "每天认识一支乐队"
+    "zh": "每天一支"
   },
   "intro": {
-    "en": "Day 0–99 follows the 100-act canon order. Notes and links fill in as you go—empty for now.",
-    "zh": "Day 0–99 按「100 支推动时间轴的乐队」顺序。笔记与链接随读随补——目前只列名单。"
+    "en": "Day 0–99 in canon order.",
+    "zh": "按名单顺序，Day 0–99。"
   },
   "days": [
     {

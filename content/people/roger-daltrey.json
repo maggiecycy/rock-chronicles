@@ -1,0 +1,27 @@
+{
+  "name": "Roger Daltrey",
+  "slug": "roger-daltrey",
+  "born": 1944,
+  "origin": "London, England",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Who lead vocalist; shout and sustained belt across singles and rock-opera roles.",
+    "zh": "The Who 主唱；单曲与摇滚歌剧角色中的喊唱与延音。"
+  },
+  "body": {
+    "en": "Born 1944, London. Lead voice on Who records and tours. Mic-swing stage move sits with Townshend’s windmill as the band’s live image.",
+    "zh": "1944 年生于伦敦。Who 唱片与巡演主声线。甩麦舞台动作与 Townshend 风车一起构成现场形象。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Who",
+      "bandSlug": "the-who",
+      "role": "Vocals",
+      "from": 1964
+    }
+  ],
+  "relatedPeople": []
+}

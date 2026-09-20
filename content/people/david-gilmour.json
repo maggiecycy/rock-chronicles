@@ -1,0 +1,28 @@
+{
+  "name": "David Gilmour",
+  "slug": "david-gilmour",
+  "born": 1946,
+  "origin": "Cambridge, England",
+  "roles": [
+    "Guitar",
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Pink Floyd guitarist from 1968; sustain lead tone and shared vocals after Barrett.",
+    "zh": "1968 年起 Pink Floyd 吉他手；延音主音音色，并与 Barrett 之后分担人声。"
+  },
+  "body": {
+    "en": "Born 1946, Cambridge. Joins in 1968 as Barrett exits. Lead guitar and shared vocals through the 1970s peak albums.\n\nContinues the band name with Mason (and briefly Wright) after Waters leaves.",
+    "zh": "1946 年生于剑桥。1968 年 Barrett 离队时加入。1970 年代巅峰专辑的主音吉他与分担人声。\n\nWaters 离队后与 Mason（及短暂的 Wright）继续乐队名义。"
+  },
+  "tenures": [
+    {
+      "bandName": "Pink Floyd",
+      "bandSlug": "pink-floyd",
+      "role": "Guitar, Vocals",
+      "from": 1968
+    }
+  ],
+  "relatedPeople": []
+}

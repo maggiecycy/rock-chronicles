@@ -16,7 +16,8 @@
     {
       "name": "Julian Casablancas",
       "role": "Vocals",
-      "years": "1998–present"
+      "years": "1998–present",
+      "personSlug": "julian-casablancas"
     },
     {
       "name": "Nick Valensi",
@@ -246,7 +247,8 @@
       "members": [
         {
           "name": "Julian Casablancas",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "julian-casablancas"
         },
         {
           "name": "Nick Valensi",

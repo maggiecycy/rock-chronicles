@@ -12,20 +12,22 @@
     "zh": "后朋克与车库吉他乐队在 Nu-Metal 与笔记本流行乐之后重占电台。"
   },
   "sound": {
-    "en": "Tight garage snap, post-punk freeze, three-minute singles, lean production",
-    "zh": "紧 Garage 脆响、后朋克冷感、三分钟单曲、精简制作"
+    "en": "Tight garage snare, post-punk eighth-note bass, three-minute singles, dry room mics, White Stripes-style minimal guitar+drums, Strokes NYC compression",
+    "zh": "紧 Garage 军鼓、后朋克八分贝斯、三分钟单曲、干房间话筒、White Stripes 式极简吉他+鼓、Strokes 纽约压缩感"
   },
   "anchorBands": [
-    "arctic-monkeys",
-    "the-strokes"
+    "the-strokes",
+    "the-white-stripes",
+    "interpol",
+    "franz-ferdinand",
+    "arctic-monkeys"
   ],
   "alsoNotable": [
-    "Franz Ferdinand",
-    "Interpol",
-    "Yeah Yeah Yeahs",
-    "The White Stripes",
+    "The Libertines",
+    "the-killers",
     "fall-out-boy",
-    "bring-me-the-horizon"
+    "bring-me-the-horizon",
+    "kings-of-leon"
   ],
   "genres": [
     "indie-rock",
@@ -33,8 +35,8 @@
     "alternative"
   ],
   "body": {
-    "en": "After nu-metal and early digital pop dominate US/UK charts, New York bands like The Strokes put three-minute guitar songs back on MTV and indie press around 2001. The White Stripes and others keep garage minimalism visible. Arctic Monkeys (2005–06) show MySpace and UK indie press can break a guitar band fast.\n\nRock stays on the axis with shorter songs, smaller clubs first, then festival scale again.",
-    "zh": "在 Nu-Metal 与早期数字流行占据美英榜单之后，约 2001 年 The Strokes 等纽约乐队把三分钟吉他歌送回 MTV 与独立媒体。The White Stripes 等让车库极简仍可见。Arctic Monkeys（2005–06）证明 MySpace 与英国独立媒体能快速打出吉他乐队。\n\n摇滚仍在主轴上：歌更短，先从小俱乐部再回到音乐节尺度。"
+    "en": "By 2000–01 US/UK charts lean on nu-metal and early digital pop. New York’s The Strokes put Is This It (2001) on MTV and indie press: three-minute songs, clipped vocals, dry garage drums. The White Stripes keep two-piece garage (guitar/drums, limited bass) visible on White Blood Cells (2001) and Elephant (2003).\n\nInterpol’s Turn On the Bright Lights (2002) and Franz Ferdinand’s debut (2004) export post-punk bass and danceable guitar to UK/US radio. Arctic Monkeys’ Whatever People Say I Am… (2006) shows MySpace and UK indie weeklies can break a Sheffield guitar band into the singles chart within months.\n\nFestival bills (Reading, Coachella, Glastonbury) pull the same lean guitar acts onto large stages. Parallel US paths—Killers synth-rock, Fall Out Boy pop-punk—share the decade’s radio space without sharing the NYC/UK garage press frame.",
+    "zh": "2000–01 年美英榜单偏 Nu-Metal 与早期数字流行。纽约 The Strokes 把《Is This It》（2001）送上 MTV 与独立媒体：三分钟歌、短促人声、干车库鼓。The White Stripes 在《White Blood Cells》（2001）与《Elephant》（2003）上保持二人编制车库（吉他/鼓、贝斯极简）。\n\nInterpol《Turn On the Bright Lights》（2002）与 Franz Ferdinand 首专（2004）把后朋克贝斯与可跳舞吉他送进英美电台。Arctic Monkeys《Whatever People Say I Am…》（2006）证明 MySpace 与英国独立周刊能在数月内把谢菲尔德吉他乐队打进单曲榜。\n\nReading、Coachella、Glastonbury 等音乐节把同一批精简吉他乐队拉上大舞台。并行的美国路线——Killers 合成器摇滚、Fall Out Boy 流行朋克——共享电台时段，但不共用纽约/英国车库媒体框架。"
   },
   "navLabel": {
     "en": "00s",

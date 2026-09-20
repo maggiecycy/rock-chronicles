@@ -19,7 +19,8 @@
     {
       "name": "Elvis Presley",
       "role": "Vocals, Guitar",
-      "years": "1954–1977"
+      "years": "1954–1977",
+      "personSlug": "elvis-presley"
     }
   ],
   "essentialTracks": [
@@ -256,7 +257,8 @@
       "members": [
         {
           "name": "Elvis Presley",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "elvis-presley"
         },
         {
           "name": "Scotty Moore",

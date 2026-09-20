@@ -1,0 +1,29 @@
+{
+  "name": "Brian Jones",
+  "slug": "brian-jones",
+  "born": 1942,
+  "origin": "Cheltenham, England",
+  "roles": [
+    "Guitar",
+    "Multi-instrument"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Early Rolling Stones multi-instrumentalist; slide, sitar, and other colors on mid-1960s sides.",
+    "zh": "早期 Rolling Stones 多乐器手；1960 年代中期唱片上的 slide、锡塔琴等音色。"
+  },
+  "body": {
+    "en": "Born 1942, Cheltenham. Founding Stone. Adds slide, sitar, mellotron and other colors on mid-1960s records before leaving in 1969.\n\nDies 1969.",
+    "zh": "1942 年生于 Cheltenham。创始成员。1960 年代中期唱片加入 slide、锡塔琴、Mellotron 等音色，1969 年离队。\n\n1969 年去世。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Rolling Stones",
+      "bandSlug": "the-rolling-stones",
+      "role": "Guitar, Multi-instrument",
+      "from": 1962,
+      "to": 1969
+    }
+  ],
+  "relatedPeople": []
+}

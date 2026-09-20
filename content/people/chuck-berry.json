@@ -1,0 +1,29 @@
+{
+  "name": "Chuck Berry",
+  "slug": "chuck-berry",
+  "born": 1926,
+  "origin": "St. Louis, Missouri, USA",
+  "roles": [
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Chess guitarist and songwriter; duck-walk stage and double-stop riffs on early rock radio.",
+    "zh": "Chess 吉他手与写歌人；鸭步舞台与双音停顿 riff，进入早期摇滚电台。"
+  },
+  "body": {
+    "en": "Born 1926, St. Louis. Chess Records sides from the mid-1950s. Double-stop guitar intros and verse storytelling set a template many UK invasion bands copy.\n\nContinues touring and recording for decades. Dies 2017.",
+    "zh": "1926 年生于圣路易斯。1950 年代中期起 Chess 单曲。双音停顿吉他 intro 与主歌叙事，被许多英国入侵乐队沿用。\n\n此后数十年仍巡演与录音。2017 年去世。"
+  },
+  "tenures": [
+    {
+      "bandName": "Chuck Berry",
+      "bandSlug": "chuck-berry",
+      "role": "Vocals, Guitar",
+      "from": 1955,
+      "to": 2017
+    }
+  ],
+  "relatedPeople": []
+}

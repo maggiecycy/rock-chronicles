@@ -1,0 +1,28 @@
+{
+  "name": "Keith Richards",
+  "slug": "keith-richards",
+  "born": 1943,
+  "origin": "Dartford, England",
+  "roles": [
+    "Guitar",
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Rolling Stones rhythm/lead guitar; open-G and five-string approaches on many 1970s tracks.",
+    "zh": "Rolling Stones 节奏/主音吉他；1970 年代大量曲目用 open-G 与五弦奏法。"
+  },
+  "body": {
+    "en": "Born 1943, Dartford. Co-founder and principal guitar with Mick Jagger. Open-G tuning and five-string setups appear on many mid-period Stones records.\n\nRhythm parts lock with Watts; lead breaks share space with Wood or Taylor depending on era.",
+    "zh": "1943 年生于 Dartford。与 Mick Jagger 共同创办，主责吉他。中期大量唱片使用 open-G 与五弦设置。\n\n节奏与 Watts 咬合；独奏段落视年代与 Wood 或 Taylor 分担。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Rolling Stones",
+      "bandSlug": "the-rolling-stones",
+      "role": "Guitar, Vocals",
+      "from": 1962
+    }
+  ],
+  "relatedPeople": []
+}

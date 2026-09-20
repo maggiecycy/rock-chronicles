@@ -1,0 +1,29 @@
+{
+  "name": "Jimi Hendrix",
+  "slug": "jimi-hendrix",
+  "born": 1942,
+  "origin": "Seattle, Washington, USA",
+  "roles": [
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Experience guitarist and frontman; feedback, wah, and studio layering on late-1960s sides.",
+    "zh": "Experience 吉他手与主唱；1960 年代末唱片上的反馈、wah 与录音室叠轨。"
+  },
+  "body": {
+    "en": "Born 1942, Seattle. Forms the Experience in London, 1966. Guitar technique and Marshall/ feedback vocabulary land on Are You Experienced, Axis, and Electric Ladyland.\n\nDies 1970.",
+    "zh": "1942 年生于西雅图。1966 年在伦敦组建 Experience。《Are You Experienced》《Axis》《Electric Ladyland》上的吉他手法与 Marshall/反馈语汇。\n\n1970 年去世。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Jimi Hendrix Experience",
+      "bandSlug": "the-jimi-hendrix-experience",
+      "role": "Vocals, Guitar",
+      "from": 1966,
+      "to": 1969
+    }
+  ],
+  "relatedPeople": []
+}

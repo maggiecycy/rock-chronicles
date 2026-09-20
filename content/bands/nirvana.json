@@ -208,7 +208,17 @@
         "zh": "《Bleach》记录 Sub Pop 时期，鼓手为 Chad Channing。Cobain、Novoselic 与 Grohl 是《Nevermind》《In Utero》最常被引用的编制。\n\n更早的鼓手属于早期目录；MTV 尺度的记忆集中在 1990–94 年 Grohl 的鼓组。\n\nGrohl 之前鼓的位子换了四次。Everman 后来去 Soundgarden 弹贝斯。Goldston 在 Unplugged 拉大提琴。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "grunge"
+      "soundGenre": "grunge",
+      "stickyImage": {
+        "src": "/media/bands/nirvana-cobain-novoselic-1992.jpg",
+        "alt": {
+          "en": "Kurt Cobain and Krist Novoselic of Nirvana, MTV Video Music Awards, 1992",
+          "zh": "Kurt Cobain 与 Krist Novoselic，Nirvana，1992 年 MTV 音乐录影带大奖"
+        },
+        "credit": "P.B. Rage",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kurt_Cobain.jpg"
+      }
     },
     {
       "id": "spirit",

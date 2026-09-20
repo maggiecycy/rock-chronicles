@@ -158,7 +158,17 @@
         "zh": "1999 至今核心：Caleb（人声/节奏）、Jared（贝斯）、Nathan（鼓）、Matthew（lead 吉他，2000 年加入）。\n\n目录无换主唱——弧线是制作与写歌，非人员流动。早期现场短而响；2008 后巡演放大延时与体育场 PA。\n\nMatthew 的 lead 线从蓝调推弦长到附点八分延时音型。\n\nThe Followills 是 RCA 之前的酒吧乐队名。The Strokes 的早期留意写在《Only by the Night》之前的英国报道里。"
       },
       "stickyVisual": "lineupVersions",
-      "soundGenre": "alternative"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/kings-of-leon-hyde-park.jpg",
+        "alt": {
+          "en": "Kings of Leon at Hyde Park",
+          "zh": "Kings of Leon，海德公园"
+        },
+        "credit": "Raph_PH",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kings_of_Leon_Hyde_Park.jpg"
+      }
     },
     {
       "id": "influence",

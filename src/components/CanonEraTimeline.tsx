@@ -41,9 +41,11 @@ export function CanonEraTimeline({ periods }: { periods: CanonPeriod[] }) {
         <p className="text-[10px] font-medium uppercase tracking-wider text-muted">
           {t.canon.eraRail}
         </p>
-        <p className="mt-1 text-[10px] leading-snug text-muted">
-          {t.canon.eraRailHint}
-        </p>
+        {t.canon.eraRailHint ? (
+          <p className="mt-1 text-[10px] leading-snug text-muted">
+            {t.canon.eraRailHint}
+          </p>
+        ) : null}
       </div>
       <ol className="relative space-y-0 border-l-2 border-ink py-3 pl-3 ml-3">
         {sorted.map((period) => (

@@ -20,7 +20,8 @@
     {
       "name": "Alex Turner",
       "role": "Vocals, Guitar",
-      "years": "2002–present"
+      "years": "2002–present",
+      "personSlug": "alex-turner"
     },
     {
       "name": "Jamie Cook",
@@ -265,7 +266,8 @@
       "members": [
         {
           "name": "Alex Turner",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "alex-turner"
         },
         {
           "name": "Jamie Cook",

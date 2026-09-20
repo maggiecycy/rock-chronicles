@@ -1,0 +1,27 @@
+{
+  "name": "Mick Jagger",
+  "slug": "mick-jagger",
+  "born": 1943,
+  "origin": "Dartford, England",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Rolling Stones frontman; lead vocal and lyric focus from the London R&B clubs onward.",
+    "zh": "Rolling Stones 主唱；从伦敦 R&B 俱乐部起负责主声线与歌词。"
+  },
+  "body": {
+    "en": "Born 1943, Dartford. Co-founder of the Rolling Stones with Keith Richards. Lead vocals and much of the lyric writing across the catalog.\n\nStage pacing and harmonica parts sit beside the vocal on early records.",
+    "zh": "1943 年生于 Dartford。与 Keith Richards 共同创办 Rolling Stones。全目录主唱与大量作词。\n\n早期唱片里舞台节奏与口琴和人声并行。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Rolling Stones",
+      "bandSlug": "the-rolling-stones",
+      "role": "Vocals",
+      "from": 1962
+    }
+  ],
+  "relatedPeople": []
+}

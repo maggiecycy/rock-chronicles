@@ -1,0 +1,29 @@
+{
+  "name": "Syd Barrett",
+  "slug": "syd-barrett",
+  "born": 1946,
+  "origin": "Cambridge, England",
+  "roles": [
+    "Guitar",
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Pink Floyd founder; guitar and vocals on Piper-era material before leaving in 1968.",
+    "zh": "Pink Floyd 创始人；《Piper》时期吉他与人声，1968 年离队。"
+  },
+  "body": {
+    "en": "Born 1946, Cambridge. Names and leads early Pink Floyd. Writes and sings much of The Piper at the Gates of Dawn.\n\nLeaves the band in 1968. Solo records follow. Dies 2006.",
+    "zh": "1946 年生于剑桥。命名并带领早期 Pink Floyd。《The Piper at the Gates of Dawn》大量写歌与主唱。\n\n1968 年离队，后有个人唱片。2006 年去世。"
+  },
+  "tenures": [
+    {
+      "bandName": "Pink Floyd",
+      "bandSlug": "pink-floyd",
+      "role": "Guitar, Vocals",
+      "from": 1965,
+      "to": 1968
+    }
+  ],
+  "relatedPeople": []
+}
