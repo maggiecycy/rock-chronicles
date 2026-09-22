@@ -152,7 +152,17 @@
         "zh": "《Animal Nitrate》与《The Drowners》显示早期写法：Brett 戏剧假声、Butler 失真与 wah、Mat Osman 旋律贝斯。1993 年中性形象是榜单事实。\n\n《Dog Man Star》拉长歌曲并加配器——90 年代中期 Britpop 兄弟会式榜单高峰前的 art-glam 文献。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "britpop"
+      "soundGenre": "britpop",
+      "stickyImage": {
+        "src": "/media/bands/suede-brett-ally-pally-2021.jpg",
+        "alt": {
+          "en": "Brett Anderson of Suede at Alexandra Palace, November 2021",
+          "zh": "Suede 的 Brett Anderson，Alexandra Palace，2021 年 11 月"
+        },
+        "credit": "Bex Walton",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brett_Anderson_-_Suede_at_Ally_Pally_Nov_2021_(51675232343).jpg"
+      }
     },
     {
       "id": "lineupVersions",

@@ -146,7 +146,17 @@
         "zh": "Beatles 解散与 solo 专辑《McCartney》（1970）后组建 Wings。初始核心是 Paul、Linda、Denny Laine——伴奏人选不走明星超级组合路线。\n\n《Wild Life》（1971）松散快录；巡演排练兼写歌。《Maybe I’m Amazed》（1970，solo）定下 Wings 延续的人声写法。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "rock-n-roll"
+      "soundGenre": "rock-n-roll",
+      "stickyImage": {
+        "src": "/media/bands/wings-mccartney-1976.jpg",
+        "alt": {
+          "en": "Paul McCartney of Wings, 1976",
+          "zh": "Wings 的 Paul McCartney，1976"
+        },
+        "credit": "Jim Summaria",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_McCartney_-_Wings_-_1976_(cropped).jpg"
+      }
     },
     {
       "id": "lineup-versions",

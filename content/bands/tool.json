@@ -17,12 +17,14 @@
     {
       "name": "Maynard James Keenan",
       "role": "Vocals",
-      "years": "1990–present"
+      "years": "1990–present",
+      "personSlug": "maynard-james-keenan"
     },
     {
       "name": "Adam Jones",
       "role": "Guitar",
-      "years": "1990–present"
+      "years": "1990–present",
+      "personSlug": "adam-jones"
     },
     {
       "name": "Justin Chancellor",
@@ -259,11 +261,13 @@
       "members": [
         {
           "name": "Maynard James Keenan",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "maynard-james-keenan"
         },
         {
           "name": "Adam Jones",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "adam-jones"
         },
         {
           "name": "Justin Chancellor",

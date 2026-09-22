@@ -18,7 +18,8 @@
     {
       "name": "Alex Kapranos",
       "role": "Vocals, Guitar",
-      "years": "2002–present"
+      "years": "2002–present",
+      "personSlug": "alex-kapranos"
     },
     {
       "name": "Nick McCarthy",
@@ -256,7 +257,8 @@
       "members": [
         {
           "name": "Alex Kapranos",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "alex-kapranos"
         },
         {
           "name": "Nick McCarthy",

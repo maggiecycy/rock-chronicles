@@ -152,7 +152,17 @@
         "zh": "IDLES 写后朋，用直白话语点名脱欧时代英国——Talbot 喊叫歌词叠干、重节奏组。\n\n《Brutalism》（2017）与《Joy as an Act of Resistance》（2018）落在英国吉他乐队重回音乐节时。\n\n歌曲偏短，硬核鼓感与群吼。《Never Fight a Man With a Perm》是常见现场引用曲。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "post-punk"
+      "soundGenre": "post-punk",
+      "stickyImage": {
+        "src": "/media/bands/idles-glastonbury-2019.jpg",
+        "alt": {
+          "en": "Idles at Glastonbury Festival Truth Stage, 2019",
+          "zh": "Idles，Glastonbury Truth Stage，2019"
+        },
+        "credit": "Simoncromptonreid",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Idles_Truth_Stage_Glastonbury_2019_005.jpg"
+      }
     },
     {
       "id": "lineup-versions",

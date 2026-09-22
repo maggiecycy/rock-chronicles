@@ -152,7 +152,17 @@
         "zh": "Fallen（2003）把 Amy Lee 的古典钢琴哥特钩子与降调吉他和体育场制作合并。\n\nBring Me to Life 的钢琴接 riff 切换与客串 rap 主歌适合摇滚电台跨界格式。\n\nMy Immortal 把谣曲弦乐与切分失真放在同一张专辑。\n\nFallen 多白金销量。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "alternative"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/evanescence-amy-lee-laredo.jpg",
+        "alt": {
+          "en": "Amy Lee of Evanescence at Laredo Energy Arena",
+          "zh": "Evanescence 的 Amy Lee，Laredo Energy Arena"
+        },
+        "credit": "Justin Allen Hundsnurscher",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amy_Lee_of_Evanescence_performing_live_at_the_Laredo_Energy_Arena.JPG"
+      }
     },
     {
       "id": "lineup-versions",

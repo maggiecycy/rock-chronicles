@@ -1,0 +1,29 @@
+{
+  "name": "Martin Gore",
+  "slug": "martin-gore",
+  "born": 1961,
+  "origin": "Dagenham, England",
+  "roles": [
+    "Guitar",
+    "Keys",
+    "Vocals"
+  ],
+  "hub": true,
+  "shortBio": {
+    "en": "Depeche Mode principal songwriter; guitar, keys, and backing vocals.",
+    "zh": "Depeche Mode 主要写歌人；吉他、键盘与和声。"
+  },
+  "body": {
+    "en": "Born 1961, Dagenham. Writes most Depeche Mode material after Vince Clarke leaves. Guitar and synth parts share space with Gahan’s lead vocal.",
+    "zh": "1961 年生于 Dagenham。Vince Clarke 离队后写大部分曲目。吉他与合成器与 Gahan 主唱并行。"
+  },
+  "tenures": [
+    {
+      "bandName": "Depeche Mode",
+      "bandSlug": "depeche-mode",
+      "role": "Guitar, Keys, Vocals",
+      "from": 1980
+    }
+  ],
+  "relatedPeople": []
+}

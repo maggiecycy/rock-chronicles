@@ -1,0 +1,28 @@
+{
+  "name": "Jónsi",
+  "slug": "jonsi",
+  "born": 1975,
+  "origin": "Reykjavík, Iceland",
+  "roles": [
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Sigur Rós vocalist and guitarist; falsetto and bowed-guitar texture.",
+    "zh": "Sigur Rós 主唱与吉他；假声与弓拉吉他织体。"
+  },
+  "body": {
+    "en": "Born 1975, Reykjavík (Jón Þór Birgisson). Lead vocals and guitar for Sigur Rós. Falsetto and bowed electric guitar mark much of the studio sound.",
+    "zh": "1975 年生于雷克雅未克（Jón Þór Birgisson）。Sigur Rós 主唱与吉他。假声与弓拉电吉他构成大量录音室音色。"
+  },
+  "tenures": [
+    {
+      "bandName": "Sigur Rós",
+      "bandSlug": "sigur-ros",
+      "role": "Vocals, Guitar",
+      "from": 1994
+    }
+  ],
+  "relatedPeople": []
+}

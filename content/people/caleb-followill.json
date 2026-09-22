@@ -1,0 +1,28 @@
+{
+  "name": "Caleb Followill",
+  "slug": "caleb-followill",
+  "born": 1982,
+  "origin": "Mt. Juliet, Tennessee, USA",
+  "roles": [
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Kings of Leon frontman; gravel vocal from Youth & Young Manhood onward.",
+    "zh": "Kings of Leon 主唱；自《Youth & Young Manhood》起的沙哑人声。"
+  },
+  "body": {
+    "en": "Born 1982, Tennessee. Lead vocals and rhythm guitar for Kings of Leon. Writes with brothers Nathan, Jared, and cousin Matthew.",
+    "zh": "1982 年生于田纳西。Kings of Leon 主唱与节奏吉他。与兄弟 Nathan、Jared 及表弟 Matthew 共同写歌。"
+  },
+  "tenures": [
+    {
+      "bandName": "Kings of Leon",
+      "bandSlug": "kings-of-leon",
+      "role": "Vocals, Rhythm Guitar",
+      "from": 1999
+    }
+  ],
+  "relatedPeople": []
+}

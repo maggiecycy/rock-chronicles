@@ -163,7 +163,17 @@
         "zh": "Godspeed 把 post-rock 当作大型曲式：田野录音、口语采样，单面常超过 20 分钟。\n\n《F♯ A♯ ∞》（1997）与《Lift Your Skinny Fists》（2000）定义早期 Constellation 声音。\n\n无 frontman——集体署名与轮换编制。《East Hastings》用城市田野音频；《Storm》以管弦 延音 开双专。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "progressive-rock"
+      "soundGenre": "progressive-rock",
+      "stickyImage": {
+        "src": "/media/bands/godspeed-tilburg-2016.jpg",
+        "alt": {
+          "en": "Godspeed You! Black Emperor at 013 Tilburg, 2016",
+          "zh": "Godspeed You! Black Emperor，013 Tilburg，2016"
+        },
+        "credit": "FakirNL",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Godspeed_You!_Black_Emperor_at_013_Tilburg_2016.jpg"
+      }
     },
     {
       "id": "lineup-versions",

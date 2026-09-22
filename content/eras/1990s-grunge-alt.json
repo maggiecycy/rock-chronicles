@@ -12,18 +12,18 @@
     "zh": "独立厂牌与主流电台短暂共用歌单；强弱对比成为默认曲式。"
   },
   "sound": {
-    "en": "Fuzz pedals, soft–loud verse–chorus, dry room mics, alt-radio mixes",
-    "zh": "Fuzz 效果器、弱–强主歌副歌、干房间话筒、另类电台混音"
+    "en": "Fuzz and overdrive pedals, soft–loud verse–chorus, dry room mics, modern-rock radio compression, twin-vocal harmony on Alice in Chains sides",
+    "zh": "Fuzz / 过载效果器、弱–强主歌副歌、干房间话筒、现代摇滚电台压缩、Alice in Chains 式双人声和声"
   },
   "anchorBands": [
     "nirvana",
     "pearl-jam",
-    "radiohead",
     "soundgarden",
+    "alice-in-chains",
+    "radiohead",
     "foo-fighters"
   ],
   "alsoNotable": [
-    "Alice in Chains",
     "Smashing Pumpkins",
     "Rage Against the Machine",
     "Nine Inch Nails",
@@ -40,8 +40,8 @@
     "shoegaze"
   ],
   "body": {
-    "en": "Seattle Sub Pop and related bands hit US MTV and modern-rock radio after Nevermind (1991). Pixies-style soft–loud dynamics become a common template. Radiohead moves from guitar singles toward studio-heavy albums by mid-decade.\n\nThis track is US-leaning alternative shock—not the Britpop chart war running in parallel in the UK.",
-    "zh": "西雅图 Sub Pop 及相关乐队在 Nevermind（1991）之后打进美国 MTV 与现代摇滚电台。Pixies 式的弱–强动态成为常用模板。Radiohead 在十年中期从吉他单曲转向录音室重度专辑。\n\n这条线是偏美的替代冲击——不是英国并行发生的 Britpop 榜单战。"
+    "en": "Sub Pop and Seattle clubs feed major labels. Nirvana’s Nevermind (1991) puts power-chord soft–loud (Pixies-adjacent) on MTV and Billboard. Pearl Jam’s Ten (1991), Soundgarden’s Badmotorfinger / Superunknown (1991–94), and Alice in Chains’ Dirt (1992) share the same US modern-rock window with different guitar and vocal approaches.\n\nOutside Seattle, Radiohead moves from Pablo Honey / The Bends guitar singles toward OK Computer (1997) studio density. Foo Fighters (1995) carry post-Nirvana drummer-fronted alt onto the same radio format.\n\nUK Britpop runs in parallel on different charts and press; this chapter stays on the US-leaning alternative and grunge shock.",
+    "zh": "Sub Pop 与西雅图俱乐部把乐队送进大厂。Nirvana《Nevermind》（1991）把强力和弦弱–强（近 Pixies）送上 MTV 与 Billboard。Pearl Jam《Ten》（1991）、Soundgarden《Badmotorfinger》《Superunknown》（1991–94）、Alice in Chains《Dirt》（1992）同处美国现代摇滚窗口，吉他与人声路径不同。\n\n西雅图之外，Radiohead 从《Pablo Honey》《The Bends》吉他单曲转向《OK Computer》（1997）的录音室密度。Foo Fighters（1995）把 Nirvana 之后鼓手领衔的另类推上同一电台格式。\n\n英国 Britpop 在另一套榜单与媒体上并行；本章保留偏美的替代与 Grunge 冲击。"
   },
   "navLabel": {
     "en": "Grunge",

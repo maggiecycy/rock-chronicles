@@ -1,0 +1,28 @@
+{
+  "name": "Jarvis Cocker",
+  "slug": "jarvis-cocker",
+  "born": 1963,
+  "origin": "Sheffield, England",
+  "roles": [
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Pulp frontman; class-detail lyrics and spoken-sung delivery on Different Class–era sides.",
+    "zh": "Pulp 主唱；《Different Class》时期的阶级细节歌词与说唱式咬字。"
+  },
+  "body": {
+    "en": "Born 1963, Sheffield. Lead vocals and principal lyric for Pulp. Different Class (1995) puts the Sheffield character sketches on UK charts.",
+    "zh": "1963 年生于谢菲尔德。Pulp 主唱与主要作词。《Different Class》（1995）把谢菲尔德人物素描送上英国榜。"
+  },
+  "tenures": [
+    {
+      "bandName": "Pulp",
+      "bandSlug": "pulp",
+      "role": "Vocals, Guitar",
+      "from": 1978
+    }
+  ],
+  "relatedPeople": []
+}

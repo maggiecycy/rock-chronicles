@@ -147,7 +147,17 @@
         "zh": "Måneskin 写短 glam hard-rock，David 喊叫人声、De Angelis 贝斯作混音中心——更近 Stones/Zeppelin 态度，而非 indie 耳语。\n\n《Beggin'》显示 TikTok 窗口的翻唱触达；Slave 与《Zitti e buoni》显示原创目录冲击。\n\n分发路径是电视赛事加流媒体，而非 1990 年代学院电台。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "alternative"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/maneskin-2018.jpg",
+        "alt": {
+          "en": "Måneskin, 2018",
+          "zh": "Måneskin，2018"
+        },
+        "credit": "Paolo Santambrogio",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maneskin_2018.jpg"
+      }
     },
     {
       "id": "lineupVersions",

@@ -155,7 +155,17 @@
         "zh": "Slowdive 是相对 My Bloody Valentine Loveless 墙的旋律、人声前置 shoegaze 配重。\n\nSouvlaki（1993，Creation）用延时 / 混响延音堆叠配 Halstead / Goswell 低语人声。\n\nAlison 是柔和入口；When the Sun Hits 展示全音量 swell。偏中速、有歌曲形的 shoegaze，而非仅噪声突击。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "shoegaze"
+      "soundGenre": "shoegaze",
+      "stickyImage": {
+        "src": "/media/bands/slowdive-live.jpg",
+        "alt": {
+          "en": "Slowdive live",
+          "zh": "Slowdive 现场"
+        },
+        "credit": "deepskyobject",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slowdive.jpg"
+      }
     },
     {
       "id": "lineup-versions",

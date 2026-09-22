@@ -148,7 +148,17 @@
         "zh": "Idol 保留 Generation X 态度——短句、冷笑人声——再与 Stevens 为门限鼓电台写作。\n\n《Rebel Yell》是峰值引用：朋克能量、hard-rock 吉他写法、影像期副歌。面向影像期电台的商业 alternative 与朋克跨界。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "punk"
+      "soundGenre": "punk",
+      "stickyImage": {
+        "src": "/media/bands/billy-idol-acl-2015.jpg",
+        "alt": {
+          "en": "Billy Idol at Austin City Limits Music Festival, 2015",
+          "zh": "Billy Idol，Austin City Limits，2015"
+        },
+        "credit": "Anna Hanks",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Austin_City_Limits_Music_Festival,_Billy_Idol_2015-098715_(29624510841).jpg"
+      }
     },
     {
       "id": "lineupVersions",

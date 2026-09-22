@@ -12,19 +12,19 @@
     "zh": "短歌与 DIY 厂牌重置门槛；后朋克用贝斯、空间感与艺术学院手法重建。"
   },
   "sound": {
-    "en": "Fast downstrokes, dry snare, cold basslines, early drum machines",
-    "zh": "快速下拨、干军鼓、冷贝斯线、早期鼓机"
+    "en": "Fast downstrokes, dry snare, short song forms, cold basslines, early drum machines and synths on post-punk sides",
+    "zh": "快速下拨、干军鼓、短曲式、冷贝斯线、后朋克唱片上的早期鼓机与合成器"
   },
   "anchorBands": [
+    "ramones",
     "sex-pistols",
     "the-clash",
     "joy-division",
-    "the-police",
-    "talking-heads"
+    "talking-heads",
+    "the-cure"
   ],
   "alsoNotable": [
-    "Ramones",
-    "The Cure",
+    "The Police",
     "The Smiths",
     "Pixies",
     "Sonic Youth",
@@ -38,8 +38,8 @@
     "new-wave"
   ],
   "body": {
-    "en": "Punk is not short metal. From ~1976 in New York and London it cuts song length, rejects virtuoso solos, and favors cheap gear and independent labels. Post-punk keeps the urgency but adds space, funk/reggae rhythm, synths, and art-school arrangement.\n\nOn this chronicle the era sits apart from metal: same years, different scenes, different production goals.",
-    "zh": "朋克不是短金属。约 1976 年起，纽约与伦敦把歌曲缩短，拒绝炫技 Solo，偏向廉价器材与独立厂牌。后朋克保留紧迫感，但加入空间感、Funk/Reggae 节奏、合成器与艺术学院式编曲。\n\n在本编年史里，这个年代与金属分开：同一年份，不同场景，不同制作目标。"
+    "en": "Mid-1970s New York and London cut song length and solo space. Ramones (1976–) lock 1–2 minute downstroke singles; Sex Pistols’ Never Mind the Bollocks (1977) and The Clash’s early singles put UK punk on national press and charts. Cheap gear and independent labels keep entry costs low.\n\nPost-punk keeps the urgency and rebuilds the arrangement: Joy Division’s Unknown Pleasures / Closer (1979–80) with cold bass and space; Talking Heads’ Remain in Light (1980) with funk rhythm and studio layering; The Cure’s early–mid 1980s records with guitar/keys atmosphere. Depeche Mode and related synth acts share the decade’s club and radio space under adjacent tags.\n\nOn this site the era sits next to metal by year but on different scenes and production goals.",
+    "zh": "1970 年代中期纽约与伦敦缩短歌曲、压缩 Solo 空间。Ramones（1976–）锁定 1–2 分钟下拨单曲；Sex Pistols《Never Mind the Bollocks》（1977）与 The Clash 早期单曲把英国朋克送上全国媒体与榜单。廉价器材与独立厂牌压低入场成本。\n\n后朋克保留紧迫感并重建编曲：Joy Division《Unknown Pleasures》《Closer》（1979–80）的冷贝斯与空间；Talking Heads《Remain in Light》（1980）的 Funk 节奏与录音室叠轨；The Cure 1980 年代早中期唱片的吉他/键盘氛围。Depeche Mode 等相关合成器乐队在相邻标签下共享俱乐部与电台时段。\n\n在本站，这个年代与金属年份相邻，但场景与制作目标不同。"
   },
   "navLabel": {
     "en": "Punk",

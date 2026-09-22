@@ -147,7 +147,17 @@
         "zh": "O’Riordan 人声——yodel 断裂、盖尔装饰、中高音推进——是乐队识别点。Hogan 写琶音床，更近 Smiths / R.E.M. 而非西雅图 fuzz。\n\nLinger 与 Dreams 是软 alternative 热单；Zombie 加硬混音，仍以她人声为主乐器。\n\nStephen Street 制作保持鼓干、人声靠前。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "alternative"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/cranberries-dolores-festivalbar-2004.jpg",
+        "alt": {
+          "en": "Dolores O'Riordan of The Cranberries, Festivalbar, Milan, 29 May 2004",
+          "zh": "The Cranberries 的 Dolores O'Riordan，Festivalbar，米兰，2004 年 5 月 29 日"
+        },
+        "credit": "Fabio Diena",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dolores_O%27Riordan,_Festivalbar,_Milan,_Italy,_May_29,_2004.jpg"
+      }
     },
     {
       "id": "lineupVersions",

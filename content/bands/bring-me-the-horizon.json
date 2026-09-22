@@ -154,7 +154,17 @@
         "zh": "BMTH 从谢菲尔德 deathcore 起步，再经 Fish 吸收电子制作。Sempiternal 是转向：嘶吼/干净人声压编程 drop 与 Malia riff。\n\nThrone 显示同一乐队能写 alt 电台体育场钩子。\n\n弧线是同一核心阵容内的类型移动。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "heavy-metal"
+      "soundGenre": "heavy-metal",
+      "stickyImage": {
+        "src": "/media/bands/bmth-tons-of-rock-2026.jpg",
+        "alt": {
+          "en": "Bring Me the Horizon at Tons of Rock, 2026",
+          "zh": "Bring Me the Horizon，Tons of Rock，2026"
+        },
+        "credit": "Birgit Fostervold",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bring_Me_The_Horizon_Tons_of_Rock_2026.jpg"
+      }
     },
     {
       "id": "lineupVersions",

@@ -1,0 +1,27 @@
+{
+  "name": "Maynard James Keenan",
+  "slug": "maynard-james-keenan",
+  "born": 1964,
+  "origin": "Ravenna, Ohio, USA",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Tool vocalist; also A Perfect Circle and Puscifer.",
+    "zh": "Tool 主唱；另有 A Perfect Circle、Puscifer。"
+  },
+  "body": {
+    "en": "Born 1964, Ravenna, Ohio. Lead vocals for Tool from the early 1990s. Side projects A Perfect Circle and Puscifer run in parallel eras.",
+    "zh": "1964 年生于俄亥俄 Ravenna。1990 年代初起任 Tool 主唱。并行有 A Perfect Circle、Puscifer。"
+  },
+  "tenures": [
+    {
+      "bandName": "Tool",
+      "bandSlug": "tool",
+      "role": "Vocals",
+      "from": 1990
+    }
+  ],
+  "relatedPeople": []
+}

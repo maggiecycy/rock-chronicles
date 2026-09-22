@@ -157,7 +157,17 @@
         "zh": "Mogwai 在英国 indie 里定下强弱器乐 post-rock：少人声，crescendo 作主事件。\n\n《Young Team》（1997，Chemikal）以《Mogwai Fear Satan》16 分钟弧线开场。\n\n格拉斯哥连 Chemikal Underground 同辈；Matador 美国发行扩大听众。后期《Zidane》《The French Dispatch》配乐把同一动态写法带进电影。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "progressive-rock"
+      "soundGenre": "progressive-rock",
+      "stickyImage": {
+        "src": "/media/bands/mogwai-rfh-2014.jpg",
+        "alt": {
+          "en": "Mogwai live at Royal Festival Hall, 2014",
+          "zh": "Mogwai，皇家节日大厅现场，2014"
+        },
+        "credit": "Black Kite",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mogwai_(band)_live_RFH_2014.jpg"
+      }
     },
     {
       "id": "lineup-versions",

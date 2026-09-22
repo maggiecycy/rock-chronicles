@@ -1,0 +1,27 @@
+{
+  "name": "Adam Jones",
+  "slug": "adam-jones",
+  "born": 1965,
+  "origin": "Park Ridge, Illinois, USA",
+  "roles": [
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Tool guitarist; riff architecture and stop-start figures on the long-form tracks.",
+    "zh": "Tool 吉他手；长曲上的 riff 结构与停顿起奏。"
+  },
+  "body": {
+    "en": "Born 1965, Park Ridge, Illinois. Guitar for Tool. Builds much of the riff and arrangement spine under Keenan’s vocal.",
+    "zh": "1965 年生于伊利诺伊 Park Ridge。Tool 吉他。在 Keenan 人声下搭起大量 riff 与编曲骨架。"
+  },
+  "tenures": [
+    {
+      "bandName": "Tool",
+      "bandSlug": "tool",
+      "role": "Guitar",
+      "from": 1990
+    }
+  ],
+  "relatedPeople": []
+}

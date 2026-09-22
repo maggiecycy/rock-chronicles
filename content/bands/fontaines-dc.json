@@ -144,7 +144,17 @@
         "zh": "Fontaines D.C. 属于 2010 年代末至 2020 年代英爱后朋克浪潮：文学地方细节、干制作、密集巡演。\n\n《Dogrel》把都柏林街名与报道式歌词送上 indie 音乐节。后期唱片保留口音，同时打开混音。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "post-punk"
+      "soundGenre": "post-punk",
+      "stickyImage": {
+        "src": "/media/bands/fontaines-dc-vorst-2024.jpg",
+        "alt": {
+          "en": "Fontaines D.C. at Vorst Nationaal, Brussels, 15 November 2024",
+          "zh": "Fontaines D.C.，Vorst Nationaal，布鲁塞尔，2024 年 11 月 15 日"
+        },
+        "credit": "Haggis MacHaggis",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fontaines_D.C._in_Vorst_Nationaal,_Brussels_(15-11-2024)_(1).jpg"
+      }
     },
     {
       "id": "scene-0",

@@ -17,12 +17,14 @@
     {
       "name": "Carl Barât",
       "role": "Vocals, Guitar",
-      "years": "1997–present"
+      "years": "1997–present",
+      "personSlug": "carl-barat"
     },
     {
       "name": "Pete Doherty",
       "role": "Vocals, Guitar",
-      "years": "1997–2004; 2007–2015"
+      "years": "1997–2004; 2007–2015",
+      "personSlug": "pete-doherty"
     },
     {
       "name": "John Hassall",
@@ -255,11 +257,13 @@
       "members": [
         {
           "name": "Pete Doherty",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "pete-doherty"
         },
         {
           "name": "Carl Barât",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "carl-barat"
         },
         {
           "name": "John Hassall",

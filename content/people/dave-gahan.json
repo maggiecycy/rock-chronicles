@@ -1,0 +1,27 @@
+{
+  "name": "Dave Gahan",
+  "slug": "dave-gahan",
+  "born": 1962,
+  "origin": "Epping, England",
+  "roles": [
+    "Vocals"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Depeche Mode lead vocalist from the Basildon lineup onward.",
+    "zh": "Depeche Mode 主唱；自 Basildon 编制起。"
+  },
+  "body": {
+    "en": "Born 1962, Epping. Lead vocals on Depeche Mode records from Speak & Spell through later albums. Stage presence and baritone delivery sit at the front of the live mix.",
+    "zh": "1962 年生于 Epping。从《Speak & Spell》起任 Depeche Mode 主唱。现场混音中人声与舞台存在感靠前。"
+  },
+  "tenures": [
+    {
+      "bandName": "Depeche Mode",
+      "bandSlug": "depeche-mode",
+      "role": "Vocals",
+      "from": 1980
+    }
+  ],
+  "relatedPeople": []
+}

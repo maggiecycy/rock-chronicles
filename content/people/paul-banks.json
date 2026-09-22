@@ -1,0 +1,29 @@
+{
+  "name": "Paul Banks",
+  "slug": "paul-banks",
+  "born": 1978,
+  "origin": "Clacton-on-Sea, England",
+  "roles": [
+    "Vocals",
+    "Bass",
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Interpol vocalist and multi-instrumentalist; Turn On the Bright Lights–era baritone.",
+    "zh": "Interpol 主唱与多乐器手；《Turn On the Bright Lights》时期的男中音。"
+  },
+  "body": {
+    "en": "Born 1978. Lead vocals for Interpol from the New York post-punk revival lineup. Shares bass and guitar duties across records.",
+    "zh": "1978 年生。纽约后朋克复兴编制起任 Interpol 主唱。唱片上分担贝斯与吉他。"
+  },
+  "tenures": [
+    {
+      "bandName": "Interpol",
+      "bandSlug": "interpol",
+      "role": "Vocals, Bass, Guitar",
+      "from": 1997
+    }
+  ],
+  "relatedPeople": []
+}

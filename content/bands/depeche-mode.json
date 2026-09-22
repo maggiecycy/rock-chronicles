@@ -17,12 +17,14 @@
     {
       "name": "Dave Gahan",
       "role": "Vocals",
-      "years": "1980–present"
+      "years": "1980–present",
+      "personSlug": "dave-gahan"
     },
     {
       "name": "Martin Gore",
       "role": "Guitar, Keys, Vocals",
-      "years": "1980–present"
+      "years": "1980–present",
+      "personSlug": "martin-gore"
     },
     {
       "name": "Andy Fletcher",
@@ -258,11 +260,13 @@
       "members": [
         {
           "name": "Dave Gahan",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "dave-gahan"
         },
         {
           "name": "Martin Gore",
-          "role": "Songwriting, Keys, Guitar"
+          "role": "Songwriting, Keys, Guitar",
+          "personSlug": "martin-gore"
         },
         {
           "name": "Andy Fletcher",

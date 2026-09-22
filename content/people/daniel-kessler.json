@@ -1,0 +1,27 @@
+{
+  "name": "Daniel Kessler",
+  "slug": "daniel-kessler",
+  "born": 1974,
+  "origin": "London, England",
+  "roles": [
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Interpol guitarist; delay and arpeggio figures on the early albums.",
+    "zh": "Interpol 吉他手；早期专辑上的延时与分解和弦。"
+  },
+  "body": {
+    "en": "Born 1974, London. Guitar for Interpol. Delay and picked patterns define much of the early guitar texture.",
+    "zh": "1974 年生于伦敦。Interpol 吉他。延时与拨弦音型构成早期大量吉他织体。"
+  },
+  "tenures": [
+    {
+      "bandName": "Interpol",
+      "bandSlug": "interpol",
+      "role": "Guitar",
+      "from": 1997
+    }
+  ],
+  "relatedPeople": []
+}

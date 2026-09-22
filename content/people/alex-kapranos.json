@@ -1,0 +1,28 @@
+{
+  "name": "Alex Kapranos",
+  "slug": "alex-kapranos",
+  "born": 1972,
+  "origin": "Glasgow, Scotland",
+  "roles": [
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Franz Ferdinand frontman; angular guitar and danceable post-punk singles.",
+    "zh": "Franz Ferdinand 主唱；棱角吉他与可跳舞后朋克单曲。"
+  },
+  "body": {
+    "en": "Born 1972. Lead vocals and guitar for Franz Ferdinand. Debut (2004) puts the Glasgow guitar-dance singles on UK/US radio.",
+    "zh": "1972 年生。Franz Ferdinand 主唱与吉他。首专（2004）把格拉斯哥吉他舞曲单曲送进英美电台。"
+  },
+  "tenures": [
+    {
+      "bandName": "Franz Ferdinand",
+      "bandSlug": "franz-ferdinand",
+      "role": "Vocals, Guitar",
+      "from": 2002
+    }
+  ],
+  "relatedPeople": []
+}

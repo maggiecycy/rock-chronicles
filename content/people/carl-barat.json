@@ -1,0 +1,28 @@
+{
+  "name": "Carl Barât",
+  "slug": "carl-barat",
+  "born": 1978,
+  "origin": "Basingstoke, England",
+  "roles": [
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Libertines co-frontman; twin-vocal garage with Pete Doherty.",
+    "zh": "Libertines 联合主唱；与 Pete Doherty 的双人声车库。"
+  },
+  "body": {
+    "en": "Born 1978, Basingstoke. Co-lead vocals and guitar in the Libertines. Shares the front line with Doherty on early UK indie singles.",
+    "zh": "1978 年生于 Basingstoke。Libertines 联合主唱与吉他。早期英国独立单曲上与 Doherty 分担前排。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Libertines",
+      "bandSlug": "the-libertines",
+      "role": "Vocals, Guitar",
+      "from": 1997
+    }
+  ],
+  "relatedPeople": []
+}

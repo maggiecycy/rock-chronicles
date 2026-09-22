@@ -17,12 +17,14 @@
     {
       "name": "Paul Banks",
       "role": "Vocals, Bass",
-      "years": "1997–present"
+      "years": "1997–present",
+      "personSlug": "paul-banks"
     },
     {
       "name": "Daniel Kessler",
       "role": "Guitar",
-      "years": "1997–present"
+      "years": "1997–present",
+      "personSlug": "daniel-kessler"
     },
     {
       "name": "Carlos D",
@@ -255,11 +257,13 @@
       "members": [
         {
           "name": "Paul Banks",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "paul-banks"
         },
         {
           "name": "Daniel Kessler",
-          "role": "Guitar"
+          "role": "Guitar",
+          "personSlug": "daniel-kessler"
         },
         {
           "name": "Carlos Dengler",

@@ -17,7 +17,8 @@
     {
       "name": "Caleb Followill",
       "role": "Vocals, Rhythm Guitar",
-      "years": "1999–present"
+      "years": "1999–present",
+      "personSlug": "caleb-followill"
     },
     {
       "name": "Jared Followill",
@@ -252,7 +253,8 @@
       "members": [
         {
           "name": "Caleb Followill",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "caleb-followill"
         },
         {
           "name": "Nathan Followill",

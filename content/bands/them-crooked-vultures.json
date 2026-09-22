@@ -140,7 +140,17 @@
         "zh": "Homme、Grohl、Jones 在多年互作客座后于洛杉矶录音。无 audition——三位成熟乐手，一张专辑合约。\n\nHomme 制作；Grohl 打鼓；Jones 贝斯并在编曲需密度处加 Mellotron/键盘。\n\nThem Crooked Vultures（2009）是唯一录音室 LP——刻意短跑。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "hard-rock"
+      "soundGenre": "hard-rock",
+      "stickyImage": {
+        "src": "/media/bands/them-crooked-vultures-live.jpg",
+        "alt": {
+          "en": "Them Crooked Vultures live",
+          "zh": "Them Crooked Vultures 现场"
+        },
+        "credit": "Timster",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Them_Crooked_Vultures.JPG"
+      }
     },
     {
       "id": "lineup-versions",

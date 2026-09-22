@@ -17,7 +17,8 @@
     {
       "name": "Jarvis Cocker",
       "role": "Vocals, Guitar",
-      "years": "1978–2002"
+      "years": "1978–2002",
+      "personSlug": "jarvis-cocker"
     },
     {
       "name": "Russell Senior",
@@ -260,7 +261,8 @@
       "members": [
         {
           "name": "Jarvis Cocker",
-          "role": "Vocals"
+          "role": "Vocals",
+          "personSlug": "jarvis-cocker"
         },
         {
           "name": "Candida Doyle",

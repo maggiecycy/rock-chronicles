@@ -12,19 +12,19 @@
     "zh": "NWOBHM 疾驰、Thrash 精度、双吉他和声，以及晚期硬摇滚热单。"
   },
   "sound": {
-    "en": "Palm-muted gallop, thrash downpicking, drop-tuned swagger, shred solos",
-    "zh": "闷音疾驰、Thrash 下拨、降调姿态、Shred Solo"
+    "en": "Palm-muted gallop riffs, thrash downpicking, twin-lead harmony, drop-tuned groove later in the decade, shred solos on hard-rock radio",
+    "zh": "闷音疾驰 riff、Thrash 下拨、双主音和声、十年后期降调 groove、硬摇滚电台上的 shred solo"
   },
   "anchorBands": [
-    "metallica",
     "iron-maiden",
+    "judas-priest",
+    "metallica",
+    "slayer",
     "guns-n-roses",
-    "van-halen",
-    "judas-priest"
+    "van-halen"
   ],
   "alsoNotable": [
     "Motörhead",
-    "Slayer",
     "Megadeth",
     "Pantera",
     "AC/DC",
@@ -36,8 +36,8 @@
     "thrash-metal"
   ],
   "body": {
-    "en": "Metal hardens into separate circuits: NWOBHM gallop and twin leads, Bay Area thrash tempo and precision, later groove metal down-tuning. Guns N' Roses lands late-eighties hard rock on MTV before grunge takes US radio.\n\nKept separate from punk so speed-and-attitude and armor-and-technique are not filed as one exit.",
-    "zh": "金属硬化成多条线路：NWOBHM 疾驰与双主音、湾区 Thrash 的速度与精度、后来 Groove Metal 的降调。Guns N' Roses 在 Grunge 占据美国电台之前，把晚期硬摇滚送上 MTV。\n\n与朋克分开，免得「速度+态度」和「铠甲+技巧」被归档成同一条出路。"
+    "en": "NWOBHM (Iron Maiden, Judas Priest’s later 1970s–80s albums) sets palm-muted gallop and twin-lead harmony on UK metal charts and US import racks. Motörhead’s tempo and volume sit next door without the same twin-guitar grammar.\n\nBay Area thrash—Metallica’s Kill ’Em All / Ride the Lightning (1983–84), Slayer’s Reign in Blood (1986)—pushes downpicking speed and shorter song forms onto independent then major labels. Megadeth and others widen the same circuit.\n\nLate decade, Guns N’ Roses (Appetite for Destruction, 1987) and Van Halen’s hard-rock hits hold MTV and US album charts before grunge takes modern-rock radio. Pantera’s early-1990s groove metal arrives at the edge of this window.",
+    "zh": "NWOBHM（Iron Maiden、Judas Priest 1970 年代末至 80 年代专辑）把闷音疾驰与双主音和声送上英国金属榜与美国进口架。Motörhead 的速度与音量在旁，但不共用同一套双吉他语法。\n\n湾区 Thrash——Metallica《Kill ’Em All》《Ride the Lightning》（1983–84）、Slayer《Reign in Blood》（1986）——把下拨速度与更短曲式从独立厂牌推进主流。Megadeth 等扩宽同一线路。\n\n十年末，Guns N’ Roses（《Appetite for Destruction》1987）与 Van Halen 的硬摇滚热单占据 MTV 与美国专辑榜，直到 Grunge 接手现代摇滚电台。Pantera 1990 年代初的 groove metal 落在这一窗口边缘。"
   },
   "navLabel": {
     "en": "Metal",

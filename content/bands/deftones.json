@@ -155,7 +155,17 @@
         "zh": "Around the Fur（1997）把萨克拉门托送上 Ozzfest。White Pony（2000）加入 Delgado 采样与延时重型吉他——Change 与 Digital Bath 跨界 alternative 电台。\n\nCarpenter 七弦 sludge 与 Moreno 假声共处一混音，无 pop 抛光。"
       },
       "stickyVisual": "thesis",
-      "soundGenre": "alternative"
+      "soundGenre": "alternative",
+      "stickyImage": {
+        "src": "/media/bands/deftones-milan-2007.jpg",
+        "alt": {
+          "en": "Deftones live in Milan, 2007",
+          "zh": "Deftones，米兰现场，2007"
+        },
+        "credit": "Daniele Dalledonne",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deftones_-_Milan_2007_-_001.jpg"
+      }
     },
     {
       "id": "lineup",

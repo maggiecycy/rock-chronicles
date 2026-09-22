@@ -18,7 +18,8 @@
     {
       "name": "Jónsi",
       "role": "Vocals, Guitar",
-      "years": "1994–present"
+      "years": "1994–present",
+      "personSlug": "jonsi"
     },
     {
       "name": "Georg Hólmar",
@@ -252,7 +253,8 @@
       "members": [
         {
           "name": "Jónsi",
-          "role": "Vocals, Guitar"
+          "role": "Vocals, Guitar",
+          "personSlug": "jonsi"
         },
         {
           "name": "Georg Hólm",

@@ -1,0 +1,28 @@
+{
+  "name": "Pete Doherty",
+  "slug": "pete-doherty",
+  "born": 1979,
+  "origin": "Hexham, England",
+  "roles": [
+    "Vocals",
+    "Guitar"
+  ],
+  "hub": false,
+  "shortBio": {
+    "en": "Libertines co-frontman; also Babyshambles.",
+    "zh": "Libertines 联合主唱；另有 Babyshambles。"
+  },
+  "body": {
+    "en": "Born 1979, Hexham. Co-lead vocals and guitar in the Libertines. Later Babyshambles and solo records.",
+    "zh": "1979 年生于 Hexham。Libertines 联合主唱与吉他。后有 Babyshambles 与个人唱片。"
+  },
+  "tenures": [
+    {
+      "bandName": "The Libertines",
+      "bandSlug": "the-libertines",
+      "role": "Vocals, Guitar",
+      "from": 1997
+    }
+  ],
+  "relatedPeople": []
+}
